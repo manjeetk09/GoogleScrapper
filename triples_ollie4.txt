@@ -1,0 +1,19 @@
+See this post for all applications of Depth First Traversal.
+No extractions found.
+
+ Following are implementations of simple Depth First Traversal.
+No extractions found.
+
+ The C++ implementation uses adjacency list representation of graphs.
+0.833: (The C++ implementation; uses; adjacency list representation of graphs)
+
+ STL‘s list container is used to store lists of adjacent nodes.
+0.807: (STL 's list container; to store; lists of adjacent nodes)
+
+The C++ implementation uses adjacency list representation of graphs.
+0.833: (The C++ implementation; uses; adjacency list representation of graphs)
+
+ STL‘s list container is used to store lists of adjacent nodes and queue of nodes needed for BFS traversal.
+0.768: (STL 's list container; to store; lists of adjacent nodes)
+0.705: (nodes; be needed for; BFS traversal)
+

@@ -1,0 +1,57 @@
+Breadth First Traversal (or Search) for a graph is similar to Breadth First Traversal of a tree (See method 2 of this post).
+No extractions found.
+
+ The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again.
+0.694: (The only catch; here is may contain cycles unlike; trees)
+0.606: (The only catch; here is may contain; cycles)
+0.571: (we; so may come again to; the same node)
+0.485: (cycles; here is may contain unlike; trees)
+0.392: (graphs; here is may contain; cycles)
+0.318: (graphs; here is may contain cycles unlike; trees)
+
+ To avoid processing a node more than once, we use a boolean visited array.
+0.658: (we; use; a boolean visited array)
+
+ For simplicity, it is assumed that all vertices are reachable from the starting vertex.
+0.869: (all vertices; are reachable from; the starting vertex)
+0.655: (it; is assumed for; simplicity)
+
+ For example, in the following graph, we start traversal from vertex 2.
+0.639: (we; start; traversal)
+0.45: (we; start traversal from vertex in; the following graph)
+0.186: (we; start traversal from vertex for; example)
+
+ When we come to vertex 0, we look for all adjacent vertices of it.
+0.769: (we; look for; all adjacent vertices of it)
+
+ 2 is also an adjacent vertex of 0.
+0.853: (2; is also an adjacent vertex of; 0.)
+0.665: (2; is also; an adjacent vertex of 0.)
+
+ If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process.
+0.501: (it; will will become; a non-terminating process)
+0.059: (we; do n't mark; visited vertices)
+
+ A Breadth First Traversal of the following graph is 2, 0, 3, 1.
+0.634: (Traversal of the following graph; is; 2)
+0.596: (A Breadth; be First Traversal of; the following graph)
+
+Graph traversal means visiting every vertex and edge exactly once in a well-defined order.
+0.46: (Graph traversal; means visiting exactly once in a well-defined order; every vertex and edge)
+
+ While using certain graph algorithms, you must ensure that each vertex of the graph is visited exactly once.
+No extractions found.
+
+ The order in which the vertices are visited are important and may depend upon the algorithm or question that you are solving.
+0.842: (The order in which the vertices are visited; may depend upon; the algorithm or question that you are solving)
+0.735: (the vertices; are visited in; The order)
+
+BFS is a traversing algorithm where you should start traversing from a selected node (source or starting node) and traverse the graph layerwise thus exploring the neighbour nodes (nodes which are directly connected to source node).
+0.766: (you; should start traversing from; a selected node)
+0.604: (BFS; is; a traversing algorithm where you should start traversing from a selected node ( source or starting node ) and traverse the graph layerwise thus exploring the neighbour nodes ( nodes which are directly connected to source node ))
+0.436: (source or starting node; traverse thus exploring; the neighbour nodes)
+0.436: (the graph layerwise; traverse thus exploring; the neighbour nodes)
+
+ You must then move towards the next-level neighbour nodes.
+0.881: (You; must then move towards; the next-level neighbour nodes)
+

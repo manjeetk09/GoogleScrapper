@@ -1,0 +1,12 @@
+1;we;present;two_algorithms;0.739
+1;we;finding;all_vertices_that_are_reachable_from;0.5
+1;we;present_two_algorithms_for_exploring_a_graph_starting_at;one_of_its_vertices;0.492
+1;we;present_two_algorithms_for_exploring_a_graph_in;this_section;0.38
+3;the_underlying_representation;is;an_Adjacency_Lists;0.598
+4;This_algorithm;is_a_generalization_of;the_breadth-first_traversal_algorithm;0.939
+4;This_algorithm;is;a_generalization_of_the_breadth-first_traversal_algorithm;0.804
+6;it;uses;a_queue;0.625
+7;It;then_repeatedly_extracts;an_element;0.767
+8;it;does_not_add;the_same_vertex;0.606
+8;the_algorithm;is_in;one;0.542
+8;one;be_the_breadth-first-search_algorithm_for;graphs;0.539
