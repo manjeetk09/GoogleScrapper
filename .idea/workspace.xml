@@ -1,103 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2dfaf8d-a7ae-4776-9a48-eeee4d48dff8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CombineOllie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/EntityScore.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS0.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie0.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie7.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie9.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/para0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/para1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/para2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/para3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/para4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/para5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/para6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/para7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/para8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/para9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result0.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result7.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result9.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie0.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie3.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie4.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie6.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie7.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie8.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie9.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos0.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urls0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urls1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urls2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urls3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urls4.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urls5.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urls6.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urls7.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urls8.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urls9.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/SimilarityOllie$StringLengthListSort.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/SimilarityOllie$StringLengthListSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/SimilarityOllie.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/SimilarityOllie.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/semantics/Compare.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/semantics/Compare.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/similarity.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/similarity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GoogleSearchJava.java" afterPath="$PROJECT_DIR$/src/GoogleSearchJava.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SimilarityOllie.java" afterPath="$PROJECT_DIR$/src/SimilarityOllie.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/parseOllie.java" afterPath="$PROJECT_DIR$/src/parseOllie.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/semantics/Compare.java" afterPath="$PROJECT_DIR$/src/semantics/Compare.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/similarity.java" afterPath="$PROJECT_DIR$/src/similarity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/temp.java" afterPath="$PROJECT_DIR$/src/temp.java" />
-    </list>
+    <list default="true" id="a2dfaf8d-a7ae-4776-9a48-eeee4d48dff8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -119,7 +23,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="temp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/temp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="274">
@@ -139,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CombineOllie.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CombineOllie.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CombineOllie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3360">
-              <caret line="183" column="25" lean-forward="false" selection-start-line="183" selection-start-column="25" selection-end-line="183" selection-end-column="25" />
+            <state relative-caret-position="334">
+              <caret line="110" column="21" lean-forward="true" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1144#1157#0" expanded="true" />
@@ -243,8 +147,8 @@
         <option value="$PROJECT_DIR$/src/EntityScore.java" />
         <option value="$PROJECT_DIR$/src/temp.java" />
         <option value="$PROJECT_DIR$/src/parseOllie.java" />
-        <option value="$PROJECT_DIR$/src/CombineOllie.java" />
         <option value="$PROJECT_DIR$/src/GoogleSearchJava.java" />
+        <option value="$PROJECT_DIR$/src/CombineOllie.java" />
       </list>
     </option>
   </component>
@@ -773,16 +677,15 @@
       <workItem from="1494970816694" duration="2473000" />
       <workItem from="1495010822178" duration="1091000" />
       <workItem from="1495012495300" duration="369000" />
-      <workItem from="1495020387120" duration="17395000" />
+      <workItem from="1495020387120" duration="17617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30124000" />
+    <option name="totallyTimeSpent" value="30346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1914" height="1056" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -796,7 +699,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.555914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.57419354" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.57419354" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19004282" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
@@ -1171,14 +1074,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/temp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="82" column="23" lean-forward="false" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1189,13 +1084,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CombineOllie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3360">
-          <caret line="183" column="25" lean-forward="false" selection-start-line="183" selection-start-column="25" selection-end-line="183" selection-end-column="25" />
+        <state relative-caret-position="334">
+          <caret line="110" column="21" lean-forward="true" selection-start-line="110" selection-start-column="21" selection-end-line="110" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1144#1157#0" expanded="true" />
             <element signature="e#1515#1528#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="82" column="23" lean-forward="false" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
