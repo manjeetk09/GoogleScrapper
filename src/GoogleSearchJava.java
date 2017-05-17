@@ -89,10 +89,12 @@ public class GoogleSearchJava {
         System.out.println(searchURL);
 
         //for proxy
-        System.setProperty("http.proxyHost", "10.10.78.22");
-        System.setProperty("http.proxyPort", "3128");
-        System.setProperty("https.proxyHost", "10.10.78.22");
-        System.setProperty("https.proxyPort", "3128");
+//        System.setProperty("http.proxyHost", "10.10.78.22");
+//        System.setProperty("http.proxyPort", "3128");
+//        System.setProperty("https.proxyHost", "10.10.78.22");
+//        System.setProperty("https.proxyPort", "3128");
+//        System.setProperty("http.proxyHost", "41.231.120.118"); // set proxy server
+//        System.setProperty("http.proxyPort", "8888");  //set proxy port
 
         Document doc = new Document("");
         try{
@@ -156,6 +158,10 @@ public class GoogleSearchJava {
             {
 
                 //filter span data
+                if(span_data.get(i) == null)
+                {
+                    continue;
+                }
                 String span_temp = span_data.get(i);
                 List<String> span_data_1 = Arrays.asList(span_temp.split("\\.\\.\\."));
 
@@ -170,6 +176,7 @@ public class GoogleSearchJava {
 
                     //doc_1 = Jsoup.connect(link_data.get(i)).userAgent("Mozilla/5.0").get();
                     doc_1 = sendRequest(link_data.get(i));
+                    Thread.sleep(4000);
                 }
                 catch (Exception e){
                     e.printStackTrace();
@@ -209,6 +216,7 @@ public class GoogleSearchJava {
 
                                 for (String lines_itr : lines) {
                                     //System.out.println("Done:: " + lines_itr);
+                                    lines_itr = lines_itr.replaceAll("[^a-zA-Z0-9]"," ");
                                     bw.write(lines_itr);
                                     bw.write(".");
                                     bw.write("\n");

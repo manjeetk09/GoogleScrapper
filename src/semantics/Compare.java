@@ -67,7 +67,7 @@ try{
 
      
         
-	System.out.println("Compare:" + result);
+	//System.out.println("Compare:" + result);
     return result;
 	
 }catch(Exception e){return -1;}

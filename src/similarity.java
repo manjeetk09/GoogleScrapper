@@ -19,7 +19,7 @@ public class similarity
 	    }
 	}
 
-  public void similarityFunc(int temp_index) throws IOException{
+  public void similarityFunc(int temp_index, int num_search) throws IOException{
 
   	BufferedReader br = null;
 	FileReader fr = null;
@@ -36,7 +36,7 @@ public class similarity
 
 	try {
 
-		
+
 		String sCurrentLine;
 
 		ArrayList<String> line_list = new ArrayList<String>();
@@ -79,7 +79,7 @@ public class similarity
 
 		for(int i = 0 ; i < ent_list.size() ; i++ ){
 			for(int j = i+1 ; j < ent_list.size() ; j++ ){
-			
+
 				FileReader fs = new FileReader("urls"+temp_index+".txt");
 
 				BufferedReader br1 = new BufferedReader(fs);
@@ -152,13 +152,13 @@ public class similarity
 							if(ent_list.get(i).length() > ent_list.get(j).length()){
 								int len = ent_list.get(i).length() - ent_list.get(j).length();
 								if( len < ent_list.get(j).length() ){
-									ent_list.set(j,ent_list.get(i));	
+									ent_list.set(j,ent_list.get(i));
 								}
 							}
 							else{
 								int len = ent_list.get(j).length() - ent_list.get(i).length();
 								if( len < ent_list.get(i).length() ){
-									ent_list.set(j,ent_list.get(i));	
+									ent_list.set(j,ent_list.get(i));
 								}
 							}
 							//ent_list.set(i,ent_list.get(j));
@@ -170,7 +170,7 @@ public class similarity
 			}
 		}
 
-		
+
 		/*
 		for(int i = 0 ; i < ent_list.size() ; i++){
 			if(ent_list.get(i).matches(":")){continue;}
@@ -198,8 +198,11 @@ public class similarity
 
 			}
 			else{
-				f.println(url_index.get(i) + ";" + ent_list.get(i) + ";" + doc_freq.get(i));
-				
+				double fre = Double.parseDouble(doc_freq.get(i));
+				double num_s = num_search;
+				double idf = Math.log(num_s / fre);
+				f.println(url_index.get(i) + ";" + ent_list.get(i) + ";" + idf);
+
 			}
 		}
 

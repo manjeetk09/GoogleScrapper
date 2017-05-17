@@ -31,12 +31,13 @@ public class parseOllie
                         entity1 = entity1.replaceAll(",", "");
                         entity1 = entity1.replaceAll("\\s+", "_");
 
+
                         line = line.substring(b+2);
                         String relation = line.substring(0, line.indexOf(';'));
                         relation = relation.replaceAll(",", "");
                         relation = relation.replaceAll("\\s+", "_");
 
-                        String entity2 = line.substring(line.indexOf(';')+2, line.length()-1);
+                        String entity2 = line.substring(line.indexOf(';')+2, line.indexOf(")"));
                         entity2 = entity2.replaceAll(",", "");
                         entity2 = entity2.replaceAll("\\s+", "_");
 

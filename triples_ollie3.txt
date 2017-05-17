@@ -1,37 +1,406 @@
-Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree.
+Supervised learning is the machine learning task of inferring a function from labeled training data.
+0.711: (a function; be inferring from; labeled training data)
+0.704: (Supervised learning; is; the machine)
+
+ The training data consist of a set of training examples.
+0.892: (The training data; consist of; a set of training examples)
+
+ In supervised learning  each example is a pair consisting of an input object  typically a vector  and a desired output value  also called the supervisory signal .
+0.806: (a vector and a desired output value; also called; the supervisory signal)
+0.792: (a pair; consisting of; an input object typically a vector and a desired output value also called the supervisory signal)
+0.752: (each example; is; a pair consisting of an input object)
+0.746: (each example; is a pair in; supervised learning)
+
+ A supervised learning algorithm analyzes the training data and produces an inferred function  which can be used for mapping new examples.
+0.812: (A supervised learning algorithm analyzes; produces; an inferred function which can be used for mapping new examples)
+
+ An optimal scenario will allow for the algorithm to correctly determine the class labels for unseen instances.
+0.861: (An optimal scenario; will allow for; the algorithm)
+0.788: (An optimal scenario; to correctly determine; the class labels)
+0.693: (An optimal scenario; will allow to correctly determine; the class labels)
+
+ This requires the learning algorithm to generalize from the training data to unseen situations in a  reasonable  way  see inductive bias .
+0.854: (the learning algorithm; to generalize from; the training data)
+0.82: (the learning algorithm; to generalize to; unseen situations)
+0.756: (the learning algorithm; to generalize in; a reasonable way)
+
+The parallel task in human and animal psychology is often referred to as concept learning.
+0.898: (The parallel task; is often referred as; concept learning)
+
+.
 No extractions found.
 
- The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again.
-0.694: (The only catch; here is may contain cycles unlike; trees)
-0.606: (The only catch; here is may contain; cycles)
-0.571: (we; so may come again to; the same node)
-0.485: (cycles; here is may contain unlike; trees)
-0.392: (graphs; here is may contain; cycles)
-0.318: (graphs; here is may contain cycles unlike; trees)
+.
+No extractions found.
 
- To avoid processing a node more than once, we use a boolean visited array.
-0.658: (we; use; a boolean visited array)
+In order to solve a given problem of supervised learning  one has to perform the following steps .
+No extractions found.
 
- For example, in the following graph, we start traversal from vertex 2.
-0.639: (we; start; traversal)
-0.45: (we; start traversal from vertex in; the following graph)
-0.186: (we; start traversal from vertex for; example)
+A wide range of supervised learning algorithms are available  each with its strengths and weaknesses.
+0.492: (available; be A wide range of; supervised learning algorithms)
 
- When we come to vertex 0, we look for all adjacent vertices of it.
-0.769: (we; look for; all adjacent vertices of it)
+ There is no single learning algorithm that works best on all supervised learning problems  see the No free lunch theorem .
+0.756: (no single learning algorithm that works best on all supervised learning problems; see; the No free lunch theorem)
+0.736: (no single learning algorithm; works on; all supervised learning problems)
 
- 2 is also an adjacent vertex of 0.
-0.853: (2; is also an adjacent vertex of; 0.)
-0.665: (2; is also; an adjacent vertex of 0.)
+There are four major issues to consider in supervised learning .
+0.834: (four major issues; to consider in; supervised learning)
 
- If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process.
-0.501: (it; will will become; a non-terminating process)
-0.059: (we; do n't mark; visited vertices)
+A first issue is the tradeoff between bias and variance.
+0.916: (A first issue; is the tradeoff between; bias and variance)
+0.746: (A first issue; is; the tradeoff)
 
- A Depth First Traversal of the following graph is 2, 0, 1, 3.
-0.662: (A Depth First Traversal of the following graph; is; 2)
+ Imagine that we have available several different  but equally good  training data sets.
+0.603: (we; have; available several different but equally good training data sets)
 
-Depth First Search (DFS) algorithm traverses a graph in a depthward motion and uses a stack to remember to get the next vertex to start a search, when a dead end occurs in any iteration.
-0.847: (a dead end; occurs in; any iteration)
-0.729: (the next vertex; to start; a search)[enabler=when a dead end occurs in any iteration]
+ A learning algorithm is biased for a particular input x   displaystyle x  if  when trained on each of these data sets  it is systematically incorrect when predicting the correct output for x   displaystyle x  .
+0.929: (A learning algorithm; is biased for; a particular input x displaystyle x)[enabler=if when trained on each of these data sets it is systematically incorrect when predicting the correct output for x displaystyle x]
+0.597: (it; is systematically; incorrect)
+
+ A learning algorithm has high variance for a particular input x   displaystyle x  if it predicts different output values when trained on different training sets.
+0.872: (A learning algorithm; has high variance for; a particular input x displaystyle x)[enabler=if it predicts different output values when trained on different training sets]
+0.768: (A learning algorithm; has; high variance)[enabler=if it predicts different output values when trained on different training sets]
+0.083: (it; predicts; different output values)[enabler=when trained on different training sets]
+
+ The prediction error of a learned classifier is related to the sum of the bias and the variance of the learning algorithm.
+0.926: (The prediction error of a learned classifier; is related to; the sum of the bias)
+
+ Generally  there is a tradeoff between bias and variance.
+No extractions found.
+
+ A learning algorithm with low bias must be  flexible  so that it can fit the data well.
+0.736: (A learning algorithm; must be; flexible)
+0.476: (flexible; be A learning algorithm with; low bias)
+0.36: (it; can fit well; the data)
+
+ But if the learning algorithm is too flexible  it will fit each training data set differently  and hence have high variance.
+0.709: (it; will fit; each training data set differently and hence have high variance)
+0.115: (the learning algorithm; is too; flexible)
+
+ A key aspect of many supervised learning methods is that they are able to adjust this tradeoff between bias and variance  either automatically or by providing a bias variance parameter that the user can adjust .
+0.695: (they; to adjust; this tradeoff)
+
+The second issue is the amount of training data available relative to the complexity of the  true  function  classifier or regression function .
+0.802: (The second issue; is; the amount training data available relative to the complexity of the true function classifier or regression function)
+
+ If the true function is simple  then an  inflexible  learning algorithm with high bias and low variance will be able to learn it from a small amount of data.
+0.778: (an inflexible learning algorithm; will be; able)
+0.712: (an inflexible learning algorithm; to learn; it)
+0.677: (it; to be learn from; a small amount of data)
+0.272: (able; be an inflexible learning algorithm with; high bias and low variance)
+0.065: (the true function; is then; simple)
+
+ But if the true function is highly complex  e.
+0.115: (the true function; is; complex e)
+
+g.
+No extractions found.
+
+  because it involves complex interactions among many different input features and behaves differently in different parts of the input space   then the function will only be learnable from a very large amount of training data and using a  flexible  learning algorithm with low bias and high variance.
+0.837: (the function; will only be learnable from; a very large amount of training data)
+0.778: (the function; will only be; learnable)
+0.63: (it; involves complex interactions among; many different input features)
+0.605: (it; involves; complex interactions)
+0.56: (it; behaves differently then in; different parts of the input space)
+0.425: (the function; will using a flexible learning algorithm with; low bias and high variance)
+0.419: (a flexible learning algorithm; will be using with; low bias and high variance)
+0.364: (the function; will using; a flexible learning algorithm)
+0.256: (different; be parts of; the input space)
+
+A third issue is the dimensionality of the input space.
+0.93: (A third issue; is the dimensionality of; the input space)
+0.778: (A third issue; is; the dimensionality of the input space)
+
+ If the input feature vectors have very high dimension  the learning problem can be difficult even if the true function only depends on a small number of those features.
+0.756: (difficult; even only depends on; a small number of those features)
+0.705: (the learning problem; can be; difficult)
+0.144: (the true function; even only depends on; a small number of those features)
+0.091: (the input feature vectors; have; high dimension)
+
+ This is because the many  extra  dimensions can confuse the learning algorithm and cause it to have high variance.
+0.627: (the many extra dimensions; can confuse; the learning algorithm)
+0.612: (it; to have; high variance)
+
+ Hence  high input dimensionality typically requires tuning the classifier to have low variance and high bias.
+0.647: (high input dimensionality; Hence typically requires tuning; the classifier)
+
+ In practice  if the engineer can manually remove irrelevant features from the input data  this is likely to improve the accuracy of the learned function.
+0.658: (irrelevant features; can be manually remove from; the input data)
+0.178: (the engineer; can manually remove irrelevant features from; the input data)
+0.177: (the engineer; can manually remove; irrelevant features)
+
+ In addition  there are many algorithms for feature selection that seek to identify the relevant features and discard the irrelevant ones.
+No extractions found.
+
+ This is an instance of the more general strategy of dimensionality reduction  which seeks to map the input data into a lower dimensional space prior to running the supervised learning algorithm.
+No extractions found.
+
+A fourth issue is the degree of noise in the desired output values  the supervisory target variables .
+0.939: (A fourth issue; is the degree of; noise)
+0.804: (A fourth issue; is; the degree of noise)
+
+ If the desired output values are often incorrect  because of human error or sensor errors   then the learning algorithm should not attempt to find a function that exactly matches the training examples.
+0.845: (the learning algorithm; should not attempt to find; a function that exactly matches the training examples)
+0.828: (the learning algorithm; to find; a function that exactly matches the training examples)
+0.655: (the training examples; be exactly matches by; a function)
+0.367: (the desired output values; are often incorrect because of; human error or sensor errors then the learning algorithm should not attempt to find a function)
+
+ Attempting to fit the data too carefully leads to overfitting.
+No extractions found.
+
+ You can overfit even when there are no measurement errors  stochastic noise  if the function you are trying to learn is too complex for your learning model.
+0.168: (the function you are trying to learn; is too complex for; your learning model)
+0.166: (the function you are trying to learn; is too; complex)
+
+ In such a situation that part of the target function that cannot be modeled  corrupts  your training data   this phenomenon has been called deterministic noise.
+0.759: (this phenomenon; has been called; deterministic noise)
+
+ When either type of noise is present  it is better to go with a higher bias  lower variance estimator.
+0.653: (either type of noise; is; present)
+0.399: (present; be either type of; noise)
+
+In practice  there are several approaches to alleviate noise in the output values such as early stopping to prevent overfitting as well as detecting and removing the noisy training examples prior to training the supervised learning algorithm.
+0.569: (several approaches to alleviate noise in the output values such as early stopping to prevent overfitting as well as detecting and removing the noisy training examples prior to training the supervised learning algorithm; there are in; practice)
+
+ There are several algorithms that identify noisy training examples and removing the suspected noisy training examples prior to training has decreased generalization error with statistical significance.
+No extractions found.
+
+Other factors to consider when choosing and applying a learning algorithm include the following .
+No extractions found.
+
+When considering a new application  the engineer can compare multiple learning algorithms and experimentally determine which one works best on the problem at hand  see cross validation .
+0.779: (which one; works on; the problem)
+0.729: (the engineer; can compare; multiple learning algorithms)
+0.701: (which one; works at; hand)
+0.561: (which one; works see; cross validation)
+
+ Tuning the performance of a learning algorithm can be very time consuming.
+No extractions found.
+
+ Given fixed resources  it is often better to spend more time collecting additional training data and more informative features than it is to spend extra time tuning the learning algorithms.
+0.569: (it; is to spend; extra time)
+
+The most widely used learning algorithms are Support Vector Machines  linear regression  logistic regression  naive Bayes  linear discriminant analysis  decision trees  k nearest neighbor algorithm  and Neural Networks  Multilayer perceptron .
+0.71: (naive Bayes linear discriminant analysis decision trees; k; nearest neighbor algorithm and Neural Networks Multilayer perceptron)
+
+Given a set of N   displaystyle N  training examples of the form     x 1   y 1     .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+     x N   y N       displaystyle    x  1  y  1   .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+  x  N    y  N      such that x i   displaystyle x  i   is the feature vector of the i th example and y i   displaystyle y  i   is its label  i.
+0.631: (such that x i displaystyle x i is the feature vector of the; is; its label i)
+
+e.
+No extractions found.
+
+  class   a learning algorithm seeks a function g   X   Y   displaystyle g X to Y    where X   displaystyle X  is the input space and Y   displaystyle Y  is the output space.
+0.729: (a learning algorithm; seeks; a function g X Y displaystyle)
+0.639: (X displaystyle X; is; the input space and Y displaystyle)
+0.639: (a function g X Y displaystyle; g X to; Y where X displaystyle X is the input space and Y displaystyle Y is the output space)
+0.474: (X; be g to; Y where X displaystyle X is the input space and Y displaystyle Y is the output space)
+0.228: (a learning algorithm; seeks a function g X Y displaystyle g X to Y where X displaystyle X is the input space and Y displaystyle Y is the output space in; class)
+
+ The function g   displaystyle g  is an element of some space of possible functions G   displaystyle G    usually called the hypothesis space.
+0.936: (The function g displaystyle g; is an element of; some space of possible functions)
+0.796: (G displaystyle G; usually called; the hypothesis space)
+0.736: (The function g displaystyle g; is; an element of some space of possible functions)
+
+ It is sometimes convenient to represent g   displaystyle g  using a scoring function f   X   Y   R   displaystyle f X times Y to   mathbb  R    such that g   displaystyle g  is defined as returning the y   displaystyle y  value that gives the highest score  g   x     arg   max y f   x   y     displaystyle g x   arg  max   y   f x y   .
+0.698: (It; is sometimes; convenient)
+0.564: (the highest score g x arg max y f x y displaystyle g x arg max y f x y; be gives by; the y displaystyle y value)
+
+ Let F   displaystyle F  denote the space of scoring functions.
+0.656: (F; displaystyle; F)
+
+Although G   displaystyle G  and F   displaystyle F  can be any space of functions  many learning algorithms are probabilistic models where g   displaystyle g  takes the form of a conditional probability model g   x     P   y   x     displaystyle g x  P y x     or f   displaystyle f  takes the form of a joint probability model f   x   y     P   x   y     displaystyle f x y  P x y   .
+0.854: (G displaystyle G and F displaystyle F; can be any space of; functions)
+0.725: (g displaystyle g; takes; the form of a conditional probability model)
+0.661: (G displaystyle G and F displaystyle F; can be; any space of functions)
+0.491: (the form of a conditional probability model; be takes by; probabilistic models)
+
+ For example  naive Bayes and linear discriminant analysis are joint probability models  whereas logistic regression is a conditional probability model.
+0.704: (joint probability models; is; a conditional probability model)
+0.272: (a conditional probability model; be joint probability models whereas; logistic regression)
+
+There are two basic approaches to choosing f   displaystyle f  or g   displaystyle g    empirical risk minimization and structural risk minimization.
+No extractions found.
+
+ Empirical risk minimization seeks the function that best fits the training data.
+0.807: (Empirical risk minimization; seeks; the function)
+0.427: (best; fits; the training data)
+
+ Structural risk minimize includes a penalty function that controls the bias variance tradeoff.
+0.564: (the bias variance tradeoff; be controls by; a penalty function)
+
+In both cases  it is assumed that the training set consists of a sample of independent and identically distributed pairs    x i   y i     displaystyle  x  i    y  i    .
+0.888: (the training set; consists of; a sample of independent and identically distributed pairs x)
+0.655: (it; is assumed in; both cases)
+
+ In order to measure how well a function fits the training data  a loss function L   Y   Y   R   0   displaystyle L Y times Y to   mathbb  R     geq 0   is defined.
+0.752: (a function; fits; the training data a loss function L Y Y R 0 displaystyle L Y times Y to mathbb R geq 0 is defined)
+0.366: (a loss function L Y Y R 0 displaystyle L Y times; is defined in; the training data)
+
+ For training example   x i   y i     displaystyle  x  i    y  i      the loss of predicting the value y     displaystyle   hat  y    is L   y i   y       displaystyle L y  i    hat  y     .
+0.876: (displaystyle hat y; is L y i; y displaystyle L y i hat y)
+0.718: (displaystyle hat y; is; L y)
+
+The risk R   g     displaystyle R g   of function g   displaystyle g  is defined as the expected loss of g   displaystyle g  .
+0.92: (g displaystyle R g of function g displaystyle g; is defined as; the expected loss g displaystyle g)
+0.64: (g displaystyle R g of function g displaystyle g; is defined in; The risk R)
+
+ This can be estimated from the training data as.
+No extractions found.
+
+In empirical risk minimization  the supervised learning algorithm seeks the function g   displaystyle g  that minimizes R   g     displaystyle R g   .
+0.796: (the supervised learning algorithm; seeks; the function g displaystyle g that minimizes R g displaystyle R g)
+0.242: (the supervised learning algorithm; seeks the function g displaystyle g that minimizes R g displaystyle R g in; empirical risk minimization)
+
+ Hence  a supervised learning algorithm can be constructed by applying an optimization algorithm to find g   displaystyle g  .
+No extractions found.
+
+When g   displaystyle g  is a conditional probability distribution P   y   x     displaystyle P y x   and the loss function is the negative log likelihood  L   y   y         log   P   y   x     displaystyle L y   hat  y      log P y x     then empirical risk minimization is equivalent to maximum likelihood estimation.
+0.823: (empirical risk minimization; is equivalent to; maximum likelihood estimation)
+0.735: (empirical risk minimization; is; equivalent)
+0.653: (a conditional probability distribution P y x displaystyle P y x and the loss function; is; the negative log likelihood L y y)
+
+When G   displaystyle G  contains many candidate functions or the training set is not sufficiently large  empirical risk minimization leads to high variance and poor generalization.
+0.792: (large empirical risk minimization; is not sufficiently large empirical risk minimization leads to; high variance and poor generalization)
+0.792: (the training set; is not sufficiently large empirical risk minimization leads to; high variance and poor generalization)
+0.716: (G displaystyle G; contains; many candidate functions)
+
+ The learning algorithm is able to memorize the training examples without generalizing well.
+0.788: (The learning algorithm; to memorize; the training examples)
+0.746: (The learning algorithm; is; able)
+
+ This is called overfitting.
+No extractions found.
+
+Structural risk minimization seeks to prevent overfitting by incorporating a regularization penalty into the optimization.
+0.807: (Structural risk minimization; seeks to prevent; overfitting)
+0.674: (a regularization penalty; be incorporating into; the optimization)
+
+ The regularization penalty can be viewed as implementing a form of Occam s razor that prefers simpler functions over more complex ones.
+0.772: (razor; prefers simpler functions over; complex ones)
+0.476: (simpler functions; be prefers by; razor)
+
+A wide variety of penalties have been employed that correspond to different definitions of complexity.
+0.852: (A wide variety of penalties; have been employed that; correspond)
+
+ For example  consider the case where the function g   displaystyle g  is a linear function of the form.
+0.926: (the function g displaystyle g; is a linear function of; the form)
+0.768: (the function g displaystyle g; is; a linear function of the form)
+
+A popular regularization penalty is   j   j 2   displaystyle  sum   j  beta   j   2     which is the squared Euclidean norm of the weights  also known as the L 2   displaystyle L  2   norm.
+0.9: (2 displaystyle sum j beta j 2; is the squared Euclidean norm of; the weights also known as the L 2 displaystyle L 2 norm)
+0.655: (the weights; be also known as; the L 2 displaystyle)
+
+ Other norms include the L 1   displaystyle L  1   norm    j     j     displaystyle  sum   j   beta   j      and the L 0   displaystyle L  0   norm  which is the number of non zero   j   displaystyle  beta   j   s.
+0.723: (Other norms; include; the L 1 displaystyle)
+
+ The penalty will be denoted by C   g     displaystyle C g   .
+0.925: (The penalty; will be denoted by; C g displaystyle C g)
+
+The supervised learning optimization problem is to find the function g   displaystyle g  that minimizes.
+0.74: (The supervised learning optimization problem; is to find; the function)
+
+The parameter     displaystyle  lambda   controls the bias variance tradeoff.
+0.782: (The parameter displaystyle lambda; controls; the bias variance tradeoff)
+
+ When     0   displaystyle  lambda  0    this gives empirical risk minimization with low bias and high variance.
+0.819: (0 displaystyle lambda 0; gives empirical risk minimization with; low bias and high variance)
+0.564: (empirical risk minimization; be gives by; 0 displaystyle lambda 0)
+
+ When     displaystyle  lambda   is large  the learning algorithm will have high bias and low variance.
+0.773: (the learning algorithm; will have; high bias and low variance)
+0.653: (displaystyle lambda; is; large)
+
+ The value of     displaystyle  lambda   can be chosen empirically via cross validation.
+0.919: (The value of displaystyle lambda; can be chosen empirically via; cross validation)
+
+The complexity penalty has a Bayesian interpretation as the negative log prior probability of g   displaystyle g      log   P   g     displaystyle   log P g     in which case J   g     displaystyle J g   is the posterior probabability of g   displaystyle g  .
+0.872: (The complexity penalty; has a Bayesian interpretation as; the negative log prior probability)
+0.677: (The complexity penalty; has a Bayesian interpretation; the posterior probabability g displaystyle g)
+0.522: (The complexity penalty; has is the posterior probabability of g displaystyle g as; the negative log prior probability)
+0.401: (The complexity penalty; has is the posterior probabability of g displaystyle g; a Bayesian interpretation)
+
+The training methods described above are discriminative training methods  because they seek to find a function g   displaystyle g  that discriminates well between the different output values  see discriminative model .
+0.712: (they; seek to find; a function g displaystyle g)
+0.659: (the different output values; see; discriminative model)
+
+ For the special case where f   x   y     P   x   y     displaystyle f x y  P x y   is a joint probability distribution and the loss function is the negative log likelihood     i log   P   x i   y i       displaystyle   sum   i  log P x  i  y  i     a risk minimization algorithm is said to perform generative training  because f   displaystyle f  can be regarded as a generative model that explains how the data were generated.
+0.878: (f displaystyle f; can be regarded as; a generative model that explains how the data were generated)
+0.585: (f x y P x y displaystyle f x y P x y; is; a joint probability distribution and the loss function)
+0.497: (the negative log likelihood; log; P x)
+
+ Generative training algorithms are often simpler and more computationally efficient than discriminative training algorithms.
+0.597: (Generative training algorithms; be computationally efficient than; discriminative training algorithms)
+
+ In some cases  the solution can be computed in closed form as in naive Bayes and linear discriminant analysis.
+0.925: (the solution; can be computed in; closed form)
+0.797: (the solution; can be computed in; some cases)
+
+There are several ways in which the standard supervised learning problem can be generalized .
+0.655: (the standard supervised learning problem; can be generalized in; several ways)
+
+Supervised learning is the machine learning task of inferring a function from labeled training data.
+0.711: (a function; be inferring from; labeled training data)
+0.704: (Supervised learning; is; the machine)
+
+ The training data consist of a set of training examples.
+0.892: (The training data; consist of; a set of training examples)
+
+ In supervised learning  each example is a pair consisting of an input object  typically a vector  and a desired output value  also called the supervisory signal .
+0.806: (a vector and a desired output value; also called; the supervisory signal)
+0.792: (a pair; consisting of; an input object typically a vector and a desired output value also called the supervisory signal)
+0.752: (each example; is; a pair consisting of an input object)
+0.746: (each example; is a pair in; supervised learning)
+
+ A supervised learning algorithm analyzes the training data and produces an inferred function  which can be used for mapping new examples.
+0.812: (A supervised learning algorithm analyzes; produces; an inferred function which can be used for mapping new examples)
+
+ An optimal scenario will allow for the algorithm to correctly determine the class labels for unseen instances.
+0.861: (An optimal scenario; will allow for; the algorithm)
+0.788: (An optimal scenario; to correctly determine; the class labels)
+0.693: (An optimal scenario; will allow to correctly determine; the class labels)
+
+ This requires the learning algorithm to generalize from the training data to unseen situations in a  reasonable  way  see inductive bias .
+0.854: (the learning algorithm; to generalize from; the training data)
+0.82: (the learning algorithm; to generalize to; unseen situations)
+0.756: (the learning algorithm; to generalize in; a reasonable way)
+
+Some popular examples of supervised machine learning algorithms are .
+No extractions found.
+
+Supervised learning is a type of machine learning algorithm that uses a known dataset  called the training dataset  to make predictions.
+0.935: (Supervised learning; is a type of; machine learning algorithm that uses a known dataset)
+0.894: (a type of machine learning algorithm; called; the training dataset to make predictions)
+0.768: (Supervised learning; is; a type of machine learning algorithm)
+0.62: (a known dataset; be uses by; machine learning algorithm)
+
+ The training dataset includes input data and response values.
+0.782: (The training dataset; includes; input data and response values)
+
+ From it  the supervised learning algorithm seeks to build a model that can make predictions of the response values for a new dataset.
+0.803: (the supervised learning algorithm; seeks to build; a model that can make predictions of the response values for a new dataset)
+0.708: (predictions of the response values; can be make for; a new dataset)
+
+ A test dataset is often used to validate the model.
+0.761: (A test dataset; to validate; the model)
+
+ Using larger training datasets often yield models with higher predictive power that can generalize well for new datasets.
+0.762: (larger training datasets; often yield; models)
 

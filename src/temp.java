@@ -19,11 +19,16 @@ public class temp
 
     public static void main (String args[]) throws IOException
     {
+        //number of templates
+        int temp_num = 0;
+
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the search term.");
         String searchTerm = scanner.nextLine();
         System.out.println("Please enter the head phrase.");
         String phrase = scanner.nextLine();
+        System.out.println("Please enter the number of searches.");
+        int search = scanner.nextInt();
         JSONObject obj = new JSONObject();
         String searchURL = GOOGLE_SEARCH_URL +searchTerm;
         //System.out.println(searchURL);
@@ -50,6 +55,7 @@ public class temp
             answer = answer.substring(answer.indexOf("[")+1);
             //System.out.println(answer);
             String []templates = answer.split(",");
+            temp_num = templates.length;
             //System.out.println(templates.length);
             for(int i=0;i<templates.length - 1;i++)
             {
@@ -72,7 +78,7 @@ public class temp
             //String temp_1 = "" + i;
             //templates_final.set(i,temp_1);
             GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-            googleSearchJava.googleSearch(templates_final.get(i), 2, i);
+            googleSearchJava.googleSearch(templates_final.get(i), search, i);
 
             //via Ollie
             parseOllie parseollie = new parseOllie();
@@ -80,17 +86,20 @@ public class temp
             relationSim relationsim = new relationSim();
             relationsim.relationSimilarity(i, phrase);
             SimilarityOllie similarityOllie = new SimilarityOllie();
-            similarityOllie.similarityollie(i);
+            similarityOllie.similarityollie(i, search);
+            System.out.println("i is:: " + i);
 
             //via POSTagger
-            TriplePOS triplepos = new TriplePOS();
-            triplepos.triplePOS(i);
-            parsePOS parsepos = new parsePOS();
-            parsepos.parseFunc(i);
-            similarity sim = new similarity();
-            sim.similarityFunc(i);
+//            TriplePOS triplepos = new TriplePOS();
+//            triplepos.triplePOS(i);
+//            parsePOS parsepos = new parsePOS();
+//            parsepos.parseFunc(i);
+//            similarity sim = new similarity();
+//            sim.similarityFunc(i, search);
         }
 
+        CombineOllie combineOllie = new CombineOllie();
+        combineOllie.combineOllieFunc(temp_num);
 
 
     }

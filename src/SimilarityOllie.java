@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import semantics.Compare;
 import java.util.Comparator;
 import java.util.*;
+import java.lang.*;
 
 public class SimilarityOllie
 {
@@ -19,7 +20,7 @@ public class SimilarityOllie
         }
     }
 
-    public void similarityollie(int temp_index) throws IOException{
+    public void similarityollie(int temp_index, int num_search) throws IOException{
 
         BufferedReader br = null;
         FileReader fr = null;
@@ -123,41 +124,42 @@ public class SimilarityOllie
                         if(line1!=null && line2!=null && line1.matches(line2))
                         {
                             ent_list.set(j,":");
-						/*
-						if(Double.parseDouble(conf_list.get(i)) < Double.parseDouble(conf_list.get(j)))
-						{
-							conf_list.set(i, conf_list.get(j));
-						}
-						if(Double.parseDouble(relation_list.get(i)) < Double.parseDouble(relation_list.get(j)))
-						{
-							relation_list.set(i, relation_list.get(j));
-						}*/
+
+
+                            if(Double.parseDouble(conf_list.get(i)) < Double.parseDouble(conf_list.get(j)))
+                            {
+                                conf_list.set(i, conf_list.get(j));
+                            }
+                            if(Double.parseDouble(relation_list.get(i)) < Double.parseDouble(relation_list.get(j)))
+                            {
+                                relation_list.set(i, relation_list.get(j));
+                            }
                         }
                         else
                         {
                             doc_freq.set(j,Integer.toString(Integer.parseInt(doc_freq.get(j)) + 1));
                             ent_list.set(j,":");
-						/*
-						if(conf_list.get(i) < conf_list.get(j))
-						{
-							conf_list.set(i, conf_list.get(j));
-						}
-						if(relation_list.get(i) < relation_list.get(j))
-						{
-							relation_list.set(i, relation_list.get(j));
-						}
-						*/
+
+                            if(Double.parseDouble(conf_list.get(i)) < Double.parseDouble(conf_list.get(j)))
+                            {
+                                conf_list.set(i, conf_list.get(j));
+                            }
+                            if(Double.parseDouble(relation_list.get(i)) < Double.parseDouble(relation_list.get(j)))
+                            {
+                                relation_list.set(i, relation_list.get(j));
+                            }
+
 						/*
 						if(ent_list.get(i).length() > ent_list.get(j).length()){
 							int len = ent_list.get(i).length() - ent_list.get(j).length();
 							if( len < ent_list.get(j).length() ){
-								ent_list.set(j,ent_list.get(i));	
+								ent_list.set(j,ent_list.get(i));
 							}
 						}
 						else{
 							int len = ent_list.get(j).length() - ent_list.get(i).length();
 							if( len < ent_list.get(i).length() ){
-								ent_list.set(j,ent_list.get(i));	
+								ent_list.set(j,ent_list.get(i));
 							}
 						}
 						*/
@@ -188,6 +190,13 @@ public class SimilarityOllie
                                     int val1 = Integer.parseInt(doc_freq.get(j)) + 1;
                                     doc_freq.set(j,Integer.toString(val1));
 
+                                    double conf_temp = Double.parseDouble(conf_list.get(i)) + Double.parseDouble(conf_list.get(j));
+                                    conf_list.set(i,Double.toString(conf_temp));
+                                    conf_list.set(j,Double.toString(conf_temp));
+
+                                    double relation_temp = Double.parseDouble(relation_list.get(i)) + Double.parseDouble(relation_list.get(j));
+                                    relation_list.set(i,Double.toString(relation_temp));
+                                    relation_list.set(j,Double.toString(relation_temp));
                                 }
                             }
                             else{
@@ -198,8 +207,17 @@ public class SimilarityOllie
                                     doc_freq.set(i,Integer.toString(val));
                                     int val1 = Integer.parseInt(doc_freq.get(j)) + 1;
                                     doc_freq.set(j,Integer.toString(val1));
+
+                                    double conf_temp = Double.parseDouble(conf_list.get(i)) + Double.parseDouble(conf_list.get(j));
+                                    conf_list.set(i,Double.toString(conf_temp));
+                                    conf_list.set(j,Double.toString(conf_temp));
+
+                                    double relation_temp = Double.parseDouble(relation_list.get(i)) + Double.parseDouble(relation_list.get(j));
+                                    relation_list.set(i,Double.toString(relation_temp));
+                                    relation_list.set(j,Double.toString(relation_temp));
                                 }
                             }
+
 
 
                         }
@@ -236,7 +254,13 @@ public class SimilarityOllie
 
                 }
                 else{
-                    f.println(url_index.get(i) + ";" + ent_list.get(i) + ";" + conf_list.get(i) + ";" + relation_list.get(i) + ";" + doc_freq.get(i));
+                    double fre = Double.parseDouble(doc_freq.get(i));
+                    double num_s = num_search;
+                    double idf = Math.log(num_s / fre);
+                    double confidence_score = Double.parseDouble(conf_list.get(i));
+                    double relation_score = Double.parseDouble(relation_list.get(i));
+                    double final_score = idf + confidence_score + (0.5*relation_score);
+                    f.println(url_index.get(i) + ";" + ent_list.get(i) + ";" + conf_list.get(i) + ";" + relation_list.get(i) + ";" + idf + ";" + final_score);
 
                 }
             }
