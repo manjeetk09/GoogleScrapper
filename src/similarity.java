@@ -54,15 +54,17 @@ public class similarity
 
 			line_list.add(sCurrentLine);
 			//System.out.println(sCurrentLine);
-			for (int i = 0; i < line_list.size(); i++) {
-				List<String> temp_pair = Arrays.asList(line_list.get(i).split(";"));
-				if (temp_pair.size() == 2) {
-					ent_list.add(temp_pair.get(1));
-					url_index.add(temp_pair.get(0));
-					//conf_list.add(temp_pair.get(2));
-					//relation_list.add(temp_pair.get(3));
-					index++;
-				}
+
+		}
+
+		for (int i = 0; i < line_list.size(); i++) {
+			List<String> temp_pair = Arrays.asList(line_list.get(i).split(";"));
+			if (temp_pair.size() == 2) {
+				ent_list.add(temp_pair.get(1));
+				url_index.add(temp_pair.get(0));
+				//conf_list.add(temp_pair.get(2));
+				//relation_list.add(temp_pair.get(3));
+				index++;
 			}
 		}
 
@@ -76,9 +78,10 @@ public class similarity
 		for(int i = 0 ; i < ent_list.size() ; i++){
 			doc_freq.add(i,"1");
 		}
-
+		System.out.println("similarity POS started");
 		for(int i = 0 ; i < ent_list.size() ; i++ ){
 			for(int j = i+1 ; j < ent_list.size() ; j++ ){
+				//System.out.println("i is:: " + i + " j is:: " + j);
 
 				FileReader fs = new FileReader("urls"+temp_index+".txt");
 
@@ -171,6 +174,7 @@ public class similarity
 		}
 
 
+		System.out.println("similarity POS mid");
 		/*
 		for(int i = 0 ; i < ent_list.size() ; i++){
 			if(ent_list.get(i).matches(":")){continue;}

@@ -90,16 +90,21 @@ public class temp
             System.out.println("i is:: " + i);
 
             //via POSTagger
-//            TriplePOS triplepos = new TriplePOS();
-//            triplepos.triplePOS(i);
-//            parsePOS parsepos = new parsePOS();
-//            parsepos.parseFunc(i);
-//            similarity sim = new similarity();
-//            sim.similarityFunc(i, search);
+            TriplePOS triplepos = new TriplePOS();
+            triplepos.triplePOS(i);
+            //System.out.println("triples created");
+            parsePOS parsepos = new parsePOS();
+            parsepos.parseFunc(i);
+            similarity sim = new similarity();
+            sim.similarityFunc(i, search);
+            //System.out.println("similarity ended");
+
         }
 
-        CombineOllie combineOllie = new CombineOllie();
-        combineOllie.combineOllieFunc(temp_num);
+        //CombineOllie combineOllie = new CombineOllie();
+        //combineOllie.combineOllieFunc(temp_num);
+        CombinePOS combinePOS = new CombinePOS();
+        combinePOS.combinePOSFunc(temp_num);
 
 
     }

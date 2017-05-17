@@ -99,18 +99,18 @@ public class CombineOllie
             //taking the top 20 results and storing them in the final arraylist
 //            if(ent_score_list.size() < 20)
 //            {
-                for(int j=0;j<ent_score_list.size();j++)
+            for(int j=0;j<ent_score_list.size();j++)
+            {
+                if(ent_score_list.get(j).getEntity().matches(":"))
                 {
-                    if(ent_score_list.get(j).getEntity().matches(":"))
-                    {
-                        continue;
-                    }
-                    else
-                    {
-                        ent_score_list_final.add(ent_score_list.get(j));
-                    }
-
+                    continue;
                 }
+                else
+                {
+                    ent_score_list_final.add(ent_score_list.get(j));
+                }
+
+            }
 //            }
 //            else
 //            {

@@ -46,7 +46,7 @@ public class relationSim
 	 				f.print(info[i] + ";");
 	 			}
 	 			f.println(sim);*/
-                System.out.println("similarity:" + sim);
+                //System.out.println("similarity:" + sim);
                 f.println(info[0]+";"+info[1]+";"+info[4]+";"+sim);
                 f.println(info[0]+";"+info[3]+";"+info[4]+";"+sim);
             }

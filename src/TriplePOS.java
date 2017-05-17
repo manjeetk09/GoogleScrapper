@@ -14,11 +14,12 @@ public class TriplePOS
         String command = "java -cp stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model models/english-left3words-distsim.tagger -textFile crawler"+temp_index+".txt -outputFormat tsv";
         //String []command = {"java", "\"*\"","edu.stanford.nlp.tagger.maxent.MaxentTagger -model models/english-left3words-distsim.tagger","-textFile text.txt","-outputFormat tsv"};
         //String command = "ls -l -t -r";
+        System.out.println("inside POS");
         try
         {
             Process proc = Runtime.getRuntime().exec(command);
             //int exitVal = proc.exitValue();
-            //System.out.println(command);
+            System.out.println("command started");
             //System.out.println(exitVal + ":"+command);
             // Read the output
 
@@ -33,6 +34,7 @@ public class TriplePOS
             }
 
             proc.waitFor();
+            System.out.print("ended command");
 
         }
         catch(Exception e){
@@ -52,6 +54,8 @@ public class TriplePOS
         {
             e.printStackTrace();
         }
+
+        System.out.println("files closed");
     }
 }
 

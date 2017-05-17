@@ -38,6 +38,7 @@ public class parsePOS {
                 ent_tag_list.add(sCurrentLine);
                 //System.out.println(sCurrentLine);
             }
+            System.out.println("parsePOS started");
             for (int i = 0; i < ent_tag_list.size() ; i++ ) {
 
                 List<String> entities = Arrays.asList(ent_tag_list.get(i).split("\\s+"));
@@ -121,7 +122,7 @@ public class parsePOS {
             }
 
         }
-
+        System.out.println("parsePOS ended");
 
 
 
