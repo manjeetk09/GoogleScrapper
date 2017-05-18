@@ -44,7 +44,7 @@ public class temp
         Elements results = doc.getElementsByTag("body");
 
         ArrayList<String> templates_final = new ArrayList<String>();
-
+        int flag = 1;
         for(Element result : results)
         {
             String answer = result.text();
@@ -54,8 +54,14 @@ public class temp
             //System.out.println(answer);
             answer = answer.substring(answer.indexOf("[")+1);
             //System.out.println(answer);
+            if(!answer.contains(",")){
+                flag = 0;
+                break;
+            }
             String []templates = answer.split(",");
             temp_num = templates.length;
+            //System.out.println("length is:: " + templates.length);
+
             //System.out.println(templates.length);
             for(int i=0;i<templates.length - 1;i++)
             {
@@ -71,41 +77,68 @@ public class temp
             //System.out.println(templates_final);
         }
 
+        if(flag == 0){
 
-
-        for(int i=0;i<templates_final.size();i++)
-        {
-            //String temp_1 = "" + i;
-            //templates_final.set(i,temp_1);
             GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-            googleSearchJava.googleSearch(templates_final.get(i), search, i);
+            googleSearchJava.googleSearch(searchTerm, search, 0);
 
             //via Ollie
             parseOllie parseollie = new parseOllie();
-            parseollie.parserOllie(i);
+            parseollie.parserOllie(0);
             relationSim relationsim = new relationSim();
-            relationsim.relationSimilarity(i, phrase);
+            relationsim.relationSimilarity(0, phrase);
             SimilarityOllie similarityOllie = new SimilarityOllie();
-            similarityOllie.similarityollie(i, search);
-            System.out.println("i is:: " + i);
+            similarityOllie.similarityollie(0, search);
+            //System.out.println("i is:: " + 0);
 
             //via POSTagger
             TriplePOS triplepos = new TriplePOS();
-            triplepos.triplePOS(i);
+            triplepos.triplePOS(0);
             //System.out.println("triples created");
             parsePOS parsepos = new parsePOS();
-            parsepos.parseFunc(i);
+            parsepos.parseFunc(0);
             similarity sim = new similarity();
-            sim.similarityFunc(i, search);
-            //System.out.println("similarity ended");
+            sim.similarityFunc(0, search);
+            temp_num = 1;
+        }
+        else{
+            for(int i=0;i<templates_final.size();i++)
+            {
+                //String temp_1 = "" + i;
+                //templates_final.set(i,temp_1);
+                GoogleSearchJava googleSearchJava = new GoogleSearchJava();
+                googleSearchJava.googleSearch(templates_final.get(i), search, i);
 
+                //via Ollie
+                parseOllie parseollie = new parseOllie();
+                parseollie.parserOllie(i);
+                relationSim relationsim = new relationSim();
+                relationsim.relationSimilarity(i, phrase);
+                SimilarityOllie similarityOllie = new SimilarityOllie();
+                similarityOllie.similarityollie(i, search);
+                //System.out.println("i is:: " + i);
+
+                //via POSTagger
+                TriplePOS triplepos = new TriplePOS();
+                triplepos.triplePOS(i);
+                //System.out.println("triples created");
+                parsePOS parsepos = new parsePOS();
+                parsepos.parseFunc(i);
+                similarity sim = new similarity();
+                sim.similarityFunc(i, search);
+                //System.out.println("similarity ended");
+
+            }
         }
 
-        //CombineOllie combineOllie = new CombineOllie();
-        //combineOllie.combineOllieFunc(temp_num);
+
+
+        CombineOllie combineOllie = new CombineOllie();
+        combineOllie.combineOllieFunc(temp_num);
         CombinePOS combinePOS = new CombinePOS();
         combinePOS.combinePOSFunc(temp_num);
 
-
+        SimilarityOllieToPos similarityOllieToPos = new SimilarityOllieToPos();
+        similarityOllieToPos.similarityOllieToPosFunc();
     }
 }

@@ -1,0 +1,33 @@
+.
+.
+In signal processing  a digital filter is a system that performs mathematical operations on a sampled  discrete time signal to reduce or enhance certain aspects of that signal.
+ This is in contrast to the other major type of electronic filter  the analog filter  which is an electronic circuit operating on continuous time analog signals.
+.
+.
+.
+.
+Digital filters are used for two general purposes   1  separation of signals that have been combined  and  2  restoration of signals that have been distorted in some way.
+ Analog  electronic  filters can be used for these same tasks  however  digital filters can achieve far superior results.
+ The most popular digital filters are described and compared in the next seven chapters.
+ This introductory chapter describes the parameters you want to look for when learning about each of these filters.
+Filter Basics.
+How Information is Represented in Signals.
+Time Domain Parameters.
+Frequency Domain Parameters.
+High-Pass, Band-Pass and Band-Reject Filters.
+Filter Classification.
+Digital filters are used for two general purposes   1  separation of signals that have been combined  and  2  restoration of signals that have been distorted in some way.
+ Analog  electronic  filters can be used for these same tasks  however  digital filters can achieve far superior results.
+ The most popular digital filters are described and compared in the next seven chapters.
+ This introductory chapter describes the parameters you want to look for when learning about each of these filters.
+Filter Basics.
+How Information is Represented in Signals.
+Time Domain Parameters.
+Frequency Domain Parameters.
+High-Pass, Band-Pass and Band-Reject Filters.
+Filter Classification.
+It may seem strange to have a section devoted to analog filter design in a digital signal processing book.
+ However  there is a method to the madness.
+ It turns out that digital filters can be modeled using analog filters  and analog techniques  which have been studied in depth for many years prior to digital systems  can be utilized to quickly and efficiently design digital filters.
+.
+.

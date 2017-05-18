@@ -1,20 +1,35 @@
 //package com.journaldev.jsoup;
 
+import net.didion.jwnl.data.Exc;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.nodes.Node;
+import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.io.*;
-import java.net.URI;
-import java.net.URISyntaxException;
-import java.net.URLDecoder;
+import java.net.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class GoogleSearchJava {
+
+
+    private static String getUrlSource(String url) throws IOException {
+        URL yahoo = new URL(url);
+        URLConnection yc = yahoo.openConnection();
+        BufferedReader in = new BufferedReader(new InputStreamReader(yc.getInputStream(), "UTF-8"));
+        String inputLine;
+        StringBuilder a = new StringBuilder();
+        while ((inputLine = in.readLine()) != null)
+            a.append(inputLine);
+        in.close();
+
+        return a.toString();
+    }
 
     private static Document sendRequest(String url) {
         Document doc = null;
@@ -50,6 +65,7 @@ public class GoogleSearchJava {
         //String file_name = "triples_ollie.txt";
         String file_url = "urls" + temp_index + ".txt";
         String file_para = "para" + temp_index + ".txt";
+        String li_file = "li" + temp_index + ".csv";
 
         BufferedWriter bw = null;
         FileWriter fw = null;
@@ -72,6 +88,11 @@ public class GoogleSearchJava {
         FileWriter fw3 = null;
         fw3 = new FileWriter(file_para);
         bw3 = new BufferedWriter(fw3);
+
+        BufferedWriter bw4 = null;
+        FileWriter fw4 = null;
+        fw4 = new FileWriter(li_file);
+        bw4 = new BufferedWriter(fw4);
 
         //Taking search term input from console
         //Scanner scanner = new Scanner(System.in);
@@ -98,8 +119,9 @@ public class GoogleSearchJava {
 
         Document doc = new Document("");
         try{
+            //String newURL = String.format(searchURL, URLEncoder.encode(searchTerm,"UTF-8"));
             doc = Jsoup.connect(searchURL).userAgent("Mozilla/5.0").get();
-            //doc = sendRequest(searchURL);
+            //  doc = sendRequest(searchURL);
         }catch(Exception e){
             e.printStackTrace();
         }
@@ -121,6 +143,9 @@ public class GoogleSearchJava {
             String linkHref = result.attr("href");
             System.out.println("check:: " + linkHref);
             String linkText = result.text();
+
+
+
 
             link_data.add(linkHref.substring(7, linkHref.indexOf("&")));
             System.out.println("Text::" + linkText + ", URL::" + linkHref.substring(7, linkHref.indexOf("&")));
@@ -171,11 +196,34 @@ public class GoogleSearchJava {
                 }*/
 
                 //search
+//                URI url_temp;
+//                try
+//                {
+//                    url_temp = new URI(linkHref.substring(7, linkHref.indexOf("&")));
+//                    URL url_temp1 = new URI(url_temp.getScheme(),url_temp.getUserInfo(),url_temp.getHost(),url_temp.getPort(),URLDecoder.decode(url_temp.getPath(),"UTF-8"), url_temp.getQuery(), url_temp.getFragment()).toURL();
+//                }
+//                catch(Exception e)
+//                {
+//                    e.printStackTrace();
+//                }
+
+
                 Document doc_1 = new Document("");
                 try{
-
                     //doc_1 = Jsoup.connect(link_data.get(i)).userAgent("Mozilla/5.0").get();
-                    doc_1 = sendRequest(link_data.get(i));
+                    if(link_data.get(i).contains("%"))
+                    {
+                        String temp_url = URLDecoder.decode(link_data.get(i),"UTF-8");
+                        //System.out.println("decoded::"+temp_url);
+                        doc_1 = Jsoup.parse(getUrlSource(temp_url));
+                    }
+                    else
+                    {
+                        doc_1 = sendRequest(link_data.get(i));
+                    }
+
+
+
                     Thread.sleep(4000);
                 }
                 catch (Exception e){
@@ -186,6 +234,8 @@ public class GoogleSearchJava {
                     continue;
                 }
                 Elements para = doc_1.select("p");
+
+                Elements ul = doc_1.select("ul");
 
                 for(String span_data_temp : span_data_1) {
 
@@ -205,9 +255,9 @@ public class GoogleSearchJava {
                             flag = 1;
                         }*/
                         //System.out.println(para_text);
-                        if ((para_text.replaceAll("[^a-zA-Z0-9.]" , "" )).contains(span_data_temp.replaceAll("[^a-zA-Z0-9.]" , "" ))) {
-                            List<String> lines = Arrays.asList(para_text.split("\\."));
+                        if ((para_text.replaceAll("[^a-zA-Z0-9.]" , "" )).contains(span_data_temp.replaceAll("[^a-zA-Z0-9.]" , "" )) || (span_data_temp.replaceAll("[^a-zA-Z0-9.]" , "" ).contains(para_text.replaceAll("[^a-zA-Z0-9.]" , "" )))) {
 
+                            List<String> lines = Arrays.asList(para_text.split("\\."));
 
                             try {
 
@@ -230,6 +280,45 @@ public class GoogleSearchJava {
                             } catch (IOException e) {
 
                                 e.printStackTrace();
+
+                            }
+
+                            for(Element ul1 : ul){
+                                int index = ul1.siblingIndex();
+                                int index_1 = para_temp.siblingIndex();
+                                Node parent_a = ul1.parentNode();
+                                Node parent_b = para_temp.parentNode();
+
+                                System.out.println("parent_a:" + parent_a.nodeName());
+                                System.out.println("parent_b:" + parent_b.nodeName());
+                                System.out.println("list match found");
+                                if(index == index_1 + 1)
+                                {
+                                    System.out.println("inside first if");
+                                    if(parent_a.hasSameValue(parent_b)){
+                                        System.out.println("inside second if");
+                                        Elements child_ul = ul1.children();
+
+                                        //System.out.println(u1.text());
+                                        for(int h = 0 ; h < child_ul.size() ; h++){
+                                            Element li = child_ul.get(h);
+                                            //System.out.println(li.text());
+                                            String line_li = li.text();
+
+                                            System.out.println(line_li);
+
+                                            bw.write(line_li);
+                                            bw.write(".");
+                                            bw.write("\n");
+                                            bw2.write(link_data.get(i));
+                                            bw2.write("\n");
+                                            bw3.write(para_text);
+                                            bw3.write("\n");
+                                            bw4.write(line_li);
+                                            bw4.write("\n");
+                                        }
+                                    }
+                                }
 
                             }
 
@@ -264,6 +353,12 @@ public class GoogleSearchJava {
 
             if (fw3 != null)
                 fw3.close();
+
+            if(bw4 != null)
+                bw4.close();
+
+            if(fw4 != null)
+                fw4.close();
 
         } catch (IOException ex) {
 
