@@ -125,7 +125,7 @@ public class SimilarityOllie
                         {
                             ent_list.set(j,":");
 
-
+                            //System.out.println("Confidence" + Double.parseDouble(conf_list.get(i))+ ":" + Double.parseDouble(conf_list.get(j)));
                             if(Double.parseDouble(conf_list.get(i)) < Double.parseDouble(conf_list.get(j)))
                             {
                                 conf_list.set(i, conf_list.get(j));
@@ -140,6 +140,7 @@ public class SimilarityOllie
                             doc_freq.set(j,Integer.toString(Integer.parseInt(doc_freq.get(j)) + 1));
                             ent_list.set(j,":");
 
+                            System.out.println("Confidence:" + temp_index + ":" + conf_list.get(i)+ ":" + conf_list.get(j));
                             if(Double.parseDouble(conf_list.get(i)) < Double.parseDouble(conf_list.get(j)))
                             {
                                 conf_list.set(i, conf_list.get(j));
@@ -148,6 +149,8 @@ public class SimilarityOllie
                             {
                                 relation_list.set(i, relation_list.get(j));
                             }
+
+
 
 						/*
 						if(ent_list.get(i).length() > ent_list.get(j).length()){

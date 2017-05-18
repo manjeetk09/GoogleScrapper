@@ -1,0 +1,176 @@
+.
+No extractions found.
+
+.
+No extractions found.
+
+Strictly  a flat file database should consist of nothing but data and  if records vary in length  delimiters.
+0.793: (a flat file database; Strictly should consist of; nothing)
+0.711: (a flat file database; should vary in; length delimiters)
+0.118: (records; should vary in; length delimiters)
+0.092: (records; Strictly should consist of; nothing)
+
+ More broadly  the term refers to any database which exists in a single file in the form of rows and columns  with no relationships or links between records and fields except the table structure.
+0.874: (the term; More broadly refers to; any database which exists in a single file in the form of rows and columns with no relationships or links between records and fields except the table structure)
+0.767: (any database; exists in; a single file)
+0.757: (any database; exists in; the form of rows)
+0.525: (any database; exists except; the table structure)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The network model expands upon the hierarchical structure  allowing many to many relationships in a tree like structure that allows multiple parents.
+0.823: (The network model; expands upon; the hierarchical structure)
+0.655: (multiple parents; be allows by; a tree)
+0.571: (The network model; expands allowing; many)
+
+ It was most popular before being replaced by the relational model  and is defined by the CODASYL specification.
+0.649: (It; was; popular)
+0.602: (It; is defined by; the CODASYL specification)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A set consists of circular linked lists where one record type  the set owner or parent  appears once in each circle  and a second record type  the subordinate or child  may appear multiple times in each circle.
+0.911: (the subordinate or child; may appear multiple times in; each circle)
+0.851: (A set; consists of; circular linked lists)
+0.814: (the set owner or parent; appears once in; each circle)
+0.778: (the subordinate or child; may appear; multiple times)
+
+ In this way a hierarchy may be established between any two record types  e.
+0.914: (a hierarchy; may be established between; any two record types e)
+0.754: (a hierarchy; may be established in; this way)
+
+g.
+No extractions found.
+
+  type A is the owner of B.
+No extractions found.
+
+ At the same time another set may be defined where B is the owner of A.
+0.858: (B; is the owner of; A.)
+0.754: (another set; may be defined at; the same time)
+0.619: (B; is; the owner of A.)
+
+ Thus all the sets comprise a general directed graph  ownership defines a direction   or network construct.
+No extractions found.
+
+ Access to records is either sequential  usually in each record type  or by navigation in the circular linked lists.
+0.763: (Access; is sequential in; each record type or by)
+0.688: (Access; is; sequential)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A flat database is a simple database system in which each database is represented as a single table in which all of the records are stored as single rows of data  which are separated by delimiters such as tabs or commas.
+0.931: (each database; is represented as; a single table in which all of the records are stored as single rows of data)
+0.825: (A flat database; is; a simple database system in which each database is represented as a single table)
+0.655: (each database; is represented in; a simple database system)
+
+ The table is usually stored and physically represented as a simple text file.
+0.898: (The table; be physically represented as; a simple text file)
+
+ Because of the limitations of flat databases  they are not unsuitable for most software applications in which there is a need to represent and store complex business relationships.
+0.883: (they; are not unsuitable for; most software applications)
+0.577: (a need to represent and store complex business relationships; is of; the limitations of flat databases)
+
+ However  some application developers still use flat files in order to reduce the cost and complexity of integrating a relational database.
+0.783: (some application developers; still use; flat files)
+
+ Flat databases are also sometimes referred to as flat file databases.
+0.892: (Flat databases; are also sometimes referred as; flat file databases)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     .
+No extractions found.
+
+Here is an example showing how to implement WFS Simple with a flat database in 3 easy steps.
+0.757: (WFS Simple; to be implement with; a flat database)
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A flat file is a file containing records that have no structured interrelationship.
+0.698: (A flat file; is; a file containing records)
+
+ The term is frequently used to describe a text document from which all word processing or other structure characters or markup have been removed.
+0.807: (The term; to describe; a text document from which all word processing or other structure characters or markup have been removed)
+0.655: (all word processing or other structure characters or markup; have been removed in; a text document)
+
+.
+No extractions found.
+
+.
+No extractions found.
+

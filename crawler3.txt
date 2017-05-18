@@ -1,0 +1,62 @@
+Supervised learning is the machine learning task of inferring a function from labeled training data.
+ The training data consist of a set of training examples.
+ In supervised learning  each example is a pair consisting of an input object  typically a vector  and a desired output value  also called the supervisory signal .
+ A supervised learning algorithm analyzes the training data and produces an inferred function  which can be used for mapping new examples.
+ An optimal scenario will allow for the algorithm to correctly determine the class labels for unseen instances.
+ This requires the learning algorithm to generalize from the training data to unseen situations in a  reasonable  way  see inductive bias .
+.
+.
+ .
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+ .
+Some popular examples of supervised machine learning algorithms are .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+ .
+.
+.
+.
+.
+Hi Jason .
+Hi Jason  this post is really helpful for my Cognitive Neural Network revision .
+Hi Jason .
+Hi Jason .
+.
+.
+.
+.
+.
+Supervised learning is a type of machine learning algorithm that uses a known dataset  called the training dataset  to make predictions.
+ The training dataset includes input data and response values.
+ From it  the supervised learning algorithm seeks to build a model that can make predictions of the response values for a new dataset.
+ A test dataset is often used to validate the model.
+ Using larger training datasets often yield models with higher predictive power that can generalize well for new datasets.

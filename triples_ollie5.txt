@@ -1,17 +1,9 @@
-.
-No extractions found.
+The network model is a database model conceived as a flexible way of representing objects and their relationships.
+0.882: (a database model; conceived as; a flexible way representing objects and their relationships)
+0.667: (The network model; is; a database model)
 
-.
-No extractions found.
-
-In signal processing  a digital filter is a system that performs mathematical operations on a sampled  discrete time signal to reduce or enhance certain aspects of that signal.
-0.84: (a system; performs mathematical operations on; a sampled discrete time signal)
-0.793: (a digital filter; is; a system that performs mathematical operations on a sampled discrete time signal to reduce or enhance certain aspects of that signal)
-0.746: (a digital filter; is a system in; signal processing)
-0.564: (mathematical operations; be performs by; a system)
-
- This is in contrast to the other major type of electronic filter  the analog filter  which is an electronic circuit operating on continuous time analog signals.
-0.821: (the analog filter; is an electronic circuit operating on; continuous time analog signals)
+ Its distinguishing feature is that the schema  viewed as a graph in which object types are nodes and relationship types are arcs  is not restricted to being a hierarchy or lattice.
+0.753: (the schema; be viewed as; a graph in which object types are nodes and relationship types)
 
 .
 No extractions found.
@@ -25,78 +17,261 @@ No extractions found.
 .
 No extractions found.
 
-Digital filters are used for two general purposes   1  separation of signals that have been combined  and  2  restoration of signals that have been distorted in some way.
-0.921: (Digital filters; are used for; two general purposes 1 separation of signals)
-0.741: (signals that have been combined; have 2 restoration of; signals that have been distorted in some way)
-
- Analog  electronic  filters can be used for these same tasks  however  digital filters can achieve far superior results.
-0.894: (Analog electronic filters; can be used for; these same tasks)
-0.773: (digital filters; can achieve; superior results)
-
- The most popular digital filters are described and compared in the next seven chapters.
+.
 No extractions found.
 
- This introductory chapter describes the parameters you want to look for when learning about each of these filters.
-0.816: (This introductory chapter; describes; the parameters you want to look for when learning about each of these filters)
-
-Filter Basics.
+.
 No extractions found.
 
-How Information is Represented in Signals.
-0.914: (Information; is Represented in; Signals)
-
-Time Domain Parameters.
+.
 No extractions found.
 
-Frequency Domain Parameters.
+.
 No extractions found.
 
-High-Pass, Band-Pass and Band-Reject Filters.
+.
 No extractions found.
 
-Filter Classification.
+.
 No extractions found.
 
-Digital filters are used for two general purposes   1  separation of signals that have been combined  and  2  restoration of signals that have been distorted in some way.
-0.921: (Digital filters; are used for; two general purposes 1 separation of signals)
-0.741: (signals that have been combined; have 2 restoration of; signals that have been distorted in some way)
-
- Analog  electronic  filters can be used for these same tasks  however  digital filters can achieve far superior results.
-0.894: (Analog electronic filters; can be used for; these same tasks)
-0.773: (digital filters; can achieve; superior results)
-
- The most popular digital filters are described and compared in the next seven chapters.
+.
 No extractions found.
 
- This introductory chapter describes the parameters you want to look for when learning about each of these filters.
-0.816: (This introductory chapter; describes; the parameters you want to look for when learning about each of these filters)
-
-Filter Basics.
+What is a Database Model .
 No extractions found.
 
-How Information is Represented in Signals.
-0.914: (Information; is Represented in; Signals)
+                A database model is a structure or a format of a database.
+0.778: (A database model; is; a structure or a format of a database)
 
-Time Domain Parameters.
+.
 No extractions found.
 
-Frequency Domain Parameters.
+ .
 No extractions found.
 
-High-Pass, Band-Pass and Band-Reject Filters.
+Network Database Model.
 No extractions found.
 
-Filter Classification.
+.
 No extractions found.
 
-It may seem strange to have a section devoted to analog filter design in a digital signal processing book.
-0.817: (a section; be devoted to; analog filter design)
-0.698: (It; may seem; strange)
-
- However  there is a method to the madness.
+ Network Database Model.
 No extractions found.
 
- It turns out that digital filters can be modeled using analog filters  and analog techniques  which have been studied in depth for many years prior to digital systems  can be utilized to quickly and efficiently design digital filters.
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A Database model defines the logical design of data.
+0.833: (A Database model; defines; the logical design of data)
+
+ The model describes the relationships between different parts of the data.
+0.807: (The model; describes; the relationships)
+0.303: (different; be parts of; the data)
+
+ Historically  in database design  three models are commonly used.
+0.564: (three models; are commonly used in; database design)
+
+ They are .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+In the network model  entities are organised in a graph in which some entities can be accessed through several path.
+0.928: (model entities; are organised in; a graph in which some entities can be accessed through several path)
+0.914: (some entities; can be accessed through; several path)
+0.655: (some entities; can be accessed in; a graph)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     .
+No extractions found.
+
+The Network model replaces the hierarchical tree with a graph thus allowing more general connections among the nodes.
+0.807: (The Network model; replaces; the hierarchical tree)
+0.554: (a graph; thus allowing; more general connections)
+
+ The main difference of the network model from the hierarchical model  is its ability to handle many to many  N N  relations.
+0.745: (The main difference of the network model; is; its ability to handle many to many N N relations)
+0.708: (many; to handle to be; many N N relations)
+0.664: (its ability to handle many to many N N relations; be The main difference of; the network model)
+0.524: (its ability to handle many to many N N relations; be The main difference of the network model from; the hierarchical model)
+
+ In other words  it allows a record to have more than one parent.
+0.816: (a record; to have; than one parent)
+0.496: (it; allows in; other words)
+
+ Suppose an employee works for two departments.
+0.875: (an employee; works for; two departments)
+
+ The strict hierarchical arrangement is not possible here and the tree becomes a more generalized graph   a network.
+0.733: (The strict hierarchical arrangement; becomes; not possible here and the tree becomes a more generalized graph)
+0.596: (The strict hierarchical arrangement; is here; not possible here and the tree becomes a more generalized graph)
+
+ The network model was evolved to specifically handle non hierarchical relationships.
+No extractions found.
+
+ As shown below data can belong to more than one parent.
+No extractions found.
+
+ Note that there are lateral connections as well as top down connections.
+No extractions found.
+
+ A network structure thus allows 1 1  one  one   l  M  one  many   M  M  many  many  relationships among entities.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+                            .
+No extractions found.
+
+                             .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+                       .
+No extractions found.
+
+               .
+No extractions found.
+
+                          .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+                            .
+No extractions found.
+
+Considering again the sample supplier part database  its network view is shown.
+0.695: (its network view; is shown in; the sample supplier part database)
+
+ In addition to the part and supplier record types  a third record type is introduced which we will call as the connector.
+0.626: (we; which will call as; the connector)
+
+ A connector occurrence specifies the association  shipment  between one supplier and one part.
+0.807: (A connector occurrence; specifies; the association shipment)
+
+ It contains data  quantity of the parts supplied  describing the association between supplier and part records.
+0.782: (It; contains; data quantity of the parts supplied describing the association between supplier and part records)
+
+                             .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+                       .
+No extractions found.
+
+               .
+No extractions found.
+
+                          .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The network database or network model uses the plex structure as its basic data structure.
+0.808: (The network database or network model; uses the plex structure as; its basic data structure)
+0.807: (The network database or network model; uses; the plex structure)
+
+ A network is a directed graph consisting of nodes connected by links or directed arcs.
+0.841: (a directed graph; consisting of; nodes connected by links or directed arcs)
+0.763: (A network; is; a directed graph consisting of nodes)
+0.734: (nodes; be connected by; links or directed arcs)
+
+ The nodes corresponds to record types and the links to pointers or relationships.
+No extractions found.
+
+ All the relationship are hardwired or pre computed and build into structure of database itself because they are very efficient in space utilization and query execution time.
+0.847: (the relationship; build into; structure of database)[enabler=because they are very efficient in space utilization and query execution time]
+0.802: (they; are very efficient in; space utilization and query execution time)
+
+ The network data structure looks like a tree structure except that a dependent node which is  called a child or member  may have more than one parent or owner node.
+0.872: (The network data structure; looks like; a tree structure)
+0.735: (a dependent node which is called a child or member; may have; than one parent or owner node)
+
+All figure shows the network model  .
+0.74: (All figure; shows; the network model)
+
+.
 No extractions found.
 
 .

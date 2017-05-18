@@ -1,31 +1,11 @@
-Digital signal processing  DSP  is the use of digital processing  such as by computers  to perform a wide variety of signal processing operations.
-0.908: (Digital signal processing DSP; is the use of; digital processing)
-0.752: (Digital signal processing DSP; is; the use of digital processing to perform a wide variety of signal)
+ .
+No extractions found.
 
- The signals processed in this manner are a sequence of numbers that represent samples of a continuous variable in a domain such as time  space  or frequency.
-0.955: (The signals processed in this manner; are a sequence of; numbers that represent samples of a continuous variable in a domain such as time space or frequency)
-0.763: (The signals; be processed in; this manner)
+ .
+No extractions found.
 
-Digital signal processing and analog signal processing are subfields of signal processing.
-0.926: (Digital signal processing and analog signal processing; are subfields of; signal processing)
-
- DSP applications include audio and speech signal processing  sonar  radar and other sensor array processing  spectral estimation  statistical signal processing  digital image processing  signal processing for telecommunications  control of systems  biomedical engineering  seismic data processing  among others.
-0.739: (DSP applications; include; audio and speech signal processing sonar radar and other sensor array)
-
-Digital signal processing can involve linear or nonlinear operations.
-0.772: (Digital signal processing; can involve; linear or nonlinear operations)
-
- Nonlinear signal processing is closely related to nonlinear system identification and can be implemented in the time  frequency  and spatio temporal domains.
-0.9: (Nonlinear signal processing; can be implemented in; the time frequency)
-0.828: (Nonlinear signal processing; is closely related can to; nonlinear system identification)
-
-The application of digital computation to signal processing allows for many advantages over analog processing in many applications  such as error detection and correction in transmission as well as data compression.
-0.872: (The application of digital computation; allows for; many advantages)
-0.783: (The application of digital computation; allows in; many applications)
-
-  DSP is applicable to both streaming data and static  stored  data.
-0.737: (DSP; is applicable to; streaming data and static stored data)
-0.591: (DSP; is; applicable)
+.
+No extractions found.
 
 .
 No extractions found.
@@ -33,213 +13,11 @@ No extractions found.
 .
 No extractions found.
 
-The increasing use of computers has resulted in the increased use of  and need for  digital signal processing.
-0.836: (The increasing use of computers; has resulted in; the increased use of)
-0.741: (The increasing use of computers; has need for; digital signal processing)
-
- To digitally analyze and manipulate an analog signal  it must be digitized with an analog to digital converter.
-0.885: (it; must be digitized with; an analog)
-0.446: (it; must be digitized in; an analog signal)
-
- Sampling is usually carried out in two stages  discretization and quantization.
-0.926: (Sampling; is usually carried out in; two stages discretization and quantization)
-
- Discretization means that the signal is divided into equal intervals of time  and each interval is represented by a single measurement of amplitude.
-0.937: (each interval; is represented by; a single measurement of amplitude)
-0.88: (the signal; is divided into; equal intervals of time)
-0.852: (each interval; is divided into; equal intervals of time)
-0.823: (the signal; is represented by; a single measurement of amplitude)
-
- Quantization means each amplitude measurement is approximated by a value from a finite set.
-0.925: (each amplitude measurement; is approximated by; a value)
-0.892: (each amplitude measurement; is approximated from; a finite set)
-
- Rounding real numbers to integers is an example.
-0.752: (real numbers; be Rounding to; integers)
-
-The Nyquist Shannon sampling theorem states that a signal can be exactly reconstructed from its samples if the sampling frequency is greater than twice the highest frequency of the signal.
-0.848: (a signal; can be exactly reconstructed from; its samples)[enabler=if the sampling frequency is greater than twice the highest frequency of the signal]
-0.204: (the sampling frequency; is greater than; the highest frequency of the signal)
-
- In practice  the sampling frequency is often significantly higher than twice that required by the signal s limited bandwidth.
-0.565: (the sampling frequency; is often significantly higher in; practice)
-
-Theoretical DSP analyses and derivations are typically performed on discrete time signal models with no amplitude inaccuracies  quantization error    created  by the abstract process of sampling.
-0.925: (Theoretical DSP analyses and derivations; are typically performed on; discrete time signal models)
-0.769: (no amplitude inaccuracies quantization error; be created by; the abstract process of sampling)
-
- Numerical methods require a quantized signal  such as those produced by an analog to digital converter  ADC .
-0.723: (Numerical methods; require; a quantized signal)
-
- The processed result might be a frequency spectrum or a set of statistics.
-0.837: (The processed result; might be; a frequency spectrum or a set of statistics)
-
- But often it is another quantized signal that is converted back to analog form by a digital to analog converter  DAC .
-0.618: (it; often is; another quantized signal that is converted back to analog form by a digital to analog converter DAC)
-
-In DSP  engineers usually study digital signals in one of the following domains  time domain  one dimensional signals   spatial domain  multidimensional signals   frequency domain  and wavelet domains.
+.
 No extractions found.
 
- They choose the domain in which to process a signal by making an informed assumption  or by trying different possibilities  as to which domain best represents the essential characteristics of the signal.
-0.854: (They; choose; the domain to process a signal by making an informed assumption or by trying different possibilities as to which domain best)
-
- A sequence of samples from a measuring device produces a temporal or spatial domain representation  whereas a discrete Fourier transform produces the frequency domain information  that is  the frequency spectrum.
-0.711: (a measuring device; produces; a temporal or spatial domain representation)[enabler=whereas a discrete Fourier transform]
-
-The most common processing approach in the time or space domain is enhancement of the input signal through a method called filtering.
-0.939: (The most common processing approach; is enhancement of; the input signal)
-0.896: (The most common processing approach; is enhancement of the input signal through; a method)
-0.804: (The most common processing approach; is; enhancement of the input signal)
-0.441: (enhancement of the input signal; be The most common processing approach in; the time or space domain)
-
- Digital filtering generally consists of some linear transformation of a number of surrounding samples around the current sample of the input or output signal.
-0.743: (samples; be surrounding around; the current sample of the input or output signal)
-
- There are various ways to characterize filters  for example .
-0.403: (filters; to be characterize for; example)
-
-A filter can be represented by a block diagram  which can then be used to derive a sample processing algorithm to implement the filter with hardware instructions.
-0.955: (A filter; can be represented by; a block diagram which can then be used to derive a sample processing algorithm)
-0.645: (the filter; to be implement with; hardware instructions)
-
- A filter may also be described as a difference equation  a collection of zeroes and poles or  if it is an FIR filter  an impulse response or step response.
-0.9: (A filter; may also be described as; a difference equation)
-0.06: (it; is; an FIR filter)
-
-The output of a linear digital filter to any given input may be calculated by convolving the input signal with the impulse response.
-0.674: (the input signal; be convolving with; the impulse response)
-
-Signals are converted from time or space domain to the frequency domain usually through the Fourier transform.
-0.929: (Signals; are converted from; time or space domain)
-
- The Fourier transform converts the signal information to a magnitude and phase component of each frequency.
+.
 No extractions found.
-
- Often the Fourier transform is converted to the power spectrum  which is the magnitude of each frequency component squared.
-0.736: (the power spectrum; is the magnitude of; each frequency component)
-
-The most common purpose for analysis of signals in the frequency domain is analysis of signal properties.
-0.93: (The most common purpose; is analysis of; signal properties)
-0.778: (The most common purpose; is; analysis of signal properties)
-0.618: (analysis of signal properties; be The most common purpose for; analysis of signals)
-0.441: (analysis of signal properties; be The most common purpose in; the frequency domain)
-
- The engineer can study the spectrum to determine which frequencies are present in the input signal and which are missing.
-0.845: (The engineer; can study; the spectrum to determine which frequencies are present in the input signal and which are missing)
-0.582: (which frequencies; are present are in; the input signal)
-
-In addition to frequency information  phase information is often needed.
-No extractions found.
-
- This can be obtained from the Fourier transform.
-No extractions found.
-
- With some applications  how the phase varies with frequency can be a significant consideration.
-0.766: (the phase; varies with; frequency)
-
-Filtering  particularly in non realtime work can also be achieved by converting to the frequency domain  applying the filter and then converting back to the time domain.
-No extractions found.
-
- This is a fast  O n log n  operation  and can give essentially any filter shape including excellent approximations to brickwall filters.
-No extractions found.
-
-There are some commonly used frequency domain transformations.
-No extractions found.
-
- For example  the cepstrum converts a signal to the frequency domain through Fourier transform  takes the logarithm  then applies another Fourier transform.
-0.865: (the cepstrum; converts a signal to; the frequency domain)
-0.798: (the cepstrum; converts; a signal)
-0.746: (the cepstrum; converts a signal through; Fourier)
-0.307: (the cepstrum; converts a signal for; example)
-
- This emphasizes the harmonic structure of the original spectrum.
-No extractions found.
-
-Frequency domain analysis is also called spectrum  or spectral analysis.
-0.75: (Frequency domain analysis; is also called; spectrum or spectral analysis)
-
-Digital filters come in both IIR and FIR types.
-0.924: (Digital; filters come in; IIR and FIR types)
-
- FIR filters have many advantages  but are computationally more demanding.
-0.723: (FIR filters; have; many advantages)
-
- Whereas FIR filters are always stable  IIR filters have feedback loops that may resonate when stimulated with certain input signals.
-0.833: (stable IIR filters; have; feedback loops that may resonate when stimulated with certain input signals)
-
- The Z transform provides a tool for analyzing potential stability issues of digital IIR filters.
-0.652: (The Z; transform provides; a tool)
-
- It is analogous to the Laplace transform  which is used to design analog IIR filters.
-0.646: (It; is; analogous)
-0.639: (the Laplace; to design; analog IIR filters)
-
-In numerical analysis and functional analysis  a discrete wavelet transform  DWT  is any wavelet transform for which the wavelets are discretely sampled.
-No extractions found.
-
- As with other wavelet transforms  a key advantage it has over Fourier transforms is temporal resolution  it captures both frequency and location information.
-0.757: (a key advantage it has over Fourier transforms; is; temporal resolution it captures both frequency and location information)
-0.731: (it; has over; Fourier transforms)
-0.678: (it; captures; frequency and location information)
-0.564: (frequency and location information; be captures by; temporal resolution)
-
-The accuracy of the joint time frequency resolution is limited by the uncertainity principle of time frequency.
-0.94: (The accuracy of the joint time frequency resolution; is limited by; the uncertainity principle of time frequency)
-
-The main applications of DSP are audio signal processing  audio compression  digital image processing  video compression  speech processing  speech recognition  digital communications  digital synthesizers  radar  sonar  financial signal processing  seismology and biomedicine.
-0.45: (audio signal processing; be The main applications of; DSP)
-
- Specific examples are speech compression and transmission in digital mobile phones  room correction of sound in hi fi and sound reinforcement applications  weather forecasting  economic forecasting  seismic data processing  analysis and control of industrial processes  medical imaging such as CAT scans and MRI  MP3 compression  computer graphics  image manipulation  hi fi loudspeaker crossovers and equalization  and audio effects for use with electric guitar amplifiers.
-0.841: (Specific examples; be transmission in; digital mobile phones room correction of sound)
-0.787: (Specific examples; be transmission in; hi fi and sound reinforcement applications weather forecasting economic forecasting seismic data processing analysis and control of industrial processes medical imaging such as CAT scans and MRI MP3 compression computer graphics image manipulation hi fi loudspeaker crossovers and equalization and audio effects for use with electric guitar amplifiers)
-
-DSP algorithms have long been run on general purpose computers and digital signal processors.
-0.822: (DSP algorithms; have long been run on; general purpose computers and digital signal processors)
-
- DSP algorithms are also implemented on purpose built hardware such as application specific integrated circuit  ASICs .
-0.907: (DSP algorithms; are also implemented on; purpose built hardware)
-
- Additional technologies for digital signal processing include more powerful general purpose microprocessors  field programmable gate arrays  FPGAs   digital signal controllers  mostly for industrial applications such as motor control   and stream processors.
-0.793: (Additional technologies; include; powerful general purpose microprocessors field programmable gate arrays)
-
-Depending on the requirements of the application  digital signal processing tasks can be implemented on general purpose computers.
-No extractions found.
-
-Often when the processing requirement is not real time  processing is economically done with an existing general purpose computer and the signal data  either input or output  exists in data files.
-0.927: (not real time processing; Often is economically done with; an existing general purpose computer and the signal data either input or output exists in data files)
-0.847: (input or output; exists in; data files)
-0.639: (the processing requirement; is; not real time processing)
-
- This is essentially no different from any other data processing  except DSP mathematical techniques  such as the FFT  are used  and the sampled data is usually assumed to be uniformly sampled in time or space.
-No extractions found.
-
- For example  processing digital photographs with software such as Photoshop.
-No extractions found.
-
-However  when the application requirement is real time  DSP is often implemented using specialized microprocessors such as the DSP56000  the TMS320  or the SHARC.
-0.779: (the application requirement; is; real time DSP is often implemented using specialized microprocessors such as the DSP56000 the TMS320 or the SHARC.)
-0.389: (DSP; is often implemented in; real time)
-
- These often process data using fixed point arithmetic  though some more powerful versions use floating point.
-0.532: (some more powerful versions; use floating; point)
-
- For faster applications FPGAs might be used.
-0.389: (FPGAs; might be used in; applications)
-
- Beginning in 2007  multicore implementations of DSPs have started to emerge from companies including Freescale and Stream Processors  Inc.
-0.406: (multicore; be implementations of; DSPs)
-
- For faster applications with vast usage  ASICs might be designed specifically.
-No extractions found.
-
- For slow applications  a traditional slower processor such as a microcontroller may be adequate.
-0.751: (a traditional slower processor; may be; adequate)
-0.351: (adequate; be a traditional slower processor as; a microcontroller)
-
- Also a growing number of DSP applications are now being implemented on embedded systems using powerful PCs with multi core processors.
-0.888: (a growing number of DSP applications; Also are now being implemented on; embedded systems using powerful PCs with multi core processors)
-0.674: (powerful PCs; be using with; multi core processors)
-0.627: (embedded systems; using powerful PCs with; multi core processors)
 
 .
 No extractions found.
@@ -247,36 +25,24 @@ No extractions found.
 .
 No extractions found.
 
-The main applications of DSP are audio signal processing  audio compression  digital image processing  video compression  speech processing  speech recognition  digital communications  digital synthesizers  radar  sonar  financial signal processing  seismology and biomedicine.
-0.45: (audio signal processing; be The main applications of; DSP)
-
- Specific examples are speech compression and transmission in digital mobile phones  room correction of sound in hi fi and sound reinforcement applications  weather forecasting  economic forecasting  seismic data processing  analysis and control of industrial processes  medical imaging such as CAT scans and MRI  MP3 compression  computer graphics  image manipulation  hi fi loudspeaker crossovers and equalization  and audio effects for use with electric guitar amplifiers.
-0.841: (Specific examples; be transmission in; digital mobile phones room correction of sound)
-0.787: (Specific examples; be transmission in; hi fi and sound reinforcement applications weather forecasting economic forecasting seismic data processing analysis and control of industrial processes medical imaging such as CAT scans and MRI MP3 compression computer graphics image manipulation hi fi loudspeaker crossovers and equalization and audio effects for use with electric guitar amplifiers)
-
 .
 No extractions found.
 
 .
 No extractions found.
 
-Digital Signal Processing is an important branch of Electronics and Telecommunication engineering that deals with the improvisation of reliability and accuracy of the digital communication by employing multiple techniques.
-0.945: (Digital Signal Processing; is an important branch of; Electronics and Telecommunication engineering)
-0.882: (Digital Signal Processing; is an important branch of Electronics that; deals)
-0.754: (Digital Signal Processing; is; an important branch of Electronics)
+The majority of practical machine learning uses supervised learning.
+0.782: (The majority of practical machine learning; uses; supervised learning)
 
- This tutorial explains the basic concepts of digital signal processing in a simple and easy to understand manner.
-0.854: (This tutorial; explains; the basic concepts of digital signal processing)
+Supervised learning is where you have input variables  x  and an output variable  Y  and you use an algorithm to learn the mapping function from the input to the output.
+0.898: (you; use; an algorithm to learn the mapping function from the input to the output)
+0.781: (the mapping function; to be learn from; the input)
+0.679: (you; have; input variables x and an output variable Y)
 
-Digital signal processing techniques for obtaining high accuracy in ultrasonic distance measurements are presented.
-0.622: (high accuracy; be obtaining in; ultrasonic distance measurements)
+ .
+No extractions found.
 
- The proposed methodologies employ a suitable time frequency representation  Wavelet Transform or Short Time Fourier Transform  to extract the envelope of the reflected pulse echo  together with a suitable pulse detection algorithm  threshold or correlation  for time of flight estimation.
-0.841: (The proposed methodologies; employ; a suitable time frequency representation to extract the envelope of the reflected pulse echo together with a suitable pulse detection algorithm threshold or correlation for time of flight estimation)
-0.739: (the envelope of the reflected pulse echo; to be extract together with; a suitable pulse detection algorithm threshold or correlation)
-0.63: (the envelope of the reflected pulse echo; to be extract together for; time of flight estimation)
-
- A complete meteorological characterization of the methods  in terms of systematic and random errors  is achieved  demonstrating the high overall performance.
+ .
 No extractions found.
 
 .
@@ -312,6 +78,43 @@ No extractions found.
 .
 No extractions found.
 
+The most widely used learning algorithms are Support Vector Machines, linear regression, logistic regression, naive Bayes, linear discriminant analysis, decision trees, k nearest neighbor algorithm, and Neural Networks  Multilayer perceptron .
+0.567: (The most widely used learning algorithms; k; nearest neighbor algorithm)
+
 .
+No extractions found.
+
+Supervised learning is a type of machine learning algorithm that uses a known dataset  called the training dataset  to make predictions.
+0.935: (Supervised learning; is a type of; machine learning algorithm that uses a known dataset)
+0.894: (a type of machine learning algorithm; called; the training dataset to make predictions)
+0.768: (Supervised learning; is; a type of machine learning algorithm)
+0.62: (a known dataset; be uses by; machine learning algorithm)
+
+ The training dataset includes input data and response values.
+0.782: (The training dataset; includes; input data and response values)
+
+ From it, the supervised learning algorithm seeks to build a model that can make predictions of the response values for a new dataset.
+0.803: (the supervised learning algorithm; seeks to build; a model that can make predictions of the response values for a new dataset)
+0.708: (predictions of the response values; can be make for; a new dataset)
+0.456: (the supervised learning algorithm; seeks from; it)
+
+ A test dataset is often used to validate the model.
+0.761: (A test dataset; to validate; the model)
+
+ Using larger training datasets often yield models with higher predictive power that can generalize well for new datasets.
+0.762: (larger training datasets; often yield; models)
+
+In the data science course that I instruct, we cover most of the data science pipeline but focus especially on machine learning.
+0.68: (we; cover; most of the data science pipeline)[enabler=that I instruct]
+0.372: (we; cover most of the data science pipeline but focus especially on machine learning in; the data science course)[enabler=that I instruct]
+
+ Besides teaching model evaluation procedures and metrics, we obviously teach the algorithms themselves, primarily for supervised learning.
+0.689: (we; obviously teach the algorithms themselves for; supervised learning)
+0.604: (we; obviously teach; the algorithms)
+
+.
+No extractions found.
+
+Common terms .
 No extractions found.
 

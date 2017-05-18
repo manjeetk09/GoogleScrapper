@@ -1,0 +1,52 @@
+.
+.
+Strictly  a flat file database should consist of nothing but data and  if records vary in length  delimiters.
+ More broadly  the term refers to any database which exists in a single file in the form of rows and columns  with no relationships or links between records and fields except the table structure.
+.
+.
+The network model expands upon the hierarchical structure  allowing many to many relationships in a tree like structure that allows multiple parents.
+ It was most popular before being replaced by the relational model  and is defined by the CODASYL specification.
+.
+.
+A set consists of circular linked lists where one record type  the set owner or parent  appears once in each circle  and a second record type  the subordinate or child  may appear multiple times in each circle.
+ In this way a hierarchy may be established between any two record types  e.
+g.
+  type A is the owner of B.
+ At the same time another set may be defined where B is the owner of A.
+ Thus all the sets comprise a general directed graph  ownership defines a direction   or network construct.
+ Access to records is either sequential  usually in each record type  or by navigation in the circular linked lists.
+.
+.
+.
+.
+A flat database is a simple database system in which each database is represented as a single table in which all of the records are stored as single rows of data  which are separated by delimiters such as tabs or commas.
+ The table is usually stored and physically represented as a simple text file.
+ Because of the limitations of flat databases  they are not unsuitable for most software applications in which there is a need to represent and store complex business relationships.
+ However  some application developers still use flat files in order to reduce the cost and complexity of integrating a relational database.
+ Flat databases are also sometimes referred to as flat file databases.
+.
+.
+.
+.
+     .
+.
+.
+.
+.
+     .
+Here is an example showing how to implement WFS Simple with a flat database in 3 easy steps.
+ .
+ .
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+A flat file is a file containing records that have no structured interrelationship.
+ The term is frequently used to describe a text document from which all word processing or other structure characters or markup have been removed.
+.
+.

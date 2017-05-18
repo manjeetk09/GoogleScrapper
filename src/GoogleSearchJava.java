@@ -144,10 +144,8 @@ public class GoogleSearchJava {
             System.out.println("check:: " + linkHref);
             String linkText = result.text();
 
-
-
-
             link_data.add(linkHref.substring(7, linkHref.indexOf("&")));
+
             System.out.println("Text::" + linkText + ", URL::" + linkHref.substring(7, linkHref.indexOf("&")));
 
         }
@@ -159,10 +157,29 @@ public class GoogleSearchJava {
 
         //now interation for individual searches
 
+        for(int i=0;i<link_data.size();i++)
+        {
+            if(link_data.get(i).charAt(0)!='h')
+            {
+                link_data.remove(i);
+            }
+        }
+
+        System.out.println("Sizes:" + span_data.size() + ":" + link_data.size());
+
+
+
         for(int i=0; i<link_data.size();i++)
         {
             System.out.println(i);
-            System.out.println("pdf find:: " + link_data.get(i));
+            System.out.println("link:" + link_data.get(i));
+            System.out.println("span:" + span_data.get(i)+":"+span_data.get(i).length());
+
+            if(span_data.get(i).length() <= 0)
+            {
+                continue;
+            }
+
             /*
             if(link_data.get(i).contains("%")){
                 String temp = link_data.get(i);
@@ -178,15 +195,27 @@ public class GoogleSearchJava {
                 System.out.println("HIGH!");
                 continue;
             }
+
+
             //System.out.println("size::" + span_data.size());
             //if(span_data.get(i).length()>=1)
             {
 
                 //filter span data
+                System.out.println("dying:" + i);
+                /*
+                if(i == span_data.size()-1)
+                {
+                    System.out.println(span_data.get(i));
+                }
+                */
+                /*
                 if(span_data.get(i) == null)
                 {
+                    System.out.println("continued");
                     continue;
                 }
+                */
                 String span_temp = span_data.get(i);
                 List<String> span_data_1 = Arrays.asList(span_temp.split("\\.\\.\\."));
 
@@ -266,7 +295,18 @@ public class GoogleSearchJava {
 
                                 for (String lines_itr : lines) {
                                     //System.out.println("Done:: " + lines_itr);
-                                    lines_itr = lines_itr.replaceAll("[^a-zA-Z0-9]"," ");
+                                    /*
+                                    if(lines_itr.contains(";"))
+                                    {
+                                        System.out.println(lines_itr);
+                                    }*/
+                                    lines_itr = lines_itr.replaceAll("[^a-zA-Z0-9,]"," ");
+                                    /*
+                                    if(lines_itr.contains(";"))
+                                    {
+                                        System.out.println(lines_itr);
+                                    }
+                                    */
                                     bw.write(lines_itr);
                                     bw.write(".");
                                     bw.write("\n");
@@ -289,14 +329,14 @@ public class GoogleSearchJava {
                                 Node parent_a = ul1.parentNode();
                                 Node parent_b = para_temp.parentNode();
 
-                                System.out.println("parent_a:" + parent_a.nodeName());
-                                System.out.println("parent_b:" + parent_b.nodeName());
-                                System.out.println("list match found");
+                                //System.out.println("parent_a:" + parent_a.nodeName());
+                                //System.out.println("parent_b:" + parent_b.nodeName());
+                                //System.out.println("list match found");
                                 if(index == index_1 + 1)
                                 {
-                                    System.out.println("inside first if");
+                                    //System.out.println("inside first if");
                                     if(parent_a.hasSameValue(parent_b)){
-                                        System.out.println("inside second if");
+                                        //System.out.println("inside second if");
                                         Elements child_ul = ul1.children();
 
                                         //System.out.println(u1.text());
@@ -305,7 +345,7 @@ public class GoogleSearchJava {
                                             //System.out.println(li.text());
                                             String line_li = li.text();
 
-                                            System.out.println(line_li);
+                                            //System.out.println(line_li);
 
                                             bw.write(line_li);
                                             bw.write(".");

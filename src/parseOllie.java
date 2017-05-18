@@ -37,7 +37,8 @@ public class parseOllie
                         relation = relation.replaceAll(",", "");
                         relation = relation.replaceAll("\\s+", "_");
 
-                        String entity2 = line.substring(line.indexOf(';')+2, line.indexOf(")"));
+                        //System.out.println(line.length() + ":" + line.substring(line.indexOf(';')+2,) + ":" + line );
+                        String entity2 = line.substring(line.indexOf(';')+2, line.length()-1);
                         entity2 = entity2.replaceAll(",", "");
                         entity2 = entity2.replaceAll("\\s+", "_");
 
