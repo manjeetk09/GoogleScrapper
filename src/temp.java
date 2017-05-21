@@ -22,9 +22,13 @@ public class temp
         System.out.println("Please enter the number of head phrase.");
         int num_head = scanner.nextInt();
         System.out.println("Please enter the list of head phrase (one in each line)");
+        Scanner scanner1 = new Scanner(System.in);
         for(int i = 0 ; i < num_head ;i++){
-            head_phrase_list.add(scanner.nextLine());
+            String new_head = scanner1.nextLine();
+            head_phrase_list.add(new_head);
+            //System.out.println(new_head + " " + head_phrase_list.size());
         }
+        //System.out.println(head_phrase_list);
         System.out.println("Please enter the number of searches.");
         int search = scanner.nextInt();
         JSONObject obj = new JSONObject();

@@ -7,18 +7,6 @@ No extractions found.
 .
 No extractions found.
 
-An Entity can be any object  place  person or class.
-0.717: (An Entity; can be; any object)
-
- In E R Diagram  an entity is represented using rectangles.
-0.742: (an entity; is represented in; E R Diagram)
-
- Consider an example of an Organisation.
-No extractions found.
-
- Employee  Manager  Department  Product and many more can be taken as entities from an Organisation.
-0.925: (Employee Manager Department Product and many more; can be taken as; entities)
-
 .
 No extractions found.
 
@@ -52,15 +40,6 @@ No extractions found.
 .
 No extractions found.
 
-C  .
-No extractions found.
-
-C  .
-No extractions found.
-
-     .
-No extractions found.
-
 .
 No extractions found.
 
@@ -81,107 +60,4 @@ No extractions found.
 
 .
 No extractions found.
-
-.
-No extractions found.
-
-The ER model defines the conceptual view of a database.
-0.833: (The ER model; defines; the conceptual view of a database)
-
- It works around real world entities and the associations among them.
-0.809: (It; works around; real world entities and the associations)
-
- At view level  the ER model is considered a good option for designing databases.
-0.778: (the ER model; is considered; a good option)
-0.754: (the ER model; is considered at; view level)
-
-Here we are going to design an Entity Relationship  ER  model for a college database .
-0.685: (we; to design; an Entity Relationship ER model)
-0.507: (we; Here are going to design; an Entity Relationship ER model)
-
- Say we have the following statements.
-0.709: (we; have; the following statements)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-An entity relationship model  ER model  describes inter related things of interest in a specific domain of knowledge.
-0.854: (An entity relationship model ER model; describes; inter related things of interest)
-0.841: (An entity relationship model ER model; describes of; interest)
-
- An ER model is composed of entity types  which classify the things of interest  and specifies relationships that can exist between instances of those entity types.
-0.93: (An ER model; is composed of; entity types which classify the things of interest)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Entity relationship modeling was developed for database design by Peter Chen and published in a 1976 paper.
-0.929: (Entity relationship modeling; was developed for; database design)
-0.898: (Entity relationship modeling; be published in; a 1976 paper)
-
- However  variants of the idea existed previously.
-No extractions found.
-
- Some ER modelers show super and subtype entities connected by generalization specialization relationships  and an ER model can be used also in the specification of domain specific ontologies.
-0.937: (super and subtype entities connected by generalization specialization relationships and an ER model; can be used also in; the specification of domain specific ontologies)[attrib=Some ER modelers show]
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-An entity relationship model is usually the result of systematic analysis to define and describe what is important to processes in an area of a business.
-0.955: (An entity relationship model; is usually the result of; systematic analysis to define and describe what is important to processes in an area of a business)
-0.838: (An entity relationship model; is usually; the result of systematic analysis)
-
- It does not define the business processes  it only presents a business data schema in graphical form.
-0.64: (It; does not define; the business)
-
- It is usually drawn in a graphical form as boxes  entities  that are connected by lines  relationships  which express the associations and dependencies between entities.
-0.891: (It; is usually drawn in; a graphical form)
-0.42: (graphical; be form as; boxes entities that are connected by lines relationships)
-
- An ER model can also be expressed in a verbal form  for example  one building may be divided into zero or more apartments  but one apartment can only be located in one building.
-0.929: (An ER model; can also be expressed in; a verbal form)
-0.914: (one apartment; can only be located in; one building)
-0.595: (one apartment; can only be located at; one building)
-0.594: (one apartment; can only be located on; one building)
-0.252: (verbal; be form for; example one building)
 

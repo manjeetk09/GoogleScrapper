@@ -1,41 +1,3 @@
-Supervised learning is the machine learning task of inferring a function from labeled training data.
-0.711: (a function; be inferring from; labeled training data)
-0.704: (Supervised learning; is; the machine)
-
- The training data consist of a set of training examples.
-0.892: (The training data; consist of; a set of training examples)
-
- In supervised learning  each example is a pair consisting of an input object  typically a vector  and a desired output value  also called the supervisory signal .
-0.806: (a vector and a desired output value; also called; the supervisory signal)
-0.792: (a pair; consisting of; an input object typically a vector and a desired output value also called the supervisory signal)
-0.752: (each example; is; a pair consisting of an input object)
-0.746: (each example; is a pair in; supervised learning)
-
- A supervised learning algorithm analyzes the training data and produces an inferred function  which can be used for mapping new examples.
-0.812: (A supervised learning algorithm analyzes; produces; an inferred function which can be used for mapping new examples)
-
- An optimal scenario will allow for the algorithm to correctly determine the class labels for unseen instances.
-0.861: (An optimal scenario; will allow for; the algorithm)
-0.788: (An optimal scenario; to correctly determine; the class labels)
-0.693: (An optimal scenario; will allow to correctly determine; the class labels)
-
- This requires the learning algorithm to generalize from the training data to unseen situations in a  reasonable  way  see inductive bias .
-0.854: (the learning algorithm; to generalize from; the training data)
-0.82: (the learning algorithm; to generalize to; unseen situations)
-0.756: (the learning algorithm; to generalize in; a reasonable way)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
 .
 No extractions found.
 
@@ -54,22 +16,13 @@ No extractions found.
 .
 No extractions found.
 
-.
+18.
 No extractions found.
 
-.
-No extractions found.
+ Getting Horizons Horizontal   the perfect way to ruin that lovely sunset or landscape shot is to make it lean to one side.
+0.798: (it; lean to; one side)
 
-.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-.
+ Get your Horizon Horizontal .
 No extractions found.
 
 .
@@ -86,114 +39,4 @@ No extractions found.
 
 .
 No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-Some popular examples of supervised machine learning algorithms are .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Hi Jason .
-No extractions found.
-
-Hi Jason  this post is really helpful for my Cognitive Neural Network revision .
-0.807: (Hi Jason; is really helpful for; my Cognitive Neural Network revision)
-0.804: (Hi Jason; is really; helpful)
-
-Hi Jason .
-No extractions found.
-
-Hi Jason .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Supervised learning is a type of machine learning algorithm that uses a known dataset  called the training dataset  to make predictions.
-0.935: (Supervised learning; is a type of; machine learning algorithm that uses a known dataset)
-0.894: (a type of machine learning algorithm; called; the training dataset to make predictions)
-0.768: (Supervised learning; is; a type of machine learning algorithm)
-0.62: (a known dataset; be uses by; machine learning algorithm)
-
- The training dataset includes input data and response values.
-0.782: (The training dataset; includes; input data and response values)
-
- From it  the supervised learning algorithm seeks to build a model that can make predictions of the response values for a new dataset.
-0.803: (the supervised learning algorithm; seeks to build; a model that can make predictions of the response values for a new dataset)
-0.708: (predictions of the response values; can be make for; a new dataset)
-
- A test dataset is often used to validate the model.
-0.761: (A test dataset; to validate; the model)
-
- Using larger training datasets often yield models with higher predictive power that can generalize well for new datasets.
-0.762: (larger training datasets; often yield; models)
 
