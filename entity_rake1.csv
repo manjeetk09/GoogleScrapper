@@ -1,79 +1,178 @@
-108;http://www.agiledata.org/essays/dataModeling101.html;ldms;1.0;0.0;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;created;1.0;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;models;2.5;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;explore domain concepts;7.0;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;agile teams high;8.0;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;alternatives;1.0;0.0;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;called domain models;8.5;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;project stakeholders;4.0;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;high;2.0;0.0;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;precursor;1.0;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;explore;2.0;0.03508771929824561;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;part;1.0;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;conceptual data models;8.5;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;concepts;2.0;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;level conceptual models;8.5;0.017543859649122806;4.0
-108;http://www.agiledata.org/essays/dataModeling101.html;typically;1.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;domain concepts;4.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;ldms;1.25;0.0;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;simply;1.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html; ldms depict;3.25;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;rarely;1.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;agile projects;4.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;logical data models;9.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;data attributes describing;9.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;entire enterprise;4.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;entities;1.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;add;1.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;problem domain;4.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;scope;1.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;logical entity types;8.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;relationships;1.0;0.0;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;entity types;5.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;practice;1.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;  ldms;1.25;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;explore;1.0;0.03508771929824561;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;single project;4.0;0.017543859649122806;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;traditional projects;4.0;0.03508771929824561;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html; ldms;1.25;0.0;4.0
-109;http://www.agiledata.org/essays/dataModeling101.html;typically referred;4.0;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;relationships;1.0;0.0;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;tables;1.33333333333;0.017543859649122806;2.0
-110;http://www.agiledata.org/essays/dataModeling101.html;physical modeling;4.5;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;pdms;1.0;0.0;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;database;1.0;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;agile;1.0;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;prove;1.0;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;focus;1.0;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;data columns;4.33333333333;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;internal schema;4.0;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html; pdms;1.0;0.0;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;traditional projects;4.0;0.03508771929824561;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;article;1.0;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;data tables;3.66666666667;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;design;1.0;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;depicting;1.0;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;physical data models;7.83333333333;0.017543859649122806;4.0
-110;http://www.agiledata.org/essays/dataModeling101.html;result;1.0;0.017543859649122806;4.0
-117;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;entity relationship diagram;9.0;0.16666666666666666;4.0
-117;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;showing;1.0;0.16666666666666666;4.0
-117;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;typical online;4.0;0.16666666666666666;4.0
-118;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;tables;1.0;0.16666666666666666;2.0
-118;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;parentchild relationships;4.0;0.16666666666666666;4.0
-119;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;fully understand;4.0;0.16666666666666666;4.0
-124;https://en.wikipedia.org/wiki/Data_model;relationships;1.0;0.0;4.0
-124;https://en.wikipedia.org/wiki/Data_model;document entities;4.0;0.06666666666666667;4.0
-124;https://en.wikipedia.org/wiki/Data_model;bind;1.0;0.06666666666666667;4.0
-124;https://en.wikipedia.org/wiki/Data_model;data structure diagram;7.5;0.06666666666666667;4.0
-124;https://en.wikipedia.org/wiki/Data_model;data model;4.5;0.06666666666666667;4.0
-124;https://en.wikipedia.org/wiki/Data_model;diagram;2.0;0.06666666666666667;4.0
-124;https://en.wikipedia.org/wiki/Data_model;providing graphical notations;9.0;0.06666666666666667;4.0
-124;https://en.wikipedia.org/wiki/Data_model;constraints;1.0;0.0;4.0
-125;https://en.wikipedia.org/wiki/Data_model;representing relationships;4.0;0.06666666666666667;4.0
-125;https://en.wikipedia.org/wiki/Data_model;dsds;1.0;0.0;4.0
-125;https://en.wikipedia.org/wiki/Data_model;arrows;1.0;0.06666666666666667;4.0
-125;https://en.wikipedia.org/wiki/Data_model;boxes;1.0;0.06666666666666667;4.0
-125;https://en.wikipedia.org/wiki/Data_model;basic graphic elements;9.0;0.06666666666666667;4.0
-125;https://en.wikipedia.org/wiki/Data_model;representing entities;4.0;0.06666666666666667;4.0
-126;https://en.wikipedia.org/wiki/Data_model;data structure diagrams;9.0;0.06666666666666667;4.0
-135;http://www.sparxsystems.com/enterprise_architect_user_guide/9.3/database_engineering/adatamodeldiagram.html;data model diagram;9.0;1.0;4.0
+6;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;ciphertext;1.0;0.0;5.0
+6;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;encrypting;1.0;0.05555555555555555;5.0
+6;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;decrypting;1.0;0.05555555555555555;5.0
+6;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;designed;1.0;0.05555555555555555;5.0
+6;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;small;1.0;0.05555555555555555;5.0
+6;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;propagate indefinitely;4.0;0.05555555555555555;5.0
+7;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;previous plaintext block;7.33333333333;0.05555555555555555;5.0
+7;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;plaintext;2.0;0.0;5.0
+7;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;encrypted;1.0;0.05555555555555555;1.6666666666666667
+7;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;pcbc mode;4.0;0.05555555555555555;5.0
+7;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;xored;1.0;0.0;5.0
+7;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;previous ciphertext block;8.33333333333;0.05555555555555555;1.6666666666666667
+7;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;block;2.33333333333;0.1111111111111111;0.8333333333333334
+8;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;cbc mode;4.0;0.05555555555555555;2.5
+8;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;initialization vector;4.0;0.05555555555555555;2.5
+8;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;block;1.0;0.1111111111111111;0.8333333333333334
+26;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;encryption;1.0;0.05555555555555555;2.5
+26;https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation;decryption algorithms;4.0;0.05555555555555555;5.0
+39;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;cipher block chaining;8.0;0.09375;5.0
+39;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;block cipher;5.0;0.03125;2.5
+39;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;mode;1.0;0.03125;5.0
+39;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;operation;1.0;0.03125;5.0
+40;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;cipher block chaining;9.0;0.09375;5.0
+40;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;initialization vector;4.0;0.03125;2.5
+40;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;length;1.0;0.0;5.0
+41;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;decryption;1.0;0.09375;1.25
+41;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;ciphertext;2.0;0.0;5.0
+41;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;key characteristics;4.0;0.03125;5.0
+41;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;chaining mechanism;4.0;0.03125;5.0
+41;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;depend;1.0;0.03125;5.0
+41;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;preceding ciphertext blocks;8.0;0.03125;5.0
+41;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;block;1.0;0.03125;0.7142857142857143
+42;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;entire validity;4.0;0.03125;5.0
+42;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;contained;1.0;0.03125;5.0
+42;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;result;1.0;0.03125;1.6666666666666667
+42;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;preceding blocks;4.0;0.03125;5.0
+43;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;ciphertext block affects;9.0;0.03125;5.0
+43;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;single bit error;9.0;0.03125;5.0
+43;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;subsequent blocks;4.0;0.03125;5.0
+43;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;decryption;1.0;0.09375;1.25
+44;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;rearrangement;1.0;0.0;5.0
+44;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;decryption;1.0;0.09375;1.25
+44;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;ciphertext blocks;4.0;0.03125;5.0
+44;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;order;1.0;0.03125;5.0
+44;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;corrupted;1.0;0.03125;5.0
+45;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;xored;1.0;0.0;5.0
+45;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;cipher block chaining;8.5;0.09375;5.0
+45;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;encrypted;1.0;0.03125;1.6666666666666667
+45;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;basically;1.0;0.03125;5.0
+45;http://searchsecurity.techtarget.com/definition/cipher-block-chaining;plaintext block;4.5;0.03125;5.0
+54;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;encoding;1.0;0.09090909090909091;5.0
+54;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;weakness;1.0;0.09090909090909091;5.0
+54;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;bitmap image;4.0;0.09090909090909091;5.0
+54;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;ecb mode;4.0;0.18181818181818182;5.0
+54;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;encryption;1.0;0.09090909090909091;2.5
+54;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;typical;1.0;0.09090909090909091;5.0
+55;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;bmp file;4.0;0.09090909090909091;5.0
+56;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;strong encryption algorithm;9.0;0.09090909090909091;5.0
+56;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;content;1.0;0.09090909090909091;5.0
+56;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;blur efficiently;4.0;0.09090909090909091;5.0
+56;http://www.crypto-it.net/eng/theory/modes-of-block-ciphers.html;ecb mode;4.0;0.18181818181818182;5.0
+57;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;cbc mode;4.0;0.034482758620689655;2.5
+57;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;encrypted;1.0;0.034482758620689655;1.6666666666666667
+57;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;added;1.0;0.034482758620689655;5.0
+57;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;result;1.0;0.06896551724137931;2.5
+57;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;key;1.0;0.0;5.0
+57;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;previous ciphertext block;9.0;0.06896551724137931;2.5
+57;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;current plaintext block;9.0;0.034482758620689655;5.0
+58;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;decryption;1.0;0.034482758620689655;0.8333333333333334
+58;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;involves decrypting;4.0;0.034482758620689655;5.0
+58;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;adding;1.0;0.034482758620689655;5.0
+58;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;reverse process;4.0;0.034482758620689655;5.0
+58;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;current ciphertext;4.5;0.034482758620689655;5.0
+58;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;result;1.0;0.06896551724137931;2.5
+58;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;previous ciphertext block;8.5;0.06896551724137931;2.5
+59;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;cfb mode;4.0;0.034482758620689655;5.0
+59;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;type;1.0;0.034482758620689655;5.0
+59;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;block cipher;4.0;0.034482758620689655;2.5
+59;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;stream cipher;4.0;0.06896551724137931;5.0
+59;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;converting;1.0;0.034482758620689655;5.0
+59;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;apparently;1.0;0.034482758620689655;5.0
+60;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;produce keystream;4.0;0.034482758620689655;5.0
+60;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;bottom register;4.0;0.034482758620689655;5.0
+60;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;encryption algorithm;4.0;0.034482758620689655;5.0
+60;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;keystream generator;4.0;0.034482758620689655;5.0
+61;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;plaintext;1.0;0.0;5.0
+61;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;xored;1.0;0.0;5.0
+61;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;key stream;4.0;0.034482758620689655;5.0
+61;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;case;1.0;0.034482758620689655;5.0
+61;https://www.tutorialspoint.com/cryptography/block_cipher_modes_of_operation.htm;stream cipher;4.0;0.06896551724137931;5.0
+62;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;sort;1.0;0.022727272727272728;5.0
+62;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;blockcipher;1.0;0.0;5.0
+62;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;feedback;1.0;0.0;5.0
+62;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;simple operations;4.0;0.022727272727272728;5.0
+62;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;combining;1.0;0.022727272727272728;5.0
+62;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;streamcipher;1.0;0.0;5.0
+62;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;built;1.0;0.022727272727272728;5.0
+63;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;simple streamcipher;4.0;0.022727272727272728;5.0
+63;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;chaining;1.0;0.022727272727272728;5.0
+63;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;electronic codebook  mode;9.0;0.022727272727272728;5.0
+64;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;plaintext;1.0;0.0;5.0
+64;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;blocks p1;4.0;0.022727272727272728;5.0
+64;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;partitioned;1.0;0.0;5.0
+67;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;size;1.0;0.022727272727272728;5.0
+68;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;shorter;1.0;0.022727272727272728;5.0
+68;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;padded appropriately;4.0;0.022727272727272728;5.0
+68;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;block pn;4.0;0.022727272727272728;5.0
+69;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;ciphertext blocks c1;9.0;0.022727272727272728;5.0
+72;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;obtained;1.0;0.022727272727272728;5.0
+72;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;blockcipher;1.0;0.0;5.0
+72;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;plaintext;1.0;0.0;5.0
+72;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;applying;1.0;0.022727272727272728;5.0
+72;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;block;1.0;0.045454545454545456;1.25
+73;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;ci   ek;4.0;0.022727272727272728;5.0
+73;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;formally;1.0;0.022727272727272728;5.0
+74;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;simple;1.0;0.022727272727272728;5.0
+74;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;decryption;1.0;0.022727272727272728;1.0
+74;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;pi   dk;4.0;0.022727272727272728;5.0
+75;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;simplicity;1.0;0.022727272727272728;5.0
+75;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;ciphertext block;3.5;0.022727272727272728;5.0
+75;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;plaintext;1.0;0.0;5.0
+75;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;times;1.0;0.022727272727272728;5.0
+75;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;occurence encrypts;4.0;0.022727272727272728;5.0
+75;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;important drawback;4.0;0.022727272727272728;5.0
+75;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;appears;1.0;0.022727272727272728;5.0
+75;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;block;1.5;0.045454545454545456;1.25
+76;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;knowing;1.0;0.0;5.0
+76;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;exploited;1.0;0.022727272727272728;5.0
+76;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;occurence;1.0;0.0;5.0
+76;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;plaintext;1.0;0.0;5.0
+76;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;attacker;1.5;0.022727272727272728;5.0
+76;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;detect;1.0;0.022727272727272728;5.0
+76;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;attacker  suppose;3.5;0.022727272727272728;5.0
+76;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;key;1.0;0.0;5.0
+78;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;sort;1.0;0.022727272727272728;5.0
+78;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;blockcipher;1.0;0.0;5.0
+78;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;feedback;1.0;0.0;5.0
+78;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;simple operations;4.0;0.022727272727272728;5.0
+78;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;combining;1.0;0.022727272727272728;5.0
+78;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;streamcipher;1.0;0.0;5.0
+78;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;built;1.0;0.022727272727272728;5.0
+79;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;simple streamcipher;4.0;0.022727272727272728;5.0
+79;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;chaining;1.0;0.022727272727272728;5.0
+79;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;electronic codebook  mode;9.0;0.022727272727272728;5.0
+80;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;plaintext;1.0;0.0;5.0
+80;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;blocks p1;4.0;0.022727272727272728;5.0
+80;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;partitioned;1.0;0.0;5.0
+83;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;size;1.0;0.022727272727272728;5.0
+84;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;shorter;1.0;0.022727272727272728;5.0
+84;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;padded appropriately;4.0;0.022727272727272728;5.0
+84;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;block pn;4.0;0.022727272727272728;5.0
+85;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;ciphertext blocks c1;9.0;0.022727272727272728;5.0
+88;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;obtained;1.0;0.022727272727272728;5.0
+88;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;blockcipher;1.0;0.0;5.0
+88;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;plaintext;1.0;0.0;5.0
+88;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;applying;1.0;0.022727272727272728;5.0
+88;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;block;1.0;0.045454545454545456;1.25
+89;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;ci   ek;4.0;0.022727272727272728;5.0
+89;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;formally;1.0;0.022727272727272728;5.0
+90;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;simple;1.0;0.022727272727272728;5.0
+90;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;decryption;1.0;0.022727272727272728;1.0
+90;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;pi   dk;4.0;0.022727272727272728;5.0
+91;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;simplicity;1.0;0.022727272727272728;5.0
+91;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;ciphertext block;3.5;0.022727272727272728;5.0
+91;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;plaintext;1.0;0.0;5.0
+91;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;times;1.0;0.022727272727272728;5.0
+91;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;occurence encrypts;4.0;0.022727272727272728;5.0
+91;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;important drawback;4.0;0.022727272727272728;5.0
+91;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;appears;1.0;0.022727272727272728;5.0
+91;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;block;1.5;0.045454545454545456;1.25
+92;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;knowing;1.0;0.0;5.0
+92;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;exploited;1.0;0.022727272727272728;5.0
+92;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;occurence;1.0;0.0;5.0
+92;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;plaintext;1.0;0.0;5.0
+92;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;attacker;1.5;0.022727272727272728;5.0
+92;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;detect;1.0;0.022727272727272728;5.0
+92;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;attacker  suppose;3.5;0.022727272727272728;5.0
+92;http://www.algorithmic-solutions.info/leda_manual/Encryption_Decryption_with.html;key;1.0;0.0;5.0

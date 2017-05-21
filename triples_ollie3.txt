@@ -1,60 +1,52 @@
-.
-No extractions found.
+We shall not see the implementation of Breadth First Traversal  in C programming language.
+0.784: (We; shall not see; the implementation of Breadth First Traversal)
+0.538: (We; be the implementation of; Breadth First Traversal)
+
+ For our reference purpose, we shall follow our example and take this as our graph model  .
+0.562: (we; shall take this as; our graph model)
+0.562: (we; shall follow; our example)
+
+Depth First Traversal  for a graph is similar to Depth First Traversal of a tree.
+0.883: (Depth First Traversal; is similar to; Depth First Traversal of a tree)
+0.764: (Depth First Traversal; is; similar)
+
+ The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again.
+0.694: (The only catch; here is may contain cycles unlike; trees)
+0.606: (The only catch; here is may contain; cycles)
+0.571: (we; so may come again to; the same node)
+0.485: (cycles; here is may contain unlike; trees)
+0.392: (graphs; here is may contain; cycles)
+0.318: (graphs; here is may contain cycles unlike; trees)
+
+ To avoid processing a node more than once, we use a boolean visited array.
+0.658: (we; use; a boolean visited array)
+
+ For example, in the following graph, we start traversal from vertex 2.
+0.639: (we; start; traversal)
+0.45: (we; start traversal from vertex in; the following graph)
+0.186: (we; start traversal from vertex for; example)
+
+ When we come to vertex 0, we look for all adjacent vertices of it.
+0.769: (we; look for; all adjacent vertices of it)
+
+ 2 is also an adjacent vertex of 0.
+0.853: (2; is also an adjacent vertex of; 0.)
+0.665: (2; is also; an adjacent vertex of 0.)
+
+ If we don t mark visited vertices, then 2 will be processed again and it will become a nonterminating process.
+0.501: (it; will will become; a nonterminating process)
+0.06: (we; don; t mark)
+
+ A Depth First Traversal of the following graph is 2, 0, 1, 3.
+0.662: (A Depth First Traversal of the following graph; is; 2)
 
 .
 No extractions found.
 
-The following deviations from the relational model have been noted in SQL.
-0.905: (The following deviations; have been noted in; SQL.)
-
- Note that few database servers implement the entire SQL standard and in particular do not allow some of these deviations.
-0.789: (that few database servers; do not allow some of these deviations in; particular)
-0.647: (that few database servers; implement do; the entire SQL standard)
-
- Whereas NULL is ubiquitous, for example, allowing duplicate column names within a table or anonymous columns is uncommon.
-0.75: (duplicate column names; is; uncommon)
-0.407: (uncommon; be duplicate column names within; a table or anonymous columns)
-
 .
 No extractions found.
 
 .
-No extractions found.
-
-A relational database is a set of tables containing data fitted into predefined categories.
-0.924: (A relational database; is a set of; tables containing data)
-0.793: (data; be fitted into; predefined categories)
-0.736: (A relational database; is; a set of tables)
-
- Each table  contains one or more data categories in columns.
-0.807: (Each table; contains; one or more data categories)
-
- Each row contains a unique instance of data for the categories defined by the columns.
-0.854: (Each row; contains; a unique instance of data)
-0.705: (the categories; be defined by; the columns)
-
- For example, a typical business order entry database would include a table that described a customer with columns for name, address, phone number, and so forth.
-0.837: (a typical business order entry database; would include; a table that described a customer with columns for name , address , phone number , and so forth)
-0.754: (a customer; be described with; columns)
-0.281: (address; be columns for; name)
-0.19: (a table that described a customer with columns for name , address , phone number , and so forth; would be include for; example)
-0.123: (a typical business order entry database; would include phone number for; example)
-0.123: (a typical business order entry database; would include so forth for; example)
-0.12: (a typical business order entry database; would include a table that described a customer with columns for name , address , phone number , for; example)
-
- Another table would describe an order  product, customer, date, sales price, and so forth.
-0.741: (Another table; would describe; an order product)
-
- A user of the database could obtain a view of the database that fitted the user s needs.
-0.854: (A user of the database; could obtain; a view of the database)
-0.667: (the user; s; needs)
-
- For example, a branch office manager might like a view or report on all customers that had bought products after a certain date.
-0.798: (a branch office manager; might like; a view or report)
-0.2: (a view or report; might be like for; example)
-0.165: (a branch office manager; might like a view or report on all customers that had bought products after a certain date for; example)
-
- A financial services manager in the same company could, from the same tables, obtain a report on accounts that needed to be paid.
 No extractions found.
 
 .
@@ -69,86 +61,11 @@ No extractions found.
 .
 No extractions found.
 
- .
+.
 No extractions found.
 
- .
+.
 No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-Relational database was proposed by Edgar Codd  around 1969.
-0.919: (Relational database; was proposed by; Edgar Codd)
-0.898: (Relational database; was proposed around; 1969)
-
- It has since become the dominant database model for commercial applications .
-0.784: (It; has become the dominant database model for; commercial applications)
-
- Today, there are many commercial Relational Database Management System , such as Oracle, IBM DB2 and Microsoft SQL Server.
-No extractions found.
-
- There are also many free and opensource RDBMS, such as MySQL, mSQL  and the embedded JavaDB .
-No extractions found.
-
- .
-No extractions found.
-
-In the relational model, a table cannot contain duplicate rows, because that would create ambiguities in retrieval.
-0.648: (a table cannot; contain; duplicate rows)[enabler=because that would create ambiguities in retrieval]
-0.405: (a table cannot; contain duplicate rows , in; the relational model)[enabler=because that would create ambiguities in retrieval]
-
- To ensure uniqueness, each table should have a column , called primary key, that uniquely identifies every records of the table.
-0.773: (each table; should have; a column)
-0.62: (every records of the table; be uniquely identifies by; primary key)
-
- For example, an unique number customerID can be used as the primary key for the Customers table  productCode for Products table  isbn for Books table.
-0.925: (an unique number customerID; can be used as; the primary key)
-0.46: (an unique number customerID; can be used for; example)
-
- A primary key is called a simple key if it is a single column  it is called a composite key if it is made up of several columns.
-0.799: (A primary key; is called; a simple key if it is a single column it is called a composite key if it is made up of several columns)
-0.687: (it; is called; a composite key)[enabler=if it is a single column it is called a composite key if it is made up of several columns]
-0.542: (it; is called a composite key in; a simple key)[enabler=if it is a single column it is called a composite key if it is made up of several columns]
-0.255: (it; is made of; several columns)
-0.06: (it; is; a single column)
-
-For example,.
-No extractions found.
-
- .
-No extractions found.
-
-The most common relational model is one where a single record in the parenttable relates to multiple records in the child table.
-0.667: (The most common relational model; is; one)
-
- This is called aonetomany relationship.
-No extractions found.
-
- The sales leads example is a onetomanyrelationship because one record in the Companies table can relate to manyrecords in the Contacts table .
-0.785: (one record; can relate to; manyrecords)
-0.687: (The sales leads example; is; a onetomanyrelationship)
-
- In these models, the  many  table is theone where you add the foreign key.
-0.773: (you; add; the foreign key)
-
-Another example of a onetomany relationship is an application that tracksaccounts receivable invoices.
-0.778: (Another example of a onetomany relationship; is; an application that tracksaccounts receivable invoices)
-0.492: (an application that tracksaccounts receivable invoices; be Another example of; a onetomany relationship)
-
- You need one table for the invoice data and another for the customer data .
-0.842: (You; need; one table)
-
- In this case, onecustomer can place many orders, so Customers is the parent table, Invoices isthe child table, and the common field is the Customer table s primarykey.
-0.729: (onecustomer; can place; many orders)
-0.689: (Invoices; isthe; child table)
-0.62: (Customers; is; the parent table , Invoices isthe child table , and the common field)
-0.591: (onecustomer; can place many orders in; this case)
-0.585: (the parent table , Invoices isthe child table , and the common field; is; the Customer table)
-0.473: (many orders; can be place in; this case)
 
 .
 No extractions found.
@@ -156,41 +73,97 @@ No extractions found.
 .
 No extractions found.
 
-More on the general topic  Database Model Concepts.
+.
 No extractions found.
 
 .
 No extractions found.
 
- The  Relational Database Model is the most common model in industry today.
-0.89: (The Relational Database Model; is the most common model in; industry)
-0.734: (The Relational Database Model; is; the most common model)
-
-  A relational database is based on the relational model developed by E.
-0.945: (A relational database; is based on; the relational model developed by E.)
-0.669: (the relational model; be developed by; E.)
-
-F.
+.
 No extractions found.
 
- Codd.
+Breadth First Traversal  for a graph is similar to Breadth First Traversal of a tree .
+0.866: (Breadth First Traversal; is similar to; Breadth First Traversal of a tree)
+0.734: (Breadth First Traversal; is; similar)
+
+ The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again.
+0.694: (The only catch; here is may contain cycles unlike; trees)
+0.606: (The only catch; here is may contain; cycles)
+0.571: (we; so may come again to; the same node)
+0.485: (cycles; here is may contain unlike; trees)
+0.392: (graphs; here is may contain; cycles)
+0.318: (graphs; here is may contain cycles unlike; trees)
+
+ To avoid processing a node more than once, we use a boolean visited array.
+0.658: (we; use; a boolean visited array)
+
+ For simplicity, it is assumed that all vertices are reachable from the starting vertex.
+0.869: (all vertices; are reachable from; the starting vertex)
+0.655: (it; is assumed for; simplicity)
+
+ For example, in the following graph, we start traversal from vertex 2.
+0.639: (we; start; traversal)
+0.45: (we; start traversal from vertex in; the following graph)
+0.186: (we; start traversal from vertex for; example)
+
+ When we come to vertex 0, we look for all adjacent vertices of it.
+0.769: (we; look for; all adjacent vertices of it)
+
+ 2 is also an adjacent vertex of 0.
+0.853: (2; is also an adjacent vertex of; 0.)
+0.665: (2; is also; an adjacent vertex of 0.)
+
+ If we don t mark visited vertices, then 2 will be processed again and it will become a nonterminating process.
+0.501: (it; will will become; a nonterminating process)
+0.06: (we; don; t mark)
+
+ A Breadth First Traversal of the following graph is 2, 0, 3, 1.
+0.634: (Traversal of the following graph; is; 2)
+0.596: (A Breadth; be First Traversal of; the following graph)
+
+.
 No extractions found.
 
- A relational database allows the definition of data structures, storage and retrieval operations and integrity constraints.
-0.799: (A relational database; allows; the definition of data)
+.
+No extractions found.
 
- In such a database the data and relations between them are organized into tables.
-0.914: (the data and relations; are organized into; tables)
-0.625: (the data and relations; are organized in; such a database)
+.
+No extractions found.
 
- A table is a collection of records and each record in a table contains the same fields.
-0.913: (A table; is a collection of; records)
-0.804: (A table; is; a collection of records and each record)
-0.772: (a collection of records and each record; contains; the same fields)
-0.721: (A table; be each record in; a table)
+.
+No extractions found.
 
-   The contents of a table can be permanently saved for future use.
-0.759: (The contents of a table; can be permanently saved for; future use)
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+In this tutorial you will learn about Depth First Search  program in C with algorithm.
+0.891: (you; will learn about; Depth First Search program)
+0.733: (Depth First Search; be program in; C)
+0.668: (you; will learn in; this tutorial)
+
+.
+No extractions found.
 
  .
 No extractions found.
@@ -204,7 +177,7 @@ No extractions found.
 .
 No extractions found.
 
-.
+ .
 No extractions found.
 
 .
@@ -216,7 +189,51 @@ No extractions found.
 .
 No extractions found.
 
-.
+C++ Program Code for Selection Sort (Ascending Order) of array elements, with template class /*The following C++ Program Code for Selection sorting algorithm implementation which gives a sorted array arranged in ascending order. The....
+0.61: (/*The following C++ Program Code; sorting; algorithm implementation which gives a sorted array)
+0.564: (a sorted array arranged in ascending order; be gives by; algorithm implementation)
+
+C++ Program Code To Perform Quick Sort of array elements entered by user /*The following C++ Program code performs the Quick Sorting Algorithm on an array which is being entered by the user. The function part() i....
+0.687: (array elements; be entered by; user /*The following C++ Program code)
+0.637: (C++ Program Code To Perform Quick Sort of array elements; performs; the Quick Sorting Algorithm)
+
+C++ Banking Managment System Software/Project With Code, Featuring Account Creation, Deposit, Withdraw, Modify A/C Details, Balance Check etc /*The following C++ code is for, Bank Management Applications. This includes, Account Creation, Deposit, Withdraw, Modify A/C Details, Bala....
+0.21: (Modify A/C Details; be C++ Banking Managment System Software/Project with; Code)
+0.193: (Bala; be C++ Banking Managment System Software/Project with; Code)
+
+C++ Code For Mario Theme & Intro Song ( Interesing C++ Project Code) /*The Following C++ Code is for generating, Mario Theme Song & the Intro Song, by using the Beep() function & Sleep() Function whi....
+No extractions found.
+
+C++ Program/code to print all prime numbers between 1 to n. 0//In this program the user will be prompted to enter a number 'n' (integer), and the program will //print all the prime number be....
+0.689: (the user; 0// In this program the user will be prompted in; this program)
+0.216: (the program; C++ Program/code will be to; print)
+
+C program to evaluate the given postfix expression using Stack //The following program in C is to convert infix expression to postfix expression #include <stdio.h>                         //For s....
+0.665: (C program; is to convert; infix expression)
+0.576: (expression #include <stdio.h>; to be postfix //for; s)
+
+Write A Program In C To Implement Double Ended Queue, Insertion & delection From Front & rear operation   /* The following program in C, implements the logic of Double ended queue, in which the insertion & deletion from end as well as star....
+0.763: (Write A Program; implements; the logic of Double ended queue)
+
+C program to implement the Graph Traversal (a) Breadth first traversal (b) Depth first traversal //C program to implement the Graph Traversal //(a) Breadth first traversal //(b) Depth first traversal #include <stdio.h>     ....
+No extractions found.
+
+C/C++ Code for Snake Game, with 3 lives & loading graphics /* Description of the Snake Game C/C++ code: It deals with a snake game. In this game snake goes to eat different blobs that are randomly....
+0.731: (It; deals with; a snake game)
+
+Design a C program for Student Database using Single linked list and perform search, Insert and delete operation for a particular register number. #include <stdio.h> #include<stdlib.h> #include<conio.h> struct student{ char name[100]; char roll[10]; ....
+0.576: (C; be program for; Student Database)
+0.553: (Design; be a C program for; Student Database)
+0.404: (Design; be a C program for; a particular register number)
+
+Breadthfirst search  is a graph traversal algorithm that explores nodes in the order of their distance from the roots, where distance is defined as the minimum path length from a root to the node.
+0.925: (distance; is defined as; the minimum path length)
+0.849: (a graph traversal algorithm; explores nodes in; the order of their distance)
+0.698: (Breadthfirst search; is; a graph traversal algorithm that explores nodes in the order of their distance from the roots ,)
+0.564: (distance; is defined in; the roots)
+0.564: (nodes; be explores by; a graph traversal algorithm)
+
+ Its pseudocode looks like this .
 No extractions found.
 
 .
@@ -225,84 +242,20 @@ No extractions found.
 .
 No extractions found.
 
-.
-No extractions found.
+Clearly, nodes are popped in distance order  A, B, D, E, C.
+0.869: (nodes; Clearly are popped in; distance order)
 
-.
-No extractions found.
+ This is very useful when we are trying to find the shortest path through the graph to something.
+0.739: (the shortest path; to be find through; the graph)
+0.685: (we; to find; the shortest path)
+0.664: (we; are trying to find the shortest path through; the graph)
+0.568: (we; are trying to find; the shortest path)
 
-.
-No extractions found.
-
-Certain fields may be designated as keys, which means that searches for specific values of that field will use indexing to speed them up and more importantly, uniquely identify each entity.
-0.933: (Certain fields; may be designated as; keys which means that searches for specific values of that field will use indexing to speed them up and more importantly , uniquely identify each entity)
-0.712: (searches; will use; indexing)
-0.533: (searches; will more importantly uniquely identify; each entity)
-0.48: (searches; will use indexing to speed up; them)
-0.45: (searches; to speed up; them)
-
-  There are many types of keys, however, quite possibly the two most important are the primary key and the foreign key.
-No extractions found.
-
-  The primary key is what uniquely identifies each entity.
-No extractions found.
-
-  The foreign key is a primary key of one table that also sits in another table.
-0.955: (The foreign key; is a primary key of; one table that also sits in another table)
-0.738: (one table; also sits in; another table)
-0.736: (The foreign key; is; a primary key of one table)
-
-  Ultimately, the use of foreign keys is the heart of the relational database model.
-0.926: (the use of foreign keys; is the heart of; the relational database model)
-0.768: (the use of foreign keys; is; the heart of the relational database model)
-0.508: (foreign keys; be the use of; the relational database model)
-0.399: (the heart of the relational database model; be the use of; foreign keys)
-
-  This linkage that the foreign key provides is what allows tables to pull data from each other and link data together.
-0.799: (tables; to pull data from; each other and link data)
-0.798: (tables; to pull; data)
-0.658: (data; to be pull from; each other and link data)
-
-  Where fields in two different tables take values from the same set, a join operation can be performed to select related records in the two tables by matching values in those fields.
-0.731: (fields; take values from; the same set)
-0.73: (fields; take; values)
-0.665: (related records; to be select in; the two tables)
-0.608: (values; be matching in; those fields)
-
- Most often, but not always, the fields will have the same name in both tables.
-0.78: (the same name; Most often , but not always will be have in; both tables)
-0.756: (the fields; Most often , but not always will have; the same name)
-0.659: (the fields; Most often , but not always will have the same name in; both tables)
-
- For example, an  orders  table might contain  pairs and a  products  table might contain  pairs so to calculate a given customer s bill you would sum the prices of all products ordered by that customer by joining on the productcode fields of the two tables.
-0.796: (you; would sum; the prices of all products)
-0.676: (all products; be ordered by; that customer)
-0.668: (pairs; so to calculate; a given customer)
-0.231: (an orders table; might contain for; example)
-
- This can be extended to joining multiple tables on multiple fields.
-0.608: (multiple tables; be joining on; multiple fields)
-
- Because these relationships are only specified at retrieval time, relational databases are classed as dynamic database management system.
-0.914: (relational databases; are classed as; dynamic database management system)[enabler=Because these relationships are only specified at retrieval time]
-0.841: (these relationships; are only specified at; retrieval time)
-
-   Also, another important role of the primary key is called  determination .
-0.704: (another important role of the primary key; Also is called; determination)
-
-  What this means is that if you know the value of attribute X, you can determine the value of attribute Y.
-0.868: (you; can determine; the value of attribute Y)[enabler=if you know the value of attribute X]
-0.133: (you; know; the value of attribute X)
-
-    The relational database model is based on the Relational Algebra.
-0.914: (The relational database model; is based on; the Relational Algebra)
-
-  Which means that operations in the relational database model are based on Select, Project, Join, Intersect, Union, Difference, and Product.
-0.851: (operations; are based on; Select)
-0.494: (Select; are based on; Project)
-
-  Here is a brief description of each operation .
-No extractions found.
+ When a queue is used in this way, it is known as a worklist  it keeps track of work left to be done.
+0.894: (a queue; is used in; this way)
+0.766: (it; keeps track of; work)
+0.706: (it; keeps; track)
+0.366: (track; be keeps by; a worklist)
 
 .
 No extractions found.
@@ -316,28 +269,7 @@ No extractions found.
 .
 No extractions found.
 
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
+ .
 No extractions found.
 
 .

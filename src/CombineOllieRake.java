@@ -60,6 +60,7 @@ public class CombineOllieRake {
 
             while((line = br.readLine()) != null)
             {
+                System.out.println(line);
                 String []components = line.split(";");
                 int get_line = Integer.parseInt(components[0]);
                 int j = 0;
@@ -75,7 +76,13 @@ public class CombineOllieRake {
                 }
                 if(flag == 1)
                 {
+                    System.out.println("IF:" + components[2]);
                     bw.write(i+";"+get_line+";"+components[1]+";"+components[2]+";"+components[3]+";"+components[4]+";"+components[5]+";"+relation_score.get(j)+"\n");
+                }
+                else
+                {
+                    System.out.println("ELSE:" + components[2]);
+                    bw.write(i+";"+get_line+";"+components[1]+";"+components[2]+";"+components[3]+";"+components[4]+";"+components[5]+";"+0+"\n");
                 }
 
             }

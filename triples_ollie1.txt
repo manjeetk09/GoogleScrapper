@@ -13,113 +13,15 @@ No extractions found.
 .
 No extractions found.
 
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
+The Propagating Cipher Block Chaining or plaintext cipherblock chaining mode was designed to cause small changes in the ciphertext to propagate indefinitely when decrypting, as well as when encrypting.
 No extractions found.
 
-.
-No extractions found.
-
-.
-No extractions found.
+ In PCBC mode, each block of plaintext is XORed with both the previous plaintext block and the previous ciphertext block before being encrypted.
+0.925: (each block of plaintext; is XORed with; the previous plaintext block and the previous ciphertext block)
+0.742: (each block of plaintext; is XORed in; PCBC mode)
 
-.
-No extractions found.
+ As with CBC mode, an initialization vector is used in the first block.
+0.914: (an initialization vector; is used in; the first block)
 
 .
 No extractions found.
@@ -166,16 +68,13 @@ No extractions found.
 .
 No extractions found.
 
- .
-No extractions found.
-
 .
 No extractions found.
 
 .
 No extractions found.
 
-.
+Encryption and decryption algorithms are as follows .
 No extractions found.
 
 .
@@ -214,26 +113,32 @@ No extractions found.
 .
 No extractions found.
 
-.
-No extractions found.
+Cipher block chaining  is a mode of operation for a block cipher .
+0.936: (Cipher block chaining; is a mode of; operation)
+0.911: (Cipher block chaining; is a mode of operation for; a block cipher)
+0.794: (Cipher block chaining; is; a mode of operation)
 
-.
-No extractions found.
+ Cipher block chaining uses what is known as an initialization vector  of a certain length.
+0.862: (Cipher block chaining; is known as; an initialization vector of a certain length)
 
-.
-No extractions found.
+ One of its key characteristics is that it uses a chaining mechanism that causes the decryption of a block of ciphertext to depend on all the preceding ciphertext blocks.
+0.834: (the decryption of a block of ciphertext; to depend on; the preceding ciphertext blocks)
+0.679: (it; uses; a chaining mechanism that causes the decryption of a block of ciphertext to depend on all the preceding ciphertext blocks)
+0.438: (it; is in; One of its key characteristics)
 
-.
-No extractions found.
+ As a result, the entire validity of all preceding blocks is contained in the immediately previous ciphertext block.
+0.914: (the entire validity of all preceding blocks; is contained in; the immediately previous ciphertext block)
+0.754: (the entire validity of all preceding blocks; is contained as; a result)
 
-.
-No extractions found.
+ A single bit error in a ciphertext block affects the decryption of all subsequent blocks.
+0.833: (A single bit error; affects; the decryption of all subsequent blocks)
 
-.
-No extractions found.
+ Rearrangement of the order of the ciphertext blocks causes decryption to become corrupted.
+0.751: (decryption; to become; corrupted)
 
- .
-No extractions found.
+ Basically, in cipher block chaining, each plaintext block is XORed  with the immediately previous ciphertext block, and then encrypted.
+0.869: (each plaintext block; Basically is XORed with; the immediately previous ciphertext block)
+0.764: (each plaintext block; Basically is XORed in; cipher block chaining)
 
 .
 No extractions found.
@@ -241,9 +146,6 @@ No extractions found.
 .
 No extractions found.
 
- .
-No extractions found.
-
 .
 No extractions found.
 
@@ -262,55 +164,60 @@ No extractions found.
 .
 No extractions found.
 
-.
-No extractions found.
+A typical example of weakness of encryption using ECB mode is encoding a bitmap image  for example a .
+0.692: (A typical example of weakness of encryption; is encoding; a bitmap image)
 
-.
+bmp file .
 No extractions found.
 
-.
-No extractions found.
+ Even a strong encryption algorithm that uses ECB mode, cannot blur efficiently its content.
+0.71: (a strong encryption algorithm that uses ECB mode; cannot blur efficiently; its content)
+0.548: (ECB mode; be uses by; a strong encryption algorithm)
 
-.
-No extractions found.
+In CBC mode, the current plaintext block is added to the previous ciphertext block, and then the result is encrypted with the key.
+0.914: (the result; is encrypted with; the key)
+0.819: (the current plaintext block; is added then to; the previous ciphertext block)
+0.665: (the current plaintext block; is added then in; CBC mode)
 
-.
-No extractions found.
+ Decryption is thus the reverse process, which involves decrypting the current ciphertext and then adding the previous ciphertext block to the result.
+0.85: (Decryption; is thus; the reverse process which involves decrypting the current ciphertext and then adding the previous ciphertext block to the result)
+0.674: (the previous ciphertext block; be then adding to; the result)
 
-.
-No extractions found.
+Apparently, CFB mode is converting a block cipher into a type of stream cipher.
+0.744: (a block cipher; Apparently is converting into; a type of stream cipher)
+0.737: (CFB mode; Apparently is converting a block cipher into; a type of stream cipher)
+0.609: (CFB mode; Apparently is converting; a block cipher)
 
-.
-No extractions found.
+ The encryption algorithm is used as a keystream generator to produce keystream that is placed in the bottom register.
+0.935: (The encryption algorithm; is used as; a keystream generator to produce keystream)
 
-.
-No extractions found.
+ This key stream is then XORed with the plaintext as in case of stream cipher.
+0.929: (This key stream; is then XORed with; the plaintext)
 
-.
-No extractions found.
+A streamcipher is usually built by combining a blockcipher and some sort of feedback via some simple operations.
+0.674: (a blockcipher and some sort of feedback; be combining via; some simple operations)
 
-.
-No extractions found.
+ The most simple streamcipher is the electronic codebook  mode  No chaining is used.
+0.703: (The most simple streamcipher; is; the electronic codebook mode No chaining is used)
+0.564: (No chaining; is used in; the electronic codebook mode)
 
-.
-No extractions found.
+ The plaintext is partitioned into n blocks P1,.
+0.917: (The plaintext; is partitioned into; n blocks)
 
 .
 No extractions found.
 
 .
-No extractions found.
-
- .
 No extractions found.
 
-.
+, Pn of size b .
 No extractions found.
 
-.
-No extractions found.
+  If the last block Pn is shorter than b it is padded appropriately.
+0.63: (Pn; is shorter than; b it is padded appropriately)
+0.441: (it; is padded appropriately in; b)
 
-.
+  The ciphertext blocks C1,.
 No extractions found.
 
 .
@@ -319,57 +226,38 @@ No extractions found.
 .
 No extractions found.
 
-Conceptual data models. These models, sometimes called domain models, are typically used to explore domain concepts with project stakeholders.  On Agile teams high-level conceptual models are often created as part of your initial requirements envisioning efforts as they are used to explore the high-level static business structures and concepts. On traditional teams conceptual data models are often created as the precursor to LDMs or as alternatives to LDMs. .
-0.933: (conceptual data models; are often created as; the precursor to LDMs or as)
-0.919: (high-level conceptual models; are often created as; part of your initial requirements)
-0.892: (Conceptual data models; are typically used on; traditional teams conceptual data models are often created as the precursor to LDMs or as alternatives to LDMs.)
-0.892: (Conceptual data models; are typically used on; Agile teams)
-0.709: (domain concepts; to be explore with; project stakeholders)
-0.621: (conceptual data models; are often created in; traditional teams)
-0.606: (high-level conceptual models; are often created in; Agile teams)
-0.45: (high-level conceptual models; be part of; your initial requirements envisioning efforts as they are used to explore the high-level static business structures and concepts)
+, Cn are obtained by applying the blockcipher to each block of the plaintext.
+0.743: (the blockcipher; be applying to; each block of the plaintext)
 
-Logical data models (LDMs).  LDMs are used to explore the domain concepts, and their relationships, of your problem domain.  This could be done for the scope of a single project or for your entire enterprise. LDMs depict the logical entity types, typically referred to simply as entity types, the data attributes describing those entities, and the relationships between the entities. LDMs are rarely used on Agile projects although often are on traditional projects (where they rarely seem to add much value in practice)..
-0.791: (they; rarely seem to add much value in; practice)
-0.79: (they; rarely seem to add; much value)
-0.708: (the logical entity types; be typically referred to; LDMs)
-0.689: (Logical data models LDMs depict the logical entity types , typically referred to simply as entity types , the data attributes describing those entities , and the relationships between the entities . LDMs; are rarely used on; Agile projects)[enabler=although often are on traditional projects ( where they rarely seem to add much value in practice ) .]
-0.59: (much value; to be add in; practice)
-0.467: (LDMs); to explore; the domain concepts)
-0.443: (LDMs; to explore; the domain concepts)
-
-Physical data models (PDMs). PDMs are used to design the internal schema of a database, depicting the data tables, the data columns of those tables, and the relationships between the tables. PDMs often prove to be useful on both Agile and traditional projects and as a result the focus of this article is on physical modeling..
-0.875: (the focus of this article; is on; physical modeling)
-
-.
-No extractions found.
-
-.
+ More formally, Ci   EK .
 No extractions found.
 
-.
-No extractions found.
+ Decryption is simple, too  Pi   DK .
+0.688: (Decryption; is; simple)
 
-.
-No extractions found.
+ This simplicity has an important drawback  If a block B appears several times in the plaintext each occurence encrypts to the same ciphertext block.
+0.847: (each occurence; encrypts to; the same ciphertext block)
+0.768: (This simplicity; has; an important drawback)
+0.156: (a block; appears in; the plaintext)
 
-.
-No extractions found.
+ This can be exploited by an attacker  Suppose that the attacker knows P1  then he is able to detect every occurence of P1 in the plaintext without knowing the key .
+0.693: (he; to detect; every occurence of P1)
+0.665: (every occurence of P1; to be detect in; the plaintext)
+0.563: (he; is; able)
+0.323: (the attacker; knows then; P1)
 
 .
 No extractions found.
-
-The following entity relationship diagram is showing a typical online or retail business ER database model diagram sample.
-0.658: (The following entity relationship diagram; is showing; a typical online or retail business ER database model diagram sample)
 
- The database model diagram consists of five tables and four parentchild relationships.
-0.878: (The database model diagram; consists of; five tables and four parentchild relationships)
+A streamcipher is usually built by combining a blockcipher and some sort of feedback via some simple operations.
+0.674: (a blockcipher and some sort of feedback; be combining via; some simple operations)
 
- Be sure you fully understand it.
-0.818: (you; fully understand; it)
+ The most simple streamcipher is the electronic codebook  mode  No chaining is used.
+0.703: (The most simple streamcipher; is; the electronic codebook mode No chaining is used)
+0.564: (No chaining; is used in; the electronic codebook mode)
 
-.
-No extractions found.
+ The plaintext is partitioned into n blocks P1,.
+0.917: (The plaintext; is partitioned into; n blocks)
 
 .
 No extractions found.
@@ -377,18 +265,14 @@ No extractions found.
 .
 No extractions found.
 
-.
+, Pn of size b .
 No extractions found.
 
-A data structure diagram  is a diagram and data model used to describe conceptual data models by providing graphical notations which document entities and their relationships, and the constraints that bind them.
-0.829: (a diagram and data model; used to describe; conceptual data models)
-0.78: (a diagram and data model; to describe; conceptual data models)
-0.667: (A data structure diagram; is; a diagram and data model)
+  If the last block Pn is shorter than b it is padded appropriately.
+0.63: (Pn; is shorter than; b it is padded appropriately)
+0.441: (it; is padded appropriately in; b)
 
- The basic graphic elements of DSDs are boxes, representing entities, and arrows, representing relationships.
-0.545: (boxes , representing entities , and arrows; be The basic graphic elements of; DSDs)
-
- Data structure diagrams are most useful for documenting complex data entities.
+  The ciphertext blocks C1,.
 No extractions found.
 
 .
@@ -397,24 +281,26 @@ No extractions found.
 .
 No extractions found.
 
-.
-No extractions found.
+, Cn are obtained by applying the blockcipher to each block of the plaintext.
+0.743: (the blockcipher; be applying to; each block of the plaintext)
 
-.
+ More formally, Ci   EK .
 No extractions found.
 
-.
-No extractions found.
+ Decryption is simple, too  Pi   DK .
+0.688: (Decryption; is; simple)
 
-.
-No extractions found.
+ This simplicity has an important drawback  If a block B appears several times in the plaintext each occurence encrypts to the same ciphertext block.
+0.847: (each occurence; encrypts to; the same ciphertext block)
+0.768: (This simplicity; has; an important drawback)
+0.156: (a block; appears in; the plaintext)
 
-Example.
-No extractions found.
+ This can be exploited by an attacker  Suppose that the attacker knows P1  then he is able to detect every occurence of P1 in the plaintext without knowing the key .
+0.693: (he; to detect; every occurence of P1)
+0.665: (every occurence of P1; to be detect in; the plaintext)
+0.563: (he; is; able)
+0.323: (the attacker; knows then; P1)
 
 .
-No extractions found.
-
-Example Data Model Diagram.
 No extractions found.
 

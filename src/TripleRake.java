@@ -125,6 +125,10 @@ public class TripleRake
         for(int j=0;j<line_num.size()-1;j++)
         {
             System.out.println("LINE NUM:" + line_num.get(j) + ";" + line_num.get(j+1));
+//            if(j > line_num.size())
+//            {
+//                continue;
+//            }
             if(urls.get(line_num.get(j)-1).matches(urls.get(line_num.get(j+1)-1)))
             {
                 continue;

@@ -1,54 +1,46 @@
-.
+  .
 No extractions found.
 
-.
+Specially, for CNE algorithm, we define a class CNE, where details are inside mlpack src mlpack methods ne cne.
+0.699: (a class; be ne cne inside; mlpack src mlpack methods)[attrib=we Specially define]
+0.486: (we; Specially define for; CNE algorithm)
+
+hpp .
 No extractions found.
 
-A current example of navigational structuring can be found in the Document Object Model  often used in web browsers and closely associated with JavaScript.
-0.747: (the Document Object Model; often used in; web browsers)
-0.652: (the Document Object Model; closely associated with; JavaScript)
+ For each algorithm, including CNE, NEAT and HyperNEAT, there are same key functions , so that different algorithms can be called in similar style.
+0.819: (different algorithms; so can be called in; similar style)
+0.555: (same key functions; are for; each algorithm)
+0.535: (same key functions; are including; CNE , NEAT and HyperNEAT)
 
- The DOM  engine  is essentially a lightweight navigational database.
-0.762: (The DOM engine; is essentially; a lightweight navigational database)
+ Here we list some key functions .
+0.601: (we; Here list; some key functions)
 
- The World Wide Web itself and Wikipedia could potentially be considered forms of navigational databases, though they focus on humanreadable text rather than data .
-0.831: (The World Wide Web itself and Wikipedia; could potentially be considered; forms of navigational databases)[enabler=though they focus on humanreadable text rather than data]
-0.703: (they; focus on; humanreadable text)
-0.595: (The World Wide Web itself and Wikipedia; be forms of; navigational databases)
-
- In contrast, the Linked Data facet of the Semantic Web is specifically concerned with networkscale machinereadable data, and follows precisely the  follow your nose  paradigm implied by the navigational idea.
-0.888: (the Linked Data facet of the Semantic Web; is specifically concerned with; networkscale machinereadable data)
-0.842: (your nose paradigm; be implied by; the navigational idea)
-0.742: (the Linked Data facet of the Semantic Web; is specifically concerned in; contrast)
-
-.
+  .
 No extractions found.
 
-.
+There are several options available for the algorithm used for each Lloyd iteration, specified with the algorithm  option.
+0.829: (several options available; be specified with; the algorithm option)
+0.706: (the algorithm; be used for; each Lloyd iteration)
+
+ The standard O approach can be used .
 No extractions found.
 
-A current example of navigational structuring can be found in the Document Object Model  often used in web browsers and closely associated with JavaScript.
-0.747: (the Document Object Model; often used in; web browsers)
-0.652: (the Document Object Model; closely associated with; JavaScript)
+ Other options include the PellegMoore treebased algorithm , Elkan s triangleinequality based algorithm , and Hamerly s modification to Elkan s algorithm .
+0.617: (Other options; include Hamerly s modification to Elkan s algorithm; the PellegMoore treebased algorithm)
 
- The DOM  engine  is essentially a lightweight navigational database.
-0.762: (The DOM engine; is essentially; a lightweight navigational database)
-
- The World Wide Web itself and Wikipedia could potentially be considered forms of navigational databases, though they focus on humanreadable text rather than data .
-0.831: (The World Wide Web itself and Wikipedia; could potentially be considered; forms of navigational databases)[enabler=though they focus on humanreadable text rather than data]
-0.703: (they; focus on; humanreadable text)
-0.595: (The World Wide Web itself and Wikipedia; be forms of; navigational databases)
-
- In contrast, the Linked Data facet of the Semantic is specifically concerned with networkscale machinereadable data, and follows precisely the  follow your nose  paradigm implied by the navigational idea.
-0.888: (the Linked Data facet of the Semantic; is specifically concerned with; networkscale machinereadable data)
-0.842: (your nose paradigm; be implied by; the navigational idea)
-0.742: (the Linked Data facet of the Semantic; is specifically concerned in; contrast)
-
-.
+algorithm  .
 No extractions found.
 
-.
-No extractions found.
+These are a list of ideas compiled by mlpack developers  they range from simpler code maintenance tasks to difficult machine learning algorithm implementation, which means that there are suitable ideas for a wide range of student abilities and interests.
+0.881: (they; range from; simpler code maintenance tasks)
+0.797: (they; range to; difficult machine)
+0.687: (ideas; be compiled by; mlpack developers they range from simpler code maintenance tasks to difficult machine learning algorithm implementation ,)
+
+ The  necessary knowledge  sections can often be replaced with  willing to learn  for the easier projects, and for some of the more difficult problems, a full understanding of the description statement and some coding knowledge is sufficient.
+0.929: (The necessary knowledge sections; can often be replaced with; willing)
+0.449: (a full understanding of the description statement; can is; sufficient)
+0.332: (sufficient; be a full understanding of; the description statement and some coding knowledge)
 
 .
 No extractions found.
@@ -68,77 +60,29 @@ No extractions found.
 .
 No extractions found.
 
-.
+This last goal is somewhat in contrast to the scikitlearn project, which generally only implements stable, wellknown algorithms.
+0.872: (This last goal; is somewhat in; contrast)
+
+ mlpack can fill a niche by providing highquality implementations of algorithms that just appeared in conferences or journals.
+0.68: (algorithms; just appeared in; conferences or journals)
+0.652: (mlpack; can fill; a niche)
+
+ In those cases where mlpack is implementing wellknown algorithms  i.
+0.391: (mlpack; is implementing; wellknown algorithms)
+
+e.
 No extractions found.
 
-.
+ SVMs or other standard techniques , we should strive to ensure that our implementation is faster than other implementations.
+0.797: (our implementation; is faster than; other implementations)
+
+ To ensure that, we may use the automatic benchmarking system  see https   www.
+0.626: (we; may use; the automatic benchmarking system)
+
+github.
 No extractions found.
 
-Every DBMS makes use of one or more data structures to help organize the data being stored by the system.
-0.812: (Every DBMS; makes; use of one or more data structures to help organize the data)
-0.744: (the data; being stored by; the system)
-
- The data structure allows the DBMS to use the information stored in the database without damaging the integrity of the data.
-0.817: (the information; be stored in; the database)
-0.727: (the DBMS; to use; the information stored in the database)
-
- Some of the common examples of information that are stored using this functionality within a DBMS include visual media objects, individual records or profiles, field and definitions, and files.
-0.602: (this functionality; be using within; a DBMS)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Database technology and database management systems have continued to exponentially grow in complexity and capability over the past several decades.
-0.844: (Database technology and database management systems; have continued to exponentially grow in; complexity and capability)
-0.783: (Database technology and database management systems; have continued to exponentially grow over; the past several decades)
-
- When taking a look at the history of DBMS development over the past several decades, the three types of data model that database technology has progressed through include  navigational, relational , and postrelational.
-No extractions found.
-
- The early navigational database models were based on a hierarchical structure and were implemented in a number of IBM products to include the IDMS.
-0.948: (The early navigational database models; were implemented in; a number of IBM products)
-0.9: (The early navigational database models; were based on; a hierarchical structure)
-
- The relational model was first proposed by Edgar F.
-0.907: (The relational model; was first proposed by; Edgar F.)
-
- Codd in 1970 and changed the concept by forcing the database system to search for information based on the content vice following a link to the information.
-0.707: (the database system to search for information; be forcing following; a link)
-0.655: (information; be based on; the content vice)
-
- This model was the first to use tables that were subdivided by type of entity.
-0.738: (This model; was; the first to use tables)
-
- It would take until the mid1980s for computer hardware to catchup to relational theory to allow relational DBMSs to be deployed alongside a processing application.
-0.772: (relational DBMSs; to be deployed alongside; a processing application)
-0.719: (the mid1980s; to allow; relational DBMSs to be deployed alongside a processing application)
-
- This model also gave rise to the development of standard SQL as the primary database language and has helped influenced developments in newer database models.
-0.88: (This model; also gave rise has to; the development of standard SQL)
-0.793: (This model; also gave rise has as; the primary database language)
-0.788: (rise; also gave has to; the development of standard SQL)
-0.659: (rise; also gave has as; the primary database language)
-0.581: (This model; also gave has; rise)
-
-.
-No extractions found.
-
-prerequisites for replacing the existing interchange standard with the XML.
-0.656: (the existing interchange standard; be replacing with; the XML.)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
- .
+com zoq benchmarks .
 No extractions found.
 
 .
@@ -147,44 +91,73 @@ No extractions found.
 .
 No extractions found.
 
-.
+Currently mlpack supports the following algorithms .
 No extractions found.
 
-Database management system is a computer software component introduced during 1960 s.
-0.87: (a computer software component; introduced during; 1960)
-0.653: (Database management system; is; a computer software component)
-
- It is used for controlling various databases in the desktop computer or server.
-0.674: (various databases; be controlling in; the desktop computer or server)
-
- It was also termed as Navigational Database Management System.
-0.866: (It; was also termed as; Navigational Database Management System)
-
- During 1970 s RDBMS or Relational database management system came into existence.
+Collaborative Filtering.
 No extractions found.
 
- We ll see about RDBMS later in this article.
-0.559: (We; ll see later in this article about; RDBMS)
-
- .
+Density Estimation Trees.
 No extractions found.
 
- .
+Euclidean Minimum Spanning Trees.
 No extractions found.
 
-.
+Fast Exact Max-Kernel Search (FastMKS).
 No extractions found.
 
-.
+Gaussian Mixture Models (GMMs).
 No extractions found.
 
-.
+Hidden Markov Models (HMMs).
 No extractions found.
 
- .
+Kernel Principal Component Analysis (KPCA).
 No extractions found.
 
- .
+K-Means Clustering.
+No extractions found.
+
+Least-Angle Regression (LARS/LASSO).
+No extractions found.
+
+Local Coordinate Coding.
+No extractions found.
+
+Locality-Sensitive Hashing (LSH).
+No extractions found.
+
+Logistic regression.
+No extractions found.
+
+Naive Bayes Classifier.
+No extractions found.
+
+Neighbourhood Components Analysis (NCA).
+No extractions found.
+
+Non-negative Matrix Factorization (NMF).
+No extractions found.
+
+Principal Components Analysis (PCA).
+No extractions found.
+
+Independent component analysis (ICA).
+No extractions found.
+
+Rank-Approximate Nearest Neighbor (RANN).
+No extractions found.
+
+Simple Least-Squares Linear Regression (and Ridge Regression).
+No extractions found.
+
+Sparse Coding.
+No extractions found.
+
+Tree-based Neighbor Search (all-k-nearest-neighbors, all-k-furthest-neighbors), using either kd-trees or cover trees.
+No extractions found.
+
+Tree-based Range Search.
 No extractions found.
 
 .

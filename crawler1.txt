@@ -3,6 +3,9 @@
 .
 .
 .
+The Propagating Cipher Block Chaining or plaintext cipherblock chaining mode was designed to cause small changes in the ciphertext to propagate indefinitely when decrypting, as well as when encrypting.
+ In PCBC mode, each block of plaintext is XORed with both the previous plaintext block and the previous ciphertext block before being encrypted.
+ As with CBC mode, an initialization vector is used in the first block.
 .
 .
 .
@@ -13,21 +16,14 @@
 .
 .
 .
- .
- .
 .
 .
- .
- .
 .
 .
- .
- .
 .
 .
- .
- .
 .
+Encryption and decryption algorithms are as follows .
 .
 .
 .
@@ -40,6 +36,13 @@
 .
 .
 .
+Cipher block chaining  is a mode of operation for a block cipher .
+ Cipher block chaining uses what is known as an initialization vector  of a certain length.
+ One of its key characteristics is that it uses a chaining mechanism that causes the decryption of a block of ciphertext to depend on all the preceding ciphertext blocks.
+ As a result, the entire validity of all preceding blocks is contained in the immediately previous ciphertext block.
+ A single bit error in a ciphertext block affects the decryption of all subsequent blocks.
+ Rearrangement of the order of the ciphertext blocks causes decryption to become corrupted.
+ Basically, in cipher block chaining, each plaintext block is XORed  with the immediately previous ciphertext block, and then encrypted.
 .
 .
 .
@@ -48,88 +51,43 @@
 .
 .
 .
+A typical example of weakness of encryption using ECB mode is encoding a bitmap image  for example a .
+bmp file .
+ Even a strong encryption algorithm that uses ECB mode, cannot blur efficiently its content.
+In CBC mode, the current plaintext block is added to the previous ciphertext block, and then the result is encrypted with the key.
+ Decryption is thus the reverse process, which involves decrypting the current ciphertext and then adding the previous ciphertext block to the result.
+Apparently, CFB mode is converting a block cipher into a type of stream cipher.
+ The encryption algorithm is used as a keystream generator to produce keystream that is placed in the bottom register.
+ This key stream is then XORed with the plaintext as in case of stream cipher.
+A streamcipher is usually built by combining a blockcipher and some sort of feedback via some simple operations.
+ The most simple streamcipher is the electronic codebook  mode  No chaining is used.
+ The plaintext is partitioned into n blocks P1,.
 .
 .
+, Pn of size b .
+  If the last block Pn is shorter than b it is padded appropriately.
+  The ciphertext blocks C1,.
 .
 .
+, Cn are obtained by applying the blockcipher to each block of the plaintext.
+ More formally, Ci   EK .
+ Decryption is simple, too  Pi   DK .
+ This simplicity has an important drawback  If a block B appears several times in the plaintext each occurence encrypts to the same ciphertext block.
+ This can be exploited by an attacker  Suppose that the attacker knows P1  then he is able to detect every occurence of P1 in the plaintext without knowing the key .
 .
+A streamcipher is usually built by combining a blockcipher and some sort of feedback via some simple operations.
+ The most simple streamcipher is the electronic codebook  mode  No chaining is used.
+ The plaintext is partitioned into n blocks P1,.
 .
- .
 .
+, Pn of size b .
+  If the last block Pn is shorter than b it is padded appropriately.
+  The ciphertext blocks C1,.
 .
 .
+, Cn are obtained by applying the blockcipher to each block of the plaintext.
+ More formally, Ci   EK .
+ Decryption is simple, too  Pi   DK .
+ This simplicity has an important drawback  If a block B appears several times in the plaintext each occurence encrypts to the same ciphertext block.
+ This can be exploited by an attacker  Suppose that the attacker knows P1  then he is able to detect every occurence of P1 in the plaintext without knowing the key .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
- .
-.
-.
- .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
- .
-.
-.
-.
-.
-.
-Conceptual data models. These models, sometimes called domain models, are typically used to explore domain concepts with project stakeholders.  On Agile teams high-level conceptual models are often created as part of your initial requirements envisioning efforts as they are used to explore the high-level static business structures and concepts. On traditional teams conceptual data models are often created as the precursor to LDMs or as alternatives to LDMs. .
-Logical data models (LDMs).  LDMs are used to explore the domain concepts, and their relationships, of your problem domain.  This could be done for the scope of a single project or for your entire enterprise. LDMs depict the logical entity types, typically referred to simply as entity types, the data attributes describing those entities, and the relationships between the entities. LDMs are rarely used on Agile projects although often are on traditional projects (where they rarely seem to add much value in practice)..
-Physical data models (PDMs). PDMs are used to design the internal schema of a database, depicting the data tables, the data columns of those tables, and the relationships between the tables. PDMs often prove to be useful on both Agile and traditional projects and as a result the focus of this article is on physical modeling..
-.
-.
-.
-.
-.
-.
-The following entity relationship diagram is showing a typical online or retail business ER database model diagram sample.
- The database model diagram consists of five tables and four parentchild relationships.
- Be sure you fully understand it.
-.
-.
-.
-.
-A data structure diagram  is a diagram and data model used to describe conceptual data models by providing graphical notations which document entities and their relationships, and the constraints that bind them.
- The basic graphic elements of DSDs are boxes, representing entities, and arrows, representing relationships.
- Data structure diagrams are most useful for documenting complex data entities.
-.
-.
-.
-.
-.
-.
-Example.
-.
-Example Data Model Diagram.

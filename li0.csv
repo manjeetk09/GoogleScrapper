@@ -1,9 +1,24 @@
-
-
-
-
-
-
-
+Collaborative Filtering
+Density Estimation Trees
+Euclidean Minimum Spanning Trees
+Fast Exact Max-Kernel Search (FastMKS)
+Gaussian Mixture Models (GMMs)
+Hidden Markov Models (HMMs)
+Kernel Principal Component Analysis (KPCA)
+K-Means Clustering
+Least-Angle Regression (LARS/LASSO)
+Local Coordinate Coding
+Locality-Sensitive Hashing (LSH)
+Logistic regression
+Naive Bayes Classifier
+Neighbourhood Components Analysis (NCA)
+Non-negative Matrix Factorization (NMF)
+Principal Components Analysis (PCA)
+Independent component analysis (ICA)
+Rank-Approximate Nearest Neighbor (RANN)
+Simple Least-Squares Linear Regression (and Ridge Regression)
+Sparse Coding
+Tree-based Neighbor Search (all-k-nearest-neighbors, all-k-furthest-neighbors), using either kd-trees or cover trees
+Tree-based Range Search
 
 
