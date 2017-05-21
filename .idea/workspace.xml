@@ -2,95 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2dfaf8d-a7ae-4776-9a48-eeee4d48dff8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_entity_POS0.csv" afterPath="$PROJECT_DIR$/csv_entity_POS0.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_entity_POS1.csv" afterPath="$PROJECT_DIR$/csv_entity_POS1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_entity_POS6.csv" afterPath="$PROJECT_DIR$/csv_entity_POS6.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_entity_POS8.csv" afterPath="$PROJECT_DIR$/csv_entity_POS8.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie0.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie1.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie6.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie6.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie8.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie8.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/relationSim.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/relationSim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result0.csv" afterPath="$PROJECT_DIR$/result0.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result1.csv" afterPath="$PROJECT_DIR$/result1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result6.csv" afterPath="$PROJECT_DIR$/result6.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result8.csv" afterPath="$PROJECT_DIR$/result8.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_ollie0.csv" afterPath="$PROJECT_DIR$/result_similarity_ollie0.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_ollie1.csv" afterPath="$PROJECT_DIR$/result_similarity_ollie1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_ollie6.csv" afterPath="$PROJECT_DIR$/result_similarity_ollie6.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_ollie8.csv" afterPath="$PROJECT_DIR$/result_similarity_ollie8.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_pos0.csv" afterPath="$PROJECT_DIR$/result_similarity_pos0.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_pos1.csv" afterPath="$PROJECT_DIR$/result_similarity_pos1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_pos6.csv" afterPath="$PROJECT_DIR$/result_similarity_pos6.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_pos8.csv" afterPath="$PROJECT_DIR$/result_similarity_pos8.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combinedOllie.csv" afterPath="$PROJECT_DIR$/combinedOllie.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combinedPOS.csv" afterPath="$PROJECT_DIR$/combinedPOS.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler0.txt" afterPath="$PROJECT_DIR$/crawler0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler1.txt" afterPath="$PROJECT_DIR$/crawler1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler3.txt" afterPath="$PROJECT_DIR$/crawler3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler4.txt" afterPath="$PROJECT_DIR$/crawler4.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler5.txt" afterPath="$PROJECT_DIR$/crawler5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler6.txt" afterPath="$PROJECT_DIR$/crawler6.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler7.txt" afterPath="$PROJECT_DIR$/crawler7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler8.txt" afterPath="$PROJECT_DIR$/crawler8.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_entity_POS3.csv" afterPath="$PROJECT_DIR$/csv_entity_POS3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_entity_POS4.csv" afterPath="$PROJECT_DIR$/csv_entity_POS4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_entity_POS5.csv" afterPath="$PROJECT_DIR$/csv_entity_POS5.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_entity_POS7.csv" afterPath="$PROJECT_DIR$/csv_entity_POS7.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie3.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie4.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie5.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie5.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie7.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie7.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para0.txt" afterPath="$PROJECT_DIR$/para0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para1.txt" afterPath="$PROJECT_DIR$/para1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para3.txt" afterPath="$PROJECT_DIR$/para3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para4.txt" afterPath="$PROJECT_DIR$/para4.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para5.txt" afterPath="$PROJECT_DIR$/para5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para6.txt" afterPath="$PROJECT_DIR$/para6.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para7.txt" afterPath="$PROJECT_DIR$/para7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para8.txt" afterPath="$PROJECT_DIR$/para8.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result3.csv" afterPath="$PROJECT_DIR$/result3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result4.csv" afterPath="$PROJECT_DIR$/result4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result5.csv" afterPath="$PROJECT_DIR$/result5.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result7.csv" afterPath="$PROJECT_DIR$/result7.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_ollie3.csv" afterPath="$PROJECT_DIR$/result_similarity_ollie3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_ollie4.csv" afterPath="$PROJECT_DIR$/result_similarity_ollie4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_ollie5.csv" afterPath="$PROJECT_DIR$/result_similarity_ollie5.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_ollie7.csv" afterPath="$PROJECT_DIR$/result_similarity_ollie7.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_pos3.csv" afterPath="$PROJECT_DIR$/result_similarity_pos3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_pos4.csv" afterPath="$PROJECT_DIR$/result_similarity_pos4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_pos5.csv" afterPath="$PROJECT_DIR$/result_similarity_pos5.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result_similarity_pos7.csv" afterPath="$PROJECT_DIR$/result_similarity_pos7.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/similarity_ollie_to_Pos.csv" afterPath="$PROJECT_DIR$/similarity_ollie_to_Pos.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/temp.java" afterPath="$PROJECT_DIR$/src/temp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.txt" afterPath="$PROJECT_DIR$/temp.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_POS0.txt" afterPath="$PROJECT_DIR$/triples_POS0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_POS1.txt" afterPath="$PROJECT_DIR$/triples_POS1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_POS3.txt" afterPath="$PROJECT_DIR$/triples_POS3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_POS4.txt" afterPath="$PROJECT_DIR$/triples_POS4.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_POS5.txt" afterPath="$PROJECT_DIR$/triples_POS5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_POS6.txt" afterPath="$PROJECT_DIR$/triples_POS6.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_POS7.txt" afterPath="$PROJECT_DIR$/triples_POS7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_POS8.txt" afterPath="$PROJECT_DIR$/triples_POS8.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie0.txt" afterPath="$PROJECT_DIR$/triples_ollie0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie1.txt" afterPath="$PROJECT_DIR$/triples_ollie1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie3.txt" afterPath="$PROJECT_DIR$/triples_ollie3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie4.txt" afterPath="$PROJECT_DIR$/triples_ollie4.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie5.txt" afterPath="$PROJECT_DIR$/triples_ollie5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie6.txt" afterPath="$PROJECT_DIR$/triples_ollie6.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie7.txt" afterPath="$PROJECT_DIR$/triples_ollie7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie8.txt" afterPath="$PROJECT_DIR$/triples_ollie8.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls0.txt" afterPath="$PROJECT_DIR$/urls0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls1.txt" afterPath="$PROJECT_DIR$/urls1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls3.txt" afterPath="$PROJECT_DIR$/urls3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls4.txt" afterPath="$PROJECT_DIR$/urls4.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls5.txt" afterPath="$PROJECT_DIR$/urls5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls6.txt" afterPath="$PROJECT_DIR$/urls6.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls7.txt" afterPath="$PROJECT_DIR$/urls7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls8.txt" afterPath="$PROJECT_DIR$/urls8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GoogleSearchJava.java" afterPath="$PROJECT_DIR$/src/GoogleSearchJava.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="temp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/temp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -186,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoogleSearchJava.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GoogleSearchJava.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+            <state relative-caret-position="753">
+              <caret line="399" column="32" lean-forward="true" selection-start-line="399" selection-start-column="32" selection-end-line="399" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -267,9 +179,9 @@
         <option value="$PROJECT_DIR$/src/SimilarityOllieToPos.java" />
         <option value="$PROJECT_DIR$/src/parseOllie.java" />
         <option value="$PROJECT_DIR$/src/SimilarityOllie.java" />
-        <option value="$PROJECT_DIR$/src/GoogleSearchJava.java" />
         <option value="$PROJECT_DIR$/src/relationSim.java" />
         <option value="$PROJECT_DIR$/src/temp.java" />
+        <option value="$PROJECT_DIR$/src/GoogleSearchJava.java" />
       </list>
     </option>
   </component>
@@ -810,12 +722,12 @@
       <workItem from="1495012495300" duration="369000" />
       <workItem from="1495020387120" duration="25524000" />
       <workItem from="1495095165888" duration="40608000" />
-      <workItem from="1495355720631" duration="3356000" />
+      <workItem from="1495355720631" duration="4485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82217000" />
+    <option name="totallyTimeSpent" value="83346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="0" />
@@ -1231,16 +1143,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/temp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -1248,6 +1150,16 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#540#548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="399" column="32" lean-forward="true" selection-start-line="399" selection-start-column="32" selection-end-line="399" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

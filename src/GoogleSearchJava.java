@@ -364,6 +364,33 @@ public class GoogleSearchJava {
 
                         }
                     }
+
+                    for(Element u : ul) {
+                        String ul_text = u.text();
+                        ul_text = ul_text.replaceAll("\\[(.*?)\\]", "");
+                        if ((ul_text.replaceAll("[^a-zA-Z0-9.]", "")).contains(span_data_temp.replaceAll("[^a-zA-Z0-9.]", "")) || (span_data_temp.replaceAll("[^a-zA-Z0-9.]", "").contains(ul_text.replaceAll("[^a-zA-Z0-9.]", "")))) {
+                            Elements child_ul = u.children();
+
+                            //System.out.println(u1.text());
+                            for (int h = 0; h < child_ul.size(); h++) {
+                                Element li = child_ul.get(h);
+                                //System.out.println(li.text());
+                                String line_li = li.text();
+
+                                //System.out.println(line_li);
+
+                                bw.write(line_li);
+                                bw.write(".");
+                                bw.write("\n");
+                                bw2.write(link_data.get(i));
+                                bw2.write("\n");
+                                bw3.write(ul_text);
+                                bw3.write("\n");
+                                bw4.write(line_li);
+                                bw4.write("\n");
+                            }
+                        }
+                    }
                 }
             }
             /*else
