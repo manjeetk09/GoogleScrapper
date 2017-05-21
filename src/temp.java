@@ -1,16 +1,10 @@
 import org.json.simple.JSONObject;
-import org.jsoup.Connection;
 import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import java.io.*;
-import java.net.URI;
-import java.net.URISyntaxException;
-import java.net.URLDecoder;
+
+import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 import java.util.Scanner;
 
 public class temp
@@ -21,12 +15,16 @@ public class temp
     {
         //number of templates
         int temp_num = 0;
-
+        ArrayList<String> head_phrase_list = new ArrayList<String>();
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the search term.");
         String searchTerm = scanner.nextLine();
-        System.out.println("Please enter the head phrase.");
-        String phrase = scanner.nextLine();
+        System.out.println("Please enter the number of head phrase.");
+        int num_head = scanner.nextInt();
+        System.out.println("Please enter the list of head phrase (one in each line)");
+        for(int i = 0 ; i < num_head ;i++){
+            head_phrase_list.add(scanner.nextLine());
+        }
         System.out.println("Please enter the number of searches.");
         int search = scanner.nextInt();
         JSONObject obj = new JSONObject();
@@ -86,7 +84,7 @@ public class temp
             parseOllie parseollie = new parseOllie();
             parseollie.parserOllie(0);
             relationSim relationsim = new relationSim();
-            relationsim.relationSimilarity(0, phrase);
+            relationsim.relationSimilarity(0, head_phrase_list);
             SimilarityOllie similarityOllie = new SimilarityOllie();
             similarityOllie.similarityollie(0, search);
             //System.out.println("i is:: " + 0);
@@ -113,7 +111,7 @@ public class temp
                 parseOllie parseollie = new parseOllie();
                 parseollie.parserOllie(i);
                 relationSim relationsim = new relationSim();
-                relationsim.relationSimilarity(i, phrase);
+                relationsim.relationSimilarity(i, head_phrase_list);
                 SimilarityOllie similarityOllie = new SimilarityOllie();
                 similarityOllie.similarityollie(i, search);
                 //System.out.println("i is:: " + i);
