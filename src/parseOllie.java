@@ -34,7 +34,7 @@ public class parseOllie
 
                         line = line.substring(b+2);
                         String relation = line.substring(0, line.indexOf(';'));
-                        relation = relation.replaceAll(",", "");
+                        relation = relation.replaceAll(",", " ");
                         relation = relation.replaceAll("\\s+", "_");
 
                         //System.out.println(line.length() + ":" + line.substring(line.indexOf(';')+2,) + ":" + line );
