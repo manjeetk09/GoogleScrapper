@@ -1,32 +1,30 @@
-1;https://en.wikipedia.org/wiki/Incremental_learning;extend;1.0;0.03125;1.0
-1;https://en.wikipedia.org/wiki/Incremental_learning;input data;4.0;0.03125;1.0
-1;https://en.wikipedia.org/wiki/Incremental_learning;machine learning;4.0;0.03125;1.0
-1;https://en.wikipedia.org/wiki/Incremental_learning;incremental learning;4.0;0.03125;1.0
-1;https://en.wikipedia.org/wiki/Incremental_learning;computer science;4.0;0.03125;1.0
+1;https://en.wikipedia.org/wiki/Incremental_learning;extend;1.0;0.03333333333333333;1.0
+1;https://en.wikipedia.org/wiki/Incremental_learning;input data;4.0;0.03333333333333333;1.0
+1;https://en.wikipedia.org/wiki/Incremental_learning;machine learning;4.0;0.03333333333333333;1.0
+1;https://en.wikipedia.org/wiki/Incremental_learning;incremental learning;4.0;0.03333333333333333;1.0
+1;https://en.wikipedia.org/wiki/Incremental_learning;computer science;4.0;0.03333333333333333;1.0
 1;https://en.wikipedia.org/wiki/Incremental_learning;continuously;1.0;0.0;1.0
-1;https://en.wikipedia.org/wiki/Incremental_learning;existing model;4.0;0.03125;1.0
-1;https://en.wikipedia.org/wiki/Incremental_learning;method;1.0;0.03125;1.0
+1;https://en.wikipedia.org/wiki/Incremental_learning;existing model;4.0;0.03333333333333333;1.0
+1;https://en.wikipedia.org/wiki/Incremental_learning;method;1.0;0.03333333333333333;1.0
 1;https://en.wikipedia.org/wiki/Incremental_learning;knowledge;1.0;0.0;1.0
-3;https://en.wikipedia.org/wiki/Incremental_learning;model;1.0;0.03125;1.0
-3;https://en.wikipedia.org/wiki/Incremental_learning;train;1.0;0.03125;1.0
-4;https://en.wikipedia.org/wiki/Incremental_learning;applied;1.0;0.03125;1.0
-4;https://en.wikipedia.org/wiki/Incremental_learning;represents;1.0;0.03125;1.0
-4;https://en.wikipedia.org/wiki/Incremental_learning;gradually;1.0;0.03125;1.0
-4;https://en.wikipedia.org/wiki/Incremental_learning;training data;4.0;0.03125;1.0
-4;https://en.wikipedia.org/wiki/Incremental_learning;unsupervised learning;4.0;0.03125;1.0
-4;https://en.wikipedia.org/wiki/Incremental_learning;time;1.0;0.03125;1.0
-4;https://en.wikipedia.org/wiki/Incremental_learning;dynamic technique;4.0;0.03125;1.0
-4;https://en.wikipedia.org/wiki/Incremental_learning;system memory limits;9.0;0.03125;1.0
-4;https://en.wikipedia.org/wiki/Incremental_learning;supervised learning;4.0;0.03125;1.0
-4;https://en.wikipedia.org/wiki/Incremental_learning;size;1.0;0.03125;1.0
-5;https://en.wikipedia.org/wiki/Incremental_learning;incremental machine learning algorithms;13.5;0.03125;1.0
-5;https://en.wikipedia.org/wiki/Incremental_learning;algorithms;2.5;0.0625;1.0
-5;https://en.wikipedia.org/wiki/Incremental_learning;facilitate incremental learning;10.0;0.03125;1.0
-9;https://en.wikipedia.org/wiki/Incremental_learning;adapted;1.0;0.03125;1.0
-9;https://en.wikipedia.org/wiki/Incremental_learning;algorithms;1.0;0.0625;1.0
-9;https://en.wikipedia.org/wiki/Incremental_learning;facilitate;1.0;0.03125;1.0
-10;https://en.wikipedia.org/wiki/Incremental_learning;decision rules;4.0;0.03125;1.0
-10;https://en.wikipedia.org/wiki/Incremental_learning;incremental algorithms include decisions trees;23.5;0.03125;1.0
-10;https://en.wikipedia.org/wiki/Incremental_learning;artificial neural networks;9.0;0.03125;1.0
-10;https://en.wikipedia.org/wiki/Incremental_learning;examples;1.0;0.03125;1.0
-10;https://en.wikipedia.org/wiki/Incremental_learning;incremental svm;5.5;0.03125;1.0
+3;https://en.wikipedia.org/wiki/Incremental_learning;model;1.0;0.03333333333333333;1.0
+3;https://en.wikipedia.org/wiki/Incremental_learning;train;1.0;0.03333333333333333;1.0
+4;https://en.wikipedia.org/wiki/Incremental_learning;applied;1.0;0.03333333333333333;1.0
+4;https://en.wikipedia.org/wiki/Incremental_learning;represents;1.0;0.03333333333333333;1.0
+4;https://en.wikipedia.org/wiki/Incremental_learning;gradually;1.0;0.03333333333333333;1.0
+4;https://en.wikipedia.org/wiki/Incremental_learning;training data;4.0;0.03333333333333333;1.0
+4;https://en.wikipedia.org/wiki/Incremental_learning;unsupervised learning;4.0;0.03333333333333333;1.0
+4;https://en.wikipedia.org/wiki/Incremental_learning;time;1.0;0.03333333333333333;1.0
+4;https://en.wikipedia.org/wiki/Incremental_learning;dynamic technique;4.0;0.03333333333333333;1.0
+4;https://en.wikipedia.org/wiki/Incremental_learning;system memory limits;9.0;0.03333333333333333;1.0
+4;https://en.wikipedia.org/wiki/Incremental_learning;supervised learning;4.0;0.03333333333333333;1.0
+4;https://en.wikipedia.org/wiki/Incremental_learning;size;1.0;0.03333333333333333;1.0
+5;https://en.wikipedia.org/wiki/Incremental_learning;algorithms;1.0;0.06666666666666667;1.0
+5;https://en.wikipedia.org/wiki/Incremental_learning;facilitate incremental learning;9.0;0.03333333333333333;1.0
+9;https://en.wikipedia.org/wiki/Incremental_learning;adapted;1.0;0.03333333333333333;1.0
+9;https://en.wikipedia.org/wiki/Incremental_learning;algorithms;1.0;0.06666666666666667;1.0
+9;https://en.wikipedia.org/wiki/Incremental_learning;facilitate;1.0;0.03333333333333333;1.0
+10;https://en.wikipedia.org/wiki/Incremental_learning;decision rules;4.0;0.03333333333333333;1.0
+10;https://en.wikipedia.org/wiki/Incremental_learning;artificial neural networks;9.0;0.03333333333333333;1.0
+10;https://en.wikipedia.org/wiki/Incremental_learning;examples;1.0;0.03333333333333333;1.0
+10;https://en.wikipedia.org/wiki/Incremental_learning;incremental svm;4.0;0.03333333333333333;1.0

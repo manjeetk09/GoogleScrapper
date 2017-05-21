@@ -1,21 +1,52 @@
-14;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;supervised machine learning algorithms;16.0;0.1111111111111111;4.0
-14;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;popular examples;4.0;0.1111111111111111;4.0
-24;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;regression problems;4.0;0.2222222222222222;4.0
-24;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;linear regression;4.0;0.1111111111111111;4.0
-25;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;regression problems;4.0;0.2222222222222222;4.0
-25;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;random forest;4.0;0.1111111111111111;4.0
-25;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;classification;1.0;0.0;4.0
-26;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;classification problems;4.0;0.1111111111111111;4.0
-26;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;support vector machines;9.0;0.1111111111111111;4.0
-28;https://www.quora.com/What-is-the-difference-between-supervised-and-unsupervised-learning-algorithms;common terms;4.0;1.0;4.0
-35;https://www.mathworks.com/discovery/supervised-learning.html;supervised learning includes;9.0;0.3333333333333333;4.0
-35;https://www.mathworks.com/discovery/supervised-learning.html;algorithms;1.0;0.3333333333333333;4.0
-35;https://www.mathworks.com/discovery/supervised-learning.html;categories;1.0;0.3333333333333333;4.0
-63;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;make predictions;4.0;0.125;4.0
-63;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;set;1.0;0.125;4.0
-63;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;machine learning algorithms;9.0;0.125;4.0
-63;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;samples;1.0;0.125;4.0
-64;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;supervised machine learning algorithm searches;25.0;0.125;4.0
-64;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;patterns;1.0;0.125;4.0
-64;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;data points;4.0;0.125;4.0
-64;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;labels assigned;4.0;0.125;4.0
+12;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;majority;1.0;0.09090909090909091;5.0
+12;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;practical machine learning;8.5;0.09090909090909091;5.0
+12;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;supervised learning;4.5;0.18181818181818182;1.6666666666666667
+13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;output variable;3.5;0.09090909090909091;5.0
+13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;algorithm;1.0;0.09090909090909091;5.0
+13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;output;1.5;0.09090909090909091;5.0
+13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;learn;1.0;0.0;5.0
+13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;input variables;3.5;0.09090909090909091;5.0
+13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;input;1.5;0.09090909090909091;5.0
+13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;mapping function;4.0;0.09090909090909091;5.0
+13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;supervised learning;4.0;0.18181818181818182;1.6666666666666667
+27;https://en.wikipedia.org/wiki/Supervised_learning;decision trees;4.0;0.1;5.0
+27;https://en.wikipedia.org/wiki/Supervised_learning;widely;1.0;0.1;5.0
+27;https://en.wikipedia.org/wiki/Supervised_learning;linear discriminant analysis;8.5;0.1;5.0
+27;https://en.wikipedia.org/wiki/Supervised_learning;learning algorithms;4.0;0.1;5.0
+27;https://en.wikipedia.org/wiki/Supervised_learning;naive bayes;4.0;0.1;5.0
+27;https://en.wikipedia.org/wiki/Supervised_learning;linear regression;4.5;0.1;5.0
+27;https://en.wikipedia.org/wiki/Supervised_learning;knearest neighbor algorithm;9.0;0.1;5.0
+27;https://en.wikipedia.org/wiki/Supervised_learning;logistic regression;4.0;0.1;5.0
+27;https://en.wikipedia.org/wiki/Supervised_learning;support vector machines;9.0;0.1;5.0
+27;https://en.wikipedia.org/wiki/Supervised_learning;neural networks;4.0;0.1;5.0
+31;https://www.mathworks.com/discovery/supervised-learning.html;make predictions;4.0;0.10526315789473684;5.0
+31;https://www.mathworks.com/discovery/supervised-learning.html;supervised learning;4.5;0.05263157894736842;1.25
+31;https://www.mathworks.com/discovery/supervised-learning.html;type;1.0;0.05263157894736842;5.0
+31;https://www.mathworks.com/discovery/supervised-learning.html;machine learning algorithm;8.5;0.05263157894736842;5.0
+31;https://www.mathworks.com/discovery/supervised-learning.html;dataset;1.0;0.0;5.0
+32;https://www.mathworks.com/discovery/supervised-learning.html;response values;4.0;0.10526315789473684;5.0
+33;https://www.mathworks.com/discovery/supervised-learning.html;make predictions;4.0;0.10526315789473684;5.0
+33;https://www.mathworks.com/discovery/supervised-learning.html;model;1.0;0.10526315789473684;5.0
+33;https://www.mathworks.com/discovery/supervised-learning.html;build;1.0;0.05263157894736842;5.0
+33;https://www.mathworks.com/discovery/supervised-learning.html;response values;4.0;0.10526315789473684;5.0
+33;https://www.mathworks.com/discovery/supervised-learning.html;dataset;1.0;0.0;5.0
+34;https://www.mathworks.com/discovery/supervised-learning.html;test dataset;4.0;0.05263157894736842;5.0
+34;https://www.mathworks.com/discovery/supervised-learning.html;validate;1.0;0.05263157894736842;5.0
+34;https://www.mathworks.com/discovery/supervised-learning.html;model;1.0;0.10526315789473684;5.0
+35;https://www.mathworks.com/discovery/supervised-learning.html;larger training datasets;8.0;0.05263157894736842;5.0
+35;https://www.mathworks.com/discovery/supervised-learning.html;higher predictive power;9.0;0.05263157894736842;5.0
+35;https://www.mathworks.com/discovery/supervised-learning.html;datasets;2.0;0.0;5.0
+35;https://www.mathworks.com/discovery/supervised-learning.html;generalize;1.0;0.05263157894736842;5.0
+35;https://www.mathworks.com/discovery/supervised-learning.html;yield models;4.0;0.05263157894736842;5.0
+41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;data science;5.0;0.09090909090909091;5.0
+41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;cover;1.0;0.09090909090909091;5.0
+41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;focus;1.0;0.09090909090909091;5.0
+41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;machine learning;4.0;0.09090909090909091;5.0
+41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;instruct;1.0;0.09090909090909091;5.0
+41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;data science pipeline;8.0;0.09090909090909091;5.0
+42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;metrics;1.0;0.09090909090909091;5.0
+42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;teach;1.0;0.09090909090909091;5.0
+42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;supervised learning;4.0;0.09090909090909091;1.25
+42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;algorithms;1.0;0.09090909090909091;5.0
+42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;primarily;1.0;0.09090909090909091;5.0
+44;https://www.quora.com/What-is-the-difference-between-supervised-and-unsupervised-learning-algorithms;common terms;4.0;1.0;5.0

@@ -152,6 +152,9 @@ public class temp
         CombineOllieRake combineollierake = new CombineOllieRake();
         combineollierake.combineOllieRake(temp_num);
 
+        NormalizeScores normalizeScores = new NormalizeScores();
+        normalizeScores.NormalizeFunc();
+
 
     }
 }

@@ -1,8 +1,91 @@
-0;63;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;make predictions;4.0;0.125;4.0;0.0
-0;63;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;set;1.0;0.125;4.0;0.0
-0;63;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;machine learning algorithms;9.0;0.125;4.0;0.0
-0;63;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;samples;1.0;0.125;4.0;0.0
-0;64;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;supervised machine learning algorithm searches;25.0;0.125;4.0;1.0
-0;64;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;patterns;1.0;0.125;4.0;1.0
-0;64;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;data points;4.0;0.125;4.0;1.0
-0;64;https://www.dezyre.com/article/top-10-machine-learning-algorithms/202;labels assigned;4.0;0.125;4.0;1.0
+0;12;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;majority;1.0;0.09090909090909091;5.0;0.0
+0;12;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;practical machine learning;8.5;0.09090909090909091;5.0;0.0
+0;12;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;supervised learning;4.5;0.18181818181818182;1.6666666666666667;0.0
+0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;output variable;3.5;0.09090909090909091;5.0;1.0
+0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;algorithm;1.0;0.09090909090909091;5.0;1.0
+0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;output;1.5;0.09090909090909091;5.0;1.0
+0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;learn;1.0;0.0;5.0;1.0
+0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;input variables;3.5;0.09090909090909091;5.0;1.0
+0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;input;1.5;0.09090909090909091;5.0;1.0
+0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;mapping function;4.0;0.09090909090909091;5.0;1.0
+0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;supervised learning;4.0;0.18181818181818182;1.6666666666666667;1.0
+0;27;https://en.wikipedia.org/wiki/Supervised_learning;decision trees;4.0;0.1;5.0;0.0
+0;27;https://en.wikipedia.org/wiki/Supervised_learning;widely;1.0;0.1;5.0;0.0
+0;27;https://en.wikipedia.org/wiki/Supervised_learning;linear discriminant analysis;8.5;0.1;5.0;0.0
+0;27;https://en.wikipedia.org/wiki/Supervised_learning;learning algorithms;4.0;0.1;5.0;0.0
+0;27;https://en.wikipedia.org/wiki/Supervised_learning;naive bayes;4.0;0.1;5.0;0.0
+0;27;https://en.wikipedia.org/wiki/Supervised_learning;linear regression;4.5;0.1;5.0;0.0
+0;27;https://en.wikipedia.org/wiki/Supervised_learning;knearest neighbor algorithm;9.0;0.1;5.0;0.0
+0;27;https://en.wikipedia.org/wiki/Supervised_learning;logistic regression;4.0;0.1;5.0;0.0
+0;27;https://en.wikipedia.org/wiki/Supervised_learning;support vector machines;9.0;0.1;5.0;0.0
+0;27;https://en.wikipedia.org/wiki/Supervised_learning;neural networks;4.0;0.1;5.0;0.0
+0;31;https://www.mathworks.com/discovery/supervised-learning.html;make predictions;4.0;0.10526315789473684;5.0;0.0
+0;31;https://www.mathworks.com/discovery/supervised-learning.html;supervised learning;4.5;0.05263157894736842;1.25;0.0
+0;31;https://www.mathworks.com/discovery/supervised-learning.html;type;1.0;0.05263157894736842;5.0;0.0
+0;31;https://www.mathworks.com/discovery/supervised-learning.html;machine learning algorithm;8.5;0.05263157894736842;5.0;0.0
+0;31;https://www.mathworks.com/discovery/supervised-learning.html;dataset;1.0;0.0;5.0;0.0
+0;32;https://www.mathworks.com/discovery/supervised-learning.html;response values;4.0;0.10526315789473684;5.0;0.0
+0;33;https://www.mathworks.com/discovery/supervised-learning.html;make predictions;4.0;0.10526315789473684;5.0;0.0
+0;33;https://www.mathworks.com/discovery/supervised-learning.html;model;1.0;0.10526315789473684;5.0;0.0
+0;33;https://www.mathworks.com/discovery/supervised-learning.html;build;1.0;0.05263157894736842;5.0;0.0
+0;33;https://www.mathworks.com/discovery/supervised-learning.html;response values;4.0;0.10526315789473684;5.0;0.0
+0;33;https://www.mathworks.com/discovery/supervised-learning.html;dataset;1.0;0.0;5.0;0.0
+0;34;https://www.mathworks.com/discovery/supervised-learning.html;test dataset;4.0;0.05263157894736842;5.0;0.0
+0;34;https://www.mathworks.com/discovery/supervised-learning.html;validate;1.0;0.05263157894736842;5.0;0.0
+0;34;https://www.mathworks.com/discovery/supervised-learning.html;model;1.0;0.10526315789473684;5.0;0.0
+0;35;https://www.mathworks.com/discovery/supervised-learning.html;larger training datasets;8.0;0.05263157894736842;5.0;0.0
+0;35;https://www.mathworks.com/discovery/supervised-learning.html;higher predictive power;9.0;0.05263157894736842;5.0;0.0
+0;35;https://www.mathworks.com/discovery/supervised-learning.html;datasets;2.0;0.0;5.0;0.0
+0;35;https://www.mathworks.com/discovery/supervised-learning.html;generalize;1.0;0.05263157894736842;5.0;0.0
+0;35;https://www.mathworks.com/discovery/supervised-learning.html;yield models;4.0;0.05263157894736842;5.0;0.0
+0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;data science;5.0;0.09090909090909091;5.0;0.0
+0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;cover;1.0;0.09090909090909091;5.0;0.0
+0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;focus;1.0;0.09090909090909091;5.0;0.0
+0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;machine learning;4.0;0.09090909090909091;5.0;0.0
+0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;instruct;1.0;0.09090909090909091;5.0;0.0
+0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;data science pipeline;8.0;0.09090909090909091;5.0;0.0
+0;42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;metrics;1.0;0.09090909090909091;5.0;1.0
+0;42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;teach;1.0;0.09090909090909091;5.0;1.0
+0;42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;supervised learning;4.0;0.09090909090909091;1.25;1.0
+0;42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;algorithms;1.0;0.09090909090909091;5.0;1.0
+0;42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;primarily;1.0;0.09090909090909091;5.0;1.0
+1;1;http://stackoverflow.com/questions/20752232/is-a-genetic-algorithm-a-form-of-unsupervised-learning;genetic algorithms;4.0;0.3333333333333333;2.0;0.0
+1;1;http://stackoverflow.com/questions/20752232/is-a-genetic-algorithm-a-form-of-unsupervised-learning;supervised;1.0;0.3333333333333333;2.0;0.0
+1;1;http://stackoverflow.com/questions/20752232/is-a-genetic-algorithm-a-form-of-unsupervised-learning;unsupervised learning;4.0;0.3333333333333333;1.0;0.0
+1;10;https://news.ycombinator.com/item%3Fid%3D11936908;inputs;1.0;0.08333333333333333;2.0;0.0
+1;10;https://news.ycombinator.com/item%3Fid%3D11936908;don;1.0;0.08333333333333333;2.0;0.0
+1;10;https://news.ycombinator.com/item%3Fid%3D11936908;unsupervised learning;4.5;0.08333333333333333;1.0;0.0
+1;10;https://news.ycombinator.com/item%3Fid%3D11936908;outputs;1.0;0.08333333333333333;2.0;0.0
+1;10;https://news.ycombinator.com/item%3Fid%3D11936908;labels;1.0;0.0;2.0;0.0
+1;10;https://news.ycombinator.com/item%3Fid%3D11936908;supervised learning algorithms;8.5;0.08333333333333333;2.0;0.0
+1;11;https://news.ycombinator.com/item%3Fid%3D11936908;parameters;1.0;0.08333333333333333;2.0;0.0
+1;11;https://news.ycombinator.com/item%3Fid%3D11936908;relate;1.0;0.08333333333333333;2.0;0.0
+1;11;https://news.ycombinator.com/item%3Fid%3D11936908;learn;1.0;0.0;2.0;0.0
+1;11;https://news.ycombinator.com/item%3Fid%3D11936908;input;1.0;0.08333333333333333;2.0;0.0
+1;11;https://news.ycombinator.com/item%3Fid%3D11936908;output;1.0;0.08333333333333333;2.0;0.0
+1;11;https://news.ycombinator.com/item%3Fid%3D11936908;cases;1.0;0.08333333333333333;2.0;0.0
+2;1;https://en.wikipedia.org/wiki/Incremental_learning;extend;1.0;0.03333333333333333;1.0;0.0
+2;1;https://en.wikipedia.org/wiki/Incremental_learning;input data;4.0;0.03333333333333333;1.0;0.0
+2;1;https://en.wikipedia.org/wiki/Incremental_learning;machine learning;4.0;0.03333333333333333;1.0;0.0
+2;1;https://en.wikipedia.org/wiki/Incremental_learning;incremental learning;4.0;0.03333333333333333;1.0;0.0
+2;1;https://en.wikipedia.org/wiki/Incremental_learning;computer science;4.0;0.03333333333333333;1.0;0.0
+2;1;https://en.wikipedia.org/wiki/Incremental_learning;continuously;1.0;0.0;1.0;0.0
+2;1;https://en.wikipedia.org/wiki/Incremental_learning;existing model;4.0;0.03333333333333333;1.0;0.0
+2;1;https://en.wikipedia.org/wiki/Incremental_learning;method;1.0;0.03333333333333333;1.0;0.0
+2;1;https://en.wikipedia.org/wiki/Incremental_learning;knowledge;1.0;0.0;1.0;0.0
+2;4;https://en.wikipedia.org/wiki/Incremental_learning;applied;1.0;0.03333333333333333;1.0;0.0
+2;4;https://en.wikipedia.org/wiki/Incremental_learning;represents;1.0;0.03333333333333333;1.0;0.0
+2;4;https://en.wikipedia.org/wiki/Incremental_learning;gradually;1.0;0.03333333333333333;1.0;0.0
+2;4;https://en.wikipedia.org/wiki/Incremental_learning;training data;4.0;0.03333333333333333;1.0;0.0
+2;4;https://en.wikipedia.org/wiki/Incremental_learning;unsupervised learning;4.0;0.03333333333333333;1.0;0.0
+2;4;https://en.wikipedia.org/wiki/Incremental_learning;time;1.0;0.03333333333333333;1.0;0.0
+2;4;https://en.wikipedia.org/wiki/Incremental_learning;dynamic technique;4.0;0.03333333333333333;1.0;0.0
+2;4;https://en.wikipedia.org/wiki/Incremental_learning;system memory limits;9.0;0.03333333333333333;1.0;0.0
+2;4;https://en.wikipedia.org/wiki/Incremental_learning;supervised learning;4.0;0.03333333333333333;1.0;0.0
+2;4;https://en.wikipedia.org/wiki/Incremental_learning;size;1.0;0.03333333333333333;1.0;0.0
+2;5;https://en.wikipedia.org/wiki/Incremental_learning;algorithms;1.0;0.06666666666666667;1.0;0.0
+2;5;https://en.wikipedia.org/wiki/Incremental_learning;facilitate incremental learning;9.0;0.03333333333333333;1.0;0.0
+2;10;https://en.wikipedia.org/wiki/Incremental_learning;decision rules;4.0;0.03333333333333333;1.0;0.0
+2;10;https://en.wikipedia.org/wiki/Incremental_learning;artificial neural networks;9.0;0.03333333333333333;1.0;0.0
+2;10;https://en.wikipedia.org/wiki/Incremental_learning;examples;1.0;0.03333333333333333;1.0;0.0
+2;10;https://en.wikipedia.org/wiki/Incremental_learning;incremental svm;4.0;0.03333333333333333;1.0;0.0

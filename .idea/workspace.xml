@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2dfaf8d-a7ae-4776-9a48-eeee4d48dff8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler0.txt" afterPath="$PROJECT_DIR$/crawler0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler3.txt" afterPath="$PROJECT_DIR$/crawler3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler4.txt" afterPath="$PROJECT_DIR$/crawler4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie3.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie4.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake0.csv" afterPath="$PROJECT_DIR$/entity_rake0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake2.csv" afterPath="$PROJECT_DIR$/entity_rake2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final.csv" afterPath="$PROJECT_DIR$/final.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li0.csv" afterPath="$PROJECT_DIR$/li0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li3.csv" afterPath="$PROJECT_DIR$/li3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li4.csv" afterPath="$PROJECT_DIR$/li4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para0.txt" afterPath="$PROJECT_DIR$/para0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para3.txt" afterPath="$PROJECT_DIR$/para3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para4.txt" afterPath="$PROJECT_DIR$/para4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rake.py" afterPath="$PROJECT_DIR$/rake.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result0.csv" afterPath="$PROJECT_DIR$/result0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result3.csv" afterPath="$PROJECT_DIR$/result3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result4.csv" afterPath="$PROJECT_DIR$/result4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/temp.java" afterPath="$PROJECT_DIR$/src/temp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.txt" afterPath="$PROJECT_DIR$/temp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie0.txt" afterPath="$PROJECT_DIR$/triples_ollie0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie3.txt" afterPath="$PROJECT_DIR$/triples_ollie3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie4.txt" afterPath="$PROJECT_DIR$/triples_ollie4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls0.txt" afterPath="$PROJECT_DIR$/urls0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls3.txt" afterPath="$PROJECT_DIR$/urls3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls4.txt" afterPath="$PROJECT_DIR$/urls4.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="temp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="temp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/temp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-709">
-              <caret line="72" column="15" lean-forward="false" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+            <state relative-caret-position="151">
+              <caret line="127" column="56" lean-forward="false" selection-start-line="127" selection-start-column="56" selection-end-line="127" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#540#548#0" expanded="true" />
@@ -44,15 +72,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CombineOllieRake.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CombineOllieRake.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CombineOllieRake.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-200">
+            <state relative-caret-position="760">
               <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#457#465#0" expanded="true" />
                 <element signature="e#529#537#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NormalizeScores.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NormalizeScores.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-612">
+              <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#472#480#0" expanded="true" />
+                <element signature="e#534#542#0" expanded="true" />
+                <element signature="e#597#605#0" expanded="true" />
+                <element signature="e#658#666#0" expanded="true" />
+                <element signature="e#720#728#0" expanded="true" />
+                <element signature="e#777#785#0" expanded="true" />
+                <element signature="e#843#851#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,7 +118,7 @@
       <file leaf-file-name="TripleRake.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TripleRake.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1398">
+            <state relative-caret-position="1620">
               <caret line="81" column="25" lean-forward="false" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -107,16 +154,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimilarityOllie.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SimilarityOllie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-640">
-              <caret line="94" column="48" lean-forward="false" selection-start-line="94" selection-start-column="48" selection-end-line="94" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GoogleSearchJava.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,8 +171,8 @@
       <file leaf-file-name="parseOllie.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/parseOllie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="245">
+              <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -191,9 +228,10 @@
         <option value="$PROJECT_DIR$/src/parseOllie.java" />
         <option value="$PROJECT_DIR$/src/sample.java" />
         <option value="$PROJECT_DIR$/src/relationSim.java" />
-        <option value="$PROJECT_DIR$/src/temp.java" />
         <option value="$PROJECT_DIR$/src/TripleRake.java" />
         <option value="$PROJECT_DIR$/src/CombineOllieRake.java" />
+        <option value="$PROJECT_DIR$/src/NormalizeScores.java" />
+        <option value="$PROJECT_DIR$/src/temp.java" />
       </list>
     </option>
   </component>
@@ -764,7 +802,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103977000" />
+    <option name="totallyTimeSpent" value="108873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
@@ -868,18 +906,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4700">
-          <caret line="247" column="28" lean-forward="false" selection-start-line="247" selection-start-column="28" selection-end-line="247" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1749#1757#0" expanded="true" />
-            <element signature="e#1816#1824#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TriplePOS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -1123,14 +1149,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/parseOllie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/relationSim.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
@@ -1161,21 +1179,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/temp.java">
+    <entry file="file://$PROJECT_DIR$/src/parseOllie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-709">
-          <caret line="72" column="15" lean-forward="false" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+        <state relative-caret-position="245">
+          <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombineOllieRake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#540#548#0" expanded="true" />
-            <element signature="e#1951#1959#0" expanded="true" />
+            <element signature="e#457#465#0" expanded="true" />
+            <element signature="e#529#537#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TripleRake.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1398">
+        <state relative-caret-position="1620">
           <caret line="81" column="25" lean-forward="false" selection-start-line="81" selection-start-column="25" selection-end-line="81" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1190,14 +1216,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CombineOllieRake.java">
+    <entry file="file://$PROJECT_DIR$/src/NormalizeScores.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200">
-          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        <state relative-caret-position="-612">
+          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#457#465#0" expanded="true" />
-            <element signature="e#529#537#0" expanded="true" />
+            <element signature="e#472#480#0" expanded="true" />
+            <element signature="e#534#542#0" expanded="true" />
+            <element signature="e#597#605#0" expanded="true" />
+            <element signature="e#658#666#0" expanded="true" />
+            <element signature="e#720#728#0" expanded="true" />
+            <element signature="e#777#785#0" expanded="true" />
+            <element signature="e#843#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="127" column="56" lean-forward="false" selection-start-line="127" selection-start-column="56" selection-end-line="127" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#540#548#0" expanded="true" />
+            <element signature="e#1951#1959#0" expanded="true" />
           </folding>
         </state>
       </provider>

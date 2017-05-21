@@ -9,9 +9,10 @@
 .
 .
 .
+The majority of practical machine learning uses supervised learning.
+Supervised learning is where you have input variables  and an output variable  and you use an algorithm to learn the mapping function from the input to the output.
  .
  .
-Some popular examples of supervised machine learning algorithms are .
 .
 .
 .
@@ -21,64 +22,23 @@ Some popular examples of supervised machine learning algorithms are .
 .
 .
 .
-Linear regression for regression problems..
-Random forest for classification and regression problems..
-Support vector machines for classification problems..
+.
+.
+The most widely used learning algorithms are Support Vector Machines, linear regression, logistic regression, naive Bayes, linear discriminant analysis, decision trees, knearest neighbor algorithm, and Neural Networks .
+.
+.
+.
+Supervised learning is a type of machine learning algorithm that uses a known dataset  to make predictions.
+ The training dataset includes input data and response values.
+ From it, the supervised learning algorithm seeks to build a model that can make predictions of the response values for a new dataset.
+ A test dataset is often used to validate the model.
+ Using larger training datasets often yield models with higher predictive power that can generalize well for new datasets.
+.
+.
+.
+.
+.
+In the data science course that I instruct, we cover most of the data science pipeline but focus especially on machine learning.
+ Besides teaching model evaluation procedures and metrics, we obviously teach the algorithms themselves, primarily for supervised learning.
 .
 Common terms .
-.
-.
-.
-.
-.
-.
-Supervised learning includes two categories of algorithms .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
- .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-Machine learning algorithms that make predictions on given set of samples.
- Supervised machine learning algorithm searches for patterns within the value labels assigned to data points.
-.
-.
-.
-.
-.
-.
- .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
