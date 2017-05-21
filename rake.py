@@ -78,7 +78,7 @@ def build_stop_word_regex(stop_word_file_path):
     return stop_word_pattern
 
 
-def generate_candidate_keywords(sentence_list, stopword_pattern, min_char_length=1, max_words_length=5):
+def generate_candidate_keywords(sentence_list, stopword_pattern, min_char_length=3, max_words_length=4):
     phrase_list = []
     for s in sentence_list:
         tmp = re.sub(stopword_pattern, '|', s.strip())
