@@ -1,15 +1,79 @@
-1;http://stackoverflow.com/questions/20752232/is-a-genetic-algorithm-a-form-of-unsupervised-learning;genetic algorithms;4.0;0.3333333333333333;2.0
-1;http://stackoverflow.com/questions/20752232/is-a-genetic-algorithm-a-form-of-unsupervised-learning;supervised;1.0;0.3333333333333333;2.0
-1;http://stackoverflow.com/questions/20752232/is-a-genetic-algorithm-a-form-of-unsupervised-learning;unsupervised learning;4.0;0.3333333333333333;1.0
-10;https://news.ycombinator.com/item%3Fid%3D11936908;inputs;1.0;0.08333333333333333;2.0
-10;https://news.ycombinator.com/item%3Fid%3D11936908;don;1.0;0.08333333333333333;2.0
-10;https://news.ycombinator.com/item%3Fid%3D11936908;unsupervised learning;4.5;0.08333333333333333;1.0
-10;https://news.ycombinator.com/item%3Fid%3D11936908;outputs;1.0;0.08333333333333333;2.0
-10;https://news.ycombinator.com/item%3Fid%3D11936908;labels;1.0;0.0;2.0
-10;https://news.ycombinator.com/item%3Fid%3D11936908;supervised learning algorithms;8.5;0.08333333333333333;2.0
-11;https://news.ycombinator.com/item%3Fid%3D11936908;parameters;1.0;0.08333333333333333;2.0
-11;https://news.ycombinator.com/item%3Fid%3D11936908;relate;1.0;0.08333333333333333;2.0
-11;https://news.ycombinator.com/item%3Fid%3D11936908;learn;1.0;0.0;2.0
-11;https://news.ycombinator.com/item%3Fid%3D11936908;input;1.0;0.08333333333333333;2.0
-11;https://news.ycombinator.com/item%3Fid%3D11936908;output;1.0;0.08333333333333333;2.0
-11;https://news.ycombinator.com/item%3Fid%3D11936908;cases;1.0;0.08333333333333333;2.0
+108;http://www.agiledata.org/essays/dataModeling101.html;ldms;1.0;0.0;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;created;1.0;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;models;2.5;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;explore domain concepts;7.0;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;agile teams high;8.0;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;alternatives;1.0;0.0;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;called domain models;8.5;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;project stakeholders;4.0;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;high;2.0;0.0;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;precursor;1.0;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;explore;2.0;0.03508771929824561;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;part;1.0;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;conceptual data models;8.5;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;concepts;2.0;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;level conceptual models;8.5;0.017543859649122806;4.0
+108;http://www.agiledata.org/essays/dataModeling101.html;typically;1.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;domain concepts;4.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;ldms;1.25;0.0;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;simply;1.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html; ldms depict;3.25;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;rarely;1.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;agile projects;4.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;logical data models;9.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;data attributes describing;9.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;entire enterprise;4.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;entities;1.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;add;1.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;problem domain;4.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;scope;1.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;logical entity types;8.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;relationships;1.0;0.0;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;entity types;5.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;practice;1.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;  ldms;1.25;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;explore;1.0;0.03508771929824561;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;single project;4.0;0.017543859649122806;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;traditional projects;4.0;0.03508771929824561;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html; ldms;1.25;0.0;4.0
+109;http://www.agiledata.org/essays/dataModeling101.html;typically referred;4.0;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;relationships;1.0;0.0;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;tables;1.33333333333;0.017543859649122806;2.0
+110;http://www.agiledata.org/essays/dataModeling101.html;physical modeling;4.5;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;pdms;1.0;0.0;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;database;1.0;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;agile;1.0;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;prove;1.0;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;focus;1.0;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;data columns;4.33333333333;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;internal schema;4.0;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html; pdms;1.0;0.0;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;traditional projects;4.0;0.03508771929824561;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;article;1.0;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;data tables;3.66666666667;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;design;1.0;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;depicting;1.0;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;physical data models;7.83333333333;0.017543859649122806;4.0
+110;http://www.agiledata.org/essays/dataModeling101.html;result;1.0;0.017543859649122806;4.0
+117;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;entity relationship diagram;9.0;0.16666666666666666;4.0
+117;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;showing;1.0;0.16666666666666666;4.0
+117;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;typical online;4.0;0.16666666666666666;4.0
+118;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;tables;1.0;0.16666666666666666;2.0
+118;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;parentchild relationships;4.0;0.16666666666666666;4.0
+119;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;fully understand;4.0;0.16666666666666666;4.0
+124;https://en.wikipedia.org/wiki/Data_model;relationships;1.0;0.0;4.0
+124;https://en.wikipedia.org/wiki/Data_model;document entities;4.0;0.06666666666666667;4.0
+124;https://en.wikipedia.org/wiki/Data_model;bind;1.0;0.06666666666666667;4.0
+124;https://en.wikipedia.org/wiki/Data_model;data structure diagram;7.5;0.06666666666666667;4.0
+124;https://en.wikipedia.org/wiki/Data_model;data model;4.5;0.06666666666666667;4.0
+124;https://en.wikipedia.org/wiki/Data_model;diagram;2.0;0.06666666666666667;4.0
+124;https://en.wikipedia.org/wiki/Data_model;providing graphical notations;9.0;0.06666666666666667;4.0
+124;https://en.wikipedia.org/wiki/Data_model;constraints;1.0;0.0;4.0
+125;https://en.wikipedia.org/wiki/Data_model;representing relationships;4.0;0.06666666666666667;4.0
+125;https://en.wikipedia.org/wiki/Data_model;dsds;1.0;0.0;4.0
+125;https://en.wikipedia.org/wiki/Data_model;arrows;1.0;0.06666666666666667;4.0
+125;https://en.wikipedia.org/wiki/Data_model;boxes;1.0;0.06666666666666667;4.0
+125;https://en.wikipedia.org/wiki/Data_model;basic graphic elements;9.0;0.06666666666666667;4.0
+125;https://en.wikipedia.org/wiki/Data_model;representing entities;4.0;0.06666666666666667;4.0
+126;https://en.wikipedia.org/wiki/Data_model;data structure diagrams;9.0;0.06666666666666667;4.0
+135;http://www.sparxsystems.com/enterprise_architect_user_guide/9.3/database_engineering/adatamodeldiagram.html;data model diagram;9.0;1.0;4.0

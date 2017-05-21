@@ -1,91 +1,135 @@
-0;12;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;majority;0.0;0.27272727272727276;1.0;1.2727272727272727
-0;12;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;practical machine learning;0.9375;0.27272727272727276;1.0;2.2102272727272725
-0;12;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;supervised learning;0.4375;0.5454545454545455;0.16666666666666669;1.1496212121212122
-0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;output variable;0.3125;0.27272727272727276;1.0;1.5852272727272727
-0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;algorithm;0.0;0.27272727272727276;1.0;1.2727272727272727
-0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;output;0.0625;0.27272727272727276;1.0;1.3352272727272727
-0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;learn;0.0;0.0;1.0;1.0
-0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;input variables;0.3125;0.27272727272727276;1.0;1.5852272727272727
-0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;input;0.0625;0.27272727272727276;1.0;1.3352272727272727
-0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;mapping function;0.375;0.27272727272727276;1.0;1.6477272727272727
-0;13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;supervised learning;0.375;0.5454545454545455;0.16666666666666669;1.0871212121212122
-0;27;https://en.wikipedia.org/wiki/Supervised_learning;decision trees;0.375;0.30000000000000004;1.0;1.675
-0;27;https://en.wikipedia.org/wiki/Supervised_learning;widely;0.0;0.30000000000000004;1.0;1.3
-0;27;https://en.wikipedia.org/wiki/Supervised_learning;linear discriminant analysis;0.9375;0.30000000000000004;1.0;2.2375
-0;27;https://en.wikipedia.org/wiki/Supervised_learning;learning algorithms;0.375;0.30000000000000004;1.0;1.675
-0;27;https://en.wikipedia.org/wiki/Supervised_learning;naive bayes;0.375;0.30000000000000004;1.0;1.675
-0;27;https://en.wikipedia.org/wiki/Supervised_learning;linear regression;0.4375;0.30000000000000004;1.0;1.7375
-0;27;https://en.wikipedia.org/wiki/Supervised_learning;knearest neighbor algorithm;1.0;0.30000000000000004;1.0;2.3
-0;27;https://en.wikipedia.org/wiki/Supervised_learning;logistic regression;0.375;0.30000000000000004;1.0;1.675
-0;27;https://en.wikipedia.org/wiki/Supervised_learning;support vector machines;1.0;0.30000000000000004;1.0;2.3
-0;27;https://en.wikipedia.org/wiki/Supervised_learning;neural networks;0.375;0.30000000000000004;1.0;1.675
-0;31;https://www.mathworks.com/discovery/supervised-learning.html;make predictions;0.375;0.3157894736842105;1.0;1.6907894736842106
-0;31;https://www.mathworks.com/discovery/supervised-learning.html;supervised learning;0.4375;0.15789473684210525;0.0625;0.6578947368421053
-0;31;https://www.mathworks.com/discovery/supervised-learning.html;type;0.0;0.15789473684210525;1.0;1.1578947368421053
-0;31;https://www.mathworks.com/discovery/supervised-learning.html;machine learning algorithm;0.9375;0.15789473684210525;1.0;2.0953947368421053
-0;31;https://www.mathworks.com/discovery/supervised-learning.html;dataset;0.0;0.0;1.0;1.0
-0;32;https://www.mathworks.com/discovery/supervised-learning.html;response values;0.375;0.3157894736842105;1.0;1.6907894736842106
-0;33;https://www.mathworks.com/discovery/supervised-learning.html;make predictions;0.375;0.3157894736842105;1.0;1.6907894736842106
-0;33;https://www.mathworks.com/discovery/supervised-learning.html;model;0.0;0.3157894736842105;1.0;1.3157894736842106
-0;33;https://www.mathworks.com/discovery/supervised-learning.html;build;0.0;0.15789473684210525;1.0;1.1578947368421053
-0;33;https://www.mathworks.com/discovery/supervised-learning.html;response values;0.375;0.3157894736842105;1.0;1.6907894736842106
-0;33;https://www.mathworks.com/discovery/supervised-learning.html;dataset;0.0;0.0;1.0;1.0
-0;34;https://www.mathworks.com/discovery/supervised-learning.html;test dataset;0.375;0.15789473684210525;1.0;1.5328947368421053
-0;34;https://www.mathworks.com/discovery/supervised-learning.html;validate;0.0;0.15789473684210525;1.0;1.1578947368421053
-0;34;https://www.mathworks.com/discovery/supervised-learning.html;model;0.0;0.3157894736842105;1.0;1.3157894736842106
-0;35;https://www.mathworks.com/discovery/supervised-learning.html;larger training datasets;0.875;0.15789473684210525;1.0;2.0328947368421053
-0;35;https://www.mathworks.com/discovery/supervised-learning.html;higher predictive power;1.0;0.15789473684210525;1.0;2.1578947368421053
-0;35;https://www.mathworks.com/discovery/supervised-learning.html;datasets;0.125;0.0;1.0;1.125
-0;35;https://www.mathworks.com/discovery/supervised-learning.html;generalize;0.0;0.15789473684210525;1.0;1.1578947368421053
-0;35;https://www.mathworks.com/discovery/supervised-learning.html;yield models;0.375;0.15789473684210525;1.0;1.5328947368421053
-0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;data science;0.5;0.27272727272727276;1.0;1.7727272727272727
-0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;cover;0.0;0.27272727272727276;1.0;1.2727272727272727
-0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;focus;0.0;0.27272727272727276;1.0;1.2727272727272727
-0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;machine learning;0.375;0.27272727272727276;1.0;1.6477272727272727
-0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;instruct;0.0;0.27272727272727276;1.0;1.2727272727272727
-0;41;http://www.dataschool.io/comparing-supervised-learning-algorithms/;data science pipeline;0.875;0.27272727272727276;1.0;2.1477272727272725
-0;42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;metrics;0.0;0.27272727272727276;1.0;1.2727272727272727
-0;42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;teach;0.0;0.27272727272727276;1.0;1.2727272727272727
-0;42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;supervised learning;0.375;0.27272727272727276;0.0625;0.7102272727272727
-0;42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;algorithms;0.0;0.27272727272727276;1.0;1.2727272727272727
-0;42;http://www.dataschool.io/comparing-supervised-learning-algorithms/;primarily;0.0;0.27272727272727276;1.0;1.2727272727272727
-1;1;http://stackoverflow.com/questions/20752232/is-a-genetic-algorithm-a-form-of-unsupervised-learning;genetic algorithms;0.375;1.0;0.25;1.625
-1;1;http://stackoverflow.com/questions/20752232/is-a-genetic-algorithm-a-form-of-unsupervised-learning;supervised;0.0;1.0;0.25;1.25
-1;1;http://stackoverflow.com/questions/20752232/is-a-genetic-algorithm-a-form-of-unsupervised-learning;unsupervised learning;0.375;1.0;0.0;1.375
-1;10;https://news.ycombinator.com/item%3Fid%3D11936908;inputs;0.0;0.25;0.25;0.5
-1;10;https://news.ycombinator.com/item%3Fid%3D11936908;don;0.0;0.25;0.25;0.5
-1;10;https://news.ycombinator.com/item%3Fid%3D11936908;unsupervised learning;0.4375;0.25;0.0;0.6875
-1;10;https://news.ycombinator.com/item%3Fid%3D11936908;outputs;0.0;0.25;0.25;0.5
-1;10;https://news.ycombinator.com/item%3Fid%3D11936908;labels;0.0;0.0;0.25;0.25
-1;10;https://news.ycombinator.com/item%3Fid%3D11936908;supervised learning algorithms;0.9375;0.25;0.25;1.4375
-1;11;https://news.ycombinator.com/item%3Fid%3D11936908;parameters;0.0;0.25;0.25;0.5
-1;11;https://news.ycombinator.com/item%3Fid%3D11936908;relate;0.0;0.25;0.25;0.5
-1;11;https://news.ycombinator.com/item%3Fid%3D11936908;learn;0.0;0.0;0.25;0.25
-1;11;https://news.ycombinator.com/item%3Fid%3D11936908;input;0.0;0.25;0.25;0.5
-1;11;https://news.ycombinator.com/item%3Fid%3D11936908;output;0.0;0.25;0.25;0.5
-1;11;https://news.ycombinator.com/item%3Fid%3D11936908;cases;0.0;0.25;0.25;0.5
-2;1;https://en.wikipedia.org/wiki/Incremental_learning;extend;0.0;0.1;0.0;0.1
-2;1;https://en.wikipedia.org/wiki/Incremental_learning;input data;0.375;0.1;0.0;0.475
-2;1;https://en.wikipedia.org/wiki/Incremental_learning;machine learning;0.375;0.1;0.0;0.475
-2;1;https://en.wikipedia.org/wiki/Incremental_learning;incremental learning;0.375;0.1;0.0;0.475
-2;1;https://en.wikipedia.org/wiki/Incremental_learning;computer science;0.375;0.1;0.0;0.475
-2;1;https://en.wikipedia.org/wiki/Incremental_learning;continuously;0.0;0.0;0.0;0.0
-2;1;https://en.wikipedia.org/wiki/Incremental_learning;existing model;0.375;0.1;0.0;0.475
-2;1;https://en.wikipedia.org/wiki/Incremental_learning;method;0.0;0.1;0.0;0.1
-2;1;https://en.wikipedia.org/wiki/Incremental_learning;knowledge;0.0;0.0;0.0;0.0
-2;4;https://en.wikipedia.org/wiki/Incremental_learning;applied;0.0;0.1;0.0;0.1
-2;4;https://en.wikipedia.org/wiki/Incremental_learning;represents;0.0;0.1;0.0;0.1
-2;4;https://en.wikipedia.org/wiki/Incremental_learning;gradually;0.0;0.1;0.0;0.1
-2;4;https://en.wikipedia.org/wiki/Incremental_learning;training data;0.375;0.1;0.0;0.475
-2;4;https://en.wikipedia.org/wiki/Incremental_learning;unsupervised learning;0.375;0.1;0.0;0.475
-2;4;https://en.wikipedia.org/wiki/Incremental_learning;time;0.0;0.1;0.0;0.1
-2;4;https://en.wikipedia.org/wiki/Incremental_learning;dynamic technique;0.375;0.1;0.0;0.475
-2;4;https://en.wikipedia.org/wiki/Incremental_learning;system memory limits;1.0;0.1;0.0;1.1
-2;4;https://en.wikipedia.org/wiki/Incremental_learning;supervised learning;0.375;0.1;0.0;0.475
-2;4;https://en.wikipedia.org/wiki/Incremental_learning;size;0.0;0.1;0.0;0.1
-2;5;https://en.wikipedia.org/wiki/Incremental_learning;algorithms;0.0;0.2;0.0;0.2
-2;5;https://en.wikipedia.org/wiki/Incremental_learning;facilitate incremental learning;1.0;0.1;0.0;1.1
-2;10;https://en.wikipedia.org/wiki/Incremental_learning;decision rules;0.375;0.1;0.0;0.475
-2;10;https://en.wikipedia.org/wiki/Incremental_learning;artificial neural networks;1.0;0.1;0.0;1.1
-2;10;https://en.wikipedia.org/wiki/Incremental_learning;examples;0.0;0.1;0.0;0.1
-2;10;https://en.wikipedia.org/wiki/Incremental_learning;incremental svm;0.375;0.1;0.0;0.475
+0;3;https://en.wikipedia.org/wiki/Navigational_database;web browsers;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;3;https://en.wikipedia.org/wiki/Navigational_database;javascript;0.0;0.0;1.0;1.0
+0;3;https://en.wikipedia.org/wiki/Navigational_database;current;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;3;https://en.wikipedia.org/wiki/Navigational_database;closely;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;3;https://en.wikipedia.org/wiki/Navigational_database;found;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;3;https://en.wikipedia.org/wiki/Navigational_database;document object model;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;3;https://en.wikipedia.org/wiki/Navigational_database;navigational structuring;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;4;https://en.wikipedia.org/wiki/Navigational_database;dom  engine;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;4;https://en.wikipedia.org/wiki/Navigational_database;essentially;0.0;0.0;1.0;1.0
+0;4;https://en.wikipedia.org/wiki/Navigational_database;lightweight navigational database;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;5;https://en.wikipedia.org/wiki/Navigational_database;world wide web;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;5;https://en.wikipedia.org/wiki/Navigational_database;navigational databases;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;5;https://en.wikipedia.org/wiki/Navigational_database;humanreadable text;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;5;https://en.wikipedia.org/wiki/Navigational_database;considered forms;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;5;https://en.wikipedia.org/wiki/Navigational_database;wikipedia;0.0;0.0;1.0;1.0
+0;5;https://en.wikipedia.org/wiki/Navigational_database;focus;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;5;https://en.wikipedia.org/wiki/Navigational_database;potentially;0.0;0.0;1.0;1.0
+0;5;https://en.wikipedia.org/wiki/Navigational_database;data;0.0;0.14814814814814814;0.0;0.14814814814814814
+0;6;https://en.wikipedia.org/wiki/Navigational_database;nose  paradigm implied;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;6;https://en.wikipedia.org/wiki/Navigational_database;navigational idea;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;6;https://en.wikipedia.org/wiki/Navigational_database;networkscale machinereadable data;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;6;https://en.wikipedia.org/wiki/Navigational_database;specifically concerned;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;6;https://en.wikipedia.org/wiki/Navigational_database;semantic web;0.375;0.14814814814814814;1.0;1.5231481481481481
+0;6;https://en.wikipedia.org/wiki/Navigational_database;follow;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;6;https://en.wikipedia.org/wiki/Navigational_database;precisely;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;6;https://en.wikipedia.org/wiki/Navigational_database;linked data facet;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;6;https://en.wikipedia.org/wiki/Navigational_database;contrast;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;9;http://databasemanagement.wikia.com/wiki/Navigational_Database;web browsers;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;9;http://databasemanagement.wikia.com/wiki/Navigational_Database;javascript;0.0;0.0;1.0;1.0
+0;9;http://databasemanagement.wikia.com/wiki/Navigational_Database;current;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;9;http://databasemanagement.wikia.com/wiki/Navigational_Database;closely;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;9;http://databasemanagement.wikia.com/wiki/Navigational_Database;found;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;9;http://databasemanagement.wikia.com/wiki/Navigational_Database;document object model;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;9;http://databasemanagement.wikia.com/wiki/Navigational_Database;navigational structuring;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;10;http://databasemanagement.wikia.com/wiki/Navigational_Database;dom  engine;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;10;http://databasemanagement.wikia.com/wiki/Navigational_Database;essentially;0.0;0.0;1.0;1.0
+0;10;http://databasemanagement.wikia.com/wiki/Navigational_Database;lightweight navigational database;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;11;http://databasemanagement.wikia.com/wiki/Navigational_Database;world wide web;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;11;http://databasemanagement.wikia.com/wiki/Navigational_Database;navigational databases;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;11;http://databasemanagement.wikia.com/wiki/Navigational_Database;humanreadable text;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;11;http://databasemanagement.wikia.com/wiki/Navigational_Database;considered forms;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;11;http://databasemanagement.wikia.com/wiki/Navigational_Database;wikipedia;0.0;0.0;1.0;1.0
+0;11;http://databasemanagement.wikia.com/wiki/Navigational_Database;focus;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;11;http://databasemanagement.wikia.com/wiki/Navigational_Database;potentially;0.0;0.0;1.0;1.0
+0;11;http://databasemanagement.wikia.com/wiki/Navigational_Database;data;0.0;0.14814814814814814;0.0;0.14814814814814814
+0;12;http://databasemanagement.wikia.com/wiki/Navigational_Database;semantic;0.0;0.14814814814814814;1.0;1.1481481481481481
+0;12;http://databasemanagement.wikia.com/wiki/Navigational_Database;navigational idea;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;12;http://databasemanagement.wikia.com/wiki/Navigational_Database;networkscale machinereadable data;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;12;http://databasemanagement.wikia.com/wiki/Navigational_Database;specifically concerned;0.375;0.14814814814814814;0.3333333333333333;0.8564814814814814
+0;12;http://databasemanagement.wikia.com/wiki/Navigational_Database;nose  paradigm implied;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;12;http://databasemanagement.wikia.com/wiki/Navigational_Database;follow;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;12;http://databasemanagement.wikia.com/wiki/Navigational_Database;precisely;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;12;http://databasemanagement.wikia.com/wiki/Navigational_Database;linked data facet;1.0;0.14814814814814814;0.3333333333333333;1.4814814814814814
+0;12;http://databasemanagement.wikia.com/wiki/Navigational_Database;contrast;0.0;0.14814814814814814;0.3333333333333333;0.48148148148148145
+0;23;http://www.tech-faq.com/dbms.html;organize;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;23;http://www.tech-faq.com/dbms.html;dbms makes;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;23;http://www.tech-faq.com/dbms.html;system;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;23;http://www.tech-faq.com/dbms.html;data structures;0.3125;0.04938271604938271;1.0;1.3618827160493827
+0;23;http://www.tech-faq.com/dbms.html;stored;0.0;0.09876543209876543;1.0;1.0987654320987654
+0;23;http://www.tech-faq.com/dbms.html;data;0.0625;0.09876543209876543;0.11111111111111113;0.2723765432098766
+0;24;http://www.tech-faq.com/dbms.html;data structure;0.3125;0.04938271604938271;1.0;1.3618827160493827
+0;24;http://www.tech-faq.com/dbms.html;dbms;0.0;0.0;1.0;1.0
+0;24;http://www.tech-faq.com/dbms.html;database;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;24;http://www.tech-faq.com/dbms.html;data;0.0625;0.09876543209876543;0.11111111111111113;0.2723765432098766
+0;24;http://www.tech-faq.com/dbms.html;integrity;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;24;http://www.tech-faq.com/dbms.html;information stored;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;24;http://www.tech-faq.com/dbms.html;damaging;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;25;http://www.tech-faq.com/dbms.html;files;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;25;http://www.tech-faq.com/dbms.html;information;0.0;0.0;1.0;1.0
+0;25;http://www.tech-faq.com/dbms.html;individual records;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;25;http://www.tech-faq.com/dbms.html;profiles;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;25;http://www.tech-faq.com/dbms.html;field;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;25;http://www.tech-faq.com/dbms.html;stored;0.0;0.09876543209876543;1.0;1.0987654320987654
+0;25;http://www.tech-faq.com/dbms.html;functionality;0.0;0.0;1.0;1.0
+0;25;http://www.tech-faq.com/dbms.html;common examples;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;25;http://www.tech-faq.com/dbms.html;definitions;0.0;0.0;1.0;1.0
+0;28;http://www.tech-faq.com/dbms.html;past;0.0;0.09876543209876543;1.0;1.0987654320987654
+0;28;http://www.tech-faq.com/dbms.html;exponentially grow;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;28;http://www.tech-faq.com/dbms.html;database technology;0.4375;0.09876543209876543;1.0;1.5362654320987654
+0;28;http://www.tech-faq.com/dbms.html;database management systems;0.9375;0.04938271604938271;1.0;1.9868827160493827
+0;28;http://www.tech-faq.com/dbms.html;decades;0.0;0.09876543209876543;1.0;1.0987654320987654
+0;28;http://www.tech-faq.com/dbms.html;capability;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;28;http://www.tech-faq.com/dbms.html;complexity;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;28;http://www.tech-faq.com/dbms.html;continued;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;30;http://www.tech-faq.com/dbms.html;implemented;0.0;0.0;1.0;1.0
+0;30;http://www.tech-faq.com/dbms.html;based;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;30;http://www.tech-faq.com/dbms.html;idms;0.0;0.0;1.0;1.0
+0;30;http://www.tech-faq.com/dbms.html;hierarchical structure;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;30;http://www.tech-faq.com/dbms.html;number;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;30;http://www.tech-faq.com/dbms.html;ibm products;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;30;http://www.tech-faq.com/dbms.html;include;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;31;http://www.tech-faq.com/dbms.html;relational model;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;31;http://www.tech-faq.com/dbms.html;edgar;0.0;0.0;1.0;1.0
+0;31;http://www.tech-faq.com/dbms.html;proposed;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;32;http://www.tech-faq.com/dbms.html;information;0.0625;0.0;1.0;1.0625
+0;32;http://www.tech-faq.com/dbms.html;search;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;32;http://www.tech-faq.com/dbms.html;concept;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;32;http://www.tech-faq.com/dbms.html;content vice;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;32;http://www.tech-faq.com/dbms.html;changed;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;32;http://www.tech-faq.com/dbms.html;codd;0.0;0.0;1.0;1.0
+0;32;http://www.tech-faq.com/dbms.html;database system;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;32;http://www.tech-faq.com/dbms.html;link;0.0;0.0;1.0;1.0
+0;32;http://www.tech-faq.com/dbms.html;information based;0.3125;0.04938271604938271;1.0;1.3618827160493827
+0;32;http://www.tech-faq.com/dbms.html;forcing;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;33;http://www.tech-faq.com/dbms.html;tables;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;33;http://www.tech-faq.com/dbms.html;model;0.0;0.09876543209876543;1.0;1.0987654320987654
+0;33;http://www.tech-faq.com/dbms.html;entity;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;33;http://www.tech-faq.com/dbms.html;type;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;33;http://www.tech-faq.com/dbms.html;subdivided;0.0;0.04938271604938271;1.0;1.0493827160493827
+0;34;http://www.tech-faq.com/dbms.html;mid1980s;0.0;0.0;1.0;1.0
+0;34;http://www.tech-faq.com/dbms.html;processing application;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;34;http://www.tech-faq.com/dbms.html;catchup;0.0;0.0;1.0;1.0
+0;34;http://www.tech-faq.com/dbms.html;computer hardware;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;34;http://www.tech-faq.com/dbms.html;relational dbmss;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;34;http://www.tech-faq.com/dbms.html;relational theory;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;34;http://www.tech-faq.com/dbms.html;deployed alongside;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;35;http://www.tech-faq.com/dbms.html;development;0.0;0.0;1.0;1.0
+0;35;http://www.tech-faq.com/dbms.html;primary database language;1.0;0.04938271604938271;1.0;2.049382716049383
+0;35;http://www.tech-faq.com/dbms.html;helped influenced developments;1.0;0.04938271604938271;1.0;2.049382716049383
+0;35;http://www.tech-faq.com/dbms.html;gave rise;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;35;http://www.tech-faq.com/dbms.html;newer database models;1.0;0.04938271604938271;1.0;2.049382716049383
+0;35;http://www.tech-faq.com/dbms.html;model;0.0;0.09876543209876543;1.0;1.0987654320987654
+0;35;http://www.tech-faq.com/dbms.html;standard sql;0.375;0.04938271604938271;1.0;1.4243827160493827
+0;37;https://www.uniassignment.com/essay-samples/information-technology/the-example-of-navigation-database-information-technology-essay.php;prerequisites;0.0;0.0;1.0;1.0
+0;37;https://www.uniassignment.com/essay-samples/information-technology/the-example-of-navigation-database-information-technology-essay.php;replacing;0.0;1.0;1.0;2.0
+0;37;https://www.uniassignment.com/essay-samples/information-technology/the-example-of-navigation-database-information-technology-essay.php;xml;0.0;0.0;1.0;1.0
+0;37;https://www.uniassignment.com/essay-samples/information-technology/the-example-of-navigation-database-information-technology-essay.php;existing interchange standard;1.0;1.0;1.0;3.0
+0;45;http://www.mytecbits.com/microsoft/sql-server/what-is-dbms-what-is-rdbms;database management system;1.0;0.4;1.0;2.4
+0;46;http://www.mytecbits.com/microsoft/sql-server/what-is-dbms-what-is-rdbms;desktop computer;0.375;0.4;1.0;1.775
+0;46;http://www.mytecbits.com/microsoft/sql-server/what-is-dbms-what-is-rdbms;controlling;0.0;0.0;1.0;1.0
+0;46;http://www.mytecbits.com/microsoft/sql-server/what-is-dbms-what-is-rdbms;server;0.0;0.4;1.0;1.4
+0;46;http://www.mytecbits.com/microsoft/sql-server/what-is-dbms-what-is-rdbms;databases;0.0;0.4;1.0;1.4
+0;47;http://www.mytecbits.com/microsoft/sql-server/what-is-dbms-what-is-rdbms;termed;0.0;0.4;1.0;1.4
+0;49;http://www.mytecbits.com/microsoft/sql-server/what-is-dbms-what-is-rdbms;article;0.0;0.4;1.0;1.4
+0;49;http://www.mytecbits.com/microsoft/sql-server/what-is-dbms-what-is-rdbms;rdbms;0.0;0.0;1.0;1.0

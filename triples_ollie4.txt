@@ -1,3 +1,13 @@
+For example, the following is the hierarchical schema of a company database .
+No extractions found.
+
+In hierarchical model, data is organized into a tree like structure with each record is having one parent record and many children.
+0.925: (data; is organized into; a tree)
+0.797: (data; is organized in; hierarchical model)
+
+ The main drawback of this model is that, it can have only one to many relationships between nodes.
+0.711: (it; can have; only one)
+
 .
 No extractions found.
 
@@ -7,34 +17,405 @@ No extractions found.
 .
 No extractions found.
 
-Sentiment Analysis  is an ongoing field of research in text mining field.
-0.945: (Sentiment Analysis; is an ongoing field of; research)
-0.923: (Sentiment Analysis; is an ongoing field of research in; text mining field)
-0.818: (Sentiment Analysis; is; an ongoing field of research)
-
- SA is the computational treatment of opinions, sentiments and subjectivity of text.
-0.901: (SA; is the computational treatment of; opinions , sentiments and subjectivity of text)
-0.578: (SA; is; the computational treatment of opinions)
-
- This survey paper tackles a comprehensive overview of the last update in this field.
-0.854: (This survey paper; tackles; a comprehensive overview of the last update)
-
- Many recently proposed algorithms  enhancements and various SA applications are investigated and presented briefly in this survey.
+.
 No extractions found.
 
- These articles are categorized according to their contributions in the various SA techniques.
+This model is the oldest database model and is regarded as the first major influence on database modelling.
+0.852: (This model; is regarded as; the first major influence)
+0.667: (This model; is; the oldest database model)
+
+ .
 No extractions found.
 
- The related fields to SA  that attracted researchers recently are discussed.
+In the 1960's North American Rockwell together with IBM developed a database processing language called DL/I (Data Language I).  This partnership also produced the IMS (Information Management System) which went on to become the world's leading mainframe hierarchical DBMS of the seventies and eighties..
+0.756: (This partnership; also produced; the IMS)
+0.703: (a database processing language; called; DL/ I ( Data Language)
+0.692: (1960 's North American Rockwell; developed; a database processing language)
+
+IMS uses DL/I to process its database..
+0.618: (I; to process; its database)
+
+DL/I uses hierarchies (or trees) to represent relationships..
+0.649: (hierarchies; be uses by; DL/)
+0.625: (I; uses; hierarchies)
+
+ .
 No extractions found.
-
- The main target of this survey is to give nearly full image of SA techniques and the related fields with brief details.
-0.799: (The main target of this survey; is to give; full image of SA techniques)
-
- The main contributions of this paper include the sophisticated categorizations of a large number of recent articles and the illustration of the recent trend of research in the sentiment analysis and its related areas.
-0.842: (The main contributions of this paper; include; the sophisticated categorizations of a large number of recent articles and the illustration of the recent trend of research)
 
 .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+    .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The hierarchical model was the first database model developed to overcome the limitations of the traditional file system.
+0.853: (the first database model; developed to overcome; the limitations of the traditional file system)
+0.669: (The hierarchical model; was; the first database model)
+
+  Hierarchical databases were predominantly used for transaction processing where the volume of transactions is large and the transaction operations change little over time.
+0.948: (Hierarchical databases; were predominantly used for; transaction processing where the volume of transactions is large and the transaction operations change little over time)
+0.821: (the transaction operations; change little over; time)
+0.821: (the volume of transactions; change little over; time)
+0.653: (the volume of transactions; is; large)
+0.48: (the transaction operations; is; large)
+0.399: (large; be the volume of; transactions)
+
+  For example, the hierarchical database model was particularly popular with banks, because, the way in which banks process savings transactions seldom varies.
+0.783: (the hierarchical database model; was particularly popular with; banks)
+0.78: (the hierarchical database model; was particularly; popular)
+0.523: (banks; process; savings transactions)
+0.272: (the hierarchical database model; was particularly popular for; example)
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+    .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The earliest model was the hierarchical database model, resembling an upsidedown tree.
+0.719: (The earliest model; was; the hierarchical database model)
+
+ Files are related in a parentchild manner, with each parent capable of relating to more than one child, but each child only being related to one parent.
+0.911: (Files; are related with; each parent capable)
+0.9: (Files; are related in; a parentchild manner)
+0.744: (each child; only being related to; one parent)
+
+ Most of you will be familiar with this kind of structure it s the way most file systems work.
+0.884: (Most of you; will be familiar with; this kind of structure)
+0.838: (Most of you; will be; familiar)
+0.569: (it; s; the way)
+
+ There is usually a root, or toplevel, directory that contains various other directories and files.
+0.564: (various other directories and files; be contains by; directory)
+
+ Each subdirectory can then contain more files and directories, and so on.
+0.729: (Each subdirectory; can then contain; more files and directories)
+
+ Each file or directory can only exist in one directory itself it only has one parent.
+0.825: (Each file or directory; can only exist in; one directory it only has one parent)
+0.612: (it; only has; one parent)
+0.491: (one parent; be only has by; one directory)
+
+ As you can see in the image below A1 is the root directory, and its children are B1 and B2.
+0.836: (you; can see in; the image)
+
+ B1 is a parent to C1, C2, and C3, which in turn has children of its own.
+0.808: (B1; is a parent to; C1 , C2 , and C3)
+0.642: (children of its own; be has by; C1 , C2 , and C3)
+0.591: (B1; is; a parent)
+0.539: (C1 , C2 , and C3; has children of its own in; turn)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+This model, although being a vast improvement on dealing with unrelated files, has some serious disadvantages.
+0.644: (This model; has; some serious disadvantages)
+
+ It represents onetomany relationships well , but it has problems with manytomany relationships.
+0.659: (it; has; problems)
+0.488: (It; represents well; onetomany relationships)
+
+ Relationships such as that between a product file and an orders file are difficult to implement in a hierarchical model.
+No extractions found.
+
+ Specifically, an order can contain many products, and a product can appear in many orders.
+0.834: (a product; can appear in; many orders)
+0.678: (an order; Specifically can contain a product can appear in many orders; many products)
+
+ Also, the hierarchal model is not flexible because adding new relationships can result in wholesale changes to the existing structure, which in turn means all existing applications need to change as well.
+0.659: (the hierarchal model; Also is; not flexible)
+0.549: (the existing structure; means in; turn)
+
+ This is not fun when someone has forgotten a table and wants it added to the system shortly before the project is due to launch  And developing the applications is complex because the programmer needs to know the data structure well in order to traverse the model to access the needed data.
+0.806: (it; added to; the system)[enabler=because the programmer needs to know the data structure well in order to traverse the model to access the needed data]
+0.714: (someone; has forgotten; a table)
+0.686: (the project; to launch; complex)
+0.541: (the project; shortly is; due)
+0.474: (the programmer; needs to know well; the data structure)
+
+ As you ve seen in the earlier chapters, when accessing data from two related tables, you only need to know the fields you require from those two tables.
+0.88: (you; ve seen in; the earlier chapters)
+0.865: (you; only need to know the fields you require from; those two tables)
+0.794: (you; only need to know; the fields you require)
+0.772: (the fields you require; to be know from; those two tables)
+0.622: (data; be accessing from; two related tables)
+0.503: (you; ve seen at; the earlier chapters)
+
+ In the hierarchical model, you d need to know the entire chain between the two.
+0.88: (you; d; need to know the entire chain between the two)
+0.625: (you; d need to know the entire chain between the two in; the hierarchical model)
+0.565: (need to know the entire chain between the two; be d in; the hierarchical model)
+
+ For example, to relate data from A1 and D4, you d need to take the route  A1, B1, C3 and D4.
+0.88: (you; d; need to take the route A1 , B1 , C3 and D4)[enabler=example , to relate data from A1 and D4]
+0.2: (data; to be relate for; example)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+In figure 1, the node at level 1 is called the root node and the nodes at that has no children are called leaves. For example, node 4, 5, 7, 8, 9, 10 and 11..
+0.795: (the node; is called; the root node and the nodes at that has no children are called leaves)
+0.754: (the node; is called the root node in; figure 1)
+0.568: (no children; has are called in; the root node and the nodes)
+0.562: (no children; has are called; leaves)
+0.51: (the node; is called the nodes at that has no children are called leaves in; figure 1)
+
+Nodes that are children of the same parent are called siblings. For example, nodes 2, 3, 4 are siblings..
+0.868: (Nodes; are children of; the same parent)
+0.779: (Nodes; are called; siblings)
+
+For any node there is a single path called the hierarchical path from the root node. The nodes along this path are called that nodes ancestors..
+0.736: (the hierarchical path; be called from; the root node)
+0.613: (a single path; is for; any node)
+
+Similarly for a given node, any node along a path from that node to leaf is called its descendent..
+0.632: (any node; Similarly for a given node is called; its descendent.)
+
+For example, suppose we have to find out the hierarchical path of node 10, then it will be 1→2→6→10 and the ancestors of node 10 are 1, 2 and 6..
+0.729: (we; have to find out; the hierarchical path of node 10)
+0.584: (it; then will be; 1→2→6→10 and the ancestors of node 10 are 1 , 2)
+
+The height of tree is the number of levels on the longest hierarchical path from the root to a leaf. The above tree has a height= 4..
+0.939: (The height of tree; is the number of; levels)
+0.927: (The height of tree; is the number of levels on; the longest hierarchical path)
+0.908: (The height of tree; is the number of levels from; the root)
+0.804: (The height of tree; is; the number of levels)
+0.771: (The height of tree; is the number of levels above; tree)
+0.516: (the number of levels; has; a height)
+0.492: (the number of levels; be The height of; tree)
+
+A tree is said to be balanced if every path from the root node to a leaf has the same length..
+0.127: (every path; has; the same length)
+
+Hierarchical database model is a structure of data organized in a treelike model using parent child like relationships, therefore there won t be too many relationships.
+0.896: (Hierarchical database model; is a structure therefore there won of; data organized in a treelike model)
+0.753: (data; be organized in; a treelike model using parent child like relationships)
+0.622: (parent child; be using like; relationships)
+0.571: (a treelike model; using parent child like; relationships)
+0.545: (a structure of data; be; many relationships)
+0.473: (Hierarchical database model; is therefore there won; a structure of data)
+
+ In a hierarchical database, an entity type can be either a parent or a child  under each individual entity is is more multiple entities.
+0.863: (an entity type; can be either a parent under; each individual entity)
+0.778: (an entity type; can be either; a parent or a child)
+0.746: (an entity type; can be either a parent in; a hierarchical database)
+0.693: (a parent or a child; is is; multiple entities)
+
+ Entity types are related to each other using tree mapping, which is represented by one parent with many child relationships.
+0.9: (Entity types; are related to; each other)
+
+ There are also attributes of a specific data recorded under an entity.
+0.705: (a specific data; be recorded under; an entity)
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+The tree like structure can be repeated data, usually with many children under single parent information.
+0.719: (The tree; can be repeated; data)
+0.21: (many; be children under; single parent information)
+
+ Data is a series of records, which have a set of values within it.
+0.921: (Data; is a series of; records)
+0.774: (Data; is; a series of records which have a set of values within it)
+
+ All of the collected data is recorded in each type.
+No extractions found.
+
+ These types are equal to the tables in other database model, and each parent or child is the equivalent of a row or column in a database table.
+0.936: (each parent or child; is the equivalent of; a row or column)
+0.888: (each parent or child; is the equivalent of a row in; a database table)
+0.886: (These types; is the equivalent of; a row or column)
+0.852: (These types; are equal to; the tables)
+0.81: (These types; is the equivalent of a row in; a database table)
+0.763: (These types; is; equal to the tables in other database model , and each parent or child is the equivalent of a row)
+0.726: (each parent or child; are equal to; the tables)
+
+ In a hierarchical model, Parent Child relationships are all link together by certain types of data in a category.
+0.94: (Parent Child relationships; are all link together by; certain types of data)
+0.734: (Parent Child relationships; are all link together in; a hierarchical model)
+
+ The links are mapped in the relationships so it would look like a tree structure with many branches sprouting form many branches.
+0.908: (The links; are mapped in; the relationships)[enabler=so it would look like a tree structure with many branches sprouting form many branches]
+0.694: (it; would look like; a tree structure)
+0.637: (it; would look with; many branches sprouting form many branches)
+
+ For example, a company will store information about an employee.
+0.798: (a company; will store; information)
+0.287: (a company; will store information about an employee for; example)
+0.2: (information; will be store for; example)
+
+ So in the beginning of the tree will be the employee name.
+No extractions found.
+
+ Below the name will be the data of the employee s number, department, salary, etc.
+No extractions found.
+
+ Information such as birthday, children, and age will be stored also.
+0.433: (children; be Information as; birthday)
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
 No extractions found.
 
 .

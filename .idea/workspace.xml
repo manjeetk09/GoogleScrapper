@@ -2,35 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2dfaf8d-a7ae-4776-9a48-eeee4d48dff8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler0.txt" afterPath="$PROJECT_DIR$/crawler0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler1.txt" afterPath="$PROJECT_DIR$/crawler1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler2.txt" afterPath="$PROJECT_DIR$/crawler2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler3.txt" afterPath="$PROJECT_DIR$/crawler3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler4.txt" afterPath="$PROJECT_DIR$/crawler4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler5.txt" afterPath="$PROJECT_DIR$/crawler5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler6.txt" afterPath="$PROJECT_DIR$/crawler6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler7.txt" afterPath="$PROJECT_DIR$/crawler7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler8.txt" afterPath="$PROJECT_DIR$/crawler8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie1.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie3.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie3.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie4.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie5.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie6.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie7.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie8.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie8.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake0.csv" afterPath="$PROJECT_DIR$/entity_rake0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake1.csv" afterPath="$PROJECT_DIR$/entity_rake1.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake2.csv" afterPath="$PROJECT_DIR$/entity_rake2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake3.csv" afterPath="$PROJECT_DIR$/entity_rake3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake4.csv" afterPath="$PROJECT_DIR$/entity_rake4.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final.csv" afterPath="$PROJECT_DIR$/final.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_normalize.csv" afterPath="$PROJECT_DIR$/final_normalize.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li0.csv" afterPath="$PROJECT_DIR$/li0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li1.csv" afterPath="$PROJECT_DIR$/li1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li2.csv" afterPath="$PROJECT_DIR$/li2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li3.csv" afterPath="$PROJECT_DIR$/li3.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li4.csv" afterPath="$PROJECT_DIR$/li4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li5.csv" afterPath="$PROJECT_DIR$/li5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li6.csv" afterPath="$PROJECT_DIR$/li6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li7.csv" afterPath="$PROJECT_DIR$/li7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li8.csv" afterPath="$PROJECT_DIR$/li8.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para0.txt" afterPath="$PROJECT_DIR$/para0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para1.txt" afterPath="$PROJECT_DIR$/para1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para2.txt" afterPath="$PROJECT_DIR$/para2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para3.txt" afterPath="$PROJECT_DIR$/para3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para4.txt" afterPath="$PROJECT_DIR$/para4.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rake.py" afterPath="$PROJECT_DIR$/rake.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para5.txt" afterPath="$PROJECT_DIR$/para5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para6.txt" afterPath="$PROJECT_DIR$/para6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para7.txt" afterPath="$PROJECT_DIR$/para7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para8.txt" afterPath="$PROJECT_DIR$/para8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result0.csv" afterPath="$PROJECT_DIR$/result0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result1.csv" afterPath="$PROJECT_DIR$/result1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result2.csv" afterPath="$PROJECT_DIR$/result2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result3.csv" afterPath="$PROJECT_DIR$/result3.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result4.csv" afterPath="$PROJECT_DIR$/result4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/temp.java" afterPath="$PROJECT_DIR$/src/temp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result5.csv" afterPath="$PROJECT_DIR$/result5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result6.csv" afterPath="$PROJECT_DIR$/result6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result7.csv" afterPath="$PROJECT_DIR$/result7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result8.csv" afterPath="$PROJECT_DIR$/result8.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.txt" afterPath="$PROJECT_DIR$/temp.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie0.txt" afterPath="$PROJECT_DIR$/triples_ollie0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie1.txt" afterPath="$PROJECT_DIR$/triples_ollie1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie2.txt" afterPath="$PROJECT_DIR$/triples_ollie2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie3.txt" afterPath="$PROJECT_DIR$/triples_ollie3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie4.txt" afterPath="$PROJECT_DIR$/triples_ollie4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie5.txt" afterPath="$PROJECT_DIR$/triples_ollie5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie6.txt" afterPath="$PROJECT_DIR$/triples_ollie6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie7.txt" afterPath="$PROJECT_DIR$/triples_ollie7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie8.txt" afterPath="$PROJECT_DIR$/triples_ollie8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls0.txt" afterPath="$PROJECT_DIR$/urls0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls1.txt" afterPath="$PROJECT_DIR$/urls1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls2.txt" afterPath="$PROJECT_DIR$/urls2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls3.txt" afterPath="$PROJECT_DIR$/urls3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls4.txt" afterPath="$PROJECT_DIR$/urls4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls5.txt" afterPath="$PROJECT_DIR$/urls5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls6.txt" afterPath="$PROJECT_DIR$/urls6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls7.txt" afterPath="$PROJECT_DIR$/urls7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls8.txt" afterPath="$PROJECT_DIR$/urls8.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -802,7 +845,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108873000" />
+    <option name="totallyTimeSpent" value="109991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />

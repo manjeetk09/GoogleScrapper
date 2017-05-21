@@ -1,0 +1,96 @@
+4;http://www.studytonight.com/dbms/er-diagram.php;person;1.0;0.0625;5.0
+4;http://www.studytonight.com/dbms/er-diagram.php;object;1.0;0.0625;2.5
+4;http://www.studytonight.com/dbms/er-diagram.php;place;1.0;0.0625;5.0
+4;http://www.studytonight.com/dbms/er-diagram.php;class;1.0;0.0625;5.0
+4;http://www.studytonight.com/dbms/er-diagram.php;entity;1.0;0.125;2.5
+5;http://www.studytonight.com/dbms/er-diagram.php;er diagram;4.0;0.0625;1.6666666666666667
+5;http://www.studytonight.com/dbms/er-diagram.php;represented;1.0;0.0;5.0
+5;http://www.studytonight.com/dbms/er-diagram.php;rectangles;1.0;0.0625;5.0
+5;http://www.studytonight.com/dbms/er-diagram.php;entity;1.0;0.125;2.5
+6;http://www.studytonight.com/dbms/er-diagram.php;organisation;1.0;0.0;5.0
+7;http://www.studytonight.com/dbms/er-diagram.php;product;1.0;0.0625;5.0
+7;http://www.studytonight.com/dbms/er-diagram.php;entities;1.0;0.0625;1.6666666666666667
+7;http://www.studytonight.com/dbms/er-diagram.php;organisation;1.0;0.0;5.0
+7;http://www.studytonight.com/dbms/er-diagram.php;department;1.0;0.0625;5.0
+7;http://www.studytonight.com/dbms/er-diagram.php;manager;1.0;0.0625;5.0
+7;http://www.studytonight.com/dbms/er-diagram.php;employee;1.0;0.0625;5.0
+36;http://www.careerbless.com/db/rdbms/c1/er2.php;college database;4.0;0.25;5.0
+36;http://www.careerbless.com/db/rdbms/c1/er2.php;design;1.0;0.25;5.0
+36;http://www.careerbless.com/db/rdbms/c1/er2.php;entity relationship  model;9.0;0.25;2.5
+37;http://www.careerbless.com/db/rdbms/c1/er2.php;statements;1.0;0.25;5.0
+39;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;er model defines;9.0;0.09090909090909091;5.0
+39;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;conceptual view;4.0;0.09090909090909091;5.0
+39;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;database;1.0;0.09090909090909091;5.0
+40;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;associations;1.0;0.0;5.0
+40;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;works;1.0;0.09090909090909091;5.0
+40;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;realworld entities;4.0;0.09090909090909091;5.0
+41;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;considered;1.0;0.09090909090909091;5.0
+41;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;designing databases;4.0;0.09090909090909091;5.0
+41;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;view level;4.0;0.09090909090909091;5.0
+41;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;good option;4.0;0.09090909090909091;5.0
+41;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;er model;4.0;0.09090909090909091;1.0
+42;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;represented;1.0;0.0;5.0
+42;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;er diagram;4.0;0.16666666666666666;2.5
+42;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;means;1.0;0.08333333333333333;5.0
+42;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;er model;4.0;0.08333333333333333;1.0
+42;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;learn;1.0;0.0;5.0
+43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;er diagram;4.0;0.16666666666666666;2.5
+43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;relationship sets;4.0;0.08333333333333333;5.0
+43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;object;1.0;0.08333333333333333;2.5
+43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;entity;1.0;0.08333333333333333;1.6666666666666667
+43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;entities;1.0;0.08333333333333333;1.6666666666666667
+43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;represented;1.0;0.0;5.0
+43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;attributes;1.0;0.08333333333333333;5.0
+53;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;specific domain;4.0;0.018867924528301886;5.0
+53;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;knowledge;1.0;0.0;5.0
+53;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;interest;1.0;0.018867924528301886;5.0
+54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;composed;1.0;0.018867924528301886;5.0
+54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;entity types;4.0;0.018867924528301886;5.0
+54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;instances;1.0;0.018867924528301886;5.0
+54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;exist;1.0;0.018867924528301886;5.0
+54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;er model;4.0;0.05660377358490566;1.6666666666666667
+54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;specifies relationships;4.0;0.018867924528301886;5.0
+59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;entity relationship modeling;9.0;0.018867924528301886;5.0
+59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;database design;4.0;0.018867924528301886;5.0
+59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;developed;1.0;0.018867924528301886;5.0
+59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;published;1.0;0.018867924528301886;5.0
+59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;1976 paper;1.0;0.018867924528301886;5.0
+59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;peter chen;4.0;0.018867924528301886;5.0
+60;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;idea existed previously;9.0;0.018867924528301886;5.0
+60;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;variants;1.0;0.018867924528301886;5.0
+61;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;subtype entities connected;9.0;0.018867924528301886;5.0
+61;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;generalizationspecialization relationships;4.0;0.018867924528301886;5.0
+61;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;specification;1.0;0.0;5.0
+61;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;domainspecific ontologies;4.0;0.018867924528301886;5.0
+61;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;er model;4.0;0.05660377358490566;1.6666666666666667
+68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;processes;1.0;0.018867924528301886;5.0
+68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;business;1.0;0.018867924528301886;5.0
+68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;area;1.0;0.018867924528301886;5.0
+68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;describe;1.0;0.018867924528301886;5.0
+68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;important;1.0;0.018867924528301886;5.0
+68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;result;1.0;0.018867924528301886;5.0
+68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;systematic analysis;4.0;0.018867924528301886;5.0
+68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;entity relationship model;9.0;0.018867924528301886;2.5
+68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;define;1.0;0.03773584905660377;5.0
+69;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;presents;1.0;0.018867924528301886;5.0
+69;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;business processes;4.5;0.018867924528301886;5.0
+69;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;business data schema;8.5;0.018867924528301886;5.0
+69;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;graphical form;4.0;0.03773584905660377;5.0
+69;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;define;1.0;0.03773584905660377;5.0
+70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;associations;1.0;0.0;5.0
+70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;express;1.0;0.018867924528301886;5.0
+70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;lines;1.0;0.0;5.0
+70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;entities;1.0;0.018867924528301886;1.6666666666666667
+70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;boxes;1.0;0.018867924528301886;5.0
+70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;dependencies;1.0;0.0;5.0
+70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;connected;1.0;0.018867924528301886;5.0
+70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;graphical form;4.0;0.03773584905660377;5.0
+70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;drawn;1.0;0.018867924528301886;5.0
+71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;building;1.0;0.018867924528301886;5.0
+71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;apartment;1.0;0.018867924528301886;5.0
+71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;apartments;1.0;0.018867924528301886;5.0
+71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;verbal form;4.0;0.018867924528301886;5.0
+71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;divided;1.0;0.018867924528301886;5.0
+71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;expressed;1.0;0.018867924528301886;5.0
+71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;located;1.0;0.0;5.0
+71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;er model;4.0;0.05660377358490566;1.6666666666666667

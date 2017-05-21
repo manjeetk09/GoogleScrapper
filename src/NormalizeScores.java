@@ -52,7 +52,21 @@ public class NormalizeScores {
         double min_idf = Collections.min(idf_score);
         double max_idf = Collections.max(idf_score);
 
+        if(min_rake == max_rake)
+        {
+            min_rake = 0.0;
+        }
+        if(min_idf == max_idf)
+        {
+            min_idf = 0.0;
+        }
+        if(min_tf == max_tf)
+        {
+            min_tf = 0.0;
+        }
+
         for(int i = 0 ; i < rake_score.size() ; i++){
+
             rake_score.set(i, (rake_score.get(i) - min_rake)/(max_rake-min_rake) );
             tf_score.set(i, (tf_score.get(i) - min_tf)/(max_tf-min_tf) );
             idf_score.set(i, (idf_score.get(i) - min_idf)/(max_idf-min_idf) );

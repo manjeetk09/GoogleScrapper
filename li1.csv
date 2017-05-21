@@ -1,0 +1,13 @@
+
+
+
+
+
+Conceptual data models. These models, sometimes called domain models, are typically used to explore domain concepts with project stakeholders.  On Agile teams high-level conceptual models are often created as part of your initial requirements envisioning efforts as they are used to explore the high-level static business structures and concepts. On traditional teams conceptual data models are often created as the precursor to LDMs or as alternatives to LDMs. 
+Logical data models (LDMs).  LDMs are used to explore the domain concepts, and their relationships, of your problem domain.  This could be done for the scope of a single project or for your entire enterprise. LDMs depict the logical entity types, typically referred to simply as entity types, the data attributes describing those entities, and the relationships between the entities. LDMs are rarely used on Agile projects although often are on traditional projects (where they rarely seem to add much value in practice).
+Physical data models (PDMs). PDMs are used to design the internal schema of a database, depicting the data tables, the data columns of those tables, and the relationships between the tables. PDMs often prove to be useful on both Agile and traditional projects and as a result the focus of this article is on physical modeling.
+
+
+
+
+Example Data Model Diagram

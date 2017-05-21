@@ -1,7 +1,85 @@
-Genetic Algorithms can be used for both supervised and unsupervised learning, e.
-0.894: (Genetic Algorithms; can be used for; supervised and unsupervised)
+.
+No extractions found.
 
-g.
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
 No extractions found.
 
  .
@@ -25,13 +103,11 @@ No extractions found.
 .
 No extractions found.
 
-Supervised learning algorithms are ones for which we have some known labels on our inputs , whereas in unsupervised learning we don t have any known outputs.
-0.739: (we; have; some known labels)
-0.636: (t; have; any known outputs)
+.
+No extractions found.
 
- Regardless, in both cases we need to learn the parameters that relate the input to the output.
-0.708: (we; Regardless need to learn; the parameters that relate the input to the output)
-0.464: (we; Regardless need in; both cases)
+.
+No extractions found.
 
 .
 No extractions found.
@@ -40,5 +116,305 @@ No extractions found.
 No extractions found.
 
 .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Conceptual data models. These models, sometimes called domain models, are typically used to explore domain concepts with project stakeholders.  On Agile teams high-level conceptual models are often created as part of your initial requirements envisioning efforts as they are used to explore the high-level static business structures and concepts. On traditional teams conceptual data models are often created as the precursor to LDMs or as alternatives to LDMs. .
+0.933: (conceptual data models; are often created as; the precursor to LDMs or as)
+0.919: (high-level conceptual models; are often created as; part of your initial requirements)
+0.892: (Conceptual data models; are typically used on; traditional teams conceptual data models are often created as the precursor to LDMs or as alternatives to LDMs.)
+0.892: (Conceptual data models; are typically used on; Agile teams)
+0.709: (domain concepts; to be explore with; project stakeholders)
+0.621: (conceptual data models; are often created in; traditional teams)
+0.606: (high-level conceptual models; are often created in; Agile teams)
+0.45: (high-level conceptual models; be part of; your initial requirements envisioning efforts as they are used to explore the high-level static business structures and concepts)
+
+Logical data models (LDMs).  LDMs are used to explore the domain concepts, and their relationships, of your problem domain.  This could be done for the scope of a single project or for your entire enterprise. LDMs depict the logical entity types, typically referred to simply as entity types, the data attributes describing those entities, and the relationships between the entities. LDMs are rarely used on Agile projects although often are on traditional projects (where they rarely seem to add much value in practice)..
+0.791: (they; rarely seem to add much value in; practice)
+0.79: (they; rarely seem to add; much value)
+0.708: (the logical entity types; be typically referred to; LDMs)
+0.689: (Logical data models LDMs depict the logical entity types , typically referred to simply as entity types , the data attributes describing those entities , and the relationships between the entities . LDMs; are rarely used on; Agile projects)[enabler=although often are on traditional projects ( where they rarely seem to add much value in practice ) .]
+0.59: (much value; to be add in; practice)
+0.467: (LDMs); to explore; the domain concepts)
+0.443: (LDMs; to explore; the domain concepts)
+
+Physical data models (PDMs). PDMs are used to design the internal schema of a database, depicting the data tables, the data columns of those tables, and the relationships between the tables. PDMs often prove to be useful on both Agile and traditional projects and as a result the focus of this article is on physical modeling..
+0.875: (the focus of this article; is on; physical modeling)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The following entity relationship diagram is showing a typical online or retail business ER database model diagram sample.
+0.658: (The following entity relationship diagram; is showing; a typical online or retail business ER database model diagram sample)
+
+ The database model diagram consists of five tables and four parentchild relationships.
+0.878: (The database model diagram; consists of; five tables and four parentchild relationships)
+
+ Be sure you fully understand it.
+0.818: (you; fully understand; it)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A data structure diagram  is a diagram and data model used to describe conceptual data models by providing graphical notations which document entities and their relationships, and the constraints that bind them.
+0.829: (a diagram and data model; used to describe; conceptual data models)
+0.78: (a diagram and data model; to describe; conceptual data models)
+0.667: (A data structure diagram; is; a diagram and data model)
+
+ The basic graphic elements of DSDs are boxes, representing entities, and arrows, representing relationships.
+0.545: (boxes , representing entities , and arrows; be The basic graphic elements of; DSDs)
+
+ Data structure diagrams are most useful for documenting complex data entities.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Example.
+No extractions found.
+
+.
+No extractions found.
+
+Example Data Model Diagram.
 No extractions found.
 

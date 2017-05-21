@@ -7,7 +7,58 @@ No extractions found.
 .
 No extractions found.
 
+An Entity can be any object, place, person or class.
+0.762: (An Entity; can be; any object , place , person or class)
+
+ In ER Diagram, an entity is represented using rectangles.
+0.725: (an entity; is represented in; ER Diagram)
+
+ Consider an example of an Organisation.
+No extractions found.
+
+ Employee, Manager, Department, Product and many more can be taken as entities from an Organisation.
+0.925: (Employee , Manager , Department , Product and many more; can be taken as; entities)
+
 .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+C  .
+No extractions found.
+
+C  .
+No extractions found.
+
+     .
 No extractions found.
 
 .
@@ -52,8 +103,130 @@ No extractions found.
 .
 No extractions found.
 
+Here we are going to design an Entity Relationship  model for a college database .
+0.685: (we; to design; an Entity Relationship model)
+0.507: (we; Here are going to design; an Entity Relationship model)
+
+ Say we have the following statements.
+0.709: (we; have; the following statements)
+
 .
 No extractions found.
+
+The ER model defines the conceptual view of a database.
+0.833: (The ER model; defines; the conceptual view of a database)
+
+ It works around realworld entities and the associations among them.
+0.809: (It; works around; realworld entities and the associations)
+
+ At view level, the ER model is considered a good option for designing databases.
+0.778: (the ER model; is considered; a good option)
+0.754: (the ER model; is considered at; view level)
+
+Let us now learn how the ER Model is represented by means of an ER diagram.
+0.946: (the ER Model; is represented by; means of an ER diagram)
+
+ Any object, for example, entities, attributes of an entity, relationship sets, and attributes of relationship sets, can be represented with the help of an ER diagram.
+0.937: (entities , attributes of an entity , relationship sets , and attributes of relationship sets; can be represented with; the help of an ER diagram)
+0.888: (Any object; can be represented with; the help of an ER diagram)
+0.691: (attributes of an entity; be attributes of; relationship sets)
+0.482: (Any object; can be represented for; example)
+0.46: (entities , attributes of an entity , relationship sets , and attributes of relationship sets; can be represented for; example)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+An entity relationship model  describes interrelated things of interest in a specific domain of knowledge.
+0.839: (An entity relationship model; describes interrelated; things of interest)
+
+ An ER model is composed of entity types  and specifies relationships that can exist between instances of those entity types.
+0.891: (An ER model; is composed of; entity types)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Entity relationship modeling was developed for database design by Peter Chen and published in a 1976 paper.
+0.929: (Entity relationship modeling; was developed for; database design)
+0.898: (Entity relationship modeling; be published in; a 1976 paper)
+
+ However, variants of the idea existed previously.
+No extractions found.
+
+ Some ER modelers show super and subtype entities connected by generalizationspecialization relationships, and an ER model can be used also in the specification of domainspecific ontologies.
+0.937: (an ER model; can be used also in; the specification of domainspecific ontologies)
+0.694: (super and subtype entities; be connected by; generalizationspecialization relationships)
+0.693: (Some ER modelers; show can; super and subtype entities connected by generalizationspecialization relationships)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+An entity relationship model is usually the result of systematic analysis to define and describe what is important to processes in an area of a business.
+0.955: (An entity relationship model; is usually the result of; systematic analysis to define and describe what is important to processes in an area of a business)
+0.838: (An entity relationship model; is usually; the result of systematic analysis)
+
+ It does not define the business processes  it only presents a business data schema in graphical form.
+0.64: (It; does not define; the business)
+
+ It is usually drawn in a graphical form as boxes  that are connected by lines  which express the associations and dependencies between entities.
+0.891: (It; is usually drawn in; a graphical form)
+0.686: (lines; express the associations between; entities)
+0.601: (lines; express dependencies between; entities)
+0.42: (graphical; be form as; boxes that are connected by lines)
+
+ An ER model can also be expressed in a verbal form, for example  one building may be divided into zero or more apartments, but one apartment can only be located in one building.
+0.914: (one apartment; can only be located in; one building)
+0.9: (An ER model; can also be expressed in; a verbal form)
+0.874: (An ER model; can also be expressed for; example one building)
+0.595: (one apartment; can only be located at; one building)
+0.594: (one apartment; can only be located on; one building)
 
 .
 No extractions found.

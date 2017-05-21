@@ -1,0 +1,92 @@
+1;https://en.wikipedia.org/wiki/Network_model;network model;4.5;0.0625;1.0
+1;https://en.wikipedia.org/wiki/Network_model;flexible;1.0;0.0625;4.0
+1;https://en.wikipedia.org/wiki/Network_model;representing objects;4.0;0.0625;4.0
+1;https://en.wikipedia.org/wiki/Network_model;database model conceived;8.5;0.0625;4.0
+1;https://en.wikipedia.org/wiki/Network_model;relationships;1.0;0.0;4.0
+2;https://en.wikipedia.org/wiki/Network_model;object types;4.0;0.0625;4.0
+2;https://en.wikipedia.org/wiki/Network_model;arcs;1.0;0.0625;4.0
+2;https://en.wikipedia.org/wiki/Network_model;restricted;1.0;0.0625;4.0
+2;https://en.wikipedia.org/wiki/Network_model;distinguishing feature;4.0;0.0625;4.0
+2;https://en.wikipedia.org/wiki/Network_model;hierarchy;1.0;0.0625;4.0
+2;https://en.wikipedia.org/wiki/Network_model;lattice;1.0;0.0;4.0
+2;https://en.wikipedia.org/wiki/Network_model;graph;1.0;0.0625;1.3333333333333333
+2;https://en.wikipedia.org/wiki/Network_model;nodes;1.0;0.0625;2.0
+2;https://en.wikipedia.org/wiki/Network_model;relationship types;4.0;0.0625;4.0
+2;https://en.wikipedia.org/wiki/Network_model;viewed;1.0;0.0625;4.0
+2;https://en.wikipedia.org/wiki/Network_model;schema;1.0;0.0625;4.0
+16;http://www.computerbusinessresearch.com/Home/database/network-database-model;database model;4.0;0.2857142857142857;4.0
+17;http://www.computerbusinessresearch.com/Home/database/network-database-model;database model;3.5;0.2857142857142857;4.0
+17;http://www.computerbusinessresearch.com/Home/database/network-database-model;database;1.5;0.14285714285714285;4.0
+17;http://www.computerbusinessresearch.com/Home/database/network-database-model;structure;1.0;0.14285714285714285;4.0
+17;http://www.computerbusinessresearch.com/Home/database/network-database-model;format;1.0;0.14285714285714285;4.0
+20;http://www.computerbusinessresearch.com/Home/database/network-database-model;network database model;9.0;0.2857142857142857;4.0
+22;http://www.computerbusinessresearch.com/Home/database/network-database-model;network database model;9.0;0.2857142857142857;4.0
+27;http://www.studytonight.com/dbms/database-model;database model defines;9.0;0.058823529411764705;4.0
+27;http://www.studytonight.com/dbms/database-model;data;1.0;0.11764705882352941;2.0
+27;http://www.studytonight.com/dbms/database-model;logical design;4.0;0.058823529411764705;4.0
+28;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;4.0
+28;http://www.studytonight.com/dbms/database-model;parts;1.0;0.058823529411764705;4.0
+28;http://www.studytonight.com/dbms/database-model;data;1.0;0.11764705882352941;2.0
+28;http://www.studytonight.com/dbms/database-model;model describes;4.0;0.058823529411764705;4.0
+29;http://www.studytonight.com/dbms/database-model;database design;4.0;0.058823529411764705;4.0
+29;http://www.studytonight.com/dbms/database-model;models;1.0;0.058823529411764705;4.0
+29;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;4.0
+29;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.058823529411764705;4.0
+37;http://www.studytonight.com/dbms/database-model;organised;1.0;0.058823529411764705;4.0
+37;http://www.studytonight.com/dbms/database-model;graph;1.0;0.058823529411764705;1.3333333333333333
+37;http://www.studytonight.com/dbms/database-model;entities;1.0;0.058823529411764705;2.0
+37;http://www.studytonight.com/dbms/database-model;accessed;1.0;0.058823529411764705;4.0
+37;http://www.studytonight.com/dbms/database-model;network model;4.0;0.058823529411764705;1.0
+37;http://www.studytonight.com/dbms/database-model;path;1.0;0.058823529411764705;4.0
+41;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;hierarchical tree;4.0;0.019230769230769232;4.0
+41;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;graph;1.0;0.019230769230769232;1.3333333333333333
+41;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network model replaces;9.0;0.019230769230769232;4.0
+41;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;general connections;4.0;0.019230769230769232;4.0
+41;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;allowing;1.0;0.019230769230769232;4.0
+41;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;nodes;1.0;0.019230769230769232;2.0
+42;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;handle;1.0;0.019230769230769232;4.0
+42;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;ability;1.0;0.019230769230769232;4.0
+42;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;relations;1.0;0.019230769230769232;4.0
+42;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;hierarchical model;4.0;0.019230769230769232;4.0
+42;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;main difference;4.0;0.019230769230769232;4.0
+42;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network model;4.0;0.038461538461538464;1.3333333333333333
+43;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;record;1.0;0.019230769230769232;4.0
+43;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;parent;1.0;0.038461538461538464;4.0
+43;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;words;1.0;0.019230769230769232;4.0
+44;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;employee works;4.0;0.019230769230769232;4.0
+44;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;suppose;1.0;0.019230769230769232;4.0
+44;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;departments;1.0;0.0;4.0
+45;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;generalized graph;4.0;0.019230769230769232;4.0
+45;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;tree;1.0;0.019230769230769232;4.0
+45;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;strict hierarchical arrangement;9.0;0.019230769230769232;4.0
+45;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network;1.0;0.019230769230769232;4.0
+46;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network model;4.0;0.038461538461538464;1.3333333333333333
+46;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;evolved;1.0;0.019230769230769232;4.0
+47;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;shown;1.0;0.038461538461538464;4.0
+47;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;belong;1.0;0.019230769230769232;4.0
+47;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;data;1.0;0.019230769230769232;1.3333333333333333
+47;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;parent;1.0;0.038461538461538464;4.0
+48;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;note;1.0;0.019230769230769232;4.0
+48;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;lateral connections;4.0;0.019230769230769232;4.0
+48;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;topdown connections;4.0;0.019230769230769232;4.0
+49;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network structure;4.0;0.019230769230769232;4.0
+49;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;relationships;1.0;0.0;4.0
+49;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;entities;1.0;0.019230769230769232;2.0
+66;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;shown;1.0;0.038461538461538464;4.0
+66;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;sample supplierpart database;9.0;0.019230769230769232;4.0
+66;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network view;4.0;0.019230769230769232;4.0
+67;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;supplier record types;8.5;0.019230769230769232;4.0
+67;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;addition;1.0;0.019230769230769232;4.0
+67;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;connector;1.0;0.019230769230769232;4.0
+67;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;part;1.0;0.038461538461538464;4.0
+67;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;call;1.0;0.019230769230769232;4.0
+67;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;record type;4.5;0.019230769230769232;4.0
+67;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;introduced;1.0;0.019230769230769232;4.0
+68;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;supplier;1.0;0.038461538461538464;4.0
+68;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;part;1.0;0.038461538461538464;4.0
+68;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;connector occurrence specifies;9.0;0.019230769230769232;4.0
+68;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;association;1.0;0.0;4.0
+69;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;supplier;1.0;0.038461538461538464;4.0
+69;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;part records;4.0;0.019230769230769232;4.0
+69;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;association;1.0;0.0;4.0
+69;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;data  describing;4.0;0.019230769230769232;4.0

@@ -1,3 +1,16 @@
+In the 1960's North American Rockwell together with IBM developed a database processing language called DL/I (Data Language I).  This partnership also produced the IMS (Information Management System) which went on to become the world's leading mainframe hierarchical DBMS of the seventies and eighties.
+IMS uses DL/I to process its database.
+DL/I uses hierarchies (or trees) to represent relationships.
 
 
 
+
+
+
+In figure 1, the node at level 1 is called the root node and the nodes at that has no children are called leaves. For example, node 4, 5, 7, 8, 9, 10 and 11.
+Nodes that are children of the same parent are called siblings. For example, nodes 2, 3, 4 are siblings.
+For any node there is a single path called the hierarchical path from the root node. The nodes along this path are called that nodes ancestors.
+Similarly for a given node, any node along a path from that node to leaf is called its descendent.
+For example, suppose we have to find out the hierarchical path of node 10, then it will be 1→2→6→10 and the ancestors of node 10 are 1, 2 and 6.
+The height of tree is the number of levels on the longest hierarchical path from the root to a leaf. The above tree has a height= 4.
+A tree is said to be balanced if every path from the root node to a leaf has the same length.

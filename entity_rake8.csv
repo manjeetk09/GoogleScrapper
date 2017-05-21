@@ -1,0 +1,129 @@
+3;https://en.wikipedia.org/wiki/Flat_file_database;flat file database;9.0;0.05;7.0
+3;https://en.wikipedia.org/wiki/Flat_file_database;consist;1.0;0.05;7.0
+3;https://en.wikipedia.org/wiki/Flat_file_database;delimiters;1.0;0.0;7.0
+3;https://en.wikipedia.org/wiki/Flat_file_database;strictly;1.0;0.05;7.0
+3;https://en.wikipedia.org/wiki/Flat_file_database;length;1.0;0.0;7.0
+3;https://en.wikipedia.org/wiki/Flat_file_database;records vary;4.0;0.05;7.0
+3;https://en.wikipedia.org/wiki/Flat_file_database;data;1.0;0.05;2.3333333333333335
+4;https://en.wikipedia.org/wiki/Flat_file_database;relationships;1.0;0.0;7.0
+4;https://en.wikipedia.org/wiki/Flat_file_database;rows;1.0;0.05;7.0
+4;https://en.wikipedia.org/wiki/Flat_file_database;exists;1.0;0.05;7.0
+4;https://en.wikipedia.org/wiki/Flat_file_database;form;1.0;0.05;7.0
+4;https://en.wikipedia.org/wiki/Flat_file_database;database;1.0;0.05;3.5
+4;https://en.wikipedia.org/wiki/Flat_file_database;fields;1.0;0.05;7.0
+4;https://en.wikipedia.org/wiki/Flat_file_database;links;1.0;0.0;7.0
+4;https://en.wikipedia.org/wiki/Flat_file_database;records;1.0;0.05;2.3333333333333335
+4;https://en.wikipedia.org/wiki/Flat_file_database;term refers;4.0;0.05;7.0
+4;https://en.wikipedia.org/wiki/Flat_file_database;table structure;4.0;0.05;7.0
+4;https://en.wikipedia.org/wiki/Flat_file_database;broadly;1.0;0.05;7.0
+4;https://en.wikipedia.org/wiki/Flat_file_database;single file;4.0;0.05;7.0
+4;https://en.wikipedia.org/wiki/Flat_file_database;columns;1.0;0.05;7.0
+9;https://en.wikipedia.org/wiki/Database_model;treelike structure;4.0;0.02702702702702703;7.0
+9;https://en.wikipedia.org/wiki/Database_model;hierarchical structure;4.0;0.02702702702702703;7.0
+9;https://en.wikipedia.org/wiki/Database_model;multiple parents;4.0;0.02702702702702703;7.0
+9;https://en.wikipedia.org/wiki/Database_model;allowing manytomany relationships;9.0;0.02702702702702703;7.0
+9;https://en.wikipedia.org/wiki/Database_model;network model expands;9.0;0.02702702702702703;7.0
+10;https://en.wikipedia.org/wiki/Database_model;popular;1.0;0.02702702702702703;7.0
+10;https://en.wikipedia.org/wiki/Database_model;relational model;4.0;0.02702702702702703;1.75
+10;https://en.wikipedia.org/wiki/Database_model;defined;1.0;0.05405405405405406;7.0
+10;https://en.wikipedia.org/wiki/Database_model;replaced;1.0;0.02702702702702703;7.0
+10;https://en.wikipedia.org/wiki/Database_model;codasyl specification;4.0;0.02702702702702703;7.0
+15;https://en.wikipedia.org/wiki/Database_model;circular linked lists;9.0;0.05405405405405406;7.0
+15;https://en.wikipedia.org/wiki/Database_model;parent;1.0;0.02702702702702703;7.0
+15;https://en.wikipedia.org/wiki/Database_model;multiple times;4.0;0.02702702702702703;7.0
+15;https://en.wikipedia.org/wiki/Database_model;set owner;4.0;0.02702702702702703;7.0
+15;https://en.wikipedia.org/wiki/Database_model;record type;4.0;0.02702702702702703;7.0
+15;https://en.wikipedia.org/wiki/Database_model;child;1.0;0.02702702702702703;7.0
+15;https://en.wikipedia.org/wiki/Database_model;subordinate;1.0;0.0;7.0
+15;https://en.wikipedia.org/wiki/Database_model;circle;1.0;0.02702702702702703;7.0
+15;https://en.wikipedia.org/wiki/Database_model;set consists;4.0;0.02702702702702703;7.0
+15;https://en.wikipedia.org/wiki/Database_model;appears;1.0;0.02702702702702703;7.0
+16;https://en.wikipedia.org/wiki/Database_model;hierarchy;1.0;0.02702702702702703;7.0
+16;https://en.wikipedia.org/wiki/Database_model;established;1.0;0.0;7.0
+16;https://en.wikipedia.org/wiki/Database_model;record types;4.0;0.02702702702702703;7.0
+18;https://en.wikipedia.org/wiki/Database_model;owner;1.0;0.05405405405405406;7.0
+18;https://en.wikipedia.org/wiki/Database_model;type;1.0;0.02702702702702703;7.0
+19;https://en.wikipedia.org/wiki/Database_model;defined;1.0;0.05405405405405406;7.0
+19;https://en.wikipedia.org/wiki/Database_model;owner;1.0;0.05405405405405406;7.0
+19;https://en.wikipedia.org/wiki/Database_model;set;1.0;0.02702702702702703;7.0
+19;https://en.wikipedia.org/wiki/Database_model;time;1.0;0.02702702702702703;7.0
+20;https://en.wikipedia.org/wiki/Database_model;network construct;4.0;0.02702702702702703;7.0
+20;https://en.wikipedia.org/wiki/Database_model;sets comprise;4.0;0.02702702702702703;7.0
+20;https://en.wikipedia.org/wiki/Database_model;general directed graph;9.0;0.02702702702702703;7.0
+21;https://en.wikipedia.org/wiki/Database_model;access;1.0;0.02702702702702703;7.0
+21;https://en.wikipedia.org/wiki/Database_model;records;1.0;0.02702702702702703;2.3333333333333335
+21;https://en.wikipedia.org/wiki/Database_model;sequential;1.0;0.02702702702702703;7.0
+21;https://en.wikipedia.org/wiki/Database_model;navigation;1.0;0.02702702702702703;7.0
+21;https://en.wikipedia.org/wiki/Database_model;circular linked lists;9.0;0.05405405405405406;7.0
+28;https://www.techopedia.com/definition/25330/flat-database;separated;1.0;0.030303030303030304;3.5
+28;https://www.techopedia.com/definition/25330/flat-database;single table;4.0;0.030303030303030304;7.0
+28;https://www.techopedia.com/definition/25330/flat-database;commas;1.0;0.030303030303030304;7.0
+28;https://www.techopedia.com/definition/25330/flat-database;database;2.0;0.030303030303030304;3.5
+28;https://www.techopedia.com/definition/25330/flat-database;delimiters;1.0;0.0;7.0
+28;https://www.techopedia.com/definition/25330/flat-database;flat database;4.0;0.030303030303030304;2.3333333333333335
+28;https://www.techopedia.com/definition/25330/flat-database;simple database system;8.0;0.030303030303030304;7.0
+28;https://www.techopedia.com/definition/25330/flat-database;records;1.0;0.030303030303030304;2.3333333333333335
+28;https://www.techopedia.com/definition/25330/flat-database;tabs;1.0;0.030303030303030304;7.0
+28;https://www.techopedia.com/definition/25330/flat-database;stored;1.0;0.06060606060606061;7.0
+28;https://www.techopedia.com/definition/25330/flat-database;single rows;4.0;0.030303030303030304;7.0
+28;https://www.techopedia.com/definition/25330/flat-database;represented;1.0;0.0;7.0
+28;https://www.techopedia.com/definition/25330/flat-database;data;1.0;0.030303030303030304;2.3333333333333335
+29;https://www.techopedia.com/definition/25330/flat-database;simple text file;9.0;0.030303030303030304;7.0
+29;https://www.techopedia.com/definition/25330/flat-database;table;1.0;0.030303030303030304;7.0
+29;https://www.techopedia.com/definition/25330/flat-database;physically represented;4.0;0.030303030303030304;7.0
+29;https://www.techopedia.com/definition/25330/flat-database;stored;1.0;0.06060606060606061;7.0
+30;https://www.techopedia.com/definition/25330/flat-database;limitations;1.0;0.0;7.0
+30;https://www.techopedia.com/definition/25330/flat-database;unsuitable;1.0;0.030303030303030304;7.0
+30;https://www.techopedia.com/definition/25330/flat-database;represent;1.0;0.030303030303030304;7.0
+30;https://www.techopedia.com/definition/25330/flat-database;flat databases;4.0;0.06060606060606061;7.0
+30;https://www.techopedia.com/definition/25330/flat-database;software applications;4.0;0.030303030303030304;7.0
+31;https://www.techopedia.com/definition/25330/flat-database;integrating;1.0;0.0;7.0
+31;https://www.techopedia.com/definition/25330/flat-database;reduce;1.0;0.030303030303030304;7.0
+31;https://www.techopedia.com/definition/25330/flat-database;complexity;1.0;0.030303030303030304;7.0
+31;https://www.techopedia.com/definition/25330/flat-database;flat files;4.0;0.030303030303030304;7.0
+31;https://www.techopedia.com/definition/25330/flat-database;cost;1.0;0.030303030303030304;7.0
+31;https://www.techopedia.com/definition/25330/flat-database;relational database;4.0;0.030303030303030304;7.0
+31;https://www.techopedia.com/definition/25330/flat-database;application developers;4.0;0.030303030303030304;7.0
+31;https://www.techopedia.com/definition/25330/flat-database;order;1.0;0.030303030303030304;7.0
+32;https://www.techopedia.com/definition/25330/flat-database;flatfile databases;4.0;0.030303030303030304;7.0
+32;https://www.techopedia.com/definition/25330/flat-database;flat databases;4.0;0.06060606060606061;7.0
+32;https://www.techopedia.com/definition/25330/flat-database;referred;1.0;0.030303030303030304;7.0
+48;http://www.studytonight.com/dbms/database-model;hierarchical model;4.0;0.3333333333333333;3.5
+49;http://www.studytonight.com/dbms/database-model;network model;4.0;0.3333333333333333;3.5
+50;http://www.studytonight.com/dbms/database-model;relational model;4.0;0.3333333333333333;1.75
+51;http://www.ogcnetwork.net/node/191;implement wfs simple;9.0;0.25;7.0
+51;http://www.ogcnetwork.net/node/191;showing;1.0;0.25;7.0
+51;http://www.ogcnetwork.net/node/191;3 easy steps;4.0;0.25;7.0
+51;http://www.ogcnetwork.net/node/191;flat database;4.0;0.25;2.3333333333333335
+63;https://www.lucidchart.com/pages/database-diagram/database-models;database models;4.0;0.13333333333333333;7.0
+63;https://www.lucidchart.com/pages/database-diagram/database-models;types;1.0;0.06666666666666667;7.0
+64;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;4.0;0.13333333333333333;2.3333333333333335
+65;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical model;4.0;0.06666666666666667;3.5
+66;https://www.lucidchart.com/pages/database-diagram/database-models;network model;4.0;0.06666666666666667;3.5
+67;https://www.lucidchart.com/pages/database-diagram/database-models;oriented database model;9.0;0.06666666666666667;7.0
+67;https://www.lucidchart.com/pages/database-diagram/database-models;object;1.0;0.13333333333333333;7.0
+68;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;4.0;0.13333333333333333;2.3333333333333335
+68;https://www.lucidchart.com/pages/database-diagram/database-models;object;1.0;0.13333333333333333;7.0
+69;https://www.lucidchart.com/pages/database-diagram/database-models;relationship model;4.0;0.06666666666666667;7.0
+69;https://www.lucidchart.com/pages/database-diagram/database-models;entity;1.0;0.06666666666666667;7.0
+70;https://www.lucidchart.com/pages/database-diagram/database-models;database models;4.0;0.13333333333333333;7.0
+71;https://www.lucidchart.com/pages/database-diagram/database-models;nosql database models;9.0;0.06666666666666667;7.0
+72;https://www.lucidchart.com/pages/database-diagram/database-models;web;1.0;0.06666666666666667;7.0
+72;https://www.lucidchart.com/pages/database-diagram/database-models;databases;1.0;0.06666666666666667;7.0
+78;https://www.computerhope.com/jargon/f/flatfile.htm;files;1.0;0.058823529411764705;7.0
+78;https://www.computerhope.com/jargon/f/flatfile.htm;nonrelational database;4.0;0.058823529411764705;7.0
+78;https://www.computerhope.com/jargon/f/flatfile.htm;links;1.0;0.0;7.0
+78;https://www.computerhope.com/jargon/f/flatfile.htm;flat database;4.0;0.058823529411764705;2.3333333333333335
+78;https://www.computerhope.com/jargon/f/flatfile.htm;flat file;3.5;0.11764705882352941;7.0
+78;https://www.computerhope.com/jargon/f/flatfile.htm;text database;4.0;0.058823529411764705;7.0
+78;https://www.computerhope.com/jargon/f/flatfile.htm;file;1.5;0.058823529411764705;7.0
+78;https://www.computerhope.com/jargon/f/flatfile.htm;data;1.0;0.058823529411764705;2.3333333333333335
+78;https://www.computerhope.com/jargon/f/flatfile.htm;alternatively referred;4.0;0.058823529411764705;7.0
+79;https://www.computerhope.com/jargon/f/flatfile.htm;separated;1.0;0.058823529411764705;3.5
+79;https://www.computerhope.com/jargon/f/flatfile.htm;kind;1.0;0.0;7.0
+79;https://www.computerhope.com/jargon/f/flatfile.htm;good;1.0;0.058823529411764705;7.0
+79;https://www.computerhope.com/jargon/f/flatfile.htm;data needed;4.0;0.058823529411764705;7.0
+79;https://www.computerhope.com/jargon/f/flatfile.htm;flat file;4.5;0.11764705882352941;7.0
+79;https://www.computerhope.com/jargon/f/flatfile.htm;delimiter;1.0;0.0;7.0
+79;https://www.computerhope.com/jargon/f/flatfile.htm;program;1.0;0.058823529411764705;7.0
+79;https://www.computerhope.com/jargon/f/flatfile.htm;single textonly file;8.5;0.058823529411764705;7.0

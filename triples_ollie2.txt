@@ -1,23 +1,144 @@
-In computer science, incremental learning is a method of machine learning, in which input data is continuously used to extend the existing model s knowledge i.
-0.941: (incremental learning; is a method of; machine learning in which input data is continuously used to extend the existing model)
-0.746: (incremental learning; is a method of machine learning in; computer science)
-0.724: (incremental learning; is; a method of machine learning)
-0.704: (input data; to extend; the existing model)
-0.564: (input data; is continuously used in; machine learning)
-
-e.
+.
 No extractions found.
 
- to further train the model.
+.
 No extractions found.
 
- It represents a dynamic technique of supervised learning and unsupervised learning that can be applied when training data becomes available gradually over time or its size is out of system memory limits.
-0.679: (training data; becomes available gradually over; time or its size)
-0.498: (a dynamic technique of supervised learning; represents in; It)
-0.49: (training data; becomes gradually; available)
+.
+No extractions found.
 
- Algorithms that can facilitate incremental learning are known as incremental machine learning algorithms.
-0.915: (Algorithms; are known as; incremental machine learning algorithms)
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Common logical data models for databases include .
+No extractions found.
+
+Enhanced entity–relationship model.
+No extractions found.
+
+Enhanced.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Database design is a process of modeling an enterprise in the real world.
+0.792: (Database design; is; a process modeling an enterprise in the real world)
+0.674: (an enterprise; be modeling in; the real world)
+
+ In fact, a database itself is a model of the real world that contains selected information needed by the enterprise.
+0.909: (a database; is a model of; the real world)
+0.782: (selected information; be needed by; the enterprise)
+0.752: (a database; is; a model of the real world that contains selected information)
+0.628: (selected information needed by the enterprise; be contains by; a model of the real world)
+0.446: (a database; is a model of the real world in; fact)
+
+ Many models and languages some formally and mathematically defined, some informal and intuitive are used by designers.
+No extractions found.
+
+ Here are the ones that we present in this tutorial .
+0.489: (we; that present in; this tutorial)
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+Highlevel Conceptual Data models.
+No extractions found.
+
+.
+No extractions found.
+
+Relational database was proposed by Edgar Codd  around 1969.
+0.919: (Relational database; was proposed by; Edgar Codd)
+0.898: (Relational database; was proposed around; 1969)
+
+ It has since become the dominant database model for commercial applications .
+0.784: (It; has become the dominant database model for; commercial applications)
+
+ Today, there are many commercial Relational Database Management System , such as Oracle, IBM DB2 and Microsoft SQL Server.
+No extractions found.
+
+ There are also many free and opensource RDBMS, such as MySQL, mSQL  and the embedded JavaDB .
+No extractions found.
+
+ .
+No extractions found.
+
+In the relational model, a table cannot contain duplicate rows, because that would create ambiguities in retrieval.
+0.648: (a table cannot; contain; duplicate rows)[enabler=because that would create ambiguities in retrieval]
+0.405: (a table cannot; contain duplicate rows , in; the relational model)[enabler=because that would create ambiguities in retrieval]
+
+ To ensure uniqueness, each table should have a column , called primary key, that uniquely identifies every records of the table.
+0.773: (each table; should have; a column)
+0.62: (every records of the table; be uniquely identifies by; primary key)
+
+ For example, an unique number customerID can be used as the primary key for the Customers table  productCode for Products table  isbn for Books table.
+0.925: (an unique number customerID; can be used as; the primary key)
+0.46: (an unique number customerID; can be used for; example)
+
+ A primary key is called a simple key if it is a single column  it is called a composite key if it is made up of several columns.
+0.799: (A primary key; is called; a simple key if it is a single column it is called a composite key if it is made up of several columns)
+0.687: (it; is called; a composite key)[enabler=if it is a single column it is called a composite key if it is made up of several columns]
+0.542: (it; is called a composite key in; a simple key)[enabler=if it is a single column it is called a composite key if it is made up of several columns]
+0.255: (it; is made of; several columns)
+0.06: (it; is; a single column)
+
+For example,.
+No extractions found.
 
  .
 No extractions found.
@@ -25,21 +146,28 @@ No extractions found.
 .
 No extractions found.
 
+A Database model defines the logical design of data.
+0.833: (A Database model; defines; the logical design of data)
+
+ The model describes the relationships between different parts of the data.
+0.807: (The model; describes; the relationships)
+0.303: (different; be parts of; the data)
+
+ Historically, in database design, three models are commonly used.
+0.764: (three models; Historically are commonly used in; database design)
+
+ They are,.
+No extractions found.
+
 .
 No extractions found.
 
-Many traditional machine learning algorithms inherently support incremental learning, other algorithms can be adapted to facilitate this.
-No extractions found.
-
- Examples of incremental algorithms include decisions trees , decision rules, artificial neural networks  or the incremental SVM.
-0.767: (Examples of incremental algorithms; include; decisions trees , decision rules , artificial neural networks or the incremental)
-
- .
-No extractions found.
-
 .
 No extractions found.
 
 .
+No extractions found.
+
+     .
 No extractions found.
 

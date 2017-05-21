@@ -1,3 +1,140 @@
+.
+No extractions found.
+
+.
+No extractions found.
+
+A current example of navigational structuring can be found in the Document Object Model  often used in web browsers and closely associated with JavaScript.
+0.747: (the Document Object Model; often used in; web browsers)
+0.652: (the Document Object Model; closely associated with; JavaScript)
+
+ The DOM  engine  is essentially a lightweight navigational database.
+0.762: (The DOM engine; is essentially; a lightweight navigational database)
+
+ The World Wide Web itself and Wikipedia could potentially be considered forms of navigational databases, though they focus on humanreadable text rather than data .
+0.831: (The World Wide Web itself and Wikipedia; could potentially be considered; forms of navigational databases)[enabler=though they focus on humanreadable text rather than data]
+0.703: (they; focus on; humanreadable text)
+0.595: (The World Wide Web itself and Wikipedia; be forms of; navigational databases)
+
+ In contrast, the Linked Data facet of the Semantic Web is specifically concerned with networkscale machinereadable data, and follows precisely the  follow your nose  paradigm implied by the navigational idea.
+0.888: (the Linked Data facet of the Semantic Web; is specifically concerned with; networkscale machinereadable data)
+0.842: (your nose paradigm; be implied by; the navigational idea)
+0.742: (the Linked Data facet of the Semantic Web; is specifically concerned in; contrast)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A current example of navigational structuring can be found in the Document Object Model  often used in web browsers and closely associated with JavaScript.
+0.747: (the Document Object Model; often used in; web browsers)
+0.652: (the Document Object Model; closely associated with; JavaScript)
+
+ The DOM  engine  is essentially a lightweight navigational database.
+0.762: (The DOM engine; is essentially; a lightweight navigational database)
+
+ The World Wide Web itself and Wikipedia could potentially be considered forms of navigational databases, though they focus on humanreadable text rather than data .
+0.831: (The World Wide Web itself and Wikipedia; could potentially be considered; forms of navigational databases)[enabler=though they focus on humanreadable text rather than data]
+0.703: (they; focus on; humanreadable text)
+0.595: (The World Wide Web itself and Wikipedia; be forms of; navigational databases)
+
+ In contrast, the Linked Data facet of the Semantic is specifically concerned with networkscale machinereadable data, and follows precisely the  follow your nose  paradigm implied by the navigational idea.
+0.888: (the Linked Data facet of the Semantic; is specifically concerned with; networkscale machinereadable data)
+0.842: (your nose paradigm; be implied by; the navigational idea)
+0.742: (the Linked Data facet of the Semantic; is specifically concerned in; contrast)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Every DBMS makes use of one or more data structures to help organize the data being stored by the system.
+0.812: (Every DBMS; makes; use of one or more data structures to help organize the data)
+0.744: (the data; being stored by; the system)
+
+ The data structure allows the DBMS to use the information stored in the database without damaging the integrity of the data.
+0.817: (the information; be stored in; the database)
+0.727: (the DBMS; to use; the information stored in the database)
+
+ Some of the common examples of information that are stored using this functionality within a DBMS include visual media objects, individual records or profiles, field and definitions, and files.
+0.602: (this functionality; be using within; a DBMS)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Database technology and database management systems have continued to exponentially grow in complexity and capability over the past several decades.
+0.844: (Database technology and database management systems; have continued to exponentially grow in; complexity and capability)
+0.783: (Database technology and database management systems; have continued to exponentially grow over; the past several decades)
+
+ When taking a look at the history of DBMS development over the past several decades, the three types of data model that database technology has progressed through include  navigational, relational , and postrelational.
+No extractions found.
+
+ The early navigational database models were based on a hierarchical structure and were implemented in a number of IBM products to include the IDMS.
+0.948: (The early navigational database models; were implemented in; a number of IBM products)
+0.9: (The early navigational database models; were based on; a hierarchical structure)
+
+ The relational model was first proposed by Edgar F.
+0.907: (The relational model; was first proposed by; Edgar F.)
+
+ Codd in 1970 and changed the concept by forcing the database system to search for information based on the content vice following a link to the information.
+0.707: (the database system to search for information; be forcing following; a link)
+0.655: (information; be based on; the content vice)
+
+ This model was the first to use tables that were subdivided by type of entity.
+0.738: (This model; was; the first to use tables)
+
+ It would take until the mid1980s for computer hardware to catchup to relational theory to allow relational DBMSs to be deployed alongside a processing application.
+0.772: (relational DBMSs; to be deployed alongside; a processing application)
+0.719: (the mid1980s; to allow; relational DBMSs to be deployed alongside a processing application)
+
+ This model also gave rise to the development of standard SQL as the primary database language and has helped influenced developments in newer database models.
+0.88: (This model; also gave rise has to; the development of standard SQL)
+0.793: (This model; also gave rise has as; the primary database language)
+0.788: (rise; also gave has to; the development of standard SQL)
+0.659: (rise; also gave has as; the primary database language)
+0.581: (This model; also gave has; rise)
+
+.
+No extractions found.
+
+prerequisites for replacing the existing interchange standard with the XML.
+0.656: (the existing interchange standard; be replacing with; the XML.)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
  .
 No extractions found.
 
@@ -13,31 +150,21 @@ No extractions found.
 .
 No extractions found.
 
-.
+Database management system is a computer software component introduced during 1960 s.
+0.87: (a computer software component; introduced during; 1960)
+0.653: (Database management system; is; a computer software component)
+
+ It is used for controlling various databases in the desktop computer or server.
+0.674: (various databases; be controlling in; the desktop computer or server)
+
+ It was also termed as Navigational Database Management System.
+0.866: (It; was also termed as; Navigational Database Management System)
+
+ During 1970 s RDBMS or Relational database management system came into existence.
 No extractions found.
 
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-The majority of practical machine learning uses supervised learning.
-0.782: (The majority of practical machine learning; uses; supervised learning)
-
-Supervised learning is where you have input variables  and an output variable  and you use an algorithm to learn the mapping function from the input to the output.
-0.898: (you; use; an algorithm to learn the mapping function from the input to the output)
-0.781: (the mapping function; to be learn from; the input)
-0.533: (you; have you use an algorithm to learn the mapping function from the input to the output; input variables and an output variable)
+ We ll see about RDBMS later in this article.
+0.559: (We; ll see later in this article about; RDBMS)
 
  .
 No extractions found.
@@ -54,87 +181,15 @@ No extractions found.
 .
 No extractions found.
 
-.
+ .
+No extractions found.
+
+ .
 No extractions found.
 
 .
 No extractions found.
 
 .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-The most widely used learning algorithms are Support Vector Machines, linear regression, logistic regression, naive Bayes, linear discriminant analysis, decision trees, knearest neighbor algorithm, and Neural Networks .
-0.69: (The most widely used learning algorithms; knearest; neighbor algorithm)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Supervised learning is a type of machine learning algorithm that uses a known dataset  to make predictions.
-0.962: (Supervised learning; is a type of; machine learning algorithm that uses a known dataset to make predictions)
-0.768: (Supervised learning; is; a type of machine learning algorithm)
-0.62: (a known dataset; be uses by; machine learning algorithm)
-
- The training dataset includes input data and response values.
-0.782: (The training dataset; includes; input data and response values)
-
- From it, the supervised learning algorithm seeks to build a model that can make predictions of the response values for a new dataset.
-0.803: (the supervised learning algorithm; seeks to build; a model that can make predictions of the response values for a new dataset)
-0.708: (predictions of the response values; can be make for; a new dataset)
-0.456: (the supervised learning algorithm; seeks from; it)
-
- A test dataset is often used to validate the model.
-0.761: (A test dataset; to validate; the model)
-
- Using larger training datasets often yield models with higher predictive power that can generalize well for new datasets.
-0.762: (larger training datasets; often yield; models)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-In the data science course that I instruct, we cover most of the data science pipeline but focus especially on machine learning.
-0.68: (we; cover; most of the data science pipeline)[enabler=that I instruct]
-0.372: (we; cover most of the data science pipeline but focus especially on machine learning in; the data science course)[enabler=that I instruct]
-
- Besides teaching model evaluation procedures and metrics, we obviously teach the algorithms themselves, primarily for supervised learning.
-0.689: (we; obviously teach the algorithms themselves for; supervised learning)
-0.604: (we; obviously teach; the algorithms)
-
-.
-No extractions found.
-
-Common terms .
 No extractions found.
 

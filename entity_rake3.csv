@@ -1,28 +1,239 @@
-6;https://en.wikipedia.org/wiki/Quantum_machine_learning;machine learning;5.0;0.10714285714285714;1.0
-6;https://en.wikipedia.org/wiki/Quantum_machine_learning;quantum physics;4.5;0.03571428571428571;1.0
-6;https://en.wikipedia.org/wiki/Quantum_machine_learning;quantum machine learning;7.5;0.03571428571428571;1.0
-6;https://en.wikipedia.org/wiki/Quantum_machine_learning;emerging interdisciplinary research area;16.0;0.03571428571428571;1.0
-6;https://en.wikipedia.org/wiki/Quantum_machine_learning;intersection;1.0;0.0;1.0
-7;https://en.wikipedia.org/wiki/Quantum_machine_learning;distinguish;1.0;0.0;1.0
-7;https://en.wikipedia.org/wiki/Quantum_machine_learning;ways;1.0;0.03571428571428571;1.0
-7;https://en.wikipedia.org/wiki/Quantum_machine_learning;merging;1.0;0.03571428571428571;1.0
-7;https://en.wikipedia.org/wiki/Quantum_machine_learning;parent disciplines;4.0;0.03571428571428571;1.0
-8;https://en.wikipedia.org/wiki/Quantum_machine_learning;expensive classical algorithms;9.5;0.03571428571428571;1.0
-8;https://en.wikipedia.org/wiki/Quantum_machine_learning;quantum machine learning algorithms;12.1666666667;0.03571428571428571;1.0
-8;https://en.wikipedia.org/wiki/Quantum_machine_learning;quantum computation;4.66666666667;0.03571428571428571;1.0
-8;https://en.wikipedia.org/wiki/Quantum_machine_learning;machine learning;6.0;0.10714285714285714;1.0
-8;https://en.wikipedia.org/wiki/Quantum_machine_learning;quantum computer;4.66666666667;0.03571428571428571;1.0
-8;https://en.wikipedia.org/wiki/Quantum_machine_learning;advantages;1.0;0.03571428571428571;1.0
-8;https://en.wikipedia.org/wiki/Quantum_machine_learning;developing efficient implementations;9.0;0.03571428571428571;1.0
-8;https://en.wikipedia.org/wiki/Quantum_machine_learning;improve classical methods;9.0;0.03571428571428571;1.0
-8;https://en.wikipedia.org/wiki/Quantum_machine_learning;order;1.0;0.03571428571428571;1.0
-9;https://en.wikipedia.org/wiki/Quantum_machine_learning;machine learning;4.0;0.10714285714285714;1.0
-9;https://en.wikipedia.org/wiki/Quantum_machine_learning;analyse quantum systems;9.0;0.03571428571428571;1.0
-9;https://en.wikipedia.org/wiki/Quantum_machine_learning;apply classical methods;9.0;0.03571428571428571;1.0
-9;https://en.wikipedia.org/wiki/Quantum_machine_learning;hand;1.0;0.03571428571428571;1.0
-10;https://en.wikipedia.org/wiki/Quantum_machine_learning;situations;1.0;0.03571428571428571;1.0
-10;https://en.wikipedia.org/wiki/Quantum_machine_learning;study;1.0;0.03571428571428571;1.0
-10;https://en.wikipedia.org/wiki/Quantum_machine_learning;generally;1.0;0.03571428571428571;1.0
-10;https://en.wikipedia.org/wiki/Quantum_machine_learning;system;1.0;0.03571428571428571;1.0
-10;https://en.wikipedia.org/wiki/Quantum_machine_learning;fully quantum;4.0;0.03571428571428571;1.0
-10;https://en.wikipedia.org/wiki/Quantum_machine_learning;learning device;4.0;0.03571428571428571;1.0
+3;https://en.wikipedia.org/wiki/Relational_model;relational model;4.0;0.07692307692307693;2.5
+3;https://en.wikipedia.org/wiki/Relational_model;deviations;1.0;0.15384615384615385;5.0
+3;https://en.wikipedia.org/wiki/Relational_model;noted;1.0;0.07692307692307693;5.0
+3;https://en.wikipedia.org/wiki/Relational_model;sql;1.0;0.0;5.0
+4;https://en.wikipedia.org/wiki/Relational_model;note;1.0;0.07692307692307693;5.0
+4;https://en.wikipedia.org/wiki/Relational_model;deviations;1.0;0.15384615384615385;5.0
+4;https://en.wikipedia.org/wiki/Relational_model;database servers implement;9.0;0.07692307692307693;5.0
+4;https://en.wikipedia.org/wiki/Relational_model;entire sql standard;9.0;0.07692307692307693;5.0
+5;https://en.wikipedia.org/wiki/Relational_model;table;1.0;0.07692307692307693;0.45454545454545453
+5;https://en.wikipedia.org/wiki/Relational_model;null;1.0;0.07692307692307693;5.0
+5;https://en.wikipedia.org/wiki/Relational_model;ubiquitous;1.0;0.07692307692307693;5.0
+5;https://en.wikipedia.org/wiki/Relational_model;uncommon;1.0;0.07692307692307693;5.0
+5;https://en.wikipedia.org/wiki/Relational_model;anonymous columns;4.0;0.07692307692307693;5.0
+8;http://searchsqlserver.techtarget.com/definition/relational-database;relational database;4.0;0.022727272727272728;1.25
+8;http://searchsqlserver.techtarget.com/definition/relational-database;data fitted;4.0;0.022727272727272728;5.0
+8;http://searchsqlserver.techtarget.com/definition/relational-database;set;1.0;0.022727272727272728;2.5
+8;http://searchsqlserver.techtarget.com/definition/relational-database;predefined categories;4.0;0.022727272727272728;5.0
+8;http://searchsqlserver.techtarget.com/definition/relational-database;tables;1.0;0.045454545454545456;0.8333333333333334
+9;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.06818181818181818;0.5555555555555556
+9;http://searchsqlserver.techtarget.com/definition/relational-database;data categories;4.0;0.022727272727272728;5.0
+9;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.06818181818181818;2.5
+10;http://searchsqlserver.techtarget.com/definition/relational-database;unique instance;4.0;0.022727272727272728;5.0
+10;http://searchsqlserver.techtarget.com/definition/relational-database;data;1.0;0.022727272727272728;2.5
+10;http://searchsqlserver.techtarget.com/definition/relational-database;categories defined;4.0;0.022727272727272728;5.0
+10;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.06818181818181818;2.5
+10;http://searchsqlserver.techtarget.com/definition/relational-database;row;1.0;0.022727272727272728;5.0
+11;http://searchsqlserver.techtarget.com/definition/relational-database;customer;1.0;0.045454545454545456;2.5
+11;http://searchsqlserver.techtarget.com/definition/relational-database;phone number;4.0;0.022727272727272728;5.0
+11;http://searchsqlserver.techtarget.com/definition/relational-database;address;1.0;0.022727272727272728;5.0
+11;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.06818181818181818;0.5555555555555556
+11;http://searchsqlserver.techtarget.com/definition/relational-database;include;1.0;0.022727272727272728;5.0
+11;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.06818181818181818;2.5
+12;http://searchsqlserver.techtarget.com/definition/relational-database;customer;1.0;0.045454545454545456;2.5
+12;http://searchsqlserver.techtarget.com/definition/relational-database;describe;1.0;0.022727272727272728;5.0
+12;http://searchsqlserver.techtarget.com/definition/relational-database;sales price;4.0;0.022727272727272728;5.0
+12;http://searchsqlserver.techtarget.com/definition/relational-database;order  product;4.0;0.022727272727272728;5.0
+12;http://searchsqlserver.techtarget.com/definition/relational-database;date;1.0;0.045454545454545456;5.0
+12;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.06818181818181818;0.5555555555555556
+13;http://searchsqlserver.techtarget.com/definition/relational-database;view;1.0;0.045454545454545456;5.0
+13;http://searchsqlserver.techtarget.com/definition/relational-database;obtain;1.0;0.045454545454545456;5.0
+13;http://searchsqlserver.techtarget.com/definition/relational-database;user;1.0;0.022727272727272728;5.0
+13;http://searchsqlserver.techtarget.com/definition/relational-database;fitted;1.0;0.022727272727272728;5.0
+13;http://searchsqlserver.techtarget.com/definition/relational-database;database;1.0;0.022727272727272728;2.5
+14;http://searchsqlserver.techtarget.com/definition/relational-database;customers;1.0;0.022727272727272728;2.5
+14;http://searchsqlserver.techtarget.com/definition/relational-database;branch office manager;9.0;0.022727272727272728;5.0
+14;http://searchsqlserver.techtarget.com/definition/relational-database;date;1.0;0.045454545454545456;5.0
+14;http://searchsqlserver.techtarget.com/definition/relational-database;report;1.0;0.045454545454545456;5.0
+14;http://searchsqlserver.techtarget.com/definition/relational-database;bought products;4.0;0.022727272727272728;5.0
+14;http://searchsqlserver.techtarget.com/definition/relational-database;view;1.0;0.045454545454545456;5.0
+15;http://searchsqlserver.techtarget.com/definition/relational-database;tables;1.0;0.045454545454545456;0.8333333333333334
+15;http://searchsqlserver.techtarget.com/definition/relational-database;needed;1.0;0.022727272727272728;5.0
+15;http://searchsqlserver.techtarget.com/definition/relational-database;company;1.0;0.022727272727272728;5.0
+15;http://searchsqlserver.techtarget.com/definition/relational-database;obtain;1.0;0.045454545454545456;5.0
+15;http://searchsqlserver.techtarget.com/definition/relational-database;paid;1.0;0.022727272727272728;5.0
+15;http://searchsqlserver.techtarget.com/definition/relational-database;report;1.0;0.045454545454545456;5.0
+15;http://searchsqlserver.techtarget.com/definition/relational-database;accounts;1.0;0.022727272727272728;5.0
+15;http://searchsqlserver.techtarget.com/definition/relational-database;financial services manager;9.0;0.022727272727272728;5.0
+24;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;relational database;4.0;0.02702702702702703;1.25
+24;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;edgar codd;4.0;0.02702702702702703;5.0
+24;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;proposed;1.0;0.02702702702702703;5.0
+25;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;commercial applications;4.0;0.02702702702702703;5.0
+25;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;dominant database model;9.0;0.02702702702702703;5.0
+26;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;oracle;1.0;0.02702702702702703;5.0
+26;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;ibm db2;4.0;0.02702702702702703;5.0
+26;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;microsoft sql server;9.0;0.02702702702702703;5.0
+26;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;today;1.0;0.02702702702702703;5.0
+27;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;embedded javadb;4.0;0.02702702702702703;5.0
+27;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;mysql;1.0;0.0;5.0
+27;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;msql;1.0;0.0;5.0
+27;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;free;1.0;0.02702702702702703;5.0
+27;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;opensource rdbms;4.0;0.02702702702702703;5.0
+29;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;relational model;4.0;0.02702702702702703;2.5
+29;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;table;1.0;0.05405405405405406;0.5
+29;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;duplicate rows;4.0;0.02702702702702703;5.0
+29;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;create ambiguities;4.0;0.02702702702702703;5.0
+29;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;retrieval;1.0;0.02702702702702703;5.0
+30;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;ensure uniqueness;4.0;0.02702702702702703;5.0
+30;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;column;1.0;0.02702702702702703;5.0
+30;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;records;1.0;0.02702702702702703;2.5
+30;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;called primary key;9.0;0.02702702702702703;5.0
+30;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;table;1.0;0.05405405405405406;0.5
+30;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;uniquely identifies;4.0;0.02702702702702703;2.5
+31;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;primary key;4.0;0.05405405405405406;1.0
+31;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;customers table  productcode;8.66666666667;0.02702702702702703;5.0
+31;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;products table  isbn;8.66666666667;0.02702702702702703;5.0
+31;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;books table;4.66666666667;0.02702702702702703;5.0
+31;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;unique number customerid;9.0;0.02702702702702703;5.0
+32;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;made;1.0;0.02702702702702703;5.0
+32;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;simple key;4.0;0.02702702702702703;5.0
+32;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;composite key;4.0;0.02702702702702703;5.0
+32;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;single column;4.0;0.02702702702702703;5.0
+32;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;primary key;4.0;0.05405405405405406;1.0
+32;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;called;1.0;0.02702702702702703;5.0
+32;https://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html;columns;1.0;0.02702702702702703;1.25
+35;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;parenttable relates;4.0;0.030303030303030304;5.0
+35;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;common relational model;9.0;0.030303030303030304;5.0
+35;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;multiple records;4.0;0.030303030303030304;5.0
+35;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;single record;4.0;0.030303030303030304;5.0
+35;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;child table;4.0;0.030303030303030304;5.0
+36;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;called aonetomany relationship;9.0;0.030303030303030304;5.0
+37;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;companies table;4.0;0.030303030303030304;5.0
+37;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;sales leads;4.0;0.030303030303030304;5.0
+37;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;relate;1.0;0.030303030303030304;5.0
+37;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;record;1.0;0.030303030303030304;2.5
+37;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;onetomanyrelationship;1.0;0.0;5.0
+37;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;manyrecords;1.0;0.0;5.0
+37;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;contacts table;4.0;0.030303030303030304;5.0
+38;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;models;1.0;0.030303030303030304;5.0
+38;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;table;1.0;0.06060606060606061;0.5
+38;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;add;1.0;0.030303030303030304;5.0
+38;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;theone;1.0;0.0;5.0
+38;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;foreign key;4.0;0.030303030303030304;1.25
+39;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;tracksaccounts receivable invoices;9.0;0.030303030303030304;5.0
+39;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;application;1.0;0.0;5.0
+39;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;onetomany relationship;4.0;0.030303030303030304;5.0
+40;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;table;1.0;0.06060606060606061;0.5
+40;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;customer data;4.0;0.030303030303030304;5.0
+40;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;invoice data;4.0;0.030303030303030304;5.0
+41;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;case;1.0;0.030303030303030304;5.0
+41;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;customers;1.0;0.030303030303030304;2.5
+41;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;common field;4.0;0.030303030303030304;5.0
+41;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;primarykey;1.0;0.0;5.0
+41;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;parent table;4.0;0.030303030303030304;5.0
+41;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;place;1.0;0.030303030303030304;5.0
+41;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;onecustomer;1.0;0.0;5.0
+41;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;customer table;4.0;0.030303030303030304;5.0
+41;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;orders;1.0;0.030303030303030304;5.0
+46;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;common model;4.5;0.008928571428571428;5.0
+46;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;8.5;0.03571428571428571;5.0
+46;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;industry today;4.0;0.008928571428571428;5.0
+47;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database;4.5;0.017857142857142856;1.6666666666666667
+47;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational model developed;8.5;0.008928571428571428;5.0
+47;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;based;1.0;0.026785714285714284;5.0
+49;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;codd;1.0;0.0;5.0
+50;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;definition;1.0;0.008928571428571428;5.0
+50;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;integrity constraints;4.0;0.008928571428571428;5.0
+50;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;retrieval operations;4.0;0.008928571428571428;5.0
+50;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;storage;1.0;0.008928571428571428;5.0
+50;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;data structures;4.0;0.008928571428571428;5.0
+50;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database;4.0;0.017857142857142856;1.6666666666666667
+51;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;organized;1.0;0.008928571428571428;5.0
+51;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;data;1.0;0.008928571428571428;2.5
+51;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667
+51;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relations;1.0;0.008928571428571428;5.0
+51;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;database;1.0;0.008928571428571428;2.5
+52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;table;1.0;0.026785714285714284;0.5555555555555556
+52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;record;1.0;0.008928571428571428;2.5
+52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;5.0
+52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;collection;1.0;0.008928571428571428;5.0
+52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;records;1.0;0.008928571428571428;2.5
+53;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;table;1.0;0.026785714285714284;0.5555555555555556
+53;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;future;1.0;0.008928571428571428;5.0
+53;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;contents;1.0;0.008928571428571428;5.0
+53;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;permanently saved;4.0;0.008928571428571428;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;searches;1.0;0.008928571428571428;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;specific values;4.0;0.008928571428571428;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;means;1.0;0.026785714285714284;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;keys;1.0;0.0;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;designated;1.0;0.008928571428571428;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;entity;1.0;0.017857142857142856;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;field;1.0;0.008928571428571428;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;uniquely identify;4.0;0.008928571428571428;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;importantly;1.0;0.0;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;speed;1.0;0.008928571428571428;5.0
+68;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;indexing;1.0;0.008928571428571428;5.0
+69;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;keys;1.0;0.0;5.0
+69;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;4.0;0.03571428571428571;1.6666666666666667
+69;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;possibly;1.0;0.008928571428571428;5.0
+69;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;important;1.0;0.008928571428571428;5.0
+69;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign key;4.0;0.026785714285714284;2.5
+69;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;types;1.0;0.008928571428571428;5.0
+70;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;4.0;0.03571428571428571;1.6666666666666667
+70;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;uniquely identifies;4.0;0.008928571428571428;2.5
+70;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;entity;1.0;0.017857142857142856;5.0
+71;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;4.0;0.03571428571428571;1.6666666666666667
+71;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;table;1.0;0.026785714285714284;0.5555555555555556
+71;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;sits;1.0;0.008928571428571428;5.0
+71;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign key;4.0;0.026785714285714284;2.5
+72;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign keys;4.0;0.008928571428571428;5.0
+72;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;heart;1.0;0.0;5.0
+72;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;ultimately;1.0;0.008928571428571428;5.0
+72;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;9.0;0.03571428571428571;5.0
+73;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667
+73;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;link data;4.0;0.008928571428571428;5.0
+73;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign key;4.0;0.026785714285714284;2.5
+73;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;linkage;1.0;0.0;5.0
+73;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;pull data;4.0;0.008928571428571428;5.0
+74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667
+74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;set;1.0;0.008928571428571428;2.5
+74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;5.0
+74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;select related records;9.0;0.008928571428571428;5.0
+74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;values;1.5;0.008928571428571428;5.0
+74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;performed;1.0;0.008928571428571428;5.0
+74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;join operation;4.0;0.008928571428571428;5.0
+74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;matching values;3.5;0.008928571428571428;5.0
+75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;5.0
+75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;customer;1.0;0.008928571428571428;1.6666666666666667
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;pairs;1.0;0.008928571428571428;5.0
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;calculate;1.0;0.008928571428571428;5.0
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;products  table;4.0;0.008928571428571428;5.0
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;sum;1.0;0.008928571428571428;5.0
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;bill;1.0;0.008928571428571428;5.0
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;products ordered;4.0;0.008928571428571428;5.0
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;prices;1.0;0.008928571428571428;5.0
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;productcode fields;4.0;0.008928571428571428;5.0
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;orders  table;4.0;0.008928571428571428;5.0
+76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;joining;1.0;0.0;5.0
+77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;multiple fields;4.5;0.008928571428571428;5.0
+77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;extended;1.0;0.008928571428571428;5.0
+77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;joining multiple tables;8.5;0.008928571428571428;5.0
+78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relationships;1.0;0.0;5.0
+78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;retrieval time;4.0;0.008928571428571428;5.0
+78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;classed;1.0;0.008928571428571428;5.0
+78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational databases;4.0;0.008928571428571428;5.0
+79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;important role;4.0;0.008928571428571428;5.0
+79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;4.0;0.03571428571428571;1.6666666666666667
+79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;called  determination;4.0;0.008928571428571428;5.0
+80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;attribute;1.0;0.008928571428571428;5.0
+80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;determine;1.0;0.008928571428571428;5.0
+80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;means;1.0;0.026785714285714284;5.0
+81;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;based;1.0;0.026785714285714284;5.0
+81;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;8.5;0.03571428571428571;5.0
+81;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational algebra;4.5;0.008928571428571428;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;operations;1.0;0.008928571428571428;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;product;1.0;0.008928571428571428;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;based;1.0;0.026785714285714284;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;means;1.0;0.026785714285714284;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;union;1.0;0.008928571428571428;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;project;1.0;0.008928571428571428;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;9.0;0.03571428571428571;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;intersect;1.0;0.008928571428571428;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;join;1.0;0.0;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;difference;1.0;0.008928571428571428;5.0
+82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;select;1.0;0.008928571428571428;5.0
+83;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;operation;1.0;0.008928571428571428;5.0
+83;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;description;1.0;0.0;5.0
