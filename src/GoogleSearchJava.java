@@ -1,12 +1,10 @@
 //package com.journaldev.jsoup;
 
-import net.didion.jwnl.data.Exc;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
-import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
 import java.io.*;
@@ -300,6 +298,8 @@ public class GoogleSearchJava {
                                     {
                                         System.out.println(lines_itr);
                                     }*/
+                                    lines_itr = lines_itr.replaceAll("\\((.*?)\\)","");
+                                    lines_itr = lines_itr.replaceAll("-","");
                                     lines_itr = lines_itr.replaceAll("[^a-zA-Z0-9,]"," ");
                                     /*
                                     if(lines_itr.contains(";"))
