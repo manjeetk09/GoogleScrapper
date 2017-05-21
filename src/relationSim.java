@@ -57,9 +57,11 @@ public class relationSim
 
                 }
                 //System.out.println(line);
-                f.println(info[0]+";"+info[1]+";"+info[4]+";"+max_sim);
-                f.println(info[0]+";"+info[3]+";"+info[4]+";"+max_sim);
+//                f.println(info[0]+";"+info[1]+";"+info[4]+";"+max_sim);
+//                f.println(info[0]+";"+info[3]+";"+info[4]+";"+max_sim);
+                    f.println(info[0] + ";" + info[2] + ";" + max_sim);
             }
+
             f.close();
         }
         catch(Exception e){}

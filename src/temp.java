@@ -89,18 +89,22 @@ public class temp
             parseollie.parserOllie(0);
             relationSim relationsim = new relationSim();
             relationsim.relationSimilarity(0, head_phrase_list);
-            SimilarityOllie similarityOllie = new SimilarityOllie();
-            similarityOllie.similarityollie(0, search);
+//            SimilarityOllie similarityOllie = new SimilarityOllie();
+//            similarityOllie.similarityollie(0, search);
             //System.out.println("i is:: " + 0);
 
             //via POSTagger
-            TriplePOS triplepos = new TriplePOS();
-            triplepos.triplePOS(0);
-            //System.out.println("triples created");
-            parsePOS parsepos = new parsePOS();
-            parsepos.parseFunc(0);
-            similarity sim = new similarity();
-            sim.similarityFunc(0, search);
+//            TriplePOS triplepos = new TriplePOS();
+//            triplepos.triplePOS(0);
+//            //System.out.println("triples created");
+//            parsePOS parsepos = new parsePOS();
+//            parsepos.parseFunc(0);
+//            similarity sim = new similarity();
+//            sim.similarityFunc(0, search);
+
+            //RAKE
+            TripleRake triplerake = new TripleRake();
+            triplerake.tripleRake(0);
             temp_num = 1;
         }
         else{
@@ -116,31 +120,38 @@ public class temp
                 parseollie.parserOllie(i);
                 relationSim relationsim = new relationSim();
                 relationsim.relationSimilarity(i, head_phrase_list);
-                SimilarityOllie similarityOllie = new SimilarityOllie();
-                similarityOllie.similarityollie(i, search);
+//                SimilarityOllie similarityOllie = new SimilarityOllie();
+//                similarityOllie.similarityollie(i, search);
                 //System.out.println("i is:: " + i);
 
                 //via POSTagger
-                TriplePOS triplepos = new TriplePOS();
-                triplepos.triplePOS(i);
-                //System.out.println("triples created");
-                parsePOS parsepos = new parsePOS();
-                parsepos.parseFunc(i);
-                similarity sim = new similarity();
-                sim.similarityFunc(i, search);
+//                TriplePOS triplepos = new TriplePOS();
+//                triplepos.triplePOS(i);
+//                //System.out.println("triples created");
+//                parsePOS parsepos = new parsePOS();
+//                parsepos.parseFunc(i);
+//                similarity sim = new similarity();
+//                sim.similarityFunc(i, search);
                 //System.out.println("similarity ended");
 
-            }
+                //RAKE
+                TripleRake triplerake = new TripleRake();
+                triplerake.tripleRake(i);
+             }
         }
 
 
 
-        CombineOllie combineOllie = new CombineOllie();
-        combineOllie.combineOllieFunc(temp_num);
-        CombinePOS combinePOS = new CombinePOS();
-        combinePOS.combinePOSFunc(temp_num);
+//        CombineOllie combineOllie = new CombineOllie();
+//        combineOllie.combineOllieFunc(temp_num);
+//        CombinePOS combinePOS = new CombinePOS();
+//        combinePOS.combinePOSFunc(temp_num);
 
-        SimilarityOllieToPos similarityOllieToPos = new SimilarityOllieToPos();
-        similarityOllieToPos.similarityOllieToPosFunc();
+//        SimilarityOllieToPos similarityOllieToPos = new SimilarityOllieToPos();
+//        similarityOllieToPos.similarityOllieToPosFunc();
+        CombineOllieRake combineollierake = new CombineOllieRake();
+        combineollierake.combineOllieRake(temp_num);
+
+
     }
 }

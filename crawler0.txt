@@ -1,3 +1,5 @@
+ .
+ .
 .
 .
 .
@@ -7,6 +9,9 @@
 .
 .
 .
+ .
+ .
+Some popular examples of supervised machine learning algorithms are .
 .
 .
 .
@@ -16,13 +21,18 @@
 .
 .
 .
+Linear regression for regression problems..
+Random forest for classification and regression problems..
+Support vector machines for classification problems..
 .
+Common terms .
 .
 .
 .
 .
 .
 .
+Supervised learning includes two categories of algorithms .
 .
 .
 .
@@ -35,6 +45,7 @@
 .
 .
 .
+ .
 .
 .
 .
@@ -49,122 +60,15 @@
 .
 .
 .
+Machine learning algorithms that make predictions on given set of samples.
+ Supervised machine learning algorithm searches for patterns within the value labels assigned to data points.
 .
 .
 .
 .
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+ .
 .
 .
 .

@@ -1,0 +1,45 @@
+In computer science, incremental learning is a method of machine learning, in which input data is continuously used to extend the existing model s knowledge i.
+0.941: (incremental learning; is a method of; machine learning in which input data is continuously used to extend the existing model)
+0.746: (incremental learning; is a method of machine learning in; computer science)
+0.724: (incremental learning; is; a method of machine learning)
+0.704: (input data; to extend; the existing model)
+0.564: (input data; is continuously used in; machine learning)
+
+e.
+No extractions found.
+
+ to further train the model.
+No extractions found.
+
+ It represents a dynamic technique of supervised learning and unsupervised learning that can be applied when training data becomes available gradually over time or its size is out of system memory limits.
+0.679: (training data; becomes available gradually over; time or its size)
+0.498: (a dynamic technique of supervised learning; represents in; It)
+0.49: (training data; becomes gradually; available)
+
+ Algorithms that can facilitate incremental learning are known as incremental machine learning algorithms.
+0.915: (Algorithms; are known as; incremental machine learning algorithms)
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Many traditional machine learning algorithms inherently support incremental learning, other algorithms can be adapted to facilitate this.
+No extractions found.
+
+ Examples of incremental algorithms include decisions trees , decision rules, artificial neural networks  or the incremental SVM.
+0.767: (Examples of incremental algorithms; include; decisions trees , decision rules , artificial neural networks or the incremental)
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
