@@ -52,6 +52,8 @@ public class GoogleSearchJava {
     //these store the links and span
     public  ArrayList<String> link_data = new ArrayList<String>();
     public  ArrayList<String> span_data = new ArrayList<String>();
+    public  String span_quick_ans = "";
+    public boolean is_quick_ans_presnt = false;
 
     public  String GOOGLE_SEARCH_URL = "https://www.google.com/search";
     //public  void main(String[] args) throws IOException
@@ -91,6 +93,11 @@ public class GoogleSearchJava {
         FileWriter fw4 = null;
         fw4 = new FileWriter(li_file);
         bw4 = new BufferedWriter(fw4);
+
+        BufferedWriter bw5 = null;
+        FileWriter fw5 = null;
+        fw5 = new FileWriter("quick_ans + " + temp_index + ".txt");
+        bw5 = new BufferedWriter(fw4);
 
         //Taking search term input from console
         //Scanner scanner = new Scanner(System.in);
@@ -136,6 +143,9 @@ public class GoogleSearchJava {
         //we need to change below accordingly
         Elements results = doc.select("h3.r > a");
         Elements results_1 = doc.select("span.st");
+        Elements results_2 = doc.select("div.kp-blk");
+
+        Elements results_2_a = doc.select("div.kp-blk > a");
 
         for (Element result : results) {
             String linkHref = result.attr("href");
@@ -175,7 +185,21 @@ public class GoogleSearchJava {
 
             if(span_data.get(i).length() <= 0)
             {
-                continue;
+                System.out.println("span found null.");
+                System.out.println("span found null:: " + results_2_a.size() + " : " + results_2.size());
+                if(results_2_a.size() > 0 && results_2.size() > 0) {
+                    Element result_2_first = results_2_a.get(0);
+
+                    String linkHref = result_2_first.attr("href");
+                    System.out.println("quick_a:: " + linkHref);
+                    if (linkHref.contains(link_data.get(i))) {
+                        Element span_quick = results_2.get(0);
+                        span_quick_ans = span_quick.text();
+                        System.out.println("quick_p:: " + span_quick_ans);
+                        is_quick_ans_presnt = true;
+                        span_data.set(i, span_quick_ans);
+                    }
+                }
             }
 
             /*
@@ -308,14 +332,24 @@ public class GoogleSearchJava {
                                         System.out.println(lines_itr);
                                     }
                                     */
-
-                                    bw.write(lines_itr);
-                                    bw.write(".");
-                                    bw.write("\n");
-                                    bw2.write(link_data.get(i));
-                                    bw2.write("\n");
-                                    bw3.write(para_text);
-                                    bw3.write("\n");
+                                    if(is_quick_ans_presnt == false) {
+                                        bw.write(lines_itr);
+                                        bw.write(".");
+                                        bw.write("\n");
+                                        bw2.write(link_data.get(i));
+                                        bw2.write("\n");
+                                        bw3.write(para_text);
+                                        bw3.write("\n");
+                                    }
+                                    else{
+                                        bw5.write(lines_itr);
+                                        bw5.write(".");
+                                        bw5.write("\n");
+                                        bw2.write(link_data.get(i));
+                                        bw2.write("\n");
+                                        bw3.write(para_text);
+                                        bw3.write("\n");
+                                    }
                                 }
                                 System.out.println("Done Writing");
 
@@ -350,15 +384,28 @@ public class GoogleSearchJava {
                                             //System.out.println(line_li);
                                             line_li = line_li.replaceAll("-","_").replaceAll("\\(.*?\\) ?", "");
                                             line_li = line_li.replaceAll("[^a-zA-Z0-9,_]"," ");
-                                            bw.write(line_li);
-                                            bw.write(".");
-                                            bw.write("\n");
-                                            bw2.write(link_data.get(i));
-                                            bw2.write("\n");
-                                            bw3.write(para_text);
-                                            bw3.write("\n");
-                                            bw4.write(line_li);
-                                            bw4.write("\n");
+                                            if(is_quick_ans_presnt == false) {
+                                                bw.write(line_li);
+                                                bw.write(".");
+                                                bw.write("\n");
+                                                bw2.write(link_data.get(i));
+                                                bw2.write("\n");
+                                                bw3.write(para_text);
+                                                bw3.write("\n");
+                                                bw4.write(line_li);
+                                                bw4.write("\n");
+                                            }
+                                            else{
+                                                bw5.write(line_li);
+                                                bw5.write(".");
+                                                bw5.write("\n");
+                                                bw2.write(link_data.get(i));
+                                                bw2.write("\n");
+                                                bw3.write(para_text);
+                                                bw3.write("\n");
+                                                bw4.write(line_li);
+                                                bw4.write("\n");
+                                            }
                                         }
                                     }
                                 }
@@ -383,15 +430,29 @@ public class GoogleSearchJava {
                                 //System.out.println(line_li);
                                 line_li = line_li.replaceAll("-","_").replaceAll("\\(.*?\\) ?", "");
                                 line_li = line_li.replaceAll("[^a-zA-Z0-9,_]"," ");
-                                bw.write(line_li);
-                                bw.write(".");
-                                bw.write("\n");
-                                bw2.write(link_data.get(i));
-                                bw2.write("\n");
-                                bw3.write(ul_text);
-                                bw3.write("\n");
-                                bw4.write(line_li);
-                                bw4.write("\n");
+                                if(is_quick_ans_presnt == false) {
+                                    bw5.write(line_li);
+                                    bw5.write(".");
+                                    bw5.write("\n");
+                                    bw2.write(link_data.get(i));
+                                    bw2.write("\n");
+                                    bw3.write(ul_text);
+                                    bw3.write("\n");
+                                    bw4.write(line_li);
+                                    bw4.write("\n");
+                                }
+                                else{
+                                    bw5.write(line_li);
+                                    bw5.write(".");
+                                    bw5.write("\n");
+                                    bw2.write(link_data.get(i));
+                                    bw2.write("\n");
+                                    bw3.write(ul_text);
+                                    bw3.write("\n");
+                                    bw4.write(line_li);
+                                    bw4.write("\n");
+                                }
+
                             }
                         }
                     }
@@ -430,6 +491,12 @@ public class GoogleSearchJava {
 
             if(fw4 != null)
                 fw4.close();
+
+            if (bw5 != null)
+                bw5.close();
+
+            if(fw5 != null)
+                fw5.close();
 
         } catch (IOException ex) {
 

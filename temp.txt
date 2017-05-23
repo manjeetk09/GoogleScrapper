@@ -1,1 +1,1 @@
-In the case of pointer to node, we have to explicitly allocate memory of node type to the pointer.
+ A record may be an owner in any number of sets, and a member in any number of sets.

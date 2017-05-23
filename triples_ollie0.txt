@@ -1,3339 +1,609 @@
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Algorithms/Left_rotation: This shows how balancing is applied to establish a priority heap invariant in a Treap, a data structure which has the queueing performance of a heap, and the key lookup performance of a tree.
-0.563: (the queueing performance of a heap; be has by; a data structure)
-
- A balancing operation can change the tree structure while maintaining another order, which is binary tree sort order.
-0.808: (A balancing operation; can change; the tree structure)[enabler=while maintaining another order , which is binary tree sort order]
-0.772: (another order; is binary; tree sort order)
-
- The binary tree order is left to right, with left nodes' keys less than right nodes' keys, whereas the priority order is up and down, with higher nodes' priorities greater than lower nodes' priorities.
-0.58: (the priority order; is up down down with; higher nodes ' priorities)
-
- Alternatively, the priority can be viewed as another ordering key, except that finding a specific key is more involved.
-0.869: (the priority; Alternatively can be viewed as; another ordering key)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-There is a distinction between a tree as an abstract data type and as a concrete data structure, analogous to the distinction between a list and a linked list.
-No extractions found.
-
- As a data type, a tree has a value and children, and the children are themselves trees; the value and children of the tree are interpreted as the value of the root node and the subtrees of the children of the root node.
-0.937: (the value and children of the tree; are interpreted as; the value of the root node and the subtrees of the children of the root node)
-0.688: (themselves; has a value as; a data type)
-0.68: (a tree; has; a value and children)
-0.613: (a tree; has a value as; a data type)
-0.613: (the children; has a value as; a data type)
-0.604: (themselves; has children as; a data type)
-0.591: (themselves; has; a value and children)
-0.523: (a tree; has children as; a data type)
-0.523: (the children; has children as; a data type)
-0.509: (the children; has; a value and children)
-
- To allow finite trees, one must either allow the list of children to be empty , or allow trees to be empty, in which case the list of children can be of fixed size , if desired.
-0.851: (one; must either allow; the list of children)[enabler=if desired]
-0.83: (the list of children; can be of; fixed size)
-0.669: (trees; to be empty in; which case)
-0.641: (trees; to be; empty)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-This is a list of data structures.
-No extractions found.
-
- For a wider list of terms, see list of terms relating to algorithms and data structures.
-0.487: (terms; relating to; algorithms and data structures)
-
- For a comparison of running time of subset of this list see comparison of data structures.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Some properties of abstract data types:.
-No extractions found.
-
-A data structure is said to be linear if its elements form a sequence.
-0.788: (A data structure; is said; linear)
-0.156: (its elements; form; a sequence)
-
-In these data structures each tree node compares a bit slice of key values.
-0.825: (each tree node; compares; a bit slice of key values)
-0.613: (each tree node; compares a bit slice of key values in; these data structures)
-
-These are data structures used for space partitioning or binary space partitioning.
-No extractions found.
-
-1 Data types 1.1 Primitive types 1.2 Composite types or Non_primitive type 1.3 Abstract data types.
-No extractions found.
-
-2 Linear data structures 2.1 Arrays 2.2 Lists.
-No extractions found.
-
-3 Trees 3.1 Binary trees 3.2 B_trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space_partitioning trees 3.7 Application_specific trees.
-No extractions found.
-
-4 Hashes.
-No extractions found.
-
-5 Graphs.
-No extractions found.
-
-6 Other.
-No extractions found.
-
-7 External links.
-No extractions found.
-
-1.1 Primitive types.
-No extractions found.
-
-1.2 Composite types or Non_primitive type.
-No extractions found.
-
-1.3 Abstract data types.
-No extractions found.
-
-2.1 Arrays.
-No extractions found.
-
-2.2 Lists.
-No extractions found.
-
-3.1 Binary trees.
-No extractions found.
-
-3.2 B_trees.
-No extractions found.
-
-3.3 Heaps.
-No extractions found.
-
-3.4 Trees.
-No extractions found.
-
-3.5 Multiway trees.
-No extractions found.
-
-3.6 Space_partitioning trees.
-No extractions found.
-
-3.7 Application_specific trees.
-No extractions found.
-
-Boolean, true or false.
-No extractions found.
-
-Character.
-No extractions found.
-
-Floating_point, single_precision real number values.
-No extractions found.
-
-Double, a wider floating_point size.
-No extractions found.
-
-Integer, integral or fixed_precision values.
-No extractions found.
-
-String, a sequence of characters.
-0.482: (String; be a sequence of; characters)
-
-Reference , a small value referring to another object's address in memory, possibly a much larger one..
-0.705: (a small value; referring to; another object 's address)
-
-Enumerated type, a small set of uniquely_named values.
-0.654: (Enumerated type; be a small set of; uniquely_named values)
-0.285: (small; set of; uniquely_named values)
-
-Array.
-No extractions found.
-
-Record .
-No extractions found.
-
-Union.
-No extractions found.
-
-Tagged union .
-No extractions found.
-
-Container.
-No extractions found.
-
-List.
-No extractions found.
-
-Associative array.
-No extractions found.
-
-Multimap.
-No extractions found.
-
-Set.
-No extractions found.
-
-Bag.
-No extractions found.
-
-Multiset.
-No extractions found.
-
-Stack.
-No extractions found.
-
-Queue.
-No extractions found.
-
-Double_ended queue.
-No extractions found.
-
-Priority queue.
-No extractions found.
-
-Tree.
-No extractions found.
-
-Graph.
-No extractions found.
-
-Array.
-No extractions found.
-
-Bit array.
-No extractions found.
-
-Bit field.
-No extractions found.
-
-Bitboard.
-No extractions found.
-
-Bitmap.
-No extractions found.
-
-Circular buffer.
-No extractions found.
-
-Control table.
-No extractions found.
-
-Image.
-No extractions found.
-
-Dope vector.
-No extractions found.
-
-Dynamic array.
-No extractions found.
-
-Gap buffer.
-No extractions found.
-
-Hashed array tree.
-No extractions found.
-
-Heightmap.
-No extractions found.
-
-Lookup table.
-No extractions found.
-
-Matrix.
-No extractions found.
-
-Parallel array.
-No extractions found.
-
-Sorted array.
-No extractions found.
-
-Sparse matrix.
-No extractions found.
-
-Iliffe vector.
-No extractions found.
-
-Variable_length array.
-No extractions found.
-
-Doubly linked list.
-No extractions found.
-
-Array list.
-No extractions found.
-
-Linked list.
-No extractions found.
-
-Self_organizing list.
-No extractions found.
-
-Skip list.
-No extractions found.
-
-Unrolled linked list.
-No extractions found.
-
-VList.
-No extractions found.
-
-Conc_Tree list.
-No extractions found.
-
-Xor linked list.
-No extractions found.
-
-Zipper.
-No extractions found.
-
-Doubly connected edge list.
-No extractions found.
-
-Difference list.
-No extractions found.
-
-Free list.
-No extractions found.
-
-AA tree.
-No extractions found.
-
-AVL tree.
-No extractions found.
-
-Binary search tree.
-No extractions found.
-
-Binary tree.
-No extractions found.
-
-Cartesian tree.
-No extractions found.
-
-Left_child right_sibling binary tree.
-0.632: (Left_child; right sibling binary; tree)
-
-Order statistic tree.
-No extractions found.
-
-Pagoda.
-No extractions found.
-
-Randomized binary search tree.
-No extractions found.
-
-Red–black tree.
-No extractions found.
-
-Rope.
-No extractions found.
-
-Scapegoat tree.
-No extractions found.
-
-Self_balancing binary search tree.
-No extractions found.
-
-Splay tree.
-No extractions found.
-
-T_tree.
-No extractions found.
-
-Tango tree.
-No extractions found.
-
-Threaded binary tree.
-No extractions found.
-
-Top tree.
-No extractions found.
-
-Treap.
-No extractions found.
-
-WAVL tree.
-No extractions found.
-
-Weight_balanced tree.
-No extractions found.
-
-B_tree.
-No extractions found.
-
-B+ tree.
-No extractions found.
-
-B*_tree.
-No extractions found.
-
-B sharp tree.
-No extractions found.
-
-Dancing tree.
-No extractions found.
-
-2_3 tree.
-No extractions found.
-
-2_3_4 tree.
-No extractions found.
-
-Queap.
-No extractions found.
-
-Fusion tree.
-No extractions found.
-
-Bx_tree.
-No extractions found.
-
-AList.
-No extractions found.
-
-Heap.
-No extractions found.
-
-Binary heap.
-No extractions found.
-
-Weak heap.
-No extractions found.
-
-Binomial heap.
-No extractions found.
-
-Fibonacci heap AF_heap.
-No extractions found.
-
-Leonardo Heap.
-No extractions found.
-
-2_3 heap.
-No extractions found.
-
-Soft heap.
-No extractions found.
-
-Pairing heap.
-No extractions found.
-
-Leftist heap.
-No extractions found.
-
-Treap.
-No extractions found.
-
-Beap.
-No extractions found.
-
-Skew heap.
-No extractions found.
-
-Ternary heap.
-No extractions found.
-
-D_ary heap.
-No extractions found.
-
-Brodal queue.
-No extractions found.
-
-AF_heap.
-No extractions found.
-
-Trie.
-No extractions found.
-
-Radix tree.
-No extractions found.
-
-Suffix tree.
-No extractions found.
-
-Suffix array.
-No extractions found.
-
-Compressed suffix array.
-No extractions found.
-
-FM_index.
-No extractions found.
-
-Generalised suffix tree.
-No extractions found.
-
-B_trie.
-No extractions found.
-
-Judy array.
-No extractions found.
-
-X_fast trie.
-No extractions found.
-
-Y_fast trie.
-No extractions found.
-
-Merkle Tree.
-No extractions found.
-
-Ctrie.
-No extractions found.
-
-Ternary tree.
-No extractions found.
-
-K_ary tree.
-No extractions found.
-
-And–or tree.
-No extractions found.
-
-_tree.
-No extractions found.
-
-Link/cut tree.
-No extractions found.
-
-SPQR_tree.
-No extractions found.
-
-Spaghetti stack.
-No extractions found.
-
-Disjoint_set data structure.
-No extractions found.
-
-Fusion tree.
-No extractions found.
-
-Enfilade.
-No extractions found.
-
-Exponential tree.
-No extractions found.
-
-Fenwick tree.
-No extractions found.
-
-Van Emde Boas tree.
-No extractions found.
-
-Rose tree.
-No extractions found.
-
-Segment tree.
-No extractions found.
-
-Interval tree.
-No extractions found.
-
-Range tree.
-No extractions found.
-
-Bin.
-No extractions found.
-
-K_d tree.
-No extractions found.
-
-Implicit k_d tree.
-No extractions found.
-
-Min/max k_d tree.
-No extractions found.
-
-Relaxed k_d tree.
-No extractions found.
-
-Adaptive k_d tree.
-No extractions found.
-
-Quadtree.
-No extractions found.
-
-Octree.
-No extractions found.
-
-Linear octree.
-No extractions found.
-
-Z_order.
-No extractions found.
-
-UB_tree.
-No extractions found.
-
-R_tree.
-No extractions found.
-
-R+ tree.
-No extractions found.
-
-R* tree.
-No extractions found.
-
-Hilbert R_tree.
-No extractions found.
-
-X_tree.
-No extractions found.
-
-Metric tree.
-No extractions found.
-
-Cover tree.
-No extractions found.
-
-M_tree.
-No extractions found.
-
-VP_tree.
-No extractions found.
-
-BK_tree.
-No extractions found.
-
-Bounding interval hierarchy.
-No extractions found.
-
-Bounding volume hierarchy.
-No extractions found.
-
-BSP tree.
-No extractions found.
-
-Rapidly exploring random tree.
-No extractions found.
-
-Abstract syntax tree.
-No extractions found.
-
-Parse tree.
-No extractions found.
-
-Decision tree.
-No extractions found.
-
-Alternating decision tree.
-No extractions found.
-
-Minimax tree.
-No extractions found.
-
-Expectiminimax tree.
-No extractions found.
-
-Finger tree.
-No extractions found.
-
-Expression tree.
-No extractions found.
-
-Log_structured merge_tree.
-No extractions found.
-
-Lexicographic Search Tree.
-No extractions found.
-
-Bloom filter.
-No extractions found.
-
-Count_Min sketch.
-No extractions found.
-
-Distributed hash table.
-No extractions found.
-
-Double Hashing.
-No extractions found.
-
-Dynamic perfect hash table.
-No extractions found.
-
-Hash array mapped trie.
-0.684: (Hash; mapped; trie)
-
-Hash list.
-No extractions found.
-
-Hash table.
-No extractions found.
-
-Hash tree.
-No extractions found.
-
-Hash trie.
-No extractions found.
-
-Koorde.
-No extractions found.
-
-Prefix hash tree.
-No extractions found.
-
-Rolling hash.
-No extractions found.
-
-MinHash.
-No extractions found.
-
-Quotient filter.
-No extractions found.
-
-Ctrie.
-No extractions found.
-
-Graph.
-No extractions found.
-
-Adjacency list.
-No extractions found.
-
-Adjacency matrix.
-No extractions found.
-
-Graph_structured stack.
-No extractions found.
-
-Scene graph.
-No extractions found.
-
-Binary decision diagram.
-No extractions found.
-
-Zero_suppressed decision diagram.
-No extractions found.
-
-And_inverter graph.
-No extractions found.
-
-Directed graph.
-No extractions found.
-
-Directed acyclic graph.
-No extractions found.
-
-Propositional directed acyclic graph.
-0.829: (Propositional; directed; acyclic graph)
-
-Multigraph.
-No extractions found.
-
-Hypergraph.
-No extractions found.
-
-Lightmap.
-No extractions found.
-
-Winged edge.
-No extractions found.
-
-Doubly connected edge list.
-No extractions found.
-
-Quad_edge.
-No extractions found.
-
-Routing table.
-No extractions found.
-
-Symbol table.
-No extractions found.
-
-v.
-No extractions found.
-
-t.
-No extractions found.
-
-e.
-No extractions found.
-
-Collection.
-No extractions found.
-
-Container.
-No extractions found.
-
-Associative array Multimap.
-No extractions found.
-
-List.
-No extractions found.
-
-Stack.
-No extractions found.
-
-Queue Double_ended queue.
-0.723: (Queue; Double ended; queue)
-
-Priority queue Double_ended priority queue.
-0.664: (Priority; queue Double ended; priority queue)
-
-Set Multiset Disjoint_set.
-No extractions found.
-
-Multimap.
-No extractions found.
-
-Double_ended queue.
-No extractions found.
-
-Double_ended priority queue.
-No extractions found.
-
-Multiset.
-No extractions found.
-
-Disjoint_set.
-No extractions found.
-
-Bit array.
-No extractions found.
-
-Circular buffer.
-No extractions found.
-
-Dynamic array.
-No extractions found.
-
-Hash table.
-No extractions found.
-
-Hashed array tree.
-No extractions found.
-
-Sparse matrix.
-No extractions found.
-
-Association list.
-No extractions found.
-
-Linked list.
-No extractions found.
-
-Skip list.
-No extractions found.
-
-Unrolled linked list.
-No extractions found.
-
-XOR linked list.
-No extractions found.
-
-B_tree.
-No extractions found.
-
-Binary search tree AA tree AVL tree Red–black tree Self_balancing tree Splay tree.
-0.589: (tree; be Self balancing splay; tree)
-0.475: (tree Red–black tree; Self balancing tree splay; tree)
-
-Heap Binary heap Binomial heap Fibonacci heap.
-No extractions found.
-
-R_tree R* tree R+ tree Hilbert R_tree.
-No extractions found.
-
-Trie Hash tree.
-No extractions found.
-
-AA tree.
-No extractions found.
-
-AVL tree.
-No extractions found.
-
-Red–black tree.
-No extractions found.
-
-Self_balancing tree.
-No extractions found.
-
-Splay tree.
-No extractions found.
-
-Binary heap.
-No extractions found.
-
-Binomial heap.
-No extractions found.
-
-Fibonacci heap.
-No extractions found.
-
-R* tree.
-No extractions found.
-
-R+ tree.
-No extractions found.
-
-Hilbert R_tree.
-No extractions found.
-
-Hash tree.
-No extractions found.
-
-Binary decision diagram.
-No extractions found.
-
-Directed acyclic graph.
-No extractions found.
-
-Directed acyclic word graph.
-No extractions found.
-
-List of data structures.
-No extractions found.
-
-Tommy Benchmarks Comparison of several data structures..
-No extractions found.
-
-Data structures.
-No extractions found.
-
-Computing_related lists.
-No extractions found.
-
-Not logged in.
-No extractions found.
-
-Talk.
-No extractions found.
-
-Contributions.
-No extractions found.
-
-Create account.
-No extractions found.
-
-Log in.
-No extractions found.
-
-Article.
-No extractions found.
-
-Talk.
-No extractions found.
-
-Read.
-No extractions found.
-
-Edit.
-No extractions found.
-
-View history.
-No extractions found.
-
-Main page.
-No extractions found.
-
-Contents.
-No extractions found.
-
-Featured content.
-No extractions found.
-
-Current events.
-No extractions found.
-
-Random article.
-No extractions found.
-
-Donate to Wikipedia.
-No extractions found.
-
-Wikipedia store.
-No extractions found.
-
-Help.
-No extractions found.
-
-About Wikipedia.
-No extractions found.
-
-Community portal.
-No extractions found.
-
-Recent changes.
-No extractions found.
-
-Contact page.
-No extractions found.
-
-What links here.
-No extractions found.
-
-Related changes.
-No extractions found.
-
-Upload file.
-No extractions found.
-
-Special pages.
-No extractions found.
-
-Permanent link.
-No extractions found.
-
-Page information.
-No extractions found.
-
-Wikidata item.
-No extractions found.
-
-Cite this page.
-No extractions found.
-
-Create a book.
-No extractions found.
-
-Download as PDF.
-No extractions found.
-
-Printable version.
-No extractions found.
-
-فارسی.
-No extractions found.
-
-हिन्दी.
-No extractions found.
-
-Italiano.
-No extractions found.
-
-Magyar.
-No extractions found.
-
-Русский.
-No extractions found.
-
-ไทย.
-No extractions found.
-
-Türkçe.
-No extractions found.
-
-Українська.
-No extractions found.
-
-Tiếng Việt.
-No extractions found.
-
-中文.
-No extractions found.
-
-This page was last edited on 30 April 2017, at 15:25..
-0.794: (This page; was last at; 15)
-0.665: (This page; was; last)
-
-Text is available under the Creative Commons Attribution_ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non_profit organization..
-0.916: (Wikipedia®; is a registered trademark of; the Wikimedia Foundation)
-0.876: (you; agree to; the Terms of Use)
-0.742: (Wikipedia®; is; a registered trademark of the Wikimedia Foundation)
-0.739: (Text; is available under; the Creative Commons)
-0.591: (Text; is; available)
-0.487: (Text; is available attribution sharealike; License)
-0.48: (registered; is trademark of; the Wikimedia Foundation)
-
-Privacy policy.
-No extractions found.
-
-About Wikipedia.
-No extractions found.
-
-Disclaimers.
-No extractions found.
-
-Contact Wikipedia.
-No extractions found.
-
-Developers.
-No extractions found.
-
-Cookie statement.
-No extractions found.
-
-Mobile view.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Some properties of abstract data types:.
-No extractions found.
-
-Double_ended queue.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-We have discussed Introduction to Binary Tree in set 1 and Properties of Binary Tree in Set 2.
-0.794: (We; have discussed Introduction in; set 1 and Properties of Binary Tree)
-0.766: (We; have discussed Introduction to; Binary Tree)
-0.689: (We; have discussed; Introduction)
-
- In this post, common types of binary is discussed.
-0.754: (common types of binary; is discussed in; this post)
-
-Following are common types of Binary Trees.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-In a normal tree, every node can have any number of children.
-0.825: (every node; can have; any number of children)
-0.591: (every node; can have any number of children in; a normal tree)
-0.553: (every node; be any number of; children)
-0.473: (any number of children; can be have in; a normal tree)
-
- Binary tree is a special type of tree data structure in which every node can have a maximum of 2 children.
-0.825: (every node; can have; a maximum of 2 children)
-0.553: (every node; be a maximum of; 2 children)
-0.451: (a special type of tree data structure in which every node can have a maximum of 2 children; is binary; tree)
-
- One is known as left child and the other is known as right child.
-0.914: (the other; is known as; right child)
-0.9: (One; is known as; left child)
-
-In this chapter we will discuss tree data structures, like trees and graphs.
-0.626: (we; will discuss; tree data structures)
-0.473: (tree data structures; will be discuss in; this chapter)
-0.234: (we; will discuss tree data structures , like trees and graphs in; this chapter)
-
- The abilities of these data structures are really important for the modern programming.
-0.832: (The abilities of these data structures; are really important for; the modern programming)
-0.492: (important; be The abilities of; these data structures)
-
- Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model.
-No extractions found.
-
- We will explain what tree data structures are and will review their main advantages and disadvantages.
-No extractions found.
-
- We will present example implementations and problems showing their practical usage.
-0.665: (We; will present; example implementations and problems showing their practical usage)
-
- We will focus on binary trees, binary search trees and self_balancing binary search tree.
-0.724: (We; will focus on; binary trees , binary search trees)
-
- We will explain what graph is, the types of graphs, how to represent a graph in the memory and where graphs are used in our life and in the computer technologies.
-0.719: (graphs; to are used in; our life and in the computer technologies)
-0.712: (We; will explain; what graph)
-0.658: (a graph; to be represent in; the memory)
-
- We will see where in .
-No extractions found.
-
-NET Framework self_balancing binary search trees are implemented and how to use them.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-            );.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-….
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
- .
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-….
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-   .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-….
-No extractions found.
-
-{.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-….
-No extractions found.
-
-{.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-        // ….
-No extractions found.
-
-        // ….
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    // ….
-No extractions found.
-
-    // ….
-No extractions found.
-
-}.
-No extractions found.
-
-{.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-}.
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
- .
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-{.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
-{.
-No extractions found.
-
-    });.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-In this chapter we will discuss tree data structures, like trees and graphs.
-0.626: (we; will discuss; tree data structures)
-0.473: (tree data structures; will be discuss in; this chapter)
-0.234: (we; will discuss tree data structures , like trees and graphs in; this chapter)
-
- The abilities of these data structures are really important for the modern programming.
-0.832: (The abilities of these data structures; are really important for; the modern programming)
-0.492: (important; be The abilities of; these data structures)
-
- Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model.
-No extractions found.
-
- We will explain what tree data structures are and will review their main advantages and disadvantages.
-No extractions found.
-
- We will present example implementations and problems showing their practical usage.
-0.665: (We; will present; example implementations and problems showing their practical usage)
-
- We will focus on binary trees, binary search trees and self_balancing binary search tree.
-0.724: (We; will focus on; binary trees , binary search trees)
-
- We will explain what graph is, the types of graphs, how to represent a graph in the memory and where graphs are used in our life and in the computer technologies.
-0.719: (graphs; to are used in; our life and in the computer technologies)
-0.712: (We; will explain; what graph)
-0.658: (a graph; to be represent in; the memory)
-
- We will see where in .
-No extractions found.
-
-NET Framework self_balancing binary search trees are implemented and how to use them.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-            );.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-….
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
- .
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-….
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-   .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-….
-No extractions found.
-
-{.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
- .
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-….
-No extractions found.
-
-{.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-        // ….
-No extractions found.
-
-        // ….
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    // ….
-No extractions found.
-
-    // ….
-No extractions found.
-
-}.
-No extractions found.
-
-{.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-}.
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
- .
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-        {.
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-            {.
-No extractions found.
-
-            }.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-{.
-No extractions found.
-
-}.
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-{.
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
-}.
-No extractions found.
-
-.
-No extractions found.
+A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated.
+0.957: (A database model; is a type of; data model that determines the logical structure of a database and fundamentally determines)
+0.725: (A database model; is; a type of data model)
 
-.
-No extractions found.
-
-.
-No extractions found.
+ The most popular example of a database model is the relational model, which uses a table_based format.
+0.745: (The most popular example of a database model; is; the relational model which uses a table_based format)
+0.564: (a table_based format; be uses by; the relational model)
+0.492: (the relational model which uses a table_based format; be The most popular example of; a database model)
 
 .
 No extractions found.
 
 .
-No extractions found.
-
- .
-No extractions found.
-
-{.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-        {.
-No extractions found.
-
-        }.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
-No extractions found.
-
-    {.
-No extractions found.
-
-    }.
-No extractions found.
-
- .
 No extractions found.
 
-    {.
+Common logical data models for databases include .
 No extractions found.
 
-    }.
-No extractions found.
+An object_relational database combines the two related structures.
+0.782: (An object_relational database; combines; the two related structures)
 
- .
+Physical data models include .
 No extractions found.
 
-    {.
+Other models include .
 No extractions found.
 
-    }.
-No extractions found.
+A given database management system may provide one or more models.
+0.783: (A given database management system; may provide; one or more models)
 
- .
-No extractions found.
+ The optimal structure depends on the natural organization of the application s data, and on the application s requirements, which include transaction rate , reliability, maintainability, scalability, and cost.
+0.866: (The optimal structure; depends on; the natural organization of the application)
 
-    {.
-No extractions found.
+ Most database management systems are built around one particular data model, although it is possible for products to offer support for more than one model.
+0.9: (Most database management systems; are built around; one particular data model)[enabler=although it is possible for products to offer support for more than one model]
+0.678: (it; is possible for; products)
+0.518: (it; is; possible)
 
-    }.
-No extractions found.
+Various physical data models can implement any given logical model.
+0.783: (Various physical data models; can implement; any given logical model)
 
- .
-No extractions found.
+ Most database software will offer the user some level of control in tuning the physical implementation, since the choices that are made have a significant effect on performance.
+0.854: (Most database software; will offer the user; some level of control)[enabler=since the choices that are made have a significant effect on performance]
+0.679: (the choices that are made; have; a significant effect)
+0.671: (Most database software; be some level of; control)
 
-    {.
-No extractions found.
+A model is not just a way of structuring data  it also defines a set of operations that can be performed on the data.
+0.635: (it; also defines; a set of operations)
+0.525: (A model; is just; not just a way structuring data)
+0.491: (a set of operations; be also defines by; data)
 
-    }.
+ The relational model, for example, defines operations such as select and join.
 No extractions found.
 
-}.
-No extractions found.
+ Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built.
+0.857: (they; provide; the foundation on which a query language is built)[enabler=Although these operations may not be explicit in a particular query language]
+0.698: (these operations; may not be explicit in; a particular query language)
+0.655: (a query language; is built in; the foundation)
+0.525: (these operations; may be; not be explicit)
 
-.
-No extractions found.
+The flat model consists of a single, two_dimensional array of data elements, where all members of a given column are assumed to be similar values, and all members of a row are assumed to be related to one another.
+0.888: (The flat model; consists of; a single , two_dimensional array of data elements)
+0.705: (all members of a given column; are assumed; similar values)
+0.564: (all members of a given column; are assumed in; data elements)
 
-{.
+ For instance, columns for name and password that might be used as a part of a system security database.
 No extractions found.
 
-    });.
-No extractions found.
+ Each row would have the specific password associated with an individual user.
+0.853: (Each row; would have; the specific password associated with an individual user)
+0.741: (the specific password; be associated with; an individual user)
 
- .
-No extractions found.
+ Columns of the table often have a type associated with them, defining them as character data, date or time information, integers, or floating point numbers.
+0.768: (Columns of the table; often have; a type associated with them)
+0.73: (a type; be associated with; them)
+0.694: (Columns of the table; often have a type associated with them defining them as; character data , date or time information , integers , or floating point numbers)
+0.653: (them; be defining as; character data , date or time information , integers , or floating point numbers)
+0.521: (Columns of the table; often have a type associated with them defining; them)
 
- .
-No extractions found.
+ This tabular format is a precursor to the relational model.
+0.916: (This tabular format; is a precursor to; the relational model)
+0.746: (This tabular format; is; a precursor)
 
-    {.
-No extractions found.
+These models were popular in the 1960s, 1970s, but nowadays can be found primarily in old legacy systems.
+0.746: (These models; were popular in; the 1960s)
+0.738: (These models; were; popular)
 
-        {.
+ They are characterized primarily by being navigational with strong connections between their logical and physical representations, and deficiencies in data independence.
 No extractions found.
 
-            {.
-No extractions found.
+In a hierarchical model, data is organized into a tree_like structure, implying a single parent for each record.
+0.914: (data; is organized into; a tree_like structure)
+0.833: (data; is organized in; a hierarchical model)
 
-            }.
-No extractions found.
+ A sort field keeps sibling records in a particular order.
+0.776: (A sort field; keeps sibling records in; a particular order)
+0.713: (A sort field; keeps sibling; records)
+0.674: (records; be sibling in; a particular order)
 
-        }.
-No extractions found.
+ Hierarchical structures were widely used in the early mainframe database management systems, such as the Information Management System by IBM, and now describe the structure of XML documents.
+0.9: (Hierarchical structures; were widely used in; the early mainframe database management systems)
+0.748: (Hierarchical structures; were widely used by; IBM)
 
-    }.
-No extractions found.
+ This structure allows one one_to_many relationship between two types of data.
+0.807: (This structure; allows; one one_to_many relationship)
 
- .
-No extractions found.
+ This structure is very efficient to describe many relationships in the real world  recipes, table of contents, ordering of paragraphs verses, any nested and sorted information.
+0.825: (This structure; is very; efficient)
+0.7: (many relationships; be table of; contents)
 
-    {.
-No extractions found.
+This hierarchy is used as the physical order of records in storage.
+0.948: (This hierarchy; is used as; the physical order of records)
 
-        {.
-No extractions found.
+ Record access is done by navigating downward through the data structure using pointers combined with sequential accessing.
+0.793: (pointers; be combined with; sequential accessing)
 
-            {.
-No extractions found.
+ Because of this, the hierarchical structure is inefficient for certain database operations when a full path is not also included for each record.
+0.914: (a full path; is not also included for; each record)
+0.787: (the hierarchical structure; is inefficient for; certain database operations)[enabler=when a full path is not also included for each record]
 
-            }.
-No extractions found.
+ Such limitations have been compensated for in later IMS versions by additional logical hierarchies imposed on the base physical hierarchy.
+0.705: (additional logical hierarchies; be imposed on; the base physical hierarchy)
 
-        }.
-No extractions found.
+The network model expands upon the hierarchical structure, allowing many_to_many relationships in a tree_like structure that allows multiple parents.
+0.855: (The network model; expands upon; the hierarchical structure)
+0.627: (The network model; expands allowing; many_to_many relationships)
+0.62: (multiple parents; be allows by; a tree_like structure)
 
-    }.
-No extractions found.
+ It was most popular before being replaced by the relational model, and is defined by the CODASYL specification.
+0.649: (It; was; popular)
+0.602: (It; is defined by; the CODASYL specification)
 
-}.
+The network model organizes data using two fundamental concepts, called records and sets.
 No extractions found.
 
-.
-No extractions found.
+ Records contain fields .
+0.784: (Records; contain; fields)
 
-.
-No extractions found.
+ Sets define one_to_many relationships between records  one owner, many members.
+0.652: (Sets; define; one_to_many relationships)
 
-.
-No extractions found.
+ A record may be an owner in any number of sets, and a member in any number of sets.
+0.923: (A record; may be an owner in; any number of sets)
+0.838: (A record; may be; an owner in any number of sets , and a member)
+0.612: (A record; may be a member in; any number of sets)
+0.268: (A record; may be a member of; any number of sets)
 
-The tree is one of the most powerful of the advanced data structures and it often pops up in even more advanced subjects such as AI and compiler design.
-0.736: (The tree; is; one of the most powerful of the advanced data structures)
-0.731: (it; often pops up in; advanced subjects)
-0.701: (The tree; often pops up in; advanced subjects)
-0.443: (it; is; one of the most powerful of the advanced data structures)
+A set consists of circular linked lists where one record type, the set owner or parent, appears once in each circle, and a second record type, the subordinate or child, may appear multiple times in each circle.
+0.908: (a second record type; may appear multiple times in; each circle)
+0.874: (A set; may appear multiple times in; each circle)
+0.809: (one record type; appears once in; each circle)
+0.772: (a second record type; may appear; multiple times)
+0.758: (A set; consists may of; circular linked lists where one record type , the set owner or parent , appears once in each circle)
+0.703: (A set; may appear; multiple times)
+0.686: (a second record type; consists may of; circular linked lists where one record type , the set owner or parent , appears once in each circle)
 
- Surprisingly though the tree is important in a much more basic application _ namely the keeping of an efficient index.
-0.644: (the tree; Surprisingly is important in; a much more basic application)
-0.632: (the tree; Surprisingly is; important)
+ In this way a hierarchy may be established between any two record types, e.
+0.894: (a hierarchy; may be established between; any two record types)
+0.754: (a hierarchy; may be established in; this way)
 
- .
+g.
 No extractions found.
 
-.
+, type A is the owner of B.
 No extractions found.
 
-.
-No extractions found.
+ At the same time another set may be defined where B is the owner of A.
+0.858: (B; is the owner of; A.)
+0.754: (another set; may be defined at; the same time)
+0.619: (B; is; the owner of A.)
 
- .
+ Thus all the sets comprise a general directed graph , or network construct.
 No extractions found.
 
- .
-No extractions found.
+ Access to records is either sequential or by navigation in the circular linked lists.
+0.754: (Access; is; sequential or by)
 
-.
-No extractions found.
+The network model is able to represent redundancy in data more efficiently than in the hierarchical model, and there can be more than one path from an ancestor node to a descendant.
+0.857: (The network model; can be; able to represent redundancy in data more efficiently than in the hierarchical model , and there can be more than one path)
+0.774: (The network model; can be than one path from; an ancestor node)
+0.763: (The network model; is can; able to represent redundancy in data more efficiently than in the hierarchical model , and there can be more than one path)
+0.599: (The network model; to represent more efficiently than in the hierarchical model; redundancy)
 
- .
-No extractions found.
+ The operations of the network model are navigational in style  a program maintains a current position, and navigates from one record to another by following the relationships in which the record participates.
+0.798: (a program; maintains; a current position , and navigates)
+0.797: (The operations of the network model; are navigational in; style)
+0.492: (navigational; be The operations of; the network model)
 
- .
+ Records can also be located by supplying key values.
 No extractions found.
 
- .
-No extractions found.
+Although it is not an essential feature of the model, network databases generally implement the set relationships by means of pointers that directly address the location of a record on disk.
+0.798: (network databases; generally implement; the set relationships)[enabler=Although it is not an essential feature of the model]
+0.794: (it; is not an essential feature of; the model)
+0.775: (the location of a record; be directly address on; disk)
+0.505: (it; is; not an essential feature of the model)
 
-.
+ This gives excellent retrieval performance, at the expense of operations such as database loading and reorganization.
 No extractions found.
 
- .
-No extractions found.
+Popular DBMS products that utilized it were Cincom Systems  Total and Cullinet s IDMS.
+0.6: (it; were; Cincom Systems Total and Cullinet)
 
- .
-No extractions found.
+ IDMS gained a considerable customer base  in the 1980s, it adopted the relational model and SQL in addition to its original tools and languages.
+0.826: (it; adopted the relational model in; addition)
+0.804: (the relational model and SQL; be adopted in; addition)
+0.767: (it; adopted SQL in; addition)
+0.75: (it; adopted; the relational model and SQL)
+0.716: (IDMS; gained; a considerable customer base)
+0.577: (it; adopted the relational model; addition)
+0.423: (it; adopted SQL; addition)
 
-.
-No extractions found.
+Most object databases use the navigational concept to provide fast navigation across networks of objects, generally using object identifiers as  smart  pointers to related objects.
+0.798: (databases; use; the navigational concept to provide fast navigation across networks of objects)
+0.728: (fast navigation; to be provide across; networks of objects)
+0.707: (object identifiers; be generally using as; smart pointers)
+0.455: (databases; use the navigational concept to provide fast navigation across networks of objects generally using object identifiers as; smart pointers)
+0.361: (databases; use the navigational concept to provide fast navigation across networks of objects generally using; object identifiers)
 
- .
-No extractions found.
+ Objectivity DB, for instance, implements named one_to_one, one_to_many, many_to_one, and many_to_many named relationships that can cross databases.
+0.874: (Objectivity DB; implements named for; instance)
 
-.
-No extractions found.
+ Many object databases also support SQL, combining the strengths of both models.
+0.736: (Many object databases; also support; SQL)
+0.648: (Many object databases; also support SQL combining; the strengths of both models)
 
-.
-No extractions found.
+In an inverted file or inverted index, the contents of the data are used as keys in a lookup table, and the values in the table are pointers to the location of each instance of a given content item.
+0.943: (the values; are pointers to; the location of each instance of a given content item)
+0.925: (the contents of the data; are used as; keys)
+0.754: (the contents of the data; are used in; an inverted file or inverted index)
+0.351: (pointers; be the values in; the table)
 
-.
-No extractions found.
+ This is also the logical structure of contemporary database indexes, which might only use the contents from a particular columns in the lookup table.
+0.739: (the contents; might be only use from; a particular columns)
 
- .
-No extractions found.
+ The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files.
+0.855: (The inverted file data model; can put indexes in; a second set of files)
+0.808: (The inverted file data model; can put; indexes)
+0.758: (The inverted file data model; can put indexes in; order)
+0.728: (indexes; can be put in; a second set of files)
+0.587: (indexes; can be put in; order)
+0.347: (second; set of; files)
 
-.
-No extractions found.
+Notable for using this data model is the ADABAS DBMS of Software AG, introduced in 1970.
+0.809: (Notable; is the ADABAS DBMS of; Software AG)
+0.764: (Notable; is; the ADABAS DBMS of Software AG)
+0.67: (the ADABAS DBMS of Software AG; be introduced in; 1970)
 
-.
-No extractions found.
+ ADABAS has gained considerable customer base and exists and supported until today.
+0.566: (ADABAS; has supported until; today)
+0.565: (ADABAS; has gained; considerable customer base)
 
- .
-No extractions found.
+ In the 1980s it has adopted the relational model and SQL in addition to its original tools and languages.
+0.723: (it; has adopted the relational model in; addition)
+0.694: (it; has adopted; the relational model and SQL)
+0.643: (it; has adopted SQL in; addition)
+0.453: (it; has adopted the relational model in; 1980s)
+0.364: (it; has adopted SQL in; 1980s)
 
-Whenever you use a database there is a 99% chance that an index is involved somewhere.
-0.774: (you; use; a database)
+Document_oriented database Clusterpoint uses inverted indexing model to provide fast full_text search for XML or JSON data objects and to deliver scale out ability for Big data.
+0.827: (Document_oriented database Clusterpoint; uses inverted; indexing model to provide fast full_text search for XML or JSON data objects and to deliver scale out ability for Big data)
+0.587: (scale; to to be deliver out; ability)
 
- The simplest type of index is a sorted listing of the key field.
-0.93: (The simplest type of index; is a sorted listing of; the key field)
-0.778: (The simplest type of index; is; a sorted listing of the key field)
-0.492: (a sorted listing of the key field; be The simplest type of; index)
+ Clusterpoint has built_in computing engine that allows execution of a combined SQL query, free text search and JavaScript code right inside the distributed database.
+0.653: (Clusterpoint; has built in computing; engine that allows execution of a combined SQL query , free text search and JavaScript code right inside the distributed database)
+0.564: (execution of a combined SQL query , free text search and JavaScript code right; be allows by; engine)
 
- This provides a fast lookup because you can use a binary search to locate any item without having to look at each one in turn.
-0.826: (you; can use; a binary search to locate any item without having to look at each one in turn)
+ Both data and inverted index through scalable sharding and replication can be distributed across a large number of servers to support billions of data objects in the same Clusterpoint database.
+0.948: (Both data and inverted index; can be distributed across; a large number of servers)
+0.645: (billions of data objects; to be support in; the same Clusterpoint database)
 
- .
-No extractions found.
+ Clusterpoint query language JS SQL blends together SQL and JavaScript syntax with full text search, where inverted index is being used to deliver milliseconds_range text search performance and relevant pagination in web and mobile applications.
+0.778: (inverted index; to deliver; milliseconds_range text search performance and relevant pagination)
+0.434: (inverted index; is being used in; full text search)
 
-.
-No extractions found.
+ In Clusterpoint database architecture inverted index also supports programmable relevance ranking enabling to customize search output without extra coding efforts.
+0.837: (inverted index; also supports; programmable relevance ranking enabling to customize search output without extra coding efforts)
+0.708: (search output; to be customize without; extra coding efforts)
+0.303: (inverted index; also supports programmable relevance ranking enabling to customize search output without extra coding efforts in; Clusterpoint database architecture)
 
- .
-No extractions found.
+ Similarly to relational databases, Clusterpoint supports distributed ACID_compliant database transactions for strong document database consistency, where inverted index data is immediately updated along any XML or JSON document content updates.
+0.913: (inverted index data; is immediately updated along; any XML or JSON document content updates)
+0.564: (inverted index data; is immediately updated in; strong document database consistency)
 
- .
-No extractions found.
+ Inverted index is also used to support near real_time Big data reporting, analytics, drill_down and data mining over REST API in Clusterpoint database.
+0.848: (Inverted index; to support near; real_time Big data reporting , analytics , drill_down and data mining)
 
- .
-No extractions found.
+The relational model was introduced by E.
+0.905: (The relational model; was introduced by; E.)
 
-.
+F.
 No extractions found.
 
- .
-No extractions found.
+ Codd in 1970 as a way to make database management systems more independent of any particular application.
+0.631: (database management systems; be independent of; any particular application)
 
- .
-No extractions found.
+ It is a mathematical model defined in terms of predicate logic and set theory, and systems implementing it have been used by mainframe, midrange and microcomputer systems.
+0.903: (a mathematical model; defined in; terms of predicate logic)
+0.869: (it; have been used by; mainframe , midrange and microcomputer systems)
+0.554: (It; is; a mathematical model)
 
-.
-No extractions found.
+The products that are generally referred to as relational databases in fact implement a model that is only an approximation to the mathematical model defined by Codd.
+0.874: (a model; is only an approximation to; the mathematical model defined by Codd)
+0.73: (relational databases; implement; a model that is only an approximation to the mathematical model)
+0.669: (the mathematical model; be defined by; Codd)
 
- .
-No extractions found.
+ Three key terms are used extensively in relational database models  relations, attributes, and domains.
+0.9: (Three key terms; are used extensively in; relational database models relations)
 
-.
-No extractions found.
+ A relation is a table with columns and rows.
+0.916: (A relation; is a table with; columns and rows)
+0.746: (A relation; is; a table)
 
-.
+ The named columns of the relation are called attributes, and the domain is the set of values the attributes are allowed to take.
 No extractions found.
 
-.
-No extractions found.
+The basic data structure of the relational model is the table, where information about a particular entity is represented in rows and columns.
+0.914: (information; is represented in; rows and columns)
+0.802: (The basic data structure of the relational model; is; the table where information about a particular entity is represented in rows and columns)
+0.492: (the table where information about a particular entity is represented in rows and columns; be The basic data structure of; the relational model)
 
-In a tree, all nodes share common construct.
-0.569: (all nodes; share in; a tree)
+ Thus, the  relation  in  relational database  refers to the various tables in the database  a relation is a set of tuples.
+0.926: (a relation; is a set of; tuples)
+0.874: (the relation; Thus refers in; the database a relation is a set of tuples)
+0.834: (the relation; Thus refers to; the various tables)
+0.768: (a relation; is; a set of tuples)
 
-.
-No extractions found.
+ The columns enumerate the various attributes of the entity , and a row is an actual instance of the entity that is represented by the relation.
+0.953: (a row; is an actual instance of; the entity that is represented by the relation)
+0.915: (The columns; is an actual instance of; the entity that is represented by the relation)
+0.784: (The columns; enumerate; the various attributes of the entity)
+0.724: (a row; is; an actual instance of the entity)
+0.626: (a row; enumerate; the various attributes of the entity)
+0.584: (The columns; is; an actual instance of the entity)
 
-.
-No extractions found.
+ As a result, each tuple of the employee table represents various attributes of a single employee.
+0.825: (each tuple of the employee table; represents; various attributes of a single employee)
+0.613: (each tuple of the employee table; represents various attributes of a single employee as; a result)
 
-.
-No extractions found.
+All relations in a relational database have to adhere to some basic rules to qualify as relations.
+0.85: (All relations; have to adhere to; some basic rules)
 
-.
-No extractions found.
+ First, the ordering of columns is immaterial in a table.
+0.785: (the ordering of columns; First is immaterial in; a table)
+0.733: (the ordering of columns; First is; immaterial)
+0.399: (immaterial; be the ordering of; columns)
 
-.
+ Second, there can t be identical tuples or rows in a table.
 No extractions found.
 
-.
-No extractions found.
+ And third, each tuple will contain a single value for each of its attributes.
+0.798: (each tuple; will contain; a single value)
 
-.
-No extractions found.
+A relational database contains multiple tables, each similar to the one in the  flat  database model.
+0.74: (A relational database; contains; multiple tables)
 
-.
-No extractions found.
+ One of the strengths of the relational model is that, in principle, any value occurring in two different records , implies a relationship among those two records.
+0.833: (any value occurring in two different records; implies; a relationship)
+0.729: (any value; occurring in; two different records)
+0.667: (any value occurring in two different records; implies a relationship among those two records in; principle)
 
-Education.
+ Yet, in order to enforce explicit integrity constraints, relationships between records in tables can also be defined explicitly, by identifying or non_identifying parent_child relationships characterized by assigning cardinality 1 M, M M .
 No extractions found.
 
-Now that you know how trees can be utilized in real world development projects, and you know that a tree is a type of graph, let's walk through the types of trees that are available to use.
-0.914: (trees; can be utilized in; real world development projects)
-0.852: (a tree; is a type of; graph)
-0.608: (a tree; is; a type of graph)
-
-.
-No extractions found.
+ Tables can also have a designated single attribute or a set of attributes that can act as a  key , which can be used to uniquely identify each tuple in the table.
+0.799: (Tables; can also have; a designated single attribute or a set of attributes)
+0.645: (each tuple; to be uniquely identify in; the table)
 
-.
-No extractions found.
+A key that can be used to uniquely identify a row in a table is called a primary key.
+0.707: (A key that can be used to uniquely identify a row in a table; is called; a primary key)
+0.59: (a row; to be uniquely identify in; a table)
 
-.
-No extractions found.
+ Keys are commonly used to join or combine data from two or more tables.
+0.778: (data; be combine from; two or more tables)
 
-.
-No extractions found.
+ For example, an Employee table may contain a column named Location which contains a value that matches the key of a Location table.
+0.757: (an Employee table; may contain; a column named Location)
+0.564: (a value that matches the key of a Location table; be contains by; Location)
+0.564: (the key of a Location table; be matches by; a value)
+0.2: (a column named Location; may be contain for; example)
+0.165: (an Employee table; may contain a column named Location which contains a value that matches the key of a Location table for; example)
 
-.
-No extractions found.
+ Keys are also critical in the creation of indexes, which facilitate fast retrieval of data from large tables.
+0.857: (Keys; are also critical in; the creation of indexes)
 
-.
-No extractions found.
+ Any column can be a key, or multiple columns can be grouped together into a compound key.
+0.914: (a key , or multiple columns; can be grouped together into; a compound key)
+0.717: (Any column; can be; a key , or multiple columns)
 
-Summary: This article, the third in a six_part series on data structures in the .
-No extractions found.
+ It is not necessary to define all the keys in advance  a column can be used as a key even if it was not originally intended to be one.
+0.894: (a column; can be used as; a key)
+0.655: (a column; can be used in; all the keys)
+0.646: (It; to define; all the keys a column can be used as a key even if it was not originally intended to be one)
+0.577: (It; is; not necessary)
+0.039: (it; even was not originally intended; one)
 
-NET Framework, looks at a common data structure that is not included in the .
-0.919: (NET Framework; looks at; a common data structure that is not included in the)
+A key that has an external, real_world meaning is sometimes called a  natural  key.
+0.752: (real_world meaning; is sometimes called; a natural key)
 
-NET Framework Base Class Library—binary trees.
-No extractions found.
+ If no natural key is suitable , an arbitrary or surrogate key can be assigned .
+0.071: (no natural key; is; suitable)
 
- Whereas arrays arrange data linearly, binary trees can be envisioned as storing data in two dimensions.
-0.925: (binary trees; can be envisioned as; storing data)[enabler=Whereas arrays arrange data linearly]
-0.404: (arrays; arrange linearly; data)
+ In practice, most databases have both generated and natural keys, because generated keys can be used internally to create links between rows that cannot break, while natural keys can be used, less reliably, for searches and for integration with other databases.
+0.72: (keys; to create; links)
+0.497: (most databases; have in; practice)
 
- A special kind of binary tree, called a binary search tree, or BST, allows for a much more optimized search time than with unsorted arrays.
-0.884: (a binary search tree , or BST; allows for; a much more optimized search time)
+  For example, records in two independently developed databases could be matched up by social security number, except when the social security numbers are incorrect, missing, or have changed.
+0.914: (databases; could be matched up by; social security number)
+0.39: (records; independently developed for; example)
 
  .
 No extractions found.
 
+The most common query language used with the relational model is the Structured Query Language .
+0.763: (The most common query language; be used with; the relational model)
+0.703: (The most common query language used with the relational model; is; the Structured Query Language)
+
+The dimensional model is a specialized adaptation of the relational model used to represent data in data warehouses in a way that data can be easily summarized using online analytical processing, or OLAP queries.
+0.888: (The dimensional model; is a specialized adaptation of; the relational model)
+0.88: (a specialized adaptation of the relational model; used to represent data in; data warehouses)
+0.798: (a specialized adaptation of the relational model; to represent data in; data warehouses)
+0.784: (a specialized adaptation of the relational model; used to represent; data)
+0.726: (a specialized adaptation of the relational model; to represent; data)
+0.679: (data; to be represent in; data warehouses)
+0.676: (The dimensional model; is; a specialized adaptation of the relational model)
+
+ In the dimensional model, a database schema consists of a single large table of facts that are described using dimensions and measures.
+0.882: (a database schema; consists of; a single large table of facts)
+0.613: (a database schema; consists in; the dimensional model)
+
+ A dimension provides the context of a fact and is used in queries to group related facts together.
+0.882: (A dimension; is used in; queries to group related facts together)
+0.799: (A dimension; provides; the context of a fact)
+
+ Dimensions tend to be discrete and are often hierarchical  for example, the location might include the building, state, and country.
+0.729: (the location; might include; the building)
+0.45: (Dimensions; are often hierarchical for; example)
+
+ A measure is a quantity describing the fact, such as revenue.
+0.802: (A measure; is; a quantity describing the fact , such as revenue)
+
+ It is important that measures can be meaningfully aggregated for example, the revenue from different locations can be added together.
+0.595: (measures; can be meaningfully aggregated for; example)
+0.577: (It; is; important)
+
+In an OLAP query, dimensions are chosen and the facts are grouped and aggregated together to create a summary.
+0.754: (dimensions; are chosen in; an OLAP query)
+0.754: (the facts; are chosen in; an OLAP query)
+
+The dimensional model is often implemented on top of the relational model using a star schema, consisting of one highly normalized table containing the facts, and surrounding denormalized tables containing each dimension.
+0.94: (The dimensional model; is often implemented on; top of the relational model)
+
+ An alternative physical implementation, called a snowflake schema, normalizes multi_level hierarchies within a dimension into multiple tables.
+0.816: (An alternative physical implementation; called; a snowflake schema)
+
+A data warehouse can contain multiple dimensional schemas that share dimension tables, allowing them to be used together.
+0.841: (A data warehouse; can contain; multiple dimensional schemas)
+
+ Coming up with a standard set of dimensions is an important part of dimensional modeling.
+0.611: (important; is part of; dimensional modeling)
+0.473: (standard; set of; dimensions)
+
+Its high performance has made the dimensional model the most popular database structure for OLAP.
+0.726: (the dimensional model; be the most popular database structure for; OLAP.)
+
+Products offering a more general data model than the relational model are sometimes classified as post_relational.
+0.862: (Products; are sometimes classified as; post_relational)
+
+ Alternate terms include  hybrid database ,  Object_enhanced RDBMS  and others.
+0.632: (terms; include; hybrid database , Object_enhanced RDBMS and others)
+
+ The data model in such products incorporates relations but is not constrained by E.
+0.74: (The data model; incorporates; relations)
+
+F.
+No extractions found.
+
+ Codd s Information Principle, which requires that.
+0.504: (Codd; s; Information Principle)
+
+all information in the database must be cast explicitly in terms of values in relations and in no other way.
+0.948: (all information; must be cast explicitly in; terms of values)
+
+Some of these extensions to the relational model integrate concepts from technologies that pre_date the relational model.
+0.802: (concepts; be integrate from; technologies that pre_date the relational model)
+
+ For example, they allow representation of a directed graph with trees on the nodes.
+0.89: (they; allow; representation of a directed graph)
+0.201: (they; allow representation of a directed graph with trees on the nodes for; example)
+
+ The German company sones implements this concept in its GraphDB.
+0.808: (The German company sones; implements this concept in; its GraphDB.)
+0.807: (The German company sones; implements; this concept)
+
+Some post_relational products extend relational systems with non_relational features.
+0.83: (Some post_relational products; extend relational systems with; non_relational features)
+0.793: (Some post_relational products; extend; relational systems)
+
+ Others arrived in much the same place by adding relational features to pre_relational systems.
+0.837: (Others; arrived; the same place)
+0.789: (Others; arrived the same place in; much)
+0.674: (relational features; be adding to; pre_relational systems)
+0.572: (the same place; be arrived in; much)
+0.455: (Others; arrived the same place; much)
+
+ Paradoxically, this allows products that are historically pre_relational, such as PICK and MUMPS, to make a plausible claim to be post_relational.
+0.751: (a plausible claim; to be; post_relational)
+
+The resource space model is a non_relational data model based on multi_dimensional classification.
+0.802: (The resource space model; is; a non_relational data model based on multi_dimensional classification)
+0.793: (a non_relational data model; be based on; multi_dimensional classification)
+0.723: (The resource space model; is a non relational data model on; multi_dimensional classification)
+
+Graph databases allow even more general structure than a network database  any node may be connected to any other node.
+0.823: (any node; may be connected to; any other node)
+0.783: (Graph databases; allow; general structure)
+
+Multivalue databases are  lumpy  data, in that they can store exactly the same way as relational databases, but they also permit a level of depth which the relational model can only approximate using sub_tables.
+0.781: (they; also permit; a level of depth)
+0.776: (they; can store exactly the same way as; relational databases)
+0.775: (they; can store; the same way)
+0.658: (the same way; can be store as; relational databases)
+
+ This is nearly identical to the way XML expresses data, where a given field attribute can have multiple right answers at the same time.
+0.834: (a given field attribute; can have multiple right answers at; the same time)
+0.798: (a given field attribute; can have; multiple right answers)
+0.708: (multiple right answers; can be have at; the same time)
+
+ Multivalue can be thought of as a compressed form of XML.
+0.305: (compressed; be form of; XML.)
+
+An example is an invoice, which in either multivalue or relational data could be seen as Invoice Header Table _ one entry per invoice, and Invoice Detail Table _ one entry per line item.
+0.776: (An example; is; an invoice , which in either multivalue or relational data could be seen as Invoice Header Table _ one entry per invoice , and Invoice Detail Table)
+0.497: (An example; be Invoice Detail Table  ; one entry)
+
+ In the multivalue model, we have the option of storing the data as on table, with an embedded table to represent the detail  Invoice Table _ one entry per invoice, no other tables needed.
+0.711: (we; have; the option storing the data as on table)
+0.56: (Invoice Table; be one entry per; invoice)
+0.429: (we; have the option of storing the data as on table with; an embedded table)
+0.193: (we; have the option of storing the data as on table to represent; the detail)
+0.193: (we; have the option of storing the data as on table in; the multivalue model)
+
+The advantage is that the atomicity of the Invoice and the Invoice are one_to_one.
+0.384: (one_to_one; be the atomicity of; the Invoice and the Invoice)
+
+ This also results in fewer reads, less referential integrity issues, and a dramatic decrease in the hardware needed to support a given transaction volume.
+No extractions found.
+
+In the 1990s, the object_oriented programming paradigm was applied to database technology, creating a new database model known as object databases.
+0.914: (the object_oriented programming paradigm; was applied to; database technology)
+0.829: (a new database model; be known as; object databases)
+0.795: (the object_oriented programming paradigm; was applied in; 1990s)
+
+ This aims to avoid the object_relational impedance mismatch _ the overhead of converting information between its representation in the database and its representation in the application program .
+0.86: (the object_relational impedance mismatch;  ; the overhead of converting information)
+
+ Even further, the type system used in a particular application can be defined directly in the database, allowing the database to enforce the same data integrity invariants.
+0.893: (the type system used in a particular application; Even further can be defined directly in; the database)
+0.763: (the database; to enforce; the same data integrity invariants)
+0.742: (the type system; be used in; a particular application)
+
+ Object databases also introduce the key ideas of object programming, such as encapsulation and polymorphism, into the world of databases.
+0.784: (Object databases; also introduce; the key ideas of object programming)
+0.642: (Object databases; also introduce the key ideas of object programming , such as encapsulation and polymorphism into; the world of databases)
+
+A variety of these ways have been triedfor storing objects in a database.
+0.745: (A variety of these ways; have been triedfor storing objects in; a database)
+0.697: (A variety of these ways; have been triedfor storing; objects)
+0.674: (objects; be storing in; a database)
+
+ Some products have approached the problem from the application programming end, by making the objects manipulated by the program persistent.
+0.796: (Some products; have approached the problem from; the application programming end)
+0.795: (Some products; have approached; the problem)
+0.793: (the objects; be manipulated by; the program persistent)
+
+ This typically requires the addition of some kind of query language, since conventional programming languages do not have the ability to find objects based on their information content.
+0.734: (objects; be based on; their information content)
+0.73: (conventional programming languages; do not have; the ability to find objects)
+
+ Others have attacked the problem from the database end, by defining an object_oriented data model for the database, and defining a database programming language that allows full programming capabilities as well as traditional query facilities.
+0.796: (Others; have attacked the problem from; the database end)
+0.795: (Others; have attacked; the problem)
+0.564: (full programming capabilities; be allows by; a database programming language)
+
+Object databases suffered because of a lack of standardization  although standards were defined by ODMG, they were never implemented well enough to ensure interoperability between products.
+0.931: (Object databases; suffered because of; a lack of standardization although standards were defined by ODMG , they were never implemented well enough to ensure interoperability between products)
+0.817: (standards; were defined by; ODMG)
+
+ Nevertheless, object databases have been used successfully in many applications  usually specialized applications such as engineering databases or molecular biology databases rather than mainstream commercial data processing.
+0.609: (many applications; usually specialized; applications)
+
+ However, object database ideas were picked up by the relational vendors and influenced extensions made to these products and indeed to the SQL language.
+0.869: (object database ideas; However were picked up by; the relational vendors)
+
+An alternative to translating between objects and relational databases is to use an object_relational mapping library.
+0.782: (An alternative; is to use; an object_relational mapping library)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Common logical data models for databases include .
+No extractions found.
+
 .
 No extractions found.
 
@@ -3361,6 +631,51 @@ No extractions found.
 .
 No extractions found.
 
+A Database model defines the logical design of data.
+0.833: (A Database model; defines; the logical design of data)
+
+ The model describes the relationships between different parts of the data.
+0.807: (The model; describes; the relationships)
+0.303: (different; be parts of; the data)
+
+ Historically, in database design, three models are commonly used.
+0.764: (three models; Historically are commonly used in; database design)
+
+ They are,.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     .
+No extractions found.
+
+High_level Conceptual Data models.
+No extractions found.
+
+.
+No extractions found.
+
+Database systems can be based on different data models or database models respectively.
+0.9: (Database systems; can be based on; different data models or database models)
+
+ A data model is a collection of concepts and rules for the description of the structure of the database.
+0.939: (A data model; is a collection of; concepts and rules)
+0.922: (A data model; is a collection of concepts for; the description of the structure of the database)
+0.736: (A data model; is; a collection of concepts)
+
+ Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
+0.74: (Structure of the database; means; the data types)
+
+ The most often used data models are .
+No extractions found.
+
 .
 No extractions found.
 
@@ -3370,140 +685,93 @@ No extractions found.
 .
 No extractions found.
 
-Now that we have studied linear data structures like stacks and queues and have some experience with recursion, we will look at a common data structure called the tree.
-0.587: (we; have studied; linear data structures)
-0.494: (we; Now will look at; a common data structure)[enabler=that we have studied linear data structures like stacks and queues and have some experience with recursion]
-0.429: (we; have have; some experience)
-
- Trees are used in many areas of computer science, including operating systems, graphics, database systems, and computer networking.
-0.94: (Trees; are used in; many areas of computer science)
-0.82: (Trees; are used of; computer science)
-0.815: (Trees; are used including; operating systems , graphics , database systems , and computer networking)
-
- Tree data structures have many things in common with their botanical cousins.
-0.793: (Tree data structures; have; many things)
-0.778: (Tree data structures; have many things in common with; their botanical cousins)
-
- A tree data structure has a root, branches, and leaves.
-0.692: (A tree data structure; has; a root)
-
- The difference between a tree in nature and a tree in computer science is that a tree data structure has its root at the top and its leaves on the bottom.
-0.755: (a tree data structure; has its root at; the top and its leaves)
-0.584: (a tree data structure; has; its root)
-0.465: (a tree data structure; is in; The difference)
-
-Even though computers can perform literally millions of mathematical computations per second, when a problem gets large and complicated, performance can nonetheless be an important consideration.
-0.751: (performance; can nonetheless be; an important consideration)
-0.729: (computers; Even can perform literally; millions of mathematical computations)
-0.614: (a problem; gets; large and complicated)
-
- One of the most crucial aspects to how quickly a problem can be solved is how the data is stored in memory.
-0.82: (One of the most crucial aspects; to is is stored in; memory)
-0.811: (the data; to is is stored in; memory)
-
- To illustrate this point, consider going to the local library to find a book about a specific subject matter.
+Data models define how the logical structure of a database is modeled.
 No extractions found.
 
- Most likely, you will be able to use some kind of electronic reference or, in the worst case, a card catalog, to determine the title and author of the book you want.
-0.83: (you; will be; able)
-0.822: (you; to use; some kind of electronic reference)
-0.668: (you; will be able in; the worst case)
+ Data Models are fundamental entities to introduce abstraction in a DBMS.
+0.691: (abstraction; to be introduce in; a DBMS.)
 
- Since the books are typically shelved by category, and within each category sorted by author’s name, it is a fairly straightforward and painless process to then physically select your book from the shelves.
+ Data models define how data is connected to each other and how they are processed and stored inside the system.
+0.92: (they; be stored inside; the system)[attrib=Data models define]
+0.894: (data; is connected to; each other)[attrib=Data models define]
+0.852: (they; is connected to; each other)[attrib=Data models define]
+0.807: (data; be stored inside; the system)[attrib=Data models define]
+
+Entity   An entity in an ER Model is a real_world entity having properties called attributes.
+0.718: (Entity; is; a real_world entity having properties)
+0.561: (Entity; be An entity in; an ER Model)
+
+ Every attribute is defined by its set of values called domain.
 No extractions found.
 
- Now, suppose instead you came to the library in search of a particular book, but instead of organized shelves, were greeted with large garbage bags lining both sides of the room, each arbitrarily filled with books that may or may not have anything to do with one another.
-0.903: (you; instead came to; the library)
-0.898: (you; instead came in; search of a particular book)
-0.183: (search of a particular book; instead came to; you)
+ For example, in a school database, a student is considered as an entity.
+0.914: (a student; is considered as; an entity)
+0.754: (a student; is considered in; a school database)
+0.46: (a student; is considered for; example)
 
- It would take hours, or even days, to find the book you needed, a comparative eternity.
+ Student has various attributes like name, age, class, etc.
+0.768: (Student; has; various attributes)
+0.343: (age; be various attributes like; name)
+
+                        .
 No extractions found.
 
- This is how software runs when data is not stored in an efficient format appropriate to the application.
-0.925: (data; is not stored in; an efficient format appropriate)
-
- Simple Data Structures The simplest data structures are primitive variables.
+.
 No extractions found.
 
- They hold a single value, and beyond that, are of limited use.
-0.913: (They; are of; limited use)
-0.784: (They; hold; a single value)
-
- When many related values need to be stored, an array is used.
+.
 No extractions found.
 
- It is assumed that the reader of this article has a solid understanding of variables and arrays.
-0.649: (the reader of this article; has; a solid understanding of variables)
-
- A somewhat more difficult concept, though equally primitive, are pointers.
+                            .
 No extractions found.
 
- Pointers, instead of holding an actual value, simply hold a memory address that, in theory, contains some useful piece of data.
-0.771: (a memory address; contains some useful piece of data in; theory)
-0.62: (some useful piece of data; be contains by; a memory address)
+                .
+No extractions found.
 
- Most seasoned C++ coders have a solid understanding of how to use pointers, and many of the caveats, while fledgling programmers may find themselves a bit spoiled by more modern "managed" languages which, for better or worse, handle pointers implicitly.
-0.807: (Most seasoned C++ coders; have; a solid understanding how to use pointers)
-0.73: (fledgling programmers; may find themselves; a bit spoiled by more modern "managed " languages)
-0.421: (Most seasoned C++ coders; be many of; the caveats)
+ .
+No extractions found.
 
- Either way, it should suffice to know that pointers "point" somewhere in memory, and do not actually store data themselves.
-0.553: (that pointers; "point; data)
+In order to understand the hierarchical data model better, let us take the example of the sample database consisting of supplier, parts and shipments.
+0.747: (us; take; the example of the sample database)
+0.723: (the sample database; consisting of; supplier , parts and shipments)
+0.676: (us; be the example of; the sample database consisting of supplier , parts and shipments)
 
- A less abstract way to think about pointers is in how the human mind remembers certain things.
-0.772: (the human mind; remembers; certain things)
+ The record structure and some sample records for supplier, parts and shipments elements are as given in following tables.
+No extractions found.
 
- Many times, a good engineer may not necessarily know a particular formula/constant/equation, but when asked, they could tell you exactly which reference to check.
-0.668: (a good engineer; may not necessarily know; a particular formula/constant/equation)
+                              .
+No extractions found.
 
- Arrays Arrays are a very simple data structure, and may be thought of as a list of a fixed length.
-0.855: (Arrays Arrays; may be thought as; a list of a fixed length)
+                                .
+No extractions found.
 
- Arrays are nice because of their simplicity, and are well suited for situations where the number of data items is known .
-0.866: (Arrays; are well suited for; situations where the number of data items is known)
-0.775: (Arrays; are nice because of; their simplicity)
-0.564: (the number of data items; is known in; situations)
+                                .
+No extractions found.
 
- Suppose you need a piece of code to calculate the average of several numbers.
-0.906: (you; need; a piece of code)
-0.893: (you; need a piece of code to calculate; the average of several numbers)
-0.88: (you; to calculate; the average of several numbers)
+ .
+No extractions found.
 
- An array is a perfect data structure to hold the individual values, since they have no specific order, and the required computations do not require any special handling other than to iterate through all of the values.
-0.854: (a perfect data structure to hold the individual values , since they have no specific order , and the required computations; do not require; any special handling other)
-0.711: (An array; is; a perfect data structure to hold the individual values , since they have no specific order , and the required computations)
-0.681: (they; have; no specific order)
+ .
+No extractions found.
 
- The other big strength of arrays is that they can be accessed randomly, by index.
-0.878: (they; can be accessed randomly by; index)
+ .
+No extractions found.
 
- For instance, if you have an array containing a list of names of students seated in a classroom, where each seat is numbered 1 through n, then studentName is a trivial way to read or store the name of the student in seat i.
-0.892: (each seat; is numbered 1 through; n)
-0.776: (each seat; is numbered; 1)
-0.753: (students; be seated in; a classroom where each seat is numbered 1 through n)
-0.564: (each seat; is numbered 1 in; a classroom)
-0.23: (you; have; an array containing a list of names of students)
+ .
+No extractions found.
 
- An array might also be thought of as a pre_bound pad of paper.
-0.924: (An array; might also be thought as; a pre_bound pad of paper)
+ .
+No extractions found.
 
- It has a fixed number of pages, each page holds information, and is in a predefined location that never changes.
-0.838: (each page; is in; a predefined location that never changes)
-0.691: (It; has of; pages)[attrib=each page holds information]
-0.68: (each page; holds; information)
-0.661: (It; has; a fixed number of pages)[attrib=each page holds information]
-0.635: (It; holds information in; each page)
+ .
+No extractions found.
 
- Linked Lists A linked list is a data structure that can hold an arbitrary number of data items, and can easily change size to add or remove items.
-0.742: (A linked list; is; a data structure that can hold an arbitrary number of data items)
+ .
+No extractions found.
 
- A linked list, at its simplest, is a pointer to a data node.
-0.932: (A linked list; is a pointer to; a data node)
-0.788: (A linked list; is; a pointer)
-0.651: (a pointer; be A linked list at; its simplest)
+ .
+No extractions found.
 
- Each data node is then composed of data , and a pointer to the next node.
-0.916: (Each data node; is then composed of; data)
+ .
+No extractions found.
 
- At the end of the list, the pointer is set to null.

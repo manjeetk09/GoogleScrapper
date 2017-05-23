@@ -1,8 +1,125 @@
-
-
-
-
-Linked List
-Tree
+1 History
+2 Examples of hierarchical data represented as relational tables
+3 See also
+4 References
+5 External links
+Tree structure
+Hierarchical query
+Hierarchical clustering
+Troels  links to Hierarchical data in RDBMSs
+Managing Hierarchical Data in MySQL 
+Hierarchical data in MySQL  parents and children in one query
+Create Hierarchy Chart from Hierarchical Database
+v
+t
+e
+Flat
+Hierarchical
+Dimensional
+Network
+Relational
+Entity relationship Enhanced
 Graph
-Stack, Queue etc.
+Object_oriented
+Entity attribute value
+Enhanced
+Associative
+Multidimensional
+Array
+Semantic
+Star schema
+XML database
+Flat file
+Column_oriented
+Document_oriented
+Object_relational
+Deductive
+Temporal
+XML data stores
+Triplestores
+Database models
+All articles with unsourced statements
+Articles with unsourced statements from March 2013
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Create a book
+Download as PDF
+Printable version
+Wikimedia Commons
+       
+          
+         
+Catal 
+ e tina
+Deutsch
+Espa ol
+Fran ais
+   
+Hrvatski
+Bahasa Indonesia
+Interlingua
+Italiano
+     
+       
+Nederlands
+   
+Portugu s
+       
+Simple English
+Svenska
+     
+          
+  
+This page was last edited on 31 August 2016, at 10 39 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+
+
+
+In the 1960 s North American Rockwell together with IBM developed a database processing language called DL I    This partnership also produced the IMS which went on to become the world s leading mainframe hierarchical DBMS of the seventies and eighties 
+IMS uses DL I to process its database 
+DL I uses hierarchies to represent relationships 
+In figure 1, the node at level 1 is called the root node and the nodes at that has no children are called leaves  For example, node 4, 5, 7, 8, 9, 10 and 11 
+Nodes that are children of the same parent are called siblings  For example, nodes 2, 3, 4 are siblings 
+For any node there is a single path called the hierarchical path from the root node  The nodes along this path are called that nodes ancestors 
+Similarly for a given node, any node along a path from that node to leaf is called its descendent 
+For example, suppose we have to find out the hierarchical path of node 10, then it will be 1 2 6 10 and the ancestors of node 10 are 1, 2 and 6 
+The height of tree is the number of levels on the longest hierarchical path from the root to a leaf  The above tree has a height  4 
+A tree is said to be balanced if every path from the root node to a leaf has the same length 

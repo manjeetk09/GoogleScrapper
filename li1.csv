@@ -1,9 +1,372 @@
-Education
+1 Examples
+2 Relationships and functions
+3 Flat model
+4 Early data models 4 1 Hierarchical model 4 2 Network model 4 3 Inverted file model
+5 Relational model 5 1 Dimensional model
+6 Post_relational database models 6 1 Graph model 6 2 Multivalue model 6 3 Object_oriented database models
+7 References
+4 1 Hierarchical model
+4 2 Network model
+4 3 Inverted file model
+5 1 Dimensional model
+6 1 Graph model
+6 2 Multivalue model
+6 3 Object_oriented database models
+Hierarchical database model
+Network model
+Relational model
+Entity relationship model Enhanced entity relationship model
+Object model
+Document model
+Entity attribute value model
+Star schema
+Enhanced entity relationship model
+Inverted index
+Flat file
+Associative model
+Multidimensional model
+Multivalue model
+Semantic model
+XML database
+Named graph
+Triplestore
+v
+t
+e
+Flat
+Hierarchical
+Dimensional
+Network
+Relational
+Entity relationship Enhanced
+Graph
+Object_oriented
+Entity attribute value
+Enhanced
+Associative
+Multidimensional
+Array
+Semantic
+Star schema
+XML database
+Flat file
+Column_oriented
+Document_oriented
+Object_relational
+Deductive
+Temporal
+XML data stores
+Triplestores
+v
+t
+e
+Architecture
+Modeling
+Structure
+Conceptual
+Logical
+Physical
+Database
+Data structure diagram
+Entity relationship model 
+Geographic
+Generic
+Semantic
+Data flow diagram
+Information model
+Object model
+Object_role modeling
+Unified Modeling Language
+Database design
+Business process modeling
+Core architecture data model
+Enterprise modelling
+Function model
+Process modeling
+XML schema
+Data Format Description Language
+v
+t
+e
+Requirements
+Theory
+Models
+Database management system
+Machine
+Server
+Application
+Connection datasource DSN
+Administrator
+Lock
+Types
+Tools
+datasource
+DSN
+Data definition
+Data manipulation
+Query information retrieval
+information retrieval
+Activity monitoring
+Audit
+Forensics
+Negative database
+Entities and relationships 
+Normalization
+Refactoring
+Abstraction layer
+Object_relational mapping
+Virtualization
+Tuning caching
+Migration
+Preservation
+Integrity
+caching
+Database_centric architecture
+Intelligent database
+Two_phase locking
+Locks with ordered sharing
+Load file
+Publishing
+Halloween Problem
+Log shipping
+Book
+Category
+WikiProject
+v
+t
+e
+Object_oriented comparison
+Relational comparison
+Document_oriented
+Graph
+NoSQL
+NewSQL
+comparison
+comparison
+Database
+ACID
+Armstrong s axioms
+CAP theorem
+CRUD
+Null
+Candidate key
+Foreign key
+Superkey
+Surrogate key
+Unique key
+Relation table column row
+View
+Transaction
+Transaction log
+Trigger
+Index
+Stored procedure
+Cursor
+Partition
+table
+column
+row
+Concurrency control
+Data dictionary
+JDBC
+XQJ
+ODBC
+Query language
+Query optimizer
+Query plan
+Administration and automation
+Query optimization
+Replication
+Database models
+Database normalization
+Database storage
+Distributed database
+Federated database system
+Referential integrity
+Relational algebra
+Relational calculus
+Relational database
+Relational DBMS
+Relational model
+Object_relational database
+Transaction processing
+v
+t
+e
+Computer programming
+Requirements engineering
+Software deployment
+Software design
+Software maintenance
+Software testing
+Systems analysis
+Formal methods
+Data modeling
+Enterprise architecture
+Functional specification
+Modeling language
+Orthogonality
+Programming paradigm
+Software
+Software archaeology
+Software architecture
+Software configuration management
+Software development methodology
+Software development process
+Software quality
+Software quality assurance
+Software verification and validation
+Structured analysis
+Agile
+Aspect_oriented
+Object orientation
+Ontology
+Service orientation
+SDLC
+Agile
+EUP
+Executable UML
+Incremental model
+Iterative model
+Prototype model
+RAD
+UP
+Scrum
+Spiral model
+V_Model
+Waterfall model
+XP
+SPICE
+CMMI
+Data model
+ER model
+Function model
+Information model
+Metamodeling
+Object model
+Systems model
+View model
+IDEF
+UML
+SysML
+Kathleen Antonelli
+Jean Bartik
+Victor Basili
+Kent Beck
+Grady Booch
+Fred Brooks
+Barry Boehm
+Danese Cooper
+Ward Cunningham
+Tom DeMarco
+Edsger W  Dijkstra
+Martin Fowler
+Adele Goldstine
+Margaret Hamilton
+C  A  R  Hoare
+Lois Haibt
+Betty Holberton
+Grace Hopper
+Watts Humphrey
+Michael A  Jackson
+Ivar Jacobson
+Alan Kay
+Stephen J  Mellor
+Marlyn Meltzer
+Bertrand Meyer
+David Parnas
+Winston W  Royce
+James Rumbaugh
+Mary Shaw
+Frances Spence
+Ruth Teitelbaum
+Klara Dan von Neumann
+Elaine Weyuker
+Niklaus Wirth
+Edward Yourdon
+Computer science
+Computer engineering
+Project management
+Risk management
+Systems engineering
+Category
+Commons
+Database management systems
+Database models
+Pages using ISBN magic links
+Articles to be merged from July 2015
+All articles to be merged
+Articles lacking in_text citations from February 2014
+All articles lacking in_text citations
+Articles with specifically marked weasel_worded phrases from October 2009
+All articles with specifically marked weasel_worded phrases
+Articles with specifically marked weasel_worded phrases from June 2012
+Articles with specifically marked weasel_worded phrases from November 2009
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Create a book
+Download as PDF
+Printable version
+Wikimedia Commons
+       
+Deutsch
+Espa ol
+     
+   
+       
+Magyar
+      
+Nederlands
+Polski
+Shqip
+     
+  
+This page was last edited on 6 February 2017, at 16 21 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
 
 
 
 
 
+
+
+Enhanced entity relationship model
+Enhanced
 
 
 

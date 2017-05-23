@@ -1,23 +1,298 @@
-1;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;4.0;0.23529411764705882;3.0
-1;https://en.wikipedia.org/wiki/List_of_data_structures;list;1.0;0.0;3.0
-2;https://en.wikipedia.org/wiki/List_of_data_structures;terms;1.5;0.058823529411764705;3.0
-2;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;4.0;0.23529411764705882;3.0
-2;https://en.wikipedia.org/wiki/List_of_data_structures;terms relating;3.5;0.058823529411764705;3.0
-2;https://en.wikipedia.org/wiki/List_of_data_structures;list;1.5;0.0;3.0
-2;https://en.wikipedia.org/wiki/List_of_data_structures;wider list;3.5;0.058823529411764705;3.0
-2;https://en.wikipedia.org/wiki/List_of_data_structures;algorithms;1.0;0.058823529411764705;3.0
-3;https://en.wikipedia.org/wiki/List_of_data_structures;running time;4.0;0.058823529411764705;3.0
-3;https://en.wikipedia.org/wiki/List_of_data_structures;comparison;1.0;0.058823529411764705;3.0
-3;https://en.wikipedia.org/wiki/List_of_data_structures;subset;1.0;0.058823529411764705;3.0
-3;https://en.wikipedia.org/wiki/List_of_data_structures;list;1.0;0.0;3.0
-3;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;4.0;0.23529411764705882;3.0
-10;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;4.0;0.23529411764705882;3.0
-10;https://en.wikipedia.org/wiki/List_of_data_structures;tree node compares;9.0;0.058823529411764705;3.0
-10;https://en.wikipedia.org/wiki/List_of_data_structures;key values;4.0;0.058823529411764705;3.0
-10;https://en.wikipedia.org/wiki/List_of_data_structures;bit slice;4.0;0.058823529411764705;3.0
-13;https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm;tree;1.0;1.0;1.5
-26;http://www.studytonight.com/data-structures/introduction-to-data-structures;linked list;4.0;0.2;3.0
-27;http://www.studytonight.com/data-structures/introduction-to-data-structures;tree;1.0;0.2;1.5
-28;http://www.studytonight.com/data-structures/introduction-to-data-structures;graph;1.0;0.2;3.0
-29;http://www.studytonight.com/data-structures/introduction-to-data-structures;queue;1.0;0.2;3.0
-29;http://www.studytonight.com/data-structures/introduction-to-data-structures;stack;1.0;0.2;3.0
+1;https://en.wikipedia.org/wiki/Hierarchical_database_model;organized;1.0;0.003355704697986577;1.0
+1;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database model;8.5;0.010067114093959731;1.0
+1;https://en.wikipedia.org/wiki/Hierarchical_database_model;tree_like structure;4.0;0.003355704697986577;1.0
+1;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.5;0.026845637583892617;1.0
+1;https://en.wikipedia.org/wiki/Hierarchical_database_model;data model;4.0;0.003355704697986577;1.0
+2;https://en.wikipedia.org/wiki/Hierarchical_database_model;records;1.0;0.006711409395973154;1.0
+2;https://en.wikipedia.org/wiki/Hierarchical_database_model;stored;1.0;0.006711409395973154;1.0
+2;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.026845637583892617;1.0
+2;https://en.wikipedia.org/wiki/Hierarchical_database_model;links;1.0;0.0;1.0
+2;https://en.wikipedia.org/wiki/Hierarchical_database_model;connected;1.0;0.003355704697986577;1.0
+3;https://en.wikipedia.org/wiki/Hierarchical_database_model;record;1.0;0.010067114093959731;1.0
+3;https://en.wikipedia.org/wiki/Hierarchical_database_model;field;1.0;0.003355704697986577;1.0
+3;https://en.wikipedia.org/wiki/Hierarchical_database_model;collection;1.0;0.003355704697986577;1.0
+3;https://en.wikipedia.org/wiki/Hierarchical_database_model;fields;1.0;0.006711409395973154;1.0
+4;https://en.wikipedia.org/wiki/Hierarchical_database_model;entity type;4.0;0.006711409395973154;1.0
+4;https://en.wikipedia.org/wiki/Hierarchical_database_model;record defines;3.5;0.003355704697986577;1.0
+4;https://en.wikipedia.org/wiki/Hierarchical_database_model;record;1.5;0.010067114093959731;1.0
+4;https://en.wikipedia.org/wiki/Hierarchical_database_model;fields;1.0;0.006711409395973154;1.0
+5;https://en.wikipedia.org/wiki/Hierarchical_database_model;record;1.0;0.010067114093959731;1.0
+5;https://en.wikipedia.org/wiki/Hierarchical_database_model;entity type corresponds;9.0;0.003355704697986577;1.0
+5;https://en.wikipedia.org/wiki/Hierarchical_database_model;relational database model;9.0;0.003355704697986577;1.0
+5;https://en.wikipedia.org/wiki/Hierarchical_database_model;table;1.0;0.010067114093959731;1.0
+5;https://en.wikipedia.org/wiki/Hierarchical_database_model;row;1.0;0.006711409395973154;1.0
+6;https://en.wikipedia.org/wiki/Hierarchical_database_model;child record;4.0;0.003355704697986577;1.0
+6;https://en.wikipedia.org/wiki/Hierarchical_database_model;parent record;3.5;0.003355704697986577;1.0
+6;https://en.wikipedia.org/wiki/Hierarchical_database_model;parent;1.5;0.016778523489932886;1.0
+6;https://en.wikipedia.org/wiki/Hierarchical_database_model;child records;4.0;0.003355704697986577;1.0
+7;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database;4.0;0.006711409395973154;1.0
+7;https://en.wikipedia.org/wiki/Hierarchical_database_model;root node;4.0;0.003355704697986577;1.0
+7;https://en.wikipedia.org/wiki/Hierarchical_database_model;traversed starting;4.0;0.003355704697986577;1.0
+7;https://en.wikipedia.org/wiki/Hierarchical_database_model;tree;1.0;0.010067114093959731;1.0
+7;https://en.wikipedia.org/wiki/Hierarchical_database_model;retrieve data;4.0;0.003355704697986577;1.0
+7;https://en.wikipedia.org/wiki/Hierarchical_database_model;order;1.0;0.003355704697986577;1.0
+8;https://en.wikipedia.org/wiki/Hierarchical_database_model;model;2.0;0.013422818791946308;1.0
+8;https://en.wikipedia.org/wiki/Hierarchical_database_model;database model created;8.0;0.003355704697986577;1.0
+8;https://en.wikipedia.org/wiki/Hierarchical_database_model;recognized;1.0;0.003355704697986577;1.0
+8;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;1.0
+11;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.010067114093959731;1.0
+11;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;4.0;0.013422818791946308;1.0
+11;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;9.0;0.010067114093959731;1.0
+11;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;1.0
+12;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;9.0;0.010067114093959731;1.0
+12;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;4.0;0.010067114093959731;1.0
+13;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;1.0
+13;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.010067114093959731;1.0
+13;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;3.5;0.010067114093959731;1.0
+13;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.010067114093959731;1.0
+13;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.010067114093959731;1.0
+13;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.020134228187919462;1.0
+14;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;9.0;0.010067114093959731;1.0
+14;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;4.0;0.010067114093959731;1.0
+14;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.026845637583892617;1.0
+14;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;4.0;0.020134228187919462;1.0
+14;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.010067114093959731;1.0
+15;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;4.5;0.020134228187919462;1.0
+15;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;8.5;0.010067114093959731;1.0
+16;https://en.wikipedia.org/wiki/Hierarchical_database_model;relational model;4.0;0.006711409395973154;1.0
+16;https://en.wikipedia.org/wiki/Hierarchical_database_model;codd;1.0;0.0;1.0
+16;https://en.wikipedia.org/wiki/Hierarchical_database_model;de facto standard;9.0;0.003355704697986577;1.0
+16;https://en.wikipedia.org/wiki/Hierarchical_database_model;virtually;1.0;0.003355704697986577;1.0
+17;https://en.wikipedia.org/wiki/Hierarchical_database_model;discussed;1.0;0.003355704697986577;1.0
+17;https://en.wikipedia.org/wiki/Hierarchical_database_model;published form;4.0;0.003355704697986577;1.0
+17;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical model;4.0;0.010067114093959731;1.0
+17;https://en.wikipedia.org/wiki/Hierarchical_database_model;relational_database implementation;4.0;0.003355704697986577;1.0
+18;https://en.wikipedia.org/wiki/Hierarchical_database_model;xml;1.0;0.0;1.0
+18;https://en.wikipedia.org/wiki/Hierarchical_database_model;late 1990s;4.0;0.003355704697986577;1.0
+18;https://en.wikipedia.org/wiki/Hierarchical_database_model;advent;1.0;0.003355704697986577;1.0
+19;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;4.0;0.013422818791946308;1.0
+19;https://en.wikipedia.org/wiki/Hierarchical_database_model;storing geographic information;9.0;0.003355704697986577;1.0
+19;https://en.wikipedia.org/wiki/Hierarchical_database_model;file systems;4.0;0.003355704697986577;1.0
+19;https://en.wikipedia.org/wiki/Hierarchical_database_model;primarily today;4.0;0.003355704697986577;1.0
+20;https://en.wikipedia.org/wiki/Hierarchical_database_model;widely;1.0;0.006711409395973154;1.0
+20;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical databases;4.0;0.010067114093959731;1.0
+20;https://en.wikipedia.org/wiki/Hierarchical_database_model;banking;1.0;0.003355704697986577;1.0
+20;https://en.wikipedia.org/wiki/Hierarchical_database_model;require;1.0;0.003355704697986577;1.0
+20;https://en.wikipedia.org/wiki/Hierarchical_database_model;telecommunications;1.0;0.0;1.0
+20;https://en.wikipedia.org/wiki/Hierarchical_database_model;applications;1.0;0.0;1.0
+20;https://en.wikipedia.org/wiki/Hierarchical_database_model;high performance;4.0;0.003355704697986577;1.0
+20;https://en.wikipedia.org/wiki/Hierarchical_database_model;availability;1.0;0.0;1.0
+21;https://en.wikipedia.org/wiki/Hierarchical_database_model;ims;1.0;0.0;1.0
+21;https://en.wikipedia.org/wiki/Hierarchical_database_model;commercial hierarchical databases;9.0;0.003355704697986577;1.0
+21;https://en.wikipedia.org/wiki/Hierarchical_database_model;widely;1.0;0.006711409395973154;1.0
+22;https://en.wikipedia.org/wiki/Hierarchical_database_model;windows registry;4.0;0.003355704697986577;1.0
+22;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical databases;4.0;0.010067114093959731;1.0
+23;https://en.wikipedia.org/wiki/Hierarchical_database_model;store employee information;8.5;0.003355704697986577;1.0
+23;https://en.wikipedia.org/wiki/Hierarchical_database_model;department number;4.0;0.003355704697986577;1.0
+23;https://en.wikipedia.org/wiki/Hierarchical_database_model;attributes columns;4.0;0.003355704697986577;1.0
+23;https://en.wikipedia.org/wiki/Hierarchical_database_model;employee number;4.5;0.003355704697986577;1.0
+23;https://en.wikipedia.org/wiki/Hierarchical_database_model;table;1.0;0.010067114093959731;1.0
+23;https://en.wikipedia.org/wiki/Hierarchical_database_model;organization;1.0;0.0;1.0
+24;https://en.wikipedia.org/wiki/Hierarchical_database_model;needed;1.0;0.003355704697986577;1.0
+24;https://en.wikipedia.org/wiki/Hierarchical_database_model;computer equipment;4.0;0.006711409395973154;1.0
+24;https://en.wikipedia.org/wiki/Hierarchical_database_model;assigned;1.0;0.003355704697986577;1.0
+24;https://en.wikipedia.org/wiki/Hierarchical_database_model;computer hardware;4.0;0.003355704697986577;1.0
+24;https://en.wikipedia.org/wiki/Hierarchical_database_model;employee;1.0;0.020134228187919462;1.0
+24;https://en.wikipedia.org/wiki/Hierarchical_database_model;organization;1.0;0.0;1.0
+25;https://en.wikipedia.org/wiki/Hierarchical_database_model;computer hardware information;9.0;0.003355704697986577;1.0
+25;https://en.wikipedia.org/wiki/Hierarchical_database_model;includes;1.0;0.003355704697986577;1.0
+25;https://en.wikipedia.org/wiki/Hierarchical_database_model;serial number;4.0;0.003355704697986577;1.0
+25;https://en.wikipedia.org/wiki/Hierarchical_database_model;part;1.0;0.003355704697986577;1.0
+25;https://en.wikipedia.org/wiki/Hierarchical_database_model;employee;1.0;0.020134228187919462;1.0
+25;https://en.wikipedia.org/wiki/Hierarchical_database_model;organization;1.0;0.0;1.0
+25;https://en.wikipedia.org/wiki/Hierarchical_database_model;type;1.0;0.010067114093959731;1.0
+25;https://en.wikipedia.org/wiki/Hierarchical_database_model;separate table;4.0;0.003355704697986577;1.0
+25;https://en.wikipedia.org/wiki/Hierarchical_database_model;store;1.0;0.003355704697986577;1.0
+26;https://en.wikipedia.org/wiki/Hierarchical_database_model;tables;1.0;0.006711409395973154;1.0
+27;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchy;1.0;0.003355704697986577;1.0
+27;https://en.wikipedia.org/wiki/Hierarchical_database_model;model;1.0;0.013422818791946308;1.0
+27;https://en.wikipedia.org/wiki/Hierarchical_database_model;parent  part;4.0;0.003355704697986577;1.0
+27;https://en.wikipedia.org/wiki/Hierarchical_database_model;child  part;4.0;0.003355704697986577;1.0
+27;https://en.wikipedia.org/wiki/Hierarchical_database_model;computer table represents;9.0;0.003355704697986577;1.0
+28;https://en.wikipedia.org/wiki/Hierarchical_database_model;tree structures;4.0;0.003355704697986577;1.0
+28;https://en.wikipedia.org/wiki/Hierarchical_database_model;children point;4.0;0.003355704697986577;1.0
+28;https://en.wikipedia.org/wiki/Hierarchical_database_model;parents;1.0;0.003355704697986577;1.0
+28;https://en.wikipedia.org/wiki/Hierarchical_database_model;computer software algorithms;9.0;0.003355704697986577;1.0
+28;https://en.wikipedia.org/wiki/Hierarchical_database_model;found;1.0;0.003355704697986577;1.0
+28;https://en.wikipedia.org/wiki/Hierarchical_database_model;model;1.0;0.013422818791946308;1.0
+28;https://en.wikipedia.org/wiki/Hierarchical_database_model;contrast;1.0;0.003355704697986577;1.0
+29;https://en.wikipedia.org/wiki/Hierarchical_database_model;shown;1.0;0.003355704697986577;1.0
+29;https://en.wikipedia.org/wiki/Hierarchical_database_model;employee owner;3.5;0.003355704697986577;1.0
+29;https://en.wikipedia.org/wiki/Hierarchical_database_model;computer equipment;4.0;0.006711409395973154;1.0
+29;https://en.wikipedia.org/wiki/Hierarchical_database_model;pieces;1.0;0.003355704697986577;1.0
+29;https://en.wikipedia.org/wiki/Hierarchical_database_model;individual piece;4.0;0.003355704697986577;1.0
+29;https://en.wikipedia.org/wiki/Hierarchical_database_model;employee;1.5;0.020134228187919462;1.0
+29;https://en.wikipedia.org/wiki/Hierarchical_database_model;possess;1.0;0.003355704697986577;1.0
+30;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.020134228187919462;1.0
+31;https://en.wikipedia.org/wiki/Hierarchical_database_model;type;1.0;0.010067114093959731;1.0
+31;https://en.wikipedia.org/wiki/Hierarchical_database_model;parent;1.0;0.016778523489932886;1.0
+31;https://en.wikipedia.org/wiki/Hierarchical_database_model;child;1.0;0.010067114093959731;1.0
+32;https://en.wikipedia.org/wiki/Hierarchical_database_model;report;1.0;0.003355704697986577;1.0
+32;https://en.wikipedia.org/wiki/Hierarchical_database_model;represented;1.0;0.0;1.0
+32;https://en.wikipedia.org/wiki/Hierarchical_database_model;reportsto  column;4.0;0.006711409395973154;1.0
+32;https://en.wikipedia.org/wiki/Hierarchical_database_model;boss;1.0;0.003355704697986577;1.0
+33;https://en.wikipedia.org/wiki/Hierarchical_database_model;reportsto column;4.0;0.006711409395973154;1.0
+33;https://en.wikipedia.org/wiki/Hierarchical_database_model;foreign key referencing;9.0;0.006711409395973154;1.0
+33;https://en.wikipedia.org/wiki/Hierarchical_database_model;relational database terms;9.0;0.003355704697986577;1.0
+33;https://en.wikipedia.org/wiki/Hierarchical_database_model;empno column;4.0;0.006711409395973154;1.0
+34;https://en.wikipedia.org/wiki/Hierarchical_database_model;foreign key referencing;9.0;0.006711409395973154;1.0
+34;https://en.wikipedia.org/wiki/Hierarchical_database_model;table;1.5;0.010067114093959731;1.0
+34;https://en.wikipedia.org/wiki/Hierarchical_database_model;employees table;3.5;0.003355704697986577;1.0
+34;https://en.wikipedia.org/wiki/Hierarchical_database_model;child  data type;9.0;0.003355704697986577;1.0
+34;https://en.wikipedia.org/wiki/Hierarchical_database_model;empno column;4.0;0.006711409395973154;1.0
+35;https://en.wikipedia.org/wiki/Hierarchical_database_model;adjacency list model;8.5;0.003355704697986577;1.0
+35;https://en.wikipedia.org/wiki/Hierarchical_database_model;introduced;1.0;0.003355704697986577;1.0
+35;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple model;4.5;0.003355704697986577;1.0
+35;https://en.wikipedia.org/wiki/Hierarchical_database_model;commonly;1.0;0.003355704697986577;1.0
+36;https://en.wikipedia.org/wiki/Hierarchical_database_model;edgar;1.0;0.0;1.0
+37;https://en.wikipedia.org/wiki/Hierarchical_database_model;initial criticisms surfaced;9.0;0.003355704697986577;1.0
+37;https://en.wikipedia.org/wiki/Hierarchical_database_model;relational model;4.5;0.006711409395973154;1.0
+37;https://en.wikipedia.org/wiki/Hierarchical_database_model;codd;1.0;0.0;1.0
+37;https://en.wikipedia.org/wiki/Hierarchical_database_model;model hierarchical data;8.5;0.003355704697986577;1.0
+40;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.010067114093959731;1.0
+40;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;4.0;0.013422818791946308;1.0
+40;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;9.0;0.010067114093959731;1.0
+40;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;1.0
+41;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;9.0;0.010067114093959731;1.0
+41;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;4.0;0.010067114093959731;1.0
+42;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;1.0
+42;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.010067114093959731;1.0
+42;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;3.5;0.010067114093959731;1.0
+42;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.010067114093959731;1.0
+42;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.010067114093959731;1.0
+42;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.020134228187919462;1.0
+43;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;9.0;0.010067114093959731;1.0
+43;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;4.0;0.010067114093959731;1.0
+43;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.026845637583892617;1.0
+43;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;4.0;0.020134228187919462;1.0
+43;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.010067114093959731;1.0
+44;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;4.5;0.020134228187919462;1.0
+44;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;8.5;0.010067114093959731;1.0
+47;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.010067114093959731;1.0
+47;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;4.0;0.013422818791946308;1.0
+47;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;9.0;0.010067114093959731;1.0
+47;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;1.0
+48;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;9.0;0.010067114093959731;1.0
+48;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;4.0;0.010067114093959731;1.0
+49;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;1.0
+49;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.010067114093959731;1.0
+49;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;3.5;0.010067114093959731;1.0
+49;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.010067114093959731;1.0
+49;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.010067114093959731;1.0
+49;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.020134228187919462;1.0
+50;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;9.0;0.010067114093959731;1.0
+50;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;4.0;0.010067114093959731;1.0
+50;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.026845637583892617;1.0
+50;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;4.0;0.020134228187919462;1.0
+50;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.010067114093959731;1.0
+51;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;4.5;0.020134228187919462;1.0
+51;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;8.5;0.010067114093959731;1.0
+52;https://en.wikipedia.org/wiki/Hierarchical_database_model;company database;4.0;0.003355704697986577;1.0
+52;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical schema;4.0;0.003355704697986577;1.0
+58;https://en.wikipedia.org/wiki/Hierarchical_database_model;model;2.0;0.013422818791946308;1.0
+58;https://en.wikipedia.org/wiki/Hierarchical_database_model;regarded;1.0;0.003355704697986577;1.0
+58;https://en.wikipedia.org/wiki/Hierarchical_database_model;database modelling;4.5;0.003355704697986577;1.0
+58;https://en.wikipedia.org/wiki/Hierarchical_database_model;oldest database model;7.5;0.003355704697986577;1.0
+58;https://en.wikipedia.org/wiki/Hierarchical_database_model;major influence;4.0;0.003355704697986577;1.0
+60;https://en.wikipedia.org/wiki/Hierarchical_database_model;seventies;1.0;0.003355704697986577;1.0
+60;https://en.wikipedia.org/wiki/Hierarchical_database_model;north american rockwell;9.0;0.003355704697986577;1.0
+60;https://en.wikipedia.org/wiki/Hierarchical_database_model;partnership;1.0;0.0;1.0
+60;https://en.wikipedia.org/wiki/Hierarchical_database_model;produced;1.0;0.003355704697986577;1.0
+60;https://en.wikipedia.org/wiki/Hierarchical_database_model;ims;1.0;0.0;1.0
+60;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm developed;4.0;0.003355704697986577;1.0
+60;https://en.wikipedia.org/wiki/Hierarchical_database_model;world;1.0;0.003355704697986577;1.0
+60;https://en.wikipedia.org/wiki/Hierarchical_database_model;eighties;1.0;0.003355704697986577;1.0
+61;https://en.wikipedia.org/wiki/Hierarchical_database_model;process;1.0;0.003355704697986577;1.0
+61;https://en.wikipedia.org/wiki/Hierarchical_database_model;ims;1.0;0.0;1.0
+61;https://en.wikipedia.org/wiki/Hierarchical_database_model;database;1.0;0.003355704697986577;1.0
+62;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchies;1.0;0.0;1.0
+62;https://en.wikipedia.org/wiki/Hierarchical_database_model;represent relationships;4.0;0.003355704697986577;1.0
+81;https://en.wikipedia.org/wiki/Hierarchical_database_model;limitations;1.0;0.0;1.0
+81;https://en.wikipedia.org/wiki/Hierarchical_database_model;database model developed;8.5;0.003355704697986577;1.0
+81;https://en.wikipedia.org/wiki/Hierarchical_database_model;overcome;1.0;0.003355704697986577;1.0
+81;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical model;4.5;0.010067114093959731;1.0
+81;https://en.wikipedia.org/wiki/Hierarchical_database_model;traditional file system;9.0;0.003355704697986577;1.0
+82;https://en.wikipedia.org/wiki/Hierarchical_database_model;large;1.0;0.0;1.0
+82;https://en.wikipedia.org/wiki/Hierarchical_database_model;transactions;1.0;0.0;1.0
+82;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical databases;4.0;0.010067114093959731;1.0
+82;https://en.wikipedia.org/wiki/Hierarchical_database_model;predominantly;1.0;0.0;1.0
+82;https://en.wikipedia.org/wiki/Hierarchical_database_model;volume;1.0;0.003355704697986577;1.0
+82;https://en.wikipedia.org/wiki/Hierarchical_database_model;time;1.0;0.003355704697986577;1.0
+82;https://en.wikipedia.org/wiki/Hierarchical_database_model;transaction operations change;8.5;0.003355704697986577;1.0
+82;https://en.wikipedia.org/wiki/Hierarchical_database_model;transaction processing;4.5;0.003355704697986577;1.0
+83;https://en.wikipedia.org/wiki/Hierarchical_database_model;popular;1.0;0.003355704697986577;1.0
+83;https://en.wikipedia.org/wiki/Hierarchical_database_model;banks;1.0;0.003355704697986577;1.0
+83;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database model;9.0;0.010067114093959731;1.0
+109;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationships;1.0;0.0;1.0
+109;https://en.wikipedia.org/wiki/Hierarchical_database_model;won;1.0;0.003355704697986577;1.0
+109;https://en.wikipedia.org/wiki/Hierarchical_database_model;data organized;4.0;0.003355704697986577;1.0
+109;https://en.wikipedia.org/wiki/Hierarchical_database_model;parent child;4.0;0.003355704697986577;1.0
+109;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database model;8.5;0.010067114093959731;1.0
+109;https://en.wikipedia.org/wiki/Hierarchical_database_model;tree_like model;4.5;0.003355704697986577;1.0
+109;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.020134228187919462;1.0
+110;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database;4.0;0.006711409395973154;1.0
+110;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple entities;4.0;0.003355704697986577;1.0
+110;https://en.wikipedia.org/wiki/Hierarchical_database_model;parent;1.0;0.016778523489932886;1.0
+110;https://en.wikipedia.org/wiki/Hierarchical_database_model;individual entity;4.0;0.003355704697986577;1.0
+110;https://en.wikipedia.org/wiki/Hierarchical_database_model;child;1.0;0.010067114093959731;1.0
+110;https://en.wikipedia.org/wiki/Hierarchical_database_model;entity type;4.0;0.006711409395973154;1.0
+111;https://en.wikipedia.org/wiki/Hierarchical_database_model;entity types;4.0;0.003355704697986577;1.0
+111;https://en.wikipedia.org/wiki/Hierarchical_database_model;parent;1.0;0.016778523489932886;1.0
+111;https://en.wikipedia.org/wiki/Hierarchical_database_model;tree mapping;4.0;0.003355704697986577;1.0
+111;https://en.wikipedia.org/wiki/Hierarchical_database_model;child relationships;4.0;0.003355704697986577;1.0
+111;https://en.wikipedia.org/wiki/Hierarchical_database_model;related;1.0;0.003355704697986577;1.0
+111;https://en.wikipedia.org/wiki/Hierarchical_database_model;represented;1.0;0.0;1.0
+112;https://en.wikipedia.org/wiki/Hierarchical_database_model;attributes;1.0;0.003355704697986577;1.0
+112;https://en.wikipedia.org/wiki/Hierarchical_database_model;specific data recorded;9.0;0.003355704697986577;1.0
+112;https://en.wikipedia.org/wiki/Hierarchical_database_model;entity;1.0;0.003355704697986577;1.0
+120;https://en.wikipedia.org/wiki/Hierarchical_database_model;repeated data;4.0;0.003355704697986577;1.0
+120;https://en.wikipedia.org/wiki/Hierarchical_database_model;tree;1.0;0.010067114093959731;1.0
+120;https://en.wikipedia.org/wiki/Hierarchical_database_model;children;1.0;0.006711409395973154;1.0
+120;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.020134228187919462;1.0
+120;https://en.wikipedia.org/wiki/Hierarchical_database_model;single parent information;9.0;0.003355704697986577;1.0
+121;https://en.wikipedia.org/wiki/Hierarchical_database_model;values;1.0;0.003355704697986577;1.0
+121;https://en.wikipedia.org/wiki/Hierarchical_database_model;series;1.0;0.003355704697986577;1.0
+121;https://en.wikipedia.org/wiki/Hierarchical_database_model;set;1.0;0.003355704697986577;1.0
+121;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.026845637583892617;1.0
+121;https://en.wikipedia.org/wiki/Hierarchical_database_model;records;1.0;0.006711409395973154;1.0
+122;https://en.wikipedia.org/wiki/Hierarchical_database_model;type;1.0;0.010067114093959731;1.0
+122;https://en.wikipedia.org/wiki/Hierarchical_database_model;recorded;1.0;0.003355704697986577;1.0
+122;https://en.wikipedia.org/wiki/Hierarchical_database_model;collected data;4.0;0.003355704697986577;1.0
+123;https://en.wikipedia.org/wiki/Hierarchical_database_model;tables;1.0;0.006711409395973154;1.0
+123;https://en.wikipedia.org/wiki/Hierarchical_database_model;database model;4.0;0.003355704697986577;1.0
+123;https://en.wikipedia.org/wiki/Hierarchical_database_model;parent;1.0;0.016778523489932886;1.0
+123;https://en.wikipedia.org/wiki/Hierarchical_database_model;column;1.0;0.003355704697986577;1.0
+123;https://en.wikipedia.org/wiki/Hierarchical_database_model;equivalent;1.0;0.003355704697986577;1.0
+123;https://en.wikipedia.org/wiki/Hierarchical_database_model;equal;1.0;0.003355704697986577;1.0
+123;https://en.wikipedia.org/wiki/Hierarchical_database_model;child;1.0;0.010067114093959731;1.0
+123;https://en.wikipedia.org/wiki/Hierarchical_database_model;database table;4.0;0.003355704697986577;1.0
+123;https://en.wikipedia.org/wiki/Hierarchical_database_model;types;1.0;0.006711409395973154;1.0
+123;https://en.wikipedia.org/wiki/Hierarchical_database_model;row;1.0;0.006711409395973154;1.0
+124;https://en.wikipedia.org/wiki/Hierarchical_database_model;category;1.0;0.003355704697986577;1.0
+124;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical model;4.0;0.010067114093959731;1.0
+124;https://en.wikipedia.org/wiki/Hierarchical_database_model;parent child relationships;9.0;0.003355704697986577;1.0
+124;https://en.wikipedia.org/wiki/Hierarchical_database_model;link;1.0;0.0;1.0
+124;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.026845637583892617;1.0
+124;https://en.wikipedia.org/wiki/Hierarchical_database_model;types;1.0;0.006711409395973154;1.0
+125;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationships;1.0;0.0;1.0
+125;https://en.wikipedia.org/wiki/Hierarchical_database_model;branches sprouting form;8.0;0.003355704697986577;1.0
+125;https://en.wikipedia.org/wiki/Hierarchical_database_model;branches;2.0;0.003355704697986577;1.0
+125;https://en.wikipedia.org/wiki/Hierarchical_database_model;links;1.0;0.0;1.0
+125;https://en.wikipedia.org/wiki/Hierarchical_database_model;tree structure;4.0;0.003355704697986577;1.0
+125;https://en.wikipedia.org/wiki/Hierarchical_database_model;mapped;1.0;0.003355704697986577;1.0
+126;https://en.wikipedia.org/wiki/Hierarchical_database_model;employee;1.0;0.020134228187919462;1.0
+126;https://en.wikipedia.org/wiki/Hierarchical_database_model;company;1.0;0.003355704697986577;1.0
+126;https://en.wikipedia.org/wiki/Hierarchical_database_model;store information;4.0;0.003355704697986577;1.0
+127;https://en.wikipedia.org/wiki/Hierarchical_database_model;employee;1.0;0.020134228187919462;1.0
+127;https://en.wikipedia.org/wiki/Hierarchical_database_model;tree;1.0;0.010067114093959731;1.0
+127;https://en.wikipedia.org/wiki/Hierarchical_database_model;beginning;1.0;0.003355704697986577;1.0
+128;https://en.wikipedia.org/wiki/Hierarchical_database_model;employee;1.0;0.020134228187919462;1.0
+128;https://en.wikipedia.org/wiki/Hierarchical_database_model;department;1.0;0.003355704697986577;1.0
+128;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.026845637583892617;1.0
+128;https://en.wikipedia.org/wiki/Hierarchical_database_model;number;1.0;0.003355704697986577;1.0
+128;https://en.wikipedia.org/wiki/Hierarchical_database_model;salary;1.0;0.003355704697986577;1.0
+129;https://en.wikipedia.org/wiki/Hierarchical_database_model;stored;1.0;0.006711409395973154;1.0
+129;https://en.wikipedia.org/wiki/Hierarchical_database_model;information;1.0;0.0;1.0
+129;https://en.wikipedia.org/wiki/Hierarchical_database_model;age;1.0;0.003355704697986577;1.0
+129;https://en.wikipedia.org/wiki/Hierarchical_database_model;birthday;1.0;0.003355704697986577;1.0
+129;https://en.wikipedia.org/wiki/Hierarchical_database_model;children;1.0;0.006711409395973154;1.0
