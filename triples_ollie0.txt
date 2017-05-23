@@ -1,46 +1,30 @@
-  .
+.
 No extractions found.
 
-Specially, for CNE algorithm, we define a class CNE, where details are inside mlpack src mlpack methods ne cne.
-0.699: (a class; be ne cne inside; mlpack src mlpack methods)[attrib=we Specially define]
-0.486: (we; Specially define for; CNE algorithm)
-
-hpp .
+.
 No extractions found.
 
- For each algorithm, including CNE, NEAT and HyperNEAT, there are same key functions , so that different algorithms can be called in similar style.
-0.819: (different algorithms; so can be called in; similar style)
-0.555: (same key functions; are for; each algorithm)
-0.535: (same key functions; are including; CNE , NEAT and HyperNEAT)
-
- Here we list some key functions .
-0.601: (we; Here list; some key functions)
-
-  .
+.
 No extractions found.
 
-There are several options available for the algorithm used for each Lloyd iteration, specified with the algorithm  option.
-0.829: (several options available; be specified with; the algorithm option)
-0.706: (the algorithm; be used for; each Lloyd iteration)
-
- The standard O approach can be used .
+.
 No extractions found.
 
- Other options include the PellegMoore treebased algorithm , Elkan s triangleinequality based algorithm , and Hamerly s modification to Elkan s algorithm .
-0.617: (Other options; include Hamerly s modification to Elkan s algorithm; the PellegMoore treebased algorithm)
-
-algorithm  .
+.
 No extractions found.
 
-These are a list of ideas compiled by mlpack developers  they range from simpler code maintenance tasks to difficult machine learning algorithm implementation, which means that there are suitable ideas for a wide range of student abilities and interests.
-0.881: (they; range from; simpler code maintenance tasks)
-0.797: (they; range to; difficult machine)
-0.687: (ideas; be compiled by; mlpack developers they range from simpler code maintenance tasks to difficult machine learning algorithm implementation ,)
+Algorithms/Left_rotation: This shows how balancing is applied to establish a priority heap invariant in a Treap, a data structure which has the queueing performance of a heap, and the key lookup performance of a tree.
+0.563: (the queueing performance of a heap; be has by; a data structure)
 
- The  necessary knowledge  sections can often be replaced with  willing to learn  for the easier projects, and for some of the more difficult problems, a full understanding of the description statement and some coding knowledge is sufficient.
-0.929: (The necessary knowledge sections; can often be replaced with; willing)
-0.449: (a full understanding of the description statement; can is; sufficient)
-0.332: (sufficient; be a full understanding of; the description statement and some coding knowledge)
+ A balancing operation can change the tree structure while maintaining another order, which is binary tree sort order.
+0.808: (A balancing operation; can change; the tree structure)[enabler=while maintaining another order , which is binary tree sort order]
+0.772: (another order; is binary; tree sort order)
+
+ The binary tree order is left to right, with left nodes' keys less than right nodes' keys, whereas the priority order is up and down, with higher nodes' priorities greater than lower nodes' priorities.
+0.58: (the priority order; is up down down with; higher nodes ' priorities)
+
+ Alternatively, the priority can be viewed as another ordering key, except that finding a specific key is more involved.
+0.869: (the priority; Alternatively can be viewed as; another ordering key)
 
 .
 No extractions found.
@@ -60,29 +44,1080 @@ No extractions found.
 .
 No extractions found.
 
-This last goal is somewhat in contrast to the scikitlearn project, which generally only implements stable, wellknown algorithms.
-0.872: (This last goal; is somewhat in; contrast)
+.
+No extractions found.
 
- mlpack can fill a niche by providing highquality implementations of algorithms that just appeared in conferences or journals.
-0.68: (algorithms; just appeared in; conferences or journals)
-0.652: (mlpack; can fill; a niche)
+.
+No extractions found.
 
- In those cases where mlpack is implementing wellknown algorithms  i.
-0.391: (mlpack; is implementing; wellknown algorithms)
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+There is a distinction between a tree as an abstract data type and as a concrete data structure, analogous to the distinction between a list and a linked list.
+No extractions found.
+
+ As a data type, a tree has a value and children, and the children are themselves trees; the value and children of the tree are interpreted as the value of the root node and the subtrees of the children of the root node.
+0.937: (the value and children of the tree; are interpreted as; the value of the root node and the subtrees of the children of the root node)
+0.688: (themselves; has a value as; a data type)
+0.68: (a tree; has; a value and children)
+0.613: (a tree; has a value as; a data type)
+0.613: (the children; has a value as; a data type)
+0.604: (themselves; has children as; a data type)
+0.591: (themselves; has; a value and children)
+0.523: (a tree; has children as; a data type)
+0.523: (the children; has children as; a data type)
+0.509: (the children; has; a value and children)
+
+ To allow finite trees, one must either allow the list of children to be empty , or allow trees to be empty, in which case the list of children can be of fixed size , if desired.
+0.851: (one; must either allow; the list of children)[enabler=if desired]
+0.83: (the list of children; can be of; fixed size)
+0.669: (trees; to be empty in; which case)
+0.641: (trees; to be; empty)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+This is a list of data structures.
+No extractions found.
+
+ For a wider list of terms, see list of terms relating to algorithms and data structures.
+0.487: (terms; relating to; algorithms and data structures)
+
+ For a comparison of running time of subset of this list see comparison of data structures.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Some properties of abstract data types:.
+No extractions found.
+
+A data structure is said to be linear if its elements form a sequence.
+0.788: (A data structure; is said; linear)
+0.156: (its elements; form; a sequence)
+
+In these data structures each tree node compares a bit slice of key values.
+0.825: (each tree node; compares; a bit slice of key values)
+0.613: (each tree node; compares a bit slice of key values in; these data structures)
+
+These are data structures used for space partitioning or binary space partitioning.
+No extractions found.
+
+1 Data types 1.1 Primitive types 1.2 Composite types or Non_primitive type 1.3 Abstract data types.
+No extractions found.
+
+2 Linear data structures 2.1 Arrays 2.2 Lists.
+No extractions found.
+
+3 Trees 3.1 Binary trees 3.2 B_trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space_partitioning trees 3.7 Application_specific trees.
+No extractions found.
+
+4 Hashes.
+No extractions found.
+
+5 Graphs.
+No extractions found.
+
+6 Other.
+No extractions found.
+
+7 External links.
+No extractions found.
+
+1.1 Primitive types.
+No extractions found.
+
+1.2 Composite types or Non_primitive type.
+No extractions found.
+
+1.3 Abstract data types.
+No extractions found.
+
+2.1 Arrays.
+No extractions found.
+
+2.2 Lists.
+No extractions found.
+
+3.1 Binary trees.
+No extractions found.
+
+3.2 B_trees.
+No extractions found.
+
+3.3 Heaps.
+No extractions found.
+
+3.4 Trees.
+No extractions found.
+
+3.5 Multiway trees.
+No extractions found.
+
+3.6 Space_partitioning trees.
+No extractions found.
+
+3.7 Application_specific trees.
+No extractions found.
+
+Boolean, true or false.
+No extractions found.
+
+Character.
+No extractions found.
+
+Floating_point, single_precision real number values.
+No extractions found.
+
+Double, a wider floating_point size.
+No extractions found.
+
+Integer, integral or fixed_precision values.
+No extractions found.
+
+String, a sequence of characters.
+0.482: (String; be a sequence of; characters)
+
+Reference , a small value referring to another object's address in memory, possibly a much larger one..
+0.705: (a small value; referring to; another object 's address)
+
+Enumerated type, a small set of uniquely_named values.
+0.654: (Enumerated type; be a small set of; uniquely_named values)
+0.285: (small; set of; uniquely_named values)
+
+Array.
+No extractions found.
+
+Record .
+No extractions found.
+
+Union.
+No extractions found.
+
+Tagged union .
+No extractions found.
+
+Container.
+No extractions found.
+
+List.
+No extractions found.
+
+Associative array.
+No extractions found.
+
+Multimap.
+No extractions found.
+
+Set.
+No extractions found.
+
+Bag.
+No extractions found.
+
+Multiset.
+No extractions found.
+
+Stack.
+No extractions found.
+
+Queue.
+No extractions found.
+
+Double_ended queue.
+No extractions found.
+
+Priority queue.
+No extractions found.
+
+Tree.
+No extractions found.
+
+Graph.
+No extractions found.
+
+Array.
+No extractions found.
+
+Bit array.
+No extractions found.
+
+Bit field.
+No extractions found.
+
+Bitboard.
+No extractions found.
+
+Bitmap.
+No extractions found.
+
+Circular buffer.
+No extractions found.
+
+Control table.
+No extractions found.
+
+Image.
+No extractions found.
+
+Dope vector.
+No extractions found.
+
+Dynamic array.
+No extractions found.
+
+Gap buffer.
+No extractions found.
+
+Hashed array tree.
+No extractions found.
+
+Heightmap.
+No extractions found.
+
+Lookup table.
+No extractions found.
+
+Matrix.
+No extractions found.
+
+Parallel array.
+No extractions found.
+
+Sorted array.
+No extractions found.
+
+Sparse matrix.
+No extractions found.
+
+Iliffe vector.
+No extractions found.
+
+Variable_length array.
+No extractions found.
+
+Doubly linked list.
+No extractions found.
+
+Array list.
+No extractions found.
+
+Linked list.
+No extractions found.
+
+Self_organizing list.
+No extractions found.
+
+Skip list.
+No extractions found.
+
+Unrolled linked list.
+No extractions found.
+
+VList.
+No extractions found.
+
+Conc_Tree list.
+No extractions found.
+
+Xor linked list.
+No extractions found.
+
+Zipper.
+No extractions found.
+
+Doubly connected edge list.
+No extractions found.
+
+Difference list.
+No extractions found.
+
+Free list.
+No extractions found.
+
+AA tree.
+No extractions found.
+
+AVL tree.
+No extractions found.
+
+Binary search tree.
+No extractions found.
+
+Binary tree.
+No extractions found.
+
+Cartesian tree.
+No extractions found.
+
+Left_child right_sibling binary tree.
+0.632: (Left_child; right sibling binary; tree)
+
+Order statistic tree.
+No extractions found.
+
+Pagoda.
+No extractions found.
+
+Randomized binary search tree.
+No extractions found.
+
+Red–black tree.
+No extractions found.
+
+Rope.
+No extractions found.
+
+Scapegoat tree.
+No extractions found.
+
+Self_balancing binary search tree.
+No extractions found.
+
+Splay tree.
+No extractions found.
+
+T_tree.
+No extractions found.
+
+Tango tree.
+No extractions found.
+
+Threaded binary tree.
+No extractions found.
+
+Top tree.
+No extractions found.
+
+Treap.
+No extractions found.
+
+WAVL tree.
+No extractions found.
+
+Weight_balanced tree.
+No extractions found.
+
+B_tree.
+No extractions found.
+
+B+ tree.
+No extractions found.
+
+B*_tree.
+No extractions found.
+
+B sharp tree.
+No extractions found.
+
+Dancing tree.
+No extractions found.
+
+2_3 tree.
+No extractions found.
+
+2_3_4 tree.
+No extractions found.
+
+Queap.
+No extractions found.
+
+Fusion tree.
+No extractions found.
+
+Bx_tree.
+No extractions found.
+
+AList.
+No extractions found.
+
+Heap.
+No extractions found.
+
+Binary heap.
+No extractions found.
+
+Weak heap.
+No extractions found.
+
+Binomial heap.
+No extractions found.
+
+Fibonacci heap AF_heap.
+No extractions found.
+
+Leonardo Heap.
+No extractions found.
+
+2_3 heap.
+No extractions found.
+
+Soft heap.
+No extractions found.
+
+Pairing heap.
+No extractions found.
+
+Leftist heap.
+No extractions found.
+
+Treap.
+No extractions found.
+
+Beap.
+No extractions found.
+
+Skew heap.
+No extractions found.
+
+Ternary heap.
+No extractions found.
+
+D_ary heap.
+No extractions found.
+
+Brodal queue.
+No extractions found.
+
+AF_heap.
+No extractions found.
+
+Trie.
+No extractions found.
+
+Radix tree.
+No extractions found.
+
+Suffix tree.
+No extractions found.
+
+Suffix array.
+No extractions found.
+
+Compressed suffix array.
+No extractions found.
+
+FM_index.
+No extractions found.
+
+Generalised suffix tree.
+No extractions found.
+
+B_trie.
+No extractions found.
+
+Judy array.
+No extractions found.
+
+X_fast trie.
+No extractions found.
+
+Y_fast trie.
+No extractions found.
+
+Merkle Tree.
+No extractions found.
+
+Ctrie.
+No extractions found.
+
+Ternary tree.
+No extractions found.
+
+K_ary tree.
+No extractions found.
+
+And–or tree.
+No extractions found.
+
+_tree.
+No extractions found.
+
+Link/cut tree.
+No extractions found.
+
+SPQR_tree.
+No extractions found.
+
+Spaghetti stack.
+No extractions found.
+
+Disjoint_set data structure.
+No extractions found.
+
+Fusion tree.
+No extractions found.
+
+Enfilade.
+No extractions found.
+
+Exponential tree.
+No extractions found.
+
+Fenwick tree.
+No extractions found.
+
+Van Emde Boas tree.
+No extractions found.
+
+Rose tree.
+No extractions found.
+
+Segment tree.
+No extractions found.
+
+Interval tree.
+No extractions found.
+
+Range tree.
+No extractions found.
+
+Bin.
+No extractions found.
+
+K_d tree.
+No extractions found.
+
+Implicit k_d tree.
+No extractions found.
+
+Min/max k_d tree.
+No extractions found.
+
+Relaxed k_d tree.
+No extractions found.
+
+Adaptive k_d tree.
+No extractions found.
+
+Quadtree.
+No extractions found.
+
+Octree.
+No extractions found.
+
+Linear octree.
+No extractions found.
+
+Z_order.
+No extractions found.
+
+UB_tree.
+No extractions found.
+
+R_tree.
+No extractions found.
+
+R+ tree.
+No extractions found.
+
+R* tree.
+No extractions found.
+
+Hilbert R_tree.
+No extractions found.
+
+X_tree.
+No extractions found.
+
+Metric tree.
+No extractions found.
+
+Cover tree.
+No extractions found.
+
+M_tree.
+No extractions found.
+
+VP_tree.
+No extractions found.
+
+BK_tree.
+No extractions found.
+
+Bounding interval hierarchy.
+No extractions found.
+
+Bounding volume hierarchy.
+No extractions found.
+
+BSP tree.
+No extractions found.
+
+Rapidly exploring random tree.
+No extractions found.
+
+Abstract syntax tree.
+No extractions found.
+
+Parse tree.
+No extractions found.
+
+Decision tree.
+No extractions found.
+
+Alternating decision tree.
+No extractions found.
+
+Minimax tree.
+No extractions found.
+
+Expectiminimax tree.
+No extractions found.
+
+Finger tree.
+No extractions found.
+
+Expression tree.
+No extractions found.
+
+Log_structured merge_tree.
+No extractions found.
+
+Lexicographic Search Tree.
+No extractions found.
+
+Bloom filter.
+No extractions found.
+
+Count_Min sketch.
+No extractions found.
+
+Distributed hash table.
+No extractions found.
+
+Double Hashing.
+No extractions found.
+
+Dynamic perfect hash table.
+No extractions found.
+
+Hash array mapped trie.
+0.684: (Hash; mapped; trie)
+
+Hash list.
+No extractions found.
+
+Hash table.
+No extractions found.
+
+Hash tree.
+No extractions found.
+
+Hash trie.
+No extractions found.
+
+Koorde.
+No extractions found.
+
+Prefix hash tree.
+No extractions found.
+
+Rolling hash.
+No extractions found.
+
+MinHash.
+No extractions found.
+
+Quotient filter.
+No extractions found.
+
+Ctrie.
+No extractions found.
+
+Graph.
+No extractions found.
+
+Adjacency list.
+No extractions found.
+
+Adjacency matrix.
+No extractions found.
+
+Graph_structured stack.
+No extractions found.
+
+Scene graph.
+No extractions found.
+
+Binary decision diagram.
+No extractions found.
+
+Zero_suppressed decision diagram.
+No extractions found.
+
+And_inverter graph.
+No extractions found.
+
+Directed graph.
+No extractions found.
+
+Directed acyclic graph.
+No extractions found.
+
+Propositional directed acyclic graph.
+0.829: (Propositional; directed; acyclic graph)
+
+Multigraph.
+No extractions found.
+
+Hypergraph.
+No extractions found.
+
+Lightmap.
+No extractions found.
+
+Winged edge.
+No extractions found.
+
+Doubly connected edge list.
+No extractions found.
+
+Quad_edge.
+No extractions found.
+
+Routing table.
+No extractions found.
+
+Symbol table.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
 
 e.
 No extractions found.
 
- SVMs or other standard techniques , we should strive to ensure that our implementation is faster than other implementations.
-0.797: (our implementation; is faster than; other implementations)
-
- To ensure that, we may use the automatic benchmarking system  see https   www.
-0.626: (we; may use; the automatic benchmarking system)
-
-github.
+Collection.
 No extractions found.
 
-com zoq benchmarks .
+Container.
+No extractions found.
+
+Associative array Multimap.
+No extractions found.
+
+List.
+No extractions found.
+
+Stack.
+No extractions found.
+
+Queue Double_ended queue.
+0.723: (Queue; Double ended; queue)
+
+Priority queue Double_ended priority queue.
+0.664: (Priority; queue Double ended; priority queue)
+
+Set Multiset Disjoint_set.
+No extractions found.
+
+Multimap.
+No extractions found.
+
+Double_ended queue.
+No extractions found.
+
+Double_ended priority queue.
+No extractions found.
+
+Multiset.
+No extractions found.
+
+Disjoint_set.
+No extractions found.
+
+Bit array.
+No extractions found.
+
+Circular buffer.
+No extractions found.
+
+Dynamic array.
+No extractions found.
+
+Hash table.
+No extractions found.
+
+Hashed array tree.
+No extractions found.
+
+Sparse matrix.
+No extractions found.
+
+Association list.
+No extractions found.
+
+Linked list.
+No extractions found.
+
+Skip list.
+No extractions found.
+
+Unrolled linked list.
+No extractions found.
+
+XOR linked list.
+No extractions found.
+
+B_tree.
+No extractions found.
+
+Binary search tree AA tree AVL tree Red–black tree Self_balancing tree Splay tree.
+0.589: (tree; be Self balancing splay; tree)
+0.475: (tree Red–black tree; Self balancing tree splay; tree)
+
+Heap Binary heap Binomial heap Fibonacci heap.
+No extractions found.
+
+R_tree R* tree R+ tree Hilbert R_tree.
+No extractions found.
+
+Trie Hash tree.
+No extractions found.
+
+AA tree.
+No extractions found.
+
+AVL tree.
+No extractions found.
+
+Red–black tree.
+No extractions found.
+
+Self_balancing tree.
+No extractions found.
+
+Splay tree.
+No extractions found.
+
+Binary heap.
+No extractions found.
+
+Binomial heap.
+No extractions found.
+
+Fibonacci heap.
+No extractions found.
+
+R* tree.
+No extractions found.
+
+R+ tree.
+No extractions found.
+
+Hilbert R_tree.
+No extractions found.
+
+Hash tree.
+No extractions found.
+
+Binary decision diagram.
+No extractions found.
+
+Directed acyclic graph.
+No extractions found.
+
+Directed acyclic word graph.
+No extractions found.
+
+List of data structures.
+No extractions found.
+
+Tommy Benchmarks Comparison of several data structures..
+No extractions found.
+
+Data structures.
+No extractions found.
+
+Computing_related lists.
+No extractions found.
+
+Not logged in.
+No extractions found.
+
+Talk.
+No extractions found.
+
+Contributions.
+No extractions found.
+
+Create account.
+No extractions found.
+
+Log in.
+No extractions found.
+
+Article.
+No extractions found.
+
+Talk.
+No extractions found.
+
+Read.
+No extractions found.
+
+Edit.
+No extractions found.
+
+View history.
+No extractions found.
+
+Main page.
+No extractions found.
+
+Contents.
+No extractions found.
+
+Featured content.
+No extractions found.
+
+Current events.
+No extractions found.
+
+Random article.
+No extractions found.
+
+Donate to Wikipedia.
+No extractions found.
+
+Wikipedia store.
+No extractions found.
+
+Help.
+No extractions found.
+
+About Wikipedia.
+No extractions found.
+
+Community portal.
+No extractions found.
+
+Recent changes.
+No extractions found.
+
+Contact page.
+No extractions found.
+
+What links here.
+No extractions found.
+
+Related changes.
+No extractions found.
+
+Upload file.
+No extractions found.
+
+Special pages.
+No extractions found.
+
+Permanent link.
+No extractions found.
+
+Page information.
+No extractions found.
+
+Wikidata item.
+No extractions found.
+
+Cite this page.
+No extractions found.
+
+Create a book.
+No extractions found.
+
+Download as PDF.
+No extractions found.
+
+Printable version.
+No extractions found.
+
+فارسی.
+No extractions found.
+
+हिन्दी.
+No extractions found.
+
+Italiano.
+No extractions found.
+
+Magyar.
+No extractions found.
+
+Русский.
+No extractions found.
+
+ไทย.
+No extractions found.
+
+Türkçe.
+No extractions found.
+
+Українська.
+No extractions found.
+
+Tiếng Việt.
+No extractions found.
+
+中文.
+No extractions found.
+
+This page was last edited on 30 April 2017, at 15:25..
+0.794: (This page; was last at; 15)
+0.665: (This page; was; last)
+
+Text is available under the Creative Commons Attribution_ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non_profit organization..
+0.916: (Wikipedia®; is a registered trademark of; the Wikimedia Foundation)
+0.876: (you; agree to; the Terms of Use)
+0.742: (Wikipedia®; is; a registered trademark of the Wikimedia Foundation)
+0.739: (Text; is available under; the Creative Commons)
+0.591: (Text; is; available)
+0.487: (Text; is available attribution sharealike; License)
+0.48: (registered; is trademark of; the Wikimedia Foundation)
+
+Privacy policy.
+No extractions found.
+
+About Wikipedia.
+No extractions found.
+
+Disclaimers.
+No extractions found.
+
+Contact Wikipedia.
+No extractions found.
+
+Developers.
+No extractions found.
+
+Cookie statement.
+No extractions found.
+
+Mobile view.
 No extractions found.
 
 .
@@ -91,73 +1126,16 @@ No extractions found.
 .
 No extractions found.
 
-Currently mlpack supports the following algorithms .
+.
 No extractions found.
 
-Collaborative Filtering.
+.
 No extractions found.
 
-Density Estimation Trees.
+Some properties of abstract data types:.
 No extractions found.
 
-Euclidean Minimum Spanning Trees.
-No extractions found.
-
-Fast Exact Max-Kernel Search (FastMKS).
-No extractions found.
-
-Gaussian Mixture Models (GMMs).
-No extractions found.
-
-Hidden Markov Models (HMMs).
-No extractions found.
-
-Kernel Principal Component Analysis (KPCA).
-No extractions found.
-
-K-Means Clustering.
-No extractions found.
-
-Least-Angle Regression (LARS/LASSO).
-No extractions found.
-
-Local Coordinate Coding.
-No extractions found.
-
-Locality-Sensitive Hashing (LSH).
-No extractions found.
-
-Logistic regression.
-No extractions found.
-
-Naive Bayes Classifier.
-No extractions found.
-
-Neighbourhood Components Analysis (NCA).
-No extractions found.
-
-Non-negative Matrix Factorization (NMF).
-No extractions found.
-
-Principal Components Analysis (PCA).
-No extractions found.
-
-Independent component analysis (ICA).
-No extractions found.
-
-Rank-Approximate Nearest Neighbor (RANN).
-No extractions found.
-
-Simple Least-Squares Linear Regression (and Ridge Regression).
-No extractions found.
-
-Sparse Coding.
-No extractions found.
-
-Tree-based Neighbor Search (all-k-nearest-neighbors, all-k-furthest-neighbors), using either kd-trees or cover trees.
-No extractions found.
-
-Tree-based Range Search.
+Double_ended queue.
 No extractions found.
 
 .
@@ -166,3 +1144,2366 @@ No extractions found.
 .
 No extractions found.
 
+We have discussed Introduction to Binary Tree in set 1 and Properties of Binary Tree in Set 2.
+0.794: (We; have discussed Introduction in; set 1 and Properties of Binary Tree)
+0.766: (We; have discussed Introduction to; Binary Tree)
+0.689: (We; have discussed; Introduction)
+
+ In this post, common types of binary is discussed.
+0.754: (common types of binary; is discussed in; this post)
+
+Following are common types of Binary Trees.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+In a normal tree, every node can have any number of children.
+0.825: (every node; can have; any number of children)
+0.591: (every node; can have any number of children in; a normal tree)
+0.553: (every node; be any number of; children)
+0.473: (any number of children; can be have in; a normal tree)
+
+ Binary tree is a special type of tree data structure in which every node can have a maximum of 2 children.
+0.825: (every node; can have; a maximum of 2 children)
+0.553: (every node; be a maximum of; 2 children)
+0.451: (a special type of tree data structure in which every node can have a maximum of 2 children; is binary; tree)
+
+ One is known as left child and the other is known as right child.
+0.914: (the other; is known as; right child)
+0.9: (One; is known as; left child)
+
+In this chapter we will discuss tree data structures, like trees and graphs.
+0.626: (we; will discuss; tree data structures)
+0.473: (tree data structures; will be discuss in; this chapter)
+0.234: (we; will discuss tree data structures , like trees and graphs in; this chapter)
+
+ The abilities of these data structures are really important for the modern programming.
+0.832: (The abilities of these data structures; are really important for; the modern programming)
+0.492: (important; be The abilities of; these data structures)
+
+ Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model.
+No extractions found.
+
+ We will explain what tree data structures are and will review their main advantages and disadvantages.
+No extractions found.
+
+ We will present example implementations and problems showing their practical usage.
+0.665: (We; will present; example implementations and problems showing their practical usage)
+
+ We will focus on binary trees, binary search trees and self_balancing binary search tree.
+0.724: (We; will focus on; binary trees , binary search trees)
+
+ We will explain what graph is, the types of graphs, how to represent a graph in the memory and where graphs are used in our life and in the computer technologies.
+0.719: (graphs; to are used in; our life and in the computer technologies)
+0.712: (We; will explain; what graph)
+0.658: (a graph; to be represent in; the memory)
+
+ We will see where in .
+No extractions found.
+
+NET Framework self_balancing binary search trees are implemented and how to use them.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+            );.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+….
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+ .
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+….
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+   .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+….
+No extractions found.
+
+{.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+….
+No extractions found.
+
+{.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+        // ….
+No extractions found.
+
+        // ….
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    // ….
+No extractions found.
+
+    // ….
+No extractions found.
+
+}.
+No extractions found.
+
+{.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+}.
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+ .
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+{.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+{.
+No extractions found.
+
+    });.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+In this chapter we will discuss tree data structures, like trees and graphs.
+0.626: (we; will discuss; tree data structures)
+0.473: (tree data structures; will be discuss in; this chapter)
+0.234: (we; will discuss tree data structures , like trees and graphs in; this chapter)
+
+ The abilities of these data structures are really important for the modern programming.
+0.832: (The abilities of these data structures; are really important for; the modern programming)
+0.492: (important; be The abilities of; these data structures)
+
+ Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model.
+No extractions found.
+
+ We will explain what tree data structures are and will review their main advantages and disadvantages.
+No extractions found.
+
+ We will present example implementations and problems showing their practical usage.
+0.665: (We; will present; example implementations and problems showing their practical usage)
+
+ We will focus on binary trees, binary search trees and self_balancing binary search tree.
+0.724: (We; will focus on; binary trees , binary search trees)
+
+ We will explain what graph is, the types of graphs, how to represent a graph in the memory and where graphs are used in our life and in the computer technologies.
+0.719: (graphs; to are used in; our life and in the computer technologies)
+0.712: (We; will explain; what graph)
+0.658: (a graph; to be represent in; the memory)
+
+ We will see where in .
+No extractions found.
+
+NET Framework self_balancing binary search trees are implemented and how to use them.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+            );.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+….
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+ .
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+….
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+   .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+….
+No extractions found.
+
+{.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+ .
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+….
+No extractions found.
+
+{.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+        // ….
+No extractions found.
+
+        // ….
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    // ….
+No extractions found.
+
+    // ….
+No extractions found.
+
+}.
+No extractions found.
+
+{.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+}.
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+ .
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+        {.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+{.
+No extractions found.
+
+}.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+{.
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+{.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+{.
+No extractions found.
+
+    });.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+ .
+No extractions found.
+
+    {.
+No extractions found.
+
+        {.
+No extractions found.
+
+            {.
+No extractions found.
+
+            }.
+No extractions found.
+
+        }.
+No extractions found.
+
+    }.
+No extractions found.
+
+}.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The tree is one of the most powerful of the advanced data structures and it often pops up in even more advanced subjects such as AI and compiler design.
+0.736: (The tree; is; one of the most powerful of the advanced data structures)
+0.731: (it; often pops up in; advanced subjects)
+0.701: (The tree; often pops up in; advanced subjects)
+0.443: (it; is; one of the most powerful of the advanced data structures)
+
+ Surprisingly though the tree is important in a much more basic application _ namely the keeping of an efficient index.
+0.644: (the tree; Surprisingly is important in; a much more basic application)
+0.632: (the tree; Surprisingly is; important)
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+Whenever you use a database there is a 99% chance that an index is involved somewhere.
+0.774: (you; use; a database)
+
+ The simplest type of index is a sorted listing of the key field.
+0.93: (The simplest type of index; is a sorted listing of; the key field)
+0.778: (The simplest type of index; is; a sorted listing of the key field)
+0.492: (a sorted listing of the key field; be The simplest type of; index)
+
+ This provides a fast lookup because you can use a binary search to locate any item without having to look at each one in turn.
+0.826: (you; can use; a binary search to locate any item without having to look at each one in turn)
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+In a tree, all nodes share common construct.
+0.569: (all nodes; share in; a tree)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Education.
+No extractions found.
+
+Now that you know how trees can be utilized in real world development projects, and you know that a tree is a type of graph, let's walk through the types of trees that are available to use.
+0.914: (trees; can be utilized in; real world development projects)
+0.852: (a tree; is a type of; graph)
+0.608: (a tree; is; a type of graph)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Summary: This article, the third in a six_part series on data structures in the .
+No extractions found.
+
+NET Framework, looks at a common data structure that is not included in the .
+0.919: (NET Framework; looks at; a common data structure that is not included in the)
+
+NET Framework Base Class Library—binary trees.
+No extractions found.
+
+ Whereas arrays arrange data linearly, binary trees can be envisioned as storing data in two dimensions.
+0.925: (binary trees; can be envisioned as; storing data)[enabler=Whereas arrays arrange data linearly]
+0.404: (arrays; arrange linearly; data)
+
+ A special kind of binary tree, called a binary search tree, or BST, allows for a much more optimized search time than with unsorted arrays.
+0.884: (a binary search tree , or BST; allows for; a much more optimized search time)
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Now that we have studied linear data structures like stacks and queues and have some experience with recursion, we will look at a common data structure called the tree.
+0.587: (we; have studied; linear data structures)
+0.494: (we; Now will look at; a common data structure)[enabler=that we have studied linear data structures like stacks and queues and have some experience with recursion]
+0.429: (we; have have; some experience)
+
+ Trees are used in many areas of computer science, including operating systems, graphics, database systems, and computer networking.
+0.94: (Trees; are used in; many areas of computer science)
+0.82: (Trees; are used of; computer science)
+0.815: (Trees; are used including; operating systems , graphics , database systems , and computer networking)
+
+ Tree data structures have many things in common with their botanical cousins.
+0.793: (Tree data structures; have; many things)
+0.778: (Tree data structures; have many things in common with; their botanical cousins)
+
+ A tree data structure has a root, branches, and leaves.
+0.692: (A tree data structure; has; a root)
+
+ The difference between a tree in nature and a tree in computer science is that a tree data structure has its root at the top and its leaves on the bottom.
+0.755: (a tree data structure; has its root at; the top and its leaves)
+0.584: (a tree data structure; has; its root)
+0.465: (a tree data structure; is in; The difference)
+
+Even though computers can perform literally millions of mathematical computations per second, when a problem gets large and complicated, performance can nonetheless be an important consideration.
+0.751: (performance; can nonetheless be; an important consideration)
+0.729: (computers; Even can perform literally; millions of mathematical computations)
+0.614: (a problem; gets; large and complicated)
+
+ One of the most crucial aspects to how quickly a problem can be solved is how the data is stored in memory.
+0.82: (One of the most crucial aspects; to is is stored in; memory)
+0.811: (the data; to is is stored in; memory)
+
+ To illustrate this point, consider going to the local library to find a book about a specific subject matter.
+No extractions found.
+
+ Most likely, you will be able to use some kind of electronic reference or, in the worst case, a card catalog, to determine the title and author of the book you want.
+0.83: (you; will be; able)
+0.822: (you; to use; some kind of electronic reference)
+0.668: (you; will be able in; the worst case)
+
+ Since the books are typically shelved by category, and within each category sorted by author’s name, it is a fairly straightforward and painless process to then physically select your book from the shelves.
+No extractions found.
+
+ Now, suppose instead you came to the library in search of a particular book, but instead of organized shelves, were greeted with large garbage bags lining both sides of the room, each arbitrarily filled with books that may or may not have anything to do with one another.
+0.903: (you; instead came to; the library)
+0.898: (you; instead came in; search of a particular book)
+0.183: (search of a particular book; instead came to; you)
+
+ It would take hours, or even days, to find the book you needed, a comparative eternity.
+No extractions found.
+
+ This is how software runs when data is not stored in an efficient format appropriate to the application.
+0.925: (data; is not stored in; an efficient format appropriate)
+
+ Simple Data Structures The simplest data structures are primitive variables.
+No extractions found.
+
+ They hold a single value, and beyond that, are of limited use.
+0.913: (They; are of; limited use)
+0.784: (They; hold; a single value)
+
+ When many related values need to be stored, an array is used.
+No extractions found.
+
+ It is assumed that the reader of this article has a solid understanding of variables and arrays.
+0.649: (the reader of this article; has; a solid understanding of variables)
+
+ A somewhat more difficult concept, though equally primitive, are pointers.
+No extractions found.
+
+ Pointers, instead of holding an actual value, simply hold a memory address that, in theory, contains some useful piece of data.
+0.771: (a memory address; contains some useful piece of data in; theory)
+0.62: (some useful piece of data; be contains by; a memory address)
+
+ Most seasoned C++ coders have a solid understanding of how to use pointers, and many of the caveats, while fledgling programmers may find themselves a bit spoiled by more modern "managed" languages which, for better or worse, handle pointers implicitly.
+0.807: (Most seasoned C++ coders; have; a solid understanding how to use pointers)
+0.73: (fledgling programmers; may find themselves; a bit spoiled by more modern "managed " languages)
+0.421: (Most seasoned C++ coders; be many of; the caveats)
+
+ Either way, it should suffice to know that pointers "point" somewhere in memory, and do not actually store data themselves.
+0.553: (that pointers; "point; data)
+
+ A less abstract way to think about pointers is in how the human mind remembers certain things.
+0.772: (the human mind; remembers; certain things)
+
+ Many times, a good engineer may not necessarily know a particular formula/constant/equation, but when asked, they could tell you exactly which reference to check.
+0.668: (a good engineer; may not necessarily know; a particular formula/constant/equation)
+
+ Arrays Arrays are a very simple data structure, and may be thought of as a list of a fixed length.
+0.855: (Arrays Arrays; may be thought as; a list of a fixed length)
+
+ Arrays are nice because of their simplicity, and are well suited for situations where the number of data items is known .
+0.866: (Arrays; are well suited for; situations where the number of data items is known)
+0.775: (Arrays; are nice because of; their simplicity)
+0.564: (the number of data items; is known in; situations)
+
+ Suppose you need a piece of code to calculate the average of several numbers.
+0.906: (you; need; a piece of code)
+0.893: (you; need a piece of code to calculate; the average of several numbers)
+0.88: (you; to calculate; the average of several numbers)
+
+ An array is a perfect data structure to hold the individual values, since they have no specific order, and the required computations do not require any special handling other than to iterate through all of the values.
+0.854: (a perfect data structure to hold the individual values , since they have no specific order , and the required computations; do not require; any special handling other)
+0.711: (An array; is; a perfect data structure to hold the individual values , since they have no specific order , and the required computations)
+0.681: (they; have; no specific order)
+
+ The other big strength of arrays is that they can be accessed randomly, by index.
+0.878: (they; can be accessed randomly by; index)
+
+ For instance, if you have an array containing a list of names of students seated in a classroom, where each seat is numbered 1 through n, then studentName is a trivial way to read or store the name of the student in seat i.
+0.892: (each seat; is numbered 1 through; n)
+0.776: (each seat; is numbered; 1)
+0.753: (students; be seated in; a classroom where each seat is numbered 1 through n)
+0.564: (each seat; is numbered 1 in; a classroom)
+0.23: (you; have; an array containing a list of names of students)
+
+ An array might also be thought of as a pre_bound pad of paper.
+0.924: (An array; might also be thought as; a pre_bound pad of paper)
+
+ It has a fixed number of pages, each page holds information, and is in a predefined location that never changes.
+0.838: (each page; is in; a predefined location that never changes)
+0.691: (It; has of; pages)[attrib=each page holds information]
+0.68: (each page; holds; information)
+0.661: (It; has; a fixed number of pages)[attrib=each page holds information]
+0.635: (It; holds information in; each page)
+
+ Linked Lists A linked list is a data structure that can hold an arbitrary number of data items, and can easily change size to add or remove items.
+0.742: (A linked list; is; a data structure that can hold an arbitrary number of data items)
+
+ A linked list, at its simplest, is a pointer to a data node.
+0.932: (A linked list; is a pointer to; a data node)
+0.788: (A linked list; is; a pointer)
+0.651: (a pointer; be A linked list at; its simplest)
+
+ Each data node is then composed of data , and a pointer to the next node.
+0.916: (Each data node; is then composed of; data)
+
+ At the end of the list, the pointer is set to null.

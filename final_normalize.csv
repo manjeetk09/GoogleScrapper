@@ -1,121 +1,478 @@
-0	20	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	providing highquality implementations	1	0.1609195402	1	2.1609195402	4
-0	21	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	implementing wellknown algorithms	1	0.1609195402	1	2.1609195402	4
-0	24	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	automatic benchmarking system	1	0.1609195402	1	2.1609195402	4
-0	9	http://mlpack.org/docs/mlpack-git/man/kmeans.html	triangleinequality based algorithm	0.9166666667	0.3333333333	1	2.25	3.75
-0	9	http://mlpack.org/docs/mlpack-git/man/kmeans.html	pellegmoore treebased algorithm	0.9166666667	0.3333333333	1	2.25	3.75
-0	31	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	density estimation trees	1	0	0.3333333333	1.3333333333	3.3333333333
-0	33	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	fast exact max	1	0	0.3333333333	1.3333333333	3.3333333333
-0	34	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	gaussian mixture models	1	0	0.3333333333	1.3333333333	3.3333333333
-0	35	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	hidden markov models	1	0	0.3333333333	1.3333333333	3.3333333333
-0	39	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	local coordinate coding	1	0	0.3333333333	1.3333333333	3.3333333333
-0	42	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	naive bayes classifier	1	0	0.3333333333	1.3333333333	3.3333333333
-0	43	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	neighbourhood components analysis	1	0	0.3333333333	1.3333333333	3.3333333333
-0	44	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	negative matrix factorization	1	0	0.3333333333	1.3333333333	3.3333333333
-0	45	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	principal components analysis	1	0	0.3333333333	1.3333333333	3.3333333333
-0	46	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	independent component analysis	1	0	0.3333333333	1.3333333333	3.3333333333
-0	47	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	approximate nearest neighbor	1	0	0.3333333333	1.3333333333	3.3333333333
-0	50	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	based neighbor search	1	0	0.3333333333	1.3333333333	3.3333333333
-0	51	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	based range search	1	0	0.3333333333	1.3333333333	3.3333333333
-0	48	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	squares linear regression	0.9375	0	0.3333333333	1.2708333333	3.1458333333
-0	4	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	key functions	0.375	0.5833333333	1	1.9583333333	2.125
-0	7	http://mlpack.org/docs/mlpack-git/man/kmeans.html	lloyd iteration	0.375	0.3333333333	1	1.7083333333	2.125
-0	9	http://mlpack.org/docs/mlpack-git/man/kmeans.html	options include	0.375	0.3333333333	1	1.7083333333	2.125
-0	2	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	class cne	0.375	0.2916666667	1	1.6666666667	2.125
-0	2	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	cne algorithm	0.375	0.2916666667	1	1.6666666667	2.125
-0	4	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	similar style	0.375	0.2916666667	1	1.6666666667	2.125
-0	4	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	including cne	0.375	0.2916666667	1	1.6666666667	2.125
-0	11	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	suitable ideas	0.375	0.2592592593	1	1.6342592593	2.125
-0	11	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	mlpack developers	0.375	0.2592592593	1	1.6342592593	2.125
-0	11	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	ideas compiled	0.375	0.2592592593	1	1.6342592593	2.125
-0	11	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	student abilities	0.375	0.2592592593	1	1.6342592593	2.125
-0	12	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	coding knowledge	0.375	0.2592592593	1	1.6342592593	2.125
-0	12	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	full understanding	0.375	0.2592592593	1	1.6342592593	2.125
-0	12	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	difficult problems	0.375	0.2592592593	1	1.6342592593	2.125
-0	12	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	knowledge  sections	0.375	0.2592592593	1	1.6342592593	2.125
-0	12	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	description statement	0.375	0.2592592593	1	1.6342592593	2.125
-0	12	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	easier projects	0.375	0.2592592593	1	1.6342592593	2.125
-0	19	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	wellknown algorithms	0.375	0.1609195402	1	1.5359195402	2.125
-0	19	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	implements stable	0.375	0.1609195402	1	1.5359195402	2.125
-0	19	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	scikitlearn project	0.375	0.1609195402	1	1.5359195402	2.125
-0	23	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	standard techniques	0.375	0.1609195402	1	1.5359195402	2.125
-0	24	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	https   www	0.375	0.1609195402	1	1.5359195402	2.125
-0	26	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	zoq benchmarks	0.375	0.1609195402	1	1.5359195402	2.125
-0	7	http://mlpack.org/docs/mlpack-git/man/kmeans.html	algorithm  option	0.3125	0.3333333333	1	1.6458333333	1.9375
-0	11	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	wide range	0.3125	0.2592592593	1	1.5717592593	1.9375
-0	48	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	ridge regression	0.4375	0	0.3333333333	0.7708333333	1.6458333333
-0	29	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	mlpack supports	0.375	0	0.3333333333	0.7083333333	1.4583333333
-0	30	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	collaborative filtering	0.375	0	0.3333333333	0.7083333333	1.4583333333
-0	33	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	kernel search	0.375	0	0.3333333333	0.7083333333	1.4583333333
-0	37	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	means clustering	0.375	0	0.3333333333	0.7083333333	1.4583333333
-0	38	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	angle regression	0.375	0	0.3333333333	0.7083333333	1.4583333333
-0	40	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	sensitive hashing	0.375	0	0.3333333333	0.7083333333	1.4583333333
-0	41	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	logistic regression	0.375	0	0.3333333333	0.7083333333	1.4583333333
-0	49	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	sparse coding	0.375	0	0.3333333333	0.7083333333	1.4583333333
-0	50	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	cover trees	0.3125	0	0.3333333333	0.6458333333	1.2708333333
-0	11	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	range	0.0625	0.2592592593	1	1.3217592593	1.1875
-0	7	http://mlpack.org/docs/mlpack-git/man/kmeans.html	options	0	0.3333333333	1	1.3333333333	1
-0	8	http://mlpack.org/docs/mlpack-git/man/kmeans.html	approach	0	0.3333333333	1	1.3333333333	1
-0	8	http://mlpack.org/docs/mlpack-git/man/kmeans.html	standard	0	0.3333333333	1	1.3333333333	1
-0	23	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	ensure	0	0.3218390805	1	1.3218390805	1
-0	24	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	ensure	0	0.3218390805	1	1.3218390805	1
-0	2	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	details	0	0.2916666667	1	1.2916666667	1
-0	2	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	specially	0	0.2916666667	1	1.2916666667	1
-0	2	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	define	0	0.2916666667	1	1.2916666667	1
-0	4	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	neat	0	0.2916666667	1	1.2916666667	1
-0	4	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	called	0	0.2916666667	1	1.2916666667	1
-0	11	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	interests	0	0.2592592593	1	1.2592592593	1
-0	11	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	means	0	0.2592592593	1	1.2592592593	1
-0	12	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	replaced	0	0.2592592593	1	1.2592592593	1
-0	12	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	sufficient	0	0.2592592593	1	1.2592592593	1
-0	19	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	generally	0	0.1609195402	1	1.1609195402	1
-0	19	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	contrast	0	0.1609195402	1	1.1609195402	1
-0	19	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	goal	0	0.1609195402	1	1.1609195402	1
-0	20	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	niche	0	0.1609195402	1	1.1609195402	1
-0	20	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	appeared	0	0.1609195402	1	1.1609195402	1
-0	20	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	fill	0	0.1609195402	1	1.1609195402	1
-0	21	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	cases	0	0.1609195402	1	1.1609195402	1
-0	23	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	faster	0	0.1609195402	1	1.1609195402	1
-0	23	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	strive	0	0.1609195402	1	1.1609195402	1
-0	3	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	hpp	0	0	1	1	1
-0	4	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	hyperneat	0	0	1	1	1
-0	5	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	list	0	0	1	1	1
-0	9	http://mlpack.org/docs/mlpack-git/man/kmeans.html	hamerly	0	0	1	1	1
-0	9	http://mlpack.org/docs/mlpack-git/man/kmeans.html	modification	0	0	1	1	1
-0	9	http://mlpack.org/docs/mlpack-git/man/kmeans.html	elkan	0	0	1	1	1
-0	11	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	list	0	0	1	1	1
-0	12	https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas	learn	0	0	1	1	1
-0	20	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	conferences	0	0	1	1	1
-0	20	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	mlpack	0	0	1	1	1
-0	20	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	journals	0	0	1	1	1
-0	21	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	mlpack	0	0	1	1	1
-0	23	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	implementation	0	0	1	1	1
-0	23	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	implementations	0	0	1	1	1
-0	23	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	svms	0	0	1	1	1
-0	25	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	github	0	0	1	1	1
-0	33	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	fastmks	0	0	1	1	1
-0	34	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	gmms	0	0	1	1	1
-0	35	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	hmms	0	0	1	1	1
-0	36	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	kpca	0	0	1	1	1
-0	40	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	lsh	0	0	1	1	1
-0	40	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	locality	0	0	1	1	1
-0	43	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	nca	0	0	1	1	1
-0	44	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	nmf	0	0	1	1	1
-0	45	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	pca	0	0	1	1	1
-0	46	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	ica	0	0	1	1	1
-0	47	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	rann	0	0	1	1	1
-0	9	http://mlpack.org/docs/mlpack-git/man/kmeans.html	algorithm	0.1666666667	1	0.3333333333	1.5	0.8333333333
-0	7	http://mlpack.org/docs/mlpack-git/man/kmeans.html	algorithm	0.0625	1	0.3333333333	1.3958333333	0.5208333333
-0	50	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	trees	0.0625	0	0.3333333333	0.3958333333	0.5208333333
-0	10	http://mlpack.org/docs/mlpack-git/man/kmeans.html	algorithm	0	1	0.3333333333	1.3333333333	0.3333333333
-0	38	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	lars/lasso	0	0	0.3333333333	0.3333333333	0.3333333333
-0	47	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	rank	0	0	0.3333333333	0.3333333333	0.3333333333
-0	48	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	simple	0	0	0.3333333333	0.3333333333	0.3333333333
-0	50	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	neighbors	0	0	0.3333333333	0.3333333333	0.3333333333
-0	50	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	nearest	0	0	0.3333333333	0.3333333333	0.3333333333
-0	50	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	furthest	0	0	0.3333333333	0.3333333333	0.3333333333
-0	4	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	algorithms	0	0.2916666667	0.1111111111	0.4027777778	0.1111111111
-0	20	https://github.com/mlpack/mlpack/wiki/DesignGuidelines	algorithms	0	0.1609195402	0.1111111111	0.2720306513	0.1111111111
-0	50	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	tree	0	0	0.1111111111	0.1111111111	0.1111111111
-0	51	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	tree	0	0	0.1111111111	0.1111111111	0.1111111111
-0	4	http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html	algorithm	0	0.2916666667	0	0.2916666667	0
-0	29	https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library)	algorithms	0	0	0	0	0
+0	444	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	gained popular acceptance	1	0.0357142857	1	2.0357142857
+0	444	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	term  artificial intelligence	1	0.0357142857	1	2.0357142857
+0	124	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	carnegie mellon university	1	0.022556391	1	2.022556391
+0	125	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	carnegie mellon university	1	0.022556391	1	2.022556391
+0	148	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	human lives ranging	1	0.015625	1	2.015625
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	human lives ranging	1	0.015625	1	2.015625
+0	710	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	advanced computing algorithms	1	0.0119047619	1	2.0119047619
+0	720	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	artificial intelligence algorithms	1	0.0119047619	1	2.0119047619
+0	719	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	fast technical progress	1	0.0119047619	1	2.0119047619
+0	722	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	game development companies	1	0.0119047619	1	2.0119047619
+0	21	http://nevonprojects.com/artificial-intelligence-projects/	 avr microcontroller projects	1	0.0098039216	1	2.0098039216
+0	35	http://nevonprojects.com/artificial-intelligence-projects/	 dot net projects	1	0.0098039216	1	2.0098039216
+0	52	http://nevonprojects.com/artificial-intelligence-projects/	 mechanical design projects	1	0.0098039216	1	2.0098039216
+0	49	http://nevonprojects.com/artificial-intelligence-projects/	 mechanical major projects	1	0.0098039216	1	2.0098039216
+0	50	http://nevonprojects.com/artificial-intelligence-projects/	 mechanical mini projects	1	0.0098039216	1	2.0098039216
+0	90	http://nevonprojects.com/artificial-intelligence-projects/	ai desktop partner	1	0.0098039216	1	2.0098039216
+0	88	http://nevonprojects.com/artificial-intelligence-projects/	android attendance system	1	0.0098039216	1	2.0098039216
+0	53	http://nevonprojects.com/artificial-intelligence-projects/	android project ideas	1	0.0098039216	1	2.0098039216
+0	79	http://nevonprojects.com/artificial-intelligence-projects/	artificial intelligence dietician	1	0.0098039216	1	2.0098039216
+0	93	http://nevonprojects.com/artificial-intelligence-projects/	automatic answer checker	1	0.0098039216	1	2.0098039216
+0	82	http://nevonprojects.com/artificial-intelligence-projects/	banking bot project	1	0.0098039216	1	2.0098039216
+0	42	http://nevonprojects.com/artificial-intelligence-projects/	cloud computing projects	1	0.0098039216	1	2.0098039216
+0	74	http://nevonprojects.com/artificial-intelligence-projects/	commodity search system	1	0.0098039216	1	2.0098039216
+0	55	http://nevonprojects.com/artificial-intelligence-projects/	communication project ideas	1	0.0098039216	1	2.0098039216
+0	72	http://nevonprojects.com/artificial-intelligence-projects/	data mining php	1	0.0098039216	1	2.0098039216
+0	57	http://nevonprojects.com/artificial-intelligence-projects/	electrical project ideas	1	0.0098039216	1	2.0098039216
+0	54	http://nevonprojects.com/artificial-intelligence-projects/	electronics projects ideas	1	0.0098039216	1	2.0098039216
+0	73	http://nevonprojects.com/artificial-intelligence-projects/	genuine ratings php	1	0.0098039216	1	2.0098039216
+0	91	http://nevonprojects.com/artificial-intelligence-projects/	intelligent chat bot	1	0.0098039216	1	2.0098039216
+0	72	http://nevonprojects.com/artificial-intelligence-projects/	movie success prediction	1	0.0098039216	1	2.0098039216
+0	84	http://nevonprojects.com/artificial-intelligence-projects/	online ai shopping	1	0.0098039216	1	2.0098039216
+0	71	http://nevonprojects.com/artificial-intelligence-projects/	online book recommendation	1	0.0098039216	1	2.0098039216
+0	20	http://nevonprojects.com/artificial-intelligence-projects/	pic microcontroller projects	1	0.0098039216	1	2.0098039216
+0	51	http://nevonprojects.com/artificial-intelligence-projects/	power generation projects	1	0.0098039216	1	2.0098039216
+0	77	http://nevonprojects.com/artificial-intelligence-projects/	product review analysis	1	0.0098039216	1	2.0098039216
+0	24	http://nevonprojects.com/artificial-intelligence-projects/	raspberry pi projects	1	0.0098039216	1	2.0098039216
+0	104	http://nevonprojects.com/artificial-intelligence-projects/	raspberry pi wheelchair	1	0.0098039216	1	2.0098039216
+0	56	http://nevonprojects.com/artificial-intelligence-projects/	software project ideas	1	0.0098039216	1	2.0098039216
+0	92	http://nevonprojects.com/artificial-intelligence-projects/	stock market analysis	1	0.0098039216	1	2.0098039216
+0	102	http://nevonprojects.com/artificial-intelligence-projects/	ultrasonic blind stick	1	0.0098039216	1	2.0098039216
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	dominate human life	1	0.0078125	1	2.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	dramatically impact businesses	1	0.0078125	1	2.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	enabled inference engine	1	0.0078125	1	2.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	grade ai applications	1	0.0078125	1	2.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	job losses due	1	0.0078125	1	2.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	people gainfully engaged	1	0.0078125	1	2.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	play key role	1	0.0078125	1	2.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	pm narendra modi10	1	0.0078125	1	2.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	richest man wrote	1	0.0078125	1	2.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	study revealed ai	1	0.0078125	1	2.0078125
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	artificial intelligence approaches	1	0.007518797	1	2.007518797
+0	142	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	emotion machine proposed	1	0.007518797	1	2.007518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	natural language processing	1	0.007518797	1	2.007518797
+0	140	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	pennsylvania state university	1	0.007518797	1	2.007518797
+0	138	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	procedural reasoning system	1	0.007518797	1	2.007518797
+0	129	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	rensselaer polytechnic institute	1	0.007518797	1	2.007518797
+0	699	http://www.edgefxkits.com/artificial-intelligence-projects	android	0	1	1	2
+0	700	http://www.edgefxkits.com/artificial-intelligence-projects	android	0	1	1	2
+0	701	http://www.edgefxkits.com/artificial-intelligence-projects	android	0	1	1	2
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	tackle suicides1 mar	0.96875	0.0078125	1	1.9765625
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	announced deep learning	0.95	0.0078125	1	1.9578125
+0	724	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	presentday video games	0.9375	0.0119047619	1	1.9494047619
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	24pm ist innovation	0.921875	0.0078125	1	1.9296875
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	52pm ist exploring	0.921875	0.0078125	1	1.9296875
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	microsoft power bi	0.9166666667	0.0078125	1	1.9244791667
+0	141	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	carnegie mellon university	0.875	0.022556391	1	1.897556391
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	intelligent machine learning	0.8875	0.0078125	1	1.8953125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	machine learning capabilities	0.8875	0.0078125	1	1.8953125
+0	13	http://nevonprojects.com/artificial-intelligence-projects/	 track order contact	0.875	0.0098039216	1	1.8848039216
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	artificial intelligence18 mar	0.8725961538	0.0078125	1	1.8804086538
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	artificial intelligence23 mar	0.8725961538	0.0078125	1	1.8804086538
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	54pm ist microsoft	0.8385416667	0.0078125	1	1.8463541667
+0	710	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	players grew day	0.8125	0.0119047619	1	1.8244047619
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	pay wallet service	0.8125	0.0078125	1	1.8203125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	artificial intelligence centre	0.6652097902	0.0078125	1	1.6730222902
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	tcs15 mar	0.46875	0.0078125	1	1.4765625
+0	724	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	computer games	0.4375	0.0238095238	1	1.4613095238
+0	710	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	games grew	0.4375	0.0119047619	1	1.4494047619
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	pay bot	0.4375	0.0078125	1	1.4453125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	10am ist	0.421875	0.0078125	1	1.4296875
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	12pm ist	0.421875	0.0078125	1	1.4296875
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	32pm ist	0.421875	0.0078125	1	1.4296875
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	43pm ist	0.421875	0.0078125	1	1.4296875
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	56am ist	0.421875	0.0078125	1	1.4296875
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	microsoft azure	0.4166666667	0.0078125	1	1.4244791667
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	microsoft dynamics 365	0.4166666667	0.0078125	1	1.4244791667
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	microsoft official13	0.4166666667	0.0078125	1	1.4244791667
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	microsoft working	0.4166666667	0.0078125	1	1.4244791667
+0	442	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	academic research	0.375	0.0357142857	1	1.4107142857
+0	443	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	computational neuroscience	0.375	0.0357142857	1	1.4107142857
+0	442	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	fake intelligence	0.375	0.0357142857	1	1.4107142857
+0	444	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	international conferences	0.375	0.0357142857	1	1.4107142857
+0	154	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	recovering mit	0.375	0.0357142857	1	1.4107142857
+0	441	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	researchers feel	0.375	0.0357142857	1	1.4107142857
+0	442	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	science fiction	0.375	0.0357142857	1	1.4107142857
+0	443	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	semantic logic	0.375	0.0357142857	1	1.4107142857
+0	441	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	sounds unscientific	0.375	0.0357142857	1	1.4107142857
+0	719	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	computer games	0.375	0.0238095238	1	1.3988095238
+0	47	http://nevonprojects.com/artificial-intelligence-projects/	mechanical projects	0.375	0.0196078431	1	1.3946078431
+0	9	http://nevonprojects.com/artificial-intelligence-projects/	mechanical projects  	0.375	0.0196078431	1	1.3946078431
+0	8	http://nevonprojects.com/artificial-intelligence-projects/	software projects	0.375	0.0196078431	1	1.3946078431
+0	46	http://nevonprojects.com/artificial-intelligence-projects/	software projects	0.375	0.0196078431	1	1.3946078431
+0	129	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	cognitive architecture	0.375	0.015037594	1	1.390037594
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	cognitive architecture	0.375	0.015037594	1	1.390037594
+0	723	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	character animation	0.375	0.0119047619	1	1.3869047619
+0	723	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	computer game	0.375	0.0119047619	1	1.3869047619
+0	709	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	computercontrolled enemies	0.375	0.0119047619	1	1.3869047619
+0	709	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	development process	0.375	0.0119047619	1	1.3869047619
+0	723	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	foremost indicator	0.375	0.0119047619	1	1.3869047619
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	handle designing	0.375	0.0119047619	1	1.3869047619
+0	722	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	home computer	0.375	0.0119047619	1	1.3869047619
+0	719	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	home computers	0.375	0.0119047619	1	1.3869047619
+0	724	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	important elements	0.375	0.0119047619	1	1.3869047619
+0	720	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	limited capabilities	0.375	0.0119047619	1	1.3869047619
+0	723	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	long time	0.375	0.0119047619	1	1.3869047619
+0	723	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	nice graphics	0.375	0.0119047619	1	1.3869047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	optimal path	0.375	0.0119047619	1	1.3869047619
+0	721	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	pcs brought	0.375	0.0119047619	1	1.3869047619
+0	724	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	primary factor	0.375	0.0119047619	1	1.3869047619
+0	719	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	processing power	0.375	0.0119047619	1	1.3869047619
+0	720	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	processor frequencies	0.375	0.0119047619	1	1.3869047619
+0	719	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	rapid increase	0.375	0.0119047619	1	1.3869047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	rtstype games	0.375	0.0119047619	1	1.3869047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	significant shift	0.375	0.0119047619	1	1.3869047619
+0	724	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	socalled playability	0.375	0.0119047619	1	1.3869047619
+0	723	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	threedimensional graphics	0.375	0.0119047619	1	1.3869047619
+0	19	http://nevonprojects.com/artificial-intelligence-projects/	 8051 microcontroller projects	0.375	0.0098039216	1	1.3848039216
+0	28	http://nevonprojects.com/artificial-intelligence-projects/	 android based	0.375	0.0098039216	1	1.3848039216
+0	38	http://nevonprojects.com/artificial-intelligence-projects/	 android projects	0.375	0.0098039216	1	1.3848039216
+0	23	http://nevonprojects.com/artificial-intelligence-projects/	 arduino projects	0.375	0.0098039216	1	1.3848039216
+0	40	http://nevonprojects.com/artificial-intelligence-projects/	 data mining	0.375	0.0098039216	1	1.3848039216
+0	32	http://nevonprojects.com/artificial-intelligence-projects/	 digital electronics	0.375	0.0098039216	1	1.3848039216
+0	26	http://nevonprojects.com/artificial-intelligence-projects/	 dtmf based	0.375	0.0098039216	1	1.3848039216
+0	34	http://nevonprojects.com/artificial-intelligence-projects/	 general applications	0.375	0.0098039216	1	1.3848039216
+0	30	http://nevonprojects.com/artificial-intelligence-projects/	 gps projects	0.375	0.0098039216	1	1.3848039216
+0	29	http://nevonprojects.com/artificial-intelligence-projects/	 gsm based	0.375	0.0098039216	1	1.3848039216
+0	45	http://nevonprojects.com/artificial-intelligence-projects/	 information security	0.375	0.0098039216	1	1.3848039216
+0	37	http://nevonprojects.com/artificial-intelligence-projects/	 matlab projects	0.375	0.0098039216	1	1.3848039216
+0	48	http://nevonprojects.com/artificial-intelligence-projects/	 mechatronics projects	0.375	0.0098039216	1	1.3848039216
+0	36	http://nevonprojects.com/artificial-intelligence-projects/	 php projects	0.375	0.0098039216	1	1.3848039216
+0	16	http://nevonprojects.com/artificial-intelligence-projects/	 robotic systems	0.375	0.0098039216	1	1.3848039216
+0	18	http://nevonprojects.com/artificial-intelligence-projects/	 sensor based	0.375	0.0098039216	1	1.3848039216
+0	62	http://nevonprojects.com/artificial-intelligence-projects/	 solar solutions	0.375	0.0098039216	1	1.3848039216
+0	64	http://nevonprojects.com/artificial-intelligence-projects/	 track order	0.375	0.0098039216	1	1.3848039216
+0	44	http://nevonprojects.com/artificial-intelligence-projects/	 web based	0.375	0.0098039216	1	1.3848039216
+0	15	http://nevonprojects.com/artificial-intelligence-projects/	 wireless communication	0.375	0.0098039216	1	1.3848039216
+0	71	http://nevonprojects.com/artificial-intelligence-projects/	collaborative filtering	0.375	0.0098039216	1	1.3848039216
+0	31	http://nevonprojects.com/artificial-intelligence-projects/	electrical projects	0.375	0.0098039216	1	1.3848039216
+0	58	http://nevonprojects.com/artificial-intelligence-projects/	electronics development	0.375	0.0098039216	1	1.3848039216
+0	69	http://nevonprojects.com/artificial-intelligence-projects/	fatsecret api	0.375	0.0098039216	1	1.3848039216
+0	11	http://nevonprojects.com/artificial-intelligence-projects/	free projects	0.375	0.0098039216	1	1.3848039216
+0	99	http://nevonprojects.com/artificial-intelligence-projects/	freelancing opportunity	0.375	0.0098039216	1	1.3848039216
+0	77	http://nevonprojects.com/artificial-intelligence-projects/	genuine rating	0.375	0.0098039216	1	1.3848039216
+0	102	http://nevonprojects.com/artificial-intelligence-projects/	gps tracking	0.375	0.0098039216	1	1.3848039216
+0	39	http://nevonprojects.com/artificial-intelligence-projects/	ios projects	0.375	0.0098039216	1	1.3848039216
+0	98	http://nevonprojects.com/artificial-intelligence-projects/	job vacancy	0.375	0.0098039216	1	1.3848039216
+0	22	http://nevonprojects.com/artificial-intelligence-projects/	microcontroller projects	0.375	0.0098039216	1	1.3848039216
+0	74	http://nevonprojects.com/artificial-intelligence-projects/	online shopping	0.375	0.0098039216	1	1.3848039216
+0	87	http://nevonprojects.com/artificial-intelligence-projects/	opinion mining	0.375	0.0098039216	1	1.3848039216
+0	60	http://nevonprojects.com/artificial-intelligence-projects/	packaging/sealing systems	0.375	0.0098039216	1	1.3848039216
+0	69	http://nevonprojects.com/artificial-intelligence-projects/	personal nutritionist	0.375	0.0098039216	1	1.3848039216
+0	95	http://nevonprojects.com/artificial-intelligence-projects/	privacy policy	0.375	0.0098039216	1	1.3848039216
+0	61	http://nevonprojects.com/artificial-intelligence-projects/	product design/development	0.375	0.0098039216	1	1.3848039216
+0	104	http://nevonprojects.com/artificial-intelligence-projects/	safety system	0.375	0.0098039216	1	1.3848039216
+0	59	http://nevonprojects.com/artificial-intelligence-projects/	software development	0.375	0.0098039216	1	1.3848039216
+0	76	http://nevonprojects.com/artificial-intelligence-projects/	stream analysis	0.375	0.0098039216	1	1.3848039216
+0	94	http://nevonprojects.com/artificial-intelligence-projects/	terms & conditions	0.375	0.0098039216	1	1.3848039216
+0	84	http://nevonprojects.com/artificial-intelligence-projects/	wallet system	0.375	0.0098039216	1	1.3848039216
+0	74	http://nevonprojects.com/artificial-intelligence-projects/	web mining	0.375	0.0098039216	1	1.3848039216
+0	87	http://nevonprojects.com/artificial-intelligence-projects/	website evaluation	0.375	0.0098039216	1	1.3848039216
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	accelerated growth	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	average revenues	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	banks5 apr	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	chief justice	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	cognitive technology	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	combining expertise	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	decision makers	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	delhi today	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	disciplinary practitioners	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	driven bot	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	dumb search	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	facebook turns	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	fuel amazon	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	good governance	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	million users	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	mumbai4 apr	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	spot users	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	success13 apr	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	suicidal tendencies	0.375	0.0078125	1	1.3828125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	supreme court	0.375	0.0078125	1	1.3828125
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	agent system	0.375	0.007518797	1	1.382518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	ai assistant	0.375	0.007518797	1	1.382518797
+0	141	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	allen newell	0.375	0.007518797	1	1.382518797
+0	132	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	boicho kokinov	0.375	0.007518797	1	1.382518797
+0	132	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	bulgarian university	0.375	0.007518797	1	1.382518797
+0	135	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	city university	0.375	0.007518797	1	1.382518797
+0	134	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	cogaff architecture	0.375	0.007518797	1	1.382518797
+0	134	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	cogaff schema	0.375	0.007518797	1	1.382518797
+0	131	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	douglas hofstadter	0.375	0.007518797	1	1.382518797
+0	128	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	fernand gobet	0.375	0.007518797	1	1.382518797
+0	135	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	forr developed	0.375	0.007518797	1	1.382518797
+0	139	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	friedrich university	0.375	0.007518797	1	1.382518797
+0	131	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	indiana university	0.375	0.007518797	1	1.382518797
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	inspired extension	0.375	0.007518797	1	1.382518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	institution effort	0.375	0.007518797	1	1.382518797
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	jack multi	0.375	0.007518797	1	1.382518797
+0	141	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	john laird	0.375	0.007518797	1	1.382518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	machine vision	0.375	0.007518797	1	1.382518797
+0	126	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	marcus hutter	0.375	0.007518797	1	1.382518797
+0	142	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	marvin minsky	0.375	0.007518797	1	1.382518797
+0	131	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	melanie mitchell	0.375	0.007518797	1	1.382518797
+0	138	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	michael georgeff	0.375	0.007518797	1	1.382518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	office environment	0.375	0.007518797	1	1.382518797
+0	137	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	opencog framework	0.375	0.007518797	1	1.382518797
+0	137	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	opencog prime	0.375	0.007518797	1	1.382518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	probabilistic logic	0.375	0.007518797	1	1.382518797
+0	143	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	rodney brooks	0.375	0.007518797	1	1.382518797
+0	129	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	ron sun	0.375	0.007518797	1	1.382518797
+0	134	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	sloman refs	0.375	0.007518797	1	1.382518797
+0	134	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	special case	0.375	0.007518797	1	1.382518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	speech recognition	0.375	0.007518797	1	1.382518797
+0	138	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	sri international	0.375	0.007518797	1	1.382518797
+0	136	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	stan franklin	0.375	0.007518797	1	1.382518797
+0	143	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	subsumption architectures	0.375	0.007518797	1	1.382518797
+0	134	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	taylor & sayda	0.375	0.007518797	1	1.382518797
+0	139	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	theory developed	0.375	0.007518797	1	1.382518797
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	virtual environments	0.375	0.007518797	1	1.382518797
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	programming team	0.3125	0.0119047619	1	1.3244047619
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	bank partners	0.3125	0.0078125	1	1.3203125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	dark data	0.3125	0.0078125	1	1.3203125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	global companies	0.3125	0.0078125	1	1.3203125
+0	128	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	brunel university	0.3125	0.007518797	1	1.320018797
+0	133	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	michigan ph	0.3125	0.007518797	1	1.320018797
+0	13	http://nevonprojects.com/artificial-intelligence-projects/	contact	0.125	0.0196078431	1	1.1446078431
+0	710	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	day	0.125	0.0119047619	1	1.1369047619
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	centre	0.125	0.0078125	1	1.1328125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	wallet	0.125	0.0078125	1	1.1328125
+0	124	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	125	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	128	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	129	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	132	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	133	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	136	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	137	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	138	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	140	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	141	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	143	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	developed	0	0.0902255639	1	1.0902255639
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	bank	0.0625	0.0078125	1	1.0703125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	companies	0.0625	0.0078125	1	1.0703125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	data	0.0625	0.0078125	1	1.0703125
+0	133	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	michigan	0.0625	0	1	1.0625
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	programming	0.0625	0	1	1.0625
+0	442	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	argue	0	0.0357142857	1	1.0357142857
+0	441	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	argument	0	0.0357142857	1	1.0357142857
+0	443	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	emphasize	0	0.0357142857	1	1.0357142857
+0	443	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	field	0	0.0357142857	1	1.0357142857
+0	444	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	graces	0	0.0357142857	1	1.0357142857
+0	444	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	names	0	0.0357142857	1	1.0357142857
+0	444	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	offerings	0	0.0357142857	1	1.0357142857
+0	154	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	part	0	0.0357142857	1	1.0357142857
+0	443	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	prefer	0	0.0357142857	1	1.0357142857
+0	441	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	subject	0	0.0357142857	1	1.0357142857
+0	443	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	subset	0	0.0357142857	1	1.0357142857
+0	443	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	terms	0	0.0357142857	1	1.0357142857
+0	709	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	frequently	0	0.0238095238	1	1.0238095238
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	frequently	0	0.0238095238	1	1.0238095238
+0	65	http://nevonprojects.com/artificial-intelligence-projects/	contact	0	0.0196078431	1	1.0196078431
+0	7	http://nevonprojects.com/artificial-intelligence-projects/	internet	0	0.0196078431	1	1.0196078431
+0	17	http://nevonprojects.com/artificial-intelligence-projects/	internet	0	0.0196078431	1	1.0196078431
+0	12	http://nevonprojects.com/artificial-intelligence-projects/	systems	0	0.0196078431	1	1.0196078431
+0	63	http://nevonprojects.com/artificial-intelligence-projects/	systems	0	0.0196078431	1	1.0196078431
+0	7	http://nevonprojects.com/artificial-intelligence-projects/	things	0	0.0196078431	1	1.0196078431
+0	17	http://nevonprojects.com/artificial-intelligence-projects/	things	0	0.0196078431	1	1.0196078431
+0	148	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	facets	0	0.015625	1	1.015625
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	facets	0	0.015625	1	1.015625
+0	148	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	health	0	0.015625	1	1.015625
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	health	0	0.015625	1	1.015625
+0	148	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	improving	0	0.015625	1	1.015625
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	improving	0	0.015625	1	1.015625
+0	148	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	nations	0	0.015625	1	1.015625
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	nations	0	0.015625	1	1.015625
+0	125	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	act	0	0.015037594	1	1.015037594
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	act	0	0.015037594	1	1.015037594
+0	720	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	2 mhz	0	0.0119047619	1	1.0119047619
+0	722	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	386 486 processors	0	0.0119047619	1	1.0119047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	algorithms	0	0.0119047619	1	1.0119047619
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	beginning	0	0.0119047619	1	1.0119047619
+0	709	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	behaviour	0	0.0119047619	1	1.0119047619
+0	719	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	catalyst	0	0.0119047619	1	1.0119047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	caused	0	0.0119047619	1	1.0119047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	dawn	0	0.0119047619	1	1.0119047619
+0	710	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	demands	0	0.0119047619	1	1.0119047619
+0	709	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	describing	0	0.0119047619	1	1.0119047619
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	designated	0	0.0119047619	1	1.0119047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	determine	0	0.0119047619	1	1.0119047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	era	0	0.0119047619	1	1.0119047619
+0	723	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	featured	0	0.0119047619	1	1.0119047619
+0	720	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	games	0	0.0119047619	1	1.0119047619
+0	720	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	higher	0	0.0119047619	1	1.0119047619
+0	724	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	identified	0	0.0119047619	1	1.0119047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	interest	0	0.0119047619	1	1.0119047619
+0	720	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	machines	0	0.0119047619	1	1.0119047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	map	0	0.0119047619	1	1.0119047619
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	members	0	0.0119047619	1	1.0119047619
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	modules	0	0.0119047619	1	1.0119047619
+0	711	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	points	0	0.0119047619	1	1.0119047619
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	project	0	0.0119047619	1	1.0119047619
+0	723	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	quality	0	0.0119047619	1	1.0119047619
+0	722	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	race	0	0.0119047619	1	1.0119047619
+0	724	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	recently	0	0.0119047619	1	1.0119047619
+0	720	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	settle	0	0.0119047619	1	1.0119047619
+0	723	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	sound	0	0.0119047619	1	1.0119047619
+0	722	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	standard	0	0.0119047619	1	1.0119047619
+0	722	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	start	0	0.0119047619	1	1.0119047619
+0	709	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	step	0	0.0119047619	1	1.0119047619
+0	720	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	time	0	0.0119047619	1	1.0119047619
+0	105	http://nevonprojects.com/artificial-intelligence-projects/	arm	0	0.0098039216	1	1.0098039216
+0	92	http://nevonprojects.com/artificial-intelligence-projects/	prediction	0	0.0098039216	1	1.0098039216
+0	97	http://nevonprojects.com/artificial-intelligence-projects/	warranty	0	0.0098039216	1	1.0098039216
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	$20 billion	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	$200 million15	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	actions	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	adobe	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	age	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	areas	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	automation	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	barriers	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	bring	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	company	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	complement	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	critical	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	developers	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	embrace	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	enterprise	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	future	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	generation	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	half	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	intuitive	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	open	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	presence	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	put	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	remark	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	replace	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	robotics	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	spreading	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	structured	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	support	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	teams	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	trusted	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	turn	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	usable	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	ushered	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	views	0	0.0078125	1	1.0078125
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	world	0	0.0078125	1	1.0078125
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	adds	0	0.007518797	1	1.007518797
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	agents	0	0.007518797	1	1.007518797
+0	143	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	argued	0	0.007518797	1	1.007518797
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	behaviors	0	0.007518797	1	1.007518797
+0	140	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	cast	0	0.007518797	1	1.007518797
+0	129	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	clarion	0	0.007518797	1	1.007518797
+0	143	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	cognitive	0	0.007518797	1	1.007518797
+0	131	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	copycat	0	0.007518797	1	1.007518797
+0	117	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	current	0	0.007518797	1	1.007518797
+0	132	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	dual	0	0.007518797	1	1.007518797
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	eliciting	0	0.007518797	1	1.007518797
+0	133	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	epic	0	0.007518797	1	1.007518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	forms	0	0.007518797	1	1.007518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	funded	0	0.007518797	1	1.007518797
+0	133	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	graduates	0	0.007518797	1	1.007518797
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	human	0	0.007518797	1	1.007518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	integrate	0	0.007518797	1	1.007518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	manage	0	0.007518797	1	1.007518797
+0	142	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	mind	0	0.007518797	1	1.007518797
+0	139	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	otto	0	0.007518797	1	1.007518797
+0	117	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	past	0	0.007518797	1	1.007518797
+0	128	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	peter	0	0.007518797	1	1.007518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	planning	0	0.007518797	1	1.007518797
+0	139	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	psi	0	0.007518797	1	1.007518797
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	realistic	0	0.007518797	1	1.007518797
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	reasoning	0	0.007518797	1	1.007518797
+0	141	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	soar	0	0.007518797	1	1.007518797
+0	142	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	society	0	0.007518797	1	1.007518797
+0	142	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	successor	0	0.007518797	1	1.007518797
+0	135	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	york	0	0.007518797	1	1.007518797
+0	13	http://nevonprojects.com/artificial-intelligence-projects/	 dealership	0	0	1	1
+0	67	http://nevonprojects.com/artificial-intelligence-projects/	 dealership	0	0	1	1
+0	33	http://nevonprojects.com/artificial-intelligence-projects/	 electronics	0	0	1	1
+0	13	http://nevonprojects.com/artificial-intelligence-projects/	 find	0	0	1	1
+0	66	http://nevonprojects.com/artificial-intelligence-projects/	 find	0	0	1	1
+0	14	http://nevonprojects.com/artificial-intelligence-projects/	 investors	0	0	1	1
+0	124	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	4caps	0	0	1	1
+0	148	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	agriculture	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	agriculture	0	0	1	1
+0	126	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	forms	0	0	1	1
+0	138	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	amy	0	0	1	1
+0	125	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	anderson	0	0	1	1
+0	126	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	anu	0	0	1	1
+0	148	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	applicability	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	applicability	0	0	1	1
+0	719	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	applications	0	0	1	1
+0	721	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	applications	0	0	1	1
+0	103	http://nevonprojects.com/artificial-intelligence-projects/	arduino	0	0	1	1
+0	139	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	bamberg	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	bezos	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	blogpost	0	0	1	1
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	calo	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	chatbots	0	0	1	1
+0	128	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	chrest	0	0	1	1
+0	130	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	cojack	0	0	1	1
+0	7	http://nevonprojects.com/artificial-intelligence-projects/	communication	0	0	1	1
+0	33	http://nevonprojects.com/artificial-intelligence-projects/	communication	0	0	1	1
+0	710	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	complicated	0	0	1	1
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	darpa	0	0	1	1
+0	133	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	david	0	0	1	1
+0	719	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	development	0	0	1	1
+0	139	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	dietrich	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	don’	0	0	1	1
+0	135	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	epstein	0	0	1	1
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	fulltime	0	0	1	1
+0	139	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	germany	0	0	1	1
+0	128	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	hertfordshire	0	0	1	1
+0	136	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	ida	0	0	1	1
+0	126	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	idsia	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	india	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	information	0	0	1	1
+0	17	http://nevonprojects.com/artificial-intelligence-projects/	iot	0	0	1	1
+0	125	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	john	0	0	1	1
+0	101	http://nevonprojects.com/artificial-intelligence-projects/	join	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	khehar	0	0	1	1
+0	133	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	kieras	0	0	1	1
+0	128	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	lane	0	0	1	1
+0	138	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	lansky	0	0	1	1
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	learns	0	0	1	1
+0	722	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	led	0	0	1	1
+0	136	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	lida	0	0	1	1
+0	117	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	list	0	0	1	1
+0	124	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	marcel	0	0	1	1
+0	136	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	memphis	0	0	1	1
+0	133	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	meyer	0	0	1	1
+0	141	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	michigan	0	0	1	1
+0	129	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	missouri	0	0	1	1
+0	283	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	mit	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	multi	0	0	1	1
+0	154	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	nsf	0	0	1	1
+0	139	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	örner	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	payjo	0	0	1	1
+0	722	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	pcs	0	0	1	1
+0	721	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	possibilities	0	0	1	1
+0	722	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	possibilities	0	0	1	1
+0	722	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	programmers	0	0	1	1
+0	138	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	prs	0	0	1	1
+0	723	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	realisation	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	sensei	0	0	1	1
+0	135	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	susan	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	sustainability	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	unstructured	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	website	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	wednesday	0	0	1	1
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	machine learning	0.5125	0.0078125	0.2222222222	0.7425347222
+0	443	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	machine learning	0.375	0.0357142857	0.2222222222	0.6329365079
+0	127	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	machine learning	0.375	0.007518797	0.2222222222	0.6047410192
+0	141	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	university	0.125	0.037593985	0.4166666667	0.5792606516
+0	128	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	university	0.0625	0.037593985	0.4166666667	0.5167606516
+0	719	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	artificial intelligence	0.375	0.0357142857	0.0666666667	0.4773809524
+0	724	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	artificial intelligence	0.375	0.0357142857	0.0666666667	0.4773809524
+0	732	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	artificial intelligence	0.375	0.0357142857	0.0666666667	0.4773809524
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	artificial intelligence	0.4152097902	0.015625	0.0277777778	0.458612568
+0	129	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	university	0	0.037593985	0.4166666667	0.4542606516
+0	133	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	university	0	0.037593985	0.4166666667	0.4542606516
+0	136	https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects	university	0	0.037593985	0.4166666667	0.4542606516
+0	709	https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games	popular	0	0.0119047619	0.4166666667	0.4285714286
+0	149	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	popular	0	0.0078125	0.4166666667	0.4244791667
+0	148	http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects	artificial intelligence	0.375	0.015625	0.0277777778	0.4184027778
+0	441	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	artificial intelligence	0.375	0.0357142857	0	0.4107142857
+0	41	http://nevonprojects.com/artificial-intelligence-projects/	 artificial intelligence	0.375	0.0098039216	0	0.3848039216
+0	444	https://projects.csail.mit.edu/films/aifilms/AIFilms.html	university	0	0.0357142857	0.0277777778	0.0634920635

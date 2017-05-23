@@ -298,15 +298,17 @@ public class GoogleSearchJava {
                                     {
                                         System.out.println(lines_itr);
                                     }*/
-                                    lines_itr = lines_itr.replaceAll("\\((.*?)\\)","");
-                                    lines_itr = lines_itr.replaceAll("-","");
-                                    lines_itr = lines_itr.replaceAll("[^a-zA-Z0-9,]"," ");
+//                                    lines_itr = lines_itr.replaceAll("\\((.*?)\\)","");
+//                                    lines_itr = lines_itr.replaceAll("-","");
+                                    lines_itr = lines_itr.replaceAll("-","_").replaceAll("\\(.*?\\) ?", "");
+                                    lines_itr = lines_itr.replaceAll("[^a-zA-Z0-9,_]"," ");
                                     /*
                                     if(lines_itr.contains(";"))
                                     {
                                         System.out.println(lines_itr);
                                     }
                                     */
+
                                     bw.write(lines_itr);
                                     bw.write(".");
                                     bw.write("\n");
@@ -346,7 +348,8 @@ public class GoogleSearchJava {
                                             String line_li = li.text();
 
                                             //System.out.println(line_li);
-
+                                            line_li = line_li.replaceAll("-","_").replaceAll("\\(.*?\\) ?", "");
+                                            line_li = line_li.replaceAll("[^a-zA-Z0-9,_]"," ");
                                             bw.write(line_li);
                                             bw.write(".");
                                             bw.write("\n");
@@ -378,7 +381,8 @@ public class GoogleSearchJava {
                                 String line_li = li.text();
 
                                 //System.out.println(line_li);
-
+                                line_li = line_li.replaceAll("-","_").replaceAll("\\(.*?\\) ?", "");
+                                line_li = line_li.replaceAll("[^a-zA-Z0-9,_]"," ");
                                 bw.write(line_li);
                                 bw.write(".");
                                 bw.write("\n");

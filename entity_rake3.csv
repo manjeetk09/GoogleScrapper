@@ -1,178 +1,618 @@
-1;https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal_in_c.htm;implementation;1.0;0.0;6.0
-1;https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal_in_c.htm;breadth;1.0;0.14285714285714285;1.5
-1;https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal_in_c.htm;programming language;4.0;0.14285714285714285;6.0
-1;https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal_in_c.htm;traversal;1.0;0.14285714285714285;1.0
-2;https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal_in_c.htm;reference purpose;4.0;0.14285714285714285;6.0
-2;https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal_in_c.htm;follow;1.0;0.14285714285714285;6.0
-2;https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal_in_c.htm;graph model;4.0;0.14285714285714285;6.0
-3;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;graph;1.0;0.11538461538461539;1.2
-3;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;depth;1.0;0.07692307692307693;2.0
-3;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;similar;1.0;0.038461538461538464;3.0
-3;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;tree;1.0;0.038461538461538464;3.0
-3;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;traversal;1.0;0.07692307692307693;1.2
-4;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;catch;1.0;0.038461538461538464;3.0
-4;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;graphs;1.0;0.038461538461538464;3.0
-4;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;cycles;1.0;0.038461538461538464;3.0
-4;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;node;1.0;0.07692307692307693;1.5
-4;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;unlike trees;4.0;0.038461538461538464;3.0
-5;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;node;1.0;0.07692307692307693;1.5
-5;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;boolean visited array;9.0;0.038461538461538464;3.0
-5;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;avoid processing;4.0;0.038461538461538464;3.0
-6;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;vertex 2;1.0;0.038461538461538464;3.0
-6;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;graph;1.0;0.11538461538461539;1.2
-6;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;start traversal;4.0;0.038461538461538464;3.0
-7;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;vertex 0;1.0;0.038461538461538464;3.0
-7;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;adjacent vertices;4.0;0.038461538461538464;3.0
-8;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;adjacent vertex;4.0;0.038461538461538464;3.0
-9;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;don;1.0;0.038461538461538464;3.0
-9;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;processed;1.0;0.038461538461538464;3.0
-9;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;nonterminating process;4.0;0.038461538461538464;3.0
-9;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;mark visited vertices;9.0;0.038461538461538464;3.0
-10;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;graph;1.0;0.11538461538461539;1.2
-10;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;depth;1.0;0.07692307692307693;2.0
-10;http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/;traversal;1.0;0.07692307692307693;1.2
-25;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;breadth;1.0;0.06451612903225806;2.0
-25;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;similar;1.0;0.03225806451612903;3.0
-25;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;graph;1.0;0.0967741935483871;1.2
-25;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;tree;1.0;0.03225806451612903;3.0
-25;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;traversal;1.0;0.06451612903225806;1.2
-26;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;catch;1.0;0.03225806451612903;3.0
-26;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;graphs;1.0;0.03225806451612903;3.0
-26;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;cycles;1.0;0.03225806451612903;3.0
-26;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;node;1.0;0.06451612903225806;1.5
-26;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;unlike trees;4.0;0.03225806451612903;3.0
-27;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;node;1.0;0.06451612903225806;1.5
-27;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;boolean visited array;9.0;0.03225806451612903;3.0
-27;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;avoid processing;4.0;0.03225806451612903;3.0
-28;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;simplicity;1.0;0.03225806451612903;6.0
-28;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;reachable;1.0;0.03225806451612903;6.0
-28;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;vertices;1.0;0.03225806451612903;6.0
-28;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;starting vertex;4.0;0.03225806451612903;6.0
-28;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;assumed;1.0;0.03225806451612903;6.0
-29;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;vertex 2;1.0;0.03225806451612903;3.0
-29;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;graph;1.0;0.0967741935483871;1.2
-29;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;start traversal;4.0;0.03225806451612903;3.0
-30;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;vertex 0;1.0;0.03225806451612903;3.0
-30;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;adjacent vertices;4.0;0.03225806451612903;3.0
-31;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;adjacent vertex;4.0;0.03225806451612903;3.0
-32;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;don;1.0;0.03225806451612903;3.0
-32;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;processed;1.0;0.03225806451612903;3.0
-32;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;nonterminating process;4.0;0.03225806451612903;3.0
-32;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;mark visited vertices;9.0;0.03225806451612903;3.0
-33;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;breadth;1.0;0.06451612903225806;2.0
-33;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;graph;1.0;0.0967741935483871;1.2
-33;http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/;traversal;1.0;0.06451612903225806;1.2
-46;http://www.thecrazyprogrammer.com/2014/03/depth-first-search-dfs-traversal-of-a-graph.html;depth;1.0;0.2;1.5
-46;http://www.thecrazyprogrammer.com/2014/03/depth-first-search-dfs-traversal-of-a-graph.html;search  program;4.0;0.2;6.0
-46;http://www.thecrazyprogrammer.com/2014/03/depth-first-search-dfs-traversal-of-a-graph.html;algorithm;1.0;0.2;6.0
-46;http://www.thecrazyprogrammer.com/2014/03/depth-first-search-dfs-traversal-of-a-graph.html;tutorial;1.0;0.2;6.0
-46;http://www.thecrazyprogrammer.com/2014/03/depth-first-search-dfs-traversal-of-a-graph.html;learn;1.0;0.0;6.0
-56;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;template class /*;9.0;0.011363636363636364;6.0
-56;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;ascending order;4.0;0.011363636363636364;6.0
-56;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;++ program code;9.0;0.03409090909090909;6.0
-56;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;selection sort;4.0;0.011363636363636364;6.0
-56;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;array elements;4.5;0.011363636363636364;6.0
-56;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;sorted array arranged;8.5;0.011363636363636364;6.0
-57;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;function part;4.0;0.011363636363636364;6.0
-57;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;perform quick sort;9.0;0.011363636363636364;6.0
-57;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;++ program code;9.0;0.03409090909090909;6.0
-57;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;user /*;3.5;0.0;6.0
-57;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;quick sorting algorithm;9.0;0.011363636363636364;6.0
-57;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;user;1.5;0.022727272727272728;6.0
-57;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;array elements entered;7.0;0.011363636363636364;6.0
-57;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;array;2.0;0.011363636363636364;6.0
-57;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;entered;2.0;0.011363636363636364;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;balance check;4.0;0.011363636363636364;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;code;1.5;0.011363636363636364;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;account creation;5.0;0.011363636363636364;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;modify;1.0;0.011363636363636364;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;bala;1.0;0.0;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;includes;1.0;0.011363636363636364;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;featuring account creation;8.0;0.011363636363636364;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;deposit;1.0;0.011363636363636364;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;withdraw;1.0;0.011363636363636364;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;++ code;3.5;0.0;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;bank management applications;9.0;0.011363636363636364;6.0
-58;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;details;1.0;0.011363636363636364;6.0
-59;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;generating;1.0;0.011363636363636364;6.0
-59;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;++ project code;7.66666666667;0.011363636363636364;6.0
-59;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;beep;1.0;0.011363636363636364;6.0
-59;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;intro song;4.0;0.011363636363636364;6.0
-59;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;interesing;1.0;0.0;6.0
-59;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;++ code;4.66666666667;0.0;6.0
-59;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;function & sleep;4.0;0.011363636363636364;6.0
-59;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;function whi;4.0;0.011363636363636364;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;prime number;3.5;0.011363636363636364;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;prompted;1.0;0.011363636363636364;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;prime numbers;4.0;0.011363636363636364;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;number;1.5;0.011363636363636364;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;program;1.0;0.056818181818181816;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;user;1.0;0.022727272727272728;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;enter;1.0;0.011363636363636364;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;print;1.0;0.011363636363636364;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;integer;1.0;0.011363636363636364;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;//print;1.0;0.0;6.0
-60;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;++ program/code;4.0;0.03409090909090909;6.0
-61;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;evaluate;1.0;0.011363636363636364;6.0
-61;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;stack //;4.0;0.0;6.0
-61;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;program;1.0;0.056818181818181816;6.0
-61;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;convert infix expression;8.5;0.011363636363636364;6.0
-61;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;postfix expression;4.5;0.011363636363636364;6.0
-62;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;implements;1.0;0.011363636363636364;6.0
-62;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;double ended queue;9.0;0.011363636363636364;6.0
-62;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;end;1.0;0.011363636363636364;6.0
-62;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;insertion & delection;4.0;0.011363636363636364;6.0
-62;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;write;1.0;0.011363636363636364;6.0
-62;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;program;1.0;0.056818181818181816;6.0
-62;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;logic;1.0;0.0;6.0
-62;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;star;1.0;0.011363636363636364;6.0
-62;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;insertion & deletion;4.0;0.011363636363636364;6.0
-63;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;breadth;1.0;0.011363636363636364;1.5
-63;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;graph traversal //;7.0;0.022727272727272728;6.0
-63;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;traversal //;4.5;0.0;6.0
-63;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;traversal;2.16666666667;0.011363636363636364;1.0
-63;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;depth;1.0;0.011363636363636364;1.5
-63;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;program;1.0;0.056818181818181816;6.0
-63;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;implement;1.0;0.011363636363636364;6.0
-63;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;traversal #include <stdio;8.16666666667;0.011363636363636364;6.0
-63;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;graph traversal;4.66666666667;0.022727272727272728;6.0
-64;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;randomly;1.0;0.011363636363636364;6.0
-64;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;blobs;1.0;0.011363636363636364;6.0
-64;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;snake game;4.0;0.022727272727272728;6.0
-64;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;deals;1.0;0.011363636363636364;6.0
-64;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;game snake;4.0;0.022727272727272728;6.0
-64;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;++ code;4.0;0.0;6.0
-64;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;eat;1.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;program;1.0;0.056818181818181816;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;register number;4.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;> #include<stdlib;4.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;insert;1.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;> #include<conio;4.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;#include <stdio;4.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;student database;4.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;single linked list;9.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;perform search;4.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;design;1.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;delete operation;4.0;0.011363636363636364;6.0
-65;http://cncpp.divilabs.com/2011/05/write-c-program-to-implement-graph.html;char roll;4.0;0.011363636363636364;6.0
-66;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;node;1.0;0.047619047619047616;1.2
-66;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;distance;1.0;0.047619047619047616;6.0
-66;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;defined;1.0;0.047619047619047616;6.0
-66;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;root;1.0;0.047619047619047616;6.0
-66;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;explores nodes;4.0;0.047619047619047616;6.0
-66;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;minimum path length;9.0;0.047619047619047616;6.0
-66;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;graph traversal algorithm;9.0;0.047619047619047616;6.0
-66;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;order;1.0;0.047619047619047616;6.0
-66;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;roots;1.0;0.047619047619047616;6.0
-66;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;breadthfirst search;4.0;0.047619047619047616;6.0
-67;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;pseudocode;1.0;0.047619047619047616;6.0
-70;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;nodes;1.0;0.047619047619047616;6.0
-70;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;popped;1.0;0.047619047619047616;6.0
-70;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;distance order;4.0;0.047619047619047616;6.0
-71;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;graph;1.0;0.047619047619047616;0.8571428571428571
-71;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;shortest path;4.0;0.047619047619047616;6.0
-71;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;find;1.0;0.047619047619047616;6.0
-72;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;queue;1.0;0.047619047619047616;6.0
-72;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;track;1.0;0.047619047619047616;6.0
-72;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;worklist;1.0;0.0;6.0
-72;http://www.cs.cornell.edu/courses/cs2112/2012sp/lectures/lec24/lec24-12sp.html;work left;4.0;0.047619047619047616;6.0
+9;https://www.bccfalna.com/data-structure-algorithms/;queues;1.0;0.25;10.0
+9;https://www.bccfalna.com/data-structure-algorithms/;linked lists;4.0;0.25;10.0
+9;https://www.bccfalna.com/data-structure-algorithms/;stacks;1.0;0.25;5.0
+9;https://www.bccfalna.com/data-structure-algorithms/;trees;1.0;0.25;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;rotations;1.0;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;fibonacci series;4.0;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;recursion chapter_23 insert;9.0;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;algorithm;1.0;0.05263157894736842;1.25
+10;https://www.mysirg.com/courses/data-structure-videos/;ds chapter_3 arrays;9.0;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;factorial;1.0;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;tree;2.0;0.05263157894736842;1.25
+10;https://www.mysirg.com/courses/data-structure-videos/;chapter_1 introduction;4.5;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;recursion chapter_5 program;9.0;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;binary search tree;7.2;0.05263157894736842;2.5
+10;https://www.mysirg.com/courses/data-structure-videos/;element;1.0;0.05263157894736842;5.0
+10;https://www.mysirg.com/courses/data-structure-videos/;recursion chapter_6 program;9.0;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;greatest common divisor;9.0;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;queue chapter_14 introduction;8.5;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;avl tree;4.0;0.05263157894736842;3.3333333333333335
+10;https://www.mysirg.com/courses/data-structure-videos/;binary tree;4.2;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;tower;1.0;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;hanoi chapter_5 program;9.0;0.05263157894736842;10.0
+10;https://www.mysirg.com/courses/data-structure-videos/;backtracking;1.0;0.0;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;rotations;1.0;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;fibonacci series;4.0;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;recursion chapter_23 insert;9.0;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;algorithm;1.0;0.05263157894736842;1.25
+14;https://www.mysirg.com/courses/data-structure-videos/;ds chapter_3 arrays;9.0;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;factorial;1.0;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;tree;2.0;0.05263157894736842;1.25
+14;https://www.mysirg.com/courses/data-structure-videos/;chapter_1 introduction;4.5;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;recursion chapter_5 program;9.0;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;binary search tree;7.2;0.05263157894736842;2.5
+14;https://www.mysirg.com/courses/data-structure-videos/;element;1.0;0.05263157894736842;5.0
+14;https://www.mysirg.com/courses/data-structure-videos/;recursion chapter_6 program;9.0;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;greatest common divisor;9.0;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;queue chapter_14 introduction;8.5;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;avl tree;4.0;0.05263157894736842;3.3333333333333335
+14;https://www.mysirg.com/courses/data-structure-videos/;binary tree;4.2;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;tower;1.0;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;hanoi chapter_5 program;9.0;0.05263157894736842;10.0
+14;https://www.mysirg.com/courses/data-structure-videos/;backtracking;1.0;0.0;10.0
+19;https://wn.com/Chapter_15_Binary_Tree_In_Data_Structure_Hindi;data structure hindi;9.0;0.5;1.4285714285714286
+20;https://wn.com/Chapter_15_Binary_Tree_In_Data_Structure_Hindi;chapter 14 introduction;4.0;0.25;3.3333333333333335
+20;https://wn.com/Chapter_15_Binary_Tree_In_Data_Structure_Hindi;data structure hindi;9.0;0.5;1.4285714285714286
+20;https://wn.com/Chapter_15_Binary_Tree_In_Data_Structure_Hindi;tree;1.0;0.25;1.1111111111111112
+76;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;node;1.0;0.020512820512820513;10.0
+77;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 building;1.0;0.005128205128205128;10.0
+77;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;nodes;1.0;0.005128205128205128;10.0
+77;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;chain;1.0;0.005128205128205128;10.0
+78;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;induction;1.0;0.005128205128205128;10.0
+78;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;principle;1.0;0.005128205128205128;10.0
+79;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;summation;1.0;0.005128205128205128;10.0
+79;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;4 induction;1.0;0.005128205128205128;10.0
+80;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;notation 5;2.0;0.005128205128205128;10.0
+80;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;asymptotic notation relates;7.5;0.005128205128205128;10.0
+80;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;asymptotic notation;4.5;0.005128205128205128;10.0
+80;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 definition 5;1.0;0.005128205128205128;10.0
+80;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;omega notation 5;4.0;0.005128205128205128;10.0
+80;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 introduction 5;1.0;0.005128205128205128;10.0
+80;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;examples;1.0;0.005128205128205128;10.0
+80;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;analyzing complexity 5;4.0;0.005128205128205128;10.0
+81;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;6 arrays 6;1.0;0.005128205128205128;10.0
+81;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;5 array access;4.0;0.005128205128205128;10.0
+81;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 type 6;1.0;0.005128205128205128;10.0
+81;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 bounds 6;1.0;0.005128205128205128;10.0
+82;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;6 tradeoffs 7;1.0;0.005128205128205128;10.0
+82;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 vector 7;1.0;0.005128205128205128;10.0
+82;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;illegitimate child 7;4.0;0.005128205128205128;10.0
+82;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;7 family structures;4.0;0.005128205128205128;10.0
+82;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 implementations 7;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;syntax parsing 8;4.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;fully parenthesized;4.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;prefix expression 8;4.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;queues 8;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 converting;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;4 queues 8;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;decimal number;4.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;track;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;infix expression;4.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 stack;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;3 evaluation;1.25;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;fully parenthesized 8;4.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 towers;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;binary number 8;4.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;5 deques;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;stacks 8;1.0;0.010256410256410256;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;hanoi 8;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;4 conversion;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 evaluation;1.25;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 applications;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 evaluation;1.25;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;6 quicksort 8;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;8 stacks;1.0;0.010256410256410256;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;implementation 8;1.0;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;algorithm;1.0;0.005128205128205128;1.1111111111111112
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;3 expression evaluation;3.25;0.005128205128205128;10.0
+83;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;postfix expression 8;4.0;0.005128205128205128;10.0
+84;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;9 references;1.0;0.005128205128205128;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;tree traversals 10;4.25;0.005128205128205128;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 terms 10;1.0;0.010256410256410256;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;3 adding;1.0;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;3 examples;1.0;0.010256410256410256;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;trees 10;1.0;0.010256410256410256;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;extract;1.0;0.010256410256410256;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;leaf 10;1.0;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 searching;1.0;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 case 2;1.28571428571;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;4 deleting;1.0;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;10 trees 10;1.0;0.005128205128205128;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;4 balancing 10;1.0;0.005128205128205128;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;deleted 10;1.0;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;successor isn;3.5;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;tree traversal 10;3.75;0.005128205128205128;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;node;1.0;0.020512820512820513;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;tree java;4.58333333333;0.020512820512820513;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;two_children case;3.28571428571;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;3 case 3;1.28571428571;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 sample implementations;4.0;0.010256410256410256;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;+ tree java;7.58333333333;0.020512820512820513;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;java code;4.33333333333;0.010256410256410256;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;child;1.0;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 traversal 10;1.5;0.005128205128205128;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;successor;1.5;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;child 10;1.0;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 case 1;1.28571428571;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;item;1.0;0.02564102564102564;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;9 treaps;1.0;0.010256410256410256;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;delete;1.0;0.015384615384615385;10.0
+85;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;children 10;1.0;0.015384615384615385;10.0
+86;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;11 references;1.0;0.005128205128205128;10.0
+87;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;12 external links;4.0;0.005128205128205128;10.0
+88;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;13 compute;1.0;0.005128205128205128;10.0
+88;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;extreme;1.0;0.010256410256410256;10.0
+89;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;extreme;1.0;0.010256410256410256;10.0
+89;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;14 removing;1.0;0.005128205128205128;10.0
+90;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;heap;1.0;0.0;10.0
+90;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;15 inserting;1.0;0.005128205128205128;10.0
+91;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;16 todo;1.0;0.005128205128205128;10.0
+92;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;priority heaps;4.0;0.005128205128205128;10.0
+92;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;17 applications;1.0;0.005128205128205128;10.0
+93;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;18 graphs 18;1.0;0.005128205128205128;10.0
+93;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 breadth_first search;4.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;achieve functionality;4.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 choosing;1.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;extendible hashing 19;4.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;python implementation;4.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;hash tables 19;4.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;8 implementations 19;1.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;linear hashing;4.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;file storage mapping;9.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;6 problems;1.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;common;1.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 debugging;1.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;simple inference;4.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 time complexity;4.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;linear hashing 19;4.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;pseudocode 19;1.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 chaining 19;1.0;0.005128205128205128;10.0
+94;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;java implementation;4.0;0.005128205128205128;10.0
+95;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;20 list implementation;4.0;0.005128205128205128;10.0
+98;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;23 references;1.0;0.005128205128205128;10.0
+99;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 traversal;1.0;0.005128205128205128;10.0
+100;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;tree traversal;4.0;0.005128205128205128;10.0
+100;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 sample implementations;4.0;0.010256410256410256;10.0
+101;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;3 examples;1.0;0.010256410256410256;10.0
+101;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;tree traversals;4.0;0.005128205128205128;10.0
+102;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;4 balancing;1.0;0.005128205128205128;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;node;1.0;0.020512820512820513;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;child 10;1.0;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;leaf 10;1.0;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;deleted;1.0;0.010256410256410256;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 terms 10;1.0;0.010256410256410256;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;child;1.0;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;3 case 3;1.28571428571;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;two_children case;3.28571428571;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 case 1;1.28571428571;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 case 2;1.28571428571;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;item;1.0;0.02564102564102564;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;4 deleting;1.0;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;3 adding;1.0;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 searching;1.0;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;deleted 10;1.0;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;successor isn;3.5;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;successor;1.5;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;children 10;1.0;0.015384615384615385;10.0
+103;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;delete;1.0;0.015384615384615385;10.0
+104;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;extract;1.0;0.010256410256410256;10.0
+104;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;java code;4.0;0.010256410256410256;10.0
+105;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;7 red_black trees;4.0;0.005128205128205128;10.0
+106;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;tree java;5.0;0.020512820512820513;10.0
+106;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;+ tree java;8.0;0.020512820512820513;10.0
+106;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;trees 10;1.0;0.010256410256410256;10.0
+107;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;9 treaps;1.0;0.010256410256410256;10.0
+108;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 terms;1.0;0.005128205128205128;10.0
+109;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 searching;1.0;0.015384615384615385;10.0
+110;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;item;1.0;0.02564102564102564;10.0
+110;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;binary search tree;9.0;0.005128205128205128;2.0
+110;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;3 adding;1.0;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;node;1.0;0.020512820512820513;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;child 10;1.0;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;leaf 10;1.0;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;deleted;1.0;0.010256410256410256;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;two_children case;3.28571428571;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;1 case 1;1.28571428571;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;2 case 2;1.28571428571;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;item;1.0;0.02564102564102564;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;4 deleting;1.0;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;3 case 3;1.28571428571;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;child;1.0;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;deleted 10;1.0;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;successor isn;3.5;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;successor;1.5;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;children 10;1.0;0.015384615384615385;10.0
+111;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;delete;1.0;0.015384615384615385;10.0
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;higher_level abstractions;4.0;0.005128205128205128;10.0
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;operations;1.0;0.010256410256410256;1.6666666666666667
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;adding;1.0;0.005128205128205128;10.0
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;item;1.5;0.02564102564102564;10.0
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;list;1.0;0.0;10.0
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;highest_priority item;3.5;0.005128205128205128;10.0
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;queue;1.0;0.005128205128205128;2.5
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;data structures;3.5;0.005128205128205128;1.4285714285714286
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;groups;1.0;0.005128205128205128;10.0
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;data;1.5;0.005128205128205128;1.6666666666666667
+117;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;present;1.0;0.005128205128205128;10.0
+118;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;operations;1.0;0.010256410256410256;1.6666666666666667
+118;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;data structure;4.33333333333;0.010256410256410256;1.0
+118;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;abstract data type;8.33333333333;0.005128205128205128;3.3333333333333335
+118;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;call;1.0;0.005128205128205128;10.0
+119;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;important;1.0;0.005128205128205128;10.0
+119;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;minimize dependencies;4.0;0.005128205128205128;10.0
+119;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;code;1.0;0.005128205128205128;10.0
+119;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;abstract data types;9.0;0.005128205128205128;10.0
+119;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;changed;1.0;0.005128205128205128;10.0
+120;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;data structure;5.0;0.010256410256410256;1.0
+120;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;lower_level details;4.0;0.005128205128205128;10.0
+120;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;abstracted;1.0;0.005128205128205128;10.0
+120;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;replace;1.0;0.005128205128205128;10.0
+120;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;higher_level commonalities;4.0;0.005128205128205128;10.0
+120;https://en.wikibooks.org/wiki/Data_Structures/All_Chapters;data structure shares;8.0;0.005128205128205128;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;abstract data type;6.8;0.020833333333333332;5.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;operations;1.0;0.052083333333333336;3.3333333333333335
+171;https://en.wikipedia.org/wiki/Abstract_data_type;terms;1.0;0.020833333333333332;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;point;1.0;0.041666666666666664;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;defined;1.0;0.03125;5.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;data types;3.8;0.03125;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;user;1.0;0.041666666666666664;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;specifically;1.0;0.0;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;mathematical model;4.0;0.020833333333333332;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;values;1.0;0.020833333333333332;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;computer science;4.0;0.020833333333333332;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;behavior;1.0;0.020833333333333332;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;type;2.0;0.020833333333333332;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;data type;3.8;0.020833333333333332;10.0
+171;https://en.wikipedia.org/wiki/Abstract_data_type;data;1.8;0.041666666666666664;3.3333333333333335
+171;https://en.wikipedia.org/wiki/Abstract_data_type;view;1.0;0.041666666666666664;10.0
+172;https://en.wikipedia.org/wiki/Abstract_data_type;point;1.0;0.041666666666666664;10.0
+172;https://en.wikipedia.org/wiki/Abstract_data_type;concrete representations;4.0;0.020833333333333332;10.0
+172;https://en.wikipedia.org/wiki/Abstract_data_type;implementer;1.0;0.0;10.0
+172;https://en.wikipedia.org/wiki/Abstract_data_type;data structures;3.5;0.020833333333333332;1.6666666666666667
+172;https://en.wikipedia.org/wiki/Abstract_data_type;user;1.0;0.041666666666666664;10.0
+172;https://en.wikipedia.org/wiki/Abstract_data_type;contrasts;1.0;0.020833333333333332;10.0
+172;https://en.wikipedia.org/wiki/Abstract_data_type;data;1.5;0.041666666666666664;3.3333333333333335
+172;https://en.wikipedia.org/wiki/Abstract_data_type;view;1.0;0.041666666666666664;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;abstract data type;6.8;0.020833333333333332;5.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;operations;1.0;0.052083333333333336;3.3333333333333335
+177;https://en.wikipedia.org/wiki/Abstract_data_type;terms;1.0;0.020833333333333332;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;point;1.0;0.041666666666666664;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;defined;1.0;0.03125;5.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;data types;3.8;0.03125;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;user;1.0;0.041666666666666664;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;specifically;1.0;0.0;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;mathematical model;4.0;0.020833333333333332;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;values;1.0;0.020833333333333332;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;computer science;4.0;0.020833333333333332;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;behavior;1.0;0.020833333333333332;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;type;2.0;0.020833333333333332;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;data type;3.8;0.020833333333333332;10.0
+177;https://en.wikipedia.org/wiki/Abstract_data_type;data;1.8;0.041666666666666664;3.3333333333333335
+177;https://en.wikipedia.org/wiki/Abstract_data_type;view;1.0;0.041666666666666664;10.0
+178;https://en.wikipedia.org/wiki/Abstract_data_type;point;1.0;0.041666666666666664;10.0
+178;https://en.wikipedia.org/wiki/Abstract_data_type;concrete representations;4.0;0.020833333333333332;10.0
+178;https://en.wikipedia.org/wiki/Abstract_data_type;implementer;1.0;0.0;10.0
+178;https://en.wikipedia.org/wiki/Abstract_data_type;data structures;3.5;0.020833333333333332;1.6666666666666667
+178;https://en.wikipedia.org/wiki/Abstract_data_type;user;1.0;0.041666666666666664;10.0
+178;https://en.wikipedia.org/wiki/Abstract_data_type;contrasts;1.0;0.020833333333333332;10.0
+178;https://en.wikipedia.org/wiki/Abstract_data_type;data;1.5;0.041666666666666664;3.3333333333333335
+178;https://en.wikipedia.org/wiki/Abstract_data_type;view;1.0;0.041666666666666664;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;last_in_first_out structure;4.0;0.010416666666666666;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;operations;1.0;0.052083333333333336;3.3333333333333335
+185;https://en.wikipedia.org/wiki/Abstract_data_type;inserts;1.0;0.020833333333333332;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;abstract stack;3.33333333333;0.010416666666666666;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;top;1.0;0.010416666666666666;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;removes;1.0;0.020833333333333332;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;pop;1.0;0.020833333333333332;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;removal;1.0;0.010416666666666666;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;defined;1.0;0.03125;5.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;data item;4.0;0.020833333333333332;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;accesses;1.0;0.020833333333333332;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;push;1.0;0.010416666666666666;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;peek;1.0;0.010416666666666666;10.0
+185;https://en.wikipedia.org/wiki/Abstract_data_type;stack;1.33333333333;0.020833333333333332;10.0
+186;https://en.wikipedia.org/wiki/Abstract_data_type;operations;1.0;0.052083333333333336;3.3333333333333335
+186;https://en.wikipedia.org/wiki/Abstract_data_type;inserts;1.0;0.020833333333333332;10.0
+186;https://en.wikipedia.org/wiki/Abstract_data_type;dequeue;1.0;0.0;10.0
+186;https://en.wikipedia.org/wiki/Abstract_data_type;removes;1.0;0.020833333333333332;10.0
+186;https://en.wikipedia.org/wiki/Abstract_data_type;accesses;1.0;0.020833333333333332;10.0
+186;https://en.wikipedia.org/wiki/Abstract_data_type;queue;1.33333333333;0.010416666666666666;2.5
+186;https://en.wikipedia.org/wiki/Abstract_data_type;enqueue;1.0;0.0;10.0
+186;https://en.wikipedia.org/wiki/Abstract_data_type;data item;4.0;0.020833333333333332;10.0
+186;https://en.wikipedia.org/wiki/Abstract_data_type;first_in_first_out structure;4.0;0.010416666666666666;10.0
+186;https://en.wikipedia.org/wiki/Abstract_data_type;front;1.0;0.010416666666666666;10.0
+186;https://en.wikipedia.org/wiki/Abstract_data_type;abstract queue;3.33333333333;0.010416666666666666;10.0
+186;https://en.wikipedia.org/wiki/Abstract_data_type;serves;1.0;0.010416666666666666;10.0
+187;https://en.wikipedia.org/wiki/Abstract_data_type;popped;1.0;0.010416666666666666;10.0
+187;https://en.wikipedia.org/wiki/Abstract_data_type;data types;4.0;0.03125;10.0
+187;https://en.wikipedia.org/wiki/Abstract_data_type;differentiating;1.0;0.0;10.0
+187;https://en.wikipedia.org/wiki/Abstract_data_type;pop;1.0;0.020833333333333332;10.0
+187;https://en.wikipedia.org/wiki/Abstract_data_type;recently pushed item;9.0;0.010416666666666666;10.0
+187;https://en.wikipedia.org/wiki/Abstract_data_type;returns;1.0;0.010416666666666666;10.0
+187;https://en.wikipedia.org/wiki/Abstract_data_type;stack specifies;4.0;0.010416666666666666;10.0
+187;https://en.wikipedia.org/wiki/Abstract_data_type;introduced;1.0;0.010416666666666666;10.0
+187;https://en.wikipedia.org/wiki/Abstract_data_type;mathematical constraint;4.0;0.010416666666666666;10.0
+188;https://en.wikipedia.org/wiki/Abstract_data_type;operations;1.0;0.052083333333333336;3.3333333333333335
+188;https://en.wikipedia.org/wiki/Abstract_data_type;matter;1.0;0.010416666666666666;10.0
+188;https://en.wikipedia.org/wiki/Abstract_data_type;storage;1.0;0.010416666666666666;10.0
+188;https://en.wikipedia.org/wiki/Abstract_data_type;data items;4.0;0.010416666666666666;10.0
+188;https://en.wikipedia.org/wiki/Abstract_data_type;stack;1.0;0.020833333333333332;10.0
+188;https://en.wikipedia.org/wiki/Abstract_data_type;pushed;1.0;0.010416666666666666;10.0
+188;https://en.wikipedia.org/wiki/Abstract_data_type;efficiency;1.0;0.010416666666666666;10.0
+188;https://en.wikipedia.org/wiki/Abstract_data_type;analyzing;1.0;0.010416666666666666;10.0
+188;https://en.wikipedia.org/wiki/Abstract_data_type;time;1.0;0.010416666666666666;10.0
+188;https://en.wikipedia.org/wiki/Abstract_data_type;algorithms;1.0;0.010416666666666666;3.3333333333333335
+188;https://en.wikipedia.org/wiki/Abstract_data_type;element;1.0;0.010416666666666666;3.3333333333333335
+188;https://en.wikipedia.org/wiki/Abstract_data_type;constant amount;4.0;0.010416666666666666;10.0
+188;https://en.wikipedia.org/wiki/Abstract_data_type;stacks;1.0;0.010416666666666666;5.0
+201;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;introduction;1.0;0.0;10.0
+201;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;hindi ;1.0;0.0;10.0
+201;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;algorithms;1.0;0.08333333333333333;3.3333333333333335
+202;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;characteristics;1.0;0.0;10.0
+202;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;hindi;1.0;0.0;10.0
+202;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;algorithm;1.0;0.16666666666666666;1.25
+203;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;rules;1.0;0.08333333333333333;10.0
+203;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;hindi;1.0;0.0;10.0
+203;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;writing algorithm;4.0;0.08333333333333333;10.0
+204;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;hindi;1.0;0.0;10.0
+205;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;hindi;1.0;0.0;10.0
+205;http://www.besthinditutorials.com/2016/11/data-structure-in-hindi-algorithms.html;algorithm;1.0;0.16666666666666666;1.25
+206;http://searchsqlserver.techtarget.com/definition/data-structure;data structure;4.0;0.12;1.1111111111111112
+206;http://searchsqlserver.techtarget.com/definition/data-structure;specialized format;4.0;0.04;10.0
+206;http://searchsqlserver.techtarget.com/definition/data-structure;organizing;1.0;0.04;10.0
+206;http://searchsqlserver.techtarget.com/definition/data-structure;storing data;4.0;0.04;10.0
+207;http://searchsqlserver.techtarget.com/definition/data-structure;record;1.0;0.04;10.0
+207;http://searchsqlserver.techtarget.com/definition/data-structure;array;1.0;0.04;10.0
+207;http://searchsqlserver.techtarget.com/definition/data-structure;tree;1.0;0.04;1.1111111111111112
+207;http://searchsqlserver.techtarget.com/definition/data-structure;file;1.0;0.04;10.0
+207;http://searchsqlserver.techtarget.com/definition/data-structure;table;1.0;0.04;5.0
+208;http://searchsqlserver.techtarget.com/definition/data-structure;data structure;4.0;0.12;1.1111111111111112
+208;http://searchsqlserver.techtarget.com/definition/data-structure;ways;1.0;0.04;10.0
+208;http://searchsqlserver.techtarget.com/definition/data-structure;specific purpose;4.0;0.04;10.0
+208;http://searchsqlserver.techtarget.com/definition/data-structure;organize data;4.0;0.04;10.0
+208;http://searchsqlserver.techtarget.com/definition/data-structure;designed;1.0;0.08;10.0
+208;http://searchsqlserver.techtarget.com/definition/data-structure;suit;1.0;0.04;10.0
+208;http://searchsqlserver.techtarget.com/definition/data-structure;accessed;1.0;0.04;10.0
+208;http://searchsqlserver.techtarget.com/definition/data-structure;worked;1.0;0.04;10.0
+209;http://searchsqlserver.techtarget.com/definition/data-structure;data structure;4.0;0.12;1.1111111111111112
+209;http://searchsqlserver.techtarget.com/definition/data-structure;store data;4.0;0.04;10.0
+209;http://searchsqlserver.techtarget.com/definition/data-structure;working;1.0;0.04;3.3333333333333335
+209;http://searchsqlserver.techtarget.com/definition/data-structure;selected;1.0;0.04;10.0
+209;http://searchsqlserver.techtarget.com/definition/data-structure;computer programming;4.0;0.04;10.0
+209;http://searchsqlserver.techtarget.com/definition/data-structure;purpose;1.0;0.04;10.0
+209;http://searchsqlserver.techtarget.com/definition/data-structure;algorithms;1.0;0.04;3.3333333333333335
+209;http://searchsqlserver.techtarget.com/definition/data-structure;designed;1.0;0.08;10.0
+215;http://loopvid.io/video/XlmlBd3Kvqw;dijkstra;1.0;0.0;10.0
+215;http://loopvid.io/video/XlmlBd3Kvqw;hind/english;1.0;0.009174311926605505;10.0
+215;http://loopvid.io/video/XlmlBd3Kvqw;algorithm;1.0;0.01834862385321101;1.6666666666666667
+215;http://loopvid.io/video/XlmlBd3Kvqw;shortest path problem;9.0;0.009174311926605505;10.0
+216;http://loopvid.io/video/XlmlBd3Kvqw;data structurewith;4.0;0.009174311926605505;10.0
+216;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+217;http://loopvid.io/video/XlmlBd3Kvqw;depth;1.0;0.01834862385321101;10.0
+217;http://loopvid.io/video/XlmlBd3Kvqw;search algorithm;4.0;0.009174311926605505;10.0
+218;http://loopvid.io/video/XlmlBd3Kvqw;breadth;1.0;0.009174311926605505;10.0
+218;http://loopvid.io/video/XlmlBd3Kvqw;search algorithmin;4.0;0.009174311926605505;10.0
+219;http://loopvid.io/video/XlmlBd3Kvqw;graphs;1.0;0.03669724770642202;10.0
+219;http://loopvid.io/video/XlmlBd3Kvqw;data structure hindi;9.0;0.027522935779816515;3.3333333333333335
+219;http://loopvid.io/video/XlmlBd3Kvqw;chapter 51 introduction;4.0;0.009174311926605505;10.0
+220;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+220;http://loopvid.io/video/XlmlBd3Kvqw;basic graph theory;9.0;0.009174311926605505;10.0
+221;http://loopvid.io/video/XlmlBd3Kvqw;introduction;1.0;0.0;10.0
+221;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+221;http://loopvid.io/video/XlmlBd3Kvqw;discrete math 2;4.0;0.009174311926605505;10.0
+222;http://loopvid.io/video/XlmlBd3Kvqw;minimum spanning tree;9.0;0.01834862385321101;10.0
+222;http://loopvid.io/video/XlmlBd3Kvqw;prim;1.0;0.009174311926605505;10.0
+222;http://loopvid.io/video/XlmlBd3Kvqw;algorithm;1.0;0.01834862385321101;1.6666666666666667
+224;http://loopvid.io/video/XlmlBd3Kvqw;bubble sort algorithmin;9.0;0.009174311926605505;10.0
+225;http://loopvid.io/video/XlmlBd3Kvqw;data structures;4.0;0.01834862385321101;2.5
+225;http://loopvid.io/video/XlmlBd3Kvqw;properties;1.0;0.009174311926605505;10.0
+225;http://loopvid.io/video/XlmlBd3Kvqw;graphs;1.0;0.03669724770642202;10.0
+226;http://loopvid.io/video/XlmlBd3Kvqw;graphs;1.0;0.03669724770642202;10.0
+226;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+226;http://loopvid.io/video/XlmlBd3Kvqw;families;1.0;0.009174311926605505;10.0
+227;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+227;http://loopvid.io/video/XlmlBd3Kvqw;basics;1.0;0.009174311926605505;10.0
+227;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+228;http://loopvid.io/video/XlmlBd3Kvqw;english;1.0;0.0;10.0
+228;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+228;http://loopvid.io/video/XlmlBd3Kvqw;types;1.0;0.027522935779816515;10.0
+228;http://loopvid.io/video/XlmlBd3Kvqw;hashing techniques;4.0;0.009174311926605505;10.0
+229;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+229;http://loopvid.io/video/XlmlBd3Kvqw;basic concepts;4.0;0.009174311926605505;10.0
+231;http://loopvid.io/video/XlmlBd3Kvqw;construction;1.0;0.0;10.0
+231;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+231;http://loopvid.io/video/XlmlBd3Kvqw;heap;1.0;0.0;10.0
+231;http://loopvid.io/video/XlmlBd3Kvqw;english;1.0;0.0;10.0
+232;http://loopvid.io/video/XlmlBd3Kvqw;hindi/english;1.0;0.01834862385321101;10.0
+233;http://loopvid.io/video/XlmlBd3Kvqw;data structure;4.0;0.027522935779816515;1.6666666666666667
+233;http://loopvid.io/video/XlmlBd3Kvqw;tree;1.0;0.01834862385321101;1.6666666666666667
+234;http://loopvid.io/video/XlmlBd3Kvqw;hindi/english;1.0;0.01834862385321101;10.0
+234;http://loopvid.io/video/XlmlBd3Kvqw;avl tree;4.0;0.009174311926605505;3.3333333333333335
+235;http://loopvid.io/video/XlmlBd3Kvqw;binary tree traversal;9.0;0.009174311926605505;10.0
+236;http://loopvid.io/video/XlmlBd3Kvqw;binary search treewith;9.0;0.009174311926605505;10.0
+236;http://loopvid.io/video/XlmlBd3Kvqw;deletion;1.0;0.009174311926605505;10.0
+237;http://loopvid.io/video/XlmlBd3Kvqw;selection sort algorithm;9.0;0.009174311926605505;10.0
+238;http://loopvid.io/video/XlmlBd3Kvqw;representation;1.0;0.0;10.0
+238;http://loopvid.io/video/XlmlBd3Kvqw;terminology;1.0;0.0;10.0
+239;http://loopvid.io/video/XlmlBd3Kvqw;5 minutes;1.0;0.009174311926605505;10.0
+240;http://loopvid.io/video/XlmlBd3Kvqw;minimum spanning tree;9.0;0.01834862385321101;10.0
+240;http://loopvid.io/video/XlmlBd3Kvqw;kruskal algorithm;4.0;0.009174311926605505;10.0
+241;http://loopvid.io/video/XlmlBd3Kvqw;quick sort explanation;9.0;0.009174311926605505;10.0
+241;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+241;http://loopvid.io/video/XlmlBd3Kvqw;working;1.0;0.009174311926605505;5.0
+241;http://loopvid.io/video/XlmlBd3Kvqw;english;1.0;0.0;10.0
+242;http://loopvid.io/video/XlmlBd3Kvqw;graph isomorphism;4.0;0.009174311926605505;10.0
+243;http://loopvid.io/video/XlmlBd3Kvqw;introduction;1.0;0.0;10.0
+243;http://loopvid.io/video/XlmlBd3Kvqw;graph theory _;9.0;0.08256880733944955;10.0
+245;http://loopvid.io/video/XlmlBd3Kvqw;cutset matrix;4.0;0.009174311926605505;10.0
+245;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+245;http://loopvid.io/video/XlmlBd3Kvqw;btech;1.0;0.0;10.0
+245;http://loopvid.io/video/XlmlBd3Kvqw;circuit system;4.0;0.009174311926605505;10.0
+246;http://loopvid.io/video/XlmlBd3Kvqw;introduction;1.0;0.0;10.0
+246;http://loopvid.io/video/XlmlBd3Kvqw;data structures;4.0;0.01834862385321101;2.5
+246;http://loopvid.io/video/XlmlBd3Kvqw;graphs;1.0;0.03669724770642202;10.0
+247;http://loopvid.io/video/XlmlBd3Kvqw;directed;1.0;0.009174311926605505;10.0
+247;http://loopvid.io/video/XlmlBd3Kvqw;undirected graph;4.0;0.009174311926605505;10.0
+248;http://loopvid.io/video/XlmlBd3Kvqw;implementation;1.0;0.0;10.0
+248;http://loopvid.io/video/XlmlBd3Kvqw;bfs algorithm;4.0;0.009174311926605505;10.0
+249;http://loopvid.io/video/XlmlBd3Kvqw;data structure;4.0;0.027522935779816515;1.6666666666666667
+249;http://loopvid.io/video/XlmlBd3Kvqw;gaincafe;1.0;0.0;10.0
+249;http://loopvid.io/video/XlmlBd3Kvqw;algorithm lectures;4.0;0.009174311926605505;10.0
+249;http://loopvid.io/video/XlmlBd3Kvqw;types;1.0;0.027522935779816515;10.0
+249;http://loopvid.io/video/XlmlBd3Kvqw;data structures #2;4.0;0.009174311926605505;10.0
+250;http://loopvid.io/video/XlmlBd3Kvqw;representation;1.0;0.0;10.0
+250;http://loopvid.io/video/XlmlBd3Kvqw;adjacency list;4.0;0.009174311926605505;10.0
+250;http://loopvid.io/video/XlmlBd3Kvqw;graph;1.0;0.027522935779816515;10.0
+251;http://loopvid.io/video/XlmlBd3Kvqw;graph;1.0;0.027522935779816515;10.0
+251;http://loopvid.io/video/XlmlBd3Kvqw;chapter 52 representation;4.0;0.009174311926605505;10.0
+251;http://loopvid.io/video/XlmlBd3Kvqw;data structure hindi;9.0;0.027522935779816515;3.3333333333333335
+252;http://loopvid.io/video/XlmlBd3Kvqw;depth;1.0;0.01834862385321101;10.0
+252;http://loopvid.io/video/XlmlBd3Kvqw;advantage disadv;4.0;0.009174311926605505;10.0
+253;http://loopvid.io/video/XlmlBd3Kvqw;superprof dinesh singh;9.0;0.009174311926605505;10.0
+253;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+253;http://loopvid.io/video/XlmlBd3Kvqw;gate cs;4.0;0.009174311926605505;10.0
+254;http://loopvid.io/video/XlmlBd3Kvqw;spanning trees;4.0;0.009174311926605505;10.0
+255;http://loopvid.io/video/XlmlBd3Kvqw;binary search tree;9.0;0.009174311926605505;2.5
+256;http://loopvid.io/video/XlmlBd3Kvqw;dfs graph traversal;9.0;0.009174311926605505;10.0
+256;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+257;http://loopvid.io/video/XlmlBd3Kvqw;graph;1.5;0.027522935779816515;10.0
+257;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;3.5;0.08256880733944955;10.0
+257;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+257;http://loopvid.io/video/XlmlBd3Kvqw;types;1.0;0.027522935779816515;10.0
+258;http://loopvid.io/video/XlmlBd3Kvqw;eulerian circuit;4.0;0.009174311926605505;10.0
+258;http://loopvid.io/video/XlmlBd3Kvqw;eulerian path;4.0;0.009174311926605505;10.0
+260;http://loopvid.io/video/XlmlBd3Kvqw;graph theory approach;9.0;0.009174311926605505;10.0
+260;http://loopvid.io/video/XlmlBd3Kvqw;electrical circuits;4.0;0.009174311926605505;10.0
+260;http://loopvid.io/video/XlmlBd3Kvqw;lecture _ 11;4.0;0.009174311926605505;10.0
+261;http://loopvid.io/video/XlmlBd3Kvqw;chapter 14 introduction;4.0;0.009174311926605505;5.0
+261;http://loopvid.io/video/XlmlBd3Kvqw;data structure hindi;9.0;0.027522935779816515;3.3333333333333335
+261;http://loopvid.io/video/XlmlBd3Kvqw;tree;1.0;0.01834862385321101;1.6666666666666667
+262;http://loopvid.io/video/XlmlBd3Kvqw;directed connected graph;9.0;0.009174311926605505;10.0
+263;http://loopvid.io/video/XlmlBd3Kvqw;queue;1.0;0.009174311926605505;3.3333333333333335
+263;http://loopvid.io/video/XlmlBd3Kvqw;data structure;4.0;0.027522935779816515;1.6666666666666667
+263;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+264;http://loopvid.io/video/XlmlBd3Kvqw;dijkstra;1.0;0.0;10.0
+264;http://loopvid.io/video/XlmlBd3Kvqw;hind/english;1.0;0.009174311926605505;10.0
+264;http://loopvid.io/video/XlmlBd3Kvqw;algorithm;1.0;0.01834862385321101;1.6666666666666667
+264;http://loopvid.io/video/XlmlBd3Kvqw;shortest path problem;9.0;0.009174311926605505;10.0
+265;http://loopvid.io/video/XlmlBd3Kvqw;data structurewith;4.0;0.009174311926605505;10.0
+265;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+266;http://loopvid.io/video/XlmlBd3Kvqw;depth;1.0;0.01834862385321101;10.0
+266;http://loopvid.io/video/XlmlBd3Kvqw;search algorithm;4.0;0.009174311926605505;10.0
+267;http://loopvid.io/video/XlmlBd3Kvqw;breadth;1.0;0.009174311926605505;10.0
+267;http://loopvid.io/video/XlmlBd3Kvqw;search algorithmin;4.0;0.009174311926605505;10.0
+268;http://loopvid.io/video/XlmlBd3Kvqw;graphs;1.0;0.03669724770642202;10.0
+268;http://loopvid.io/video/XlmlBd3Kvqw;data structure hindi;9.0;0.027522935779816515;3.3333333333333335
+268;http://loopvid.io/video/XlmlBd3Kvqw;chapter 51 introduction;4.0;0.009174311926605505;10.0
+269;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+269;http://loopvid.io/video/XlmlBd3Kvqw;basic graph theory;9.0;0.009174311926605505;10.0
+270;http://loopvid.io/video/XlmlBd3Kvqw;introduction;1.0;0.0;10.0
+270;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+270;http://loopvid.io/video/XlmlBd3Kvqw;discrete math 2;4.0;0.009174311926605505;10.0
+271;http://loopvid.io/video/XlmlBd3Kvqw;minimum spanning tree;9.0;0.01834862385321101;10.0
+271;http://loopvid.io/video/XlmlBd3Kvqw;prim;1.0;0.009174311926605505;10.0
+271;http://loopvid.io/video/XlmlBd3Kvqw;algorithm;1.0;0.01834862385321101;1.6666666666666667
+273;http://loopvid.io/video/XlmlBd3Kvqw;bubble sort algorithmin;9.0;0.009174311926605505;10.0
+274;http://loopvid.io/video/XlmlBd3Kvqw;data structures;4.0;0.01834862385321101;2.5
+274;http://loopvid.io/video/XlmlBd3Kvqw;properties;1.0;0.009174311926605505;10.0
+274;http://loopvid.io/video/XlmlBd3Kvqw;graphs;1.0;0.03669724770642202;10.0
+275;http://loopvid.io/video/XlmlBd3Kvqw;graphs;1.0;0.03669724770642202;10.0
+275;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+275;http://loopvid.io/video/XlmlBd3Kvqw;families;1.0;0.009174311926605505;10.0
+276;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+276;http://loopvid.io/video/XlmlBd3Kvqw;basics;1.0;0.009174311926605505;10.0
+276;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+277;http://loopvid.io/video/XlmlBd3Kvqw;english;1.0;0.0;10.0
+277;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+277;http://loopvid.io/video/XlmlBd3Kvqw;types;1.0;0.027522935779816515;10.0
+277;http://loopvid.io/video/XlmlBd3Kvqw;hashing techniques;4.0;0.009174311926605505;10.0
+278;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+278;http://loopvid.io/video/XlmlBd3Kvqw;basic concepts;4.0;0.009174311926605505;10.0
+280;http://loopvid.io/video/XlmlBd3Kvqw;construction;1.0;0.0;10.0
+280;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+280;http://loopvid.io/video/XlmlBd3Kvqw;heap;1.0;0.0;10.0
+280;http://loopvid.io/video/XlmlBd3Kvqw;english;1.0;0.0;10.0
+281;http://loopvid.io/video/XlmlBd3Kvqw;hindi/english;1.0;0.01834862385321101;10.0
+282;http://loopvid.io/video/XlmlBd3Kvqw;data structure;4.0;0.027522935779816515;1.6666666666666667
+282;http://loopvid.io/video/XlmlBd3Kvqw;tree;1.0;0.01834862385321101;1.6666666666666667
+283;http://loopvid.io/video/XlmlBd3Kvqw;hindi/english;1.0;0.01834862385321101;10.0
+283;http://loopvid.io/video/XlmlBd3Kvqw;avl tree;4.0;0.009174311926605505;3.3333333333333335
+284;http://loopvid.io/video/XlmlBd3Kvqw;binary tree traversal;9.0;0.009174311926605505;10.0
+285;http://loopvid.io/video/XlmlBd3Kvqw;binary search treewith;9.0;0.009174311926605505;10.0
+285;http://loopvid.io/video/XlmlBd3Kvqw;deletion;1.0;0.009174311926605505;10.0
+286;http://loopvid.io/video/XlmlBd3Kvqw;selection sort algorithm;9.0;0.009174311926605505;10.0
+287;http://loopvid.io/video/XlmlBd3Kvqw;representation;1.0;0.0;10.0
+287;http://loopvid.io/video/XlmlBd3Kvqw;terminology;1.0;0.0;10.0
+288;http://loopvid.io/video/XlmlBd3Kvqw;5 minutes;1.0;0.009174311926605505;10.0
+289;http://loopvid.io/video/XlmlBd3Kvqw;minimum spanning tree;9.0;0.01834862385321101;10.0
+289;http://loopvid.io/video/XlmlBd3Kvqw;kruskal algorithm;4.0;0.009174311926605505;10.0
+290;http://loopvid.io/video/XlmlBd3Kvqw;quick sort explanation;9.0;0.009174311926605505;10.0
+290;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+290;http://loopvid.io/video/XlmlBd3Kvqw;working;1.0;0.009174311926605505;5.0
+290;http://loopvid.io/video/XlmlBd3Kvqw;english;1.0;0.0;10.0
+291;http://loopvid.io/video/XlmlBd3Kvqw;graph isomorphism;4.0;0.009174311926605505;10.0
+292;http://loopvid.io/video/XlmlBd3Kvqw;introduction;1.0;0.0;10.0
+292;http://loopvid.io/video/XlmlBd3Kvqw;graph theory _;9.0;0.08256880733944955;10.0
+294;http://loopvid.io/video/XlmlBd3Kvqw;cutset matrix;4.0;0.009174311926605505;10.0
+294;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+294;http://loopvid.io/video/XlmlBd3Kvqw;btech;1.0;0.0;10.0
+294;http://loopvid.io/video/XlmlBd3Kvqw;circuit system;4.0;0.009174311926605505;10.0
+295;http://loopvid.io/video/XlmlBd3Kvqw;introduction;1.0;0.0;10.0
+295;http://loopvid.io/video/XlmlBd3Kvqw;data structures;4.0;0.01834862385321101;2.5
+295;http://loopvid.io/video/XlmlBd3Kvqw;graphs;1.0;0.03669724770642202;10.0
+296;http://loopvid.io/video/XlmlBd3Kvqw;directed;1.0;0.009174311926605505;10.0
+296;http://loopvid.io/video/XlmlBd3Kvqw;undirected graph;4.0;0.009174311926605505;10.0
+297;http://loopvid.io/video/XlmlBd3Kvqw;implementation;1.0;0.0;10.0
+297;http://loopvid.io/video/XlmlBd3Kvqw;bfs algorithm;4.0;0.009174311926605505;10.0
+298;http://loopvid.io/video/XlmlBd3Kvqw;data structure;4.0;0.027522935779816515;1.6666666666666667
+298;http://loopvid.io/video/XlmlBd3Kvqw;gaincafe;1.0;0.0;10.0
+298;http://loopvid.io/video/XlmlBd3Kvqw;algorithm lectures;4.0;0.009174311926605505;10.0
+298;http://loopvid.io/video/XlmlBd3Kvqw;types;1.0;0.027522935779816515;10.0
+298;http://loopvid.io/video/XlmlBd3Kvqw;data structures #2;4.0;0.009174311926605505;10.0
+299;http://loopvid.io/video/XlmlBd3Kvqw;representation;1.0;0.0;10.0
+299;http://loopvid.io/video/XlmlBd3Kvqw;adjacency list;4.0;0.009174311926605505;10.0
+299;http://loopvid.io/video/XlmlBd3Kvqw;graph;1.0;0.027522935779816515;10.0
+300;http://loopvid.io/video/XlmlBd3Kvqw;graph;1.0;0.027522935779816515;10.0
+300;http://loopvid.io/video/XlmlBd3Kvqw;chapter 52 representation;4.0;0.009174311926605505;10.0
+300;http://loopvid.io/video/XlmlBd3Kvqw;data structure hindi;9.0;0.027522935779816515;3.3333333333333335
+301;http://loopvid.io/video/XlmlBd3Kvqw;depth;1.0;0.01834862385321101;10.0
+301;http://loopvid.io/video/XlmlBd3Kvqw;advantage disadv;4.0;0.009174311926605505;10.0
+302;http://loopvid.io/video/XlmlBd3Kvqw;superprof dinesh singh;9.0;0.009174311926605505;10.0
+302;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;4.0;0.08256880733944955;10.0
+302;http://loopvid.io/video/XlmlBd3Kvqw;gate cs;4.0;0.009174311926605505;10.0
+303;http://loopvid.io/video/XlmlBd3Kvqw;spanning trees;4.0;0.009174311926605505;10.0
+304;http://loopvid.io/video/XlmlBd3Kvqw;binary search tree;9.0;0.009174311926605505;2.5
+305;http://loopvid.io/video/XlmlBd3Kvqw;dfs graph traversal;9.0;0.009174311926605505;10.0
+305;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+306;http://loopvid.io/video/XlmlBd3Kvqw;graph;1.5;0.027522935779816515;10.0
+306;http://loopvid.io/video/XlmlBd3Kvqw;graph theory;3.5;0.08256880733944955;10.0
+306;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+306;http://loopvid.io/video/XlmlBd3Kvqw;types;1.0;0.027522935779816515;10.0
+307;http://loopvid.io/video/XlmlBd3Kvqw;eulerian circuit;4.0;0.009174311926605505;10.0
+307;http://loopvid.io/video/XlmlBd3Kvqw;eulerian path;4.0;0.009174311926605505;10.0
+309;http://loopvid.io/video/XlmlBd3Kvqw;graph theory approach;9.0;0.009174311926605505;10.0
+309;http://loopvid.io/video/XlmlBd3Kvqw;electrical circuits;4.0;0.009174311926605505;10.0
+309;http://loopvid.io/video/XlmlBd3Kvqw;lecture _ 11;4.0;0.009174311926605505;10.0
+310;http://loopvid.io/video/XlmlBd3Kvqw;chapter 14 introduction;4.0;0.009174311926605505;5.0
+310;http://loopvid.io/video/XlmlBd3Kvqw;data structure hindi;9.0;0.027522935779816515;3.3333333333333335
+310;http://loopvid.io/video/XlmlBd3Kvqw;tree;1.0;0.01834862385321101;1.6666666666666667
+311;http://loopvid.io/video/XlmlBd3Kvqw;directed connected graph;9.0;0.009174311926605505;10.0
+312;http://loopvid.io/video/XlmlBd3Kvqw;queue;1.0;0.009174311926605505;3.3333333333333335
+312;http://loopvid.io/video/XlmlBd3Kvqw;data structure;4.0;0.027522935779816515;1.6666666666666667
+312;http://loopvid.io/video/XlmlBd3Kvqw;hindi;1.0;0.0;10.0
+313;http://btechsmartclass.com/DS/U3_T1.html;random order;4.0;0.08333333333333333;10.0
+313;http://btechsmartclass.com/DS/U3_T1.html;sequential order;4.0;0.08333333333333333;10.0
+313;http://btechsmartclass.com/DS/U3_T1.html;linear data structure;8.0;0.08333333333333333;10.0
+313;http://btechsmartclass.com/DS/U3_T1.html;organized;1.0;0.08333333333333333;10.0
+313;http://btechsmartclass.com/DS/U3_T1.html;non_linear data structure;8.0;0.08333333333333333;10.0
+313;http://btechsmartclass.com/DS/U3_T1.html;data;2.0;0.08333333333333333;1.6666666666666667
+314;http://btechsmartclass.com/DS/U3_T1.html;popular data structure;9.0;0.08333333333333333;10.0
+314;http://btechsmartclass.com/DS/U3_T1.html;tree;1.0;0.08333333333333333;1.1111111111111112
+314;http://btechsmartclass.com/DS/U3_T1.html;wide range;4.0;0.08333333333333333;10.0
+314;http://btechsmartclass.com/DS/U3_T1.html;applications;1.0;0.0;10.0
+315;http://btechsmartclass.com/DS/U3_T1.html;defined;1.0;0.08333333333333333;2.5
+315;http://btechsmartclass.com/DS/U3_T1.html;tree data structure;9.0;0.08333333333333333;10.0
+317;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;table;1.0;0.07142857142857142;5.0
+317;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;contents;1.0;0.07142857142857142;10.0
+321;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;date;1.0;0.07142857142857142;10.0
+321;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;mention;1.0;0.07142857142857142;10.0
+321;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;titles;1.0;0.07142857142857142;10.0
+321;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;dispatch details;4.5;0.07142857142857142;10.0
+321;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;warehouse;1.0;0.07142857142857142;10.0
+321;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;order receipt;4.0;0.07142857142857142;10.0
+321;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;approximate dispatch time;8.5;0.07142857142857142;10.0
+322;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;1_3 days;4.0;0.07142857142857142;10.0
+323;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;3_7 days;4.0;0.07142857142857142;10.0
+324;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;10_14 days;4.0;0.07142857142857142;10.0
+325;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;stock;1.0;0.07142857142857142;10.0
+326;http://www.bookadda.com/books/data-structure-hindi-medium-dr-s-8190855905-9788190855907;pre_order;1.0;0.07142857142857142;10.0

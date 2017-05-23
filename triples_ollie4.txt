@@ -1,1842 +1,116 @@
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-As with the breadthfirstsearch algorithm, there is an underlying tree associated with each execution of depthfirstsearch.
-0.842: (an underlying tree; be associated with; each execution of depthfirstsearch)
-
- When a node goes from to , this is because was called recursively while processing some node .
-No extractions found.
-
-  In the case of algorithm, is one of the nodes that replaced on the stack.
-0.782: (the nodes; replaced on; the stack)
-
-  If we think of as the parent of , then we obtain a tree rooted at .
-No extractions found.
-
- In Figure 12.
-No extractions found.
-
-5, this tree is a path from vertex 0 to vertex 11.
-0.812: (5; is a path from; vertex 0)
-0.742: (5; is a path to; 11)
-0.5: (5; is; a path)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Depth First Traversal  for a graph is similar to Depth First Traversal of a tree.
-0.883: (Depth First Traversal; is similar to; Depth First Traversal of a tree)
-0.764: (Depth First Traversal; is; similar)
-
- The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again.
-0.694: (The only catch; here is may contain cycles unlike; trees)
-0.606: (The only catch; here is may contain; cycles)
-0.571: (we; so may come again to; the same node)
-0.485: (cycles; here is may contain unlike; trees)
-0.392: (graphs; here is may contain; cycles)
-0.318: (graphs; here is may contain cycles unlike; trees)
-
- To avoid processing a node more than once, we use a boolean visited array.
-0.658: (we; use; a boolean visited array)
-
- For example, in the following graph, we start traversal from vertex 2.
-0.639: (we; start; traversal)
-0.45: (we; start traversal from vertex in; the following graph)
-0.186: (we; start traversal from vertex for; example)
-
- When we come to vertex 0, we look for all adjacent vertices of it.
-0.769: (we; look for; all adjacent vertices of it)
-
- 2 is also an adjacent vertex of 0.
-0.853: (2; is also an adjacent vertex of; 0.)
-0.665: (2; is also; an adjacent vertex of 0.)
-
- If we don t mark visited vertices, then 2 will be processed again and it will become a nonterminating process.
-0.501: (it; will will become; a nonterminating process)
-0.06: (we; don; t mark)
-
- A Depth First Traversal of the following graph is 2, 0, 1, 3.
-0.662: (A Depth First Traversal of the following graph; is; 2)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Time Complexity  O where V is number of vertices in the graph and E is number of edges in the graph.
-0.878: (E; is number of; edges)
-0.878: (V; is number of; edges)
-0.878: (V; is number of; vertices)
-0.8: (V; is number of vertices in; the graph)
-0.778: (E; is number of; vertices)
-0.686: (V; is; number of vertices in the graph and E is number of edges)
-0.661: (E; is number of vertices in; the graph)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-The objective of this article is to provide a basic introduction about graphs and the commonly used algorithms used for traversing the graph, BFS and DFS.
-No extractions found.
-
- Breadth First Search  and Depth First Search  are the two popular algorithms asked in most of the programming interviews.
-0.863: (the two popular algorithms; are asked in; most of the programming interviews)
-0.738: (Breadth First Search and Depth First Search; are asked in; most of the programming interviews)
-
- I was not able to find a simple, precise explanation for beginners on this topic.
-0.697: (I; to find; a simple , precise explanation)
-0.649: (I; was; not able)
-
- So, I decided to write an article for graph.
-0.702: (I; So decided to write; an article)
-0.687: (I; to write; an article)
-
- This article will help any beginner to get some basic understanding about what graphs are, how they are represented, graph traversals using BFS and DFS.
-0.768: (This article; will help; any beginner to get some basic understanding about what graphs are , how they are represented)
-
-Graphs are one of the most interesting data structures in computer science.
-0.391: (Graphs; be the most interesting data structures in; computer science)
-
- Graphs and the trees are somewhat similar by their structure.
-0.781: (Graphs and the trees; are somewhat similar by; their structure)
-
- In fact, tree is derived from the graph data structure.
-0.914: (tree; is derived from; the graph data structure)
-0.455: (tree; is derived in; fact)
-
- However there are two important differences between trees and graphs.
-No extractions found.
-
- .
-No extractions found.
-
-Graphs are good in modeling real world problems like representing cities which are connected by roads and finding the paths between cities, modeling air traffic controller system, etc.
-0.765: (Graphs; are good in; modeling real world problems)
-
- These kinds of problems are hard to represent using simple tree structures.
-0.302: (hard; be These kinds of; problems)
-
- The following example shows a very simple graph    .
-0.74: (The following example; shows; a very simple graph)
-
-In the above graph, A,B,C,D,E,F are called nodes and the connecting lines between these nodes are called edges.
-0.633: (A,B,C,D,E, F; are called; nodes and the connecting lines)
-0.601: (A,B,C,D,E, F; are called in; the above graph)
-0.347: (A,B,C,D,E, F; be the connecting lines between; these nodes)
-
- The edges can be directed edges which are shown by arrows  they can also be weighted edges in which some numbers are assigned to them.
-0.849: (some numbers; are assigned to; them)
-0.827: (The edges; can be directed; edges which are shown by arrows they can also be weighted edges)
-0.557: (some numbers; are assigned in; arrows they can also be weighted edges)
-
- Hence, a graph can be a directed undirected and weighted unweighted graph.
-0.702: (a graph; Hence can be; a directed undirected and weighted unweighted graph)
-
- In this article, we will discuss undirected and unweighted graphs.
-0.678: (we; will discuss; undirected and unweighted graphs)
-0.473: (undirected and unweighted graphs; will be discuss in; this article)
-0.473: (we; will discuss undirected and unweighted graphs in; this article)
-
-   .
-No extractions found.
-
-Every graph has two components, Nodes and Edges.
-0.692: (Every graph; has; two components)
-
- Let s see how these two components are implemented in a programming language like JAVA.
-0.94: (these two components; are implemented in; a programming language)[attrib=s see]
-
-   .
-No extractions found.
-
-Nodes are implemented by class, structures or as LinkList nodes.
-0.932: (Nodes; are implemented by; class , structures or as)
-
- As an example in JAVA, we will represent node for the above graph as follows   .
-0.711: (we; will represent; node)
-0.568: (node; will be represent as; an example)
-0.568: (we; will represent node for the above graph as follows as; an example)
-0.494: (we; be node for; the above graph)
-
-Edges represent the connection between nodes.
-0.808: (Edges; represent; the connection)
-
- There are two ways to represent edges.
-No extractions found.
-
-It is a two dimensional array with Boolean flags.
-0.871: (It; is a two dimensional array with; Boolean flags)
-0.646: (It; is; a two dimensional array)
-
- As an example, we can represent the edges for the above graph using the following adjacency matrix.
-0.711: (we; can represent; the edges)
-0.708: (the edges; can be represent following; adjacency matrix)
-0.476: (we; can represent the edges for the above graph using the following; adjacency matrix)
-0.473: (the edges; can be represent as; an example)
-0.332: (we; be the edges for; the above graph using the)
-0.207: (we; can represent the edges for the above graph using the as; an example)
-
- .
-No extractions found.
-
-In the given graph, A is connected with B, C and D nodes, so adjacency matrix will have 1s in the  A  row for the  B ,  C  and  D  column.
-No extractions found.
-
-  .
-No extractions found.
-
-The advantages of representing the edges using adjacency matrix are  .
-No extractions found.
-
-The drawbacks of using the adjacency matrix are   .
-No extractions found.
-
-In JAVA, we can represent the adjacency matrix as a 2 dimensional array of integers Booleans.
-0.813: (we; can represent the adjacency matrix as; a 2 dimensional array of integers Booleans)
-0.772: (the adjacency matrix; can be represent as; a 2 dimensional array of integers Booleans)
-0.711: (we; can represent; the adjacency matrix)
-0.451: (we; can represent the adjacency matrix in; JAVA)
-0.436: (the adjacency matrix; can be represent in; JAVA)
-
-It is an array of linked list nodes.
-0.892: (It; is an array of; linked list nodes)
-0.716: (It; is; an array of linked list nodes)
-
- In other words, it is like a list whose elements are a linked list.
-0.799: (it; is like; a list whose elements are a linked list)
-0.496: (it; is in; other words)
-
- For the given graph example, the edges will be represented by the below adjacency list  .
-0.754: (the edges; will be represented for; the given graph example)
-
-The breadth first search  and the depth first search  are the two algorithms used for traversing and searching a node in a graph.
-0.752: (the two algorithms; be used for; traversing)
-0.749: (The breadth first search and the depth first search; are the two algorithms for; traversing)
-0.744: (The breadth first search and the depth first search; searching a node in; a graph)
-0.692: (The breadth first search and the depth first search; searching; a node)
-0.674: (a node; be searching in; a graph)
-
- They can also be used to find out whether a node is reachable from a given node or not.
-0.824: (a node; is reachable from; a given node or not)
-
-   .
-No extractions found.
-
-The aim of DFS algorithm is to traverse the graph in such a way that it tries to go far from the root node.
-0.878: (The aim of DFS algorithm; is to traverse the graph in; such a way that it tries to go far from the root node)
-0.854: (The aim of DFS algorithm; to traverse the graph in; such a way that it tries to go far from the root node)
-0.807: (The aim of DFS algorithm; is to traverse; the graph)
-0.749: (the graph; to be traverse in; such a way that it tries to go far from the root node)
-
- Stack is used in the implementation of the depth first search.
-0.885: (Stack; is used in; the implementation of the depth first search)
-
- Let s see how depth first search works with respect to the following graph    .
-0.324: (first; search works with; respect)
-0.272: (first; be search works with; respect)
-
-As stated before, in DFS, nodes are visited by going through the depth of the tree from the starting node.
-No extractions found.
-
- If we do the depth first traversal of the above graph and print the visited node, it will be  A B E F C D .
-0.647: (it; will be; A B E F C D)
-0.084: (we; do; the depth first traversal of the above graph)
-
- DFS visits the root node and then its children nodes until it reaches the end node, i.
-0.554: (DFS; visits then its children nodes in; i)
-0.51: (it; reaches; the end node)
-0.459: (DFS; visits the root node then; its children nodes)
-0.43: (DFS; visits then its children nodes; the root node)
-0.385: (DFS; visits the root node then in; i)
-
-e.
-No extractions found.
-
- E and F nodes, then moves up to the parent nodes.
-No extractions found.
-
- .
-No extractions found.
-
-Based upon the above steps, the following Java code shows the implementation of the DFS algorithm   .
-0.825: (the following Java code; shows; the implementation of the DFS algorithm)
-
-This is a very different approach for traversing the graph nodes.
-No extractions found.
-
- The aim of BFS algorithm is to traverse the graph as close as possible to the root node.
-0.74: (The aim of BFS algorithm; is to traverse; the graph)
-
- Queue is used in the implementation of the breadth first search.
-0.945: (Queue; is used in; the implementation of the breadth first search)
-
- Let s see how BFS traversal works with respect to the following graph .
-0.884: (BFS traversal; works with; respect)[attrib=s see]
-
-If we do the breadth first traversal of the above graph and print the visited node as the output, it will print the following output.
-0.084: (we; do; the breadth first traversal of the above graph)
-
-  A B C D E F .
-No extractions found.
-
- The BFS visits the nodes level by level, so it will start with level 0 which is the root node, and then it moves to the next levels which are B, C and D, then the last levels which are E and F.
-0.759: (it; moves to; the next levels which are B , C and D)
-0.641: (it; will start with; level 0 which is the root node)
-0.345: (The BFS; visits the nodes level then then by; level)[enabler=so it will start with level 0 which is the root node]
-0.32: (The BFS; visits the nodes level then then; the last levels which are E and F.)[enabler=so it will start with level 0 which is the root node]
-0.206: (The BFS; visits then then the last levels which are E and F. by; level)[enabler=so it will start with level 0 which is the root node]
-0.189: (The BFS; visits then then the last levels which are E and F.; the nodes level)[enabler=so it will start with level 0 which is the root node]
-
-  .
-No extractions found.
-
-Based upon the above steps, the following Java code shows the implementation of the BFS algorithm   .
-0.825: (the following Java code; shows; the implementation of the BFS algorithm)
-
-The full implementation of this is given in the attached source code.
-0.914: (The full implementation of this; is given in; the attached source code)
-
-The source code for this article is a JAVA project that you can import in eclipse IDE or run from the command prompt.
-0.776: (you; can import in; eclipse IDE)
-0.687: (The source code; is; a JAVA project)
-0.372: (a JAVA project; be The source code for; this article)
-
- You need to run the Main.
-0.821: (You; need to run; the Main)
-
-java file to see the traversal output.
-No extractions found.
-
-Main.
-No extractions found.
-
-java is a Java Console application which creates a simple undirected graph and then invokes the DFS and BFS traversal of the graph.
-0.712: (java; then invokes; the DFS and BFS traversal of the graph)
-0.667: (java; is; a Java Console application)
-0.564: (a simple undirected graph; be creates by; a Java Console application)
-
-This article, along with any associated source code and files, is licensed under The Code Project Open License .
-0.871: (This article; is licensed under; The Code Project Open License)
-
-General    News    Suggestion    Question    Bug    Answer    Joke    Praise    Rant    Admin   .
-No extractions found.
-
-Use Ctrl Left Right to switch messages, Ctrl Up Down to switch threads, Ctrl Shift Left Right to switch pages.
-0.767: (Use Ctrl; Left Right to switch; messages)
-0.759: (Use Ctrl; Left Right; Ctrl)
-0.706: (Use Ctrl; to switch; messages)
-0.671: (Ctrl; Left Right to switch; pages)
-0.429: (Ctrl; to switch; pages)
-0.254: (Ctrl Shift; be Ctrl up; Down)
-
-home.
-No extractions found.
-
-articles Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog.
-0.736: (articles Chapters and Sections; >; Search Latest Articles Latest Tips/Tricks Top Articles)
-0.453: (Articles Technical Blogs Posting/Update Guidelines Article; Help Forum Article Competition Submit; an article or tip)
-
-quick answersQ&A Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions.
-0.74: (C# questions; ASP.NET; questions Javascript questions)[enabler=SQL questions VB.NET questions]
-0.74: (Questions View All Questions; ASP.NET; questions Javascript questions)[enabler=SQL questions VB.NET questions]
-0.605: (questions; VB.NET; questions)
-
-discussionsforums All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch.
-0.662: (Application Lifecycle >; Running; a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices > System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch)
-
-features Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff.
-No extractions found.
-
-communitylounge Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics.
-No extractions found.
-
-help What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us.
-0.805: (a Question Bugs and Suggestions Article; Help Forum Site Map Advertise with; us)
-0.775: (Forum Site Map Advertise; be Help about; our Advertising Employment Opportunities)
-0.772: (Forum Site Map Advertise; be Help with; us)
-0.766: (a Question Bugs and Suggestions Article; Help Forum Site Map Advertise about; our Advertising Employment Opportunities)
-0.744: (Forum Site Map Advertise; be Help about; Us)
-0.734: (a Question Bugs and Suggestions Article; Help Forum Site Map Advertise about; Us)
-0.729: (a Question Bugs and Suggestions Article; Help; Forum Site Map Advertise)
-
-Chapters and Sections>.
-No extractions found.
-
-Search.
-No extractions found.
-
-Latest Articles.
-No extractions found.
-
-Latest Tips/Tricks.
-No extractions found.
-
-Top Articles.
-No extractions found.
-
-Beginner Articles.
-No extractions found.
-
-Technical Blogs.
-No extractions found.
-
-Posting/Update Guidelines.
-No extractions found.
-
-Article Help Forum.
-No extractions found.
-
-Article Competition.
-No extractions found.
-
-Submit an article or tip.
-No extractions found.
-
-Post your Blog.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Ask a Question about this article.
-No extractions found.
-
-Ask a Question.
-No extractions found.
-
-View Unanswered Questions.
-No extractions found.
-
-View All Questions....
-No extractions found.
-
-C# questions.
-No extractions found.
-
-ASP.NET questions.
-No extractions found.
-
-Javascript questions.
-No extractions found.
-
-SQL questions.
-No extractions found.
-
-VB.NET questions.
-No extractions found.
-
-.
-No extractions found.
-
-All Message Boards....
-No extractions found.
-
-Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues.
-0.675: (Application Lifecycle >; Running; a Business Sales / Marketing Collaboration / Beta Testing Work Issues)
-
-Design and Architecture.
-No extractions found.
-
-ASP.NET.
-No extractions found.
-
-JavaScript.
-No extractions found.
-
-C / C++ / MFC> ATL / WTL / STL Managed C++/CLI.
-No extractions found.
-
-C#.
-No extractions found.
-
-Free Tools.
-No extractions found.
-
-Objective-C and Swift.
-No extractions found.
-
-Database.
-No extractions found.
-
-Hardware & Devices> System Admin.
-No extractions found.
-
-Hosting and Servers.
-No extractions found.
-
-Java.
-No extractions found.
-
-.NET Framework.
-No extractions found.
-
-Android.
-No extractions found.
-
-iOS.
-No extractions found.
-
-Mobile.
-No extractions found.
-
-SharePoint.
-No extractions found.
-
-Silverlight / WPF.
-No extractions found.
-
-Visual Basic.
-No extractions found.
-
-Web Development.
-No extractions found.
-
-Site Bugs / Suggestions.
-No extractions found.
-
-Spam and Abuse Watch.
-No extractions found.
-
-.
-No extractions found.
-
-Running a Business.
-No extractions found.
-
-Sales / Marketing.
-No extractions found.
-
-Collaboration / Beta Testing.
-No extractions found.
-
-Work Issues.
-No extractions found.
-
-ATL / WTL / STL.
-No extractions found.
-
-Managed C++/CLI.
-No extractions found.
-
-System Admin.
-No extractions found.
-
-Competitions.
-No extractions found.
-
-News.
-No extractions found.
-
-The Insider Newsletter.
-No extractions found.
-
-The Daily Build Newsletter.
-No extractions found.
-
-Newsletter archive.
-No extractions found.
-
-Surveys.
-No extractions found.
-
-Product Showcase.
-No extractions found.
-
-Research Library.
-No extractions found.
-
-CodeProject Stuff.
-No extractions found.
-
-.
-No extractions found.
-
-Who's Who.
-No extractions found.
-
-Most Valuable Professionals.
-No extractions found.
-
-The Lounge  .
-No extractions found.
-
-The Insider News.
-No extractions found.
-
-The Weird & The Wonderful.
-No extractions found.
-
-The Soapbox.
-No extractions found.
-
-Press Releases.
-No extractions found.
-
-Non-English Language > General Indian Topics General Chinese Topics.
-No extractions found.
-
-.
-No extractions found.
-
-General Indian Topics.
-No extractions found.
-
-General Chinese Topics.
-No extractions found.
-
-What is 'CodeProject'?.
-No extractions found.
-
-General FAQ.
-No extractions found.
-
-Ask a Question.
-No extractions found.
-
-Bugs and Suggestions.
-No extractions found.
-
-Article Help Forum.
-No extractions found.
-
-Site Map.
-No extractions found.
-
-Advertise with us.
-No extractions found.
-
-About our Advertising.
-No extractions found.
-
-Employment Opportunities.
-No extractions found.
-
-About Us.
-No extractions found.
-
-.
-No extractions found.
-
-Download source code - 5.53 KB.
-No extractions found.
-
-29th December, 2008: Initial version  .
-No extractions found.
-
-email.
-No extractions found.
-
-twitter.
-No extractions found.
-
-facebook.
-No extractions found.
-
-linkedin.
-No extractions found.
-
-reddit.
-No extractions found.
-
-google+.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on.
-No extractions found.
-
-Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue.
-0.939: (A queue Nodes; will be visit in; the order imposed by the FIFO queue)
-0.833: (Data structure; helps in; the implementation of the Breadth)
-0.767: (A queue Nodes; will be; visit)
-0.705: (the order; be imposed by; the FIFO queue)
-
-Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited.
-0.736: (the first node; be remove from; queue Q)
-0.569: (the first node; be remove in; a queue Q Mark)
-
-Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty).
-0.707: (8 State; be processing after; processing 2 State)
-0.707: (8 State; be processing after; processing 7 State)
-
-.
-No extractions found.
-
-Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-A queue Nodes will be visit in the order imposed by the FIFO queue.
-0.948: (Nodes; will be visit in; the order imposed by the FIFO queue)
-0.794: (Nodes; will be; visit)
-0.705: (the order; be imposed by; the FIFO queue)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited.
-0.779: (the first node; be remove from; queue Q)
-0.692: (h; remove the first node from; queue Q)
-0.691: (h; remove; the first node)
-0.625: (the first node; be remove in; a queue Q Mark)
-0.453: (h; remove the first node in; a queue Q Mark)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited.
-0.736: (the first node; be remove from; queue Q)
-0.653: (h; remove the first node from; queue Q)
-0.652: (h; remove; the first node)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty).
-0.707: (8 State; be processing after; processing 2 State)
-0.707: (8 State; be processing after; processing 7 State)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Java code: 
-No extractions found.
-
-   public void bfs()
-No extractions found.
-
-   {
-No extractions found.
-
-      // BFS uses Queue data structure
-0.601: (// BFS; uses; Queue data structure)
-
-      Queue q = new LinkedList();
-No extractions found.
-
-      q.add(rootNode);
-No extractions found.
-
-      visited[rootNode] = true;
-No extractions found.
-
-      printNode(rootNode);
-No extractions found.
-
-      while( !q.isEmpty() )
-No extractions found.
-
-      {
-No extractions found.
-
-         int n, child;
-No extractions found.
-
-         n = (q.peek()).intValue();
-No extractions found.
-
-         child = getUnvisitedChildNode(n);    // Returns -1 if no unvisited niode left     
-0.781: (Unvisited Child; Node(; n)
-
-         if ( child != -1 )
-No extractions found.
-
-         {  // Found an unvisted node 
-No extractions found.
-
-            visited[child] = true;        // Mark as visited
-No extractions found.
-
-            printNode(child);
-No extractions found.
-
-            q.add(child);      // Add to queue 
-No extractions found.
-
-         }
-No extractions found.
-
-         else
-No extractions found.
-
-         {
-No extractions found.
-
-            q.remove();                  // Process next node
-No extractions found.
-
-         }
-No extractions found.
-
-      }
-No extractions found.
-
-   }.
-No extractions found.
-
-Example Program: (Demo above code)                                                 The BFS Prog file: click here A Test program: click here.
-No extractions found.
-
-.
-No extractions found.
-
-public void bfs()
-No extractions found.
-
-   {
-No extractions found.
-
-      // BFS uses Queue data structure
-0.601: (// BFS; uses; Queue data structure)
-
-      Queue q = new LinkedList();
-No extractions found.
-
-      q.add(rootNode);
-No extractions found.
-
-      visited[rootNode] = true;
-No extractions found.
-
-      printNode(rootNode);
-No extractions found.
-
-      while( !q.isEmpty() )
-No extractions found.
-
-      {
-No extractions found.
-
-         int n, child;
-No extractions found.
-
-         n = (q.peek()).intValue();
-No extractions found.
-
-         child = getUnvisitedChildNode(n);    // Returns -1 if no unvisited niode left     
-0.781: (Unvisited Child; Node(; n)
-
-         if ( child != -1 )
-No extractions found.
-
-         {  // Found an unvisted node 
-No extractions found.
-
-            visited[child] = true;        // Mark as visited
-No extractions found.
-
-            printNode(child);
-No extractions found.
-
-            q.add(child);      // Add to queue 
-No extractions found.
-
-         }
-No extractions found.
-
-         else
-No extractions found.
-
-         {
-No extractions found.
-
-            q.remove();                  // Process next node
-No extractions found.
-
-         }
-No extractions found.
-
-      }
-No extractions found.
-
-   }.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-The BFS Prog file: click here.
-No extractions found.
-
-A Test program: click here.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on.
-No extractions found.
-
-Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue.
-0.939: (A queue Nodes; will be visit in; the order imposed by the FIFO queue)
-0.833: (Data structure; helps in; the implementation of the Breadth)
-0.767: (A queue Nodes; will be; visit)
-0.705: (the order; be imposed by; the FIFO queue)
-
-Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited.
-0.736: (the first node; be remove from; queue Q)
-0.569: (the first node; be remove in; a queue Q Mark)
-
-Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty).
-0.707: (8 State; be processing after; processing 2 State)
-0.707: (8 State; be processing after; processing 7 State)
-
-.
-No extractions found.
-
-Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-A queue Nodes will be visit in the order imposed by the FIFO queue.
-0.948: (Nodes; will be visit in; the order imposed by the FIFO queue)
-0.794: (Nodes; will be; visit)
-0.705: (the order; be imposed by; the FIFO queue)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited.
-0.779: (the first node; be remove from; queue Q)
-0.692: (h; remove the first node from; queue Q)
-0.691: (h; remove; the first node)
-0.625: (the first node; be remove in; a queue Q Mark)
-0.453: (h; remove the first node in; a queue Q Mark)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited.
-0.736: (the first node; be remove from; queue Q)
-0.653: (h; remove the first node from; queue Q)
-0.652: (h; remove; the first node)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty).
-0.707: (8 State; be processing after; processing 2 State)
-0.707: (8 State; be processing after; processing 7 State)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Java code: 
-No extractions found.
-
-   public void bfs()
-No extractions found.
-
-   {
-No extractions found.
-
-      // BFS uses Queue data structure
-0.601: (// BFS; uses; Queue data structure)
-
-      Queue q = new LinkedList();
-No extractions found.
-
-      q.add(rootNode);
-No extractions found.
-
-      visited[rootNode] = true;
-No extractions found.
-
-      printNode(rootNode);
-No extractions found.
-
-      while( !q.isEmpty() )
-No extractions found.
-
-      {
-No extractions found.
-
-         int n, child;
-No extractions found.
-
-         n = (q.peek()).intValue();
-No extractions found.
-
-         child = getUnvisitedChildNode(n);    // Returns -1 if no unvisited niode left     
-0.781: (Unvisited Child; Node(; n)
-
-         if ( child != -1 )
-No extractions found.
-
-         {  // Found an unvisted node 
-No extractions found.
-
-            visited[child] = true;        // Mark as visited
-No extractions found.
-
-            printNode(child);
-No extractions found.
-
-            q.add(child);      // Add to queue 
-No extractions found.
-
-         }
-No extractions found.
-
-         else
-No extractions found.
-
-         {
-No extractions found.
-
-            q.remove();                  // Process next node
-No extractions found.
-
-         }
-No extractions found.
-
-      }
-No extractions found.
-
-   }.
-No extractions found.
-
-Example Program: (Demo above code)                                                 The BFS Prog file: click here A Test program: click here.
-No extractions found.
-
-.
-No extractions found.
-
-public void bfs()
-No extractions found.
-
-   {
-No extractions found.
-
-      // BFS uses Queue data structure
-0.601: (// BFS; uses; Queue data structure)
-
-      Queue q = new LinkedList();
-No extractions found.
-
-      q.add(rootNode);
-No extractions found.
-
-      visited[rootNode] = true;
-No extractions found.
-
-      printNode(rootNode);
-No extractions found.
-
-      while( !q.isEmpty() )
-No extractions found.
-
-      {
-No extractions found.
-
-         int n, child;
-No extractions found.
-
-         n = (q.peek()).intValue();
-No extractions found.
-
-         child = getUnvisitedChildNode(n);    // Returns -1 if no unvisited niode left     
-0.781: (Unvisited Child; Node(; n)
-
-         if ( child != -1 )
-No extractions found.
-
-         {  // Found an unvisted node 
-No extractions found.
-
-            visited[child] = true;        // Mark as visited
-No extractions found.
-
-            printNode(child);
-No extractions found.
-
-            q.add(child);      // Add to queue 
-No extractions found.
-
-         }
-No extractions found.
-
-         else
-No extractions found.
-
-         {
-No extractions found.
-
-            q.remove();                  // Process next node
-No extractions found.
-
-         }
-No extractions found.
-
-      }
-No extractions found.
-
-   }.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
+Classic data structures produce classic tutorials.
+0.767: (Classic data structures; produce; classic tutorials)
 
-.
-No extractions found.
-
-The BFS Prog file: click here.
-No extractions found.
+ In this edition of Babbage's Bag  we investigate the advanced ecology of trees _ perfectly balanced trees, AVL trees and B_Trees.
+0.729: (we; investigate; the advanced ecology of trees _ perfectly balanced trees)
+0.63: (the advanced ecology of trees _ perfectly balanced trees; be investigate in; this edition of Babbage 's Bag)
+0.298: (we; investigate the advanced ecology of trees   perfectly balanced trees in; this edition of Babbage 's Bag)
 
-A Test program: click here.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
 .
 No extractions found.
 
 .
-No extractions found.
-
-Breadth First Search:     visit all your neighbors before your neighbor's neighbors What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty).
-0.935: (Nodes; will be visit in; the order imposed by the FIFO queue Breadth first search)
-0.855: (all your neighbors; be visit before; your neighbor 's neighbors What is breadth first : Start at some node : Visit all the neighbors first : Only then visit the neighbors ' neighbors : And so on Data structure that helps in the implementation of the Breadth First Search algorithm : A queue Nodes will be visit in the order imposed by the FIFO queue Breadth first search : Put an arbitrary node x in queue Q Mark the node x as visited Repeat : h = remove the first node from queue Q Put all of h 's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited Example : Graph : Initial state : State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE ( The queue has become empty ))
-0.794: (Nodes; will be; visit)
-0.745: (Data structure; helps in; the implementation of the Breadth)
-0.707: (8 State; be processing after; processing 2 State)
-0.707: (8 State; be processing after; processing 7 State)
-0.655: (the order; be imposed by; the FIFO queue Breadth)
-0.407: (Initial state; be remove the first node from; queue Q)
-0.392: (Initial state; be remove the first node in; a queue Q Mark)
-0.182: (the first node; be remove Initial state : State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE ( The queue has become empty ) from; queue Q)
-0.173: (the first node; be remove Initial state : State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE ( The queue has become empty ) in; a queue Q Mark)
-
-Implementation in Java Java code: 
 No extractions found.
 
-   public void bfs()
+ .
 No extractions found.
 
-   {
+ .
 No extractions found.
 
-      // BFS uses Queue data structure
-0.601: (// BFS; uses; Queue data structure)
-
-      Queue q = new LinkedList();
-No extractions found.
-
-      q.add(rootNode);
-No extractions found.
-
-      visited[rootNode] = true;
-No extractions found.
-
-      printNode(rootNode);
-No extractions found.
-
-      while( !q.isEmpty() )
-No extractions found.
-
-      {
-No extractions found.
-
-         int n, child;
+.
 No extractions found.
 
-         n = (q.peek()).intValue();
+ .
 No extractions found.
 
-         child = getUnvisitedChildNode(n);    // Returns -1 if no unvisited niode left     
-0.781: (Unvisited Child; Node(; n)
-
-         if ( child != -1 )
+ .
 No extractions found.
 
-         {  // Found an unvisted node 
+ .
 No extractions found.
 
-            visited[child] = true;        // Mark as visited
+.
 No extractions found.
 
-            printNode(child);
+ .
 No extractions found.
 
-            q.add(child);      // Add to queue 
+ .
 No extractions found.
 
-         }
+.
 No extractions found.
 
-         else
+ .
 No extractions found.
 
-         {
+.
 No extractions found.
 
-            q.remove();                  // Process next node
+.
 No extractions found.
 
-         }
+.
 No extractions found.
 
-      }
+ .
 No extractions found.
 
-   }
+.
 No extractions found.
 
- Example Program: (Demo above code)                                                 The BFS Prog file: click here A Test program: click here.
+.
 No extractions found.
 
-What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on.
+ .
 No extractions found.
 
-Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue.
-0.939: (A queue Nodes; will be visit in; the order imposed by the FIFO queue)
-0.833: (Data structure; helps in; the implementation of the Breadth)
-0.767: (A queue Nodes; will be; visit)
-0.705: (the order; be imposed by; the FIFO queue)
+Whenever you use a database there is a 99% chance that an index is involved somewhere.
+0.774: (you; use; a database)
 
-Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited.
-0.736: (the first node; be remove from; queue Q)
-0.569: (the first node; be remove in; a queue Q Mark)
+ The simplest type of index is a sorted listing of the key field.
+0.93: (The simplest type of index; is a sorted listing of; the key field)
+0.778: (The simplest type of index; is; a sorted listing of the key field)
+0.492: (a sorted listing of the key field; be The simplest type of; index)
 
-Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty).
-0.707: (8 State; be processing after; processing 2 State)
-0.707: (8 State; be processing after; processing 7 State)
-
-.
-No extractions found.
+ This provides a fast lookup because you can use a binary search to locate any item without having to look at each one in turn.
+0.826: (you; can use; a binary search to locate any item without having to look at each one in turn)
 
-.
+ .
 No extractions found.
 
 .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
 .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
 .
 No extractions found.
 
-.
+ .
 No extractions found.
 
 .
@@ -1851,30 +125,26 @@ No extractions found.
 .
 No extractions found.
 
-.
+There are different types of tree data structures.
 No extractions found.
 
-What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on.
+ Some of them are.
 No extractions found.
 
-Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue.
-0.939: (A queue Nodes; will be visit in; the order imposed by the FIFO queue)
-0.833: (Data structure; helps in; the implementation of the Breadth)
-0.767: (A queue Nodes; will be; visit)
-0.705: (the order; be imposed by; the FIFO queue)
+Binary Tree is a special datastructure used for data storage purposes.
+0.793: (a special datastructure; be used for; data storage purposes)
+0.792: (Binary Tree; is; a special datastructure used for data storage purposes)
+0.78: (Binary Tree; is a special datastructure for; data storage purposes)
 
-Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited.
-0.736: (the first node; be remove from; queue Q)
-0.569: (the first node; be remove in; a queue Q Mark)
+ A binary tree has a special condition that each node can have a maximum of two children.
+0.747: (each node; can have; a maximum of two children)
+0.712: (A binary tree; has; a special condition)
+0.436: (each node; be a maximum of; two children)
 
-Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty).
-0.707: (8 State; be processing after; processing 2 State)
-0.707: (8 State; be processing after; processing 7 State)
+ A binary tree has the benefits of both an ordered array and a linked list as search is as quick as in a sorted array and insertion or deletion operation are as fast as in linked list.
+0.784: (A binary tree; has; the benefits of both an ordered array)
 
 .
-No extractions found.
-
-Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on.
 No extractions found.
 
 .
@@ -1883,10 +153,10 @@ No extractions found.
 .
 No extractions found.
 
-.
+See the axiomatic development of trees and its consequences for more information.
 No extractions found.
 
-.
+Types of trees:.
 No extractions found.
 
 .
@@ -1924,11 +194,6 @@ No extractions found.
 
 .
 No extractions found.
-
-A queue Nodes will be visit in the order imposed by the FIFO queue.
-0.948: (Nodes; will be visit in; the order imposed by the FIFO queue)
-0.794: (Nodes; will be; visit)
-0.705: (the order; be imposed by; the FIFO queue)
 
 .
 No extractions found.
@@ -1939,37 +204,25 @@ No extractions found.
 .
 No extractions found.
 
-.
+}.
 No extractions found.
 
 .
 No extractions found.
-
-Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited.
-0.779: (the first node; be remove from; queue Q)
-0.692: (h; remove the first node from; queue Q)
-0.691: (h; remove; the first node)
-0.625: (the first node; be remove in; a queue Q Mark)
-0.453: (h; remove the first node in; a queue Q Mark)
 
 .
 No extractions found.
 
-.
+ .
 No extractions found.
 
 .
 No extractions found.
-
-h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited.
-0.736: (the first node; be remove from; queue Q)
-0.653: (h; remove the first node from; queue Q)
-0.652: (h; remove; the first node)
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
 .
@@ -1978,7 +231,7 @@ No extractions found.
 .
 No extractions found.
 
-.
+Hash tree.
 No extractions found.
 
 .
@@ -1986,10 +239,6 @@ No extractions found.
 
 .
 No extractions found.
-
-Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty).
-0.707: (8 State; be processing after; processing 2 State)
-0.707: (8 State; be processing after; processing 7 State)
 
 .
 No extractions found.
@@ -2027,58 +276,58 @@ No extractions found.
 .
 No extractions found.
 
-.
-No extractions found.
+Arrays 1_D Multi_dimensional.
+0.654: (Arrays; 1 D; Multi_dimensional)
 
-.
+Stacks Basics of Stacks.
 No extractions found.
 
-.
+Queues Basics of Queues.
 No extractions found.
 
-.
+Hash Tables Basics of Hash Tables.
 No extractions found.
 
-.
+Linked List Singly Linked List.
 No extractions found.
 
-.
+Trees Binary/ N_ary Trees Binary Search Tree Heaps/Priority Queues.
 No extractions found.
 
-.
+Advanced Data Structures Trie Segment Trees Fenwick Trees Suffix Trees Suffix Arrays.
 No extractions found.
 
-.
+Disjoint Data Structures Basics of Disjoint Data Structures.
 No extractions found.
 
-.
-No extractions found.
+Arrays 1_D Multi_dimensional.
+0.654: (Arrays; 1 D; Multi_dimensional)
 
-.
+Stacks Basics of Stacks.
 No extractions found.
 
-.
+Queues Basics of Queues.
 No extractions found.
 
-.
+Hash Tables Basics of Hash Tables.
 No extractions found.
 
-.
+Linked List Singly Linked List.
 No extractions found.
 
-.
+Trees Binary/ N_ary Trees Binary Search Tree Heaps/Priority Queues.
 No extractions found.
 
-.
+Advanced Data Structures Trie Segment Trees Fenwick Trees Suffix Trees Suffix Arrays.
 No extractions found.
 
-.
+Disjoint Data Structures Basics of Disjoint Data Structures.
 No extractions found.
 
 .
 No extractions found.
 
-.
+There are mainly three types of tree traversals.
 No extractions found.
 
 .
@@ -2120,471 +369,405 @@ No extractions found.
 .
 No extractions found.
 
-.
+Overview:.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+Binary Tree:.
 No extractions found.
 
-.
+Heap:.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-Java code: 
+ .
 No extractions found.
 
-   public void bfs()
+ .
 No extractions found.
 
-   {
+ .
 No extractions found.
-
-      // BFS uses Queue data structure
-0.601: (// BFS; uses; Queue data structure)
 
-      Queue q = new LinkedList();
+ .
 No extractions found.
 
-      q.add(rootNode);
+Overview of Data Structures | Set 1 .
 No extractions found.
 
-      visited[rootNode] = true;
+Overview of Data Structures | Set 2 .
 No extractions found.
 
-      printNode(rootNode);
+Overview of Data Structures | Set 3 .
 No extractions found.
 
-      while( !q.isEmpty() )
-No extractions found.
+In this chapter we will discuss tree data structures, like trees and graphs.
+0.626: (we; will discuss; tree data structures)
+0.473: (tree data structures; will be discuss in; this chapter)
+0.234: (we; will discuss tree data structures , like trees and graphs in; this chapter)
 
-      {
-No extractions found.
+ The abilities of these data structures are really important for the modern programming.
+0.832: (The abilities of these data structures; are really important for; the modern programming)
+0.492: (important; be The abilities of; these data structures)
 
-         int n, child;
+ Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model.
 No extractions found.
 
-         n = (q.peek()).intValue();
+ We will explain what tree data structures are and will review their main advantages and disadvantages.
 No extractions found.
 
-         child = getUnvisitedChildNode(n);    // Returns -1 if no unvisited niode left     
-0.781: (Unvisited Child; Node(; n)
+ We will present example implementations and problems showing their practical usage.
+0.665: (We; will present; example implementations and problems showing their practical usage)
 
-         if ( child != -1 )
-No extractions found.
+ We will focus on binary trees, binary search trees and self_balancing binary search tree.
+0.724: (We; will focus on; binary trees , binary search trees)
 
-         {  // Found an unvisted node 
-No extractions found.
+ We will explain what graph is, the types of graphs, how to represent a graph in the memory and where graphs are used in our life and in the computer technologies.
+0.719: (graphs; to are used in; our life and in the computer technologies)
+0.712: (We; will explain; what graph)
+0.658: (a graph; to be represent in; the memory)
 
-            visited[child] = true;        // Mark as visited
+ We will see where in .
 No extractions found.
 
-            printNode(child);
+NET Framework self_balancing binary search trees are implemented and how to use them.
 No extractions found.
 
-            q.add(child);      // Add to queue 
+.
 No extractions found.
 
-         }
+.
 No extractions found.
 
-         else
+.
 No extractions found.
 
-         {
+.
 No extractions found.
 
-            q.remove();                  // Process next node
+.
 No extractions found.
 
-         }
+ .
 No extractions found.
 
-      }
+{.
 No extractions found.
 
-   }.
+ .
 No extractions found.
 
-Example Program: (Demo above code)                                                 The BFS Prog file: click here A Test program: click here.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-public void bfs()
+    {.
 No extractions found.
 
-   {
+        {.
 No extractions found.
 
-      // BFS uses Queue data structure
-0.601: (// BFS; uses; Queue data structure)
-
-      Queue q = new LinkedList();
+        }.
 No extractions found.
 
-      q.add(rootNode);
+    }.
 No extractions found.
 
-      visited[rootNode] = true;
+ .
 No extractions found.
 
-      printNode(rootNode);
+    {.
 No extractions found.
 
-      while( !q.isEmpty() )
+        {.
 No extractions found.
 
-      {
+        }.
 No extractions found.
 
-         int n, child;
+        {.
 No extractions found.
 
-         n = (q.peek()).intValue();
+        }.
 No extractions found.
-
-         child = getUnvisitedChildNode(n);    // Returns -1 if no unvisited niode left     
-0.781: (Unvisited Child; Node(; n)
 
-         if ( child != -1 )
+    }.
 No extractions found.
 
-         {  // Found an unvisted node 
+ .
 No extractions found.
 
-            visited[child] = true;        // Mark as visited
+    {.
 No extractions found.
 
-            printNode(child);
+        {.
 No extractions found.
 
-            q.add(child);      // Add to queue 
+        }.
 No extractions found.
 
-         }
+    }.
 No extractions found.
 
-         else
+ .
 No extractions found.
 
-         {
+    {.
 No extractions found.
 
-            q.remove();                  // Process next node
+        {.
 No extractions found.
 
-         }
+        }.
 No extractions found.
 
-      }
+ .
 No extractions found.
 
-   }.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-The BFS Prog file: click here.
+    {.
 No extractions found.
 
-A Test program: click here.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
-
-Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge).
-0.757: (cities and the edges; represent; the cost)[attrib=nodes represents]
-
-Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6.
-0.627: (the lowest cost path; is with; cost)
 
-In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9).
-0.432: (we; would have tried different ways to go from 0 → 2 Example; Unsuccessful attempt 1)[enabler=In order to find the answer]
-0.397: (we; would have tried Unsuccessful attempt 1 : ( cost = 4 + 4 + 4 + 2 = 14 ) Unsuccessful attempt 2 : ( cost = 7 + 2 = 9 ) .; different ways to go from 0 → 2 Example)[enabler=In order to find the answer]
-
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities.
-0.711: (cities and the edges; represent; the cost)[attrib=nodes represents]
-
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-What is the lowest cost path from node 0 to node 2 ?.
+ .
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9).
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+            );.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
 .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!).
-0.752: (the information; be stored in; a graph)
-0.626: (we; must visit; every node)
-0.619: (Graphs; are like; trees)
-0.488: (we; must visit every node using; every link of the graph)
-
-Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!!.
-0.779: (Graph traversal; be visiting nodes in; a graph)
-0.711: (We; must access; the links)[enabler=because the links often contains essential information ( e .g. , cost ) for the problme at head ! ! !]
-0.627: (the links; often contains; essential information)
-
-.
+    {.
 No extractions found.
-
-Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!).
-0.752: (the information; be stored in; a graph)
-0.666: (Graphs; are like; trees and linked lists)
-0.626: (we; must visit; every node)
-0.488: (we; must visit every node using; every link of the graph)
 
-.
+ .
 No extractions found.
 
-All of them are used to represent some information that is important to solve our problem..
+ .
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-every node     using            every link.
+ .
 No extractions found.
 
-of the graph.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-Graph traversal = visiting nodes in a graph using the link information of the graph.
-0.883: (Graph traversal; be visiting nodes in; a graph using the link information of the graph)
-
-.
+}.
 No extractions found.
 
-We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!!.
-0.723: (We; must access; the links)[enabler=because the links often contains essential information ( e .g. , cost ) for the problme at head ! ! !]
-0.627: (the links; often contains; essential information)
-
-.
+….
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+    {.
 No extractions found.
-
-Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!!.
-0.729: (a graph; can have; cycles)
-0.457: (cycles; can be have unlike; trees/linked lits)
-0.316: (a graph; can have cycles : Warning : If a program blindly follow the links in a graph , the program will loop forever ! ! ! unlike; trees/linked lits)
-0.139: (a program; blindly follow; the links)
 
-How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again.
-0.711: (we; must mark; that node)
-0.626: (We; must maintain; some visitation information)
-0.604: (we; visit; a node)
-0.307: (we; must mark that node as visited The program must never visit again; an already visited node)
-
-.
+        {.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+            {.
 No extractions found.
 
-If a program blindly follow the links in a graph, the program will loop forever !!!.
-0.177: (a program; blindly follow; the links)
-
-.
+            }.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
-
-We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again.
-0.711: (we; must mark; that node)
-0.64: (We; must maintain; some visitation information)
-0.604: (we; visit; a node)
-0.307: (we; must mark that node as visited The program must never visit again; an already visited node)
 
-.
+    {.
 No extractions found.
-
-When we visit a node, we must mark that node as visited The program must never visit an already visited node again.
-0.711: (we; must mark; that node)
-0.604: (we; visit; a node)
 
-.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+….
 No extractions found.
 
-.
+ .
 No extractions found.
 
 .
@@ -2594,411 +777,307 @@ No extractions found.
 No extractions found.
 
 .
-No extractions found.
-
-How to store information on whether a node has been visited: 
-No extractions found.
-
-   boolean visited[ ];         // denote whether a node has been visited     
-No extractions found.
-
-   visited = new boolean[ # nodes ];
-No extractions found.
-
- 
 No extractions found.
 
-   We use:
-No extractions found.
-
-     visited[i] = true  to represent node i has been visited
-No extractions found.
-
-     visited[i] = false to represent node i has NOT been visited.
-No extractions found.
-
 .
-No extractions found.
-
-boolean visited[ ];         // denote whether a node has been visited     
 No extractions found.
 
-   visited = new boolean[ # nodes ];
+ .
 No extractions found.
 
- 
+{.
 No extractions found.
 
-   We use:
+ .
 No extractions found.
 
-     visited[i] = true  to represent node i has been visited
+ .
 No extractions found.
 
-     visited[i] = false to represent node i has NOT been visited.
+   .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-In addition to the visited[ ] information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges.
-0.803: (This variable; contains; nodes that can be reached by known edges)
-
-.
+    }.
 No extractions found.
 
-toVisitNodes: This variable contains nodes that can be reached by known edges.
-0.803: (This variable; contains; nodes that can be reached by known edges)
-
-.
+ .
 No extractions found.
 
-This variable contains nodes that can be reached by known edges.
-0.812: (This variable; contains; nodes that can be reached by known edges)
-
-.
+    {.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-0.698: (all nodes; to be visit in; a graph using ( all ) links in the graph)
-
-   Set all nodes to "not visited";
+        {.
 No extractions found.
-
-   put an initial node into "toVisitNodes";
-0.837: (an initial node; be put into; toVisitNodes)
 
-   while ( "toVisitNodes" ≠ empty ) do
+        }.
 No extractions found.
 
-   {
+    }.
 No extractions found.
 
-      x = select (and delete) some node from "toVisitNodes";
+}.
 No extractions found.
 
-      if ( x has not been visited )
+ .
 No extractions found.
 
-      {
+{.
 No extractions found.
 
-         visited[x] = true;         // Visit node x !
+    {.
 No extractions found.
 
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-0.472: (we; are using; all edges)
-
-            if ( y has not been visited )   
+ .
 No extractions found.
 
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
+ .
 No extractions found.
 
-      }
+    }.
 No extractions found.
 
-   }.
+}.
 No extractions found.
 
 .
-No extractions found.
-
-Set all nodes to "not visited";
-No extractions found.
-
-   put an initial node into "toVisitNodes";
-0.837: (an initial node; be put into; toVisitNodes)
-
-   while ( "toVisitNodes" ≠ empty ) do
 No extractions found.
 
-   {
+.
 No extractions found.
 
-      x = select (and delete) some node from "toVisitNodes";
+.
 No extractions found.
 
-      if ( x has not been visited )
+….
 No extractions found.
 
-      {
+{.
 No extractions found.
 
-         visited[x] = true;         // Visit node x !
+ .
 No extractions found.
 
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-0.472: (we; are using; all edges)
-
-            if ( y has not been visited )   
+ .
 No extractions found.
 
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
+ .
 No extractions found.
 
-      }
+ .
 No extractions found.
 
-   }.
+    {.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-Initialization: 
+ .
 No extractions found.
 
-    Set all nodes to "not visited";
+    {.
 No extractions found.
-
-    We start the traversal at node 0             
-0.653: (We; start; the traversal)
 
-    (i.e., insert initial node = 0 into "toVisitNodes")     
+    }.
 No extractions found.
 
- Graphically:.
+ .
 No extractions found.
 
-Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
+    {.
 No extractions found.
 
-   visited[0] = true;         // Visit node 0 !
+    }.
 No extractions found.
 
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
-
-   {   
+ .
 No extractions found.
 
-       if ( y has not been visited )   
+    {.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
+    }.
 No extractions found.
 
-   }
+ .
 No extractions found.
-
- The statement visited[0] = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result:.
-0.82: (The for-loop; will use; the edges that are incident)[enabler=as visited ( this represents the fact that we are visiting the node ! ) :]
-0.804: (The statement; will mark; 0)
-0.358: (we; are visiting; the node)
 
-Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-0.672: (We; picked; node)
-
-   visited[3] = true;         // Visit node 3 !
+    {.
 No extractions found.
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
 
-   {   
+    }.
 No extractions found.
 
-       if ( y has not been visited )   
+}.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
+….
 No extractions found.
 
-   }
+{.
 No extractions found.
 
- The statement visited[3] = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes..
-0.806: (the algorithm; uses all edges in; the graph to visit all the nodes)
-0.774: (The for-loop; will use; the edges that are incident)
-0.766: (The for-loop; adds these nodes to; the variable toVisitNodes)
-0.7: (The for-loop; adds; these nodes)
-0.648: (the algorithm; uses; all edges)
-0.629: (node 0; is visited; So node 0)
-0.397: (we; will visit again; 0)
-0.36: (we; that have used in; red)
-0.295: (we; are visiting; the node)
-
-And so on.... (Too long to go through all the steps !).
+}.
 No extractions found.
 
 .
 No extractions found.
 
-Set all nodes to "not visited";
+{.
 No extractions found.
-
-    We start the traversal at node 0             
-0.653: (We; start; the traversal)
 
-    (i.e., insert initial node = 0 into "toVisitNodes").
+    {.
 No extractions found.
 
-.
+        // ….
 No extractions found.
 
-.
+        // ….
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
+    {.
 No extractions found.
 
-   visited[0] = true;         // Visit node 0 !
+    }.
 No extractions found.
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
 
-   {   
+ .
 No extractions found.
 
-       if ( y has not been visited )   
+    // ….
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
+    // ….
 No extractions found.
 
-   }
+}.
 No extractions found.
 
- The statement visited[0] = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result:.
-0.82: (The for-loop; will use; the edges that are incident)[enabler=as visited ( this represents the fact that we are visiting the node ! ) :]
-0.804: (The statement; will mark; 0)
-0.358: (we; are visiting; the node)
-
-.
+{.
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-visited[0] = true;         // Visit node 0 !
+    }.
 No extractions found.
 
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
-
-   {   
+    {.
 No extractions found.
 
-       if ( y has not been visited )   
+        {.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
+        }.
 No extractions found.
 
-   }.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-0.672: (We; picked; node)
+        {.
+No extractions found.
 
-   visited[3] = true;         // Visit node 3 !
+        }.
 No extractions found.
 
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
+    }.
+No extractions found.
 
-   {   
+ .
 No extractions found.
 
-       if ( y has not been visited )   
+}.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
+ .
 No extractions found.
 
-   }
+{.
 No extractions found.
 
- The statement visited[3] = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes..
-0.806: (the algorithm; uses all edges in; the graph to visit all the nodes)
-0.774: (The for-loop; will use; the edges that are incident)
-0.766: (The for-loop; adds these nodes to; the variable toVisitNodes)
-0.7: (The for-loop; adds; these nodes)
-0.648: (the algorithm; uses; all edges)
-0.629: (node 0; is visited; So node 0)
-0.397: (we; will visit again; 0)
-0.36: (we; that have used in; red)
-0.295: (we; are visiting; the node)
+}.
+No extractions found.
 
 .
 No extractions found.
@@ -3006,307 +1085,290 @@ No extractions found.
 .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-visited[3] = true;         // Visit node 3 !
+}.
 No extractions found.
 
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
+ .
+No extractions found.
 
-   {   
+{.
 No extractions found.
 
-       if ( y has not been visited )   
+    {.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
+        {.
 No extractions found.
 
-   }.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!).
-0.694: (node 0; is visited; So node 0)
-0.301: (we; will visit again will; 0)
+ .
+No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+            {.
 No extractions found.
 
-.
+            }.
 No extractions found.
 
-.
+            {.
 No extractions found.
 
-.
+            }.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-"Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-0.539: (I; cannot be yet; specific)
+    {.
+No extractions found.
 
-      /* ==============================================
+        {.
 No extractions found.
 
-         Initialize variables for the traversal
+        }.
 No extractions found.
 
-	 ============================================== */
+        {.
 No extractions found.
 
-      for ( i = 0; i < NNodes; i++ )
+            {.
 No extractions found.
 
-      {
+            }.
 No extractions found.
 
-          visited[i] = false;
+            {.
 No extractions found.
 
-      }
+            }.
 No extractions found.
 
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
+        }.
 No extractions found.
 
-      /* ===========================================
+    }.
 No extractions found.
 
-         Loop as long as there are "active" node
+}.
 No extractions found.
 
-         =========================================== */
+{.
 No extractions found.
 
-      while( toVisitNodes ≠ empty )
+}.
 No extractions found.
 
-      {
+ .
 No extractions found.
 
-         int nextNode;                // Next node to visit
+{.
 No extractions found.
 
-         int i;
+    {.
 No extractions found.
 
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-0.736: (a node; be Remove from; toVisitNodes)
-0.64: (//; Remove a node from; toVisitNodes)
-0.638: (//; Remove; a node)
+    }.
+No extractions found.
 
-         if ( ! visited[nextNode] )
+}.
 No extractions found.
 
-         {
+{.
 No extractions found.
 
-            visited[nextNode] = true;    // Mark node as visited
+    {.
 No extractions found.
 
-            System.out.println("nextNode = " + nextNode );
+    }.
 No extractions found.
 
-            for ( i = 0; i < NNodes; i++ )
+}.
 No extractions found.
 
-               if ( adjMatrix[nextNode][i] > 0 && ! visited[i] )
+.
 No extractions found.
 
-                  add( i, toVisitNodes);  
+.
 No extractions found.
 
-         }
+.
 No extractions found.
 
-      }.
+.
 No extractions found.
 
 .
 No extractions found.
 
-/* ==============================================
+ .
 No extractions found.
 
-         Initialize variables for the traversal
+{.
 No extractions found.
 
-	 ============================================== */
+ .
 No extractions found.
 
-      for ( i = 0; i < NNodes; i++ )
+    {.
 No extractions found.
 
-      {
+        {.
 No extractions found.
 
-          visited[i] = false;
+        }.
 No extractions found.
 
-      }
+    }.
 No extractions found.
 
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
+ .
 No extractions found.
 
-      /* ===========================================
+    {.
 No extractions found.
 
-         Loop as long as there are "active" node
+    }.
 No extractions found.
 
-         =========================================== */
+ .
 No extractions found.
 
-      while( toVisitNodes ≠ empty )
+    {.
 No extractions found.
 
-      {
+    }.
 No extractions found.
 
-         int nextNode;                // Next node to visit
+ .
 No extractions found.
 
-         int i;
+    {.
 No extractions found.
 
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-0.736: (a node; be Remove from; toVisitNodes)
-0.64: (//; Remove a node from; toVisitNodes)
-0.638: (//; Remove; a node)
+    }.
+No extractions found.
 
-         if ( ! visited[nextNode] )
+ .
 No extractions found.
 
-         {
+    {.
 No extractions found.
 
-            visited[nextNode] = true;    // Mark node as visited
+    }.
 No extractions found.
 
-            System.out.println("nextNode = " + nextNode );
+ .
 No extractions found.
 
-            for ( i = 0; i < NNodes; i++ )
+    {.
 No extractions found.
 
-               if ( adjMatrix[nextNode][i] > 0 && ! visited[i] )
+    }.
 No extractions found.
 
-                  add( i, toVisitNodes);  
+ .
 No extractions found.
 
-         }
+    {.
 No extractions found.
 
-      }.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
 .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+    });.
 No extractions found.
 
-There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS).
+ .
 No extractions found.
 
-These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes.
-0.894: (The data structure; used to store the nodes in; toVisitNodes)
-0.829: (The data structure; used to store; the nodes)
-0.819: (The data structure; to store the nodes in; toVisitNodes)
-0.78: (The data structure; to store; the nodes)
-0.708: (the nodes; to be store in; toVisitNodes)
+ .
+No extractions found.
 
-Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes.
-0.747: (Breadth First Search; uses; a queue)
-0.739: (the nodes; to be store in; toVisitNodes)
-0.649: (First Search; uses; a stack)
+    {.
+No extractions found.
 
-We will discuss these algorithms next.....
-0.64: (We; will discuss; these algorithms)
+        {.
+No extractions found.
 
-.
+            {.
 No extractions found.
 
-Breadth First Search (BFS) Depth First Search (DFS).
+            }.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-The data structure used to store the nodes in toVisitNodes.
-0.9: (The data structure; used to store the nodes in; toVisitNodes)
-0.837: (The data structure; used to store; the nodes)
-0.828: (The data structure; to store the nodes in; toVisitNodes)
-0.79: (The data structure; to store; the nodes)
-0.708: (the nodes; to be store in; toVisitNodes)
+    {.
+No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+            {.
 No extractions found.
 
-.
+            }.
 No extractions found.
 
-Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes.
-0.728: (Breadth First Search; uses; a queue)
-0.708: (the nodes; to be store in; toVisitNodes)
-0.543: (a stack; be uses by; ( DFS)
+        }.
+No extractions found.
 
-.
+    }.
 No extractions found.
 
-uses a queue (First In, First Out) to store the nodes in toVisitNodes.
-0.754: (the nodes; to be store in; toVisitNodes)
+}.
+No extractions found.
 
 .
 No extractions found.
@@ -3317,19 +1379,36 @@ No extractions found.
 .
 No extractions found.
 
-uses a stack (Last In, First Out) to store the nodes in toVisitNodes.
-0.754: (the nodes; to be store in; toVisitNodes)
+In this chapter we will discuss tree data structures, like trees and graphs.
+0.626: (we; will discuss; tree data structures)
+0.473: (tree data structures; will be discuss in; this chapter)
+0.234: (we; will discuss tree data structures , like trees and graphs in; this chapter)
 
-.
+ The abilities of these data structures are really important for the modern programming.
+0.832: (The abilities of these data structures; are really important for; the modern programming)
+0.492: (important; be The abilities of; these data structures)
+
+ Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model.
 No extractions found.
 
-.
+ We will explain what tree data structures are and will review their main advantages and disadvantages.
 No extractions found.
 
-.
+ We will present example implementations and problems showing their practical usage.
+0.665: (We; will present; example implementations and problems showing their practical usage)
+
+ We will focus on binary trees, binary search trees and self_balancing binary search tree.
+0.724: (We; will focus on; binary trees , binary search trees)
+
+ We will explain what graph is, the types of graphs, how to represent a graph in the memory and where graphs are used in our life and in the computer technologies.
+0.719: (graphs; to are used in; our life and in the computer technologies)
+0.712: (We; will explain; what graph)
+0.658: (a graph; to be represent in; the memory)
+
+ We will see where in .
 No extractions found.
 
-.
+NET Framework self_balancing binary search trees are implemented and how to use them.
 No extractions found.
 
 .
@@ -3340,403 +1419,326 @@ No extractions found.
 
 .
 No extractions found.
-
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9).
-0.713: (we; would have tried; different ways to go from 0 → 2 Example)[enabler=In order to find the answer]
-0.668: (nodes; represents; cities)
-0.65: (Introductory problem; Given; the following graph)
-0.648: (nodes; represent; the cost)
-0.648: (the edges; represent; the cost)
-0.496: (the edges; represents; cities)
-0.168: (we; would have tried different ways to go from 0 → 2 Example with; cost)[enabler=In order to find the answer]
 
-Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!!.
-0.861: (Algorithms; used to process; the information stored in a Graphs data structure Fact)
-0.819: (Algorithms; to process; the information stored in a Graphs data structure Fact)
-0.779: (Graph traversal; be visiting nodes in; a graph)
-0.752: (the information; be stored in; a Graphs data structure Fact)
-0.752: (the information; be stored in; a graph)
-0.711: (We; must access; the links)[enabler=because the links often contains essential information ( e .g. , cost ) for the problme at head ! ! !]
-0.652: (Graphs; are like; trees and linked lists)
-0.627: (the links; often contains; essential information)
-0.626: (we; must visit; every node)
-0.488: (we; must visit every node using; every link of the graph)
-
-Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again.
-0.706: (Caveat; can have; cycles)
-0.648: (we; must mark; that node)
-0.556: (We; must maintain; some visitation information)
-0.533: (we; visit; a node)
-0.395: (a graph; be Caveat in; graph traversal)
-0.295: (a graph; be Caveat unlike; trees/linked lits)
-0.249: (we; must mark that node as visited The program must never visit again; an already visited node)
-0.139: (a program; blindly follow; the links)
-
-Visitation information How to store information on whether a node has been visited: 
+.
 No extractions found.
 
-   boolean visited[ ];         // denote whether a node has been visited     
+.
 No extractions found.
 
-   visited = new boolean[ # nodes ];
+ .
 No extractions found.
 
- 
+{.
 No extractions found.
 
-   We use:
+ .
 No extractions found.
 
-     visited[i] = true  to represent node i has been visited
+ .
 No extractions found.
 
-     visited[i] = false to represent node i has NOT been visited.
+ .
 No extractions found.
 
-Additional information needed to traverse a graph In addition to the visited[ ] information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges.
-0.803: (This variable; contains; nodes that can be reached by known edges)
-0.679: (a graph; to be traverse in; addition)
-
-General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-0.833: (General algorithm; used to visit all nodes in; a graph General algorithm)
-0.783: (General algorithm; used to visit; all nodes)
-0.729: (General algorithm; to visit all nodes in; a graph General algorithm)
-0.725: (General algorithm; to visit; all nodes)
-0.698: (all nodes; to be visit in; a graph using ( all ) links in the graph)
-0.59: (all nodes; to be visit in; a graph General algorithm)
-
-   Set all nodes to "not visited";
+    {.
 No extractions found.
 
-   put an initial node into "toVisitNodes";
-0.837: (an initial node; be put into; toVisitNodes)
-
-   while ( "toVisitNodes" ≠ empty ) do
+        {.
 No extractions found.
 
-   {
+        }.
 No extractions found.
 
-      x = select (and delete) some node from "toVisitNodes";
+    }.
 No extractions found.
 
-      if ( x has not been visited )
+ .
 No extractions found.
 
-      {
+    {.
 No extractions found.
 
-         visited[x] = true;         // Visit node x !
+        {.
 No extractions found.
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-0.472: (we; are using; all edges)
 
-            if ( y has not been visited )   
+        }.
 No extractions found.
 
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
+        {.
 No extractions found.
 
-      }
+        }.
 No extractions found.
 
-   }.
+    }.
 No extractions found.
 
-Example of traversal Initialization: 
+ .
 No extractions found.
 
-    Set all nodes to "not visited";
+    {.
 No extractions found.
 
-    We start the traversal at node 0             
-0.653: (We; start; the traversal)
+        {.
+No extractions found.
 
-    (i.e., insert initial node = 0 into "toVisitNodes")     
+        }.
 No extractions found.
 
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
+    }.
 No extractions found.
 
-   visited[0] = true;         // Visit node 0 !
+ .
 No extractions found.
 
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
+    {.
+No extractions found.
 
-   {   
+        {.
 No extractions found.
 
-       if ( y has not been visited )   
+        }.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
+ .
 No extractions found.
 
-   }
+        {.
 No extractions found.
 
- The statement visited[0] = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-0.82: (The for-loop; will use; the edges that are incident)[enabler=as visited ( this represents the fact that we are visiting the node ! ) :]
-0.804: (The statement; will mark; 0)
-0.672: (We; picked; node)
-0.358: (we; are visiting; the node)
+        }.
+No extractions found.
 
-   visited[3] = true;         // Visit node 3 !
+ .
 No extractions found.
 
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
+    }.
+No extractions found.
 
-   {   
+ .
 No extractions found.
 
-       if ( y has not been visited )   
+    {.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
+    }.
 No extractions found.
 
-   }
+}.
 No extractions found.
 
- The statement visited[3] = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !).
-0.774: (The for-loop; will use; the edges that are incident)
-0.766: (The for-loop; adds these nodes to; the variable toVisitNodes)
-0.7: (The for-loop; adds; these nodes)
-0.639: (the algorithm; uses all edges so in; the graph to visit all the nodes)
-0.629: (node 0; is visited; So node 0)
-0.433: (the algorithm; uses all edges so on; .... ( Too long)
-0.397: (we; will visit again; 0)
-0.36: (we; that have used in; red)
-0.333: (the algorithm; uses so; all edges)
-0.295: (we; are visiting; the node)
+ .
+No extractions found.
 
-The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-0.539: (I; cannot be yet; specific)
+{.
+No extractions found.
 
-      /* ==============================================
+ .
 No extractions found.
 
-         Initialize variables for the traversal
+    {.
 No extractions found.
 
-	 ============================================== */
+        {.
 No extractions found.
 
-      for ( i = 0; i < NNodes; i++ )
+        }.
 No extractions found.
 
-      {
+ .
 No extractions found.
 
-          visited[i] = false;
+    }.
 No extractions found.
 
-      }
+ .
 No extractions found.
 
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
+    {.
 No extractions found.
 
-      /* ===========================================
+        {.
 No extractions found.
 
-         Loop as long as there are "active" node
+        }.
 No extractions found.
 
-         =========================================== */
+    }.
 No extractions found.
 
-      while( toVisitNodes ≠ empty )
+ .
 No extractions found.
 
-      {
+    {.
 No extractions found.
 
-         int nextNode;                // Next node to visit
+        {.
 No extractions found.
 
-         int i;
+        }.
 No extractions found.
 
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-0.736: (a node; be Remove from; toVisitNodes)
-0.64: (//; Remove a node from; toVisitNodes)
-0.638: (//; Remove; a node)
+    }.
+No extractions found.
 
-         if ( ! visited[nextNode] )
+ .
 No extractions found.
 
-         {
+    {.
 No extractions found.
 
-            visited[nextNode] = true;    // Mark node as visited
+        {.
 No extractions found.
 
-            System.out.println("nextNode = " + nextNode );
+        }.
 No extractions found.
 
-            for ( i = 0; i < NNodes; i++ )
+ .
 No extractions found.
 
-               if ( adjMatrix[nextNode][i] > 0 && ! visited[i] )
+ .
 No extractions found.
 
-                  add( i, toVisitNodes);  
+        {.
 No extractions found.
 
-         }
+        }.
 No extractions found.
 
-      }.
+    }.
 No extractions found.
 
-Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next.....
-0.782: (The data structure; to store the nodes in; toVisitNodes Facts)
-0.78: (The data structure; to store; the nodes)
-0.764: (The data structure; used; Breadth First Search ( BFS))
-0.658: (the nodes; to be store in; toVisitNodes Facts)
-0.658: (the nodes; to be store in; toVisitNodes)
-0.649: (First Search; uses; a stack)
-0.626: (We; will discuss; these algorithms)
-0.583: (The data structure; used Breadth First Search ( BFS) : uses a queue ( First In , First Out ) to store the nodes in toVisitNodes Depth First Search ( DFS ) uses a stack ( Last In , First Out ) to store the nodes in toVisitNodes We will discuss these algorithms next ..... to store the nodes in; toVisitNodes Facts)
-0.503: (The data structure; used Breadth First Search ( BFS) : uses a queue ( First In , First Out ) to store the nodes in toVisitNodes Depth First Search ( DFS ) uses a stack ( Last In , First Out ) to store the nodes in toVisitNodes We will discuss these algorithms next ..... to store; the nodes)
+ .
+No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!).
-0.752: (the information; be stored in; a graph)
-0.626: (we; must visit; every node)
-0.619: (Graphs; are like; trees)
-0.488: (we; must visit every node using; every link of the graph)
+{.
+No extractions found.
 
-Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!!.
-0.779: (Graph traversal; be visiting nodes in; a graph)
-0.711: (We; must access; the links)[enabler=because the links often contains essential information ( e .g. , cost ) for the problme at head ! ! !]
-0.627: (the links; often contains; essential information)
+    {.
+No extractions found.
 
-Graph traversal = visiting nodes in a graph using the link information of the graph.
-0.883: (Graph traversal; be visiting nodes in; a graph using the link information of the graph)
+            );.
+No extractions found.
 
-Graph traversal = visiting nodes in a graph using the link information of the graph.
-0.883: (Graph traversal; be visiting nodes in; a graph using the link information of the graph)
+ .
+No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
 .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge).
-0.757: (cities and the edges; represent; the cost)[attrib=nodes represents]
+        }.
+No extractions found.
 
-Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6.
-0.627: (the lowest cost path; is with; cost)
+    }.
+No extractions found.
 
-In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9).
-0.432: (we; would have tried different ways to go from 0 → 2 Example; Unsuccessful attempt 1)[enabler=In order to find the answer]
-0.397: (we; would have tried Unsuccessful attempt 1 : ( cost = 4 + 4 + 4 + 2 = 14 ) Unsuccessful attempt 2 : ( cost = 7 + 2 = 9 ) .; different ways to go from 0 → 2 Example)[enabler=In order to find the answer]
+ .
+No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities.
-0.711: (cities and the edges; represent; the cost)[attrib=nodes represents]
+    {.
+No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+….
 No extractions found.
 
-What is the lowest cost path from node 0 to node 2 ?.
+ .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+            {.
 No extractions found.
 
-Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9).
+            }.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+….
 No extractions found.
 
-.
+ .
 No extractions found.
 
 .
@@ -3751,101 +1753,86 @@ No extractions found.
 .
 No extractions found.
 
-Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!).
-0.752: (the information; be stored in; a graph)
-0.626: (we; must visit; every node)
-0.619: (Graphs; are like; trees)
-0.488: (we; must visit every node using; every link of the graph)
+ .
+No extractions found.
 
-Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!!.
-0.779: (Graph traversal; be visiting nodes in; a graph)
-0.711: (We; must access; the links)[enabler=because the links often contains essential information ( e .g. , cost ) for the problme at head ! ! !]
-0.627: (the links; often contains; essential information)
+{.
+No extractions found.
 
-.
+ .
 No extractions found.
 
-Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!).
-0.752: (the information; be stored in; a graph)
-0.666: (Graphs; are like; trees and linked lists)
-0.626: (we; must visit; every node)
-0.488: (we; must visit every node using; every link of the graph)
+ .
+No extractions found.
 
-.
+   .
 No extractions found.
 
-All of them are used to represent some information that is important to solve our problem..
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-every node     using            every link.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-Graph traversal = visiting nodes in a graph using the link information of the graph.
-0.883: (Graph traversal; be visiting nodes in; a graph using the link information of the graph)
+ .
+No extractions found.
 
-.
+ .
 No extractions found.
 
-We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!!.
-0.723: (We; must access; the links)[enabler=because the links often contains essential information ( e .g. , cost ) for the problme at head ! ! !]
-0.627: (the links; often contains; essential information)
+        {.
+No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!!.
-0.729: (a graph; can have; cycles)
-0.457: (cycles; can be have unlike; trees/linked lits)
-0.316: (a graph; can have cycles : Warning : If a program blindly follow the links in a graph , the program will loop forever ! ! ! unlike; trees/linked lits)
-0.139: (a program; blindly follow; the links)
+{.
+No extractions found.
 
-How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again.
-0.711: (we; must mark; that node)
-0.626: (We; must maintain; some visitation information)
-0.604: (we; visit; a node)
-0.307: (we; must mark that node as visited The program must never visit again; an already visited node)
+    {.
+No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-If a program blindly follow the links in a graph, the program will loop forever !!!.
-0.177: (a program; blindly follow; the links)
+}.
+No extractions found.
 
 .
 No extractions found.
@@ -3856,215 +1843,211 @@ No extractions found.
 .
 No extractions found.
 
-.
+….
 No extractions found.
 
-We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again.
-0.711: (we; must mark; that node)
-0.64: (We; must maintain; some visitation information)
-0.604: (we; visit; a node)
-0.307: (we; must mark that node as visited The program must never visit again; an already visited node)
+{.
+No extractions found.
 
-.
+ .
 No extractions found.
 
-When we visit a node, we must mark that node as visited The program must never visit an already visited node again.
-0.711: (we; must mark; that node)
-0.604: (we; visit; a node)
+ .
+No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-How to store information on whether a node has been visited: 
+ .
 No extractions found.
 
-   boolean visited[ ];         // denote whether a node has been visited     
+    {.
 No extractions found.
 
-   visited = new boolean[ # nodes ];
+    }.
 No extractions found.
 
- 
+ .
 No extractions found.
 
-   We use:
+    {.
 No extractions found.
 
-     visited[i] = true  to represent node i has been visited
+    }.
 No extractions found.
 
-     visited[i] = false to represent node i has NOT been visited.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-boolean visited[ ];         // denote whether a node has been visited     
+    }.
 No extractions found.
 
-   visited = new boolean[ # nodes ];
+ .
 No extractions found.
 
- 
+    {.
 No extractions found.
 
-   We use:
+    }.
 No extractions found.
 
-     visited[i] = true  to represent node i has been visited
+}.
 No extractions found.
 
-     visited[i] = false to represent node i has NOT been visited.
+….
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+}.
 No extractions found.
 
 .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-In addition to the visited[ ] information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges.
-0.803: (This variable; contains; nodes that can be reached by known edges)
+    {.
+No extractions found.
 
-.
+        // ….
 No extractions found.
 
-toVisitNodes: This variable contains nodes that can be reached by known edges.
-0.803: (This variable; contains; nodes that can be reached by known edges)
+        // ….
+No extractions found.
 
-.
+    }.
 No extractions found.
 
-This variable contains nodes that can be reached by known edges.
-0.812: (This variable; contains; nodes that can be reached by known edges)
+ .
+No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    // ….
 No extractions found.
 
-General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-0.698: (all nodes; to be visit in; a graph using ( all ) links in the graph)
+    // ….
+No extractions found.
 
-   Set all nodes to "not visited";
+}.
 No extractions found.
 
-   put an initial node into "toVisitNodes";
-0.837: (an initial node; be put into; toVisitNodes)
+{.
+No extractions found.
 
-   while ( "toVisitNodes" ≠ empty ) do
+}.
 No extractions found.
 
-   {
+ .
 No extractions found.
 
-      x = select (and delete) some node from "toVisitNodes";
+{.
 No extractions found.
 
-      if ( x has not been visited )
+    {.
 No extractions found.
 
-      {
+    }.
 No extractions found.
 
-         visited[x] = true;         // Visit node x !
+    {.
 No extractions found.
 
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-0.472: (we; are using; all edges)
+        {.
+No extractions found.
 
-            if ( y has not been visited )   
+        }.
 No extractions found.
 
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
+        {.
 No extractions found.
 
-      }
+        }.
 No extractions found.
 
-   }.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-Set all nodes to "not visited";
+}.
 No extractions found.
 
-   put an initial node into "toVisitNodes";
-0.837: (an initial node; be put into; toVisitNodes)
+{.
+No extractions found.
 
-   while ( "toVisitNodes" ≠ empty ) do
+    {.
 No extractions found.
 
-   {
+        {.
 No extractions found.
 
-      x = select (and delete) some node from "toVisitNodes";
+        }.
 No extractions found.
 
-      if ( x has not been visited )
+        {.
 No extractions found.
 
-      {
+        }.
 No extractions found.
 
-         visited[x] = true;         // Visit node x !
+        {.
 No extractions found.
 
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-0.472: (we; are using; all edges)
+        }.
+No extractions found.
 
-            if ( y has not been visited )   
+    }.
 No extractions found.
 
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
+ .
 No extractions found.
 
-      }
+}.
 No extractions found.
 
-   }.
+ .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+}.
 No extractions found.
 
 .
@@ -4073,181 +2056,139 @@ No extractions found.
 .
 No extractions found.
 
-Initialization: 
+{.
 No extractions found.
 
-    Set all nodes to "not visited";
+    {.
 No extractions found.
 
-    We start the traversal at node 0             
-0.653: (We; start; the traversal)
-
-    (i.e., insert initial node = 0 into "toVisitNodes")     
+    }.
 No extractions found.
 
- Graphically:.
+}.
 No extractions found.
 
-Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
+ .
 No extractions found.
 
-   visited[0] = true;         // Visit node 0 !
+{.
 No extractions found.
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
 
-   {   
+    {.
 No extractions found.
 
-       if ( y has not been visited )   
+        {.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
+        }.
 No extractions found.
 
-   }
+    }.
 No extractions found.
 
- The statement visited[0] = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result:.
-0.82: (The for-loop; will use; the edges that are incident)[enabler=as visited ( this represents the fact that we are visiting the node ! ) :]
-0.804: (The statement; will mark; 0)
-0.358: (we; are visiting; the node)
-
-Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-0.672: (We; picked; node)
-
-   visited[3] = true;         // Visit node 3 !
+ .
 No extractions found.
 
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
-
-   {   
+ .
 No extractions found.
 
-       if ( y has not been visited )   
+    {.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
+ .
 No extractions found.
 
-   }
+        {.
 No extractions found.
-
- The statement visited[3] = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes..
-0.806: (the algorithm; uses all edges in; the graph to visit all the nodes)
-0.774: (The for-loop; will use; the edges that are incident)
-0.766: (The for-loop; adds these nodes to; the variable toVisitNodes)
-0.7: (The for-loop; adds; these nodes)
-0.648: (the algorithm; uses; all edges)
-0.629: (node 0; is visited; So node 0)
-0.397: (we; will visit again; 0)
-0.36: (we; that have used in; red)
-0.295: (we; are visiting; the node)
 
-And so on.... (Too long to go through all the steps !).
+        }.
 No extractions found.
 
-.
+        {.
 No extractions found.
 
-Set all nodes to "not visited";
+            {.
 No extractions found.
-
-    We start the traversal at node 0             
-0.653: (We; start; the traversal)
 
-    (i.e., insert initial node = 0 into "toVisitNodes").
+            }.
 No extractions found.
 
-.
+            {.
 No extractions found.
 
-.
+            }.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
+        {.
 No extractions found.
 
-   visited[0] = true;         // Visit node 0 !
+        }.
 No extractions found.
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
 
-   {   
+        {.
 No extractions found.
 
-       if ( y has not been visited )   
+            {.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
+            }.
 No extractions found.
 
-   }
+            {.
 No extractions found.
 
- The statement visited[0] = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result:.
-0.82: (The for-loop; will use; the edges that are incident)[enabler=as visited ( this represents the fact that we are visiting the node ! ) :]
-0.804: (The statement; will mark; 0)
-0.358: (we; are visiting; the node)
-
-.
+            }.
 No extractions found.
 
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+{.
 No extractions found.
 
-visited[0] = true;         // Visit node 0 !
+}.
 No extractions found.
 
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
-
-   {   
+ .
 No extractions found.
 
-       if ( y has not been visited )   
+{.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
+    {.
 No extractions found.
 
-   }.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
-.
+{.
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
 .
@@ -4265,274 +2206,269 @@ No extractions found.
 .
 No extractions found.
 
-Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-0.672: (We; picked; node)
-
-   visited[3] = true;         // Visit node 3 !
+ .
 No extractions found.
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
 
-   {   
+{.
 No extractions found.
 
-       if ( y has not been visited )   
+ .
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
+    {.
 No extractions found.
 
-   }
+        {.
 No extractions found.
 
- The statement visited[3] = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes..
-0.806: (the algorithm; uses all edges in; the graph to visit all the nodes)
-0.774: (The for-loop; will use; the edges that are incident)
-0.766: (The for-loop; adds these nodes to; the variable toVisitNodes)
-0.7: (The for-loop; adds; these nodes)
-0.648: (the algorithm; uses; all edges)
-0.629: (node 0; is visited; So node 0)
-0.397: (we; will visit again; 0)
-0.36: (we; that have used in; red)
-0.295: (we; are visiting; the node)
-
-.
+        }.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-visited[3] = true;         // Visit node 3 !
+ .
 No extractions found.
 
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-0.472: (we; are using; all edges)
-
-   {   
+    {.
 No extractions found.
 
-       if ( y has not been visited )   
+    }.
 No extractions found.
 
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
+ .
 No extractions found.
 
-   }.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
-
-But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!).
-0.694: (node 0; is visited; So node 0)
-0.301: (we; will visit again will; 0)
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+    {.
 No extractions found.
 
-.
+    }.
 No extractions found.
 
-.
+}.
 No extractions found.
 
 .
 No extractions found.
 
-.
+{.
 No extractions found.
 
-"Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-0.539: (I; cannot be yet; specific)
-
-      /* ==============================================
+    });.
 No extractions found.
 
-         Initialize variables for the traversal
+ .
 No extractions found.
 
-	 ============================================== */
+ .
 No extractions found.
 
-      for ( i = 0; i < NNodes; i++ )
+    {.
 No extractions found.
 
-      {
+        {.
 No extractions found.
 
-          visited[i] = false;
+            {.
 No extractions found.
 
-      }
+            }.
 No extractions found.
 
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
+        }.
 No extractions found.
 
-      /* ===========================================
+    }.
 No extractions found.
 
-         Loop as long as there are "active" node
+ .
 No extractions found.
 
-         =========================================== */
+    {.
 No extractions found.
 
-      while( toVisitNodes ≠ empty )
+        {.
 No extractions found.
 
-      {
+            {.
 No extractions found.
 
-         int nextNode;                // Next node to visit
+            }.
 No extractions found.
 
-         int i;
+        }.
 No extractions found.
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-0.736: (a node; be Remove from; toVisitNodes)
-0.64: (//; Remove a node from; toVisitNodes)
-0.638: (//; Remove; a node)
 
-         if ( ! visited[nextNode] )
+    }.
 No extractions found.
 
-         {
+}.
 No extractions found.
 
-            visited[nextNode] = true;    // Mark node as visited
+.
 No extractions found.
 
-            System.out.println("nextNode = " + nextNode );
+.
 No extractions found.
 
-            for ( i = 0; i < NNodes; i++ )
+.
 No extractions found.
 
-               if ( adjMatrix[nextNode][i] > 0 && ! visited[i] )
+Education.
 No extractions found.
 
-                  add( i, toVisitNodes);  
-No extractions found.
+Computer Education for all provides lectures series on types of trees in data structure which covers Introduction to Trees Definitions and Terminology Classification of Trees Application of Trees Data Structures and Applications Types of Trees in Data Structure Trees in data structure pdf Trees in data structure using c Trees in data structure tutorial Trees in data structure ppt Binary search tree in data structure Binary trees in data structure Tree traversal in data structure What is Tree in Data Structure Have a look this helpful video, for more please subscribe https://www.
+0.822: (Computer Education; provides; lectures series)
+0.742: (data structure; covers Introduction to; Trees Definitions and Terminology Classification of Trees Application of Trees Data Structures)
+0.699: (c Trees; be using tutorial Trees ppt; Binary search tree Binary trees in data structure Tree traversal in data structure)
+0.699: (tutorial Trees; be using c Trees ppt; Binary search tree Binary trees in data structure Tree traversal in data structure)
+0.593: (Tree; is Have; a look)
+0.587: (Introduction; be covers by; data structure)
+0.532: (c Trees; be using tutorial Trees in; data structure)
+0.501: (Binary search tree; be Binary trees in; data structure Tree traversal)
+0.501: (Binary search tree; be Binary trees in; data structure)
+0.467: (data structure; covers Introduction in; data structure)
+0.445: (tutorial Trees; be using c Trees in; data structure)
+0.424: (types of trees; using c Trees ppt; Binary search tree Binary trees in data structure Tree traversal in data structure)
+0.424: (types of trees; using tutorial Trees ppt; Binary search tree Binary trees in data structure Tree traversal in data structure)
+0.402: (types of trees; using c Trees in; data structure)
+0.265: (types of trees; using tutorial Trees in; data structure)
 
-         }
+youtube.
 No extractions found.
 
-      }.
+com/channel/UCiV3.
 No extractions found.
 
-.
+Education.
 No extractions found.
 
-/* ==============================================
-No extractions found.
+In linear data structure, data is organized in sequential order and in non_linear data structure, data is organized in random order.
+0.922: (data; is organized in; sequential order and in non_linear data structure)
+0.914: (data; is organized in; random order)[enabler=linear data structure , data is organized in sequential order and in non_linear data structure]
+0.797: (data; is organized in; linear data structure)
 
-         Initialize variables for the traversal
-No extractions found.
+ Tree is a very popular data structure used in wide range of applications.
+0.853: (Tree; is a very popular data structure in; wide range of applications)
+0.842: (a very popular data structure; be used in; wide range of applications)
+0.817: (Tree; is; a very popular data structure used in wide range of applications)
 
-	 ============================================== */
+ A tree data structure can be defined as follows.
 No extractions found.
 
-      for ( i = 0; i < NNodes; i++ )
+.
 No extractions found.
 
-      {
+.
 No extractions found.
 
-          visited[i] = false;
+.
 No extractions found.
 
-      }
+     .
 No extractions found.
 
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
+.
 No extractions found.
 
-      /* ===========================================
+.
 No extractions found.
 
-         Loop as long as there are "active" node
+.
 No extractions found.
 
-         =========================================== */
+     .
 No extractions found.
 
-      while( toVisitNodes ≠ empty )
+.
 No extractions found.
 
-      {
+.
 No extractions found.
 
-         int nextNode;                // Next node to visit
+.
 No extractions found.
 
-         int i;
+     .
 No extractions found.
 
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-0.736: (a node; be Remove from; toVisitNodes)
-0.64: (//; Remove a node from; toVisitNodes)
-0.638: (//; Remove; a node)
-
-         if ( ! visited[nextNode] )
+Linked List.
 No extractions found.
 
-         {
+Tree.
 No extractions found.
 
-            visited[nextNode] = true;    // Mark node as visited
+Graph.
 No extractions found.
 
-            System.out.println("nextNode = " + nextNode );
+Stack, Queue etc..
 No extractions found.
 
-            for ( i = 0; i < NNodes; i++ )
+.
 No extractions found.
 
-               if ( adjMatrix[nextNode][i] > 0 && ! visited[i] )
+.
 No extractions found.
 
-                  add( i, toVisitNodes);  
-No extractions found.
+A complete binary tree is a binary tree in which at every level, except possibly the last, has to be completely filled and all nodes are as far left as possible..
+0.894: (A complete binary tree; is a binary tree except; the last)
+0.879: (all nodes; has to are far left as; possible)
+0.788: (A complete binary tree; is; a binary tree)
 
-         }
+.
 No extractions found.
 
-      }.
-No extractions found.
+A binary tree can be converted into an extended binary tree by adding new nodes to its leaf nodes and to the nodes that have only one child. These new nodes are added in such a way that all the nodes in the resultant tree have either zero or two children. It is also called 2 – tree..
+0.929: (A binary tree; can be converted into; an extended binary tree)
+0.91: (These new nodes; are added in; such a way that all the nodes in the resultant tree have either zero or two children)
+0.832: (It; is also called 2 –; tree)
+0.633: (the nodes; that have; either zero or two children)
+0.617: (It; is also called; 2)
+0.587: (new nodes; be adding to; its leaf nodes and to the nodes that have only one child)
 
+Threaded Binary tree is the tree which is represented using pointers the empty sub trees are set to NULL, i.e. ‘left’ pointer of the node whose left child is empty sub tree is normally set to NULL. These large numbers of pointer sets are used in different ways..
+0.917: (pointer of the node; is normally set to; NULL. These large numbers of pointer sets)
+0.877: (the empty sub trees; are set to; NULL)
+0.816: (the empty sub trees; are set i; .e)
+0.694: (the empty sub trees; are used in; different ways)
+0.639: (whose left child; is; empty sub tree)
+
 .
 No extractions found.
 
@@ -4545,45 +2481,27 @@ No extractions found.
 .
 No extractions found.
 
-There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS).
+.
 No extractions found.
 
-These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes.
-0.894: (The data structure; used to store the nodes in; toVisitNodes)
-0.829: (The data structure; used to store; the nodes)
-0.819: (The data structure; to store the nodes in; toVisitNodes)
-0.78: (The data structure; to store; the nodes)
-0.708: (the nodes; to be store in; toVisitNodes)
-
-Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes.
-0.747: (Breadth First Search; uses; a queue)
-0.739: (the nodes; to be store in; toVisitNodes)
-0.649: (First Search; uses; a stack)
-
-We will discuss these algorithms next.....
-0.64: (We; will discuss; these algorithms)
-
 .
 No extractions found.
 
-Breadth First Search (BFS) Depth First Search (DFS).
+.
 No extractions found.
 
 .
 No extractions found.
 
+Singly linked lists An example of one of the simplest types of graphs is a singly linked list! Now we can start to see the power of the graph data structure, as it can represent very complicated relationships, but also something as simple as a list.
+0.556: (we; Now can start to see; the power of the graph data structure)[enabler=as it can represent very complicated relationships , but also something as simple as a list]
+0.511: (it; can represent; complicated relationships)
+
 .
 No extractions found.
 
 .
 No extractions found.
-
-The data structure used to store the nodes in toVisitNodes.
-0.9: (The data structure; used to store the nodes in; toVisitNodes)
-0.837: (The data structure; used to store; the nodes)
-0.828: (The data structure; to store the nodes in; toVisitNodes)
-0.79: (The data structure; to store; the nodes)
-0.708: (the nodes; to be store in; toVisitNodes)
 
 .
 No extractions found.
@@ -4594,16 +2512,8 @@ No extractions found.
 .
 No extractions found.
 
-Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes.
-0.728: (Breadth First Search; uses; a queue)
-0.708: (the nodes; to be store in; toVisitNodes)
-0.543: (a stack; be uses by; ( DFS)
-
 .
 No extractions found.
-
-uses a queue (First In, First Out) to store the nodes in toVisitNodes.
-0.754: (the nodes; to be store in; toVisitNodes)
 
 .
 No extractions found.
@@ -4614,8 +2524,8 @@ No extractions found.
 .
 No extractions found.
 
-uses a stack (Last In, First Out) to store the nodes in toVisitNodes.
-0.754: (the nodes; to be store in; toVisitNodes)
+.
+No extractions found.
 
 .
 No extractions found.
@@ -4667,6 +2577,19 @@ No extractions found.
 
 .
 No extractions found.
+
+A binary tree is a special kind of tree, one in which all nodes have at most two children.
+0.913: (A binary tree; is a special kind of; tree)
+0.821: (all nodes; have at; most two children)
+0.736: (A binary tree; is; a special kind of tree)
+
+ For a given node in a binary tree, the first child is referred to as the left child, while the second child is referred to as the right child.
+0.868: (the first child; is referred as; the left child)[enabler=while the second child is referred to as the right child]
+0.838: (the second child; is referred as; the right child)
+0.818: (the first child; is referred for; a given node)[enabler=while the second child is referred to as the right child]
+
+ Figure 2 depicts two binary trees.
+0.782: (Figure 2; depicts; two binary trees)
 
 .
 No extractions found.

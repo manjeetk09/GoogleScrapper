@@ -1,122 +1,478 @@
-0;2;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;details;1.0;0.0625;49.0;0.0
-0;2;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;class cne;4.0;0.0625;49.0;0.0
-0;2;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;cne algorithm;4.0;0.0625;49.0;0.0
-0;2;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;specially;1.0;0.0625;49.0;0.0
-0;2;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;define;1.0;0.0625;49.0;0.0
-0;3;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;hpp;1.0;0.0;49.0;0
-0;4;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;similar style;4.0;0.0625;49.0;0.0
-0;4;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;algorithm;1.0;0.0625;12.25;0.0
-0;4;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;hyperneat;1.0;0.0;49.0;0.0
-0;4;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;key functions;4.0;0.125;49.0;0.0
-0;4;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;neat;1.0;0.0625;49.0;0.0
-0;4;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;algorithms;1.0;0.0625;16.333333333333332;0.0
-0;4;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;including cne;4.0;0.0625;49.0;0.0
-0;4;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;called;1.0;0.0625;49.0;0.0
-0;5;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;list;1.0;0.0;49.0;0.0
-0;5;http://mlpack.org/gsocblog/summary-of-neuroevolution-algorithms-implementation.html;key functions;4.0;0.125;49.0;0.0
-0;7;http://mlpack.org/docs/mlpack-git/man/kmeans.html;lloyd iteration;4.0;0.07142857142857142;49.0;0.0
-0;7;http://mlpack.org/docs/mlpack-git/man/kmeans.html;options;1.0;0.07142857142857142;49.0;0.0
-0;7;http://mlpack.org/docs/mlpack-git/man/kmeans.html;algorithm;1.5;0.21428571428571427;24.5;0.0
-0;7;http://mlpack.org/docs/mlpack-git/man/kmeans.html;algorithm  option;3.5;0.07142857142857142;49.0;0.0
-0;8;http://mlpack.org/docs/mlpack-git/man/kmeans.html;approach;1.0;0.07142857142857142;49.0;0
-0;8;http://mlpack.org/docs/mlpack-git/man/kmeans.html;standard;1.0;0.07142857142857142;49.0;0
-0;9;http://mlpack.org/docs/mlpack-git/man/kmeans.html;options include;4.0;0.07142857142857142;49.0;1.0
-0;9;http://mlpack.org/docs/mlpack-git/man/kmeans.html;hamerly;1.0;0.0;49.0;1.0
-0;9;http://mlpack.org/docs/mlpack-git/man/kmeans.html;algorithm;2.33333333333;0.21428571428571427;24.5;1.0
-0;9;http://mlpack.org/docs/mlpack-git/man/kmeans.html;triangleinequality based algorithm;8.33333333333;0.07142857142857142;49.0;1.0
-0;9;http://mlpack.org/docs/mlpack-git/man/kmeans.html;pellegmoore treebased algorithm;8.33333333333;0.07142857142857142;49.0;1.0
-0;9;http://mlpack.org/docs/mlpack-git/man/kmeans.html;modification;1.0;0.0;49.0;1.0
-0;9;http://mlpack.org/docs/mlpack-git/man/kmeans.html;elkan;1.0;0.0;49.0;1.0
-0;10;http://mlpack.org/docs/mlpack-git/man/kmeans.html;algorithm;1.0;0.21428571428571427;24.5;0
-0;11;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;interests;1.0;0.05555555555555555;49.0;0.0
-0;11;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;suitable ideas;4.0;0.05555555555555555;49.0;0.0
-0;11;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;means;1.0;0.05555555555555555;49.0;0.0
-0;11;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;list;1.0;0.0;49.0;0.0
-0;11;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;range;1.5;0.05555555555555555;49.0;0.0
-0;11;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;mlpack developers;4.0;0.05555555555555555;49.0;0.0
-0;11;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;ideas compiled;4.0;0.05555555555555555;49.0;0.0
-0;11;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;wide range;3.5;0.05555555555555555;49.0;0.0
-0;11;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;student abilities;4.0;0.05555555555555555;49.0;0.0
-0;12;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;coding knowledge;4.0;0.05555555555555555;49.0;0.0
-0;12;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;full understanding;4.0;0.05555555555555555;49.0;0.0
-0;12;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;difficult problems;4.0;0.05555555555555555;49.0;0.0
-0;12;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;knowledge  sections;4.0;0.05555555555555555;49.0;0.0
-0;12;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;replaced;1.0;0.05555555555555555;49.0;0.0
-0;12;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;learn;1.0;0.0;49.0;0.0
-0;12;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;description statement;4.0;0.05555555555555555;49.0;0.0
-0;12;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;easier projects;4.0;0.05555555555555555;49.0;0.0
-0;12;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;sufficient;1.0;0.05555555555555555;49.0;0.0
-0;19;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;wellknown algorithms;4.0;0.034482758620689655;49.0;0.0
-0;19;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;generally;1.0;0.034482758620689655;49.0;0.0
-0;19;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;implements stable;4.0;0.034482758620689655;49.0;0.0
-0;19;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;scikitlearn project;4.0;0.034482758620689655;49.0;0.0
-0;19;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;contrast;1.0;0.034482758620689655;49.0;0.0
-0;19;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;goal;1.0;0.034482758620689655;49.0;0.0
-0;20;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;niche;1.0;0.034482758620689655;49.0;0.0
-0;20;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;conferences;1.0;0.0;49.0;0.0
-0;20;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;appeared;1.0;0.034482758620689655;49.0;0.0
-0;20;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;providing highquality implementations;9.0;0.034482758620689655;49.0;0.0
-0;20;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;mlpack;1.0;0.0;49.0;0.0
-0;20;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;algorithms;1.0;0.034482758620689655;16.333333333333332;0.0
-0;20;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;journals;1.0;0.0;49.0;0.0
-0;20;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;fill;1.0;0.034482758620689655;49.0;0.0
-0;21;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;cases;1.0;0.034482758620689655;49.0;0.0
-0;21;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;mlpack;1.0;0.0;49.0;0.0
-0;21;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;implementing wellknown algorithms;9.0;0.034482758620689655;49.0;0.0
-0;23;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;faster;1.0;0.034482758620689655;49.0;0.0
-0;23;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;standard techniques;4.0;0.034482758620689655;49.0;0.0
-0;23;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;implementation;1.0;0.0;49.0;0.0
-0;23;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;implementations;1.0;0.0;49.0;0.0
-0;23;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;ensure;1.0;0.06896551724137931;49.0;0.0
-0;23;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;svms;1.0;0.0;49.0;0.0
-0;23;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;strive;1.0;0.034482758620689655;49.0;0.0
-0;24;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;automatic benchmarking system;9.0;0.034482758620689655;49.0;0.0
-0;24;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;ensure;1.0;0.06896551724137931;49.0;0.0
-0;24;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;https   www;4.0;0.034482758620689655;49.0;0.0
-0;25;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;github;1.0;0.0;49.0;0
-0;26;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;zoq benchmarks;4.0;0.034482758620689655;49.0;0
-0;29;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);algorithms;1.0;0.0;12.25;0
-0;29;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);mlpack supports;4.0;0.0;24.5;0
-0;30;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);collaborative filtering;4.0;0.0;24.5;0
-0;31;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);density estimation trees;9.0;0.0;24.5;0
-0;33;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);kernel search;4.0;0.0;24.5;0
-0;33;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);fastmks;1.0;0.0;49.0;0
-0;33;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);fast exact max;9.0;0.0;24.5;0
-0;34;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);gmms;1.0;0.0;49.0;0
-0;34;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);gaussian mixture models;9.0;0.0;24.5;0
-0;35;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);hmms;1.0;0.0;49.0;0
-0;35;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);hidden markov models;9.0;0.0;24.5;0
-0;36;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);kpca;1.0;0.0;49.0;0
-0;37;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);means clustering;4.0;0.0;24.5;0
-0;38;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);angle regression;4.0;0.0;24.5;0
-0;38;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);lars/lasso;1.0;0.0;24.5;0
-0;39;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);local coordinate coding;9.0;0.0;24.5;0
-0;40;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);sensitive hashing;4.0;0.0;24.5;0
-0;40;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);lsh;1.0;0.0;49.0;0
-0;40;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);locality;1.0;0.0;49.0;0
-0;41;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);logistic regression;4.0;0.0;24.5;0
-0;42;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);naive bayes classifier;9.0;0.0;24.5;0
-0;43;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);neighbourhood components analysis;9.0;0.0;24.5;0
-0;43;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);nca;1.0;0.0;49.0;0
-0;44;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);nmf;1.0;0.0;49.0;0
-0;44;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);negative matrix factorization;9.0;0.0;24.5;0
-0;45;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);principal components analysis;9.0;0.0;24.5;0
-0;45;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);pca;1.0;0.0;49.0;0
-0;46;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);independent component analysis;9.0;0.0;24.5;0
-0;46;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);ica;1.0;0.0;49.0;0
-0;47;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);approximate nearest neighbor;9.0;0.0;24.5;0
-0;47;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);rann;1.0;0.0;49.0;0
-0;47;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);rank;1.0;0.0;24.5;0
-0;48;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);simple;1.0;0.0;24.5;0
-0;48;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);squares linear regression;8.5;0.0;24.5;0
-0;48;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);ridge regression;4.5;0.0;24.5;0
-0;49;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);sparse coding;4.0;0.0;24.5;0
-0;50;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);neighbors;1.0;0.0;24.5;0
-0;50;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);nearest;1.0;0.0;24.5;0
-0;50;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);cover trees;3.5;0.0;24.5;0
-0;50;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);furthest;1.0;0.0;24.5;0
-0;50;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);tree;1.0;0.0;16.333333333333332;0
-0;50;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);trees;1.5;0.0;24.5;0
-0;50;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);based neighbor search;9.0;0.0;24.5;0
-0;51;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);based range search;9.0;0.0;24.5;0
-0;51;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);tree;1.0;0.0;16.333333333333332;0
+0;7;http://nevonprojects.com/artificial-intelligence-projects/;things;1.0;0.0196078431372549;6.0;0.0
+0;7;http://nevonprojects.com/artificial-intelligence-projects/;communication;1.0;0.0;6.0;0.0
+0;7;http://nevonprojects.com/artificial-intelligence-projects/;internet;1.0;0.0196078431372549;6.0;0.0
+0;8;http://nevonprojects.com/artificial-intelligence-projects/;software projects;4.0;0.0196078431372549;6.0;0.0
+0;9;http://nevonprojects.com/artificial-intelligence-projects/;mechanical projects  ;4.0;0.0196078431372549;6.0;0
+0;11;http://nevonprojects.com/artificial-intelligence-projects/;free projects;4.0;0.00980392156862745;6.0;0
+0;12;http://nevonprojects.com/artificial-intelligence-projects/;systems;1.0;0.0196078431372549;6.0;0
+0;13;http://nevonprojects.com/artificial-intelligence-projects/; find;1.0;0.0;6.0;0.0
+0;13;http://nevonprojects.com/artificial-intelligence-projects/;contact;2.0;0.0196078431372549;6.0;0.0
+0;13;http://nevonprojects.com/artificial-intelligence-projects/; dealership;1.0;0.0;6.0;0.0
+0;13;http://nevonprojects.com/artificial-intelligence-projects/; track order contact;8.0;0.00980392156862745;6.0;0.0
+0;14;http://nevonprojects.com/artificial-intelligence-projects/; investors;1.0;0.0;6.0;0
+0;15;http://nevonprojects.com/artificial-intelligence-projects/; wireless communication;4.0;0.00980392156862745;6.0;0
+0;16;http://nevonprojects.com/artificial-intelligence-projects/; robotic systems;4.0;0.00980392156862745;6.0;0
+0;17;http://nevonprojects.com/artificial-intelligence-projects/;things;1.0;0.0196078431372549;6.0;0
+0;17;http://nevonprojects.com/artificial-intelligence-projects/;iot;1.0;0.0;6.0;0
+0;17;http://nevonprojects.com/artificial-intelligence-projects/;internet;1.0;0.0196078431372549;6.0;0
+0;18;http://nevonprojects.com/artificial-intelligence-projects/; sensor based;4.0;0.00980392156862745;6.0;0
+0;19;http://nevonprojects.com/artificial-intelligence-projects/; 8051 microcontroller projects;4.0;0.00980392156862745;6.0;0
+0;20;http://nevonprojects.com/artificial-intelligence-projects/;pic microcontroller projects;9.0;0.00980392156862745;6.0;0
+0;21;http://nevonprojects.com/artificial-intelligence-projects/; avr microcontroller projects;9.0;0.00980392156862745;6.0;0
+0;22;http://nevonprojects.com/artificial-intelligence-projects/;microcontroller projects;4.0;0.00980392156862745;6.0;0
+0;23;http://nevonprojects.com/artificial-intelligence-projects/; arduino projects;4.0;0.00980392156862745;6.0;0
+0;24;http://nevonprojects.com/artificial-intelligence-projects/;raspberry pi projects;9.0;0.00980392156862745;6.0;0
+0;26;http://nevonprojects.com/artificial-intelligence-projects/; dtmf based;4.0;0.00980392156862745;6.0;0
+0;28;http://nevonprojects.com/artificial-intelligence-projects/; android based;4.0;0.00980392156862745;6.0;0
+0;29;http://nevonprojects.com/artificial-intelligence-projects/; gsm based;4.0;0.00980392156862745;6.0;0
+0;30;http://nevonprojects.com/artificial-intelligence-projects/; gps projects;4.0;0.00980392156862745;6.0;0
+0;31;http://nevonprojects.com/artificial-intelligence-projects/;electrical projects;4.0;0.00980392156862745;6.0;0
+0;32;http://nevonprojects.com/artificial-intelligence-projects/; digital electronics;4.0;0.00980392156862745;6.0;0
+0;33;http://nevonprojects.com/artificial-intelligence-projects/;communication;1.0;0.0;6.0;0
+0;33;http://nevonprojects.com/artificial-intelligence-projects/; electronics;1.0;0.0;6.0;0
+0;34;http://nevonprojects.com/artificial-intelligence-projects/; general applications;4.0;0.00980392156862745;6.0;0
+0;35;http://nevonprojects.com/artificial-intelligence-projects/; dot net projects;9.0;0.00980392156862745;6.0;0
+0;36;http://nevonprojects.com/artificial-intelligence-projects/; php projects;4.0;0.00980392156862745;6.0;0
+0;37;http://nevonprojects.com/artificial-intelligence-projects/; matlab projects;4.0;0.00980392156862745;6.0;0
+0;38;http://nevonprojects.com/artificial-intelligence-projects/; android projects;4.0;0.00980392156862745;6.0;0
+0;39;http://nevonprojects.com/artificial-intelligence-projects/;ios projects;4.0;0.00980392156862745;6.0;0
+0;40;http://nevonprojects.com/artificial-intelligence-projects/; data mining;4.0;0.00980392156862745;6.0;0
+0;41;http://nevonprojects.com/artificial-intelligence-projects/; artificial intelligence;4.0;0.00980392156862745;0.8571428571428571;0
+0;42;http://nevonprojects.com/artificial-intelligence-projects/;cloud computing projects;9.0;0.00980392156862745;6.0;0
+0;44;http://nevonprojects.com/artificial-intelligence-projects/; web based;4.0;0.00980392156862745;6.0;0
+0;45;http://nevonprojects.com/artificial-intelligence-projects/; information security;4.0;0.00980392156862745;6.0;0
+0;46;http://nevonprojects.com/artificial-intelligence-projects/;software projects;4.0;0.0196078431372549;6.0;0
+0;47;http://nevonprojects.com/artificial-intelligence-projects/;mechanical projects;4.0;0.0196078431372549;6.0;0
+0;48;http://nevonprojects.com/artificial-intelligence-projects/; mechatronics projects;4.0;0.00980392156862745;6.0;0
+0;49;http://nevonprojects.com/artificial-intelligence-projects/; mechanical major projects;9.0;0.00980392156862745;6.0;0
+0;50;http://nevonprojects.com/artificial-intelligence-projects/; mechanical mini projects;9.0;0.00980392156862745;6.0;0
+0;51;http://nevonprojects.com/artificial-intelligence-projects/;power generation projects;9.0;0.00980392156862745;6.0;0
+0;52;http://nevonprojects.com/artificial-intelligence-projects/; mechanical design projects;9.0;0.00980392156862745;6.0;0
+0;53;http://nevonprojects.com/artificial-intelligence-projects/;android project ideas;9.0;0.00980392156862745;6.0;0
+0;54;http://nevonprojects.com/artificial-intelligence-projects/;electronics projects ideas;9.0;0.00980392156862745;6.0;0
+0;55;http://nevonprojects.com/artificial-intelligence-projects/;communication project ideas;9.0;0.00980392156862745;6.0;0
+0;56;http://nevonprojects.com/artificial-intelligence-projects/;software project ideas;9.0;0.00980392156862745;6.0;0
+0;57;http://nevonprojects.com/artificial-intelligence-projects/;electrical project ideas;9.0;0.00980392156862745;6.0;0
+0;58;http://nevonprojects.com/artificial-intelligence-projects/;electronics development;4.0;0.00980392156862745;6.0;0
+0;59;http://nevonprojects.com/artificial-intelligence-projects/;software development;4.0;0.00980392156862745;6.0;0
+0;60;http://nevonprojects.com/artificial-intelligence-projects/;packaging/sealing systems;4.0;0.00980392156862745;6.0;0
+0;61;http://nevonprojects.com/artificial-intelligence-projects/;product design/development;4.0;0.00980392156862745;6.0;0
+0;62;http://nevonprojects.com/artificial-intelligence-projects/; solar solutions;4.0;0.00980392156862745;6.0;0
+0;63;http://nevonprojects.com/artificial-intelligence-projects/;systems;1.0;0.0196078431372549;6.0;0
+0;64;http://nevonprojects.com/artificial-intelligence-projects/; track order;4.0;0.00980392156862745;6.0;0
+0;65;http://nevonprojects.com/artificial-intelligence-projects/;contact;1.0;0.0196078431372549;6.0;0
+0;66;http://nevonprojects.com/artificial-intelligence-projects/; find;1.0;0.0;6.0;0
+0;67;http://nevonprojects.com/artificial-intelligence-projects/; dealership;1.0;0.0;6.0;0
+0;69;http://nevonprojects.com/artificial-intelligence-projects/;fatsecret api;4.0;0.00980392156862745;6.0;0.0
+0;69;http://nevonprojects.com/artificial-intelligence-projects/;personal nutritionist;4.0;0.00980392156862745;6.0;0.0
+0;71;http://nevonprojects.com/artificial-intelligence-projects/;collaborative filtering;4.0;0.00980392156862745;6.0;0
+0;71;http://nevonprojects.com/artificial-intelligence-projects/;online book recommendation;9.0;0.00980392156862745;6.0;0
+0;72;http://nevonprojects.com/artificial-intelligence-projects/;data mining php;9.0;0.00980392156862745;6.0;0
+0;72;http://nevonprojects.com/artificial-intelligence-projects/;movie success prediction;9.0;0.00980392156862745;6.0;0
+0;73;http://nevonprojects.com/artificial-intelligence-projects/;genuine ratings php;9.0;0.00980392156862745;6.0;0
+0;74;http://nevonprojects.com/artificial-intelligence-projects/;web mining;4.0;0.00980392156862745;6.0;0.0
+0;74;http://nevonprojects.com/artificial-intelligence-projects/;commodity search system;9.0;0.00980392156862745;6.0;0.0
+0;74;http://nevonprojects.com/artificial-intelligence-projects/;online shopping;4.0;0.00980392156862745;6.0;0.0
+0;76;http://nevonprojects.com/artificial-intelligence-projects/;stream analysis;4.0;0.00980392156862745;6.0;0
+0;77;http://nevonprojects.com/artificial-intelligence-projects/;product review analysis;9.0;0.00980392156862745;6.0;0
+0;77;http://nevonprojects.com/artificial-intelligence-projects/;genuine rating;4.0;0.00980392156862745;6.0;0
+0;79;http://nevonprojects.com/artificial-intelligence-projects/;artificial intelligence dietician;9.0;0.00980392156862745;6.0;0
+0;82;http://nevonprojects.com/artificial-intelligence-projects/;banking bot project;9.0;0.00980392156862745;6.0;0
+0;84;http://nevonprojects.com/artificial-intelligence-projects/;online ai shopping;9.0;0.00980392156862745;6.0;0
+0;84;http://nevonprojects.com/artificial-intelligence-projects/;wallet system;4.0;0.00980392156862745;6.0;0
+0;87;http://nevonprojects.com/artificial-intelligence-projects/;opinion mining;4.0;0.00980392156862745;6.0;0
+0;87;http://nevonprojects.com/artificial-intelligence-projects/;website evaluation;4.0;0.00980392156862745;6.0;0
+0;88;http://nevonprojects.com/artificial-intelligence-projects/;android attendance system;9.0;0.00980392156862745;6.0;0
+0;90;http://nevonprojects.com/artificial-intelligence-projects/;ai desktop partner;9.0;0.00980392156862745;6.0;0
+0;91;http://nevonprojects.com/artificial-intelligence-projects/;intelligent chat bot;9.0;0.00980392156862745;6.0;0
+0;92;http://nevonprojects.com/artificial-intelligence-projects/;stock market analysis;9.0;0.00980392156862745;6.0;0
+0;92;http://nevonprojects.com/artificial-intelligence-projects/;prediction;1.0;0.00980392156862745;6.0;0
+0;93;http://nevonprojects.com/artificial-intelligence-projects/;automatic answer checker;9.0;0.00980392156862745;6.0;0
+0;94;http://nevonprojects.com/artificial-intelligence-projects/;terms & conditions;4.0;0.00980392156862745;6.0;0
+0;95;http://nevonprojects.com/artificial-intelligence-projects/;privacy policy;4.0;0.00980392156862745;6.0;0
+0;97;http://nevonprojects.com/artificial-intelligence-projects/;warranty;1.0;0.00980392156862745;6.0;0
+0;98;http://nevonprojects.com/artificial-intelligence-projects/;job vacancy;4.0;0.00980392156862745;6.0;0
+0;99;http://nevonprojects.com/artificial-intelligence-projects/;freelancing opportunity;4.0;0.00980392156862745;6.0;0
+0;101;http://nevonprojects.com/artificial-intelligence-projects/;join;1.0;0.0;6.0;0
+0;102;http://nevonprojects.com/artificial-intelligence-projects/;ultrasonic blind stick;9.0;0.00980392156862745;6.0;0
+0;102;http://nevonprojects.com/artificial-intelligence-projects/;gps tracking;4.0;0.00980392156862745;6.0;0
+0;103;http://nevonprojects.com/artificial-intelligence-projects/;arduino;1.0;0.0;6.0;0
+0;104;http://nevonprojects.com/artificial-intelligence-projects/;raspberry pi wheelchair;9.0;0.00980392156862745;6.0;0
+0;104;http://nevonprojects.com/artificial-intelligence-projects/;safety system;4.0;0.00980392156862745;6.0;0
+0;105;http://nevonprojects.com/artificial-intelligence-projects/;arm;1.0;0.00980392156862745;6.0;0
+0;117;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;current;1.0;0.007518796992481203;6.0;0
+0;117;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;past;1.0;0.007518796992481203;6.0;0
+0;117;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;list;1.0;0.0;6.0;0
+0;124;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0.0
+0;124;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;4caps;1.0;0.0;6.0;0.0
+0;124;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;carnegie mellon university;9.0;0.022556390977443608;6.0;0.0
+0;124;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;marcel;1.0;0.0;6.0;0.0
+0;125;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0.0
+0;125;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;anderson;1.0;0.0;6.0;0.0
+0;125;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;carnegie mellon university;9.0;0.022556390977443608;6.0;0.0
+0;125;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;john;1.0;0.0;6.0;0.0
+0;125;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;act;1.0;0.015037593984962405;6.0;0.0
+0;126;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;marcus hutter;4.0;0.007518796992481203;6.0;0.0
+0;126;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;anu;1.0;0.0;6.0;0.0
+0;126;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;idsia;1.0;0.0;6.0;0.0
+0;126;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;aixi;1.0;0.0;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;speech recognition;4.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;learns;1.0;0.0;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;ai assistant;4.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;machine vision;4.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;darpa;1.0;0.0;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;calo;1.0;0.0;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;funded;1.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;institution effort;4.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;machine learning;4.0;0.007518796992481203;2.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;forms;1.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;planning;1.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;probabilistic logic;4.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;natural language processing;9.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;office environment;4.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;artificial intelligence approaches;9.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;integrate;1.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;manage;1.0;0.007518796992481203;6.0;0.0
+0;127;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;reasoning;1.0;0.007518796992481203;6.0;0.0
+0;128;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;chrest;1.0;0.0;6.0;0.0
+0;128;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;lane;1.0;0.0;6.0;0.0
+0;128;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0.0
+0;128;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;university;1.5;0.03759398496240601;3.0;0.0
+0;128;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;brunel university;3.5;0.007518796992481203;6.0;0.0
+0;128;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;fernand gobet;4.0;0.007518796992481203;6.0;0.0
+0;128;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;peter;1.0;0.007518796992481203;6.0;0.0
+0;128;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;hertfordshire;1.0;0.0;6.0;0.0
+0;129;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;cognitive architecture;4.0;0.015037593984962405;6.0;0.0
+0;129;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;ron sun;4.0;0.007518796992481203;6.0;0.0
+0;129;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0.0
+0;129;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;university;1.0;0.03759398496240601;3.0;0.0
+0;129;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;rensselaer polytechnic institute;9.0;0.007518796992481203;6.0;0.0
+0;129;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;clarion;1.0;0.007518796992481203;6.0;0.0
+0;129;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;missouri;1.0;0.0;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;behaviors;1.0;0.007518796992481203;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;virtual environments;4.0;0.007518796992481203;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;agent system;4.0;0.007518796992481203;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;cognitive architecture;4.0;0.015037593984962405;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;adds;1.0;0.007518796992481203;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;cojack;1.0;0.0;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;jack multi;4.0;0.007518796992481203;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;realistic;1.0;0.007518796992481203;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;inspired extension;4.0;0.007518796992481203;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;agents;1.0;0.007518796992481203;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;human;1.0;0.007518796992481203;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;act;1.0;0.015037593984962405;6.0;0.0
+0;130;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;eliciting;1.0;0.007518796992481203;6.0;0.0
+0;131;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;indiana university;4.0;0.007518796992481203;6.0;0
+0;131;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;copycat;1.0;0.007518796992481203;6.0;0
+0;131;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;melanie mitchell;4.0;0.007518796992481203;6.0;0
+0;131;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;douglas hofstadter;4.0;0.007518796992481203;6.0;0
+0;132;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0
+0;132;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;boicho kokinov;4.0;0.007518796992481203;6.0;0
+0;132;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;dual;1.0;0.007518796992481203;6.0;0
+0;132;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;bulgarian university;4.0;0.007518796992481203;6.0;0
+0;133;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;graduates;1.0;0.007518796992481203;6.0;0.0
+0;133;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;michigan ph;3.5;0.007518796992481203;6.0;0.0
+0;133;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0.0
+0;133;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;university;1.0;0.03759398496240601;3.0;0.0
+0;133;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;david;1.0;0.0;6.0;0.0
+0;133;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;epic;1.0;0.007518796992481203;6.0;0.0
+0;133;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;michigan;1.5;0.0;6.0;0.0
+0;133;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;meyer;1.0;0.0;6.0;0.0
+0;133;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;kieras;1.0;0.0;6.0;0.0
+0;134;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;taylor & sayda;4.0;0.007518796992481203;6.0;0.0
+0;134;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;cogaff schema;4.0;0.007518796992481203;6.0;0.0
+0;134;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;special case;4.0;0.007518796992481203;6.0;0.0
+0;134;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;cogaff architecture;4.0;0.007518796992481203;6.0;0.0
+0;134;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;sloman refs;4.0;0.007518796992481203;6.0;0.0
+0;135;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;york;1.0;0.007518796992481203;6.0;0.0
+0;135;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;susan;1.0;0.0;6.0;0.0
+0;135;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;city university;4.0;0.007518796992481203;6.0;0.0
+0;135;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;epstein;1.0;0.0;6.0;0.0
+0;135;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;forr developed;4.0;0.007518796992481203;6.0;0.0
+0;136;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;memphis;1.0;0.0;6.0;0.0
+0;136;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0.0
+0;136;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;university;1.0;0.03759398496240601;3.0;0.0
+0;136;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;stan franklin;4.0;0.007518796992481203;6.0;0.0
+0;136;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;lida;1.0;0.0;6.0;0.0
+0;136;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;ida;1.0;0.0;6.0;0.0
+0;137;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;opencog framework;4.0;0.007518796992481203;6.0;0.0
+0;137;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0.0
+0;137;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;opencog prime;4.0;0.007518796992481203;6.0;0.0
+0;138;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;prs;1.0;0.0;6.0;0
+0;138;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;procedural reasoning system;9.0;0.007518796992481203;6.0;0
+0;138;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0
+0;138;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;lansky;1.0;0.0;6.0;0
+0;138;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;amy;1.0;0.0;6.0;0
+0;138;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;michael georgeff;4.0;0.007518796992481203;6.0;0
+0;138;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;sri international;4.0;0.007518796992481203;6.0;0
+0;139;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;psi;1.0;0.007518796992481203;6.0;0.0
+0;139;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;bamberg;1.0;0.0;6.0;0.0
+0;139;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;dietrich;1.0;0.0;6.0;0.0
+0;139;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;theory developed;4.0;0.007518796992481203;6.0;0.0
+0;139;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;örner;1.0;0.0;6.0;0.0
+0;139;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;germany;1.0;0.0;6.0;0.0
+0;139;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;otto;1.0;0.007518796992481203;6.0;0.0
+0;139;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;friedrich university;4.0;0.007518796992481203;6.0;0.0
+0;140;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;pennsylvania state university;9.0;0.007518796992481203;6.0;0
+0;140;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;cast;1.0;0.007518796992481203;6.0;0
+0;140;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0
+0;141;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;allen newell;4.0;0.007518796992481203;6.0;0.0
+0;141;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;john laird;4.0;0.007518796992481203;6.0;0.0
+0;141;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0.0
+0;141;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;university;2.0;0.03759398496240601;3.0;0.0
+0;141;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;carnegie mellon university;8.0;0.022556390977443608;6.0;0.0
+0;141;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;michigan;1.0;0.0;6.0;0.0
+0;141;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;soar;1.0;0.007518796992481203;6.0;0.0
+0;142;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;society;1.0;0.007518796992481203;6.0;0.0
+0;142;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;emotion machine proposed;9.0;0.007518796992481203;6.0;0.0
+0;142;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;marvin minsky;4.0;0.007518796992481203;6.0;0.0
+0;142;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;mind;1.0;0.007518796992481203;6.0;0.0
+0;142;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;successor;1.0;0.007518796992481203;6.0;0.0
+0;143;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;argued;1.0;0.007518796992481203;6.0;0
+0;143;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;developed;1.0;0.09022556390977443;6.0;0
+0;143;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;subsumption architectures;4.0;0.007518796992481203;6.0;0
+0;143;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;cognitive;1.0;0.007518796992481203;6.0;0
+0;143;https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects;rodney brooks;4.0;0.007518796992481203;6.0;0
+0;148;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;facets;1.0;0.015625;6.0;0.0
+0;148;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;nations;1.0;0.015625;6.0;0.0
+0;148;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;human lives ranging;9.0;0.015625;6.0;0.0
+0;148;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;health;1.0;0.015625;6.0;0.0
+0;148;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;applicability;1.0;0.0;6.0;0.0
+0;148;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;improving;1.0;0.015625;6.0;0.0
+0;148;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;agriculture;1.0;0.0;6.0;0.0
+0;148;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;artificial intelligence;4.0;0.015625;1.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;artificial intelligence23 mar;7.98076923077;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;actions;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;bring;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;driven bot;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;fuel amazon;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;ushered;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;pay bot;4.5;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;global companies;3.5;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;pay wallet service;7.5;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;usable;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;views;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;grade ai applications;9.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;54pm ist microsoft;7.70833333333;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;khehar;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;decision makers;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;tackle suicides1 mar;8.75;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;payjo;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;half;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;world;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;dark data;3.5;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;bank;1.5;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;areas;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;microsoft dynamics 365;4.33333333333;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;facets;1.0;0.015625;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;companies;1.5;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;wednesday;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;32pm ist;4.375;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;teams;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;12pm ist;4.375;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;microsoft working;4.33333333333;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;$200 million15;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;popular;1.0;0.0078125;3.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;dumb search;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;spot users;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;adobe;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;52pm ist exploring;8.375;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;generation;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;human lives ranging;9.0;0.015625;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;accelerated growth;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;nations;1.0;0.015625;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;agriculture;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;machine learning capabilities;8.1;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;success13 apr;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;open;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;critical;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;health;1.0;0.015625;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;$20 billion;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;mumbai4 apr;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;bank partners;3.5;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;job losses due;9.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;artificial intelligence18 mar;7.98076923077;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;cognitive technology;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;million users;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;combining expertise;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;complement;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;10am ist;4.375;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;put;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;delhi today;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;remark;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;blogpost;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;turn;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;disciplinary practitioners;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;barriers;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;play key role;9.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;microsoft azure;4.33333333333;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;richest man wrote;9.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;dominate human life;9.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;presence;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;spreading;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;robotics;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;supreme court;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;replace;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;microsoft official13;4.33333333333;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;applicability;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;chatbots;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;suicidal tendencies;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;support;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;structured;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;people gainfully engaged;9.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;artificial intelligence centre;6.32167832168;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;artificial intelligence;4.32167832168;0.015625;1.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;website;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;company;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;pm narendra modi10;9.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;tcs15 mar;4.75;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;study revealed ai;9.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;sensei;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;intelligent machine learning;8.1;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;chief justice;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;multi;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;intuitive;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;machine learning;5.1;0.0078125;2.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;wallet;2.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;future;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;microsoft power bi;8.33333333333;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;embrace;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;announced deep learning;8.6;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;average revenues;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;india;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;56am ist;4.375;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;bezos;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;trusted;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;information;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;banks5 apr;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;developers;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;centre;2.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;good governance;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;enterprise;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;enabled inference engine;9.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;facebook turns;4.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;automation;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;don’;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;sustainability;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;dramatically impact businesses;9.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;improving;1.0;0.015625;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;data;1.5;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;unstructured;1.0;0.0;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;age;1.0;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;43pm ist;4.375;0.0078125;6.0;0.0
+0;149;http://economictimes.indiatimes.com/topic/List-of-artificial-intelligence-projects;24pm ist innovation;8.375;0.0078125;6.0;0.0
+0;154;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;part;1.0;0.03571428571428571;6.0;0.0
+0;154;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;recovering mit;4.0;0.03571428571428571;6.0;0.0
+0;154;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;nsf;1.0;0.0;6.0;0.0
+0;283;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;mit;1.0;0.0;6.0;0
+0;441;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;sounds unscientific;4.0;0.03571428571428571;6.0;0.0
+0;441;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;researchers feel;4.0;0.03571428571428571;6.0;0.0
+0;441;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;argument;1.0;0.03571428571428571;6.0;0.0
+0;441;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;artificial intelligence;4.0;0.03571428571428571;0.8571428571428571;0.0
+0;441;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;subject;1.0;0.03571428571428571;6.0;0.0
+0;442;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;academic research;4.0;0.03571428571428571;6.0;0
+0;442;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;fake intelligence;4.0;0.03571428571428571;6.0;0
+0;442;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;argue;1.0;0.03571428571428571;6.0;0
+0;442;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;science fiction;4.0;0.03571428571428571;6.0;0
+0;443;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;subset;1.0;0.03571428571428571;6.0;0.0
+0;443;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;terms;1.0;0.03571428571428571;6.0;0.0
+0;443;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;semantic logic;4.0;0.03571428571428571;6.0;0.0
+0;443;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;computational neuroscience;4.0;0.03571428571428571;6.0;0.0
+0;443;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;prefer;1.0;0.03571428571428571;6.0;0.0
+0;443;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;machine learning;4.0;0.03571428571428571;2.0;0.0
+0;443;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;field;1.0;0.03571428571428571;6.0;0.0
+0;443;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;emphasize;1.0;0.03571428571428571;6.0;0.0
+0;444;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;international conferences;4.0;0.03571428571428571;6.0;0.0
+0;444;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;university;1.0;0.03571428571428571;1.0;0.0
+0;444;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;offerings;1.0;0.03571428571428571;6.0;0.0
+0;444;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;names;1.0;0.03571428571428571;6.0;0.0
+0;444;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;term  artificial intelligence;9.0;0.03571428571428571;6.0;0.0
+0;444;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;graces;1.0;0.03571428571428571;6.0;0.0
+0;444;https://projects.csail.mit.edu/films/aifilms/AIFilms.html;gained popular acceptance;9.0;0.03571428571428571;6.0;0.0
+0;699;http://www.edgefxkits.com/artificial-intelligence-projects;android;1.0;1.0;6.0;0
+0;700;http://www.edgefxkits.com/artificial-intelligence-projects;android;1.0;1.0;6.0;0
+0;701;http://www.edgefxkits.com/artificial-intelligence-projects;android;1.0;1.0;6.0;0
+0;709;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;describing;1.0;0.011904761904761904;6.0;0.0
+0;709;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;computercontrolled enemies;4.0;0.011904761904761904;6.0;0.0
+0;709;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;behaviour;1.0;0.011904761904761904;6.0;0.0
+0;709;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;step;1.0;0.011904761904761904;6.0;0.0
+0;709;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;popular;1.0;0.011904761904761904;3.0;0.0
+0;709;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;frequently;1.0;0.023809523809523808;6.0;0.0
+0;709;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;development process;4.0;0.011904761904761904;6.0;0.0
+0;710;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;demands;1.0;0.011904761904761904;6.0;0.0
+0;710;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;games grew;4.5;0.011904761904761904;6.0;0.0
+0;710;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;advanced computing algorithms;9.0;0.011904761904761904;6.0;0.0
+0;710;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;complicated;1.0;0.0;6.0;0.0
+0;710;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;players grew day;7.5;0.011904761904761904;6.0;0.0
+0;710;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;day;2.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;map;1.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;determine;1.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;rtstype games;4.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;optimal path;4.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;significant shift;4.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;points;1.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;algorithms;1.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;era;1.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;interest;1.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;caused;1.0;0.011904761904761904;6.0;0.0
+0;711;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;dawn;1.0;0.011904761904761904;6.0;0.0
+0;719;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;development;1.0;0.0;6.0;0.0
+0;719;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;artificial intelligence;4.0;0.03571428571428571;1.2;0.0
+0;719;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;rapid increase;4.0;0.011904761904761904;6.0;0.0
+0;719;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;applications;1.0;0.0;6.0;0.0
+0;719;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;catalyst;1.0;0.011904761904761904;6.0;0.0
+0;719;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;fast technical progress;9.0;0.011904761904761904;6.0;0.0
+0;719;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;computer games;4.0;0.023809523809523808;6.0;0.0
+0;719;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;processing power;4.0;0.011904761904761904;6.0;0.0
+0;719;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;home computers;4.0;0.011904761904761904;6.0;0.0
+0;720;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;processor frequencies;4.0;0.011904761904761904;6.0;0.0
+0;720;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;artificial intelligence algorithms;9.0;0.011904761904761904;6.0;0.0
+0;720;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;limited capabilities;4.0;0.011904761904761904;6.0;0.0
+0;720;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;2 mhz;1.0;0.011904761904761904;6.0;0.0
+0;720;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;settle;1.0;0.011904761904761904;6.0;0.0
+0;720;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;games;1.0;0.011904761904761904;6.0;0.0
+0;720;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;time;1.0;0.011904761904761904;6.0;0.0
+0;720;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;machines;1.0;0.011904761904761904;6.0;0.0
+0;720;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;higher;1.0;0.011904761904761904;6.0;0.0
+0;721;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;possibilities;1.0;0.0;6.0;0.0
+0;721;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;applications;1.0;0.0;6.0;0.0
+0;721;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;pcs brought;4.0;0.011904761904761904;6.0;0.0
+0;722;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;led;1.0;0.0;6.0;0.0
+0;722;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;programmers;1.0;0.0;6.0;0.0
+0;722;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;pcs;1.0;0.0;6.0;0.0
+0;722;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;game development companies;9.0;0.011904761904761904;6.0;0.0
+0;722;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;standard;1.0;0.011904761904761904;6.0;0.0
+0;722;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;possibilities;1.0;0.0;6.0;0.0
+0;722;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;start;1.0;0.011904761904761904;6.0;0.0
+0;722;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;race;1.0;0.011904761904761904;6.0;0.0
+0;722;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;home computer;4.0;0.011904761904761904;6.0;0.0
+0;722;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;386 486 processors;1.0;0.011904761904761904;6.0;0.0
+0;723;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;long time;4.0;0.011904761904761904;6.0;0.0
+0;723;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;realisation;1.0;0.0;6.0;0.0
+0;723;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;character animation;4.0;0.011904761904761904;6.0;0.0
+0;723;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;foremost indicator;4.0;0.011904761904761904;6.0;0.0
+0;723;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;computer game;4.0;0.011904761904761904;6.0;0.0
+0;723;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;sound;1.0;0.011904761904761904;6.0;0.0
+0;723;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;featured;1.0;0.011904761904761904;6.0;0.0
+0;723;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;threedimensional graphics;4.0;0.011904761904761904;6.0;0.0
+0;723;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;quality;1.0;0.011904761904761904;6.0;0.0
+0;723;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;nice graphics;4.0;0.011904761904761904;6.0;0.0
+0;724;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;socalled playability;4.0;0.011904761904761904;6.0;0.0
+0;724;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;recently;1.0;0.011904761904761904;6.0;0.0
+0;724;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;presentday video games;8.5;0.011904761904761904;6.0;0.0
+0;724;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;identified;1.0;0.011904761904761904;6.0;0.0
+0;724;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;primary factor;4.0;0.011904761904761904;6.0;0.0
+0;724;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;important elements;4.0;0.011904761904761904;6.0;0.0
+0;724;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;computer games;4.5;0.023809523809523808;6.0;0.0
+0;724;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;artificial intelligence;4.0;0.03571428571428571;1.2;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;programming;1.5;0.0;6.0;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;handle designing;4.0;0.011904761904761904;6.0;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;designated;1.0;0.011904761904761904;6.0;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;modules;1.0;0.011904761904761904;6.0;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;project;1.0;0.011904761904761904;6.0;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;fulltime;1.0;0.0;6.0;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;members;1.0;0.011904761904761904;6.0;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;frequently;1.0;0.023809523809523808;6.0;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;programming team;3.5;0.011904761904761904;6.0;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;beginning;1.0;0.011904761904761904;6.0;0.0
+0;732;https://www.codeproject.com/Articles/14840/Artificial-Intelligence-in-Games;artificial intelligence;4.0;0.03571428571428571;1.2;0.0

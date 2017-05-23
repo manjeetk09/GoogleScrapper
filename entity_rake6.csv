@@ -1,96 +1,173 @@
-4;http://www.studytonight.com/dbms/er-diagram.php;person;1.0;0.0625;5.0
-4;http://www.studytonight.com/dbms/er-diagram.php;object;1.0;0.0625;2.5
-4;http://www.studytonight.com/dbms/er-diagram.php;place;1.0;0.0625;5.0
-4;http://www.studytonight.com/dbms/er-diagram.php;class;1.0;0.0625;5.0
-4;http://www.studytonight.com/dbms/er-diagram.php;entity;1.0;0.125;2.5
-5;http://www.studytonight.com/dbms/er-diagram.php;er diagram;4.0;0.0625;1.6666666666666667
-5;http://www.studytonight.com/dbms/er-diagram.php;represented;1.0;0.0;5.0
-5;http://www.studytonight.com/dbms/er-diagram.php;rectangles;1.0;0.0625;5.0
-5;http://www.studytonight.com/dbms/er-diagram.php;entity;1.0;0.125;2.5
-6;http://www.studytonight.com/dbms/er-diagram.php;organisation;1.0;0.0;5.0
-7;http://www.studytonight.com/dbms/er-diagram.php;product;1.0;0.0625;5.0
-7;http://www.studytonight.com/dbms/er-diagram.php;entities;1.0;0.0625;1.6666666666666667
-7;http://www.studytonight.com/dbms/er-diagram.php;organisation;1.0;0.0;5.0
-7;http://www.studytonight.com/dbms/er-diagram.php;department;1.0;0.0625;5.0
-7;http://www.studytonight.com/dbms/er-diagram.php;manager;1.0;0.0625;5.0
-7;http://www.studytonight.com/dbms/er-diagram.php;employee;1.0;0.0625;5.0
-36;http://www.careerbless.com/db/rdbms/c1/er2.php;college database;4.0;0.25;5.0
-36;http://www.careerbless.com/db/rdbms/c1/er2.php;design;1.0;0.25;5.0
-36;http://www.careerbless.com/db/rdbms/c1/er2.php;entity relationship  model;9.0;0.25;2.5
-37;http://www.careerbless.com/db/rdbms/c1/er2.php;statements;1.0;0.25;5.0
-39;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;er model defines;9.0;0.09090909090909091;5.0
-39;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;conceptual view;4.0;0.09090909090909091;5.0
-39;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;database;1.0;0.09090909090909091;5.0
-40;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;associations;1.0;0.0;5.0
-40;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;works;1.0;0.09090909090909091;5.0
-40;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;realworld entities;4.0;0.09090909090909091;5.0
-41;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;considered;1.0;0.09090909090909091;5.0
-41;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;designing databases;4.0;0.09090909090909091;5.0
-41;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;view level;4.0;0.09090909090909091;5.0
-41;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;good option;4.0;0.09090909090909091;5.0
-41;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;er model;4.0;0.09090909090909091;1.0
-42;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;represented;1.0;0.0;5.0
-42;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;er diagram;4.0;0.16666666666666666;2.5
-42;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;means;1.0;0.08333333333333333;5.0
-42;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;er model;4.0;0.08333333333333333;1.0
-42;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;learn;1.0;0.0;5.0
-43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;er diagram;4.0;0.16666666666666666;2.5
-43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;relationship sets;4.0;0.08333333333333333;5.0
-43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;object;1.0;0.08333333333333333;2.5
-43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;entity;1.0;0.08333333333333333;1.6666666666666667
-43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;entities;1.0;0.08333333333333333;1.6666666666666667
-43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;represented;1.0;0.0;5.0
-43;https://www.tutorialspoint.com/dbms/er_diagram_representation.htm;attributes;1.0;0.08333333333333333;5.0
-53;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;specific domain;4.0;0.018867924528301886;5.0
-53;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;knowledge;1.0;0.0;5.0
-53;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;interest;1.0;0.018867924528301886;5.0
-54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;composed;1.0;0.018867924528301886;5.0
-54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;entity types;4.0;0.018867924528301886;5.0
-54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;instances;1.0;0.018867924528301886;5.0
-54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;exist;1.0;0.018867924528301886;5.0
-54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;er model;4.0;0.05660377358490566;1.6666666666666667
-54;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;specifies relationships;4.0;0.018867924528301886;5.0
-59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;entity relationship modeling;9.0;0.018867924528301886;5.0
-59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;database design;4.0;0.018867924528301886;5.0
-59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;developed;1.0;0.018867924528301886;5.0
-59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;published;1.0;0.018867924528301886;5.0
-59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;1976 paper;1.0;0.018867924528301886;5.0
-59;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;peter chen;4.0;0.018867924528301886;5.0
-60;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;idea existed previously;9.0;0.018867924528301886;5.0
-60;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;variants;1.0;0.018867924528301886;5.0
-61;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;subtype entities connected;9.0;0.018867924528301886;5.0
-61;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;generalizationspecialization relationships;4.0;0.018867924528301886;5.0
-61;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;specification;1.0;0.0;5.0
-61;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;domainspecific ontologies;4.0;0.018867924528301886;5.0
-61;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;er model;4.0;0.05660377358490566;1.6666666666666667
-68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;processes;1.0;0.018867924528301886;5.0
-68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;business;1.0;0.018867924528301886;5.0
-68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;area;1.0;0.018867924528301886;5.0
-68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;describe;1.0;0.018867924528301886;5.0
-68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;important;1.0;0.018867924528301886;5.0
-68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;result;1.0;0.018867924528301886;5.0
-68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;systematic analysis;4.0;0.018867924528301886;5.0
-68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;entity relationship model;9.0;0.018867924528301886;2.5
-68;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;define;1.0;0.03773584905660377;5.0
-69;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;presents;1.0;0.018867924528301886;5.0
-69;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;business processes;4.5;0.018867924528301886;5.0
-69;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;business data schema;8.5;0.018867924528301886;5.0
-69;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;graphical form;4.0;0.03773584905660377;5.0
-69;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;define;1.0;0.03773584905660377;5.0
-70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;associations;1.0;0.0;5.0
-70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;express;1.0;0.018867924528301886;5.0
-70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;lines;1.0;0.0;5.0
-70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;entities;1.0;0.018867924528301886;1.6666666666666667
-70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;boxes;1.0;0.018867924528301886;5.0
-70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;dependencies;1.0;0.0;5.0
-70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;connected;1.0;0.018867924528301886;5.0
-70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;graphical form;4.0;0.03773584905660377;5.0
-70;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;drawn;1.0;0.018867924528301886;5.0
-71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;building;1.0;0.018867924528301886;5.0
-71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;apartment;1.0;0.018867924528301886;5.0
-71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;apartments;1.0;0.018867924528301886;5.0
-71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;verbal form;4.0;0.018867924528301886;5.0
-71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;divided;1.0;0.018867924528301886;5.0
-71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;expressed;1.0;0.018867924528301886;5.0
-71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;located;1.0;0.0;5.0
-71;https://en.wikipedia.org/wiki/Entity%25E2%2580%2593relationship_model;er model;4.0;0.05660377358490566;1.6666666666666667
+1;http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/;practical;1.0;0.2;39.0
+1;http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/;complete binary tree;8.5;0.2;13.0
+1;http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/;binary heap;4.5;0.2;39.0
+2;http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/;perfect binary tree;9.0;0.2;19.5
+2;http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/;height;1.0;0.0;39.0
+5;https://en.wikipedia.org/wiki/Binary_tree;varies;1.0;0.25;39.0
+5;https://en.wikipedia.org/wiki/Binary_tree;literature;1.0;0.0;39.0
+5;https://en.wikipedia.org/wiki/Binary_tree;tree terminology;4.0;0.25;39.0
+5;https://en.wikipedia.org/wiki/Binary_tree;well_standardized;1.0;0.25;39.0
+9;http://btechsmartclass.com/DS/U3_T3.html;normal tree;4.0;0.08333333333333333;39.0
+9;http://btechsmartclass.com/DS/U3_T3.html;node;1.0;0.16666666666666666;7.8
+9;http://btechsmartclass.com/DS/U3_T3.html;number;1.0;0.08333333333333333;39.0
+9;http://btechsmartclass.com/DS/U3_T3.html;children;1.0;0.08333333333333333;13.0
+10;http://btechsmartclass.com/DS/U3_T3.html;node;1.0;0.16666666666666666;7.8
+10;http://btechsmartclass.com/DS/U3_T3.html;2 children;1.0;0.08333333333333333;39.0
+10;http://btechsmartclass.com/DS/U3_T3.html;maximum;1.0;0.08333333333333333;39.0
+10;http://btechsmartclass.com/DS/U3_T3.html;special type;4.0;0.08333333333333333;39.0
+10;http://btechsmartclass.com/DS/U3_T3.html;tree data structure;8.5;0.08333333333333333;39.0
+10;http://btechsmartclass.com/DS/U3_T3.html;binary tree;4.5;0.08333333333333333;4.333333333333333
+11;http://btechsmartclass.com/DS/U3_T3.html;left child;3.5;0.08333333333333333;19.5
+11;http://btechsmartclass.com/DS/U3_T3.html;child;1.5;0.08333333333333333;19.5
+36;https://www.quora.com/What-are-the-types-of-trees-in-data-structures;tree data structures;9.0;0.5;39.0
+36;https://www.quora.com/What-are-the-types-of-trees-in-data-structures;types;1.0;0.5;13.0
+40;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;kind;1.0;0.0;39.0
+40;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;binary search tree;9.0;0.1;19.5
+40;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;binary tree called;9.0;0.1;39.0
+41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;storing repository;4.0;0.1;39.0
+41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;data structure;4.0;0.1;39.0
+41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;efficient;1.0;0.1;19.5
+41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;data sorting;4.0;0.1;39.0
+41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;searching;1.0;0.1;39.0
+41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;basic idea;4.0;0.1;39.0
+41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;retriving;1.0;0.0;39.0
+51;https://en.wikibooks.org/wiki/Data_Structures/Trees;trees;1.0;0.125;13.0
+51;https://en.wikibooks.org/wiki/Data_Structures/Trees;types;1.0;0.125;13.0
+52;https://en.wikibooks.org/wiki/Data_Structures/Trees;node;1.0;0.125;6.5
+52;https://en.wikibooks.org/wiki/Data_Structures/Trees;binary;1.0;0.125;39.0
+52;https://en.wikibooks.org/wiki/Data_Structures/Trees;children;1.0;0.125;13.0
+53;https://en.wikibooks.org/wiki/Data_Structures/Trees;efficient;1.0;0.125;19.5
+53;https://en.wikibooks.org/wiki/Data_Structures/Trees;assertion makes;4.0;0.125;39.0
+53;https://en.wikibooks.org/wiki/Data_Structures/Trees;tree operations simple;9.0;0.125;39.0
+82;http://lcm.csa.iisc.ernet.in/dsa/node87.html;    } node_type;1.0;0.5;39.0
+83;http://lcm.csa.iisc.ernet.in/dsa/node87.html;void preorder;4.0;0.5;39.0
+93;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;important type;4.0;0.045454545454545456;39.0
+93;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;binary tree;4.0;0.13636363636363635;5.571428571428571
+93;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;occurs;1.0;0.045454545454545456;39.0
+93;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;structure;1.0;0.045454545454545456;39.0
+94;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;node;1.0;0.09090909090909091;7.8
+94;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;branches;1.0;0.045454545454545456;39.0
+94;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;fact;1.0;0.045454545454545456;39.0
+94;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;characterized;1.0;0.0;39.0
+96;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;node;1.0;0.09090909090909091;7.8
+96;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;degree greater;4.0;0.045454545454545456;39.0
+97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;binary trees;3.5;0.045454545454545456;9.75
+97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;subtree;1.0;0.0;39.0
+97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;trees;1.5;0.045454545454545456;13.0
+97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;subtreewas irrelevant;4.0;0.045454545454545456;39.0
+97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;distinguish;1.0;0.0;39.0
+97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;order;1.0;0.045454545454545456;39.0
+97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;left;1.0;0.0;39.0
+98;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;binary tree;4.0;0.13636363636363635;5.571428571428571
+98;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;nodes;1.0;0.045454545454545456;13.0
+99;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;binary tree;3.5;0.13636363636363635;5.571428571428571
+99;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;object;1.0;0.045454545454545456;39.0
+99;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;tree;1.5;0.045454545454545456;13.0
+106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;completely filled;4.0;0.03225806451612903;39.0
+106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;level;1.0;0.0;39.0
+106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;complete binary tree;8.0;0.03225806451612903;13.0
+106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;possibly;1.0;0.03225806451612903;39.0
+106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;binary tree;5.0;0.06451612903225806;4.875
+106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;nodes;1.0;0.06451612903225806;19.5
+106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;left;1.0;0.0;39.0
+108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;resultant tree;4.33333333333;0.03225806451612903;39.0
+108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;adding;1.0;0.03225806451612903;39.0
+108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;added;1.0;0.03225806451612903;39.0
+108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;extended binary tree;7.83333333333;0.03225806451612903;39.0
+108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;children;1.0;0.03225806451612903;13.0
+108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;converted;1.0;0.03225806451612903;39.0
+108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;leaf nodes;3.2;0.03225806451612903;39.0
+108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;child;1.0;0.03225806451612903;19.5
+108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;binary tree;4.83333333333;0.06451612903225806;4.875
+108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;nodes;1.2;0.06451612903225806;19.5
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;node;1.0;0.03225806451612903;6.5
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;set;1.0;0.03225806451612903;39.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;threaded binary tree;7.66666666667;0.03225806451612903;39.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;ways;1.0;0.03225806451612903;39.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;pointers;1.0;0.03225806451612903;39.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;tree;1.66666666667;0.03225806451612903;13.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;trees;1.0;0.03225806451612903;13.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;‘left’ pointer;4.0;0.03225806451612903;39.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;left child;4.0;0.03225806451612903;19.5
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;pointer sets;4.0;0.03225806451612903;39.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;large numbers;4.0;0.03225806451612903;39.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;represented;1.0;0.0;39.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;null;1.0;0.03225806451612903;39.0
+109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;empty;1.0;0.03225806451612903;39.0
+111;https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm;nodes connected;4.0;0.25;39.0
+111;https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm;edges;1.0;0.25;39.0
+111;https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm;tree represents;4.0;0.25;39.0
+112;https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm;discuss binary tree;9.0;0.25;39.0
+113;http://stackoverflow.com/questions/12359660/difference-between-complete-binary-tree-strict-binary-tree-full-binary-tre;wikipedia yielded;4.0;1.0;39.0
+122;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;data structures;4.0;0.022222222222222223;13.0
+122;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;http;1.0;0.0;39.0
+122;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;//www;1.0;0.0;39.0
+122;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;complete series;4.0;0.022222222222222223;39.0
+123;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;youtube;1.0;0.0;39.0
+124;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;/playlist;1.0;0.0;39.0
+124;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;list=;1.0;0.0;39.0
+127;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;discussed binary tree;9.0;0.022222222222222223;39.0
+127;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;lesson;1.0;0.0;39.0
+127;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;detail;1.0;0.022222222222222223;39.0
+128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;talked;1.0;0.044444444444444446;39.0
+128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;complete binary tree;8.5;0.022222222222222223;13.0
+128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;perfect binary tree;8.5;0.022222222222222223;19.5
+128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;balanced binary tree;8.5;0.022222222222222223;39.0
+128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;binary tree;5.5;0.044444444444444446;4.875
+128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;properties;1.0;0.022222222222222223;39.0
+128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;types;1.0;0.022222222222222223;13.0
+129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;operations;1.0;0.022222222222222223;39.0
+129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;depend;1.0;0.022222222222222223;39.0
+129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;discussed;1.0;0.022222222222222223;39.0
+129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;tree;1.0;0.022222222222222223;13.0
+129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;height;1.0;0.0;39.0
+129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;minimum;1.0;0.022222222222222223;39.0
+129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;cost;1.0;0.022222222222222223;39.0
+129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;dense;1.0;0.022222222222222223;39.0
+130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;talked;1.0;0.044444444444444446;39.0
+130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;dynamically created nodes;9.0;0.022222222222222223;39.0
+130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;arrays;1.0;0.022222222222222223;19.5
+130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;binary tree _;9.0;0.044444444444444446;4.875
+130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;implementations;1.0;0.0;39.0
+130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;finally;1.0;0.022222222222222223;39.0
+131;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;practice problems;4.0;0.022222222222222223;39.0
+131;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;http;1.0;0.0;39.0
+131;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;visit;1.0;0.022222222222222223;39.0
+131;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;//www;1.0;0.0;39.0
+132;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;mycodeschool;1.0;0.0;39.0
+133;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;facebook;1.0;0.0;39.0
+133;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;//www;1.0;0.0;39.0
+133;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;https;1.0;0.0;39.0
+134;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;facebook;1.0;0.0;39.0
+135;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;/mycodeschool follow;4.0;0.022222222222222223;39.0
+135;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;twitter;1.0;0.022222222222222223;39.0
+135;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;//twitter;1.0;0.0;39.0
+135;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;https;1.0;0.0;39.0
+136;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;/mycodeschool;1.0;0.0;39.0
+137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;include;1.0;0.0;19.5
+137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;study;1.0;0.0;19.5
+137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;binary trees;4.0;0.0;7.8
+137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;data structures;4.5;0.0;9.75
+137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;scott mitchell continues;9.0;0.0;19.5
+137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;bsts;1.0;0.0;39.0
+137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;focusing;1.0;0.0;19.5
+137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;common data structure;8.5;0.0;13.0
+150;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;article;1.0;0.0;19.5
+150;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;data structures;4.0;0.0;9.75
+150;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;six_part series;4.0;0.0;19.5
+150;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;summary;1.0;0.0;19.5
+151;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;net framework;4.0;0.0;19.5
+151;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;included;1.0;0.0;19.5
+151;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;common data structure;9.0;0.0;13.0
+152;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;binary trees;4.0;0.0;7.8
+153;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;envisioned;1.0;0.0;19.5
+153;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;binary trees;4.0;0.0;7.8
+153;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;dimensions;1.0;0.0;19.5
+153;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;storing data;4.0;0.0;19.5
+154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;bst;1.0;0.0;39.0
+154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;special kind;4.0;0.0;19.5
+154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;optimized search time;9.0;0.0;19.5
+154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;binary search tree;8.0;0.0;13.0
+154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;arrays;1.0;0.0;13.0
+154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;binary tree;5.0;0.0;3.9
+154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;called;1.0;0.0;19.5

@@ -40,10 +40,10 @@ public class relationSim
                     else{
                         sim = d.getResult();
                     }
-                    if(sim < 0.0)
-                    {
-                        sim = 0.0;
-                    }
+//                    if(sim < 0.0)
+//                    {
+//                        sim = 0.0;
+//                    }
                     if(sim > max_sim){
                         max_sim = sim;
                     }

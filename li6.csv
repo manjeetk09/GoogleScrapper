@@ -10,3 +10,25 @@
 
 
 
+
+
+
+
+
+
+
+
+
+Home > Programming languages > Data Structures
+
+
+
+
+
+
+
+
+
+A complete binary tree is a binary tree in which at every level, except possibly the last, has to be completely filled and all nodes are as far left as possible.
+A binary tree can be converted into an extended binary tree by adding new nodes to its leaf nodes and to the nodes that have only one child. These new nodes are added in such a way that all the nodes in the resultant tree have either zero or two children. It is also called 2 – tree.
+Threaded Binary tree is the tree which is represented using pointers the empty sub trees are set to NULL, i.e. ‘left’ pointer of the node whose left child is empty sub tree is normally set to NULL. These large numbers of pointer sets are used in different ways.

@@ -1,80 +1,27 @@
-.
+Education.
 No extractions found.
 
-.
+Computer Education for all provides lectures series on types of trees in data structure which covers Introduction to Trees Definitions and Terminology Classification of Trees Application of Trees Data Structures and Applications Types of Trees in Data Structure Trees in data structure pdf Trees in data structure using c Trees in data structure tutorial Trees in data structure ppt Binary search tree in data structure Binary trees in data structure Tree traversal in data structure What is Tree in Data Structure Have a look this helpful video, for more please subscribe https://www.
+0.822: (Computer Education; provides; lectures series)
+0.742: (data structure; covers Introduction to; Trees Definitions and Terminology Classification of Trees Application of Trees Data Structures)
+0.699: (c Trees; be using tutorial Trees ppt; Binary search tree Binary trees in data structure Tree traversal in data structure)
+0.699: (tutorial Trees; be using c Trees ppt; Binary search tree Binary trees in data structure Tree traversal in data structure)
+0.593: (Tree; is Have; a look)
+0.587: (Introduction; be covers by; data structure)
+0.532: (c Trees; be using tutorial Trees in; data structure)
+0.501: (Binary search tree; be Binary trees in; data structure Tree traversal)
+0.501: (Binary search tree; be Binary trees in; data structure)
+0.467: (data structure; covers Introduction in; data structure)
+0.445: (tutorial Trees; be using c Trees in; data structure)
+0.424: (types of trees; using c Trees ppt; Binary search tree Binary trees in data structure Tree traversal in data structure)
+0.424: (types of trees; using tutorial Trees ppt; Binary search tree Binary trees in data structure Tree traversal in data structure)
+0.402: (types of trees; using c Trees in; data structure)
+0.265: (types of trees; using tutorial Trees in; data structure)
+
+youtube.
 No extractions found.
 
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-The Propagating Cipher Block Chaining or plaintext cipherblock chaining mode was designed to cause small changes in the ciphertext to propagate indefinitely when decrypting, as well as when encrypting.
-No extractions found.
-
- In PCBC mode, each block of plaintext is XORed with both the previous plaintext block and the previous ciphertext block before being encrypted.
-0.925: (each block of plaintext; is XORed with; the previous plaintext block and the previous ciphertext block)
-0.742: (each block of plaintext; is XORed in; PCBC mode)
-
- As with CBC mode, an initialization vector is used in the first block.
-0.914: (an initialization vector; is used in; the first block)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Encryption and decryption algorithms are as follows .
+com/channel/UCiV3.
 No extractions found.
 
 .
@@ -113,33 +60,6 @@ No extractions found.
 .
 No extractions found.
 
-Cipher block chaining  is a mode of operation for a block cipher .
-0.936: (Cipher block chaining; is a mode of; operation)
-0.911: (Cipher block chaining; is a mode of operation for; a block cipher)
-0.794: (Cipher block chaining; is; a mode of operation)
-
- Cipher block chaining uses what is known as an initialization vector  of a certain length.
-0.862: (Cipher block chaining; is known as; an initialization vector of a certain length)
-
- One of its key characteristics is that it uses a chaining mechanism that causes the decryption of a block of ciphertext to depend on all the preceding ciphertext blocks.
-0.834: (the decryption of a block of ciphertext; to depend on; the preceding ciphertext blocks)
-0.679: (it; uses; a chaining mechanism that causes the decryption of a block of ciphertext to depend on all the preceding ciphertext blocks)
-0.438: (it; is in; One of its key characteristics)
-
- As a result, the entire validity of all preceding blocks is contained in the immediately previous ciphertext block.
-0.914: (the entire validity of all preceding blocks; is contained in; the immediately previous ciphertext block)
-0.754: (the entire validity of all preceding blocks; is contained as; a result)
-
- A single bit error in a ciphertext block affects the decryption of all subsequent blocks.
-0.833: (A single bit error; affects; the decryption of all subsequent blocks)
-
- Rearrangement of the order of the ciphertext blocks causes decryption to become corrupted.
-0.751: (decryption; to become; corrupted)
-
- Basically, in cipher block chaining, each plaintext block is XORed  with the immediately previous ciphertext block, and then encrypted.
-0.869: (each plaintext block; Basically is XORed with; the immediately previous ciphertext block)
-0.764: (each plaintext block; Basically is XORed in; cipher block chaining)
-
 .
 No extractions found.
 
@@ -158,149 +78,69 @@ No extractions found.
 .
 No extractions found.
 
-.
+As per Wikipedia, following are the common uses of tree.
 No extractions found.
 
-.
+ 1.
 No extractions found.
 
-A typical example of weakness of encryption using ECB mode is encoding a bitmap image  for example a .
-0.692: (A typical example of weakness of encryption; is encoding; a bitmap image)
-
-bmp file .
+ Manipulate hierarchical data.
 No extractions found.
 
- Even a strong encryption algorithm that uses ECB mode, cannot blur efficiently its content.
-0.71: (a strong encryption algorithm that uses ECB mode; cannot blur efficiently; its content)
-0.548: (ECB mode; be uses by; a strong encryption algorithm)
-
-In CBC mode, the current plaintext block is added to the previous ciphertext block, and then the result is encrypted with the key.
-0.914: (the result; is encrypted with; the key)
-0.819: (the current plaintext block; is added then to; the previous ciphertext block)
-0.665: (the current plaintext block; is added then in; CBC mode)
-
- Decryption is thus the reverse process, which involves decrypting the current ciphertext and then adding the previous ciphertext block to the result.
-0.85: (Decryption; is thus; the reverse process which involves decrypting the current ciphertext and then adding the previous ciphertext block to the result)
-0.674: (the previous ciphertext block; be then adding to; the result)
-
-Apparently, CFB mode is converting a block cipher into a type of stream cipher.
-0.744: (a block cipher; Apparently is converting into; a type of stream cipher)
-0.737: (CFB mode; Apparently is converting a block cipher into; a type of stream cipher)
-0.609: (CFB mode; Apparently is converting; a block cipher)
-
- The encryption algorithm is used as a keystream generator to produce keystream that is placed in the bottom register.
-0.935: (The encryption algorithm; is used as; a keystream generator to produce keystream)
-
- This key stream is then XORed with the plaintext as in case of stream cipher.
-0.929: (This key stream; is then XORed with; the plaintext)
-
-A streamcipher is usually built by combining a blockcipher and some sort of feedback via some simple operations.
-0.674: (a blockcipher and some sort of feedback; be combining via; some simple operations)
-
- The most simple streamcipher is the electronic codebook  mode  No chaining is used.
-0.703: (The most simple streamcipher; is; the electronic codebook mode No chaining is used)
-0.564: (No chaining; is used in; the electronic codebook mode)
-
- The plaintext is partitioned into n blocks P1,.
-0.917: (The plaintext; is partitioned into; n blocks)
-
-.
+ 2.
 No extractions found.
 
-.
+ Make information easy to search .
 No extractions found.
 
-, Pn of size b .
+ 3.
 No extractions found.
 
-  If the last block Pn is shorter than b it is padded appropriately.
-0.63: (Pn; is shorter than; b it is padded appropriately)
-0.441: (it; is padded appropriately in; b)
+ Manipulate sorted lists of data.
+0.871: (Manipulate; sorted; lists of data)
 
-  The ciphertext blocks C1,.
+ 4.
 No extractions found.
 
-.
+ As a workflow for compositing digital images for visual effects.
+0.674: (digital images; be compositing for; visual effects)
+
+ 5.
 No extractions found.
 
-.
+ Router algorithms.
 No extractions found.
 
-, Cn are obtained by applying the blockcipher to each block of the plaintext.
-0.743: (the blockcipher; be applying to; each block of the plaintext)
-
- More formally, Ci   EK .
+As per Wikipedia, following are the common uses of tree.
 No extractions found.
 
- Decryption is simple, too  Pi   DK .
-0.688: (Decryption; is; simple)
-
- This simplicity has an important drawback  If a block B appears several times in the plaintext each occurence encrypts to the same ciphertext block.
-0.847: (each occurence; encrypts to; the same ciphertext block)
-0.768: (This simplicity; has; an important drawback)
-0.156: (a block; appears in; the plaintext)
-
- This can be exploited by an attacker  Suppose that the attacker knows P1  then he is able to detect every occurence of P1 in the plaintext without knowing the key .
-0.693: (he; to detect; every occurence of P1)
-0.665: (every occurence of P1; to be detect in; the plaintext)
-0.563: (he; is; able)
-0.323: (the attacker; knows then; P1)
-
-.
+ 1.
 No extractions found.
 
-A streamcipher is usually built by combining a blockcipher and some sort of feedback via some simple operations.
-0.674: (a blockcipher and some sort of feedback; be combining via; some simple operations)
-
- The most simple streamcipher is the electronic codebook  mode  No chaining is used.
-0.703: (The most simple streamcipher; is; the electronic codebook mode No chaining is used)
-0.564: (No chaining; is used in; the electronic codebook mode)
-
- The plaintext is partitioned into n blocks P1,.
-0.917: (The plaintext; is partitioned into; n blocks)
-
-.
+ Manipulate hierarchical data.
 No extractions found.
 
-.
+ 2.
 No extractions found.
 
-, Pn of size b .
+ Make information easy to search .
 No extractions found.
 
-  If the last block Pn is shorter than b it is padded appropriately.
-0.63: (Pn; is shorter than; b it is padded appropriately)
-0.441: (it; is padded appropriately in; b)
-
-  The ciphertext blocks C1,.
+ 3.
 No extractions found.
 
-.
+ Manipulate sorted lists of data.
+0.871: (Manipulate; sorted; lists of data)
+
+ 4.
 No extractions found.
 
-.
+ As a workflow for compositing digital images for visual effects.
+0.674: (digital images; be compositing for; visual effects)
+
+ 5.
 No extractions found.
 
-, Cn are obtained by applying the blockcipher to each block of the plaintext.
-0.743: (the blockcipher; be applying to; each block of the plaintext)
-
- More formally, Ci   EK .
-No extractions found.
-
- Decryption is simple, too  Pi   DK .
-0.688: (Decryption; is; simple)
-
- This simplicity has an important drawback  If a block B appears several times in the plaintext each occurence encrypts to the same ciphertext block.
-0.847: (each occurence; encrypts to; the same ciphertext block)
-0.768: (This simplicity; has; an important drawback)
-0.156: (a block; appears in; the plaintext)
-
- This can be exploited by an attacker  Suppose that the attacker knows P1  then he is able to detect every occurence of P1 in the plaintext without knowing the key .
-0.693: (he; to detect; every occurence of P1)
-0.665: (every occurence of P1; to be detect in; the plaintext)
-0.563: (he; is; able)
-0.323: (the attacker; knows then; P1)
-
-.
+ Router algorithms.
 No extractions found.
 

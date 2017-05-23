@@ -1,1 +1,1 @@
-Tree-based Range Search.
+In the case of pointer to node, we have to explicitly allocate memory of node type to the pointer.

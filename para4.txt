@@ -1,226 +1,54 @@
+Classic data structures produce classic tutorials. In this edition of Babbage's Bag  we investigate the advanced ecology of trees - perfectly balanced trees, AVL trees and B-Trees. 
+Classic data structures produce classic tutorials. In this edition of Babbage's Bag  we investigate the advanced ecology of trees - perfectly balanced trees, AVL trees and B-Trees. 
+Classic data structures produce classic tutorials. In this edition of Babbage's Bag  we investigate the advanced ecology of trees - perfectly balanced trees, AVL trees and B-Trees. 
+ 
 
 
+ 
+ 
 
+ 
+ 
+ 
 
+ 
+ 
 
+ 
 
 
 
-As with the breadth-first-search algorithm, there is an underlying tree associated with each execution of depth-first-search. When a node goes from to , this is because was called recursively while processing some node . (In the case of algorithm, is one of the nodes that replaced on the stack.) If we think of as the parent of , then we obtain a tree rooted at . In Figure 12.5, this tree is a path from vertex 0 to vertex 11.
-As with the breadth-first-search algorithm, there is an underlying tree associated with each execution of depth-first-search. When a node goes from to , this is because was called recursively while processing some node . (In the case of algorithm, is one of the nodes that replaced on the stack.) If we think of as the parent of , then we obtain a tree rooted at . In Figure 12.5, this tree is a path from vertex 0 to vertex 11.
-As with the breadth-first-search algorithm, there is an underlying tree associated with each execution of depth-first-search. When a node goes from to , this is because was called recursively while processing some node . (In the case of algorithm, is one of the nodes that replaced on the stack.) If we think of as the parent of , then we obtain a tree rooted at . In Figure 12.5, this tree is a path from vertex 0 to vertex 11.
-As with the breadth-first-search algorithm, there is an underlying tree associated with each execution of depth-first-search. When a node goes from to , this is because was called recursively while processing some node . (In the case of algorithm, is one of the nodes that replaced on the stack.) If we think of as the parent of , then we obtain a tree rooted at . In Figure 12.5, this tree is a path from vertex 0 to vertex 11.
-As with the breadth-first-search algorithm, there is an underlying tree associated with each execution of depth-first-search. When a node goes from to , this is because was called recursively while processing some node . (In the case of algorithm, is one of the nodes that replaced on the stack.) If we think of as the parent of , then we obtain a tree rooted at . In Figure 12.5, this tree is a path from vertex 0 to vertex 11.
-As with the breadth-first-search algorithm, there is an underlying tree associated with each execution of depth-first-search. When a node goes from to , this is because was called recursively while processing some node . (In the case of algorithm, is one of the nodes that replaced on the stack.) If we think of as the parent of , then we obtain a tree rooted at . In Figure 12.5, this tree is a path from vertex 0 to vertex 11.
+ 
 
 
-Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array. For example, in the following graph, we start traversal from vertex 2. When we come to vertex 0, we look for all adjacent vertices of it. 2 is also an adjacent vertex of 0. If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process. A Depth First Traversal of the following graph is 2, 0, 1, 3.
-Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array. For example, in the following graph, we start traversal from vertex 2. When we come to vertex 0, we look for all adjacent vertices of it. 2 is also an adjacent vertex of 0. If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process. A Depth First Traversal of the following graph is 2, 0, 1, 3.
-Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array. For example, in the following graph, we start traversal from vertex 2. When we come to vertex 0, we look for all adjacent vertices of it. 2 is also an adjacent vertex of 0. If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process. A Depth First Traversal of the following graph is 2, 0, 1, 3.
-Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array. For example, in the following graph, we start traversal from vertex 2. When we come to vertex 0, we look for all adjacent vertices of it. 2 is also an adjacent vertex of 0. If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process. A Depth First Traversal of the following graph is 2, 0, 1, 3.
-Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array. For example, in the following graph, we start traversal from vertex 2. When we come to vertex 0, we look for all adjacent vertices of it. 2 is also an adjacent vertex of 0. If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process. A Depth First Traversal of the following graph is 2, 0, 1, 3.
-Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array. For example, in the following graph, we start traversal from vertex 2. When we come to vertex 0, we look for all adjacent vertices of it. 2 is also an adjacent vertex of 0. If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process. A Depth First Traversal of the following graph is 2, 0, 1, 3.
-Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array. For example, in the following graph, we start traversal from vertex 2. When we come to vertex 0, we look for all adjacent vertices of it. 2 is also an adjacent vertex of 0. If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process. A Depth First Traversal of the following graph is 2, 0, 1, 3.
-Depth First Traversal (or Search) for a graph is similar to Depth First Traversal of a tree. The only catch here is, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we use a boolean visited array. For example, in the following graph, we start traversal from vertex 2. When we come to vertex 0, we look for all adjacent vertices of it. 2 is also an adjacent vertex of 0. If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process. A Depth First Traversal of the following graph is 2, 0, 1, 3.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Time Complexity: O(V+E) where V is number of vertices in the graph and E is number of edges in the graph.
-
-
-The objective of this article is to provide a basic introduction about graphs and the commonly used algorithms used for traversing the graph, BFS and DFS. Breadth First Search (BFS) and Depth First Search (DFS) are the two popular algorithms asked in most of the programming interviews. I was not able to find a simple, precise explanation for beginners on this topic. So, I decided to write an article for graph. This article will help any beginner to get some basic understanding about what graphs are, how they are represented, graph traversals using BFS and DFS.
-The objective of this article is to provide a basic introduction about graphs and the commonly used algorithms used for traversing the graph, BFS and DFS. Breadth First Search (BFS) and Depth First Search (DFS) are the two popular algorithms asked in most of the programming interviews. I was not able to find a simple, precise explanation for beginners on this topic. So, I decided to write an article for graph. This article will help any beginner to get some basic understanding about what graphs are, how they are represented, graph traversals using BFS and DFS.
-The objective of this article is to provide a basic introduction about graphs and the commonly used algorithms used for traversing the graph, BFS and DFS. Breadth First Search (BFS) and Depth First Search (DFS) are the two popular algorithms asked in most of the programming interviews. I was not able to find a simple, precise explanation for beginners on this topic. So, I decided to write an article for graph. This article will help any beginner to get some basic understanding about what graphs are, how they are represented, graph traversals using BFS and DFS.
-The objective of this article is to provide a basic introduction about graphs and the commonly used algorithms used for traversing the graph, BFS and DFS. Breadth First Search (BFS) and Depth First Search (DFS) are the two popular algorithms asked in most of the programming interviews. I was not able to find a simple, precise explanation for beginners on this topic. So, I decided to write an article for graph. This article will help any beginner to get some basic understanding about what graphs are, how they are represented, graph traversals using BFS and DFS.
-The objective of this article is to provide a basic introduction about graphs and the commonly used algorithms used for traversing the graph, BFS and DFS. Breadth First Search (BFS) and Depth First Search (DFS) are the two popular algorithms asked in most of the programming interviews. I was not able to find a simple, precise explanation for beginners on this topic. So, I decided to write an article for graph. This article will help any beginner to get some basic understanding about what graphs are, how they are represented, graph traversals using BFS and DFS.
-Graphs are one of the most interesting data structures in computer science. Graphs and the trees are somewhat similar by their structure. In fact, tree is derived from the graph data structure. However there are two important differences between trees and graphs. 
-Graphs are one of the most interesting data structures in computer science. Graphs and the trees are somewhat similar by their structure. In fact, tree is derived from the graph data structure. However there are two important differences between trees and graphs. 
-Graphs are one of the most interesting data structures in computer science. Graphs and the trees are somewhat similar by their structure. In fact, tree is derived from the graph data structure. However there are two important differences between trees and graphs. 
-Graphs are one of the most interesting data structures in computer science. Graphs and the trees are somewhat similar by their structure. In fact, tree is derived from the graph data structure. However there are two important differences between trees and graphs. 
-Graphs are one of the most interesting data structures in computer science. Graphs and the trees are somewhat similar by their structure. In fact, tree is derived from the graph data structure. However there are two important differences between trees and graphs. 
-Graphs are good in modeling real world problems like representing cities which are connected by roads and finding the paths between cities, modeling air traffic controller system, etc. These kinds of problems are hard to represent using simple tree structures. The following example shows a very simple graph:   
-Graphs are good in modeling real world problems like representing cities which are connected by roads and finding the paths between cities, modeling air traffic controller system, etc. These kinds of problems are hard to represent using simple tree structures. The following example shows a very simple graph:   
-Graphs are good in modeling real world problems like representing cities which are connected by roads and finding the paths between cities, modeling air traffic controller system, etc. These kinds of problems are hard to represent using simple tree structures. The following example shows a very simple graph:   
-In the above graph, A,B,C,D,E,F are called nodes and the connecting lines between these nodes are called edges. The edges can be directed edges which are shown by arrows; they can also be weighted edges in which some numbers are assigned to them. Hence, a graph can be a directed/undirected and weighted/un-weighted graph. In this article, we will discuss undirected and un-weighted graphs.   
-In the above graph, A,B,C,D,E,F are called nodes and the connecting lines between these nodes are called edges. The edges can be directed edges which are shown by arrows; they can also be weighted edges in which some numbers are assigned to them. Hence, a graph can be a directed/undirected and weighted/un-weighted graph. In this article, we will discuss undirected and un-weighted graphs.   
-In the above graph, A,B,C,D,E,F are called nodes and the connecting lines between these nodes are called edges. The edges can be directed edges which are shown by arrows; they can also be weighted edges in which some numbers are assigned to them. Hence, a graph can be a directed/undirected and weighted/un-weighted graph. In this article, we will discuss undirected and un-weighted graphs.   
-In the above graph, A,B,C,D,E,F are called nodes and the connecting lines between these nodes are called edges. The edges can be directed edges which are shown by arrows; they can also be weighted edges in which some numbers are assigned to them. Hence, a graph can be a directed/undirected and weighted/un-weighted graph. In this article, we will discuss undirected and un-weighted graphs.   
-In the above graph, A,B,C,D,E,F are called nodes and the connecting lines between these nodes are called edges. The edges can be directed edges which are shown by arrows; they can also be weighted edges in which some numbers are assigned to them. Hence, a graph can be a directed/undirected and weighted/un-weighted graph. In this article, we will discuss undirected and un-weighted graphs.   
-Every graph has two components, Nodes and Edges. Let’s see how these two components are implemented in a programming language like JAVA.   
-Every graph has two components, Nodes and Edges. Let’s see how these two components are implemented in a programming language like JAVA.   
-Every graph has two components, Nodes and Edges. Let’s see how these two components are implemented in a programming language like JAVA.   
-Nodes are implemented by class, structures or as Link-List nodes. As an example in JAVA, we will represent node for the above graph as follows:  
-Nodes are implemented by class, structures or as Link-List nodes. As an example in JAVA, we will represent node for the above graph as follows:  
-Edges represent the connection between nodes. There are two ways to represent edges.
-Edges represent the connection between nodes. There are two ways to represent edges.
-It is a two dimensional array with Boolean flags. As an example, we can represent the edges for the above graph using the following adjacency matrix. 
-It is a two dimensional array with Boolean flags. As an example, we can represent the edges for the above graph using the following adjacency matrix. 
-It is a two dimensional array with Boolean flags. As an example, we can represent the edges for the above graph using the following adjacency matrix. 
-In the given graph, A is connected with B, C and D nodes, so adjacency matrix will have 1s in the ‘A’ row for the ‘B’, ‘C’ and ‘D’ column.  
-In the given graph, A is connected with B, C and D nodes, so adjacency matrix will have 1s in the ‘A’ row for the ‘B’, ‘C’ and ‘D’ column.  
-The advantages of representing the edges using adjacency matrix are: 
-The drawbacks of using the adjacency matrix are:  
-In JAVA, we can represent the adjacency matrix as a 2 dimensional array of integers/Booleans.
-It is an array of linked list nodes. In other words, it is like a list whose elements are a linked list. For the given graph example, the edges will be represented by the below adjacency list: 
-It is an array of linked list nodes. In other words, it is like a list whose elements are a linked list. For the given graph example, the edges will be represented by the below adjacency list: 
-It is an array of linked list nodes. In other words, it is like a list whose elements are a linked list. For the given graph example, the edges will be represented by the below adjacency list: 
-The breadth first search (BFS) and the depth first search (DFS) are the two algorithms used for traversing and searching a node in a graph. They can also be used to find out whether a node is reachable from a given node or not.   
-The breadth first search (BFS) and the depth first search (DFS) are the two algorithms used for traversing and searching a node in a graph. They can also be used to find out whether a node is reachable from a given node or not.   
-The breadth first search (BFS) and the depth first search (DFS) are the two algorithms used for traversing and searching a node in a graph. They can also be used to find out whether a node is reachable from a given node or not.   
-The aim of DFS algorithm is to traverse the graph in such a way that it tries to go far from the root node. Stack is used in the implementation of the depth first search. Let’s see how depth first search works with respect to the following graph:   
-The aim of DFS algorithm is to traverse the graph in such a way that it tries to go far from the root node. Stack is used in the implementation of the depth first search. Let’s see how depth first search works with respect to the following graph:   
-The aim of DFS algorithm is to traverse the graph in such a way that it tries to go far from the root node. Stack is used in the implementation of the depth first search. Let’s see how depth first search works with respect to the following graph:   
-As stated before, in DFS, nodes are visited by going through the depth of the tree from the starting node. If we do the depth first traversal of the above graph and print the visited node, it will be “A B E F C D”. DFS visits the root node and then its children nodes until it reaches the end node, i.e. E and F nodes, then moves up to the parent nodes. 
-As stated before, in DFS, nodes are visited by going through the depth of the tree from the starting node. If we do the depth first traversal of the above graph and print the visited node, it will be “A B E F C D”. DFS visits the root node and then its children nodes until it reaches the end node, i.e. E and F nodes, then moves up to the parent nodes. 
-As stated before, in DFS, nodes are visited by going through the depth of the tree from the starting node. If we do the depth first traversal of the above graph and print the visited node, it will be “A B E F C D”. DFS visits the root node and then its children nodes until it reaches the end node, i.e. E and F nodes, then moves up to the parent nodes. 
-As stated before, in DFS, nodes are visited by going through the depth of the tree from the starting node. If we do the depth first traversal of the above graph and print the visited node, it will be “A B E F C D”. DFS visits the root node and then its children nodes until it reaches the end node, i.e. E and F nodes, then moves up to the parent nodes. 
-As stated before, in DFS, nodes are visited by going through the depth of the tree from the starting node. If we do the depth first traversal of the above graph and print the visited node, it will be “A B E F C D”. DFS visits the root node and then its children nodes until it reaches the end node, i.e. E and F nodes, then moves up to the parent nodes. 
-As stated before, in DFS, nodes are visited by going through the depth of the tree from the starting node. If we do the depth first traversal of the above graph and print the visited node, it will be “A B E F C D”. DFS visits the root node and then its children nodes until it reaches the end node, i.e. E and F nodes, then moves up to the parent nodes. 
-Based upon the above steps, the following Java code shows the implementation of the DFS algorithm:  
-This is a very different approach for traversing the graph nodes. The aim of BFS algorithm is to traverse the graph as close as possible to the root node. Queue is used in the implementation of the breadth first search. Let’s see how BFS traversal works with respect to the following graph:
-This is a very different approach for traversing the graph nodes. The aim of BFS algorithm is to traverse the graph as close as possible to the root node. Queue is used in the implementation of the breadth first search. Let’s see how BFS traversal works with respect to the following graph:
-This is a very different approach for traversing the graph nodes. The aim of BFS algorithm is to traverse the graph as close as possible to the root node. Queue is used in the implementation of the breadth first search. Let’s see how BFS traversal works with respect to the following graph:
-This is a very different approach for traversing the graph nodes. The aim of BFS algorithm is to traverse the graph as close as possible to the root node. Queue is used in the implementation of the breadth first search. Let’s see how BFS traversal works with respect to the following graph:
-If we do the breadth first traversal of the above graph and print the visited node as the output, it will print the following output. “A B C D E F”. The BFS visits the nodes level by level, so it will start with level 0 which is the root node, and then it moves to the next levels which are B, C and D, then the last levels which are E and F.  
-If we do the breadth first traversal of the above graph and print the visited node as the output, it will print the following output. “A B C D E F”. The BFS visits the nodes level by level, so it will start with level 0 which is the root node, and then it moves to the next levels which are B, C and D, then the last levels which are E and F.  
-If we do the breadth first traversal of the above graph and print the visited node as the output, it will print the following output. “A B C D E F”. The BFS visits the nodes level by level, so it will start with level 0 which is the root node, and then it moves to the next levels which are B, C and D, then the last levels which are E and F.  
-If we do the breadth first traversal of the above graph and print the visited node as the output, it will print the following output. “A B C D E F”. The BFS visits the nodes level by level, so it will start with level 0 which is the root node, and then it moves to the next levels which are B, C and D, then the last levels which are E and F.  
-Based upon the above steps, the following Java code shows the implementation of the BFS algorithm:  
-The full implementation of this is given in the attached source code.
-The source code for this article is a JAVA project that you can import in eclipse IDE or run from the command prompt. You need to run the Main.java file to see the traversal output.
-The source code for this article is a JAVA project that you can import in eclipse IDE or run from the command prompt. You need to run the Main.java file to see the traversal output.
-The source code for this article is a JAVA project that you can import in eclipse IDE or run from the command prompt. You need to run the Main.java file to see the traversal output.
-Main.java is a Java Console application which creates a simple undirected graph and then invokes the DFS and BFS traversal of the graph.
-Main.java is a Java Console application which creates a simple undirected graph and then invokes the DFS and BFS traversal of the graph.
-This article, along with any associated source code and files, is licensed under The Code Project Open License (CPOL)
-General    News    Suggestion    Question    Bug    Answer    Joke    Praise    Rant    Admin   
-Use Ctrl+Left/Right to switch messages, Ctrl+Up/Down to switch threads, Ctrl+Shift+Left/Right to switch pages.
-home articles Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog quick answersQ&A Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions discussionsforums All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch features Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff communitylounge Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics help What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-home articles Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog quick answersQ&A Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions discussionsforums All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch features Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff communitylounge Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics help What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-home articles Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog quick answersQ&A Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions discussionsforums All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch features Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff communitylounge Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics help What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-home articles Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog quick answersQ&A Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions discussionsforums All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch features Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff communitylounge Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics help What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-home articles Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog quick answersQ&A Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions discussionsforums All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch features Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff communitylounge Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics help What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-home articles Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog quick answersQ&A Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions discussionsforums All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch features Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff communitylounge Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics help What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-home articles Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog quick answersQ&A Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions discussionsforums All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch features Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff communitylounge Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics help What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-Chapters and Sections> Search Latest Articles Latest Tips/Tricks Top Articles Beginner Articles Technical Blogs Posting/Update Guidelines Article Help Forum Article Competition Submit an article or tip Post your Blog
-
-Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions
-Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions
-Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions
-Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions
-Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions
-Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions
-Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions
-Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions
-Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions
-Ask a Question about this article Ask a Question View Unanswered Questions View All Questions... C# questions ASP.NET questions Javascript questions SQL questions VB.NET questions
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-All Message Boards... Application Lifecycle> Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues Design and Architecture ASP.NET JavaScript C / C++ / MFC> ATL / WTL / STL Managed C++/CLI C# Free Tools Objective-C and Swift Database Hardware & Devices> System Admin Hosting and Servers Java .NET Framework Android iOS Mobile SharePoint Silverlight / WPF Visual Basic Web Development Site Bugs / Suggestions Spam and Abuse Watch
-Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues
-Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues
-Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues
-Running a Business Sales / Marketing Collaboration / Beta Testing Work Issues
-ATL / WTL / STL Managed C++/CLI
-ATL / WTL / STL Managed C++/CLI
-System Admin
-Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff
-Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff
-Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff
-Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff
-Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff
-Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff
-Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff
-Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff
-Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff
-Competitions News The Insider Newsletter The Daily Build Newsletter Newsletter archive Surveys Product Showcase Research Library CodeProject Stuff
-Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics
-Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics
-Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics
-Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics
-Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics
-Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics
-Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics
-Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics
-Who's Who Most Valuable Professionals The Lounge   The Insider News The Weird & The Wonderful The Soapbox Press Releases Non-English Language > General Indian Topics General Chinese Topics
-General Indian Topics General Chinese Topics
-General Indian Topics General Chinese Topics
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-What is 'CodeProject'? General FAQ Ask a Question Bugs and Suggestions Article Help Forum Site Map Advertise with us About our Advertising Employment Opportunities About Us
-Download source code - 5.53 KB
-29th December, 2008: Initial version  
-email twitter facebook linkedin reddit google+
-email twitter facebook linkedin reddit google+
-email twitter facebook linkedin reddit google+
-email twitter facebook linkedin reddit google+
-email twitter facebook linkedin reddit google+
-email twitter facebook linkedin reddit google+
+ 
+Whenever you use a database there is a 99% chance that an index is involved somewhere. The simplest type of index is a sorted listing of the key field. This provides a fast lookup because you can use a binary search to locate any item without having to look at each one in turn.
+Whenever you use a database there is a 99% chance that an index is involved somewhere. The simplest type of index is a sorted listing of the key field. This provides a fast lookup because you can use a binary search to locate any item without having to look at each one in turn.
+Whenever you use a database there is a 99% chance that an index is involved somewhere. The simplest type of index is a sorted listing of the key field. This provides a fast lookup because you can use a binary search to locate any item without having to look at each one in turn.
+ 
 
+ 
+ 
+ 
 
+ 
+ 
 
+ 
 
 
 
 
+There are different types of tree data structures. Some of them are
+There are different types of tree data structures. Some of them are
+Binary Tree is a special datastructure used for data storage purposes. A binary tree has a special condition that each node can have a maximum of two children. A binary tree has the benefits of both an ordered array and a linked list as search is as quick as in a sorted array and insertion or deletion operation are as fast as in linked list.
+Binary Tree is a special datastructure used for data storage purposes. A binary tree has a special condition that each node can have a maximum of two children. A binary tree has the benefits of both an ordered array and a linked list as search is as quick as in a sorted array and insertion or deletion operation are as fast as in linked list.
+Binary Tree is a special datastructure used for data storage purposes. A binary tree has a special condition that each node can have a maximum of two children. A binary tree has the benefits of both an ordered array and a linked list as search is as quick as in a sorted array and insertion or deletion operation are as fast as in linked list.
 
 
 
+See the axiomatic development of trees and its consequences for more information.
+Types of trees:
 
 
 
@@ -236,11 +64,16 @@ email twitter facebook linkedin reddit google+
 
 
 
+}
 
 
+ 
 
+ 
+ 
 
 
+Hash tree
 
 
 
@@ -255,1646 +88,763 @@ email twitter facebook linkedin reddit google+
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Breadth First Search:     visit all your neighbors before your neighbor's neighbors What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty) Implementation in Java Java code: 
-
-   public void bfs()
-   {
-      // BFS uses Queue data structure
-
-      Queue q = new LinkedList();
-
-      q.add(rootNode);
-      visited = true;
-
-      printNode(rootNode);
-
-      while( !q.isEmpty() )
-      {
-         int n, child;
-
-         n = (q.peek()).intValue();
-
-         child = getUnvisitedChildNode(n);    // Returns -1 if no unvisited niode left     
-
-         if ( child != -1 )
-         {  // Found an unvisted node 
-
-            visited = true;        // Mark as visited
-
-            printNode(child);
-
-            q.add(child);      // Add to queue 
-         }
-         else
-         {
-            q.remove();                  // Process next node
-         }
-      }
-   }
- Example Program: (Demo above code)                                                 The BFS Prog file: click here A Test program: click here
-Breadth First Search:     visit all your neighbors before your neighbor's neighbors What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty) Implementation in Java Java code: 
-
-   public void bfs()
-   {
-      // BFS uses Queue data structure
-
-      Queue q = new LinkedList();
-
-      q.add(rootNode);
-      visited = true;
-
-      printNode(rootNode);
-
-      while( !q.isEmpty() )
-      {
-         int n, child;
-
-         n = (q.peek()).intValue();
-
-         child = getUnvisitedChildNode(n);    // Returns -1 if no unvisited niode left     
-
-         if ( child != -1 )
-         {  // Found an unvisted node 
-
-            visited = true;        // Mark as visited
-
-            printNode(child);
-
-            q.add(child);      // Add to queue 
-         }
-         else
-         {
-            q.remove();                  // Process next node
-         }
-      }
-   }
- Example Program: (Demo above code)                                                 The BFS Prog file: click here A Test program: click here
-Breadth First Search:     visit all your neighbors before your neighbor's neighbors What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty) Implementation in Java Java code: 
-
-   public void bfs()
-   {
-      // BFS uses Queue data structure
-
-      Queue q = new LinkedList();
-
-      q.add(rootNode);
-      visited = true;
-
-      printNode(rootNode);
-
-      while( !q.isEmpty() )
-      {
-         int n, child;
-
-         n = (q.peek()).intValue();
-
-         child = getUnvisitedChildNode(n);    // Returns -1 if no unvisited niode left     
-
-         if ( child != -1 )
-         {  // Found an unvisted node 
-
-            visited = true;        // Mark as visited
-
-            printNode(child);
-
-            q.add(child);      // Add to queue 
-         }
-         else
-         {
-            q.remove();                  // Process next node
-         }
-      }
-   }
- Example Program: (Demo above code)                                                 The BFS Prog file: click here A Test program: click here
-What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty)
-What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty)
-What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty)
-What is breadth first: Start at some node: Visit all the neighbors first: Only then visit the neighbors' neighbors: And so on Data structure that helps in the implementation of the Breadth First Search algorithm: A queue Nodes will be visit in the order imposed by the FIFO queue Breadth first search: Put an arbitrary node x in queue Q Mark the node x as visited Repeat: h = remove the first node from queue Q Put all of h's unvisited neighbor nodes in a queue Q Mark all inserted nodes as visited Example: Graph: Initial state: State after processing 0 State after processing 1 State after processing 3 State after processing 8 State after processing 7 State after processing 2 State after processing 4 State after processing 5 State after processing 6 DONE (The queue has become empty)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-of the graph
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9) Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!! Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again Visitation information How to store information on whether a node has been visited: 
-
-   boolean visited;         // denote whether a node has been visited     
-
-   visited = new boolean;
-
- 
-
-   We use:
-
-     visited = true  to represent node i has been visited
-     visited = false to represent node i has NOT been visited
- Additional information needed to traverse a graph In addition to the visited information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-   Set all nodes to "not visited";
-
-   put an initial node into "toVisitNodes";
-
-   while ( "toVisitNodes" ≠ empty ) do
-   {
-      x = select (and delete) some node from "toVisitNodes";
-
-      if ( x has not been visited )
-      {
-         visited = true;         // Visit node x !
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-            if ( y has not been visited )   
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
-      }
-   }
- Example of traversal Initialization: 
-    Set all nodes to "not visited";
-
-    We start the traversal at node 0             
-    (i.e., insert initial node = 0 into "toVisitNodes")     
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
-   visited = true;         // Visit node 0 !
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
-   }
- The statement visited = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-   visited = true;         // Visit node 3 !
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
-   }
- The statement visited = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !) The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-      /* ==============================================
-         Initialize variables for the traversal
-	 ============================================== */
-      for ( i = 0; i < NNodes; i++ )
-      {
-          visited = false;
-      }
-
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
-
-      /* ===========================================
-         Loop as long as there are "active" node
-         =========================================== */
-      while( toVisitNodes ≠ empty )
-      {
-         int nextNode;                // Next node to visit
-         int i;
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-
-         if ( ! visited )
-         {
-            visited = true;    // Mark node as visited
-            System.out.println("nextNode = " + nextNode );
-
-            for ( i = 0; i < NNodes; i++ )
-               if ( adjMatrix > 0 && ! visited )
-                  add( i, toVisitNodes);  
-         }
-      }
- Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next....
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9) Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!! Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again Visitation information How to store information on whether a node has been visited: 
-
-   boolean visited;         // denote whether a node has been visited     
-
-   visited = new boolean;
-
- 
-
-   We use:
-
-     visited = true  to represent node i has been visited
-     visited = false to represent node i has NOT been visited
- Additional information needed to traverse a graph In addition to the visited information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-   Set all nodes to "not visited";
-
-   put an initial node into "toVisitNodes";
-
-   while ( "toVisitNodes" ≠ empty ) do
-   {
-      x = select (and delete) some node from "toVisitNodes";
-
-      if ( x has not been visited )
-      {
-         visited = true;         // Visit node x !
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-            if ( y has not been visited )   
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
-      }
-   }
- Example of traversal Initialization: 
-    Set all nodes to "not visited";
-
-    We start the traversal at node 0             
-    (i.e., insert initial node = 0 into "toVisitNodes")     
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
-   visited = true;         // Visit node 0 !
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
-   }
- The statement visited = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-   visited = true;         // Visit node 3 !
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
-   }
- The statement visited = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !) The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-      /* ==============================================
-         Initialize variables for the traversal
-	 ============================================== */
-      for ( i = 0; i < NNodes; i++ )
-      {
-          visited = false;
-      }
-
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
-
-      /* ===========================================
-         Loop as long as there are "active" node
-         =========================================== */
-      while( toVisitNodes ≠ empty )
-      {
-         int nextNode;                // Next node to visit
-         int i;
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-
-         if ( ! visited )
-         {
-            visited = true;    // Mark node as visited
-            System.out.println("nextNode = " + nextNode );
-
-            for ( i = 0; i < NNodes; i++ )
-               if ( adjMatrix > 0 && ! visited )
-                  add( i, toVisitNodes);  
-         }
-      }
- Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next....
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9) Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!! Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again Visitation information How to store information on whether a node has been visited: 
-
-   boolean visited;         // denote whether a node has been visited     
-
-   visited = new boolean;
-
- 
-
-   We use:
-
-     visited = true  to represent node i has been visited
-     visited = false to represent node i has NOT been visited
- Additional information needed to traverse a graph In addition to the visited information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-   Set all nodes to "not visited";
-
-   put an initial node into "toVisitNodes";
-
-   while ( "toVisitNodes" ≠ empty ) do
-   {
-      x = select (and delete) some node from "toVisitNodes";
-
-      if ( x has not been visited )
-      {
-         visited = true;         // Visit node x !
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-            if ( y has not been visited )   
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
-      }
-   }
- Example of traversal Initialization: 
-    Set all nodes to "not visited";
-
-    We start the traversal at node 0             
-    (i.e., insert initial node = 0 into "toVisitNodes")     
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
-   visited = true;         // Visit node 0 !
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
-   }
- The statement visited = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-   visited = true;         // Visit node 3 !
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
-   }
- The statement visited = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !) The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-      /* ==============================================
-         Initialize variables for the traversal
-	 ============================================== */
-      for ( i = 0; i < NNodes; i++ )
-      {
-          visited = false;
-      }
-
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
-
-      /* ===========================================
-         Loop as long as there are "active" node
-         =========================================== */
-      while( toVisitNodes ≠ empty )
-      {
-         int nextNode;                // Next node to visit
-         int i;
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-
-         if ( ! visited )
-         {
-            visited = true;    // Mark node as visited
-            System.out.println("nextNode = " + nextNode );
-
-            for ( i = 0; i < NNodes; i++ )
-               if ( adjMatrix > 0 && ! visited )
-                  add( i, toVisitNodes);  
-         }
-      }
- Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next....
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9) Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!! Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again Visitation information How to store information on whether a node has been visited: 
-
-   boolean visited;         // denote whether a node has been visited     
-
-   visited = new boolean;
-
- 
-
-   We use:
-
-     visited = true  to represent node i has been visited
-     visited = false to represent node i has NOT been visited
- Additional information needed to traverse a graph In addition to the visited information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-   Set all nodes to "not visited";
-
-   put an initial node into "toVisitNodes";
-
-   while ( "toVisitNodes" ≠ empty ) do
-   {
-      x = select (and delete) some node from "toVisitNodes";
-
-      if ( x has not been visited )
-      {
-         visited = true;         // Visit node x !
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-            if ( y has not been visited )   
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
-      }
-   }
- Example of traversal Initialization: 
-    Set all nodes to "not visited";
-
-    We start the traversal at node 0             
-    (i.e., insert initial node = 0 into "toVisitNodes")     
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
-   visited = true;         // Visit node 0 !
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
-   }
- The statement visited = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-   visited = true;         // Visit node 3 !
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
-   }
- The statement visited = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !) The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-      /* ==============================================
-         Initialize variables for the traversal
-	 ============================================== */
-      for ( i = 0; i < NNodes; i++ )
-      {
-          visited = false;
-      }
-
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
-
-      /* ===========================================
-         Loop as long as there are "active" node
-         =========================================== */
-      while( toVisitNodes ≠ empty )
-      {
-         int nextNode;                // Next node to visit
-         int i;
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-
-         if ( ! visited )
-         {
-            visited = true;    // Mark node as visited
-            System.out.println("nextNode = " + nextNode );
-
-            for ( i = 0; i < NNodes; i++ )
-               if ( adjMatrix > 0 && ! visited )
-                  add( i, toVisitNodes);  
-         }
-      }
- Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next....
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9) Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!! Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again Visitation information How to store information on whether a node has been visited: 
-
-   boolean visited;         // denote whether a node has been visited     
-
-   visited = new boolean;
-
- 
-
-   We use:
-
-     visited = true  to represent node i has been visited
-     visited = false to represent node i has NOT been visited
- Additional information needed to traverse a graph In addition to the visited information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-   Set all nodes to "not visited";
-
-   put an initial node into "toVisitNodes";
-
-   while ( "toVisitNodes" ≠ empty ) do
-   {
-      x = select (and delete) some node from "toVisitNodes";
-
-      if ( x has not been visited )
-      {
-         visited = true;         // Visit node x !
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-            if ( y has not been visited )   
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
-      }
-   }
- Example of traversal Initialization: 
-    Set all nodes to "not visited";
-
-    We start the traversal at node 0             
-    (i.e., insert initial node = 0 into "toVisitNodes")     
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
-   visited = true;         // Visit node 0 !
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
-   }
- The statement visited = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-   visited = true;         // Visit node 3 !
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
-   }
- The statement visited = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !) The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-      /* ==============================================
-         Initialize variables for the traversal
-	 ============================================== */
-      for ( i = 0; i < NNodes; i++ )
-      {
-          visited = false;
-      }
-
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
-
-      /* ===========================================
-         Loop as long as there are "active" node
-         =========================================== */
-      while( toVisitNodes ≠ empty )
-      {
-         int nextNode;                // Next node to visit
-         int i;
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-
-         if ( ! visited )
-         {
-            visited = true;    // Mark node as visited
-            System.out.println("nextNode = " + nextNode );
-
-            for ( i = 0; i < NNodes; i++ )
-               if ( adjMatrix > 0 && ! visited )
-                  add( i, toVisitNodes);  
-         }
-      }
- Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next....
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9) Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!! Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again Visitation information How to store information on whether a node has been visited: 
-
-   boolean visited;         // denote whether a node has been visited     
-
-   visited = new boolean;
-
- 
-
-   We use:
-
-     visited = true  to represent node i has been visited
-     visited = false to represent node i has NOT been visited
- Additional information needed to traverse a graph In addition to the visited information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-   Set all nodes to "not visited";
-
-   put an initial node into "toVisitNodes";
-
-   while ( "toVisitNodes" ≠ empty ) do
-   {
-      x = select (and delete) some node from "toVisitNodes";
-
-      if ( x has not been visited )
-      {
-         visited = true;         // Visit node x !
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-            if ( y has not been visited )   
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
-      }
-   }
- Example of traversal Initialization: 
-    Set all nodes to "not visited";
-
-    We start the traversal at node 0             
-    (i.e., insert initial node = 0 into "toVisitNodes")     
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
-   visited = true;         // Visit node 0 !
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
-   }
- The statement visited = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-   visited = true;         // Visit node 3 !
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
-   }
- The statement visited = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !) The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-      /* ==============================================
-         Initialize variables for the traversal
-	 ============================================== */
-      for ( i = 0; i < NNodes; i++ )
-      {
-          visited = false;
-      }
-
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
-
-      /* ===========================================
-         Loop as long as there are "active" node
-         =========================================== */
-      while( toVisitNodes ≠ empty )
-      {
-         int nextNode;                // Next node to visit
-         int i;
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-
-         if ( ! visited )
-         {
-            visited = true;    // Mark node as visited
-            System.out.println("nextNode = " + nextNode );
-
-            for ( i = 0; i < NNodes; i++ )
-               if ( adjMatrix > 0 && ! visited )
-                  add( i, toVisitNodes);  
-         }
-      }
- Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next....
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9) Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!! Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again Visitation information How to store information on whether a node has been visited: 
-
-   boolean visited;         // denote whether a node has been visited     
-
-   visited = new boolean;
-
- 
-
-   We use:
-
-     visited = true  to represent node i has been visited
-     visited = false to represent node i has NOT been visited
- Additional information needed to traverse a graph In addition to the visited information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-   Set all nodes to "not visited";
-
-   put an initial node into "toVisitNodes";
-
-   while ( "toVisitNodes" ≠ empty ) do
-   {
-      x = select (and delete) some node from "toVisitNodes";
-
-      if ( x has not been visited )
-      {
-         visited = true;         // Visit node x !
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-            if ( y has not been visited )   
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
-      }
-   }
- Example of traversal Initialization: 
-    Set all nodes to "not visited";
-
-    We start the traversal at node 0             
-    (i.e., insert initial node = 0 into "toVisitNodes")     
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
-   visited = true;         // Visit node 0 !
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
-   }
- The statement visited = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-   visited = true;         // Visit node 3 !
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
-   }
- The statement visited = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !) The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-      /* ==============================================
-         Initialize variables for the traversal
-	 ============================================== */
-      for ( i = 0; i < NNodes; i++ )
-      {
-          visited = false;
-      }
-
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
-
-      /* ===========================================
-         Loop as long as there are "active" node
-         =========================================== */
-      while( toVisitNodes ≠ empty )
-      {
-         int nextNode;                // Next node to visit
-         int i;
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-
-         if ( ! visited )
-         {
-            visited = true;    // Mark node as visited
-            System.out.println("nextNode = " + nextNode );
-
-            for ( i = 0; i < NNodes; i++ )
-               if ( adjMatrix > 0 && ! visited )
-                  add( i, toVisitNodes);  
-         }
-      }
- Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next....
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9) Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!! Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again Visitation information How to store information on whether a node has been visited: 
-
-   boolean visited;         // denote whether a node has been visited     
-
-   visited = new boolean;
-
- 
-
-   We use:
-
-     visited = true  to represent node i has been visited
-     visited = false to represent node i has NOT been visited
- Additional information needed to traverse a graph In addition to the visited information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-   Set all nodes to "not visited";
-
-   put an initial node into "toVisitNodes";
-
-   while ( "toVisitNodes" ≠ empty ) do
-   {
-      x = select (and delete) some node from "toVisitNodes";
-
-      if ( x has not been visited )
-      {
-         visited = true;         // Visit node x !
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-            if ( y has not been visited )   
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
-      }
-   }
- Example of traversal Initialization: 
-    Set all nodes to "not visited";
-
-    We start the traversal at node 0             
-    (i.e., insert initial node = 0 into "toVisitNodes")     
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
-   visited = true;         // Visit node 0 !
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
-   }
- The statement visited = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-   visited = true;         // Visit node 3 !
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
-   }
- The statement visited = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !) The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-      /* ==============================================
-         Initialize variables for the traversal
-	 ============================================== */
-      for ( i = 0; i < NNodes; i++ )
-      {
-          visited = false;
-      }
-
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
-
-      /* ===========================================
-         Loop as long as there are "active" node
-         =========================================== */
-      while( toVisitNodes ≠ empty )
-      {
-         int nextNode;                // Next node to visit
-         int i;
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-
-         if ( ! visited )
-         {
-            visited = true;    // Mark node as visited
-            System.out.println("nextNode = " + nextNode );
-
-            for ( i = 0; i < NNodes; i++ )
-               if ( adjMatrix > 0 && ! visited )
-                  add( i, toVisitNodes);  
-         }
-      }
- Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next....
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9) Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!! Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again Visitation information How to store information on whether a node has been visited: 
-
-   boolean visited;         // denote whether a node has been visited     
-
-   visited = new boolean;
-
- 
-
-   We use:
-
-     visited = true  to represent node i has been visited
-     visited = false to represent node i has NOT been visited
- Additional information needed to traverse a graph In addition to the visited information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-   Set all nodes to "not visited";
-
-   put an initial node into "toVisitNodes";
-
-   while ( "toVisitNodes" ≠ empty ) do
-   {
-      x = select (and delete) some node from "toVisitNodes";
-
-      if ( x has not been visited )
-      {
-         visited = true;         // Visit node x !
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-            if ( y has not been visited )   
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
-      }
-   }
- Example of traversal Initialization: 
-    Set all nodes to "not visited";
-
-    We start the traversal at node 0             
-    (i.e., insert initial node = 0 into "toVisitNodes")     
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
-   visited = true;         // Visit node 0 !
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
-   }
- The statement visited = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-   visited = true;         // Visit node 3 !
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
-   }
- The statement visited = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !) The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-      /* ==============================================
-         Initialize variables for the traversal
-	 ============================================== */
-      for ( i = 0; i < NNodes; i++ )
-      {
-          visited = false;
-      }
-
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
-
-      /* ===========================================
-         Loop as long as there are "active" node
-         =========================================== */
-      while( toVisitNodes ≠ empty )
-      {
-         int nextNode;                // Next node to visit
-         int i;
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-
-         if ( ! visited )
-         {
-            visited = true;    // Mark node as visited
-            System.out.println("nextNode = " + nextNode );
-
-            for ( i = 0; i < NNodes; i++ )
-               if ( adjMatrix > 0 && ! visited )
-                  add( i, toVisitNodes);  
-         }
-      }
- Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next....
-Introductory problem Given the following graph: where: nodes represents cities and the edges represent the cost (e.g., by train or airplane) to travel between 2 cities (There is no train/airplane) connection between cities that are not connected by an edge) Question: What is the lowest cost path from node 0 to node 2 ? Answer: with cost = 3 + 2 + 1 = 6 In order to find the answer, we would have tried different ways to go from 0 → 2 Example: Unsuccessful attempt 1: (cost = 4 + 4 + 4 + 2 = 14) Unsuccessful attempt 2: (cost = 7 + 2 = 9) Algorithms used to process the information stored in a Graphs data structure Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!! Caveat in graph traversal Unlike trees/linked lits, a graph can have cycles: Warning: If a program blindly follow the links in a graph, the program will loop forever !!! How to avoid executing in an infinite loop: We must maintain some visitation information: When we visit a node, we must mark that node as visited The program must never visit an already visited node again Visitation information How to store information on whether a node has been visited: 
-
-   boolean visited;         // denote whether a node has been visited     
-
-   visited = new boolean;
-
- 
-
-   We use:
-
-     visited = true  to represent node i has been visited
-     visited = false to represent node i has NOT been visited
- Additional information needed to traverse a graph In addition to the visited information (stores whether a node has been visited), we also need: toVisitNodes: This variable contains nodes that can be reached by known edges General algorithm used to visit all nodes in a graph General algorithm that can be used to visit all nodes in a graph using (all) links in the graph: 
-   Set all nodes to "not visited";
-
-   put an initial node into "toVisitNodes";
-
-   while ( "toVisitNodes" ≠ empty ) do
-   {
-      x = select (and delete) some node from "toVisitNodes";
-
-      if ( x has not been visited )
-      {
-         visited = true;         // Visit node x !
-
-         for ( every edge (x, y)  /* we are using all edges ! */ )    
-            if ( y has not been visited )   
-	       add y to "toVisitNodes";    // Use the edge (x,y) !!!
-      }
-   }
- Example of traversal Initialization: 
-    Set all nodes to "not visited";
-
-    We start the traversal at node 0             
-    (i.e., insert initial node = 0 into "toVisitNodes")     
- Graphically: Iteration 1: Select (and delete) a node x from toVisitNodes: (Since toVisitNodes contains only node 0, this node will be selected) Node 0 is not visited, we will execute: 
-   visited = true;         // Visit node 0 !
-
-   for ( every edge (0, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (0,y) !!!
-   }
- The statement visited = true will mark node 0 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 0. The for-loop add these nodes to the variable toVisitNodes: 1, 3, 8 Result: Iteration 2: Select (and delete) a node x from toVisitNodes: (We picked node 3) Node 3 is not visited, we will execute: 
-   visited = true;         // Visit node 3 !
-
-   for ( every edge (3, y)  /* we are using all edges ! */ ) 
-   {   
-       if ( y has not been visited )   
-	   add y to "toVisitNodes";    // Use the edge (3,y) !!!
-   }
- The statement visited = true will mark node 3 as visited (this represents the fact that we are visiting the node !): The for-loop will use the edges that are incident to node 3: ((3,0), (3,2), (3,4)) --- see figure above). But node 0 is visited So node 0 is not added !!! (Otherwise, we will visit node 0 again, and we will keep on going forever !!!) The for-loop adds these nodes to the variable toVisitNodes: 2, 4 Result: I have colored the edges that we have used in red You can see that the algorithm uses all edges in the graph to visit all the nodes. And so on.... (Too long to go through all the steps !) The generic graph traversal algorithm in a Java syntax "Pseudo" Java code: (I cannot be specific on how to store the toVisitNodes yet) 
-      /* ==============================================
-         Initialize variables for the traversal
-	 ============================================== */
-      for ( i = 0; i < NNodes; i++ )
-      {
-          visited = false;
-      }
-
-      add( 0, toVisitNodes);              // Start the "to visit" at node 0
-
-      /* ===========================================
-         Loop as long as there are "active" node
-         =========================================== */
-      while( toVisitNodes ≠ empty )
-      {
-         int nextNode;                // Next node to visit
-         int i;
-
-         nextNode = remove( toVisitNodes );  // Remove a node from "toVisitNodes"   
-
-         if ( ! visited )
-         {
-            visited = true;    // Mark node as visited
-            System.out.println("nextNode = " + nextNode );
-
-            for ( i = 0; i < NNodes; i++ )
-               if ( adjMatrix > 0 && ! visited )
-                  add( i, toVisitNodes);  
-         }
-      }
- Classic graph traversal algorithms There are 2 classic graph traversal algorithms: Breadth First Search (BFS) Depth First Search (DFS) These 2 algorithms differs in: The data structure used to store the nodes in toVisitNodes Facts: Breadth First Search (BFS): uses a queue (First In, First Out) to store the nodes in toVisitNodes Depth First Search (DFS) uses a stack (Last In, First Out) to store the nodes in toVisitNodes We will discuss these algorithms next....
-
-
-
-
-Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!!
-Fact: Graphs are like trees and linked lists: All of them are used to represent some information that is important to solve our problem. In order to process the information stored in a graph, we must visit every node     using            every link of the graph (Just like in a tree or linked list !!!) Terminology: Graph traversal = visiting nodes in a graph using the link information of the graph Note: We must access the links in a graph traversal because the links often contains essential information (e.g., cost) for the problme at head !!!
-Graph traversal = visiting nodes in a graph using the link information of the graph
-Graph traversal = visiting nodes in a graph using the link information of the graph
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+Arrays 1-D Multi-dimensional Stacks Basics of Stacks Queues Basics of Queues Hash Tables Basics of Hash Tables Linked List Singly Linked List Trees Binary/ N-ary Trees Binary Search Tree Heaps/Priority Queues Advanced Data Structures Trie (Keyword Tree) Segment Trees Fenwick (Binary Indexed) Trees Suffix Trees Suffix Arrays Disjoint Data Structures Basics of Disjoint Data Structures
+
+There are mainly three types of tree traversals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview:
+ 
+ 
+Binary Tree:
+Heap:
+ 
+ 
+ 
+ 
+ 
+Overview of Data Structures | Set 1 (Linear Data Structures) Overview of Data Structures | Set 2 (Binary Tree, BST, Heap and Hash) Overview of Data Structures | Set 3 (Graph, Trie, Segment Tree and Suffix Tree)
+Overview of Data Structures | Set 1 (Linear Data Structures) Overview of Data Structures | Set 2 (Binary Tree, BST, Heap and Hash) Overview of Data Structures | Set 3 (Graph, Trie, Segment Tree and Suffix Tree)
+Overview of Data Structures | Set 1 (Linear Data Structures) Overview of Data Structures | Set 2 (Binary Tree, BST, Heap and Hash) Overview of Data Structures | Set 3 (Graph, Trie, Segment Tree and Suffix Tree)
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+
+
+
+
+
+ 
+{
+ 
+ 
+ 
+    {
+        {
+        }
+    }
+ 
+    {
+        {
+        }
+        {
+        }
+    }
+ 
+    {
+        {
+        }
+    }
+ 
+    {
+        {
+        }
+ 
+        {
+        }
+ 
+    }
+ 
+    {
+    }
+}
+ 
+{
+ 
+    {
+        {
+        }
+ 
+    }
+ 
+    {
+        {
+        }
+    }
+ 
+    {
+        {
+        }
+    }
+ 
+    {
+        {
+        }
+ 
+ 
+        {
+        }
+    }
+ 
+    {
+    }
+}
+ 
+{
+    {
+            );
+ 
+ 
+    }
+}
+
+ 
+{
+    {
+ 
+ 
+        {
+        }
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+}
+…
+ 
+{
+    {
+        {
+ 
+            {
+            }
+        }
+    }
+ 
+    {
+    }
+}
+…
+ 
+
+
+
+
+ 
+{
+ 
+ 
+   
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+        {
+        }
+ 
+ 
+        {
+        }
+    }
+}
+ 
+{
+    {
+ 
+ 
+    }
+}
+
+
+
+…
+{
+ 
+ 
+ 
+ 
+    {
+        {
+        }
+ 
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+}
+…
+{
+}
+
+{
+    {
+        // …
+        // …
+    }
+ 
+ 
+    {
+    }
+ 
+    // …
+    // …
+}
+{
+}
+ 
+{
+    {
+    }
+    {
+        {
+        }
+        {
+        }
+    }
+ 
+}
+{
+    {
+        {
+        }
+        {
+        }
+        {
+        }
+    }
+ 
+}
+ 
+{
+}
+
+
+{
+    {
+    }
+}
+ 
+{
+    {
+        {
+        }
+    }
+ 
+ 
+    {
+ 
+        {
+        }
+        {
+            {
+            }
+            {
+            }
+        }
+    }
+    {
+        {
+        }
+        {
+            {
+            }
+            {
+            }
+        }
+    }
+}
+{
+}
+ 
+{
+    {
+    }
+}
+{
+    {
+    }
+}
+
+
+
+
+
+ 
+{
+ 
+    {
+        {
+        }
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+}
+
+{
+    });
+ 
+ 
+    {
+        {
+            {
+            }
+        }
+    }
+ 
+    {
+        {
+            {
+            }
+        }
+    }
+}
+
+
+
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+In this chapter we will discuss tree data structures, like trees and graphs. The abilities of these data structures are really important for the modern programming. Each of this data structures is used for building a model of real life problems, which are efficiently solved using this model. We will explain what tree data structures are and will review their main advantages and disadvantages. We will present example implementations and problems showing their practical usage. We will focus on binary trees, binary search trees and self-balancing binary search tree. We will explain what graph is, the types of graphs, how to represent a graph in the memory (graph implementation) and where graphs are used in our life and in the computer technologies. We will see where in .NET Framework self-balancing binary search trees are implemented and how to use them.
+
+
+
+
+
+ 
+{
+ 
+ 
+ 
+    {
+        {
+        }
+    }
+ 
+    {
+        {
+        }
+        {
+        }
+    }
+ 
+    {
+        {
+        }
+    }
+ 
+    {
+        {
+        }
+ 
+        {
+        }
+ 
+    }
+ 
+    {
+    }
+}
+ 
+{
+ 
+    {
+        {
+        }
+ 
+    }
+ 
+    {
+        {
+        }
+    }
+ 
+    {
+        {
+        }
+    }
+ 
+    {
+        {
+        }
+ 
+ 
+        {
+        }
+    }
+ 
+    {
+    }
+}
+ 
+{
+    {
+            );
+ 
+ 
+    }
+}
+
+ 
+{
+    {
+ 
+ 
+        {
+        }
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+}
+…
+ 
+{
+    {
+        {
+ 
+            {
+            }
+        }
+    }
+ 
+    {
+    }
+}
+…
+ 
+
+
+
+
+ 
+{
+ 
+ 
+   
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+        {
+        }
+ 
+ 
+        {
+        }
+    }
+}
+ 
+{
+    {
+ 
+ 
+    }
+}
+
+
+
+…
+{
+ 
+ 
+ 
+ 
+    {
+        {
+        }
+ 
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+}
+…
+{
+}
+
+{
+    {
+        // …
+        // …
+    }
+ 
+ 
+    {
+    }
+ 
+    // …
+    // …
+}
+{
+}
+ 
+{
+    {
+    }
+    {
+        {
+        }
+        {
+        }
+    }
+ 
+}
+{
+    {
+        {
+        }
+        {
+        }
+        {
+        }
+    }
+ 
+}
+ 
+{
+}
+
+
+{
+    {
+    }
+}
+ 
+{
+    {
+        {
+        }
+    }
+ 
+ 
+    {
+ 
+        {
+        }
+        {
+            {
+            }
+            {
+            }
+        }
+    }
+    {
+        {
+        }
+        {
+            {
+            }
+            {
+            }
+        }
+    }
+}
+{
+}
+ 
+{
+    {
+    }
+}
+{
+    {
+    }
+}
+
+
+
+
+
+ 
+{
+ 
+    {
+        {
+        }
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+ 
+    {
+    }
+}
+
+{
+    });
+ 
+ 
+    {
+        {
+            {
+            }
+        }
+    }
+ 
+    {
+        {
+            {
+            }
+        }
+    }
+}
+
+
+
+Education
+Computer Education for all provides lectures series on types of trees in data structure which covers Introduction to Trees Definitions and Terminology Classification of Trees Application of Trees Data Structures and Applications Types of Trees in Data Structure Trees in data structure pdf Trees in data structure using c Trees in data structure tutorial Trees in data structure ppt Binary search tree in data structure Binary trees in data structure Tree traversal in data structure What is Tree in Data Structure Have a look this helpful video, for more please subscribe https://www.youtube.com/channel/UCiV3...
+Computer Education for all provides lectures series on types of trees in data structure which covers Introduction to Trees Definitions and Terminology Classification of Trees Application of Trees Data Structures and Applications Types of Trees in Data Structure Trees in data structure pdf Trees in data structure using c Trees in data structure tutorial Trees in data structure ppt Binary search tree in data structure Binary trees in data structure Tree traversal in data structure What is Tree in Data Structure Have a look this helpful video, for more please subscribe https://www.youtube.com/channel/UCiV3...
+Computer Education for all provides lectures series on types of trees in data structure which covers Introduction to Trees Definitions and Terminology Classification of Trees Application of Trees Data Structures and Applications Types of Trees in Data Structure Trees in data structure pdf Trees in data structure using c Trees in data structure tutorial Trees in data structure ppt Binary search tree in data structure Binary trees in data structure Tree traversal in data structure What is Tree in Data Structure Have a look this helpful video, for more please subscribe https://www.youtube.com/channel/UCiV3...
+Education
+In linear data structure, data is organized in sequential order and in non-linear data structure, data is organized in random order. Tree is a very popular data structure used in wide range of applications. A tree data structure can be defined as follows...
+In linear data structure, data is organized in sequential order and in non-linear data structure, data is organized in random order. Tree is a very popular data structure used in wide range of applications. A tree data structure can be defined as follows...
+In linear data structure, data is organized in sequential order and in non-linear data structure, data is organized in random order. Tree is a very popular data structure used in wide range of applications. A tree data structure can be defined as follows...
+
+
+
+     
+
+
+
+     
+
+
+
+     
+Linked List Tree Graph Stack, Queue etc.
+Linked List Tree Graph Stack, Queue etc.
+Linked List Tree Graph Stack, Queue etc.
+Linked List Tree Graph Stack, Queue etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Singly linked lists An example of one of the simplest types of graphs is a singly linked list! Now we can start to see the power of the graph data structure, as it can represent very complicated relationships, but also something as simple as a list.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A binary tree is a special kind of tree, one in which all nodes have at most two children. For a given node in a binary tree, the first child is referred to as the left child, while the second child is referred to as the right child. Figure 2 depicts two binary trees.
+A binary tree is a special kind of tree, one in which all nodes have at most two children. For a given node in a binary tree, the first child is referred to as the left child, while the second child is referred to as the right child. Figure 2 depicts two binary trees.
+A binary tree is a special kind of tree, one in which all nodes have at most two children. For a given node in a binary tree, the first child is referred to as the left child, while the second child is referred to as the right child. Figure 2 depicts two binary trees.
 
 
 

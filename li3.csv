@@ -1,36 +1,164 @@
+1 The Node
+2 Building a Chain from Nodes
+3 The Principle of Induction
+4 Induction on a Summation
+5 Asymptotic Notation 5.1 Introduction 5.2 The O Notation 5.2.1 Definition 5.2.2 Theory Examples 5.2.3 Practical Examples 5.3 Big_Omega Notation 5.4 Theta Notation 5.5 Little_O Notation 5.6 Little Omega Notation 5.7 How asymptotic notation relates to analyzing complexity 5.8 A few examples of asymptotic notation
+6 Arrays 6.1 Type 6.2 Bounds 6.3 Bounds check 6.4 Declaring Array Types 6.5 Array Access
+7 Family Structures and Illegitimate Child 7.1 Syntactic Sugar 7.2 Implementations 7.2.1 Singly Linked List 7.2.2 Vector 7.3 Bidirectional Lists 7.4 Doubly Linked List Implementation 7.5 Vector Implementation 7.6 Tradeoffs 7.7 Advantages / Disadvantages
+8 Stacks and Queues 8.1 stack... 8.1.1 Linked List Implementation 8.1.1.1 Performance Analysis 8.2 Applications of Stacks 8.2.1 Converting a decimal number into a binary number 8.2.2 Towers of Hanoi 8.2.2.1 First Implementation 8.2.2.2 Second Implementation 8.2.3 Expression evaluation and syntax parsing 8.2.3.1 Evaluation of an Infix Expression that is Fully Parenthesized 8.2.3.2 Evaluation of Infix Expression which is not fully parenthesized 8.2.3.3 Evaluation of Prefix Expression 8.2.4 Conversion of an Infix expression that is fully parenthesized into a Postfix expression 8.2.5 Rearranging railroad cars 8.2.5.1 Problem Description 8.2.5.2 Solution Strategy 8.2.5.3 A Three Track Example 8.2.6 Quicksort 8.2.7 The Stock Span Problem 8.2.7.1 An algorithm which has Quadratic Time Complexity 8.2.7.2 An algorithm that has Linear Time Complexity 8.3 Related Links 8.4 Queues 8.4.1 Linked List Implementation 8.4.1.1 Performance Analysis 8.4.2 Circular Array Implementation 8.4.2.1 Performance Analysis 8.4.3 Priority Queue Implementation 8.4.4 Related Links 8.5 Deques
+9 References
+10 Trees 10.1 Traversal 10.2 Sample implementations for Tree Traversal 10.3 Examples of Tree Traversals 10.4 Balancing 10.5 Binary Search Trees 10.5.1 Terms 10.5.2 Searching through a binary search tree 10.5.2.1 Example 10.5.3 Adding an item to a binary search tree 10.5.4 Deleting an item from a binary search tree 10.5.4.1 Case 1: The node you want to delete is a leaf 10.5.4.2 Case 2: The node you want to delete has one child 10.5.4.3 Case 3: The node you want to delete has two children 10.5.4.3.1 Case 1 of two_children case: The successor is the right child of the node being deleted 10.5.4.3.2 Case 2 of two_children case: The successor isn't the right child of the node being deleted 10.6 Example extract of java code for binary tree delete operation 10.7 Red_Black trees 10.8 B Trees 10.8.1 Executive Summary 10.8.2 A B tree java example 10.8.3 A B+ tree java example 10.9 Treaps
+11 References
+12 External Links
+13 Compute the extreme value
+14 Removing the Extreme Value
+15 Inserting a value into the heap
+16 TODO
+17 Applications of Priority Heaps
+18 Graphs 18.1 Directed Graphs 18.2 Undirected Graphs 18.3 Weighted Graphs 18.4 Graph Representations 18.4.1 Adjacency Matrix Representation 18.4.2 Adjacency List Representation 18.5 Graph Traversals 18.5.1 Depth_First Search 18.5.2 Breadth_First Search
+19 Hash Tables 19.1 Time complexity and common uses of hash tables 19.2 Choosing a good hash function 19.3 Collision resolution 19.3.1 Chaining 19.3.2 Open addressing 19.3.2.1 Example pseudocode 19.3.3 Open addressing versus chaining 19.3.4 Coalesced hashing 19.3.5 Perfect hashing 19.3.6 Probabilistic hashing 19.4 Table resizing 19.5 Ordered retrieval issue 19.6 Problems with hash tables 19.7 Other hash table algorithms 19.7.1 A simple inference on file storage mapping of linear hashing and extendible hashing 19.8 Implementations 19.8.1 A python implementation of extendible hashing 19.8.2 A Java implementation of extendible hashing 19.8.3 A Java implementation of linear hashing 19.8.3.1 debugging to achieve functionality
+20 List implementation
+21 Bit array implementation
+22 Associative array implementation
+23 References
+10.1 Traversal
+10.2 Sample implementations for Tree Traversal
+10.3 Examples of Tree Traversals
+10.4 Balancing
+10.5 Binary Search Trees 10.5.1 Terms 10.5.2 Searching through a binary search tree 10.5.2.1 Example 10.5.3 Adding an item to a binary search tree 10.5.4 Deleting an item from a binary search tree 10.5.4.1 Case 1: The node you want to delete is a leaf 10.5.4.2 Case 2: The node you want to delete has one child 10.5.4.3 Case 3: The node you want to delete has two children 10.5.4.3.1 Case 1 of two_children case: The successor is the right child of the node being deleted 10.5.4.3.2 Case 2 of two_children case: The successor isn't the right child of the node being deleted
+10.6 Example extract of java code for binary tree delete operation
+10.7 Red_Black trees
+10.8 B Trees 10.8.1 Executive Summary 10.8.2 A B tree java example 10.8.3 A B+ tree java example
+10.9 Treaps
+10.5.1 Terms
+10.5.2 Searching through a binary search tree 10.5.2.1 Example
+10.5.3 Adding an item to a binary search tree
+10.5.4 Deleting an item from a binary search tree 10.5.4.1 Case 1: The node you want to delete is a leaf 10.5.4.2 Case 2: The node you want to delete has one child 10.5.4.3 Case 3: The node you want to delete has two children 10.5.4.3.1 Case 1 of two_children case: The successor is the right child of the node being deleted 10.5.4.3.2 Case 2 of two_children case: The successor isn't the right child of the node being deleted
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction to algorithms in Hindi 
+Characteristics of algorithm in Hindi
+Rules for writing algorithm in Hindi
+Control statements & algorithms in Hindi
+Performance analysis & measurement of algorithm in Hindi
 
 
 
 
  
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Dijkstra's Algorithm for Shortest Path Problem with Example in Hind/English
+Graph Theory in Data Structurewith Example
+Depth First Search Algorithm in with Example
+Breadth First Search Algorithmin with Example
+Chapter 51 Introduction to Graphs in Data Structure Hindi
+Basic Graph Theory Example in Hindi
+[Discrete Math 2] Introduction to Graph Theory
+Prim's algorithm for Minimum Spanning Tree in with Example
+Binary Tree Lecture Class in with Example
+Bubble Sort Algorithmin with Example
+Data structures: Properties of Graphs
+Graph Theory: 04. Families of Graphs
+basics of graph theory in hindi 
+Hashing Techniques Hash Function, Types of Hashing Techniques in Hindi and English
+Basic Concepts in Graph Theory
+Graph theory complete tutorial _ Part #1
+Construction of Heap with Example in Hindi, English
+Stack Class 1 _ PUSH Operation POP Operation with Example in Hindi/English
+Tree in Data Structure in with Example
+AVL Tree _ Rotation in AVL Tree _ Insert Example in AVL Tree in Hindi/English
+Binary Tree Traversal in with Example
+Deletion in Binary Search Treewith Example
+Selection Sort Algorithm in with Example
+Graph Data Structure 1. Terminology and Representation 
+Graphs _ Data Structures in 5 Minutes
+Kruskal algorithm for Minimum Spanning Tree in with Example
+Quick Sort Explanation with Working Example in Hindi and English
+GRAPH ISOMORPHISM 
+Graph Theory _ An Introduction!
+Euler Path Euler Circuit Hindi
+GRAPH THEORY|CIRCUIT SYSTEM|BTECH||CUTSET MATRIX
+Data structures: Introduction to graphs
+136. Directed and Undirected Graph 
+BFS Algorithm And Implementation In Hindi _ Jugaadu Engineering_Saadul
+Types of Data Structures #2 | Data structure and algorithm lectures By Gaincafe.com
+REPRESENTATION OF A GRAPH : BY ADJACENCY LIST
+Chapter 52 Representation of Graph in Data Structure hindi
+Artificial intelligence ai 11: Depth first search dfs definition algorithm and advantage disadv
+Graph Theory for GATE CS by SuperProf Dinesh Singh
+Spanning Trees 
+Binary Search Tree in with Example
+DFS GRAPH Traversal in hindi
+types of graph in graph theory in hindi
+Eulerian path, Eulerian Circuit, Hamiltonian Path & Hamiltonian Circuit
+Graph Theory _1 Introduction
+Lecture _ 11 The Graph Theory Approach for Electrical Circuits
+Chapter 14 Introduction to Tree in Data Structure Hindi
+Graph Theory _17 Adjacency Matrix of a Directed Connected Graph
+Queue in Data Structure in hindi | 04
+Dijkstra's Algorithm for Shortest Path Problem with Example in Hind/English
+Graph Theory in Data Structurewith Example
+Depth First Search Algorithm in with Example
+Breadth First Search Algorithmin with Example
+Chapter 51 Introduction to Graphs in Data Structure Hindi
+Basic Graph Theory Example in Hindi
+[Discrete Math 2] Introduction to Graph Theory
+Prim's algorithm for Minimum Spanning Tree in with Example
+Binary Tree Lecture Class in with Example
+Bubble Sort Algorithmin with Example
+Data structures: Properties of Graphs
+Graph Theory: 04. Families of Graphs
+basics of graph theory in hindi 
+Hashing Techniques Hash Function, Types of Hashing Techniques in Hindi and English
+Basic Concepts in Graph Theory
+Graph theory complete tutorial _ Part #1
+Construction of Heap with Example in Hindi, English
+Stack Class 1 _ PUSH Operation POP Operation with Example in Hindi/English
+Tree in Data Structure in with Example
+AVL Tree _ Rotation in AVL Tree _ Insert Example in AVL Tree in Hindi/English
+Binary Tree Traversal in with Example
+Deletion in Binary Search Treewith Example
+Selection Sort Algorithm in with Example
+Graph Data Structure 1. Terminology and Representation 
+Graphs _ Data Structures in 5 Minutes
+Kruskal algorithm for Minimum Spanning Tree in with Example
+Quick Sort Explanation with Working Example in Hindi and English
+GRAPH ISOMORPHISM 
+Graph Theory _ An Introduction!
+Euler Path Euler Circuit Hindi
+GRAPH THEORY|CIRCUIT SYSTEM|BTECH||CUTSET MATRIX
+Data structures: Introduction to graphs
+136. Directed and Undirected Graph 
+BFS Algorithm And Implementation In Hindi _ Jugaadu Engineering_Saadul
+Types of Data Structures #2 | Data structure and algorithm lectures By Gaincafe.com
+REPRESENTATION OF A GRAPH : BY ADJACENCY LIST
+Chapter 52 Representation of Graph in Data Structure hindi
+Artificial intelligence ai 11: Depth first search dfs definition algorithm and advantage disadv
+Graph Theory for GATE CS by SuperProf Dinesh Singh
+Spanning Trees 
+Binary Search Tree in with Example
+DFS GRAPH Traversal in hindi
+types of graph in graph theory in hindi
+Eulerian path, Eulerian Circuit, Hamiltonian Path & Hamiltonian Circuit
+Graph Theory _1 Introduction
+Lecture _ 11 The Graph Theory Approach for Electrical Circuits
+Chapter 14 Introduction to Tree in Data Structure Hindi
+Graph Theory _17 Adjacency Matrix of a Directed Connected Graph
+Queue in Data Structure in hindi | 04
+All the titles clearly mention the approximate dispatch time from our warehouse from date of your order receipt. The dispatch details are:
+1_3 days:
+3_7 days:
+10_14 days:
+Out of stock
+Pre_Order

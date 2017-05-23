@@ -1,24 +1,18 @@
-.
-No extractions found.
+In this traversal method, the left subtree is visited first, then the root and later the right sub_tree.
+0.564: (the left subtree; is visited first then; the root)
+0.51: (the left subtree; is visited first then the root and later the right sub tree in; this traversal method)
 
-.
-No extractions found.
+ We should always remember that every node may represent a subtree itself.
+0.627: (every node; may represent; a subtree)[attrib=We should always remember]
 
-Strictly, a flat file database should consist of nothing but data and, if records vary in length, delimiters.
-0.793: (a flat file database; Strictly should consist of; nothing)
-0.162: (records; vary in; length)
+If a binary tree is traversed in_order, the output will produce sorted key values in an ascending order.
+0.823: (the output; will produce sorted key values in; an ascending order)[enabler=If a binary tree is traversed in_order]
+0.785: (the output; will produce sorted; key values)[enabler=If a binary tree is traversed in_order]
+0.116: (a binary tree; is traversed; in_order)
 
- More broadly, the term refers to any database which exists in a single file in the form of rows and columns, with no relationships or links between records and fields except the table structure.
-0.847: (the term; More broadly refers to; any database which exists in a single file in the form of rows and columns)
-0.767: (any database; exists in; a single file)
-0.757: (any database; exists in; the form of rows)
-0.717: (the term; More broadly refers with; no relationships or links)
-
-.
-No extractions found.
-
-.
-No extractions found.
+In this traversal method, the root node is visited first, then the left subtree and finally the right subtree.
+0.564: (the root node; is visited first then; the left subtree)
+0.51: (the root node; is visited first then the left subtree and finally the right subtree in; this traversal method)
 
 .
 No extractions found.
@@ -26,56 +20,14 @@ No extractions found.
 .
 No extractions found.
 
-The network model expands upon the hierarchical structure, allowing manytomany relationships in a treelike structure that allows multiple parents.
-0.855: (The network model; expands upon; the hierarchical structure)
-0.627: (The network model; expands allowing; manytomany relationships)
-0.62: (multiple parents; be allows by; a treelike structure)
+These searches are referred to as depth_first search , as the search tree is deepened as much as possible on each child before going to the next sibling.
+0.874: (These searches; are referred as; depth_first search)
+0.874: (These searches; are referred as; the search tree)
 
- It was most popular before being replaced by the relational model, and is defined by the CODASYL specification.
-0.649: (It; was; popular)
-0.602: (It; is defined by; the CODASYL specification)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-A set consists of circular linked lists where one record type, the set owner or parent, appears once in each circle, and a second record type, the subordinate or child, may appear multiple times in each circle.
-0.908: (a second record type; may appear multiple times in; each circle)
-0.874: (A set; may appear multiple times in; each circle)
-0.809: (one record type; appears once in; each circle)
-0.772: (a second record type; may appear; multiple times)
-0.758: (A set; consists may of; circular linked lists where one record type , the set owner or parent , appears once in each circle)
-0.703: (A set; may appear; multiple times)
-0.686: (a second record type; consists may of; circular linked lists where one record type , the set owner or parent , appears once in each circle)
-
- In this way a hierarchy may be established between any two record types, e.
-0.894: (a hierarchy; may be established between; any two record types)
-0.754: (a hierarchy; may be established in; this way)
-
-g.
-No extractions found.
-
-, type A is the owner of B.
-No extractions found.
-
- At the same time another set may be defined where B is the owner of A.
-0.858: (B; is the owner of; A.)
-0.754: (another set; may be defined at; the same time)
-0.619: (B; is; the owner of A.)
-
- Thus all the sets comprise a general directed graph , or network construct.
-No extractions found.
-
- Access to records is either sequential  or by navigation in the circular linked lists.
-0.754: (Access; is; sequential or by)
+ For a binary tree, they are defined as display operations recursively at each node, starting with the root, whose algorithm is as follows: .
+0.889: (they; are defined recursively as; display operations)
+0.889: (they; are defined recursively at; each node)
+0.788: (they; are defined recursively for; a binary tree)
 
 .
 No extractions found.
@@ -89,31 +41,23 @@ No extractions found.
 .
 No extractions found.
 
+Recursively traverse its left subtree.
+No extractions found.
+
+ When this step is finished you are back at N again.
+0.71: (you; are back again at; N)
+
 .
 No extractions found.
 
 .
 No extractions found.
 
-A flat database is a simple database system in which each database is represented as a single table in which all of the records are stored as single rows of data, which are separated by delimiters such as tabs or commas.
-0.927: (each database; is represented as; a single table in which all of the records are stored as single rows of data ,)
-0.825: (A flat database; is; a simple database system in which each database is represented as a single table)
-0.655: (each database; is represented in; a simple database system)
+Unlike linear data structures which have only one logical way to traverse them, trees can be traversed in different ways.
+0.914: (trees; can be traversed in; different ways)
+0.838: (trees; can be traversed unlike; linear data structures which have only one logical way)
 
- The table is usually stored and physically represented as a simple text file.
-0.898: (The table; be physically represented as; a simple text file)
-
- Because of the limitations of flat databases, they are not unsuitable for most software applications in which there is a need to represent and store complex business relationships.
-0.883: (they; are not unsuitable for; most software applications)
-0.761: (they; are not unsuitable of; the limitations of flat databases)
-
- However, some application developers still use flat files in order to reduce the cost and complexity of integrating a relational database.
-0.739: (some application developers; However still use; flat files)
-
- Flat databases are also sometimes referred to as flatfile databases.
-0.892: (Flat databases; are also sometimes referred as; flatfile databases)
-
-.
+ Following are the generally used ways for traversing trees.
 No extractions found.
 
 .
@@ -122,6 +66,94 @@ No extractions found.
 .
 No extractions found.
 
+Displaying visiting order of nodes in a binary tree is called as Binary Tree Traversal.
+No extractions found.
+
+There are three types of binary tree traversals.
+No extractions found.
+
+Now that we have examined the basic functionality of our tree data structure, it is time to look at some additional usage patterns for trees.
+0.537: (it; Now that we have examined the basic functionality our tree data structure is; time to look at some additional usage patterns for trees)
+0.508: (we; have examined; the basic functionality of our tree data structure)
+
+ These usage patterns can be divided into the three ways that we access the nodes of the tree.
+0.929: (These usage patterns; can be divided into; the three ways)
+
+ There are three commonly used patterns to visit all the nodes in a tree.
+0.743: (three commonly used patterns to visit; be all the nodes in; a tree)
+
+ The difference between these patterns is the order in which each node is visited.
+0.768: (The difference; is; the order in which each node is visited)
+0.655: (each node; is visited in; the order)
+0.426: (the order in which each node is visited; be The difference between; these patterns)
+
+ We call this visitation of the nodes a “traversal.
+0.64: (We; call; this visitation of the nodes)
+
+” The three traversals we will look at are called preorder, inorder, and postorder.
+No extractions found.
+
+ Let’s start out by defining these three traversals more carefully, then look at some examples where these patterns are useful.
+No extractions found.
+
+Let’s look at some examples that illustrate each of these three kinds of traversals.
+0.864: ('s; look at; some examples that illustrate each of these three kinds of traversals)
+
+ First let’s look at the preorder traversal.
+0.757: ('s; look at; the preorder traversal)
+
+ As an example of a tree to traverse, we will represent this book as a tree.
+0.757: (we; will represent this book as; a tree)
+0.711: (we; will represent; this book)
+0.708: (this book; will be represent as; a tree)
+0.702: (we; will represent this book as; an example of a tree)
+0.647: (this book; will be represent as; an example of a tree)
+
+ The book is the root of the tree, and each chapter is a child of the root.
+0.926: (the root of the tree , and each chapter; is a child of; the root)
+0.913: (The book; is the root of; the tree)
+0.768: (the root of the tree , and each chapter; is; a child of the root)
+0.736: (The book; is; the root of the tree , and each chapter)
+
+ Each section within a chapter is a child of the chapter, and each subsection is a child of its section, and so on.
+0.877: (each subsection; is a child of; its section)
+0.793: (Each section; is a child of; its section)
+0.741: (Each section; is a child so on of; the chapter)
+0.723: (each subsection; is a child so on of; the chapter)
+0.711: (Each section; is; a child of the chapter , and each subsection is a child of its section)
+0.626: (Each section; is so on; a child of the chapter , and each subsection is a child of its section)
+0.539: (a child of the chapter , and each subsection is a child of its section; be Each section within; a chapter)
+
+ Figure 5 shows a limited version of a book with only two chapters.
+0.821: (Figure 5; shows; a limited version of a book)
+
+ Note that the traversal algorithm works for trees with any number of children, but we will stick with binary trees for now.
+0.821: (we; will stick with; binary trees)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Traversing a tree in breadth_first order means that after visiting a node X, all of X's children are visited, then all of X's 'grand_children' (i.
+No extractions found.
+
+e.
+No extractions found.
+
+ the children's children), then all of X's 'great_grand_children', etc.
+No extractions found.
+
+ In other words, the tree is traversed by sweeping through the breadth of a level before visiting the next level down, as shown in this animation:.
+0.754: (the tree; is traversed in; other words)[enabler=as shown in this animation]
+
 .
 No extractions found.
 
@@ -140,7 +172,19 @@ No extractions found.
 .
 No extractions found.
 
-     .
+.
+No extractions found.
+
+.
+No extractions found.
+
+which can be implemented as follows, using the tree data structure defined in the previous unit:.
+0.742: (the tree data structure; be defined in; the previous unit)
+
+which can be implemented as:.
+No extractions found.
+
+which can be implemented as:.
 No extractions found.
 
 .
@@ -155,105 +199,417 @@ No extractions found.
 .
 No extractions found.
 
-     .
+.
 No extractions found.
 
-Hierarchical Model.
+.
 No extractions found.
 
-Network Model.
+.
 No extractions found.
 
-Relational Model.
+.
 No extractions found.
 
-Here is an example showing how to implement WFS Simple with a flat database in 3 easy steps.
-0.757: (WFS Simple; to be implement with; a flat database)
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+What I've just called ``scanning through'' a tree is actually called traversing a tree.
+0.655: (a tree; is actually called in; scanning)
+0.585: (I; 've just called; scanning a tree is actually called traversing a tree)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+For a specific data structure, we talk about the different orders in which it might be traversed.
+0.695: (we; talk about; the different orders in which it might be traversed)
+0.542: (it; might be traversed in; the different orders)
+0.38: (we; talk for; a specific data structure)
+
+ For a list there are two common traversal orders: first_to_last and last_to_first.
+0.569: (two common traversal orders; are for; a list)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Unlike linear data structures like Array, Linked List, Queues, Stacks etc.
+0.345: (Linked List; be linear data structures like; Array)
+0.345: (Queues; be linear data structures like; Array)
+
+ which have only one logical way to traverse them, trees can be traversed in 2 different ways.
+0.914: (trees; can be traversed in; 2 different ways)
+
+Depth First Traversal : Traverse depth wise . It includes these three_.
+0.678: (It; includes; these three_)
+0.564: (these three_; be includes by; Traverse depth wise)
+
+.
+No extractions found.
+
+What is the difference between a AVL tree and a binary search tree?.
+No extractions found.
+
+What are the advantages of B+ Trees over B Trees?.
+No extractions found.
+
+What is traversing?.
+No extractions found.
+
+What is the difference between a tree and a forest in graph theory?.
+No extractions found.
+
+What is the difference between a tree, a prefix tree, and a radix tree?.
+0.351: (a radix tree; be the difference between; a tree)
+
+Does the order in a B_tree change as we traverse down the levels?.
+No extractions found.
+
+How do tries differ from binary search trees?.
+No extractions found.
+
+What is the difference between MHR_tree and R_tree?.
+No extractions found.
+
+How do I perform a post_order traversal on a binary tree?.
+0.708: (a post_order traversal; do perform on; a binary tree)
+0.626: (I; do perform a post order traversal on; a binary tree)
+0.569: (I; do perform; a post_order traversal)
+
+How does the technique of Binary Indexed Tree work and in what kind of problems is it useful?.
+0.603: (the technique of Binary Indexed Tree work and in; does is; useful)
+0.384: (useful; be the technique of; Binary Indexed Tree work)
+0.336: (it; does is; useful)
+
+What is the difference between a binary tree and a regular binary tree?.
+No extractions found.
+
+What is the techniques of indexing tree?.
+No extractions found.
+
+Is there a way to do a BFS traversal of a binary tree with recursion ?.
+No extractions found.
+
+How is a Huffman Tree different from an Optimal binary search tree?.
+No extractions found.
+
+How do I remember preorder, postorder and inorder traversal?.
+0.531: (I; do remember; preorder , postorder and inorder traversal)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+If you know that the tree has an inherent sequence in the nodes, and you want to flatten the tree back into its original sequence, than an in_order traversal should be used.
+0.795: (you; want to flatten the tree back into; its original sequence)
+0.665: (you; want than; an in_order traversal)
+0.661: (the tree; has; an inherent sequence)[attrib=you know should]
+0.648: (you; want to flatten back; the tree)
+0.581: (the tree; to be flatten back into; its original sequence)
+
+ The tree would be flattened in the same way it was created.
+0.89: (The tree; would be flattened in; the same way it was created)
+0.376: (it; was created in; the same way)
+
+ A pre_order or post_order traversal might not unwind the tree back into the sequence which was used to create it.
+0.43: (A pre_order or post_order traversal; might not unwind back into the sequence which was used to create it; the tree)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+General Definition: to traverse a tree data structure is to process, however you like, every node in the data structure exactly once.
+No extractions found.
+
+.
+No extractions found.
+
+For a specific tree data structure, we have different orders in which they might be traversed.
+0.726: (they; might be traversed in; different orders)
+0.606: (we; have; different orders in which they might be traversed)
+0.45: (we; have different orders in which they might be traversed for; a specific tree data structure)
+
+ So for the list abstract data structure there were two common traversal orders: first_to_last and last_to_first.
+0.72: (two common traversal orders; So were for; the list abstract data structure)
+
+ This traversal method is applicable to all linear data structures.
+0.832: (This traversal method; is applicable to; all linear data structures)
+0.746: (This traversal method; is; applicable)
+
+ So now let us consider each approach on a sample binary tree.
+0.711: (us; consider; each approach)
+
+ In the example tree the nodes are numbered in the order that they will be processed.
+0.925: (the nodes; are numbered in; the order)
+
+ We start off with the pre_order traversal.
+0.752: (We; start off with; the pre_order traversal)
+
+.
+No extractions found.
+
+We will examine how a common data structure can be used to help traverse a tree in breadth_first order.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Move the type definition for treeNodeT into queue.h. Then we could do: 
+0.85: (the type definition; be Move for; treeNodeT)
+0.794: (the type definition; be Move into; queue .h)
+
+typedef treeNodeT *queueElementT;
+No extractions found.
+
+ That would work since we'd get the type treeNodeT in tree.c when we include queue.h. It's not ideal though, since treeNodeT really belongs in the tree implementation file..
+0.721: (treeNodeT; really belongs in; the tree implementation file)
+0.563: (It; 's; not ideal)
+0.533: (we; include; queue .h)
+0.476: (we; 'd get; the type treeNodeT)[enabler=when we include queue .h]
+
+Leave treeNodeT in tree.c, but refer to it in queue.h. Remember that we can refer to a pointer to a structure that is not defined, as in: 
+0.794: (treeNodeT; be Leave in; tree .c)
+0.742: (we; can refer to; a pointer)
+0.662: (we; can refer to; a structure that is not defined)
+
+typedef struct treeNodeTag *queueElementT;
+No extractions found.
+
+ As long as we don't try to dereference that pointer. That would work because the queue will just store these pointers, not dereference them..
+0.557: (the queue; will just store; these pointers)
+0.409: (we; to dereference; that pointer)
+0.351: (we; do n't try to dereference; that pointer)
+
+Finally, we could use the generic pointer type, void *, as the element type. A void * can take on the value of any pointer , so we could use it to store the value of a treeNodeT *..
+0.677: (the generic pointer type; Finally could be use A void * as; the element type)
+0.677: (the generic pointer type; Finally could be use void * as; the element type)
+0.677: (void *; Finally could be use A void * as; the element type)
+0.677: (void *; Finally could be use the generic pointer type as; the element type)
+0.592: (we; Finally could use A void * as; the element type)
+0.592: (we; Finally could use the generic pointer type as; the element type)
+0.592: (we; Finally could use void * as; the element type)
+0.579: (we; could use it to store; the value of a treeNodeT)
+0.548: (we; to store; the value of a treeNodeT)
+0.507: (A void *; Finally could be use the generic pointer type as; the element type)
+0.507: (A void *; Finally could be use void * as; the element type)
+0.495: (we; Finally could use A void *; the generic pointer type)
+0.495: (we; Finally could use A void *; void *)
+0.495: (we; Finally could use the generic pointer type; A void *)
+0.495: (we; Finally could use the generic pointer type; void *)
+0.495: (we; Finally could use void *; A void *)
+0.495: (we; Finally could use void *; the generic pointer type)
+0.463: (we; could use; it)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Move the type definition for treeNodeT into queue.h. Then we could do: 
+0.85: (the type definition; be Move for; treeNodeT)
+0.794: (the type definition; be Move into; queue .h)
+
+typedef treeNodeT *queueElementT;
+No extractions found.
+
+ That would work since we'd get the type treeNodeT in tree.c when we include queue.h. It's not ideal though, since treeNodeT really belongs in the tree implementation file..
+0.721: (treeNodeT; really belongs in; the tree implementation file)
+0.563: (It; 's; not ideal)
+0.533: (we; include; queue .h)
+0.476: (we; 'd get; the type treeNodeT)[enabler=when we include queue .h]
+
+Leave treeNodeT in tree.c, but refer to it in queue.h. Remember that we can refer to a pointer to a structure that is not defined, as in: 
+0.794: (treeNodeT; be Leave in; tree .c)
+0.742: (we; can refer to; a pointer)
+0.662: (we; can refer to; a structure that is not defined)
+
+typedef struct treeNodeTag *queueElementT;
+No extractions found.
+
+ As long as we don't try to dereference that pointer. That would work because the queue will just store these pointers, not dereference them..
+0.557: (the queue; will just store; these pointers)
+0.409: (we; to dereference; that pointer)
+0.351: (we; do n't try to dereference; that pointer)
+
+Finally, we could use the generic pointer type, void *, as the element type. A void * can take on the value of any pointer , so we could use it to store the value of a treeNodeT *..
+0.677: (the generic pointer type; Finally could be use A void * as; the element type)
+0.677: (the generic pointer type; Finally could be use void * as; the element type)
+0.677: (void *; Finally could be use A void * as; the element type)
+0.677: (void *; Finally could be use the generic pointer type as; the element type)
+0.592: (we; Finally could use A void * as; the element type)
+0.592: (we; Finally could use the generic pointer type as; the element type)
+0.592: (we; Finally could use void * as; the element type)
+0.579: (we; could use it to store; the value of a treeNodeT)
+0.548: (we; to store; the value of a treeNodeT)
+0.507: (A void *; Finally could be use the generic pointer type as; the element type)
+0.507: (A void *; Finally could be use void * as; the element type)
+0.495: (we; Finally could use A void *; the generic pointer type)
+0.495: (we; Finally could use A void *; void *)
+0.495: (we; Finally could use the generic pointer type; A void *)
+0.495: (we; Finally could use the generic pointer type; void *)
+0.495: (we; Finally could use void *; A void *)
+0.495: (we; Finally could use void *; the generic pointer type)
+0.463: (we; could use; it)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Traversal is the method of processing each and every node in the Binary Search Tree exactly once in a systematic manner.
+0.817: (Traversal; is; the method processing each and every node in the Binary Search Tree exactly once in a systematic manner)
+0.516: (each and every node; be processing exactly once in a systematic manner in; the Binary Search Tree)
+
+ There are three different types of tree traversal.
+No extractions found.
+
+ Preorder Traversal In order Traversal Post order Traversal.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Algorithm:.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+In the case of pointer to node, we have to explicitly allocate memory of node type to the pointer.
+0.757: (we; have to explicitly allocate; memory of node type)
+0.626: (we; have in; the case of pointer)
 
  .
 No extractions found.
 
- .
-No extractions found.
-
- .
-No extractions found.
-
 .
 No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Types of database models.
-No extractions found.
-
-Relational model.
-No extractions found.
-
-Hierarchical model.
-No extractions found.
-
-Network model.
-No extractions found.
-
-Object-oriented database model.
-No extractions found.
-
-Object-relational model.
-No extractions found.
-
-Entity-relationship model.
-No extractions found.
-
-Other database models.
-No extractions found.
-
-NoSQL database models.
-No extractions found.
-
-Databases on the Web.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Alternatively referred to as a flat database or text database, a flat file is a file of data that does not contain links to other files or is a nonrelational database.
-No extractions found.
-
- A good example of a flat file is a single textonly file that contains all the data needed for a program that is often separated by some kind of delimiter.
-0.86: (all the data; be needed for; a program that is often separated by some kind of delimiter)
-0.698: (A good example of a flat file; is; a single textonly file that contains all the data)
-0.564: (all the data needed for a program; be contains by; a single textonly file)
-0.492: (a single textonly file that contains all the data; be A good example of; a flat file)
 
