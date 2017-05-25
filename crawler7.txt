@@ -1,0 +1,390 @@
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;     .
+0;Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way.
+0; Data Structures is about rendering data elements in terms of some relationship, for better organization and storage.
+0; For example, we have data player s name  Virat  and age 26.
+0; Here  Virat  is of String data type and 26 is of integer data type.
+0;     .
+0;NOTE.
+0; Before going deep into data structure, you should have a good knowledge of programming either in C or in C   or Java.
+0;C  .
+0;C  .
+0;     .
+0;An introduction to the topic of computer science.
+0;Base Systems _ Binary, Hex and Octal.
+0;The Halting Problem Not for the faint of heart , this tutorial covers an advanced topic in computer science  the nature of what can and cannot be computed __ what types of problems computers simply cannot solve.
+0;What We Cannot Know  Consequences of the Halting Problem.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Other Programming Languages    Data Structure _ Part 2.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;This is a list of data structures.
+0; For a wider list of terms, see list of terms relating to algorithms and data structures.
+0; For a comparison of running time of subset of this list see comparison of data structures.
+0;Some properties of abstract data types.
+0;A data structure is said to be linear if its elements form a sequence.
+0;In these data structures each tree node compares a bit slice of key values.
+0; Trie.
+0; Radix tree.
+0; Suffix tree.
+0; Suffix array.
+0; Compressed suffix array.
+0; FM_index.
+0; Generalised suffix tree.
+0; B_trie.
+0; Judy array.
+0; X_fast trie.
+0; Y_fast trie.
+0; Merkle Tree.
+0; Ctrie.
+0;These are data structures used for space partitioning or binary space partitioning.
+0; Segment tree.
+0; Interval tree.
+0; Range tree.
+0; Bin.
+0; K_d tree.
+0; Implicit k_d tree.
+0; Min max k_d tree.
+0; Relaxed k_d tree.
+0; Adaptive k_d tree.
+0; Quadtree.
+0; Octree.
+0; Linear octree.
+0; Z_order.
+0; UB_tree.
+0; R_tree.
+0; R  tree.
+0; R  tree.
+0; Hilbert R_tree.
+0; X_tree.
+0; Metric tree.
+0; Cover tree.
+0; M_tree.
+0; VP_tree.
+0; BK_tree.
+0; Bounding interval hierarchy.
+0; Bounding volume hierarchy.
+0; BSP tree.
+0; Rapidly exploring random tree.
+0;1 Data types 1 1 Primitive types 1 2 Composite types or Non_primitive type 1 3 Abstract data types.
+0;2 Linear data structures 2 1 Arrays 2 2 Lists.
+0;3 Trees 3 1 Binary trees 3 2 B_trees 3 3 Heaps 3 4 Trees 3 5 Multiway trees 3 6 Space_partitioning trees 3 7 Application_specific trees.
+0;4 Hashes.
+0;5 Graphs.
+0;6 Other.
+0;7 External links.
+0;1 1 Primitive types.
+0;1 2 Composite types or Non_primitive type.
+0;1 3 Abstract data types.
+0;2 1 Arrays.
+0;2 2 Lists.
+0;3 1 Binary trees.
+0;3 2 B_trees.
+0;3 3 Heaps.
+0;3 4 Trees.
+0;3 5 Multiway trees.
+0;3 6 Space_partitioning trees.
+0;3 7 Application_specific trees.
+0;Boolean, true or false.
+0;Character.
+0;Floating_point, single_precision real number values.
+0;Double, a wider floating_point size.
+0;Integer, integral or fixed_precision values.
+0;String, a sequence of characters.
+0;Reference , a small value referring to another object s address in memory, possibly a much larger one .
+0;Enumerated type, a small set of uniquely_named values.
+0;Array.
+0;Record .
+0;Union.
+0;Tagged union .
+0;Container.
+0;List.
+0;Associative array.
+0;Multimap.
+0;Set.
+0;Bag.
+0;Multiset.
+0;Stack.
+0;Queue.
+0;Double_ended queue.
+0;Priority queue.
+0;Tree.
+0;Graph.
+0;Array.
+0;Bit array.
+0;Bit field.
+0;Bitboard.
+0;Bitmap.
+0;Circular buffer.
+0;Control table.
+0;Image.
+0;Dope vector.
+0;Dynamic array.
+0;Gap buffer.
+0;Hashed array tree.
+0;Heightmap.
+0;Lookup table.
+0;Matrix.
+0;Parallel array.
+0;Sorted array.
+0;Sparse matrix.
+0;Iliffe vector.
+0;Variable_length array.
+0;Doubly linked list.
+0;Array list.
+0;Linked list.
+0;Self_organizing list.
+0;Skip list.
+0;Unrolled linked list.
+0;VList.
+0;Conc_Tree list.
+0;Xor linked list.
+0;Zipper.
+0;Doubly connected edge list.
+0;Difference list.
+0;Free list.
+0;AA tree.
+0;AVL tree.
+0;Binary search tree.
+0;Binary tree.
+0;Cartesian tree.
+0;Left_child right_sibling binary tree.
+0;Order statistic tree.
+0;Pagoda.
+0;Randomized binary search tree.
+0;Red black tree.
+0;Rope.
+0;Scapegoat tree.
+0;Self_balancing binary search tree.
+0;Splay tree.
+0;T_tree.
+0;Tango tree.
+0;Threaded binary tree.
+0;Top tree.
+0;Treap.
+0;WAVL tree.
+0;Weight_balanced tree.
+0;B_tree.
+0;B  tree.
+0;B _tree.
+0;B sharp tree.
+0;Dancing tree.
+0;2_3 tree.
+0;2_3_4 tree.
+0;Queap.
+0;Fusion tree.
+0;Bx_tree.
+0;AList.
+0;Heap.
+0;Binary heap.
+0;Weak heap.
+0;Binomial heap.
+0;Fibonacci heap AF_heap.
+0;Leonardo Heap.
+0;2_3 heap.
+0;Soft heap.
+0;Pairing heap.
+0;Leftist heap.
+0;Treap.
+0;Beap.
+0;Skew heap.
+0;Ternary heap.
+0;D_ary heap.
+0;Brodal queue.
+0;AF_heap.
+0;Ternary tree.
+0;K_ary tree.
+0;And or tree.
+0;_tree.
+0;Link cut tree.
+0;SPQR_tree.
+0;Spaghetti stack.
+0;Disjoint_set data structure.
+0;Fusion tree.
+0;Enfilade.
+0;Exponential tree.
+0;Fenwick tree.
+0;Van Emde Boas tree.
+0;Rose tree.
+0;Abstract syntax tree.
+0;Parse tree.
+0;Decision tree.
+0;Alternating decision tree.
+0;Minimax tree.
+0;Expectiminimax tree.
+0;Finger tree.
+0;Expression tree.
+0;Log_structured merge_tree.
+0;Lexicographic Search Tree.
+0;Bloom filter.
+0;Count_Min sketch.
+0;Distributed hash table.
+0;Double Hashing.
+0;Dynamic perfect hash table.
+0;Hash array mapped trie.
+0;Hash list.
+0;Hash table.
+0;Hash tree.
+0;Hash trie.
+0;Koorde.
+0;Prefix hash tree.
+0;Rolling hash.
+0;MinHash.
+0;Quotient filter.
+0;Ctrie.
+0;Graph.
+0;Adjacency list.
+0;Adjacency matrix.
+0;Graph_structured stack.
+0;Scene graph.
+0;Binary decision diagram.
+0;Zero_suppressed decision diagram.
+0;And_inverter graph.
+0;Directed graph.
+0;Directed acyclic graph.
+0;Propositional directed acyclic graph.
+0;Multigraph.
+0;Hypergraph.
+0;Lightmap.
+0;Winged edge.
+0;Doubly connected edge list.
+0;Quad_edge.
+0;Routing table.
+0;Symbol table.
+0;v.
+0;t.
+0;e.
+0;Collection.
+0;Container.
+0;Associative array Multimap.
+0;List.
+0;Stack.
+0;Queue Double_ended queue.
+0;Priority queue Double_ended priority queue.
+0;Set Multiset Disjoint_set.
+0;Multimap.
+0;Double_ended queue.
+0;Double_ended priority queue.
+0;Multiset.
+0;Disjoint_set.
+0;Bit array.
+0;Circular buffer.
+0;Dynamic array.
+0;Hash table.
+0;Hashed array tree.
+0;Sparse matrix.
+0;Association list.
+0;Linked list.
+0;Skip list.
+0;Unrolled linked list.
+0;XOR linked list.
+0;B_tree.
+0;Binary search tree AA tree AVL tree Red black tree Self_balancing tree Splay tree.
+0;Heap Binary heap Binomial heap Fibonacci heap.
+0;R_tree R  tree R  tree Hilbert R_tree.
+0;Trie Hash tree.
+0;AA tree.
+0;AVL tree.
+0;Red black tree.
+0;Self_balancing tree.
+0;Splay tree.
+0;Binary heap.
+0;Binomial heap.
+0;Fibonacci heap.
+0;R  tree.
+0;R  tree.
+0;Hilbert R_tree.
+0;Hash tree.
+0;Binary decision diagram.
+0;Directed acyclic graph.
+0;Directed acyclic word graph.
+0;List of data structures.
+0;Tommy Benchmarks Comparison of several data structures .
+0;Data structures.
+0;Computing_related lists.
+0;Not logged in.
+0;Talk.
+0;Contributions.
+0;Create account.
+0;Log in.
+0;Article.
+0;Talk.
+0;Read.
+0;Edit.
+0;View history.
+0;Main page.
+0;Contents.
+0;Featured content.
+0;Current events.
+0;Random article.
+0;Donate to Wikipedia.
+0;Wikipedia store.
+0;Help.
+0;About Wikipedia.
+0;Community portal.
+0;Recent changes.
+0;Contact page.
+0;What links here.
+0;Related changes.
+0;Upload file.
+0;Special pages.
+0;Permanent link.
+0;Page information.
+0;Wikidata item.
+0;Cite this page.
+0;Create a book.
+0;Download as PDF.
+0;Printable version.
+0;     .
+0;      .
+0;Italiano.
+0;Magyar.
+0;       .
+0;   .
+0;T rk e.
+0;          .
+0;Ti ng Vi t.
+0;  .
+0;This page was last edited on 30 April 2017, at 15 25 .
+0;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization .
+0;Privacy policy.
+0;About Wikipedia.
+0;Disclaimers.
+0;Contact Wikipedia.
+0;Developers.
+0;Cookie statement.
+0;Mobile view.
+0;.
+0;.
+0;Some properties of abstract data types.
+0;Double_ended queue.
+0;.
+0;.
+0;Simply you can group various built_in data types into a structure.
+0;A structure in C is a collection of items of different types  You can think of a structure as a  record  is in Pascal or a class in Java without methods .
+0;Structures, or structs, are very useful in creating data structures larger and more complex than the ones we have discussed so far .
+0;Simply you can group various built_in data types into a structure .
+0;Object conepts was derived from Structure concept  You can achieve few object oriented goals using C structure but it is very complex .

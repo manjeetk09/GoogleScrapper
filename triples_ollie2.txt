@@ -1,366 +1,4 @@
-A hierarchical database model is a data model in which the data is organized into a tree_like structure.
-0.914: (the data; is organized into; a tree_like structure)
-0.802: (A hierarchical database model; is; a data model in which the data is organized into a tree_like structure)
-0.71: (the data; is organized in; a data model)
-
- The data is stored as records which are connected to one another through links.
-0.948: (The data; is stored as; records which are connected to one another through links)
-
- A record is a collection of fields, with each field containing only one value.
-0.913: (A record; is a collection of; fields)
-0.907: (A record; is a collection of fields with; each field containing only one value)
-0.736: (A record; is; a collection of fields)
-
- The entity type of a record defines which fields the record contains.
-No extractions found.
-
-A record in the hierarchical database model corresponds to a row in the relational database model and an entity type corresponds to a table .
-0.747: (A record; corresponds to; a table)
-
-The hierarchical database model mandates that each child record has only one parent, whereas each parent record can have one or more child records.
-0.762: (only one parent; can have; one or more child records)
-
- In order to retrieve data from a hierarchical database the whole tree needs to be traversed starting from the root node.
-0.796: (data; to be retrieve from; a hierarchical database the whole tree needs to be traversed starting from the root node)
-
- This model is recognized as the first database model created by IBM in the 1960s.
-0.948: (This model; is recognized as; the first database model created by IBM in the 1960s)
-0.705: (the first database model; be created in; the 1960s)
-0.702: (the first database model; be created by; IBM)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
-0.917: (The hierarchical structure; was developed by; IBM)
-0.874: (The hierarchical structure; was developed in; the 1960s)
-0.826: (The hierarchical structure; used in; early mainframe)
-
- Records  relationships form a treelike model.
-0.709: (Records relationships; form; a treelike model)
-
- This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
-0.869: (the relationship; is confined to; a one_to_many relationship)
-0.667: (This structure; is; simple)
-
- The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
-0.867: (The IBM Information Management System and the RDM Mobile; are examples of; a hierarchical database system)
-0.78: (The IBM Information Management System and the RDM Mobile; are examples of a hierarchical database system over; the same data)
-
- RDM Mobile is a newly designed embedded database for a mobile computer system.
-0.923: (RDM Mobile; is a newly designed embedded database for; a mobile computer system)
-0.764: (RDM Mobile; is; a newly designed embedded database)
-
-The hierarchical data model lost traction as Codd s relational model became the de facto standard used by virtually all mainstream database management systems.
-0.857: (The hierarchical data model; lost traction as; Codd)
-0.802: (The hierarchical data model; lost; traction)
-0.793: (standard; be used by; all mainstream database management systems)
-0.702: (traction; be lost as; Codd)
-
- A relational_database implementation of a hierarchical model was first discussed in published form in 1992 .
-0.925: (A relational_database implementation of a hierarchical model; was first discussed in; published form)
-0.919: (A relational_database implementation of a hierarchical model; was first discussed in; 1992)
-
- Hierarchical data organization schemes resurfaced with the advent of XML in the late 1990s .
-0.932: (Hierarchical data organization schemes; resurfaced with; the advent of XML)
-
- The hierarchical structure is used primarily today for storing geographic information and file systems.
-0.815: (The hierarchical structure; is used in; today)
-
-Currently hierarchical databases are still widely used especially in applications that require very high performance and availability such as banking and telecommunications.
-0.931: (hierarchical databases; Currently are still widely used especially in; applications that require very high performance and availability such as banking and telecommunications)
-
- One of the most widely used commercial hierarchical databases is IMS.
-0.681: (One of the most widely used commercial hierarchical databases; is; IMS.)
-
- Another example of the use of hierarchical databases is Windows Registry in the Microsoft Windows operating systems.
-0.854: (Another example of the use of hierarchical databases; is Windows Registry in; the Microsoft Windows operating systems)
-0.717: (Another example of the use of hierarchical databases; is; Windows Registry)
-0.597: (Windows Registry; be Another example of; the use of hierarchical databases)
-
-An organization could store employee information in a table that contains attributes columns such as employee number, first name, last name, and department number.
-0.872: (An organization; could store employee information in; a table that contains attributes columns such as employee number)
-0.785: (An organization; could store department number in; a table that contains attributes columns such as employee number)
-0.785: (An organization; could store first name , last name , in; a table that contains attributes columns such as employee number)
-0.785: (An organization; could store last name in; a table that contains attributes columns such as employee number)
-0.756: (employee information; could be store department number in; a table that contains attributes columns such as employee number)
-0.756: (employee information; could be store first name , last name , in; a table that contains attributes columns such as employee number)
-0.756: (employee information; could be store last name in; a table that contains attributes columns such as employee number)
-0.645: (An organization; could store employee information; first name , last name , and department number)
-0.602: (first name , last name , and department number; could be store employee information in; a table that contains attributes columns such as employee number)
-0.532: (An organization; could store department number; employee information)
-0.532: (An organization; could store first name , last name ,; employee information)
-0.532: (An organization; could store last name; employee information)
-0.491: (attributes columns; be contains by; a table)
-
- The organization provides each employee with computer hardware as needed, but computer equipment may only be used by the employee to which it is assigned.
-0.914: (computer equipment; may only be used by; the employee to which it is assigned)
-0.807: (The organization; provides; each employee)
-0.542: (it; is assigned in; the employee)
-
- The organization could store the computer hardware information in a separate table that includes each part s serial number, type, and the employee that uses it.
-0.83: (The organization; could store the computer hardware information in; a separate table that includes each part s serial number , type , and the employee)
-0.808: (The organization; could store; the computer hardware information)
-0.69: (the computer hardware information; could be store in; a separate table that includes each part s serial number , type , and the employee)
-0.614: (each part; s; serial number)
-0.375: (it; be uses by; the employee)
-
- The tables might look like this .
-No extractions found.
-
-In this model, the employee data table represents the  parent  part of the hierarchy, while the computer table represents the  child  part of the hierarchy.
-0.789: (the employee data table; represents; the parent part of the hierarchy)[enabler=while the computer table represents the child part of the hierarchy]
-0.772: (the employee data table; represents of; the hierarchy)[enabler=while the computer table represents the child part of the hierarchy]
-0.747: (the computer table; represents; the child part of the hierarchy)
-0.728: (the computer table; represents of; the hierarchy)
-0.523: (the employee data table; represents the parent part of the hierarchy in; this model)[enabler=while the computer table represents the child part of the hierarchy]
-
- In contrast to tree structures usually found in computer software algorithms, in this model the children point to the parents.
-0.692: (contrast; to usually found in; computer software algorithms)
-0.692: (tree structures; to usually found in; computer software algorithms)
-
- As shown, each employee may possess several pieces of computer equipment, but each individual piece of computer equipment may have only one employee owner.
-0.789: (each employee; may possess; several pieces of computer equipment)[enabler=As shown]
-0.762: (each individual piece of computer equipment; may have; only one employee owner)
-
-Consider the following structure .
-No extractions found.
-
-In this, the  child  is the same type as the  parent .
-0.911: (the child; is the same type as; the parent)
-0.735: (the child; is; the same type)
-
- The hierarchy stating EmpNo 10 is boss of 20, and 30 and 40 each report to 20 is represented by the  ReportsTo  column.
-0.914: (boss of 20 , and 30 and 40 each report; is represented by; the ReportsTo column)
-0.913: (The hierarchy stating EmpNo 10; is boss of; 20)
-0.804: (The hierarchy stating EmpNo 10; is; boss of 20 , and 30 and 40 each report)
-
- In Relational database terms, the ReportsTo column is a foreign key referencing the EmpNo column.
-0.746: (the ReportsTo column; is a foreign key in; Relational database terms)
-0.733: (the ReportsTo column; is; a foreign key referencing the EmpNo column)
-
- If the  child  data type were different, it would be in a different table, but there would still be a foreign key referencing the EmpNo column of the employees table.
-0.712: (it; would be in; a different table)[enabler=If the child data type were different]
-0.089: (the child data type; were; different)
-
-This simple model is commonly known as the adjacency list model, and was introduced by Dr.
-0.9: (This simple model; is commonly known as; the adjacency list model)
-0.828: (This simple model; was introduced by; Dr.)
-
- Edgar F.
-No extractions found.
-
- Codd after initial criticisms surfaced that the relational model could not model hierarchical data.
-0.68: (the relational model; could not model; hierarchical data)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
-0.917: (The hierarchical structure; was developed by; IBM)
-0.874: (The hierarchical structure; was developed in; the 1960s)
-0.826: (The hierarchical structure; used in; early mainframe)
-
- Records  relationships form a treelike model.
-0.709: (Records relationships; form; a treelike model)
-
- This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
-0.869: (the relationship; is confined to; a one_to_many relationship)
-0.667: (This structure; is; simple)
-
- The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
-0.867: (The IBM Information Management System and the RDM Mobile; are examples of; a hierarchical database system)
-0.78: (The IBM Information Management System and the RDM Mobile; are examples of a hierarchical database system over; the same data)
-
- RDM Mobile is a newly designed embedded database for a mobile computer system.
-0.923: (RDM Mobile; is a newly designed embedded database for; a mobile computer system)
-0.764: (RDM Mobile; is; a newly designed embedded database)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
-0.917: (The hierarchical structure; was developed by; IBM)
-0.874: (The hierarchical structure; was developed in; the 1960s)
-0.826: (The hierarchical structure; used in; early mainframe)
-
- Records  relationships form a treelike model.
-0.709: (Records relationships; form; a treelike model)
-
- This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
-0.869: (the relationship; is confined to; a one_to_many relationship)
-0.667: (This structure; is; simple)
-
- The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
-0.867: (The IBM Information Management System and the RDM Mobile; are examples of; a hierarchical database system)
-0.78: (The IBM Information Management System and the RDM Mobile; are examples of a hierarchical database system over; the same data)
-
- RDM Mobile is a newly designed embedded database for a mobile computer system.
-0.923: (RDM Mobile; is a newly designed embedded database for; a mobile computer system)
-0.764: (RDM Mobile; is; a newly designed embedded database)
-
-For example, the following is the hierarchical schema of a company database .
-No extractions found.
-
-Sample Hierarchical Model Diagram .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-This model is the oldest database model and is regarded as the first major influence on database modelling.
-0.852: (This model; is regarded as; the first major influence)
-0.667: (This model; is; the oldest database model)
-
- .
-No extractions found.
-
-In the 1960 s North American Rockwell together with IBM developed a database processing language called DL I    This partnership also produced the IMS which went on to become the world s leading mainframe hierarchical DBMS of the seventies and eighties .
-0.756: (This partnership; also produced; the IMS)
-0.705: (a database processing language; called; This partnership)
-0.669: (a database processing language; called; DL)
-0.618: (DL; also produced; the IMS)
-
-IMS uses DL I to process its database .
-0.618: (I; to process; its database)
-
-DL I uses hierarchies to represent relationships .
-0.71: (I; uses; hierarchies)
-0.678: (I; uses hierarchies to represent; relationships)
-
- .
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-    .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-The hierarchical model was the first database model developed to overcome the limitations of the traditional file system.
-0.853: (the first database model; developed to overcome; the limitations of the traditional file system)
-0.669: (The hierarchical model; was; the first database model)
-
-  Hierarchical databases were predominantly used for transaction processing where the volume of transactions is large and the transaction operations change little over time.
-0.948: (Hierarchical databases; were predominantly used for; transaction processing where the volume of transactions is large and the transaction operations change little over time)
-0.821: (the transaction operations; change little over; time)
-0.821: (the volume of transactions; change little over; time)
-0.653: (the volume of transactions; is; large)
-0.48: (the transaction operations; is; large)
-0.399: (large; be the volume of; transactions)
-
-  For example, the hierarchical database model was particularly popular with banks, because, the way in which banks process savings transactions seldom varies.
-0.783: (the hierarchical database model; was particularly popular with; banks)
-0.78: (the hierarchical database model; was particularly; popular)
-0.523: (banks; process; savings transactions)
-0.272: (the hierarchical database model; was particularly popular for; example)
-
- .
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-    .
+Multimap.
 No extractions found.
 
 .
@@ -393,105 +31,85 @@ No extractions found.
 .
 No extractions found.
 
-Hierarchical database model is a structure of data organized in a tree_like model using parent child like relationships, therefore there won t be too many relationships.
-0.896: (Hierarchical database model; is a structure therefore there won of; data organized in a tree_like model)
-0.753: (data; be organized in; a tree_like model using parent child like relationships)
-0.622: (parent child; be using like; relationships)
-0.571: (a tree_like model; using parent child like; relationships)
-0.545: (a structure of data; be; many relationships)
-0.473: (Hierarchical database model; is therefore there won; a structure of data)
-
- In a hierarchical database, an entity type can be either a parent or a child  under each individual entity is is more multiple entities.
-0.863: (an entity type; can be either a parent under; each individual entity)
-0.778: (an entity type; can be either; a parent or a child)
-0.746: (an entity type; can be either a parent in; a hierarchical database)
-0.693: (a parent or a child; is is; multiple entities)
-
- Entity types are related to each other using tree mapping, which is represented by one parent with many child relationships.
-0.9: (Entity types; are related to; each other)
-
- There are also attributes of a specific data recorded under an entity.
-0.705: (a specific data; be recorded under; an entity)
-
- .
+.
 No extractions found.
 
 .
 No extractions found.
 
- .
+.
 No extractions found.
 
 .
 No extractions found.
 
- .
-No extractions found.
-
- .
+Multimap.
 No extractions found.
 
 .
 No extractions found.
 
-The tree like structure can be repeated data, usually with many children under single parent information.
-0.719: (The tree; can be repeated; data)
-0.21: (many; be children under; single parent information)
-
- Data is a series of records, which have a set of values within it.
-0.921: (Data; is a series of; records)
-0.774: (Data; is; a series of records which have a set of values within it)
-
- All of the collected data is recorded in each type.
-No extractions found.
-
- These types are equal to the tables in other database model, and each parent or child is the equivalent of a row or column in a database table.
-0.936: (each parent or child; is the equivalent of; a row or column)
-0.888: (each parent or child; is the equivalent of a row in; a database table)
-0.886: (These types; is the equivalent of; a row or column)
-0.852: (These types; are equal to; the tables)
-0.81: (These types; is the equivalent of a row in; a database table)
-0.763: (These types; is; equal to the tables in other database model , and each parent or child is the equivalent of a row)
-0.726: (each parent or child; are equal to; the tables)
-
- In a hierarchical model, Parent Child relationships are all link together by certain types of data in a category.
-0.94: (Parent Child relationships; are all link together by; certain types of data)
-0.734: (Parent Child relationships; are all link together in; a hierarchical model)
-
- The links are mapped in the relationships so it would look like a tree structure with many branches sprouting form many branches.
-0.908: (The links; are mapped in; the relationships)[enabler=so it would look like a tree structure with many branches sprouting form many branches]
-0.694: (it; would look like; a tree structure)
-0.637: (it; would look with; many branches sprouting form many branches)
-
- For example, a company will store information about an employee.
-0.798: (a company; will store; information)
-0.287: (a company; will store information about an employee for; example)
-0.2: (information; will be store for; example)
-
- So in the beginning of the tree will be the employee name.
-No extractions found.
-
- Below the name will be the data of the employee s number, department, salary, etc.
-No extractions found.
-
- Information such as birthday, children, and age will be stored also.
-0.433: (children; be Information as; birthday)
-
 .
 No extractions found.
 
- .
+     .
+No extractions found.
+
+     .
 No extractions found.
 
 .
 No extractions found.
 
- .
-No extractions found.
-
- .
+.
 No extractions found.
 
 .
 No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+We are going to be studying abstract data types and linked data structures during the course of this Unit.
+0.835: (We; are linked data structures during; the course of this Unit)
+0.487: (We; are going to be studying; abstract data types)
+
+ So what do these terms mean .
+No extractions found.
+
+A simple data type consists of a collection of ordered values and a set of operations that can be performed on those values.
+0.856: (A simple data type; consists of; a collection of ordered values and a set of operations)
+
+ The C, C   and Java programming languages refer to scalar types as primitive data types.
+0.85: (The C , C and Java programming languages; refer to; scalar types)
 

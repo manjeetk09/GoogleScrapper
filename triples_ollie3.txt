@@ -1,475 +1,231 @@
-फेसबुक पेज लाइक करें.
+There are four built_in data structures in Python _ list, tuple, dictionary and set.
 No extractions found.
 
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-फेसबुक पेज लाइक करें.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-इस पुस्‍तक में हमने विभिन्‍न प्रकार के Data Structures जैसे कि Arrays, Linked Lists, Stacks, Queues, Trees, Graphs आदि के बारे में “C” Programming Language को उपयोग में लेते हुए Implement किया है और ये दर्शाने की कोशिश की है कि किस प्रकार से विभिन्‍न प्रकार की Programming जरूरतों को पूरा करने के लिये व विभिन्‍न प्रकार की Programming Related Problems को Solve करन के लिए विभिन्‍न प्रकार के Data Structures को उपयोग में लिया जा सकता है।.
-0.124: (C" Programming Language क ो उपयोग मे ं लेत े हुए Implement किय ा ह ै और य े दर्शान े क ी कोशिश क ी ह ै क ि किस प्रकार स े विभिन्‍न प्रकार क ी Programming जरूरतो ं क ो पूर ा करन े क े लिय े व विभिन्‍न प्रकार क ी Programming Related Problems क ो Solve करन क े लिए विभिन्‍न प्रकार क े Data Structures क ो उपयोग मे ं लिय ा ज ा सकत ा है।; be इस पुस्‍तक मे; ं हमन े विभिन्‍न प्रकार क े Data Structures जैस े क ि Arrays)
-
-Chapter_1 Introduction to Data Structure Chapter_2 Analysis of Algorithm in DS Chapter_3 Arrays in Data Structure Chapter_4 Recursion and Backtracking in DS Part 1 Chapter_4 Recursion and Backtracking Part 2 Chapter_5 Program of Tower of Hanoi Chapter_5 Program of factorial with recursion Chapter_5 Program of Fibonacci Series with recursion Chapter_5 Program of Greatest Common Divisor with Recursion Chapter_6 Program of Linked List Part_1 Chapter_6 Program of Linked List Part_2 Chapter_6 Program of Linked List Part_3 Chapter_7 Doubly Linked List Part 1 Chapter_8 Stack in Data Structure Part 1 Chapter_8 Stack in Data Structure Part 2 Chapter_9 Polish Notation in Data Structure Chapter_10 Infix to Postfix Algorithm Chapter_11 Evaluation of Postfix Expression Chapter_12 Queue in Data Structure Chapter_13 Array Implementation of Queue Chapter_14 Introduction to Tree in Data Structure Chapter_15 Binary Tree in Data Structure Chapter_16 Representation of Binary Tree in Data Structure Chapter_17 Preorder Traversal of Binary Tree with Recursion Chapter_18 Inorder Traversal of Binary Tree with Recursion Chapter_19 Postorder Traversal of Binary Tree with Recursion Chapter_20 Level Order Traversal of Binary Tree Chapter_21 Binary Search Tree Chapter_22 Find element in Binary Search Tree with Recursion Chapter_23 Insert an element in Binary Search Tree Chapter_24 Deletion in Binary Search Tree Chapter_25 AVL Tree Chapter_26 Rotations in AVL Tree Chapter_27 Solved Example of Rotations in AVL Tree .
-0.76: (Data Structure; be Part of; Data Structure Chapter_10 Infix)
-0.736: (Data Structure; be Part in; Data Structure Chapter_10 Infix)
-0.705: (List Part 1; be Doubly Linked chapter 8; Stack)
-0.52: (Chapter_1 Introduction to Data Structure Chapter_2 Analysis of Algorithm in DS Chapter_3 Arrays in Data Structure Chapter_4 Recursion and Backtracking in DS Part 1 Chapter_4 Recursion and Backtracking Part 2 Chapter_5 Program of Tower of Hanoi Chapter_5 Program of factorial; Doubly Linked; List Part 1)
-0.516: (Chapter_1 Introduction to Data Structure Chapter_2 Analysis of Algorithm in DS Chapter_3 Arrays in Data Structure Chapter_4 Recursion and Backtracking in DS Part 1 Chapter_4 Recursion and Backtracking Part 2 Chapter_5 Program of Tower of Hanoi Chapter_5 Program of factorial; Doubly Linked List Part 1 chapter 8; Stack)
-0.453: (element; be Find in; Data Structure Chapter_15 Binary Tree)
-0.453: (element; be Find to; Tree)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Chapter_1 Introduction to Data Structure Chapter_2 Analysis of Algorithm in DS Chapter_3 Arrays in Data Structure Chapter_4 Recursion and Backtracking in DS Part 1 Chapter_4 Recursion and Backtracking Part 2 Chapter_5 Program of Tower of Hanoi Chapter_5 Program of factorial with recursion Chapter_5 Program of Fibonacci Series with recursion Chapter_5 Program of Greatest Common Divisor with Recursion Chapter_6 Program of Linked List Part_1 Chapter_6 Program of Linked List Part_2 Chapter_6 Program of Linked List Part_3 Chapter_7 Doubly Linked List Part 1 Chapter_8 Stack in Data Structure Part 1 Chapter_8 Stack in Data Structure Part 2 Chapter_9 Polish Notation in Data Structure Chapter_10 Infix to Postfix Algorithm Chapter_11 Evaluation of Postfix Expression Chapter_12 Queue in Data Structure Chapter_13 Array Implementation of Queue Chapter_14 Introduction to Tree in Data Structure Chapter_15 Binary Tree in Data Structure Chapter_16 Representation of Binary Tree in Data Structure Chapter_17 Preorder Traversal of Binary Tree with Recursion Chapter_18 Inorder Traversal of Binary Tree with Recursion Chapter_19 Postorder Traversal of Binary Tree with Recursion Chapter_20 Level Order Traversal of Binary Tree Chapter_21 Binary Search Tree Chapter_22 Find element in Binary Search Tree with Recursion Chapter_23 Insert an element in Binary Search Tree Chapter_24 Deletion in Binary Search Tree Chapter_25 AVL Tree Chapter_26 Rotations in AVL Tree Chapter_27 Solved Example of Rotations in AVL Tree .
-0.76: (Data Structure; be Part of; Data Structure Chapter_10 Infix)
-0.736: (Data Structure; be Part in; Data Structure Chapter_10 Infix)
-0.705: (List Part 1; be Doubly Linked chapter 8; Stack)
-0.52: (Chapter_1 Introduction to Data Structure Chapter_2 Analysis of Algorithm in DS Chapter_3 Arrays in Data Structure Chapter_4 Recursion and Backtracking in DS Part 1 Chapter_4 Recursion and Backtracking Part 2 Chapter_5 Program of Tower of Hanoi Chapter_5 Program of factorial; Doubly Linked; List Part 1)
-0.516: (Chapter_1 Introduction to Data Structure Chapter_2 Analysis of Algorithm in DS Chapter_3 Arrays in Data Structure Chapter_4 Recursion and Backtracking in DS Part 1 Chapter_4 Recursion and Backtracking Part 2 Chapter_5 Program of Tower of Hanoi Chapter_5 Program of factorial; Doubly Linked List Part 1 chapter 8; Stack)
-0.453: (element; be Find in; Data Structure Chapter_15 Binary Tree)
-0.453: (element; be Find to; Tree)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Chapter 15 Binary Tree in Data Structure Hindi.
-No extractions found.
-
-Chapter 14 Introduction to Tree in Data Structure Hindi.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
+ We will see how to use each of them and how they make life easier for us.
+0.211: (life; be easier for; us)
 
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
+The list of items should be enclosed in square brackets so that Python understands that you are specifying a list.
+0.9: (The list of items; should be enclosed in; square brackets)
+0.612: (you; are specifying; a list)[attrib=Python so understands]
 
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
+ Once you have created a list, you can add, remove or search for items in the list.
+0.72: (you; Once have created; a list)
 
-.
-No extractions found.
+ Since we can add and remove items, we say that a list is a mutable data type i.
+0.527: (a list; is; a mutable data type i)
+0.36: (we; can remove; items)
 
-1 _ .
+e.
 No extractions found.
 
-2 _ .
+ this type can be altered.
 No extractions found.
 
-.
-No extractions found.
+1  Introduction 1 1  Objectives 1 2  Getting Started 1 3  What Is Computer Science  1 4  What Is Programming  1 5  Why Study Data Structures and Abstract Data Types  1 6  Why Study Algorithms  1 7  Review of Basic Python 1 8  Getting Started with Data 1 8 1  Built_in Atomic Data Types 1 8 2  Built_in Collection Data Types 1 9  Input and Output 1 9 1  String Formatting 1 10  Control Structures 1 11  Exception Handling 1 12  Defining Functions 1 13  Object_Oriented Programming in Python  Defining Classes 1 13 1  A Fraction Class 1 13 2  Inheritance  Logic Gates and Circuits 1 14  Summary 1 15  Key Terms 1 16  Discussion Questions 1 17  Programming Exercises.
+0.444: (String Formatting 1 10 Control Structures; be Collection Data Types 1 9 Input in; Python Defining Classes 1 13 1)
 
-.
-No extractions found.
+2  Analysis 2 1  Objectives 2 2  What Is Algorithm Analysis  2 3  Big_O Notation 2 4  An Anagram Detection Example 2 4 1  Solution 1  Checking Off 2 4 2  Solution 2  Sort and Compare 2 4 3  Solution 3  Brute Force 2 4 4  Solution 4  Count and Compare 2 5  Performance of Python Data Structures 2 6  Lists 2 7  Dictionaries 2 8  Summary 2 9  Key Terms 2 10  Discussion Questions 2 11  Programming Exercises.
+0.345: (Algorithm Analysis 2 3; be Notation 2 4 off; 2 4 2 Solution 2 Sort and Compare 2 4 3 Solution 3 Brute Force 2 4 4 Solution 4 Count and Compare 2 5)
 
-.
-No extractions found.
+3  Basic Data Structures 3 1  Objectives 3 2  What Are Linear Structures  3 3  What is a Stack  3 4  The Stack Abstract Data Type 3 5  Implementing a Stack in Python 3 6  Simple Balanced Parentheses 3 7  Balanced Symbols 3 8  Converting Decimal Numbers to Binary Numbers 3 9  Infix, Prefix and Postfix Expressions 3 9 1  Conversion of Infix Expressions to Prefix and Postfix 3 9 2  General Infix_to_Postfix Conversion 3 9 3  Postfix Evaluation 3 10  What Is a Queue  3 11  The Queue Abstract Data Type 3 12  Implementing a Queue in Python 3 13  Simulation  Hot Potato 3 14  Simulation  Printing Tasks 3 14 1  Main Simulation Steps 3 14 2  Python Implementation 3 14 3  Discussion 3 15  What Is a Deque  3 16  The Deque Abstract Data Type 3 17  Implementing a Deque in Python 3 18  Palindrome_Checker 3 19  Lists 3 20  The Unordered List Abstract Data Type 3 21  Implementing an Unordered List  Linked Lists 3 21 1  The Node Class 3 21 2  The Unordered List Class 3 22  The Ordered List Abstract Data Type 3 23  Implementing an Ordered List 3 23 1  Analysis of Linked Lists 3 24  Summary 3 25  Key Terms 3 26  Discussion Questions 3 27  Programming Exercises.
+0.61: (a Stack 3 4; be The Stack Abstract Data Type 3 5 Implementing a Stack in Python 3 6 Simple Balanced Parentheses 3 7 Balanced Symbols 3 8 Converting Decimal Numbers to; Binary Numbers 3 9 Infix , Prefix and Postfix Expressions)
+0.523: (a Queue 3 11; Is Implementing a Queue in; Python 3 13)
+0.523: (a Queue 3 11; Is Implementing in; Python 3 13)
+0.516: (a Queue 3 11; Is Implementing; a Queue)
 
-.
-No extractions found.
+4  Recursion 4 1  Objectives 4 2  What Is Recursion  4 3  Calculating the Sum of a List of Numbers 4 4  The Three Laws of Recursion 4 5  Converting an Integer to a String in Any Base 4 6  Stack Frames  Implementing Recursion 4 7  Introduction  Visualizing Recursion 4 8  Sierpinski Triangle 4 9  Complex Recursive Problems 4 10  Tower of Hanoi 4 11  Exploring a Maze 4 12  Dynamic Programming 4 13  Summary 4 14  Key Terms 4 15  Discussion Questions 4 16  Glossary 4 17  Programming Exercises.
+0.593: (Recursion 4 3; Is Calculating; the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer)
+0.318: (the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer; Is Calculating in; Any Base 4 6 Stack Frames Implementing Recursion 4 7 Introduction)
+0.295: (Recursion 4 3; Is Calculating the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer to a String in; Any Base 4 6 Stack Frames Implementing Recursion 4 7 Introduction)
 
-.
-No extractions found.
+5  Sorting and Searching 5 1  Objectives 5 2  Searching 5 3  The Sequential Search 5 3 1  Analysis of Sequential Search 5 4  The Binary Search 5 4 1  Analysis of Binary Search 5 5  Hashing 5 5 1  Hash Functions 5 5 2  Collision Resolution 5 5 3  Implementing the Map Abstract Data Type 5 5 4  Analysis of Hashing 5 6  Sorting 5 7  The Bubble Sort 5 8  The Selection Sort 5 9  The Insertion Sort 5 10  The Shell Sort 5 11  The Merge Sort 5 12  The Quick Sort 5 13  Summary 5 14  Key Terms 5 15  Discussion Questions 5 16  Programming Exercises.
+0.7: (Collision Resolution; Implementing; the Map Abstract Data Type 5 5 4 Analysis)
 
-1 The Node.
+6  Trees and Tree Algorithms 6 1  Objectives 6 2  Examples of Trees 6 3  Vocabulary and Definitions 6 4  List of Lists Representation 6 5  Nodes and References 6 6  Parse Tree 6 7  Tree Traversals 6 8  Priority Queues with Binary Heaps 6 9  Binary Heap Operations 6 10  Binary Heap Implementation 6 10 1  The Structure Property 6 10 2  The Heap Order Property 6 10 3  Heap Operations 6 11  Binary Search Trees 6 12  Search Tree Operations 6 13  Search Tree Implementation 6 14  Search Tree Analysis 6 15  Balanced Binary Search Trees 6 16  AVL Tree Performance 6 17  AVL Tree Implementation 6 18  Summary of Map ADT Implementations 6 19  Summary 6 20  Key Terms 6 21  Discussion Questions 6 22  Programming Exercises.
 No extractions found.
 
-2 Building a Chain from Nodes.
-No extractions found.
+7  Graphs and Graph Algorithms 7 1  Objectives 7 2  Vocabulary and Definitions 7 3  The Graph Abstract Data Type 7 4  An Adjacency Matrix 7 5  An Adjacency List 7 6  Implementation 7 7  The Word Ladder Problem 7 8  Building the Word Ladder Graph 7 9  Implementing Breadth First Search 7 10  Breadth First Search Analysis 7 11  The Knight s Tour Problem 7 12  Building the Knight s Tour Graph 7 13  Implementing Knight s Tour 7 14  Knight s Tour Analysis 7 15  General Depth First Search 7 16  Depth First Search Analysis 7 17  Topological Sorting 7 18  Strongly Connected Components 7 19  Shortest Path Problems 7 20  Dijkstra s Algorithm 7 21  Analysis of Dijkstra s Algorithm 7 22  Prim s Spanning Tree Algorithm 7 23  Summary 7 24  Key Terms 7 25  Discussion Questions 7 26  Programming Exercises.
+0.735: (7 20 Dijkstra; s; Algorithm 7 21 Analysis of Dijkstra)
+0.647: (the Knight; s; Tour Graph)
+0.587: (Tour Graph; be s by; Tour Problem 7 12 Building)
+0.548: (Algorithm 7 21 Analysis of Dijkstra; be s by; Path Problems)
+0.458: (7 22 Prim; s Spanning; Tree Algorithm 7 23 Summary 7 24 Key Terms)
+0.404: (Breadth; First Search 7 10 Breadth First Search Analysis 7 11 The Knight s; Tour Problem 7 12 Building)
+0.246: (Tour Problem 7 12 Building; be First Search 7 10 Breadth First Search Analysis 7 11 The Knight s by; Implementing)
 
-3 The Principle of Induction.
+1 1  Objectives.
 No extractions found.
 
-4 Induction on a Summation.
+1 2  Getting Started.
 No extractions found.
 
-5 Asymptotic Notation 5.1 Introduction 5.2 The O Notation 5.2.1 Definition 5.2.2 Theory Examples 5.2.3 Practical Examples 5.3 Big_Omega Notation 5.4 Theta Notation 5.5 Little_O Notation 5.6 Little Omega Notation 5.7 How asymptotic notation relates to analyzing complexity 5.8 A few examples of asymptotic notation.
+1 3  What Is Computer Science .
 No extractions found.
 
-6 Arrays 6.1 Type 6.2 Bounds 6.3 Bounds check 6.4 Declaring Array Types 6.5 Array Access.
+1 4  What Is Programming .
 No extractions found.
 
-7 Family Structures and Illegitimate Child 7.1 Syntactic Sugar 7.2 Implementations 7.2.1 Singly Linked List 7.2.2 Vector 7.3 Bidirectional Lists 7.4 Doubly Linked List Implementation 7.5 Vector Implementation 7.6 Tradeoffs 7.7 Advantages / Disadvantages.
+1 5  Why Study Data Structures and Abstract Data Types .
 No extractions found.
-
-8 Stacks and Queues 8.1 stack... 8.1.1 Linked List Implementation 8.1.1.1 Performance Analysis 8.2 Applications of Stacks 8.2.1 Converting a decimal number into a binary number 8.2.2 Towers of Hanoi 8.2.2.1 First Implementation 8.2.2.2 Second Implementation 8.2.3 Expression evaluation and syntax parsing 8.2.3.1 Evaluation of an Infix Expression that is Fully Parenthesized 8.2.3.2 Evaluation of Infix Expression which is not fully parenthesized 8.2.3.3 Evaluation of Prefix Expression 8.2.4 Conversion of an Infix expression that is fully parenthesized into a Postfix expression 8.2.5 Rearranging railroad cars 8.2.5.1 Problem Description 8.2.5.2 Solution Strategy 8.2.5.3 A Three Track Example 8.2.6 Quicksort 8.2.7 The Stock Span Problem 8.2.7.1 An algorithm which has Quadratic Time Complexity 8.2.7.2 An algorithm that has Linear Time Complexity 8.3 Related Links 8.4 Queues 8.4.1 Linked List Implementation 8.4.1.1 Performance Analysis 8.4.2 Circular Array Implementation 8.4.2.1 Performance Analysis 8.4.3 Priority Queue Implementation 8.4.4 Related Links 8.5 Deques.
-0.548: (Linear Time Complexity 8.3; be has by; Quadratic Time)
-0.548: (Quadratic Time; be has by; An algorithm)
 
-9 References.
+1 6  Why Study Algorithms .
 No extractions found.
 
-10 Trees 10.1 Traversal 10.2 Sample implementations for Tree Traversal 10.3 Examples of Tree Traversals 10.4 Balancing 10.5 Binary Search Trees 10.5.1 Terms 10.5.2 Searching through a binary search tree 10.5.2.1 Example 10.5.3 Adding an item to a binary search tree 10.5.4 Deleting an item from a binary search tree 10.5.4.1 Case 1: The node you want to delete is a leaf 10.5.4.2 Case 2: The node you want to delete has one child 10.5.4.3 Case 3: The node you want to delete has two children 10.5.4.3.1 Case 1 of two_children case: The successor is the right child of the node being deleted 10.5.4.3.2 Case 2 of two_children case: The successor isn't the right child of the node being deleted 10.6 Example extract of java code for binary tree delete operation 10.7 Red_Black trees 10.8 B Trees 10.8.1 Executive Summary 10.8.2 A B tree java example 10.8.3 A B+ tree java example 10.9 Treaps.
-0.941: (The successor; is the right child of; the node being deleted 10.5.4.3.2 Case 2 of two_children case)
-0.928: (The successor; is n't the right child of; the node being deleted 10.6 Example extract of java code for binary tree delete operation 10.7 Red_Black trees 10.8 B Trees 10.8.1 Executive Summary 10.8.2 A B tree java example 10.8.3 A B+ tree java example 10.9 Treaps)
-0.871: (10.6 Example; extract of; java code)
-0.804: (The node you want to delete; has; two children 10.5.4.3.1 Case 1 of two_children case)
-0.747: (The node you want to delete; has; one child)
-0.736: (an item; be Adding to; a binary search tree 10.5.4 Deleting an item)
-0.724: (The successor; is; the right child of the node)
-0.724: (The node you want to delete; is; a leaf)
-0.722: (Traversal 10.2 Sample; be implementations for; Tree Traversal)
-0.712: (The successor; is; n't the right child of the node)
-0.671: (10.4 Balancing; 10.5.2 Searching through; a binary search tree 10.5.2.1 Example 10.5.3 Adding)
-0.591: (the node; being deleted 10.5.4.3.2; 10.5.4.3.2)
-0.459: (10.4 Balancing; 10.5.2 Searching from; a binary search tree 10.5.4.1)
-0.451: (right; is child of; the node being deleted 10.6 Example extract of java code for binary tree delete operation 10.7 Red_Black trees 10.8 B Trees 10.8.1 Executive Summary 10.8.2 A B tree java example 10.8.3 A B+ tree java example 10.9 Treaps)
-0.414: (right; is child of; the node being deleted 10.5.4.3.2 Case 2 of two_children case)
-
-11 References.
+1 7  Review of Basic Python.
 No extractions found.
 
-12 External Links.
+1 8  Getting Started with Data 1 8 1  Built_in Atomic Data Types 1 8 2  Built_in Collection Data Types.
 No extractions found.
 
-13 Compute the extreme value.
+1 9  Input and Output 1 9 1  String Formatting.
 No extractions found.
 
-14 Removing the Extreme Value.
+1 10  Control Structures.
 No extractions found.
-
-15 Inserting a value into the heap.
-0.741: (15; Inserting a value into; the heap)
-0.674: (a value; be Inserting into; the heap)
 
-16 TODO.
+1 11  Exception Handling.
 No extractions found.
 
-17 Applications of Priority Heaps.
+1 12  Defining Functions.
 No extractions found.
-
-18 Graphs 18.1 Directed Graphs 18.2 Undirected Graphs 18.3 Weighted Graphs 18.4 Graph Representations 18.4.1 Adjacency Matrix Representation 18.4.2 Adjacency List Representation 18.5 Graph Traversals 18.5.1 Depth_First Search 18.5.2 Breadth_First Search.
-0.764: (18.1 Directed Graphs 18.2; Undirected; Graphs)
-
-19 Hash Tables 19.1 Time complexity and common uses of hash tables 19.2 Choosing a good hash function 19.3 Collision resolution 19.3.1 Chaining 19.3.2 Open addressing 19.3.2.1 Example pseudocode 19.3.3 Open addressing versus chaining 19.3.4 Coalesced hashing 19.3.5 Perfect hashing 19.3.6 Probabilistic hashing 19.4 Table resizing 19.5 Ordered retrieval issue 19.6 Problems with hash tables 19.7 Other hash table algorithms 19.7.1 A simple inference on file storage mapping of linear hashing and extendible hashing 19.8 Implementations 19.8.1 A python implementation of extendible hashing 19.8.2 A Java implementation of extendible hashing 19.8.3 A Java implementation of linear hashing 19.8.3.1 debugging to achieve functionality.
-0.575: (19.3.1 Chaining 19.3.2 Open; addressing; 19.3.2.1 Example)
-0.575: (19.3.3 Open; addressing; versus chaining 19.3.4 Coalesced)
 
-20 List implementation.
+1 13  Object_Oriented Programming in Python  Defining Classes 1 13 1  A Fraction Class 1 13 2  Inheritance  Logic Gates and Circuits.
 No extractions found.
 
-21 Bit array implementation.
+1 14  Summary.
 No extractions found.
 
-22 Associative array implementation.
+1 15  Key Terms.
 No extractions found.
 
-23 References.
+1 16  Discussion Questions.
 No extractions found.
 
-10.1 Traversal.
+1 17  Programming Exercises.
 No extractions found.
 
-10.2 Sample implementations for Tree Traversal.
-0.793: (Sample; be implementations for; Tree Traversal)
+1  Introduction 1 1  Objectives 1 2  Getting Started 1 3  What Is Computer Science  1 4  What Is Programming  1 5  Why Study Data Structures and Abstract Data Types  1 6  Why Study Algorithms  1 7  Review of Basic Python 1 8  Getting Started with Data 1 8 1  Built_in Atomic Data Types 1 8 2  Built_in Collection Data Types 1 9  Input and Output 1 9 1  String Formatting 1 10  Control Structures 1 11  Exception Handling 1 12  Defining Functions 1 13  Object_Oriented Programming in Python  Defining Classes 1 13 1  A Fraction Class 1 13 2  Inheritance  Logic Gates and Circuits 1 14  Summary 1 15  Key Terms 1 16  Discussion Questions 1 17  Programming Exercises.
+0.444: (String Formatting 1 10 Control Structures; be Collection Data Types 1 9 Input in; Python Defining Classes 1 13 1)
 
-10.3 Examples of Tree Traversals.
-No extractions found.
-
-10.4 Balancing.
-No extractions found.
+2  Analysis 2 1  Objectives 2 2  What Is Algorithm Analysis  2 3  Big_O Notation 2 4  An Anagram Detection Example 2 4 1  Solution 1  Checking Off 2 4 2  Solution 2  Sort and Compare 2 4 3  Solution 3  Brute Force 2 4 4  Solution 4  Count and Compare 2 5  Performance of Python Data Structures 2 6  Lists 2 7  Dictionaries 2 8  Summary 2 9  Key Terms 2 10  Discussion Questions 2 11  Programming Exercises.
+0.345: (Algorithm Analysis 2 3; be Notation 2 4 off; 2 4 2 Solution 2 Sort and Compare 2 4 3 Solution 3 Brute Force 2 4 4 Solution 4 Count and Compare 2 5)
 
-10.5 Binary Search Trees 10.5.1 Terms 10.5.2 Searching through a binary search tree 10.5.2.1 Example 10.5.3 Adding an item to a binary search tree 10.5.4 Deleting an item from a binary search tree 10.5.4.1 Case 1: The node you want to delete is a leaf 10.5.4.2 Case 2: The node you want to delete has one child 10.5.4.3 Case 3: The node you want to delete has two children 10.5.4.3.1 Case 1 of two_children case: The successor is the right child of the node being deleted 10.5.4.3.2 Case 2 of two_children case: The successor isn't the right child of the node being deleted.
-0.941: (The successor; is the right child of; the node being deleted 10.5.4.3.2 Case 2 of two_children case)
-0.891: (The successor; is n't the right child of; the node being deleted)
-0.804: (The node you want to delete; has; two children 10.5.4.3.1 Case 1 of two_children case)
-0.747: (The node you want to delete; has; one child)
-0.736: (an item; be Adding to; a binary search tree 10.5.4 Deleting an item)
-0.724: (The successor; is; the right child of the node)
-0.724: (The node you want to delete; is; a leaf 10.5.4.2 Case 2)
-0.712: (The successor; is; n't the right child of the node)
-0.667: (10.5.1 Terms; 10.5.2 Searching through; a binary search tree 10.5.2.1 Example 10.5.3 Adding)
-0.591: (the node; being deleted 10.5.4.3.2; 10.5.4.3.2)
-0.455: (10.5.1 Terms; 10.5.2 Searching from; a binary search tree 10.5.4.1)
-0.414: (right; is child of; the node being deleted 10.5.4.3.2 Case 2 of two_children case)
-0.343: (right; is child of; the node being deleted)
+3  Basic Data Structures 3 1  Objectives 3 2  What Are Linear Structures  3 3  What is a Stack  3 4  The Stack Abstract Data Type 3 5  Implementing a Stack in Python 3 6  Simple Balanced Parentheses 3 7  Balanced Symbols 3 8  Converting Decimal Numbers to Binary Numbers 3 9  Infix, Prefix and Postfix Expressions 3 9 1  Conversion of Infix Expressions to Prefix and Postfix 3 9 2  General Infix_to_Postfix Conversion 3 9 3  Postfix Evaluation 3 10  What Is a Queue  3 11  The Queue Abstract Data Type 3 12  Implementing a Queue in Python 3 13  Simulation  Hot Potato 3 14  Simulation  Printing Tasks 3 14 1  Main Simulation Steps 3 14 2  Python Implementation 3 14 3  Discussion 3 15  What Is a Deque  3 16  The Deque Abstract Data Type 3 17  Implementing a Deque in Python 3 18  Palindrome_Checker 3 19  Lists 3 20  The Unordered List Abstract Data Type 3 21  Implementing an Unordered List  Linked Lists 3 21 1  The Node Class 3 21 2  The Unordered List Class 3 22  The Ordered List Abstract Data Type 3 23  Implementing an Ordered List 3 23 1  Analysis of Linked Lists 3 24  Summary 3 25  Key Terms 3 26  Discussion Questions 3 27  Programming Exercises.
+0.61: (a Stack 3 4; be The Stack Abstract Data Type 3 5 Implementing a Stack in Python 3 6 Simple Balanced Parentheses 3 7 Balanced Symbols 3 8 Converting Decimal Numbers to; Binary Numbers 3 9 Infix , Prefix and Postfix Expressions)
+0.523: (a Queue 3 11; Is Implementing a Queue in; Python 3 13)
+0.523: (a Queue 3 11; Is Implementing in; Python 3 13)
+0.516: (a Queue 3 11; Is Implementing; a Queue)
 
-10.6 Example extract of java code for binary tree delete operation.
-0.877: (10.6 Example; extract of; java code)
+4  Recursion 4 1  Objectives 4 2  What Is Recursion  4 3  Calculating the Sum of a List of Numbers 4 4  The Three Laws of Recursion 4 5  Converting an Integer to a String in Any Base 4 6  Stack Frames  Implementing Recursion 4 7  Introduction  Visualizing Recursion 4 8  Sierpinski Triangle 4 9  Complex Recursive Problems 4 10  Tower of Hanoi 4 11  Exploring a Maze 4 12  Dynamic Programming 4 13  Summary 4 14  Key Terms 4 15  Discussion Questions 4 16  Glossary 4 17  Programming Exercises.
+0.593: (Recursion 4 3; Is Calculating; the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer)
+0.318: (the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer; Is Calculating in; Any Base 4 6 Stack Frames Implementing Recursion 4 7 Introduction)
+0.295: (Recursion 4 3; Is Calculating the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer to a String in; Any Base 4 6 Stack Frames Implementing Recursion 4 7 Introduction)
 
-10.7 Red_Black trees.
-No extractions found.
+5  Sorting and Searching 5 1  Objectives 5 2  Searching 5 3  The Sequential Search 5 3 1  Analysis of Sequential Search 5 4  The Binary Search 5 4 1  Analysis of Binary Search 5 5  Hashing 5 5 1  Hash Functions 5 5 2  Collision Resolution 5 5 3  Implementing the Map Abstract Data Type 5 5 4  Analysis of Hashing 5 6  Sorting 5 7  The Bubble Sort 5 8  The Selection Sort 5 9  The Insertion Sort 5 10  The Shell Sort 5 11  The Merge Sort 5 12  The Quick Sort 5 13  Summary 5 14  Key Terms 5 15  Discussion Questions 5 16  Programming Exercises.
+0.7: (Collision Resolution; Implementing; the Map Abstract Data Type 5 5 4 Analysis)
 
-10.8 B Trees 10.8.1 Executive Summary 10.8.2 A B tree java example 10.8.3 A B+ tree java example.
+6  Trees and Tree Algorithms 6 1  Objectives 6 2  Examples of Trees 6 3  Vocabulary and Definitions 6 4  List of Lists Representation 6 5  Nodes and References 6 6  Parse Tree 6 7  Tree Traversals 6 8  Priority Queues with Binary Heaps 6 9  Binary Heap Operations 6 10  Binary Heap Implementation 6 10 1  The Structure Property 6 10 2  The Heap Order Property 6 10 3  Heap Operations 6 11  Binary Search Trees 6 12  Search Tree Operations 6 13  Search Tree Implementation 6 14  Search Tree Analysis 6 15  Balanced Binary Search Trees 6 16  AVL Tree Performance 6 17  AVL Tree Implementation 6 18  Summary of Map ADT Implementations 6 19  Summary 6 20  Key Terms 6 21  Discussion Questions 6 22  Programming Exercises.
 No extractions found.
 
-10.9 Treaps.
-No extractions found.
+7  Graphs and Graph Algorithms 7 1  Objectives 7 2  Vocabulary and Definitions 7 3  The Graph Abstract Data Type 7 4  An Adjacency Matrix 7 5  An Adjacency List 7 6  Implementation 7 7  The Word Ladder Problem 7 8  Building the Word Ladder Graph 7 9  Implementing Breadth First Search 7 10  Breadth First Search Analysis 7 11  The Knight s Tour Problem 7 12  Building the Knight s Tour Graph 7 13  Implementing Knight s Tour 7 14  Knight s Tour Analysis 7 15  General Depth First Search 7 16  Depth First Search Analysis 7 17  Topological Sorting 7 18  Strongly Connected Components 7 19  Shortest Path Problems 7 20  Dijkstra s Algorithm 7 21  Analysis of Dijkstra s Algorithm 7 22  Prim s Spanning Tree Algorithm 7 23  Summary 7 24  Key Terms 7 25  Discussion Questions 7 26  Programming Exercises.
+0.735: (7 20 Dijkstra; s; Algorithm 7 21 Analysis of Dijkstra)
+0.647: (the Knight; s; Tour Graph)
+0.587: (Tour Graph; be s by; Tour Problem 7 12 Building)
+0.548: (Algorithm 7 21 Analysis of Dijkstra; be s by; Path Problems)
+0.458: (7 22 Prim; s Spanning; Tree Algorithm 7 23 Summary 7 24 Key Terms)
+0.404: (Breadth; First Search 7 10 Breadth First Search Analysis 7 11 The Knight s; Tour Problem 7 12 Building)
+0.246: (Tour Problem 7 12 Building; be First Search 7 10 Breadth First Search Analysis 7 11 The Knight s by; Implementing)
 
-10.5.1 Terms.
+1 1  Objectives.
 No extractions found.
 
-10.5.2 Searching through a binary search tree 10.5.2.1 Example.
+1 2  Getting Started.
 No extractions found.
-
-10.5.3 Adding an item to a binary search tree.
-0.741: (10.5.3; Adding an item to; a binary search tree)
-0.674: (an item; be Adding to; a binary search tree)
 
-10.5.4 Deleting an item from a binary search tree 10.5.4.1 Case 1: The node you want to delete is a leaf 10.5.4.2 Case 2: The node you want to delete has one child 10.5.4.3 Case 3: The node you want to delete has two children 10.5.4.3.1 Case 1 of two_children case: The successor is the right child of the node being deleted 10.5.4.3.2 Case 2 of two_children case: The successor isn't the right child of the node being deleted.
-0.941: (The successor; is the right child of; the node being deleted 10.5.4.3.2 Case 2 of two_children case)
-0.891: (The successor; is n't the right child of; the node being deleted)
-0.804: (The node you want to delete; has; two children 10.5.4.3.1 Case 1 of two_children case)
-0.747: (The node you want to delete; has; one child)
-0.724: (The successor; is; the right child of the node)
-0.724: (The node you want to delete; is; a leaf)
-0.712: (The successor; is; n't the right child of the node)
-0.694: (10.5.4; Deleting an item from; a binary search tree 10.5.4.1)
-0.622: (an item; be Deleting from; a binary search tree 10.5.4.1)
-0.591: (the node; being deleted 10.5.4.3.2; 10.5.4.3.2)
-0.414: (right; is child of; the node being deleted 10.5.4.3.2 Case 2 of two_children case)
-0.343: (right; is child of; the node being deleted)
-
-.
+1 3  What Is Computer Science .
 No extractions found.
 
-.
+1 4  What Is Programming .
 No extractions found.
 
-.
+1 5  Why Study Data Structures and Abstract Data Types .
 No extractions found.
 
-.
+1 6  Why Study Algorithms .
 No extractions found.
 
-.
+1 7  Review of Basic Python.
 No extractions found.
 
-Because data structures are higher_level abstractions, they present to us operations on groups of data, such as adding an item to a list, or looking up the highest_priority item in a queue.
-0.881: (they; present to; operations)
-0.842: (higher_level abstractions; present to; operations)
-0.622: (an item; be adding to; a list)
-
- When a data structure provides operations, we can call the data structure an abstract data type .
-0.668: (a data structure; provides; operations)
-
- Abstract data types can minimize dependencies in your code, which is important when your code needs to be changed.
-0.808: (Abstract data types; can minimize; dependencies)
-
- Because you are abstracted away from lower_level details, some of the higher_level commonalities one data structure shares with a different data structure can be used to replace one with the other.
-0.645: (one; to be replace with; the other)
-0.564: (one data structure shares; can be used in; the higher_level commonalities)
-
-.
+1 8  Getting Started with Data 1 8 1  Built_in Atomic Data Types 1 8 2  Built_in Collection Data Types.
 No extractions found.
 
-.
+1 9  Input and Output 1 9 1  String Formatting.
 No extractions found.
 
-.
+1 10  Control Structures.
 No extractions found.
 
-.
+1 11  Exception Handling.
 No extractions found.
 
-.
+1 12  Defining Functions.
 No extractions found.
 
-.
+1 13  Object_Oriented Programming in Python  Defining Classes 1 13 1  A Fraction Class 1 13 2  Inheritance  Logic Gates and Circuits.
 No extractions found.
 
-.
+1 14  Summary.
 No extractions found.
 
-.
+1 15  Key Terms.
 No extractions found.
 
-.
+1 16  Discussion Questions.
 No extractions found.
 
-.
+1 17  Programming Exercises.
 No extractions found.
 
-.
-No extractions found.
+Python has a few built_in data structures.
+0.758: (Python; has; a few built_in data structures)
 
-.
-No extractions found.
+ If you are wondering what a data structure is, it is nothing but a way to store data and having particular methods to retrieve or manipulate it.
+0.539: (it; is; nothing)
 
-.
-No extractions found.
+ We already encountered lists before  now we will go in some depth.
+0.758: (We; already encountered; lists)
+0.757: (we; will go in; some depth)
+0.627: (We; already encountered lists of; we)
 
-.
-No extractions found.
+To create a tuple which contains only one value, type a trailing comma.
+0.497: (one value; be contains by; a tuple)
 
-.
-No extractions found.
+Python is an interpreted, object_oriented, high_level programming language with dynamic semantics.
+0.804: (Python; is; an interpreted , object_oriented , high_level programming language)
+0.8: (Python; is an interpreted , object oriented , high level programming language with; dynamic semantics)
+0.562: (high_level; is programming language with; dynamic semantics)
 
-.
-No extractions found.
+ Its high_level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.
+0.953: (Its high_level; built in; data structures combined with dynamic typing and dynamic binding)
+0.706: (data structures; be combined with; dynamic typing and dynamic binding)
+0.667: (Its high_level; built as for; use)
+0.444: (it; be very attractive for; Rapid Application Development)
 
-.
-No extractions found.
+ Python s simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
+0.825: (easy; therefore reduces; the cost of program maintenance)
+0.758: (Python; emphasizes; readability)
+0.735: (Python; therefore reduces; the cost of program maintenance)
+0.729: (easy; emphasizes; readability)
 
-.
-No extractions found.
+ Python supports modules and packages, which encourages program modularity and code reuse.
+0.821: (Python; supports; modules and packages , which encourages program modularity and code reuse)
+0.564: (program modularity and code reuse; be encourages by; modules and packages)
 
-.
-No extractions found.
+ The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+0.756: (The Python interpreter and the extensive standard library; are available can in; source or binary form)
+0.756: (The Python interpreter and the extensive standard library; are available can without; charge)
+0.678: (The Python interpreter and the extensive standard library; are available can for; all major platforms)
 
 .
 No extractions found.
@@ -483,17 +239,22 @@ No extractions found.
 .
 No extractions found.
 
-.
-No extractions found.
+A List represents the most versatile type of data structure in Python.
+0.854: (A List; represents; the most versatile type of data structure)
 
-.
-No extractions found.
+ It can contain items of different types and it has no rule against unicity.
+0.619: (it; has against; unicity)
+0.592: (it; has; no rule)
+0.57: (It; can contain it has no rule against unicity; items of different types)
+0.404: (it; be items of; different types)
 
-.
-No extractions found.
+ List indices start from zero, the elements can be sliced, concatenated, and so on.
+0.785: (List indices; start from; zero)
 
-.
-No extractions found.
+ Lists also have a lot of similarities with strings, supporting the same kind of operations but unlike strings, lists are mutable.
+0.751: (Lists; also have; a lot of similarities)
+0.425: (lists; are mutable unlike; strings)
+0.395: (Lists; also have a lot of similarities with strings supporting; the same kind of operations)
 
 .
 No extractions found.
@@ -502,571 +263,6 @@ No extractions found.
 No extractions found.
 
 .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-In computer science, an abstract data type is a mathematical model for data types where a data type is defined by its behavior from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations.
-0.909: (an abstract data type; is a mathematical model for; data types where a data type is defined by its behavior from the point of view of a user of the data)
-0.901: (a data type; is defined from; the point of view of a user of the data)
-0.899: (a data type; is defined by; its behavior)
-0.816: (an abstract data type; is a mathematical model in; terms of possible values)
-0.746: (an abstract data type; is a mathematical model in; computer science)
-0.745: (an abstract data type; is; a mathematical model for data types where a data type is defined by its behavior from the point of view of a user of the data , specifically in terms of possible values , possible operations on data of this type , and the behavior of these operations)
-0.655: (an abstract data type; be the behavior of; these operations)
-0.631: (an abstract data type; be possible operations on; data of this type)
-0.564: (a data type; is defined in; data types)
-
- This contrasts with data structures, which are concrete representations of data, and are the point of view of an implementer, not a user.
-0.736: (data structures; are concrete representations of; data)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-In computer science, an abstract data type is a mathematical model for data types where a data type is defined by its behavior from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations.
-0.909: (an abstract data type; is a mathematical model for; data types where a data type is defined by its behavior from the point of view of a user of the data)
-0.901: (a data type; is defined from; the point of view of a user of the data)
-0.899: (a data type; is defined by; its behavior)
-0.816: (an abstract data type; is a mathematical model in; terms of possible values)
-0.746: (an abstract data type; is a mathematical model in; computer science)
-0.745: (an abstract data type; is; a mathematical model for data types where a data type is defined by its behavior from the point of view of a user of the data , specifically in terms of possible values , possible operations on data of this type , and the behavior of these operations)
-0.655: (an abstract data type; be the behavior of; these operations)
-0.631: (an abstract data type; be possible operations on; data of this type)
-0.564: (a data type; is defined in; data types)
-
- This contrasts with data structures, which are concrete representations of data, and are the point of view of an implementer, not a user.
-0.736: (data structures; are concrete representations of; data)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-For example, an abstract stack, which is a last_in_first_out structure, could be defined by three operations: push, that inserts a data item onto the stack; pop, that removes a data item from it; and peek or top, that accesses a data item on top of the stack without removal.
-0.747: (an abstract stack which is a last_in_first_out structure; could be defined; push , that inserts a data item onto the stack ; pop , that removes a data item from it ; and peek or top)
-0.7: (accesses; be a data item on; top of the stack)
-0.69: (an abstract stack which is a last_in_first_out structure; could be defined push , that inserts a data item onto the stack ; pop , that removes a data item from it ; and peek or top , that accesses a data item on top of the stack without removal by; three operations)
-0.59: (accesses; be a data item without; removal)
-0.533: (inserts; be a data item onto; the stack)
-0.225: (an abstract stack which is a last_in_first_out structure; could be defined push , that inserts a data item onto the stack ; pop , that removes a data item from it ; and peek or top , that accesses a data item on top of the stack without removal for; example)
-
- An abstract queue, which is a first_in_first_out structure, would also have three operations: enqueue, that inserts a data item into the queue; dequeue, that removes the first data item from it; and front, that accesses and serves the first data item in the queue.
-0.838: (An abstract queue which is a first_in_first_out structure; would also have three operations; enqueue , that inserts a data item into the queue ; dequeue , that removes the first data item from it ; and front , that accesses and serves the first data item)
-0.485: (An abstract queue which is a first_in_first_out structure; be enqueue , that inserts a data item into the queue ; dequeue , that removes the first data item from it ; and front , that accesses and serves the first data item in; the queue)
-0.43: (An abstract queue which is a first_in_first_out structure; would also have enqueue , that inserts a data item into the queue ; dequeue , that removes the first data item from it ; and front , that accesses and serves the first data item in the queue; three operations)
-
- There would be no way of differentiating these two data types, unless a mathematical constraint is introduced that for a stack specifies that each pop always returns the most recently pushed item that has not been popped yet.
-0.598: (each pop; always returns; the most recently pushed item that has not been popped yet)
-
- When analyzing the efficiency of algorithms that use stacks, one may also specify that all operations take the same time no matter how many data items have been pushed into the stack, and that the stack uses a constant amount of storage for each element.
-0.894: (many data items; have been pushed into; the stack)
-0.65: (the stack; have uses a constant amount of storage for; each element)
-0.648: (the stack; have uses; a constant amount of storage)
-0.606: (all operations; take the same time; no matter)
-0.289: (all operations; take no matter how many data items have been pushed into the stack , and that the stack uses a constant amount of storage for each element; the same time)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Introduction to algorithms in Hindi .
-No extractions found.
-
-Characteristics of algorithm in Hindi.
-No extractions found.
-
-Rules for writing algorithm in Hindi.
-0.641: (algorithm; be writing in; Hindi)
-
-Control statements & algorithms in Hindi.
-No extractions found.
-
-Performance analysis & measurement of algorithm in Hindi.
-No extractions found.
-
-A data structure is a specialized format for organizing and storing data.
-0.746: (A data structure; is; a specialized format)
-
- General data structure types include the array, the file, the record, the table, the tree, and so on.
-0.709: (General data structure types; include; the array)
-
- Any data structure is designed to organize data to suit a specific purpose so that it can be accessed and worked with in appropriate ways.
-No extractions found.
-
- In computer programming, a data structure may be selected or designed to store data for the purpose of working on it with various algorithms.
-0.754: (a data structure; may be selected in; computer programming)
-0.749: (data; to be store for; the purpose working on it with various algorithms)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-Dijkstra's Algorithm for Shortest Path Problem with Example in Hind/English.
-No extractions found.
-
-Graph Theory in Data Structurewith Example.
-No extractions found.
-
-Depth First Search Algorithm in with Example.
-No extractions found.
-
-Breadth First Search Algorithmin with Example.
-No extractions found.
-
-Chapter 51 Introduction to Graphs in Data Structure Hindi.
-No extractions found.
-
-Basic Graph Theory Example in Hindi.
-No extractions found.
-
-[Discrete Math 2] Introduction to Graph Theory.
-No extractions found.
-
-Prim's algorithm for Minimum Spanning Tree in with Example.
-No extractions found.
-
-Binary Tree Lecture Class in with Example.
-No extractions found.
-
-Bubble Sort Algorithmin with Example.
-No extractions found.
-
-Data structures: Properties of Graphs.
-No extractions found.
-
-Graph Theory: 04. Families of Graphs.
-No extractions found.
-
-basics of graph theory in hindi .
-No extractions found.
-
-Hashing Techniques Hash Function, Types of Hashing Techniques in Hindi and English.
-No extractions found.
-
-Basic Concepts in Graph Theory.
-No extractions found.
-
-Graph theory complete tutorial _ Part #1.
-No extractions found.
-
-Construction of Heap with Example in Hindi, English.
-No extractions found.
-
-Stack Class 1 _ PUSH Operation POP Operation with Example in Hindi/English.
-No extractions found.
-
-Tree in Data Structure in with Example.
-No extractions found.
-
-AVL Tree _ Rotation in AVL Tree _ Insert Example in AVL Tree in Hindi/English.
-No extractions found.
-
-Binary Tree Traversal in with Example.
-No extractions found.
-
-Deletion in Binary Search Treewith Example.
-No extractions found.
-
-Selection Sort Algorithm in with Example.
-No extractions found.
-
-Graph Data Structure 1. Terminology and Representation .
-No extractions found.
-
-Graphs _ Data Structures in 5 Minutes.
-No extractions found.
-
-Kruskal algorithm for Minimum Spanning Tree in with Example.
-No extractions found.
-
-Quick Sort Explanation with Working Example in Hindi and English.
-0.858: (Explanation; be Quick Sort with; Working Example)
-
-GRAPH ISOMORPHISM .
-No extractions found.
-
-Graph Theory _ An Introduction!.
-No extractions found.
-
-Euler Path Euler Circuit Hindi.
-No extractions found.
-
-GRAPH THEORY|CIRCUIT SYSTEM|BTECH||CUTSET MATRIX.
-No extractions found.
-
-Data structures: Introduction to graphs.
-No extractions found.
-
-136. Directed and Undirected Graph .
-No extractions found.
-
-BFS Algorithm And Implementation In Hindi _ Jugaadu Engineering_Saadul.
-No extractions found.
-
-Types of Data Structures #2 | Data structure and algorithm lectures By Gaincafe.com.
-No extractions found.
-
-REPRESENTATION OF A GRAPH : BY ADJACENCY LIST.
-No extractions found.
-
-Chapter 52 Representation of Graph in Data Structure hindi.
-No extractions found.
-
-Artificial intelligence ai 11: Depth first search dfs definition algorithm and advantage disadv.
-0.767: (Artificial intelligence; ai; Depth first search dfs definition algorithm and advantage)
-
-Graph Theory for GATE CS by SuperProf Dinesh Singh.
-No extractions found.
-
-Spanning Trees .
-No extractions found.
-
-Binary Search Tree in with Example.
-No extractions found.
-
-DFS GRAPH Traversal in hindi.
-No extractions found.
-
-types of graph in graph theory in hindi.
-No extractions found.
-
-Eulerian path, Eulerian Circuit, Hamiltonian Path & Hamiltonian Circuit.
-No extractions found.
-
-Graph Theory _1 Introduction.
-No extractions found.
-
-Lecture _ 11 The Graph Theory Approach for Electrical Circuits.
-No extractions found.
-
-Chapter 14 Introduction to Tree in Data Structure Hindi.
-No extractions found.
-
-Graph Theory _17 Adjacency Matrix of a Directed Connected Graph.
-0.784: (Graph Theory;  17; Adjacency Matrix of a Directed Connected Graph)
-
-Queue in Data Structure in hindi | 04.
-No extractions found.
-
-Dijkstra's Algorithm for Shortest Path Problem with Example in Hind/English.
-No extractions found.
-
-Graph Theory in Data Structurewith Example.
-No extractions found.
-
-Depth First Search Algorithm in with Example.
-No extractions found.
-
-Breadth First Search Algorithmin with Example.
-No extractions found.
-
-Chapter 51 Introduction to Graphs in Data Structure Hindi.
-No extractions found.
-
-Basic Graph Theory Example in Hindi.
-No extractions found.
-
-[Discrete Math 2] Introduction to Graph Theory.
-No extractions found.
-
-Prim's algorithm for Minimum Spanning Tree in with Example.
-No extractions found.
-
-Binary Tree Lecture Class in with Example.
-No extractions found.
-
-Bubble Sort Algorithmin with Example.
-No extractions found.
-
-Data structures: Properties of Graphs.
-No extractions found.
-
-Graph Theory: 04. Families of Graphs.
-No extractions found.
-
-basics of graph theory in hindi .
-No extractions found.
-
-Hashing Techniques Hash Function, Types of Hashing Techniques in Hindi and English.
-No extractions found.
-
-Basic Concepts in Graph Theory.
-No extractions found.
-
-Graph theory complete tutorial _ Part #1.
-No extractions found.
-
-Construction of Heap with Example in Hindi, English.
-No extractions found.
-
-Stack Class 1 _ PUSH Operation POP Operation with Example in Hindi/English.
-No extractions found.
-
-Tree in Data Structure in with Example.
-No extractions found.
-
-AVL Tree _ Rotation in AVL Tree _ Insert Example in AVL Tree in Hindi/English.
-No extractions found.
-
-Binary Tree Traversal in with Example.
-No extractions found.
-
-Deletion in Binary Search Treewith Example.
-No extractions found.
-
-Selection Sort Algorithm in with Example.
-No extractions found.
-
-Graph Data Structure 1. Terminology and Representation .
-No extractions found.
-
-Graphs _ Data Structures in 5 Minutes.
-No extractions found.
-
-Kruskal algorithm for Minimum Spanning Tree in with Example.
-No extractions found.
-
-Quick Sort Explanation with Working Example in Hindi and English.
-0.858: (Explanation; be Quick Sort with; Working Example)
-
-GRAPH ISOMORPHISM .
-No extractions found.
-
-Graph Theory _ An Introduction!.
-No extractions found.
-
-Euler Path Euler Circuit Hindi.
-No extractions found.
-
-GRAPH THEORY|CIRCUIT SYSTEM|BTECH||CUTSET MATRIX.
-No extractions found.
-
-Data structures: Introduction to graphs.
-No extractions found.
-
-136. Directed and Undirected Graph .
-No extractions found.
-
-BFS Algorithm And Implementation In Hindi _ Jugaadu Engineering_Saadul.
-No extractions found.
-
-Types of Data Structures #2 | Data structure and algorithm lectures By Gaincafe.com.
-No extractions found.
-
-REPRESENTATION OF A GRAPH : BY ADJACENCY LIST.
-No extractions found.
-
-Chapter 52 Representation of Graph in Data Structure hindi.
-No extractions found.
-
-Artificial intelligence ai 11: Depth first search dfs definition algorithm and advantage disadv.
-0.767: (Artificial intelligence; ai; Depth first search dfs definition algorithm and advantage)
-
-Graph Theory for GATE CS by SuperProf Dinesh Singh.
-No extractions found.
-
-Spanning Trees .
-No extractions found.
-
-Binary Search Tree in with Example.
-No extractions found.
-
-DFS GRAPH Traversal in hindi.
-No extractions found.
-
-types of graph in graph theory in hindi.
-No extractions found.
-
-Eulerian path, Eulerian Circuit, Hamiltonian Path & Hamiltonian Circuit.
-No extractions found.
-
-Graph Theory _1 Introduction.
-No extractions found.
-
-Lecture _ 11 The Graph Theory Approach for Electrical Circuits.
-No extractions found.
-
-Chapter 14 Introduction to Tree in Data Structure Hindi.
-No extractions found.
-
-Graph Theory _17 Adjacency Matrix of a Directed Connected Graph.
-0.784: (Graph Theory;  17; Adjacency Matrix of a Directed Connected Graph)
-
-Queue in Data Structure in hindi | 04.
-No extractions found.
-
-In linear data structure, data is organized in sequential order and in non_linear data structure, data is organized in random order.
-0.922: (data; is organized in; sequential order and in non_linear data structure)
-0.914: (data; is organized in; random order)[enabler=linear data structure , data is organized in sequential order and in non_linear data structure]
-0.797: (data; is organized in; linear data structure)
-
- Tree is a very popular data structure used in wide range of applications.
-0.853: (Tree; is a very popular data structure in; wide range of applications)
-0.842: (a very popular data structure; be used in; wide range of applications)
-0.817: (Tree; is; a very popular data structure used in wide range of applications)
-
- A tree data structure can be defined as follows.
-No extractions found.
-
-.
-No extractions found.
-
-Table Of Contents:.
-No extractions found.
-
-.
-No extractions found.
-
- .
-No extractions found.
-
-.
-No extractions found.
-
-All the titles clearly mention the approximate dispatch time from our warehouse from date of your order receipt. The dispatch details are:.
-0.795: (the titles; clearly mention the approximate dispatch time from; date of your order receipt)
-0.794: (the titles; clearly mention the approximate dispatch time from; our warehouse)
-0.676: (the titles; clearly mention The dispatch details are from; date of your order receipt)
-0.674: (the titles; clearly mention The dispatch details are from; our warehouse)
-0.538: (the titles; clearly mention the approximate dispatch time; The dispatch details are)
-0.494: (the titles; clearly mention The dispatch details are; the approximate dispatch time)
-
-1_3 days:.
-No extractions found.
-
-3_7 days:.
-No extractions found.
-
-10_14 days:.
-No extractions found.
-
-Out of stock.
-No extractions found.
-
-Pre_Order.
 No extractions found.
 
 .

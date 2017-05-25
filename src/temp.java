@@ -16,15 +16,26 @@ public class temp
         //number of templates
         int temp_num = 0;
         ArrayList<String> head_phrase_list = new ArrayList<String>();
+        ArrayList<String> query_term_list = new ArrayList<String>();
+        //ArrayList<String>
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the search term.");
         String searchTerm = scanner.nextLine();
+        System.out.println("Please enter the number of query terms.");
+        int num_query_terms = scanner.nextInt();
+        System.out.println("Please enter the list of query terms (one in each line)");
+        Scanner scanner1 = new Scanner(System.in);
+        for(int i = 0 ; i < num_query_terms ;i++){
+            String new_head = scanner1.nextLine();
+            query_term_list.add(new_head);
+//            System.out.println(new_head + " " + query_term_list.size());
+        }
         System.out.println("Please enter the number of head phrase.");
         int num_head = scanner.nextInt();
         System.out.println("Please enter the list of head phrase (one in each line)");
-        Scanner scanner1 = new Scanner(System.in);
+        Scanner scanner2 = new Scanner(System.in);
         for(int i = 0 ; i < num_head ;i++){
-            String new_head = scanner1.nextLine();
+            String new_head = scanner2.nextLine();
             head_phrase_list.add(new_head);
             //System.out.println(new_head + " " + head_phrase_list.size());
         }
@@ -78,11 +89,12 @@ public class temp
             }
             //System.out.println(templates_final);
         }
-
         if(flag == 0){
 
+            boolean is_quick_ans_present = false;
             GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-            googleSearchJava.googleSearch(searchTerm, search, 0);
+            is_quick_ans_present = googleSearchJava.googleSearch(searchTerm, search, 0, head_phrase_list, query_term_list);
+            System.out.println("found quick answer:: " + is_quick_ans_present);
 
             //via Ollie
             parseOllie parseollie = new parseOllie();
@@ -110,10 +122,12 @@ public class temp
         else{
             for(int i=0;i<templates_final.size();i++)
             {
+                boolean is_quick_ans_present = false;
                 //String temp_1 = "" + i;
                 //templates_final.set(i,temp_1);
                 GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-                googleSearchJava.googleSearch(templates_final.get(i), search, i);
+                is_quick_ans_present = googleSearchJava.googleSearch(templates_final.get(i), search, i, head_phrase_list, query_term_list);
+                System.out.println("found quick answer:: " + is_quick_ans_present);
 
                 //via Ollie
                 parseOllie parseollie = new parseOllie();
@@ -137,9 +151,10 @@ public class temp
                 //RAKE
                 TripleRake triplerake = new TripleRake();
                 triplerake.tripleRake(i);
+
+
              }
         }
-
 
 
 //        CombineOllie combineOllie = new CombineOllie();
@@ -154,6 +169,9 @@ public class temp
 
         NormalizeScores normalizeScores = new NormalizeScores();
         normalizeScores.NormalizeFunc();
+
+        test_map test_map_ins = new test_map();
+        test_map_ins.test_map_func();
 
 
     }

@@ -1,17 +1,15 @@
-.
+A data structure is a specialized format for organizing and storing data.
+0.746: (A data structure; is; a specialized format)
+
+ General data structure types include the array, the file, the record, the table, the tree, and so on.
+0.709: (General data structure types; include; the array)
+
+ Any data structure is designed to organize data to suit a specific purpose so that it can be accessed and worked with in appropriate ways.
 No extractions found.
 
-Framing is the technique of drawing attention to the subject of your image by blocking other parts of the image with something in the scene.
-0.774: (Framing; is; the technique drawing attention to the subject of your image by blocking other parts of the image with something in the scene)
-0.72: (attention; be drawing to; the subject of your image)
-0.707: (other parts of the image; be blocking with; something)
-0.447: (other; be parts of; the image)
-
-The benefits of framing pictures include .
-No extractions found.
-
-.
-No extractions found.
+ In computer programming, a data structure may be selected or designed to store data for the purpose of working on it with various algorithms.
+0.754: (a data structure; may be selected in; computer programming)
+0.749: (data; to be store for; the purpose working on it with various algorithms)
 
 .
 No extractions found.
@@ -24,4 +22,1119 @@ No extractions found.
 
 .
 No extractions found.
+
+ .
+No extractions found.
+
+In computer science, a data structure is a particular way of organizing data in a computer so that it can be used efficiently.
+0.688: (a data structure; is a particular way in; computer science)
+0.673: (a data structure; is; a particular way organizing data in a computer so that it can be used efficiently)
+0.219: (particular; is way in; computer science)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+This is a list of data structures.
+No extractions found.
+
+ For a wider list of terms, see list of terms relating to algorithms and data structures.
+0.487: (terms; relating to; algorithms and data structures)
+
+ For a comparison of running time of subset of this list see comparison of data structures.
+No extractions found.
+
+Some properties of abstract data types.
+No extractions found.
+
+A data structure is said to be linear if its elements form a sequence.
+0.788: (A data structure; is said; linear)
+0.156: (its elements; form; a sequence)
+
+In these data structures each tree node compares a bit slice of key values.
+0.825: (each tree node; compares; a bit slice of key values)
+0.613: (each tree node; compares a bit slice of key values in; these data structures)
+
+ Trie.
+No extractions found.
+
+ Radix tree.
+No extractions found.
+
+ Suffix tree.
+No extractions found.
+
+ Suffix array.
+No extractions found.
+
+ Compressed suffix array.
+No extractions found.
+
+ FM_index.
+No extractions found.
+
+ Generalised suffix tree.
+No extractions found.
+
+ B_trie.
+No extractions found.
+
+ Judy array.
+No extractions found.
+
+ X_fast trie.
+No extractions found.
+
+ Y_fast trie.
+No extractions found.
+
+ Merkle Tree.
+No extractions found.
+
+ Ctrie.
+No extractions found.
+
+These are data structures used for space partitioning or binary space partitioning.
+No extractions found.
+
+ Segment tree.
+No extractions found.
+
+ Interval tree.
+No extractions found.
+
+ Range tree.
+No extractions found.
+
+ Bin.
+No extractions found.
+
+ K_d tree.
+No extractions found.
+
+ Implicit k_d tree.
+No extractions found.
+
+ Min max k_d tree.
+No extractions found.
+
+ Relaxed k_d tree.
+No extractions found.
+
+ Adaptive k_d tree.
+No extractions found.
+
+ Quadtree.
+No extractions found.
+
+ Octree.
+No extractions found.
+
+ Linear octree.
+No extractions found.
+
+ Z_order.
+No extractions found.
+
+ UB_tree.
+No extractions found.
+
+ R_tree.
+No extractions found.
+
+ R  tree.
+No extractions found.
+
+ R  tree.
+No extractions found.
+
+ Hilbert R_tree.
+No extractions found.
+
+ X_tree.
+No extractions found.
+
+ Metric tree.
+No extractions found.
+
+ Cover tree.
+No extractions found.
+
+ M_tree.
+No extractions found.
+
+ VP_tree.
+No extractions found.
+
+ BK_tree.
+No extractions found.
+
+ Bounding interval hierarchy.
+No extractions found.
+
+ Bounding volume hierarchy.
+No extractions found.
+
+ BSP tree.
+No extractions found.
+
+ Rapidly exploring random tree.
+No extractions found.
+
+1 Data types 1 1 Primitive types 1 2 Composite types or Non_primitive type 1 3 Abstract data types.
+No extractions found.
+
+2 Linear data structures 2 1 Arrays 2 2 Lists.
+No extractions found.
+
+3 Trees 3 1 Binary trees 3 2 B_trees 3 3 Heaps 3 4 Trees 3 5 Multiway trees 3 6 Space_partitioning trees 3 7 Application_specific trees.
+0.605: (3 Trees 3 1 Binary trees 3 2; B trees; 3 3 Heaps 3 4 Trees)
+
+4 Hashes.
+No extractions found.
+
+5 Graphs.
+No extractions found.
+
+6 Other.
+No extractions found.
+
+7 External links.
+No extractions found.
+
+1 1 Primitive types.
+No extractions found.
+
+1 2 Composite types or Non_primitive type.
+No extractions found.
+
+1 3 Abstract data types.
+No extractions found.
+
+2 1 Arrays.
+No extractions found.
+
+2 2 Lists.
+No extractions found.
+
+3 1 Binary trees.
+No extractions found.
+
+3 2 B_trees.
+No extractions found.
+
+3 3 Heaps.
+No extractions found.
+
+3 4 Trees.
+No extractions found.
+
+3 5 Multiway trees.
+No extractions found.
+
+3 6 Space_partitioning trees.
+No extractions found.
+
+3 7 Application_specific trees.
+No extractions found.
+
+Boolean, true or false.
+No extractions found.
+
+Character.
+No extractions found.
+
+Floating_point, single_precision real number values.
+No extractions found.
+
+Double, a wider floating_point size.
+No extractions found.
+
+Integer, integral or fixed_precision values.
+No extractions found.
+
+String, a sequence of characters.
+0.482: (String; be a sequence of; characters)
+
+Reference , a small value referring to another object s address in memory, possibly a much larger one .
+0.751: (Reference; s; address in memory , possibly a much larger one)
+0.62: (a small value; referring to; another object)
+
+Enumerated type, a small set of uniquely_named values.
+0.654: (Enumerated type; be a small set of; uniquely_named values)
+0.285: (small; set of; uniquely_named values)
+
+Array.
+No extractions found.
+
+Record .
+No extractions found.
+
+Union.
+No extractions found.
+
+Tagged union .
+No extractions found.
+
+Container.
+No extractions found.
+
+List.
+No extractions found.
+
+Associative array.
+No extractions found.
+
+Multimap.
+No extractions found.
+
+Set.
+No extractions found.
+
+Bag.
+No extractions found.
+
+Multiset.
+No extractions found.
+
+Stack.
+No extractions found.
+
+Queue.
+No extractions found.
+
+Double_ended queue.
+No extractions found.
+
+Priority queue.
+No extractions found.
+
+Tree.
+No extractions found.
+
+Graph.
+No extractions found.
+
+Array.
+No extractions found.
+
+Bit array.
+No extractions found.
+
+Bit field.
+No extractions found.
+
+Bitboard.
+No extractions found.
+
+Bitmap.
+No extractions found.
+
+Circular buffer.
+No extractions found.
+
+Control table.
+No extractions found.
+
+Image.
+No extractions found.
+
+Dope vector.
+No extractions found.
+
+Dynamic array.
+No extractions found.
+
+Gap buffer.
+No extractions found.
+
+Hashed array tree.
+No extractions found.
+
+Heightmap.
+No extractions found.
+
+Lookup table.
+No extractions found.
+
+Matrix.
+No extractions found.
+
+Parallel array.
+No extractions found.
+
+Sorted array.
+No extractions found.
+
+Sparse matrix.
+No extractions found.
+
+Iliffe vector.
+No extractions found.
+
+Variable_length array.
+No extractions found.
+
+Doubly linked list.
+No extractions found.
+
+Array list.
+No extractions found.
+
+Linked list.
+No extractions found.
+
+Self_organizing list.
+No extractions found.
+
+Skip list.
+No extractions found.
+
+Unrolled linked list.
+No extractions found.
+
+VList.
+No extractions found.
+
+Conc_Tree list.
+No extractions found.
+
+Xor linked list.
+No extractions found.
+
+Zipper.
+No extractions found.
+
+Doubly connected edge list.
+No extractions found.
+
+Difference list.
+No extractions found.
+
+Free list.
+No extractions found.
+
+AA tree.
+No extractions found.
+
+AVL tree.
+No extractions found.
+
+Binary search tree.
+No extractions found.
+
+Binary tree.
+No extractions found.
+
+Cartesian tree.
+No extractions found.
+
+Left_child right_sibling binary tree.
+0.632: (Left_child; right sibling binary; tree)
+
+Order statistic tree.
+No extractions found.
+
+Pagoda.
+No extractions found.
+
+Randomized binary search tree.
+No extractions found.
+
+Red black tree.
+No extractions found.
+
+Rope.
+No extractions found.
+
+Scapegoat tree.
+No extractions found.
+
+Self_balancing binary search tree.
+No extractions found.
+
+Splay tree.
+No extractions found.
+
+T_tree.
+No extractions found.
+
+Tango tree.
+No extractions found.
+
+Threaded binary tree.
+No extractions found.
+
+Top tree.
+No extractions found.
+
+Treap.
+No extractions found.
+
+WAVL tree.
+No extractions found.
+
+Weight_balanced tree.
+No extractions found.
+
+B_tree.
+No extractions found.
+
+B  tree.
+No extractions found.
+
+B _tree.
+No extractions found.
+
+B sharp tree.
+No extractions found.
+
+Dancing tree.
+No extractions found.
+
+2_3 tree.
+No extractions found.
+
+2_3_4 tree.
+No extractions found.
+
+Queap.
+No extractions found.
+
+Fusion tree.
+No extractions found.
+
+Bx_tree.
+No extractions found.
+
+AList.
+No extractions found.
+
+Heap.
+No extractions found.
+
+Binary heap.
+No extractions found.
+
+Weak heap.
+No extractions found.
+
+Binomial heap.
+No extractions found.
+
+Fibonacci heap AF_heap.
+No extractions found.
+
+Leonardo Heap.
+No extractions found.
+
+2_3 heap.
+No extractions found.
+
+Soft heap.
+No extractions found.
+
+Pairing heap.
+No extractions found.
+
+Leftist heap.
+No extractions found.
+
+Treap.
+No extractions found.
+
+Beap.
+No extractions found.
+
+Skew heap.
+No extractions found.
+
+Ternary heap.
+No extractions found.
+
+D_ary heap.
+No extractions found.
+
+Brodal queue.
+No extractions found.
+
+AF_heap.
+No extractions found.
+
+Ternary tree.
+No extractions found.
+
+K_ary tree.
+No extractions found.
+
+And or tree.
+No extractions found.
+
+_tree.
+No extractions found.
+
+Link cut tree.
+0.631: (Link; cut; tree)
+
+SPQR_tree.
+No extractions found.
+
+Spaghetti stack.
+No extractions found.
+
+Disjoint_set data structure.
+No extractions found.
+
+Fusion tree.
+No extractions found.
+
+Enfilade.
+No extractions found.
+
+Exponential tree.
+No extractions found.
+
+Fenwick tree.
+No extractions found.
+
+Van Emde Boas tree.
+No extractions found.
+
+Rose tree.
+No extractions found.
+
+Abstract syntax tree.
+No extractions found.
+
+Parse tree.
+No extractions found.
+
+Decision tree.
+No extractions found.
+
+Alternating decision tree.
+No extractions found.
+
+Minimax tree.
+No extractions found.
+
+Expectiminimax tree.
+No extractions found.
+
+Finger tree.
+No extractions found.
+
+Expression tree.
+No extractions found.
+
+Log_structured merge_tree.
+No extractions found.
+
+Lexicographic Search Tree.
+No extractions found.
+
+Bloom filter.
+No extractions found.
+
+Count_Min sketch.
+No extractions found.
+
+Distributed hash table.
+No extractions found.
+
+Double Hashing.
+No extractions found.
+
+Dynamic perfect hash table.
+No extractions found.
+
+Hash array mapped trie.
+0.684: (Hash; mapped; trie)
+
+Hash list.
+No extractions found.
+
+Hash table.
+No extractions found.
+
+Hash tree.
+No extractions found.
+
+Hash trie.
+No extractions found.
+
+Koorde.
+No extractions found.
+
+Prefix hash tree.
+No extractions found.
+
+Rolling hash.
+No extractions found.
+
+MinHash.
+No extractions found.
+
+Quotient filter.
+No extractions found.
+
+Ctrie.
+No extractions found.
+
+Graph.
+No extractions found.
+
+Adjacency list.
+No extractions found.
+
+Adjacency matrix.
+No extractions found.
+
+Graph_structured stack.
+No extractions found.
+
+Scene graph.
+No extractions found.
+
+Binary decision diagram.
+No extractions found.
+
+Zero_suppressed decision diagram.
+No extractions found.
+
+And_inverter graph.
+No extractions found.
+
+Directed graph.
+No extractions found.
+
+Directed acyclic graph.
+No extractions found.
+
+Propositional directed acyclic graph.
+0.829: (Propositional; directed; acyclic graph)
+
+Multigraph.
+No extractions found.
+
+Hypergraph.
+No extractions found.
+
+Lightmap.
+No extractions found.
+
+Winged edge.
+No extractions found.
+
+Doubly connected edge list.
+No extractions found.
+
+Quad_edge.
+No extractions found.
+
+Routing table.
+No extractions found.
+
+Symbol table.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+Collection.
+No extractions found.
+
+Container.
+No extractions found.
+
+Associative array Multimap.
+No extractions found.
+
+List.
+No extractions found.
+
+Stack.
+No extractions found.
+
+Queue Double_ended queue.
+0.723: (Queue; Double ended; queue)
+
+Priority queue Double_ended priority queue.
+0.664: (Priority; queue Double ended; priority queue)
+
+Set Multiset Disjoint_set.
+No extractions found.
+
+Multimap.
+No extractions found.
+
+Double_ended queue.
+No extractions found.
+
+Double_ended priority queue.
+No extractions found.
+
+Multiset.
+No extractions found.
+
+Disjoint_set.
+No extractions found.
+
+Bit array.
+No extractions found.
+
+Circular buffer.
+No extractions found.
+
+Dynamic array.
+No extractions found.
+
+Hash table.
+No extractions found.
+
+Hashed array tree.
+No extractions found.
+
+Sparse matrix.
+No extractions found.
+
+Association list.
+No extractions found.
+
+Linked list.
+No extractions found.
+
+Skip list.
+No extractions found.
+
+Unrolled linked list.
+No extractions found.
+
+XOR linked list.
+No extractions found.
+
+B_tree.
+No extractions found.
+
+Binary search tree AA tree AVL tree Red black tree Self_balancing tree Splay tree.
+0.589: (tree; be Self balancing splay; tree)
+0.475: (tree Red black tree; Self balancing tree splay; tree)
+
+Heap Binary heap Binomial heap Fibonacci heap.
+No extractions found.
+
+R_tree R  tree R  tree Hilbert R_tree.
+No extractions found.
+
+Trie Hash tree.
+No extractions found.
+
+AA tree.
+No extractions found.
+
+AVL tree.
+No extractions found.
+
+Red black tree.
+No extractions found.
+
+Self_balancing tree.
+No extractions found.
+
+Splay tree.
+No extractions found.
+
+Binary heap.
+No extractions found.
+
+Binomial heap.
+No extractions found.
+
+Fibonacci heap.
+No extractions found.
+
+R  tree.
+No extractions found.
+
+R  tree.
+No extractions found.
+
+Hilbert R_tree.
+No extractions found.
+
+Hash tree.
+No extractions found.
+
+Binary decision diagram.
+No extractions found.
+
+Directed acyclic graph.
+No extractions found.
+
+Directed acyclic word graph.
+No extractions found.
+
+List of data structures.
+No extractions found.
+
+Tommy Benchmarks Comparison of several data structures .
+No extractions found.
+
+Data structures.
+No extractions found.
+
+Computing_related lists.
+No extractions found.
+
+Not logged in.
+No extractions found.
+
+Talk.
+No extractions found.
+
+Contributions.
+No extractions found.
+
+Create account.
+No extractions found.
+
+Log in.
+No extractions found.
+
+Article.
+No extractions found.
+
+Talk.
+No extractions found.
+
+Read.
+No extractions found.
+
+Edit.
+No extractions found.
+
+View history.
+No extractions found.
+
+Main page.
+No extractions found.
+
+Contents.
+No extractions found.
+
+Featured content.
+No extractions found.
+
+Current events.
+No extractions found.
+
+Random article.
+No extractions found.
+
+Donate to Wikipedia.
+No extractions found.
+
+Wikipedia store.
+No extractions found.
+
+Help.
+No extractions found.
+
+About Wikipedia.
+No extractions found.
+
+Community portal.
+No extractions found.
+
+Recent changes.
+No extractions found.
+
+Contact page.
+No extractions found.
+
+What links here.
+No extractions found.
+
+Related changes.
+No extractions found.
+
+Upload file.
+No extractions found.
+
+Special pages.
+No extractions found.
+
+Permanent link.
+No extractions found.
+
+Page information.
+No extractions found.
+
+Wikidata item.
+No extractions found.
+
+Cite this page.
+No extractions found.
+
+Create a book.
+No extractions found.
+
+Download as PDF.
+No extractions found.
+
+Printable version.
+No extractions found.
+
+     .
+No extractions found.
+
+      .
+No extractions found.
+
+Italiano.
+No extractions found.
+
+Magyar.
+No extractions found.
+
+       .
+No extractions found.
+
+   .
+No extractions found.
+
+T rk e.
+No extractions found.
+
+          .
+No extractions found.
+
+Ti ng Vi t.
+No extractions found.
+
+  .
+No extractions found.
+
+This page was last edited on 30 April 2017, at 15 25 .
+0.794: (This page; was last at; 15 25)
+0.665: (This page; was; last)
+
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization .
+0.876: (you; agree to; the Terms of Use)
+0.739: (Text; is available under; the Creative Commons)
+0.639: (available; may apply; a registered trademark of the Wikimedia Foundation)
+0.591: (Text; is; available)
+0.509: (Text; is available attribution sharealike; License additional terms)
+0.48: (registered; is trademark of; the Wikimedia Foundation)
+
+Privacy policy.
+No extractions found.
+
+About Wikipedia.
+No extractions found.
+
+Disclaimers.
+No extractions found.
+
+Contact Wikipedia.
+No extractions found.
+
+Developers.
+No extractions found.
+
+Cookie statement.
+No extractions found.
+
+Mobile view.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Some properties of abstract data types.
+No extractions found.
+
+Double_ended queue.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A data structure is a specialized format for organizing and storing data.
+0.746: (A data structure; is; a specialized format)
+
+ General data structure types include the array, the file, the record, the table, the tree, and so on.
+0.709: (General data structure types; include; the array)
+
+ Any data structure is designed to organize data to suit a specific purpose so that it can be accessed and worked with in appropriate ways.
+No extractions found.
+
+ In computer programming, a data structure may be selected or designed to store data for the purpose of working on it with various algorithms.
+0.754: (a data structure; may be selected in; computer programming)
+0.749: (data; to be store for; the purpose working on it with various algorithms)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+In Australia, the Computer Science Department at the University of Monash provides an  Introduction to Algorithms and Data Structures  .
+0.788: (the Computer Science Department; provides; an Introduction)
+0.486: (the Computer Science Department; provides an Introduction to Algorithms and Data Structures in; Australia)
+
+ .
+No extractions found.
+
+Data structure, way in which data are stored for efficient search and retrieval.
+0.914: (data; are stored for; efficient search and retrieval)
+0.655: (data; are stored in; way)
+
+ Different data structures are suited for different problems.
+0.919: (Different data structures; are suited for; different problems)
+
+ Some data structures are useful for simple general problems, such as retrieving data that has been stored with a specific identifier.
+0.797: (Some data structures; are useful for; simple general problems)
+
+ For example, an online dictionary can be structured so that it can retrieve the definition of a word.
+0.497: (it; so can retrieve; the definition of a word)
+0.46: (an online dictionary; can be structured for; example)
+
+ On the other hand, specialized data structures have been devised to solve complex specific search problems.
+0.754: (specialized data structures; have been devised on; the other hand)
 

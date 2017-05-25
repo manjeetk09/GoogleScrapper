@@ -1,0 +1,14 @@
+The three properties of a vector are type, length, and attributes.
+The four common types of atomic vector are logical, integer, double , and character.
+ The two rarer types are complex and raw.
+A vector is the most common and basic data structure in R and is pretty much the workhorse of R.
+ Technically, vectors can be one of two types.
+ atomic vectors.
+ lists.
+What are the different data structures in R .
+How do I access data within the various data structures .
+Expose learners to the different data types in R.
+length  number of elements or components str     structure of an object class   class or type of an object names   names c object,object,.
+          combine objects into a vector cbind object, object, .
+    combine objects as columns rbind object, object, .
+    combine objects as rows object       prints the object ls        list current objects rm  delete an object newobject  _ edit  edit copy and save as newobject fix                edit in place.

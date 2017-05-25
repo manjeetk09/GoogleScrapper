@@ -36,20 +36,51 @@ public class TripleRake
         ArrayList<Double> rake_score = new ArrayList<Double>();
         ArrayList<Integer> freq_in_doc = new ArrayList<Integer>();
         ArrayList<Integer> num_docs = new ArrayList<Integer>();
-
+        ArrayList<Integer> quick_ans = new ArrayList<Integer>();
+//        ArrayList<String> all_lines = new ArrayList<String>();
+//        int end_crawler_line_index = 0;
         FileReader fr = new FileReader("crawler" + temp_index + ".txt");
         BufferedReader br = new BufferedReader(fr);
 
         FileWriter fw1 = new FileWriter("entity_rake" + temp_index + ".csv");
         BufferedWriter bw1 = new BufferedWriter(fw1);
         //bw1.write("LINE NO." + ";" + "URLS" + ";" + "ENTITY" + ";"+"RAKE-SCORE"+";" + "TF"+ ";" + "IDF"+ "\n");
+        String line2 = "";
+//        while((line2 = br.readLine()) != null){
+//
+//            all_lines.add(line2);
+//            end_crawler_line_index++;
+//        }
+//
+//        if(is_quick_ans == true){
+//            FileReader fr_Q = new FileReader("quick_ans" + temp_index + ".txt");
+//            BufferedReader br_Q = new BufferedReader(fr_Q);
+//            while((line2 = br_Q.readLine()) != null){
+//                all_lines.add(line2);
+//            }
+//            try{
+//                if(br_Q != null)
+//                    br_Q.close();
+//
+//                if(fr_Q != null)
+//                    fr_Q.close();
+//            }catch (Exception e){
+//                e.printStackTrace();
+//            }
+//        }
+
+
+
 
         int i = 0;
-        String line2 = "";
-        while((line2 = br.readLine()) != null)
+        String line3 = "";
+        while((line3 = br.readLine()) != null)
         {
             i = i+1;
             //System.out.println(i);
+            int is_quick_ans_int = Integer.parseInt(line3.substring(0,1));
+//            System.out.println("we found:: "+ is_quick_ans_int + "and line was:: " + line3 );
+            line2 = line3.substring(2);
             if(line2.length() >= 3)
             {
                 FileWriter fw = new FileWriter("temp.txt");
@@ -77,20 +108,32 @@ public class TripleRake
                     String line = "";
 
                     while((line = reader.readLine()) != null) {
+                        if(line.length() < 9)
+                        {
+                            continue;
+                        }
 
                         if(line.substring(0,9).matches("Candidate"))
                         {
                             String entity_temp = line.substring(12,line.indexOf(',')-1);
+                            int num_ent_words = entity_temp.split(" ").length;
                             line = line.substring(line.indexOf(','));
                             String score_temp_string = line.substring( line.indexOf(':')+2);
                             Double score_temp = Double.parseDouble( score_temp_string );
+                            Double new_rake_score = score_temp/(num_ent_words*1.0);
 //                        System.out.println(entity_temp + '\t' + score_temp);
 //                        bw1.write(i+";"+entity_temp+";"+score_temp+"\n");
                             line_num.add(i);
                             entity_name.add(entity_temp);
-                            rake_score.add(score_temp);
+                            rake_score.add(new_rake_score);
                             freq_in_doc.add(0);
                             num_docs.add(1);
+                            if( is_quick_ans_int == 0){
+                                quick_ans.add(0);
+                            }
+                            else{
+                                quick_ans.add(1);
+                            }
                         }
                     }
 
@@ -121,10 +164,10 @@ public class TripleRake
         int total_docs = 1;
         ArrayList<Integer>  terms_in_doc = new ArrayList<Integer>();
         int previous_index = 0;
-        System.out.println("LINE SIZE:" + line_num.size());
+//        System.out.println("LINE SIZE:" + line_num.size());
         for(int j=0;j<line_num.size()-1;j++)
         {
-            System.out.println("LINE NUM:" + line_num.get(j) + ";" + line_num.get(j+1));
+//            System.out.println("LINE NUM:" + line_num.get(j) + ";" + line_num.get(j+1));
 //            if(j > line_num.size())
 //            {
 //                continue;
@@ -175,7 +218,7 @@ public class TripleRake
             tf = (freq_in_doc.get(j)*1.0) / (terms_in_doc.get(j)*1.0) ;
             idf = (total_docs*1.0) / (num_docs.get(j)*1.0);
 
-            bw1.write(line_num.get(j) + ";" + urls.get(line_num.get(j)-1) + ";" + entity_name.get(j)+ ";"+rake_score.get(j)+";" + tf+ ";" + idf + "\n");
+            bw1.write(line_num.get(j) + ";" + urls.get(line_num.get(j)-1) + ";" + entity_name.get(j)+ ";"+rake_score.get(j)+";" + tf+ ";" + idf + ";" + quick_ans.get(j) +"\n");
         }
 
 

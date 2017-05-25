@@ -1,0 +1,12 @@
+Multimap.
+.
+.
+.
+The Properties class is used by many other Java classes.
+ For example, it is the type of object returned by System.
+getPropertieswhen obtaining environmental values.
+.
+Multimap.
+.
+.
+A language s set of primitive types are not sufficient, by themselves, for dealing with data that have many parts and complex interrelationships among those parts.

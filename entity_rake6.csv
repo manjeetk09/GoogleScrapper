@@ -1,173 +1,47 @@
-1;http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/;practical;1.0;0.2;39.0
-1;http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/;complete binary tree;8.5;0.2;13.0
-1;http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/;binary heap;4.5;0.2;39.0
-2;http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/;perfect binary tree;9.0;0.2;19.5
-2;http://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/;height;1.0;0.0;39.0
-5;https://en.wikipedia.org/wiki/Binary_tree;varies;1.0;0.25;39.0
-5;https://en.wikipedia.org/wiki/Binary_tree;literature;1.0;0.0;39.0
-5;https://en.wikipedia.org/wiki/Binary_tree;tree terminology;4.0;0.25;39.0
-5;https://en.wikipedia.org/wiki/Binary_tree;well_standardized;1.0;0.25;39.0
-9;http://btechsmartclass.com/DS/U3_T3.html;normal tree;4.0;0.08333333333333333;39.0
-9;http://btechsmartclass.com/DS/U3_T3.html;node;1.0;0.16666666666666666;7.8
-9;http://btechsmartclass.com/DS/U3_T3.html;number;1.0;0.08333333333333333;39.0
-9;http://btechsmartclass.com/DS/U3_T3.html;children;1.0;0.08333333333333333;13.0
-10;http://btechsmartclass.com/DS/U3_T3.html;node;1.0;0.16666666666666666;7.8
-10;http://btechsmartclass.com/DS/U3_T3.html;2 children;1.0;0.08333333333333333;39.0
-10;http://btechsmartclass.com/DS/U3_T3.html;maximum;1.0;0.08333333333333333;39.0
-10;http://btechsmartclass.com/DS/U3_T3.html;special type;4.0;0.08333333333333333;39.0
-10;http://btechsmartclass.com/DS/U3_T3.html;tree data structure;8.5;0.08333333333333333;39.0
-10;http://btechsmartclass.com/DS/U3_T3.html;binary tree;4.5;0.08333333333333333;4.333333333333333
-11;http://btechsmartclass.com/DS/U3_T3.html;left child;3.5;0.08333333333333333;19.5
-11;http://btechsmartclass.com/DS/U3_T3.html;child;1.5;0.08333333333333333;19.5
-36;https://www.quora.com/What-are-the-types-of-trees-in-data-structures;tree data structures;9.0;0.5;39.0
-36;https://www.quora.com/What-are-the-types-of-trees-in-data-structures;types;1.0;0.5;13.0
-40;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;kind;1.0;0.0;39.0
-40;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;binary search tree;9.0;0.1;19.5
-40;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;binary tree called;9.0;0.1;39.0
-41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;storing repository;4.0;0.1;39.0
-41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;data structure;4.0;0.1;39.0
-41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;efficient;1.0;0.1;19.5
-41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;data sorting;4.0;0.1;39.0
-41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;searching;1.0;0.1;39.0
-41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;basic idea;4.0;0.1;39.0
-41;https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html;retriving;1.0;0.0;39.0
-51;https://en.wikibooks.org/wiki/Data_Structures/Trees;trees;1.0;0.125;13.0
-51;https://en.wikibooks.org/wiki/Data_Structures/Trees;types;1.0;0.125;13.0
-52;https://en.wikibooks.org/wiki/Data_Structures/Trees;node;1.0;0.125;6.5
-52;https://en.wikibooks.org/wiki/Data_Structures/Trees;binary;1.0;0.125;39.0
-52;https://en.wikibooks.org/wiki/Data_Structures/Trees;children;1.0;0.125;13.0
-53;https://en.wikibooks.org/wiki/Data_Structures/Trees;efficient;1.0;0.125;19.5
-53;https://en.wikibooks.org/wiki/Data_Structures/Trees;assertion makes;4.0;0.125;39.0
-53;https://en.wikibooks.org/wiki/Data_Structures/Trees;tree operations simple;9.0;0.125;39.0
-82;http://lcm.csa.iisc.ernet.in/dsa/node87.html;    } node_type;1.0;0.5;39.0
-83;http://lcm.csa.iisc.ernet.in/dsa/node87.html;void preorder;4.0;0.5;39.0
-93;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;important type;4.0;0.045454545454545456;39.0
-93;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;binary tree;4.0;0.13636363636363635;5.571428571428571
-93;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;occurs;1.0;0.045454545454545456;39.0
-93;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;structure;1.0;0.045454545454545456;39.0
-94;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;node;1.0;0.09090909090909091;7.8
-94;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;branches;1.0;0.045454545454545456;39.0
-94;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;fact;1.0;0.045454545454545456;39.0
-94;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;characterized;1.0;0.0;39.0
-96;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;node;1.0;0.09090909090909091;7.8
-96;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;degree greater;4.0;0.045454545454545456;39.0
-97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;binary trees;3.5;0.045454545454545456;9.75
-97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;subtree;1.0;0.0;39.0
-97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;trees;1.5;0.045454545454545456;13.0
-97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;subtreewas irrelevant;4.0;0.045454545454545456;39.0
-97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;distinguish;1.0;0.0;39.0
-97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;order;1.0;0.045454545454545456;39.0
-97;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;left;1.0;0.0;39.0
-98;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;binary tree;4.0;0.13636363636363635;5.571428571428571
-98;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;nodes;1.0;0.045454545454545456;13.0
-99;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;binary tree;3.5;0.13636363636363635;5.571428571428571
-99;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;object;1.0;0.045454545454545456;39.0
-99;https://www.cmpe.boun.edu.tr/~akin/cmpe223/chap4.htm;tree;1.5;0.045454545454545456;13.0
-106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;completely filled;4.0;0.03225806451612903;39.0
-106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;level;1.0;0.0;39.0
-106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;complete binary tree;8.0;0.03225806451612903;13.0
-106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;possibly;1.0;0.03225806451612903;39.0
-106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;binary tree;5.0;0.06451612903225806;4.875
-106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;nodes;1.0;0.06451612903225806;19.5
-106;http://www.w3schools.in/data-structures-tutorial/binary-trees/;left;1.0;0.0;39.0
-108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;resultant tree;4.33333333333;0.03225806451612903;39.0
-108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;adding;1.0;0.03225806451612903;39.0
-108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;added;1.0;0.03225806451612903;39.0
-108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;extended binary tree;7.83333333333;0.03225806451612903;39.0
-108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;children;1.0;0.03225806451612903;13.0
-108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;converted;1.0;0.03225806451612903;39.0
-108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;leaf nodes;3.2;0.03225806451612903;39.0
-108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;child;1.0;0.03225806451612903;19.5
-108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;binary tree;4.83333333333;0.06451612903225806;4.875
-108;http://www.w3schools.in/data-structures-tutorial/binary-trees/;nodes;1.2;0.06451612903225806;19.5
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;node;1.0;0.03225806451612903;6.5
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;set;1.0;0.03225806451612903;39.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;threaded binary tree;7.66666666667;0.03225806451612903;39.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;ways;1.0;0.03225806451612903;39.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;pointers;1.0;0.03225806451612903;39.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;tree;1.66666666667;0.03225806451612903;13.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;trees;1.0;0.03225806451612903;13.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;‘left’ pointer;4.0;0.03225806451612903;39.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;left child;4.0;0.03225806451612903;19.5
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;pointer sets;4.0;0.03225806451612903;39.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;large numbers;4.0;0.03225806451612903;39.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;represented;1.0;0.0;39.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;null;1.0;0.03225806451612903;39.0
-109;http://www.w3schools.in/data-structures-tutorial/binary-trees/;empty;1.0;0.03225806451612903;39.0
-111;https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm;nodes connected;4.0;0.25;39.0
-111;https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm;edges;1.0;0.25;39.0
-111;https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm;tree represents;4.0;0.25;39.0
-112;https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm;discuss binary tree;9.0;0.25;39.0
-113;http://stackoverflow.com/questions/12359660/difference-between-complete-binary-tree-strict-binary-tree-full-binary-tre;wikipedia yielded;4.0;1.0;39.0
-122;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;data structures;4.0;0.022222222222222223;13.0
-122;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;http;1.0;0.0;39.0
-122;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;//www;1.0;0.0;39.0
-122;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;complete series;4.0;0.022222222222222223;39.0
-123;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;youtube;1.0;0.0;39.0
-124;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;/playlist;1.0;0.0;39.0
-124;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;list=;1.0;0.0;39.0
-127;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;discussed binary tree;9.0;0.022222222222222223;39.0
-127;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;lesson;1.0;0.0;39.0
-127;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;detail;1.0;0.022222222222222223;39.0
-128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;talked;1.0;0.044444444444444446;39.0
-128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;complete binary tree;8.5;0.022222222222222223;13.0
-128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;perfect binary tree;8.5;0.022222222222222223;19.5
-128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;balanced binary tree;8.5;0.022222222222222223;39.0
-128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;binary tree;5.5;0.044444444444444446;4.875
-128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;properties;1.0;0.022222222222222223;39.0
-128;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;types;1.0;0.022222222222222223;13.0
-129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;operations;1.0;0.022222222222222223;39.0
-129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;depend;1.0;0.022222222222222223;39.0
-129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;discussed;1.0;0.022222222222222223;39.0
-129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;tree;1.0;0.022222222222222223;13.0
-129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;height;1.0;0.0;39.0
-129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;minimum;1.0;0.022222222222222223;39.0
-129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;cost;1.0;0.022222222222222223;39.0
-129;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;dense;1.0;0.022222222222222223;39.0
-130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;talked;1.0;0.044444444444444446;39.0
-130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;dynamically created nodes;9.0;0.022222222222222223;39.0
-130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;arrays;1.0;0.022222222222222223;19.5
-130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;binary tree _;9.0;0.044444444444444446;4.875
-130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;implementations;1.0;0.0;39.0
-130;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;finally;1.0;0.022222222222222223;39.0
-131;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;practice problems;4.0;0.022222222222222223;39.0
-131;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;http;1.0;0.0;39.0
-131;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;visit;1.0;0.022222222222222223;39.0
-131;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;//www;1.0;0.0;39.0
-132;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;mycodeschool;1.0;0.0;39.0
-133;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;facebook;1.0;0.0;39.0
-133;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;//www;1.0;0.0;39.0
-133;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;https;1.0;0.0;39.0
-134;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;facebook;1.0;0.0;39.0
-135;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;/mycodeschool follow;4.0;0.022222222222222223;39.0
-135;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;twitter;1.0;0.022222222222222223;39.0
-135;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;//twitter;1.0;0.0;39.0
-135;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;https;1.0;0.0;39.0
-136;https://www.youtube.com/watch%3Fv%3DH5JubkIy_p8%26vl%3Den;/mycodeschool;1.0;0.0;39.0
-137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;include;1.0;0.0;19.5
-137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;study;1.0;0.0;19.5
-137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;binary trees;4.0;0.0;7.8
-137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;data structures;4.5;0.0;9.75
-137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;scott mitchell continues;9.0;0.0;19.5
-137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;bsts;1.0;0.0;39.0
-137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;focusing;1.0;0.0;19.5
-137;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;common data structure;8.5;0.0;13.0
-150;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;article;1.0;0.0;19.5
-150;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;data structures;4.0;0.0;9.75
-150;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;six_part series;4.0;0.0;19.5
-150;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;summary;1.0;0.0;19.5
-151;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;net framework;4.0;0.0;19.5
-151;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;included;1.0;0.0;19.5
-151;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;common data structure;9.0;0.0;13.0
-152;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;binary trees;4.0;0.0;7.8
-153;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;envisioned;1.0;0.0;19.5
-153;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;binary trees;4.0;0.0;7.8
-153;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;dimensions;1.0;0.0;19.5
-153;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;storing data;4.0;0.0;19.5
-154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;bst;1.0;0.0;39.0
-154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;special kind;4.0;0.0;19.5
-154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;optimized search time;9.0;0.0;19.5
-154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;binary search tree;8.0;0.0;13.0
-154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;arrays;1.0;0.0;13.0
-154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;binary tree;5.0;0.0;3.9
-154;https://msdn.microsoft.com/en-us/library/aa289150(v%3Dvs.71).aspx;called;1.0;0.0;19.5
+1;http://adv-r.had.co.nz/Data-structures.html;attributes;1.0;0.07142857142857142;4.0;0
+1;http://adv-r.had.co.nz/Data-structures.html;length;1.0;0.0;4.0;0
+1;http://adv-r.had.co.nz/Data-structures.html;vector;1.0;0.07142857142857142;2.0;0
+1;http://adv-r.had.co.nz/Data-structures.html;type;1.0;0.07142857142857142;2.0;0
+1;http://adv-r.had.co.nz/Data-structures.html;properties;1.0;0.07142857142857142;4.0;0
+2;http://adv-r.had.co.nz/Data-structures.html;common types;2.0;0.07142857142857142;4.0;0
+2;http://adv-r.had.co.nz/Data-structures.html;character;1.0;0.07142857142857142;4.0;0
+2;http://adv-r.had.co.nz/Data-structures.html;logical;1.0;0.0;4.0;0
+2;http://adv-r.had.co.nz/Data-structures.html;atomic vector;2.0;0.07142857142857142;4.0;0
+2;http://adv-r.had.co.nz/Data-structures.html;double;1.0;0.07142857142857142;4.0;0
+2;http://adv-r.had.co.nz/Data-structures.html;integer;1.0;0.07142857142857142;4.0;0
+3;http://adv-r.had.co.nz/Data-structures.html;raw;1.0;0.07142857142857142;4.0;0
+3;http://adv-r.had.co.nz/Data-structures.html;rarer types;2.0;0.07142857142857142;4.0;0
+3;http://adv-r.had.co.nz/Data-structures.html;complex;1.0;0.07142857142857142;4.0;0
+4;https://ramnathv.github.io/pycon2014-r/learn/structures.html;basic data structure;3.0;0.1;4.0;0
+4;https://ramnathv.github.io/pycon2014-r/learn/structures.html;workhorse;1.0;0.1;4.0;0
+4;https://ramnathv.github.io/pycon2014-r/learn/structures.html;vector;1.0;0.1;2.0;0
+4;https://ramnathv.github.io/pycon2014-r/learn/structures.html;common;1.0;0.1;4.0;0
+4;https://ramnathv.github.io/pycon2014-r/learn/structures.html;pretty;1.0;0.1;4.0;0
+5;https://ramnathv.github.io/pycon2014-r/learn/structures.html;vectors;1.0;0.1;4.0;0
+5;https://ramnathv.github.io/pycon2014-r/learn/structures.html;types;1.0;0.1;4.0;0
+5;https://ramnathv.github.io/pycon2014-r/learn/structures.html;technically;1.0;0.0;4.0;0
+6;https://ramnathv.github.io/pycon2014-r/learn/structures.html;atomic vectors;2.0;0.1;4.0;0
+7;https://ramnathv.github.io/pycon2014-r/learn/structures.html;lists;1.0;0.0;4.0;0
+8;https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/;data structures;2.0;0.4;4.0;0
+9;https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/;access data;2.0;0.2;4.0;0
+9;https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/;data structures;2.0;0.4;4.0;0
+10;https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/;expose learners;2.0;0.2;4.0;0
+10;https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/;data types;2.0;0.2;4.0;0
+11;http://www.statmethods.net/input/datatypes.html;elements;1.0;0.05555555555555555;4.0;0
+11;http://www.statmethods.net/input/datatypes.html;length  number;1.3333333333333333;0.05555555555555555;4.0;0
+11;http://www.statmethods.net/input/datatypes.html;object;2.0;0.16666666666666666;4.0;0
+11;http://www.statmethods.net/input/datatypes.html;object names   names;1.6;0.05555555555555555;4.0;0
+11;http://www.statmethods.net/input/datatypes.html;components str     structure;1.2857142857142858;0.05555555555555555;4.0;0
+11;http://www.statmethods.net/input/datatypes.html;object class   class;1.6;0.05555555555555555;4.0;0
+11;http://www.statmethods.net/input/datatypes.html;type;1.0;0.05555555555555555;2.0;0
+12;http://www.statmethods.net/input/datatypes.html;vector cbind object;2.6666666666666665;0.05555555555555555;4.0;0
+12;http://www.statmethods.net/input/datatypes.html;combine objects;2.0;0.16666666666666666;4.0;0
+12;http://www.statmethods.net/input/datatypes.html;object;2.0;0.16666666666666666;4.0;0
+13;http://www.statmethods.net/input/datatypes.html;columns rbind object;2.6666666666666665;0.05555555555555555;4.0;0
+13;http://www.statmethods.net/input/datatypes.html;combine objects;2.0;0.16666666666666666;4.0;0
+13;http://www.statmethods.net/input/datatypes.html;object;2.0;0.16666666666666666;4.0;0
+14;http://www.statmethods.net/input/datatypes.html;rows object       prints;1.0;0.05555555555555555;4.0;0
+14;http://www.statmethods.net/input/datatypes.html;place;1.0;0.05555555555555555;4.0;0
+14;http://www.statmethods.net/input/datatypes.html;save;1.0;0.05555555555555555;4.0;0
+14;http://www.statmethods.net/input/datatypes.html;combine objects;2.0;0.16666666666666666;4.0;0
+14;http://www.statmethods.net/input/datatypes.html;newobject fix                edit;0.5;0.05555555555555555;4.0;0

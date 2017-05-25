@@ -1,40 +1,8 @@
+Multimap
 
 
 
 
+Multimap
 
 
-
-
-
-
-Depth First Traversal : Traverse depth wise . It includes these three_
-What is the difference between a AVL tree and a binary search tree?
-What are the advantages of B+ Trees over B Trees?
-What is traversing?
-What is the difference between a tree and a forest in graph theory?
-What is the difference between a tree, a prefix tree, and a radix tree?
-Does the order in a B_tree change as we traverse down the levels?
-How do tries differ from binary search trees?
-What is the difference between MHR_tree and R_tree?
-How do I perform a post_order traversal on a binary tree?
-How does the technique of Binary Indexed Tree work and in what kind of problems is it useful?
-What is the difference between a binary tree and a regular binary tree?
-What is the techniques of indexing tree?
-Is there a way to do a BFS traversal of a binary tree with recursion ?
-How is a Huffman Tree different from an Optimal binary search tree?
-How do I remember preorder, postorder and inorder traversal?
-Move the type definition for treeNodeT into queue.h. Then we could do: 
-typedef treeNodeT *queueElementT;
- That would work since we'd get the type treeNodeT in tree.c when we include queue.h. It's not ideal though, since treeNodeT really belongs in the tree implementation file.
-Leave treeNodeT in tree.c, but refer to it in queue.h. Remember that we can refer to a pointer to a structure that is not defined, as in: 
-typedef struct treeNodeTag *queueElementT;
- As long as we don't try to dereference that pointer. That would work because the queue will just store these pointers, not dereference them.
-Finally, we could use the generic pointer type, void *, as the element type. A void * can take on the value of any pointer , so we could use it to store the value of a treeNodeT *.
-Move the type definition for treeNodeT into queue.h. Then we could do: 
-typedef treeNodeT *queueElementT;
- That would work since we'd get the type treeNodeT in tree.c when we include queue.h. It's not ideal though, since treeNodeT really belongs in the tree implementation file.
-Leave treeNodeT in tree.c, but refer to it in queue.h. Remember that we can refer to a pointer to a structure that is not defined, as in: 
-typedef struct treeNodeTag *queueElementT;
- As long as we don't try to dereference that pointer. That would work because the queue will just store these pointers, not dereference them.
-Finally, we could use the generic pointer type, void *, as the element type. A void * can take on the value of any pointer , so we could use it to store the value of a treeNodeT *.

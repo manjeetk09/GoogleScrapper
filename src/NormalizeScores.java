@@ -15,6 +15,8 @@ public class NormalizeScores {
         ArrayList<Double> rake_score = new ArrayList<Double>();
         ArrayList<Double> tf_score = new ArrayList<Double>();
         ArrayList<Double> idf_score = new ArrayList<Double>();
+        ArrayList<Double> quick_ans = new ArrayList<Double>();
+        ArrayList<Double> relation_sim_score = new ArrayList<Double>();
 
         ArrayList<String> entity = new ArrayList<String>();
         ArrayList<String> line_num = new ArrayList<String>();
@@ -26,10 +28,15 @@ public class NormalizeScores {
             template_num.add(components[0]);
             line_num.add(components[1]);
             url.add(components[2]);
-            entity.add(components[3]);
+            String new_ent = components[3];
+            new_ent = new_ent.replaceAll(" ","_");
+//            entity.add(components[3]);
+            entity.add(new_ent);
             rake_score.add(Double.parseDouble(components[4]));
             tf_score.add(Double.parseDouble(components[5]));
             idf_score.add(Double.parseDouble(components[6]));
+            relation_sim_score.add(Double.parseDouble(components[7]));
+            quick_ans.add(Double.parseDouble(components[8]));
 
 
 
@@ -71,7 +78,7 @@ public class NormalizeScores {
             tf_score.set(i, (tf_score.get(i) - min_tf)/(max_tf-min_tf) );
             idf_score.set(i, (idf_score.get(i) - min_idf)/(max_idf-min_idf) );
             double sum = rake_score.get(i) + tf_score.get(i) + idf_score.get(i);
-            bw.write( template_num.get(i) + ";" + line_num.get(i) + ";" + url.get(i) + ";" + entity.get(i) + ";" + rake_score.get(i) + ";" + tf_score.get(i) + ";" + idf_score.get(i) + ";" + sum + "\n");
+            bw.write( template_num.get(i) + ";" + line_num.get(i) + ";" + url.get(i) + ";" + entity.get(i) + ";" + rake_score.get(i) + ";" + tf_score.get(i) + ";" + idf_score.get(i) + ";" + sum + ";" + relation_sim_score.get(i) + ";" + quick_ans.get(i) +"\n");
         }
 
         try{

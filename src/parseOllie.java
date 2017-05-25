@@ -17,13 +17,23 @@ public class parseOllie
             //System.out.println(line.length());
             while ((line = br.readLine()) != null)
             {
-                if(line.length() > 0)
+                if(line.length() > 3)
                 {
 
-                    if(line.charAt(0)=='0' && line.charAt(1)=='.')
+                    if(line.charAt(0)=='0' && line.charAt(1)=='.' && Character.isDigit(line.charAt(2)))
                     {
+//                        System.out.println("line")
                         int a = line.indexOf(':');
-                        String conf = line.substring(0,a);
+                        String conf = "0";
+                        try{
+                            conf = line.substring(0, a);
+                        }catch (Exception e){
+                            System.out.println("a is:: " + a);
+                            System.out.println("line is:: " + line);
+                            e.printStackTrace();
+                        }
+//                        String conf = line.substring(0, a);
+
                         double confidence = Double.parseDouble(conf);
 
                         int b = line.indexOf(';');

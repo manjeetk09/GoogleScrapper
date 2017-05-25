@@ -1,33 +1,72 @@
 
 
-Hash tree
 
 
-Arrays 1_D Multi_dimensional
-Stacks Basics of Stacks
-Queues Basics of Queues
-Hash Tables Basics of Hash Tables
-Linked List Singly Linked List
-Trees Binary/ N_ary Trees Binary Search Tree Heaps/Priority Queues
-Advanced Data Structures Trie Segment Trees Fenwick Trees Suffix Trees Suffix Arrays
-Disjoint Data Structures Basics of Disjoint Data Structures
-Arrays 1_D Multi_dimensional
-Stacks Basics of Stacks
-Queues Basics of Queues
-Hash Tables Basics of Hash Tables
-Linked List Singly Linked List
-Trees Binary/ N_ary Trees Binary Search Tree Heaps/Priority Queues
-Advanced Data Structures Trie Segment Trees Fenwick Trees Suffix Trees Suffix Arrays
-Disjoint Data Structures Basics of Disjoint Data Structures
-Overview of Data Structures | Set 1 
-Overview of Data Structures | Set 2 
-Overview of Data Structures | Set 3 
-Education
-Education
-Linked List
-Tree
-Graph
-Stack, Queue etc.
-A complete binary tree is a binary tree in which at every level, except possibly the last, has to be completely filled and all nodes are as far left as possible.
-A binary tree can be converted into an extended binary tree by adding new nodes to its leaf nodes and to the nodes that have only one child. These new nodes are added in such a way that all the nodes in the resultant tree have either zero or two children. It is also called 2 – tree.
-Threaded Binary tree is the tree which is represented using pointers the empty sub trees are set to NULL, i.e. ‘left’ pointer of the node whose left child is empty sub tree is normally set to NULL. These large numbers of pointer sets are used in different ways.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
