@@ -207,7 +207,7 @@ public class test_map
                                 min_index = j;
                             }
                         }
-                        bw.write( template_num.get(i) + ";" + line_num.get(i) + ";" + url.get(i) + ";" + similar_entity.get(min_index) + ";" + rake_score.get(i) + ";" + tf_score.get(i) + ";" + idf_score.get(i) + ";" + final_score.get(i) + ";" + relation_sim_score.get(i) + ";" + quick_ans.get(i) +"\n");
+                        bw.write( template_num.get(i) + ";" + line_num.get(i) + ";" + url.get(i) + ";" + entity.get(i) + ";" + similar_entity.get(min_index) + ";" + rake_score.get(i) + ";" + tf_score.get(i) + ";" + idf_score.get(i) + ";" + final_score.get(i) + ";" + relation_sim_score.get(i) + ";" + quick_ans.get(i) +"\n");
    
                     }
                     else
