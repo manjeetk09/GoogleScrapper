@@ -1,14 +1,39 @@
-The three properties of a vector are type, length, and attributes.
-The four common types of atomic vector are logical, integer, double (sometimes called numeric), and character. The two rarer types are complex and raw.
-The four common types of atomic vector are logical, integer, double (sometimes called numeric), and character. The two rarer types are complex and raw.
-A vector is the most common and basic data structure in R and is pretty much the workhorse of R. Technically, vectors can be one of two types: atomic vectors. lists.
-A vector is the most common and basic data structure in R and is pretty much the workhorse of R. Technically, vectors can be one of two types: atomic vectors. lists.
-A vector is the most common and basic data structure in R and is pretty much the workhorse of R. Technically, vectors can be one of two types: atomic vectors. lists.
-A vector is the most common and basic data structure in R and is pretty much the workhorse of R. Technically, vectors can be one of two types: atomic vectors. lists.
-What are the different data structures in R?
-How do I access data within the various data structures?
-Expose learners to the different data types in R.
-length(object) # number of elements or components str(object)    # structure of an object class(object)  # class or type of an object names(object)  # names c(object,object,...)       # combine objects into a vector cbind(object, object, ...) # combine objects as columns rbind(object, object, ...) # combine objects as rows object     # prints the object ls()       # list current objects rm(object) # delete an object newobject <- edit(object) # edit copy and save as newobject fix(object)               # edit in place
-length(object) # number of elements or components str(object)    # structure of an object class(object)  # class or type of an object names(object)  # names c(object,object,...)       # combine objects into a vector cbind(object, object, ...) # combine objects as columns rbind(object, object, ...) # combine objects as rows object     # prints the object ls()       # list current objects rm(object) # delete an object newobject <- edit(object) # edit copy and save as newobject fix(object)               # edit in place
-length(object) # number of elements or components str(object)    # structure of an object class(object)  # class or type of an object names(object)  # names c(object,object,...)       # combine objects into a vector cbind(object, object, ...) # combine objects as columns rbind(object, object, ...) # combine objects as rows object     # prints the object ls()       # list current objects rm(object) # delete an object newobject <- edit(object) # edit copy and save as newobject fix(object)               # edit in place
-length(object) # number of elements or components str(object)    # structure of an object class(object)  # class or type of an object names(object)  # names c(object,object,...)       # combine objects into a vector cbind(object, object, ...) # combine objects as columns rbind(object, object, ...) # combine objects as rows object     # prints the object ls()       # list current objects rm(object) # delete an object newobject <- edit(object) # edit copy and save as newobject fix(object)               # edit in place
+                                                     
+                                                   
+                                                 
+The graph of f(x) in this example is the graph of y = x2 - 3. It is easy to generate points on the graph. Choose a value for the first coordinate, then evaluate f at that number to find the second coordinate. The following table shows several values for x and the function f evaluated at those numbers.
+The graph of f(x) in this example is the graph of y = x2 - 3. It is easy to generate points on the graph. Choose a value for the first coordinate, then evaluate f at that number to find the second coordinate. The following table shows several values for x and the function f evaluated at those numbers.
+The graph of f(x) in this example is the graph of y = x2 - 3. It is easy to generate points on the graph. Choose a value for the first coordinate, then evaluate f at that number to find the second coordinate. The following table shows several values for x and the function f evaluated at those numbers.
+The graph of f(x) in this example is the graph of y = x2 - 3. It is easy to generate points on the graph. Choose a value for the first coordinate, then evaluate f at that number to find the second coordinate. The following table shows several values for x and the function f evaluated at those numbers.
+f(x)
+First we solve the equation for y.
+Last we graph our matching x- and y-values and draw a line.
+Example
+We are going to graph the equation -4x+2y=2.
+First we solve the equation for y:
+
+
+Here is an example of a graph that is not a function.
+For example, if you work in a fast food outlet, your pay packet depends on the number of hours you work. Or, the amount of concrete you need to order when constructing a building will depend on the height of the building.
+For example, if you work in a fast food outlet, your pay packet depends on the number of hours you work. Or, the amount of concrete you need to order when constructing a building will depend on the height of the building.
+6. Graphs of Functions Defined by Tables of Data - often we don't have an algebraic expression for a function, just tables
+6. Graphs of Functions Defined by Tables of Data - often we don't have an algebraic expression for a function, just tables
+In mathematics, an algebraic function is a function that can be defined as the root of a polynomial equation. Quite often algebraic functions can be expressed using a finite number of terms, involving only the algebraic operations addition, subtraction, multiplication, division, and raising to a fractional power.
+In mathematics, an algebraic function is a function that can be defined as the root of a polynomial equation. Quite often algebraic functions can be expressed using a finite number of terms, involving only the algebraic operations addition, subtraction, multiplication, division, and raising to a fractional power.
+
+
+The informal definition of an algebraic function provides a number of clues about their properties. To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations: addition, multiplication, division, and taking an nth root. This is something of an oversimplification; because of the fundamental theorem of Galois theory, algebraic functions need not be expressible by radicals.
+The informal definition of an algebraic function provides a number of clues about their properties. To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations: addition, multiplication, division, and taking an nth root. This is something of an oversimplification; because of the fundamental theorem of Galois theory, algebraic functions need not be expressible by radicals.
+The informal definition of an algebraic function provides a number of clues about their properties. To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations: addition, multiplication, division, and taking an nth root. This is something of an oversimplification; because of the fundamental theorem of Galois theory, algebraic functions need not be expressible by radicals.
+The informal definition of an algebraic function provides a number of clues about their properties. To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations: addition, multiplication, division, and taking an nth root. This is something of an oversimplification; because of the fundamental theorem of Galois theory, algebraic functions need not be expressible by radicals.
+
+
+However, not every function has an inverse. For example, y = x2 fails the horizontal line test: it fails to be one-to-one. The inverse is the algebraic "function" x = ± y {\displaystyle x=\pm {\sqrt {y}}} . Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve.
+However, not every function has an inverse. For example, y = x2 fails the horizontal line test: it fails to be one-to-one. The inverse is the algebraic "function" x = ± y {\displaystyle x=\pm {\sqrt {y}}} . Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve.
+However, not every function has an inverse. For example, y = x2 fails the horizontal line test: it fails to be one-to-one. The inverse is the algebraic "function" x = ± y {\displaystyle x=\pm {\sqrt {y}}} . Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve.
+However, not every function has an inverse. For example, y = x2 fails the horizontal line test: it fails to be one-to-one. The inverse is the algebraic "function" x = ± y {\displaystyle x=\pm {\sqrt {y}}} . Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve.
+However, not every function has an inverse. For example, y = x2 fails the horizontal line test: it fails to be one-to-one. The inverse is the algebraic "function" x = ± y {\displaystyle x=\pm {\sqrt {y}}} . Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve.
+
+
+y = (2x + 5)/(x  1)
+

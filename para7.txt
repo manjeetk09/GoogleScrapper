@@ -1,390 +1,120 @@
-
-
-
-
-
-
-
-
-     
-Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. Data Structures is about rendering data elements in terms of some relationship, for better organization and storage. For example, we have data player's name "Virat" and age 26. Here "Virat" is of String data type and 26 is of integer data type.
-Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. Data Structures is about rendering data elements in terms of some relationship, for better organization and storage. For example, we have data player's name "Virat" and age 26. Here "Virat" is of String data type and 26 is of integer data type.
-Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. Data Structures is about rendering data elements in terms of some relationship, for better organization and storage. For example, we have data player's name "Virat" and age 26. Here "Virat" is of String data type and 26 is of integer data type.
-Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. Data Structures is about rendering data elements in terms of some relationship, for better organization and storage. For example, we have data player's name "Virat" and age 26. Here "Virat" is of String data type and 26 is of integer data type.
-     
-NOTE: Before going deep into data structure, you should have a good knowledge of programming either in C or in C++ or Java.
-NOTE: Before going deep into data structure, you should have a good knowledge of programming either in C or in C++ or Java.
-C++
-C++
-     
-An introduction to the topic of computer science Base Systems - Binary, Hex and Octal The Halting Problem Not for the faint of heart (or beginners), this tutorial covers an advanced topic in computer science: the nature of what can and cannot be computed -- what types of problems computers simply cannot solve What We Cannot Know: Consequences of the Halting Problem
-An introduction to the topic of computer science Base Systems - Binary, Hex and Octal The Halting Problem Not for the faint of heart (or beginners), this tutorial covers an advanced topic in computer science: the nature of what can and cannot be computed -- what types of problems computers simply cannot solve What We Cannot Know: Consequences of the Halting Problem
-An introduction to the topic of computer science Base Systems - Binary, Hex and Octal The Halting Problem Not for the faint of heart (or beginners), this tutorial covers an advanced topic in computer science: the nature of what can and cannot be computed -- what types of problems computers simply cannot solve What We Cannot Know: Consequences of the Halting Problem
-An introduction to the topic of computer science Base Systems - Binary, Hex and Octal The Halting Problem Not for the faint of heart (or beginners), this tutorial covers an advanced topic in computer science: the nature of what can and cannot be computed -- what types of problems computers simply cannot solve What We Cannot Know: Consequences of the Halting Problem
-
-
-
-
-
-
-
-
-
-
-Other Programming Languages >> Data Structure - Part 2
-Other Programming Languages >> Data Structure - Part 2
-
-
-
-
-
-
-
-
-This is a list of data structures. For a wider list of terms, see list of terms relating to algorithms and data structures. For a comparison of running time of subset of this list see comparison of data structures.
-This is a list of data structures. For a wider list of terms, see list of terms relating to algorithms and data structures. For a comparison of running time of subset of this list see comparison of data structures.
-This is a list of data structures. For a wider list of terms, see list of terms relating to algorithms and data structures. For a comparison of running time of subset of this list see comparison of data structures.
-Some properties of abstract data types:
-A data structure is said to be linear if its elements form a sequence.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-In these data structures each tree node compares a bit slice of key values. Trie. Radix tree. Suffix tree. Suffix array. Compressed suffix array. FM-index. Generalised suffix tree. B-trie. Judy array. X-fast trie. Y-fast trie. Merkle Tree. Ctrie.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-These are data structures used for space partitioning or binary space partitioning. Segment tree. Interval tree. Range tree. Bin. K-d tree. Implicit k-d tree. Min/max k-d tree. Relaxed k-d tree. Adaptive k-d tree. Quadtree. Octree. Linear octree. Z-order. UB-tree. R-tree. R+ tree. R* tree. Hilbert R-tree. X-tree. Metric tree. Cover tree. M-tree. VP-tree. BK-tree. Bounding interval hierarchy. Bounding volume hierarchy. BSP tree. Rapidly exploring random tree.
-1 Data types 1.1 Primitive types 1.2 Composite types or Non-primitive type 1.3 Abstract data types 2 Linear data structures 2.1 Arrays 2.2 Lists 3 Trees 3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees 4 Hashes 5 Graphs 6 Other 7 External links
-1 Data types 1.1 Primitive types 1.2 Composite types or Non-primitive type 1.3 Abstract data types 2 Linear data structures 2.1 Arrays 2.2 Lists 3 Trees 3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees 4 Hashes 5 Graphs 6 Other 7 External links
-1 Data types 1.1 Primitive types 1.2 Composite types or Non-primitive type 1.3 Abstract data types 2 Linear data structures 2.1 Arrays 2.2 Lists 3 Trees 3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees 4 Hashes 5 Graphs 6 Other 7 External links
-1 Data types 1.1 Primitive types 1.2 Composite types or Non-primitive type 1.3 Abstract data types 2 Linear data structures 2.1 Arrays 2.2 Lists 3 Trees 3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees 4 Hashes 5 Graphs 6 Other 7 External links
-1 Data types 1.1 Primitive types 1.2 Composite types or Non-primitive type 1.3 Abstract data types 2 Linear data structures 2.1 Arrays 2.2 Lists 3 Trees 3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees 4 Hashes 5 Graphs 6 Other 7 External links
-1 Data types 1.1 Primitive types 1.2 Composite types or Non-primitive type 1.3 Abstract data types 2 Linear data structures 2.1 Arrays 2.2 Lists 3 Trees 3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees 4 Hashes 5 Graphs 6 Other 7 External links
-1 Data types 1.1 Primitive types 1.2 Composite types or Non-primitive type 1.3 Abstract data types 2 Linear data structures 2.1 Arrays 2.2 Lists 3 Trees 3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees 4 Hashes 5 Graphs 6 Other 7 External links
-1.1 Primitive types 1.2 Composite types or Non-primitive type 1.3 Abstract data types
-1.1 Primitive types 1.2 Composite types or Non-primitive type 1.3 Abstract data types
-1.1 Primitive types 1.2 Composite types or Non-primitive type 1.3 Abstract data types
-2.1 Arrays 2.2 Lists
-2.1 Arrays 2.2 Lists
-3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees
-3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees
-3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees
-3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees
-3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees
-3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees
-3.1 Binary trees 3.2 B-trees 3.3 Heaps 3.4 Trees 3.5 Multiway trees 3.6 Space-partitioning trees 3.7 Application-specific trees
-Boolean, true or false Character Floating-point, single-precision real number values Double, a wider floating-point size Integer, integral or fixed-precision values String, a sequence of characters Reference (also called a pointer or handle), a small value referring to another object's address in memory, possibly a much larger one. Enumerated type, a small set of uniquely-named values
-Boolean, true or false Character Floating-point, single-precision real number values Double, a wider floating-point size Integer, integral or fixed-precision values String, a sequence of characters Reference (also called a pointer or handle), a small value referring to another object's address in memory, possibly a much larger one. Enumerated type, a small set of uniquely-named values
-Boolean, true or false Character Floating-point, single-precision real number values Double, a wider floating-point size Integer, integral or fixed-precision values String, a sequence of characters Reference (also called a pointer or handle), a small value referring to another object's address in memory, possibly a much larger one. Enumerated type, a small set of uniquely-named values
-Boolean, true or false Character Floating-point, single-precision real number values Double, a wider floating-point size Integer, integral or fixed-precision values String, a sequence of characters Reference (also called a pointer or handle), a small value referring to another object's address in memory, possibly a much larger one. Enumerated type, a small set of uniquely-named values
-Boolean, true or false Character Floating-point, single-precision real number values Double, a wider floating-point size Integer, integral or fixed-precision values String, a sequence of characters Reference (also called a pointer or handle), a small value referring to another object's address in memory, possibly a much larger one. Enumerated type, a small set of uniquely-named values
-Boolean, true or false Character Floating-point, single-precision real number values Double, a wider floating-point size Integer, integral or fixed-precision values String, a sequence of characters Reference (also called a pointer or handle), a small value referring to another object's address in memory, possibly a much larger one. Enumerated type, a small set of uniquely-named values
-Boolean, true or false Character Floating-point, single-precision real number values Double, a wider floating-point size Integer, integral or fixed-precision values String, a sequence of characters Reference (also called a pointer or handle), a small value referring to another object's address in memory, possibly a much larger one. Enumerated type, a small set of uniquely-named values
-Boolean, true or false Character Floating-point, single-precision real number values Double, a wider floating-point size Integer, integral or fixed-precision values String, a sequence of characters Reference (also called a pointer or handle), a small value referring to another object's address in memory, possibly a much larger one. Enumerated type, a small set of uniquely-named values
-Array Record (also called tuple or struct) Union Tagged union (also called variant, variant record, discriminated union, or disjoint union)
-Array Record (also called tuple or struct) Union Tagged union (also called variant, variant record, discriminated union, or disjoint union)
-Array Record (also called tuple or struct) Union Tagged union (also called variant, variant record, discriminated union, or disjoint union)
-Array Record (also called tuple or struct) Union Tagged union (also called variant, variant record, discriminated union, or disjoint union)
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Container List Associative array Multimap Set Bag Multiset Stack Queue Double-ended queue Priority queue Tree Graph
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Array Bit array Bit field Bitboard Bitmap Circular buffer Control table Image Dope vector Dynamic array Gap buffer Hashed array tree Heightmap Lookup table Matrix Parallel array Sorted array Sparse matrix Iliffe vector Variable-length array
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-Doubly linked list Array list Linked list Self-organizing list Skip list Unrolled linked list VList Conc-Tree list Xor linked list Zipper Doubly connected edge list Difference list Free list
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-AA tree AVL tree Binary search tree Binary tree Cartesian tree Left-child right-sibling binary tree Order statistic tree Pagoda Randomized binary search tree Red–black tree Rope Scapegoat tree Self-balancing binary search tree Splay tree T-tree Tango tree Threaded binary tree Top tree Treap WAVL tree Weight-balanced tree
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-B-tree B+ tree B*-tree B sharp tree Dancing tree 2-3 tree 2-3-4 tree Queap Fusion tree Bx-tree AList
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-Heap Binary heap Weak heap Binomial heap Fibonacci heap AF-heap Leonardo Heap 2-3 heap Soft heap Pairing heap Leftist heap Treap Beap Skew heap Ternary heap D-ary heap Brodal queue
-AF-heap
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Ternary tree K-ary tree And–or tree (a,b)-tree Link/cut tree SPQR-tree Spaghetti stack Disjoint-set data structure Fusion tree Enfilade Exponential tree Fenwick tree Van Emde Boas tree Rose tree
-Abstract syntax tree Parse tree Decision tree Alternating decision tree Minimax tree Expectiminimax tree Finger tree Expression tree Log-structured merge-tree Lexicographic Search Tree
-Abstract syntax tree Parse tree Decision tree Alternating decision tree Minimax tree Expectiminimax tree Finger tree Expression tree Log-structured merge-tree Lexicographic Search Tree
-Abstract syntax tree Parse tree Decision tree Alternating decision tree Minimax tree Expectiminimax tree Finger tree Expression tree Log-structured merge-tree Lexicographic Search Tree
-Abstract syntax tree Parse tree Decision tree Alternating decision tree Minimax tree Expectiminimax tree Finger tree Expression tree Log-structured merge-tree Lexicographic Search Tree
-Abstract syntax tree Parse tree Decision tree Alternating decision tree Minimax tree Expectiminimax tree Finger tree Expression tree Log-structured merge-tree Lexicographic Search Tree
-Abstract syntax tree Parse tree Decision tree Alternating decision tree Minimax tree Expectiminimax tree Finger tree Expression tree Log-structured merge-tree Lexicographic Search Tree
-Abstract syntax tree Parse tree Decision tree Alternating decision tree Minimax tree Expectiminimax tree Finger tree Expression tree Log-structured merge-tree Lexicographic Search Tree
-Abstract syntax tree Parse tree Decision tree Alternating decision tree Minimax tree Expectiminimax tree Finger tree Expression tree Log-structured merge-tree Lexicographic Search Tree
-Abstract syntax tree Parse tree Decision tree Alternating decision tree Minimax tree Expectiminimax tree Finger tree Expression tree Log-structured merge-tree Lexicographic Search Tree
-Abstract syntax tree Parse tree Decision tree Alternating decision tree Minimax tree Expectiminimax tree Finger tree Expression tree Log-structured merge-tree Lexicographic Search Tree
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Bloom filter Count-Min sketch Distributed hash table Double Hashing Dynamic perfect hash table Hash array mapped trie Hash list Hash table Hash tree Hash trie Koorde Prefix hash tree Rolling hash MinHash Quotient filter Ctrie
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Graph Adjacency list Adjacency matrix Graph-structured stack Scene graph Binary decision diagram Zero-suppressed decision diagram And-inverter graph Directed graph Directed acyclic graph Propositional directed acyclic graph Multigraph Hypergraph
-Lightmap Winged edge Doubly connected edge list Quad-edge Routing table Symbol table
-Lightmap Winged edge Doubly connected edge list Quad-edge Routing table Symbol table
-Lightmap Winged edge Doubly connected edge list Quad-edge Routing table Symbol table
-Lightmap Winged edge Doubly connected edge list Quad-edge Routing table Symbol table
-Lightmap Winged edge Doubly connected edge list Quad-edge Routing table Symbol table
-Lightmap Winged edge Doubly connected edge list Quad-edge Routing table Symbol table
-v t e
-v t e
-v t e
-Collection Container
-Collection Container
-Associative array Multimap List Stack Queue Double-ended queue Priority queue Double-ended priority queue Set Multiset Disjoint-set
-Associative array Multimap List Stack Queue Double-ended queue Priority queue Double-ended priority queue Set Multiset Disjoint-set
-Associative array Multimap List Stack Queue Double-ended queue Priority queue Double-ended priority queue Set Multiset Disjoint-set
-Associative array Multimap List Stack Queue Double-ended queue Priority queue Double-ended priority queue Set Multiset Disjoint-set
-Associative array Multimap List Stack Queue Double-ended queue Priority queue Double-ended priority queue Set Multiset Disjoint-set
-Associative array Multimap List Stack Queue Double-ended queue Priority queue Double-ended priority queue Set Multiset Disjoint-set
-Multimap
-Double-ended queue
-Double-ended priority queue
-Multiset Disjoint-set
-Multiset Disjoint-set
-Bit array Circular buffer Dynamic array Hash table Hashed array tree Sparse matrix
-Bit array Circular buffer Dynamic array Hash table Hashed array tree Sparse matrix
-Bit array Circular buffer Dynamic array Hash table Hashed array tree Sparse matrix
-Bit array Circular buffer Dynamic array Hash table Hashed array tree Sparse matrix
-Bit array Circular buffer Dynamic array Hash table Hashed array tree Sparse matrix
-Bit array Circular buffer Dynamic array Hash table Hashed array tree Sparse matrix
-Association list Linked list Skip list Unrolled linked list XOR linked list
-Association list Linked list Skip list Unrolled linked list XOR linked list
-Association list Linked list Skip list Unrolled linked list XOR linked list
-Association list Linked list Skip list Unrolled linked list XOR linked list
-Association list Linked list Skip list Unrolled linked list XOR linked list
-B-tree Binary search tree AA tree AVL tree Red–black tree Self-balancing tree Splay tree Heap Binary heap Binomial heap Fibonacci heap R-tree R* tree R+ tree Hilbert R-tree Trie Hash tree
-B-tree Binary search tree AA tree AVL tree Red–black tree Self-balancing tree Splay tree Heap Binary heap Binomial heap Fibonacci heap R-tree R* tree R+ tree Hilbert R-tree Trie Hash tree
-B-tree Binary search tree AA tree AVL tree Red–black tree Self-balancing tree Splay tree Heap Binary heap Binomial heap Fibonacci heap R-tree R* tree R+ tree Hilbert R-tree Trie Hash tree
-B-tree Binary search tree AA tree AVL tree Red–black tree Self-balancing tree Splay tree Heap Binary heap Binomial heap Fibonacci heap R-tree R* tree R+ tree Hilbert R-tree Trie Hash tree
-B-tree Binary search tree AA tree AVL tree Red–black tree Self-balancing tree Splay tree Heap Binary heap Binomial heap Fibonacci heap R-tree R* tree R+ tree Hilbert R-tree Trie Hash tree
-AA tree AVL tree Red–black tree Self-balancing tree Splay tree
-AA tree AVL tree Red–black tree Self-balancing tree Splay tree
-AA tree AVL tree Red–black tree Self-balancing tree Splay tree
-AA tree AVL tree Red–black tree Self-balancing tree Splay tree
-AA tree AVL tree Red–black tree Self-balancing tree Splay tree
-Binary heap Binomial heap Fibonacci heap
-Binary heap Binomial heap Fibonacci heap
-Binary heap Binomial heap Fibonacci heap
-R* tree R+ tree Hilbert R-tree
-R* tree R+ tree Hilbert R-tree
-R* tree R+ tree Hilbert R-tree
-Hash tree
-Binary decision diagram Directed acyclic graph Directed acyclic word graph
-Binary decision diagram Directed acyclic graph Directed acyclic word graph
-Binary decision diagram Directed acyclic graph Directed acyclic word graph
-List of data structures
-Tommy Benchmarks Comparison of several data structures.
-Data structures Computing-related lists
-Data structures Computing-related lists
-Not logged in Talk Contributions Create account Log in
-Not logged in Talk Contributions Create account Log in
-Not logged in Talk Contributions Create account Log in
-Not logged in Talk Contributions Create account Log in
-Not logged in Talk Contributions Create account Log in
-Article Talk
-Article Talk
-Read Edit View history
-Read Edit View history
-Read Edit View history
-Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store
-Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store
-Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store
-Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store
-Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store
-Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store
-Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store
-Help About Wikipedia Community portal Recent changes Contact page
-Help About Wikipedia Community portal Recent changes Contact page
-Help About Wikipedia Community portal Recent changes Contact page
-Help About Wikipedia Community portal Recent changes Contact page
-Help About Wikipedia Community portal Recent changes Contact page
-What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page
-What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page
-What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page
-What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page
-What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page
-What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page
-What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page
-What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page
-Create a book Download as PDF Printable version
-Create a book Download as PDF Printable version
-Create a book Download as PDF Printable version
-فارسی हिन्दी Italiano Magyar Русский ไทย Türkçe Українська Tiếng Việt 中文
-فارسی हिन्दी Italiano Magyar Русский ไทย Türkçe Українська Tiếng Việt 中文
-فارسی हिन्दी Italiano Magyar Русский ไทย Türkçe Українська Tiếng Việt 中文
-فارسی हिन्दी Italiano Magyar Русский ไทย Türkçe Українська Tiếng Việt 中文
-فارسی हिन्दी Italiano Magyar Русский ไทย Türkçe Українська Tiếng Việt 中文
-فارسی हिन्दी Italiano Magyar Русский ไทย Türkçe Українська Tiếng Việt 中文
-فارسی हिन्दी Italiano Magyar Русский ไทย Türkçe Українська Tiếng Việt 中文
-فارسی हिन्दी Italiano Magyar Русский ไทย Türkçe Українська Tiếng Việt 中文
-فارسی हिन्दी Italiano Magyar Русский ไทย Türkçe Українська Tiếng Việt 中文
-فارسی हिन्दी Italiano Magyar Русский ไทย Türkçe Українська Tiếng Việt 中文
-This page was last edited on 30 April 2017, at 15:25. Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
-This page was last edited on 30 April 2017, at 15:25. Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
-Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view
-Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view
-Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view
-Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view
-Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view
-Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view
-Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view
-
-
-Some properties of abstract data types:
-Double-ended queue
-
-
-Simply you can group various built-in data types into a structure.
-A structure in C is a collection of items of different types. You can think of a structure as a "record" is in Pascal or a class in Java without methods. Structures, or structs, are very useful in creating data structures larger and more complex than the ones we have discussed so far. Simply you can group various built-in data types into a structure. Object conepts was derived from Structure concept. You can achieve few object oriented goals using C structure but it is very complex.
-A structure in C is a collection of items of different types. You can think of a structure as a "record" is in Pascal or a class in Java without methods. Structures, or structs, are very useful in creating data structures larger and more complex than the ones we have discussed so far. Simply you can group various built-in data types into a structure. Object conepts was derived from Structure concept. You can achieve few object oriented goals using C structure but it is very complex.
-A structure in C is a collection of items of different types. You can think of a structure as a "record" is in Pascal or a class in Java without methods. Structures, or structs, are very useful in creating data structures larger and more complex than the ones we have discussed so far. Simply you can group various built-in data types into a structure. Object conepts was derived from Structure concept. You can achieve few object oriented goals using C structure but it is very complex.
-A structure in C is a collection of items of different types. You can think of a structure as a "record" is in Pascal or a class in Java without methods. Structures, or structs, are very useful in creating data structures larger and more complex than the ones we have discussed so far. Simply you can group various built-in data types into a structure. Object conepts was derived from Structure concept. You can achieve few object oriented goals using C structure but it is very complex.
+Find the derivatives of various functions using different methods and rules. Several Examples with detailed solutions are presented. More exercises with answers are at the end of this page.
+Find the derivatives of various functions using different methods and rules. Several Examples with detailed solutions are presented. More exercises with answers are at the end of this page.
+Find the derivatives of various functions using different methods and rules. Several Examples with detailed solutions are presented. More exercises with answers are at the end of this page.
+An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic (i.e., addition, multiplication, and exponentiation). In order to take the derivative of these functions, we will need the power rule.
+An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic (i.e., addition, multiplication, and exponentiation). In order to take the derivative of these functions, we will need the power rule.
+An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic (i.e., addition, multiplication, and exponentiation). In order to take the derivative of these functions, we will need the power rule.
+An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic (i.e., addition, multiplication, and exponentiation). In order to take the derivative of these functions, we will need the power rule.
+Calculus: Differentiation: Examples - Derivative of Algebraic functions
+Calculus: Differentiation: Examples - Derivative of Algebraic functions
+Calculus: Differentiation: Examples - Derivative of Algebraic functions
+In the first section of this chapter we saw the definition of the derivative and we computed a couple of derivatives using the definition.  As we saw in those examples there was a fair amount of work involved in computing the limits and the functions that we worked with were not terribly complicated.
+In the first section of this chapter we saw the definition of the derivative and we computed a couple of derivatives using the definition.  As we saw in those examples there was a fair amount of work involved in computing the limits and the functions that we worked with were not terribly complicated.
+(a)    
+(d)    
+(e)    
+(a)  
+                                       
+                                                     
+                                                       
+                                                                     
+                                                          
+(d)  
+                                                   
+                                           
+(e)  
+                                                       
+(a)    
+(a)   
+                                                    
+                                                            
+                                              
+                                                           
+                
+                                           
+                                                      
+                 
+                             
+                                                    
+                                                    
+                              
+                                            
+                                   
+For more complex functions using the definition of the derivative would be an almost impossible task.  Luckily for us we won’t have to use the definition terribly often.  We will have to use it on occasion, however we have a large collection of formulas and properties that we can use to simplify our life considerably and will allow us to avoid using the definition whenever possible.
+For more complex functions using the definition of the derivative would be an almost impossible task.  Luckily for us we won’t have to use the definition terribly often.  We will have to use it on occasion, however we have a large collection of formulas and properties that we can use to simplify our life considerably and will allow us to avoid using the definition whenever possible.
+For more complex functions using the definition of the derivative would be an almost impossible task.  Luckily for us we won’t have to use the definition terribly often.  We will have to use it on occasion, however we have a large collection of formulas and properties that we can use to simplify our life considerably and will allow us to avoid using the definition whenever possible.
+(a)    
+(b)    
+(c)    
+(d)    
+(e)    
+(a)  
+                                       
+(b)  
+                                                     
+(c)  
+                                                       
+                                                                     
+                                                          
+(d)  
+                                                   
+                                           
+(e)  
+                                                       
+(a)    
+(b)    
+(a)   
+                                                    
+                                                            
+(b)  
+                                              
+                                                           
+                
+                                           
+                                                      
+                 
+                             
+                                                    
+                                                    
+                              
+                                            
+                                   
+(a)    
+(b)    
+(c)    
+(d)    
+(e)    
+(a)  
+                                       
+(b)  
+                                                     
+(c)  
+                                                       
+                                                                     
+                                                          
+(d)  
+                                                   
+                                           
+(e)  
+                                                       
+(a)    
+(b)    
+(a)   
+                                                    
+                                                            
+(b)  
+                                              
+                                                           
+                
+                                           
+                                                      
+                 
+                             
+                                                    
+                                                    
+                              
+                                            
+                                   
+Make sure that you can do the kind of work that we just did in this example.  You will be asked numerous times over the course of the next two chapters to determine where functions are positive and/or negative.  If you need some review or want to practice these kinds of problems you should check out the Solving Inequalities section of my Algebra/Trig Review.
+Make sure that you can do the kind of work that we just did in this example.  You will be asked numerous times over the course of the next two chapters to determine where functions are positive and/or negative.  If you need some review or want to practice these kinds of problems you should check out the Solving Inequalities section of my Algebra/Trig Review.
+Make sure that you can do the kind of work that we just did in this example.  You will be asked numerous times over the course of the next two chapters to determine where functions are positive and/or negative.  If you need some review or want to practice these kinds of problems you should check out the Solving Inequalities section of my Algebra/Trig Review.

@@ -22,6 +22,12 @@ public class relationSim
             //PrintWriter f = new PrintWriter(new BufferedWriter(new FileWriter("result0.csv")));
 
             ArrayList<String> head_phrase = input_phrase;
+            System.out.println("------------------------------------------");
+            for(int i = 0; i < head_phrase.size(); i++)
+            {
+                System.out.println(head_phrase.get(i));
+            }
+            System.out.println("------------------------------------------");
             //String head_phrase = "algorithm";
 
             String line = "";

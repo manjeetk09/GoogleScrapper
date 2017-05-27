@@ -1,231 +1,26 @@
-There are four built_in data structures in Python _ list, tuple, dictionary and set.
+In our equation y x 7, we have two variables, x and y.
+0.604: (we; have; two variables)
+0.302: (we; have two variables , x and y in; our equation y x 7)
+
+ The variable which we assign the value we call the independent variable, and the other variable is the dependent variable, since it value depends on the independent variable.
+0.847: (value; depends on; the independent variable)
+0.748: (The variable which we assign the value we call the independent variable , and the other variable; is; the dependent variable)
+0.386: (we; which assign; the value we call the independent variable)
+
+ In our example above, x is the independent variable and y is the dependent variable.
+0.457: (x; is; the independent variable)
+
+.
 No extractions found.
 
- We will see how to use each of them and how they make life easier for us.
-0.211: (life; be easier for; us)
-
-The list of items should be enclosed in square brackets so that Python understands that you are specifying a list.
-0.9: (The list of items; should be enclosed in; square brackets)
-0.612: (you; are specifying; a list)[attrib=Python so understands]
-
- Once you have created a list, you can add, remove or search for items in the list.
-0.72: (you; Once have created; a list)
-
- Since we can add and remove items, we say that a list is a mutable data type i.
-0.527: (a list; is; a mutable data type i)
-0.36: (we; can remove; items)
-
-e.
+.
 No extractions found.
 
- this type can be altered.
-No extractions found.
+It is common to name a function either for ginstead of y.
+0.646: (It; is; common)
 
-1  Introduction 1 1  Objectives 1 2  Getting Started 1 3  What Is Computer Science  1 4  What Is Programming  1 5  Why Study Data Structures and Abstract Data Types  1 6  Why Study Algorithms  1 7  Review of Basic Python 1 8  Getting Started with Data 1 8 1  Built_in Atomic Data Types 1 8 2  Built_in Collection Data Types 1 9  Input and Output 1 9 1  String Formatting 1 10  Control Structures 1 11  Exception Handling 1 12  Defining Functions 1 13  Object_Oriented Programming in Python  Defining Classes 1 13 1  A Fraction Class 1 13 2  Inheritance  Logic Gates and Circuits 1 14  Summary 1 15  Key Terms 1 16  Discussion Questions 1 17  Programming Exercises.
-0.444: (String Formatting 1 10 Control Structures; be Collection Data Types 1 9 Input in; Python Defining Classes 1 13 1)
-
-2  Analysis 2 1  Objectives 2 2  What Is Algorithm Analysis  2 3  Big_O Notation 2 4  An Anagram Detection Example 2 4 1  Solution 1  Checking Off 2 4 2  Solution 2  Sort and Compare 2 4 3  Solution 3  Brute Force 2 4 4  Solution 4  Count and Compare 2 5  Performance of Python Data Structures 2 6  Lists 2 7  Dictionaries 2 8  Summary 2 9  Key Terms 2 10  Discussion Questions 2 11  Programming Exercises.
-0.345: (Algorithm Analysis 2 3; be Notation 2 4 off; 2 4 2 Solution 2 Sort and Compare 2 4 3 Solution 3 Brute Force 2 4 4 Solution 4 Count and Compare 2 5)
-
-3  Basic Data Structures 3 1  Objectives 3 2  What Are Linear Structures  3 3  What is a Stack  3 4  The Stack Abstract Data Type 3 5  Implementing a Stack in Python 3 6  Simple Balanced Parentheses 3 7  Balanced Symbols 3 8  Converting Decimal Numbers to Binary Numbers 3 9  Infix, Prefix and Postfix Expressions 3 9 1  Conversion of Infix Expressions to Prefix and Postfix 3 9 2  General Infix_to_Postfix Conversion 3 9 3  Postfix Evaluation 3 10  What Is a Queue  3 11  The Queue Abstract Data Type 3 12  Implementing a Queue in Python 3 13  Simulation  Hot Potato 3 14  Simulation  Printing Tasks 3 14 1  Main Simulation Steps 3 14 2  Python Implementation 3 14 3  Discussion 3 15  What Is a Deque  3 16  The Deque Abstract Data Type 3 17  Implementing a Deque in Python 3 18  Palindrome_Checker 3 19  Lists 3 20  The Unordered List Abstract Data Type 3 21  Implementing an Unordered List  Linked Lists 3 21 1  The Node Class 3 21 2  The Unordered List Class 3 22  The Ordered List Abstract Data Type 3 23  Implementing an Ordered List 3 23 1  Analysis of Linked Lists 3 24  Summary 3 25  Key Terms 3 26  Discussion Questions 3 27  Programming Exercises.
-0.61: (a Stack 3 4; be The Stack Abstract Data Type 3 5 Implementing a Stack in Python 3 6 Simple Balanced Parentheses 3 7 Balanced Symbols 3 8 Converting Decimal Numbers to; Binary Numbers 3 9 Infix , Prefix and Postfix Expressions)
-0.523: (a Queue 3 11; Is Implementing a Queue in; Python 3 13)
-0.523: (a Queue 3 11; Is Implementing in; Python 3 13)
-0.516: (a Queue 3 11; Is Implementing; a Queue)
-
-4  Recursion 4 1  Objectives 4 2  What Is Recursion  4 3  Calculating the Sum of a List of Numbers 4 4  The Three Laws of Recursion 4 5  Converting an Integer to a String in Any Base 4 6  Stack Frames  Implementing Recursion 4 7  Introduction  Visualizing Recursion 4 8  Sierpinski Triangle 4 9  Complex Recursive Problems 4 10  Tower of Hanoi 4 11  Exploring a Maze 4 12  Dynamic Programming 4 13  Summary 4 14  Key Terms 4 15  Discussion Questions 4 16  Glossary 4 17  Programming Exercises.
-0.593: (Recursion 4 3; Is Calculating; the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer)
-0.318: (the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer; Is Calculating in; Any Base 4 6 Stack Frames Implementing Recursion 4 7 Introduction)
-0.295: (Recursion 4 3; Is Calculating the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer to a String in; Any Base 4 6 Stack Frames Implementing Recursion 4 7 Introduction)
-
-5  Sorting and Searching 5 1  Objectives 5 2  Searching 5 3  The Sequential Search 5 3 1  Analysis of Sequential Search 5 4  The Binary Search 5 4 1  Analysis of Binary Search 5 5  Hashing 5 5 1  Hash Functions 5 5 2  Collision Resolution 5 5 3  Implementing the Map Abstract Data Type 5 5 4  Analysis of Hashing 5 6  Sorting 5 7  The Bubble Sort 5 8  The Selection Sort 5 9  The Insertion Sort 5 10  The Shell Sort 5 11  The Merge Sort 5 12  The Quick Sort 5 13  Summary 5 14  Key Terms 5 15  Discussion Questions 5 16  Programming Exercises.
-0.7: (Collision Resolution; Implementing; the Map Abstract Data Type 5 5 4 Analysis)
-
-6  Trees and Tree Algorithms 6 1  Objectives 6 2  Examples of Trees 6 3  Vocabulary and Definitions 6 4  List of Lists Representation 6 5  Nodes and References 6 6  Parse Tree 6 7  Tree Traversals 6 8  Priority Queues with Binary Heaps 6 9  Binary Heap Operations 6 10  Binary Heap Implementation 6 10 1  The Structure Property 6 10 2  The Heap Order Property 6 10 3  Heap Operations 6 11  Binary Search Trees 6 12  Search Tree Operations 6 13  Search Tree Implementation 6 14  Search Tree Analysis 6 15  Balanced Binary Search Trees 6 16  AVL Tree Performance 6 17  AVL Tree Implementation 6 18  Summary of Map ADT Implementations 6 19  Summary 6 20  Key Terms 6 21  Discussion Questions 6 22  Programming Exercises.
-No extractions found.
-
-7  Graphs and Graph Algorithms 7 1  Objectives 7 2  Vocabulary and Definitions 7 3  The Graph Abstract Data Type 7 4  An Adjacency Matrix 7 5  An Adjacency List 7 6  Implementation 7 7  The Word Ladder Problem 7 8  Building the Word Ladder Graph 7 9  Implementing Breadth First Search 7 10  Breadth First Search Analysis 7 11  The Knight s Tour Problem 7 12  Building the Knight s Tour Graph 7 13  Implementing Knight s Tour 7 14  Knight s Tour Analysis 7 15  General Depth First Search 7 16  Depth First Search Analysis 7 17  Topological Sorting 7 18  Strongly Connected Components 7 19  Shortest Path Problems 7 20  Dijkstra s Algorithm 7 21  Analysis of Dijkstra s Algorithm 7 22  Prim s Spanning Tree Algorithm 7 23  Summary 7 24  Key Terms 7 25  Discussion Questions 7 26  Programming Exercises.
-0.735: (7 20 Dijkstra; s; Algorithm 7 21 Analysis of Dijkstra)
-0.647: (the Knight; s; Tour Graph)
-0.587: (Tour Graph; be s by; Tour Problem 7 12 Building)
-0.548: (Algorithm 7 21 Analysis of Dijkstra; be s by; Path Problems)
-0.458: (7 22 Prim; s Spanning; Tree Algorithm 7 23 Summary 7 24 Key Terms)
-0.404: (Breadth; First Search 7 10 Breadth First Search Analysis 7 11 The Knight s; Tour Problem 7 12 Building)
-0.246: (Tour Problem 7 12 Building; be First Search 7 10 Breadth First Search Analysis 7 11 The Knight s by; Implementing)
-
-1 1  Objectives.
-No extractions found.
-
-1 2  Getting Started.
-No extractions found.
-
-1 3  What Is Computer Science .
-No extractions found.
-
-1 4  What Is Programming .
-No extractions found.
-
-1 5  Why Study Data Structures and Abstract Data Types .
-No extractions found.
-
-1 6  Why Study Algorithms .
-No extractions found.
-
-1 7  Review of Basic Python.
-No extractions found.
-
-1 8  Getting Started with Data 1 8 1  Built_in Atomic Data Types 1 8 2  Built_in Collection Data Types.
-No extractions found.
-
-1 9  Input and Output 1 9 1  String Formatting.
-No extractions found.
-
-1 10  Control Structures.
-No extractions found.
-
-1 11  Exception Handling.
-No extractions found.
-
-1 12  Defining Functions.
-No extractions found.
-
-1 13  Object_Oriented Programming in Python  Defining Classes 1 13 1  A Fraction Class 1 13 2  Inheritance  Logic Gates and Circuits.
-No extractions found.
-
-1 14  Summary.
-No extractions found.
-
-1 15  Key Terms.
-No extractions found.
-
-1 16  Discussion Questions.
-No extractions found.
-
-1 17  Programming Exercises.
-No extractions found.
-
-1  Introduction 1 1  Objectives 1 2  Getting Started 1 3  What Is Computer Science  1 4  What Is Programming  1 5  Why Study Data Structures and Abstract Data Types  1 6  Why Study Algorithms  1 7  Review of Basic Python 1 8  Getting Started with Data 1 8 1  Built_in Atomic Data Types 1 8 2  Built_in Collection Data Types 1 9  Input and Output 1 9 1  String Formatting 1 10  Control Structures 1 11  Exception Handling 1 12  Defining Functions 1 13  Object_Oriented Programming in Python  Defining Classes 1 13 1  A Fraction Class 1 13 2  Inheritance  Logic Gates and Circuits 1 14  Summary 1 15  Key Terms 1 16  Discussion Questions 1 17  Programming Exercises.
-0.444: (String Formatting 1 10 Control Structures; be Collection Data Types 1 9 Input in; Python Defining Classes 1 13 1)
-
-2  Analysis 2 1  Objectives 2 2  What Is Algorithm Analysis  2 3  Big_O Notation 2 4  An Anagram Detection Example 2 4 1  Solution 1  Checking Off 2 4 2  Solution 2  Sort and Compare 2 4 3  Solution 3  Brute Force 2 4 4  Solution 4  Count and Compare 2 5  Performance of Python Data Structures 2 6  Lists 2 7  Dictionaries 2 8  Summary 2 9  Key Terms 2 10  Discussion Questions 2 11  Programming Exercises.
-0.345: (Algorithm Analysis 2 3; be Notation 2 4 off; 2 4 2 Solution 2 Sort and Compare 2 4 3 Solution 3 Brute Force 2 4 4 Solution 4 Count and Compare 2 5)
-
-3  Basic Data Structures 3 1  Objectives 3 2  What Are Linear Structures  3 3  What is a Stack  3 4  The Stack Abstract Data Type 3 5  Implementing a Stack in Python 3 6  Simple Balanced Parentheses 3 7  Balanced Symbols 3 8  Converting Decimal Numbers to Binary Numbers 3 9  Infix, Prefix and Postfix Expressions 3 9 1  Conversion of Infix Expressions to Prefix and Postfix 3 9 2  General Infix_to_Postfix Conversion 3 9 3  Postfix Evaluation 3 10  What Is a Queue  3 11  The Queue Abstract Data Type 3 12  Implementing a Queue in Python 3 13  Simulation  Hot Potato 3 14  Simulation  Printing Tasks 3 14 1  Main Simulation Steps 3 14 2  Python Implementation 3 14 3  Discussion 3 15  What Is a Deque  3 16  The Deque Abstract Data Type 3 17  Implementing a Deque in Python 3 18  Palindrome_Checker 3 19  Lists 3 20  The Unordered List Abstract Data Type 3 21  Implementing an Unordered List  Linked Lists 3 21 1  The Node Class 3 21 2  The Unordered List Class 3 22  The Ordered List Abstract Data Type 3 23  Implementing an Ordered List 3 23 1  Analysis of Linked Lists 3 24  Summary 3 25  Key Terms 3 26  Discussion Questions 3 27  Programming Exercises.
-0.61: (a Stack 3 4; be The Stack Abstract Data Type 3 5 Implementing a Stack in Python 3 6 Simple Balanced Parentheses 3 7 Balanced Symbols 3 8 Converting Decimal Numbers to; Binary Numbers 3 9 Infix , Prefix and Postfix Expressions)
-0.523: (a Queue 3 11; Is Implementing a Queue in; Python 3 13)
-0.523: (a Queue 3 11; Is Implementing in; Python 3 13)
-0.516: (a Queue 3 11; Is Implementing; a Queue)
-
-4  Recursion 4 1  Objectives 4 2  What Is Recursion  4 3  Calculating the Sum of a List of Numbers 4 4  The Three Laws of Recursion 4 5  Converting an Integer to a String in Any Base 4 6  Stack Frames  Implementing Recursion 4 7  Introduction  Visualizing Recursion 4 8  Sierpinski Triangle 4 9  Complex Recursive Problems 4 10  Tower of Hanoi 4 11  Exploring a Maze 4 12  Dynamic Programming 4 13  Summary 4 14  Key Terms 4 15  Discussion Questions 4 16  Glossary 4 17  Programming Exercises.
-0.593: (Recursion 4 3; Is Calculating; the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer)
-0.318: (the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer; Is Calculating in; Any Base 4 6 Stack Frames Implementing Recursion 4 7 Introduction)
-0.295: (Recursion 4 3; Is Calculating the Sum of a List of Numbers 4 4 The Three Laws of Recursion 4 5 Converting an Integer to a String in; Any Base 4 6 Stack Frames Implementing Recursion 4 7 Introduction)
-
-5  Sorting and Searching 5 1  Objectives 5 2  Searching 5 3  The Sequential Search 5 3 1  Analysis of Sequential Search 5 4  The Binary Search 5 4 1  Analysis of Binary Search 5 5  Hashing 5 5 1  Hash Functions 5 5 2  Collision Resolution 5 5 3  Implementing the Map Abstract Data Type 5 5 4  Analysis of Hashing 5 6  Sorting 5 7  The Bubble Sort 5 8  The Selection Sort 5 9  The Insertion Sort 5 10  The Shell Sort 5 11  The Merge Sort 5 12  The Quick Sort 5 13  Summary 5 14  Key Terms 5 15  Discussion Questions 5 16  Programming Exercises.
-0.7: (Collision Resolution; Implementing; the Map Abstract Data Type 5 5 4 Analysis)
-
-6  Trees and Tree Algorithms 6 1  Objectives 6 2  Examples of Trees 6 3  Vocabulary and Definitions 6 4  List of Lists Representation 6 5  Nodes and References 6 6  Parse Tree 6 7  Tree Traversals 6 8  Priority Queues with Binary Heaps 6 9  Binary Heap Operations 6 10  Binary Heap Implementation 6 10 1  The Structure Property 6 10 2  The Heap Order Property 6 10 3  Heap Operations 6 11  Binary Search Trees 6 12  Search Tree Operations 6 13  Search Tree Implementation 6 14  Search Tree Analysis 6 15  Balanced Binary Search Trees 6 16  AVL Tree Performance 6 17  AVL Tree Implementation 6 18  Summary of Map ADT Implementations 6 19  Summary 6 20  Key Terms 6 21  Discussion Questions 6 22  Programming Exercises.
-No extractions found.
-
-7  Graphs and Graph Algorithms 7 1  Objectives 7 2  Vocabulary and Definitions 7 3  The Graph Abstract Data Type 7 4  An Adjacency Matrix 7 5  An Adjacency List 7 6  Implementation 7 7  The Word Ladder Problem 7 8  Building the Word Ladder Graph 7 9  Implementing Breadth First Search 7 10  Breadth First Search Analysis 7 11  The Knight s Tour Problem 7 12  Building the Knight s Tour Graph 7 13  Implementing Knight s Tour 7 14  Knight s Tour Analysis 7 15  General Depth First Search 7 16  Depth First Search Analysis 7 17  Topological Sorting 7 18  Strongly Connected Components 7 19  Shortest Path Problems 7 20  Dijkstra s Algorithm 7 21  Analysis of Dijkstra s Algorithm 7 22  Prim s Spanning Tree Algorithm 7 23  Summary 7 24  Key Terms 7 25  Discussion Questions 7 26  Programming Exercises.
-0.735: (7 20 Dijkstra; s; Algorithm 7 21 Analysis of Dijkstra)
-0.647: (the Knight; s; Tour Graph)
-0.587: (Tour Graph; be s by; Tour Problem 7 12 Building)
-0.548: (Algorithm 7 21 Analysis of Dijkstra; be s by; Path Problems)
-0.458: (7 22 Prim; s Spanning; Tree Algorithm 7 23 Summary 7 24 Key Terms)
-0.404: (Breadth; First Search 7 10 Breadth First Search Analysis 7 11 The Knight s; Tour Problem 7 12 Building)
-0.246: (Tour Problem 7 12 Building; be First Search 7 10 Breadth First Search Analysis 7 11 The Knight s by; Implementing)
-
-1 1  Objectives.
-No extractions found.
-
-1 2  Getting Started.
-No extractions found.
-
-1 3  What Is Computer Science .
-No extractions found.
-
-1 4  What Is Programming .
-No extractions found.
-
-1 5  Why Study Data Structures and Abstract Data Types .
-No extractions found.
-
-1 6  Why Study Algorithms .
-No extractions found.
-
-1 7  Review of Basic Python.
-No extractions found.
-
-1 8  Getting Started with Data 1 8 1  Built_in Atomic Data Types 1 8 2  Built_in Collection Data Types.
-No extractions found.
-
-1 9  Input and Output 1 9 1  String Formatting.
-No extractions found.
-
-1 10  Control Structures.
-No extractions found.
-
-1 11  Exception Handling.
-No extractions found.
-
-1 12  Defining Functions.
-No extractions found.
-
-1 13  Object_Oriented Programming in Python  Defining Classes 1 13 1  A Fraction Class 1 13 2  Inheritance  Logic Gates and Circuits.
-No extractions found.
-
-1 14  Summary.
-No extractions found.
-
-1 15  Key Terms.
-No extractions found.
-
-1 16  Discussion Questions.
-No extractions found.
-
-1 17  Programming Exercises.
-No extractions found.
-
-Python has a few built_in data structures.
-0.758: (Python; has; a few built_in data structures)
-
- If you are wondering what a data structure is, it is nothing but a way to store data and having particular methods to retrieve or manipulate it.
-0.539: (it; is; nothing)
-
- We already encountered lists before  now we will go in some depth.
-0.758: (We; already encountered; lists)
-0.757: (we; will go in; some depth)
-0.627: (We; already encountered lists of; we)
-
-To create a tuple which contains only one value, type a trailing comma.
-0.497: (one value; be contains by; a tuple)
-
-Python is an interpreted, object_oriented, high_level programming language with dynamic semantics.
-0.804: (Python; is; an interpreted , object_oriented , high_level programming language)
-0.8: (Python; is an interpreted , object oriented , high level programming language with; dynamic semantics)
-0.562: (high_level; is programming language with; dynamic semantics)
-
- Its high_level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.
-0.953: (Its high_level; built in; data structures combined with dynamic typing and dynamic binding)
-0.706: (data structures; be combined with; dynamic typing and dynamic binding)
-0.667: (Its high_level; built as for; use)
-0.444: (it; be very attractive for; Rapid Application Development)
-
- Python s simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
-0.825: (easy; therefore reduces; the cost of program maintenance)
-0.758: (Python; emphasizes; readability)
-0.735: (Python; therefore reduces; the cost of program maintenance)
-0.729: (easy; emphasizes; readability)
-
- Python supports modules and packages, which encourages program modularity and code reuse.
-0.821: (Python; supports; modules and packages , which encourages program modularity and code reuse)
-0.564: (program modularity and code reuse; be encourages by; modules and packages)
-
- The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
-0.756: (The Python interpreter and the extensive standard library; are available can in; source or binary form)
-0.756: (The Python interpreter and the extensive standard library; are available can without; charge)
-0.678: (The Python interpreter and the extensive standard library; are available can for; all major platforms)
+ fmeans that we should find the value of our function when x equals 2.
+0.527: (we; should find; the value of our function)[enabler=when x equals]
 
 .
 No extractions found.
@@ -239,24 +34,7 @@ No extractions found.
 .
 No extractions found.
 
-A List represents the most versatile type of data structure in Python.
-0.854: (A List; represents; the most versatile type of data structure)
-
- It can contain items of different types and it has no rule against unicity.
-0.619: (it; has against; unicity)
-0.592: (it; has; no rule)
-0.57: (It; can contain it has no rule against unicity; items of different types)
-0.404: (it; be items of; different types)
-
- List indices start from zero, the elements can be sliced, concatenated, and so on.
-0.785: (List indices; start from; zero)
-
- Lists also have a lot of similarities with strings, supporting the same kind of operations but unlike strings, lists are mutable.
-0.751: (Lists; also have; a lot of similarities)
-0.425: (lists; are mutable unlike; strings)
-0.395: (Lists; also have a lot of similarities with strings supporting; the same kind of operations)
-
-.
+Example.
 No extractions found.
 
 .
@@ -265,6 +43,271 @@ No extractions found.
 .
 No extractions found.
 
-.
+f  1   x   x2.
+No extractions found.
+
+These are all the same function.
+No extractions found.
+
+ f  1   x   x2.
+No extractions found.
+
+ f  1   q   q2.
+No extractions found.
+
+ w  1   A   A2.
+No extractions found.
+
+ pumpkin  1        2.
+No extractions found.
+
+A relation is a set of inputs and outputs, often written as ordered pairs .
+0.955: (A relation; is a set of; inputs and outputs , often written as ordered pairs)
+0.736: (A relation; is; a set of inputs)
+0.692: (inputs and outputs; be often written as; ordered pairs)
+
+ We can also represent a relation as a mapping diagram or a graph.
+0.768: (We; can also represent a relation as; a mapping diagram or a graph)
+0.723: (We; can also represent; a relation)
+0.708: (a relation; can be also represent as; a mapping diagram or a graph)
+
+ For example, the relation can be represented as.
+0.46: (the relation; can be represented as for; example)
+
+In the relation , y is a function of x , because for each input x , there is only one output y .
+0.813: (y; is a function of; x)
+0.738: (y; is a function of x for; each input)
+0.568: (y; is a function of x in; the relation)
+0.539: (y; is; a function of x)
+
+ x is not a function of y , because the input y   3 has multiple outputs.
+0.822: (x; is not a function of; y)[enabler=because the input y 3 has multiple outputs]
+0.626: (the input y 3; has; multiple outputs)
+0.539: (x; is; not a function of y)
+
+ x   1 and x   2 .
+No extractions found.
+
+Solution.
+No extractions found.
+
+              .
+No extractions found.
+
+Example 2  The following relation is not a function.
+0.703: (Example 2; is; not a function)
+
+Solution.
+No extractions found.
+
+Don t worry about where this relation came from.
+No extractions found.
+
+  It is just one that we made up for this example.
+0.698: (It; is just; one)
+0.478: (we; made up for; this example)
+
+                   .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+Solution.
+No extractions found.
+
+  .
+No extractions found.
+
+                                      .
+No extractions found.
+
+ .
+No extractions found.
+
+                                           .
+No extractions found.
+
+                                          .
+No extractions found.
+
+ .
+No extractions found.
+
+                             .
+No extractions found.
+
+ .
+No extractions found.
+
+                        .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+Solution.
+No extractions found.
+
+                                            .
+No extractions found.
+
+                                 .
+No extractions found.
+
+                                                    .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                     .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                            .
+No extractions found.
+
+                                                 .
+No extractions found.
+
+                                               .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                     .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                       .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+Solution.
+No extractions found.
+
+ .
+No extractions found.
+
+                                                     .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                      .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                                  .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                                 .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                     .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+   .
+No extractions found.
+
+Solution.
+No extractions found.
+
+ .
+No extractions found.
+
+                                 .
+No extractions found.
+
+                                 .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                                  .
+No extractions found.
+
+                                             .
+No extractions found.
+
+                                                             .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                                .
+No extractions found.
+
+                                                           .
+No extractions found.
+
+ .
+No extractions found.
+
+                                                                .
+No extractions found.
+
+                                .
+No extractions found.
+
+                                                  .
 No extractions found.
 

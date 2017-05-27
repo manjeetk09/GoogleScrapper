@@ -1,48 +1,137 @@
-The three properties of a vector are type, length, and attributes.
-0.492: (type , length , and attributes; be The three properties of; a vector)
-
-The four common types of atomic vector are logical, integer, double , and character.
-0.492: (logical , integer , double , and character; be The four common types of; atomic vector)
-
- The two rarer types are complex and raw.
+                                                     .
 No extractions found.
 
-A vector is the most common and basic data structure in R and is pretty much the workhorse of R.
-0.894: (A vector; is the most common and basic data structure in; R)
-0.85: (A vector; is pretty much the workhorse of; R.)
-0.828: (A vector; is pretty much; the most common and basic data structure in R and is pretty much the workhorse of R.)
-0.792: (A vector; is; the most common and basic data structure in R and is pretty much the workhorse of R.)
-
- Technically, vectors can be one of two types.
+                                                   .
 No extractions found.
 
- atomic vectors.
+                                                 .
 No extractions found.
 
- lists.
+The graph of fin this example is the graph of y   x2 _ 3.
+0.938: (The graph fin this example; is the graph of; y)
+0.88: (The graph fin this example; is the graph of y x2; _)
+0.804: (The graph fin this example; is; the graph of y)
+
+ It is easy to generate points on the graph.
+0.708: (points; to be generate on; the graph)
+0.697: (It; to generate; points)
+0.646: (It; is; easy)
+
+ Choose a value for the first coordinate, then evaluate f at that number to find the second coordinate.
+0.698: (f; be evaluate at; that number)
+
+ The following table shows several values for x and the function f evaluated at those numbers.
+0.768: (The following table; shows; several values)
+0.705: (x and the function f; be evaluated at; those numbers)
+
+f.
 No extractions found.
 
-What are the different data structures in R .
+First we solve the equation for y.
+0.776: (the equation; be First solve for; y)
+0.706: (we; First solve the equation for; y)
+0.658: (we; First solve; the equation)
+
+Last we graph our matching x_ and y_values and draw a line.
+0.625: (we; draw; a line)
+0.503: (we; graph; our matching x_ and y_values)
+
+Example.
 No extractions found.
 
-How do I access data within the various data structures .
-0.708: (data; do access within; the various data structures)
-0.626: (I; do access data within; the various data structures)
-0.569: (I; do access; data)
+We are going to graph the equation _4x 2y 2.
+0.698: (We; to graph; the equation)
+0.582: (We; are going to graph; the equation)
 
-Expose learners to the different data types in R.
+First we solve the equation for y.
+0.776: (the equation; be First solve for; y)
+0.706: (we; First solve the equation for; y)
+0.658: (we; First solve; the equation)
+
+.
 No extractions found.
 
-length  number of elements or components str     structure of an object class   class or type of an object names   names c object,object,.
-0.482: (,object; be length number of; elements or components str structure of an object class class or type of an object names names c)
+.
+No extractions found.
 
-          combine objects into a vector cbind object, object, .
-0.837: (objects; be combine into; a vector cbind object)
+Here is an example of a graph that is not a function.
+No extractions found.
 
-    combine objects as columns rbind object, object, .
-0.605: (columns; rbind; object)
+For example, if you work in a fast food outlet, your pay packet depends on the number of hours you work.
+0.891: (your pay packet; depends on; the number of hours you work)
+0.237: (your pay packet; depends for; example)
+0.216: (you; work in; a fast food outlet)
 
-    combine objects as rows object       prints the object ls        list current objects rm  delete an object newobject  _ edit  edit copy and save as newobject fix                edit in place.
-0.834: (objects; be combine as; rows)
-0.678: (list current objects; rm delete; an object newobject _ edit edit copy)
+ Or, the amount of concrete you need to order when constructing a building will depend on the height of the building.
+0.912: (the amount of concrete you need to order when constructing a building; will depend on; the height of the building)
+
+6.
+No extractions found.
+
+ Graphs of Functions Defined by Tables of Data _ often we don t have an algebraic expression for a function, just tables.
+0.713: (Functions; be Defined by; Tables of Data)
+0.579: (Graphs of Functions; often don; t)
+0.446: (we; often don; t)
+
+In mathematics, an algebraic function is a function that can be defined as the root of a polynomial equation.
+0.741: (an algebraic function; is; a function that can be defined as the root of a polynomial equation)
+0.688: (an algebraic function; is a function in; mathematics)
+
+ Quite often algebraic functions can be expressed using a finite number of terms, involving only the algebraic operations addition, subtraction, multiplication, division, and raising to a fractional power.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The informal definition of an algebraic function provides a number of clues about their properties.
+0.854: (The informal definition of an algebraic function; provides; a number of clues)
+0.841: (The informal definition of an algebraic function; provides of; clues)
+
+ To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations.
+0.745: (algebraic functions; to be regard as; functions which can be formed by the usual algebraic operations)
+0.62: (it; may be; helpful)
+
+ addition, multiplication, division, and taking an nth root.
+No extractions found.
+
+ This is something of an oversimplification  because of the fundamental theorem of Galois theory, algebraic functions need not be expressible by radicals.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+However, not every function has an inverse.
+0.714: (not every function; However has; an inverse)
+
+ For example, y   x2 fails the horizontal line test.
+No extractions found.
+
+ it fails to be one_to_one.
+No extractions found.
+
+ The inverse is the algebraic  function  x     y   displaystyle x  pm   sqrt  y    .
+0.716: (The inverse; is; the algebraic function x y displaystyle x pm sqrt y)
+
+ Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve.
+0.908: (the set of branches of the polynomial equation; is the graph of; an algebraic curve)
+0.724: (the set of branches of the polynomial equation; is; the graph of an algebraic curve)
+0.508: (the graph of an algebraic curve; be the set of; branches of the polynomial equation defining our algebraic function)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+y    .
+No extractions found.
+
+.
+No extractions found.
 

@@ -3,6 +3,8 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -13,6 +15,13 @@ public class temp
 
     public static void main (String args[]) throws IOException
     {
+
+        String filename = "templates.txt";
+        BufferedWriter bw = null;
+        FileWriter fw = null;
+        fw = new FileWriter(filename);
+        bw = new BufferedWriter(fw);
+
         //number of templates
         int temp_num = 0;
         ArrayList<String> head_phrase_list = new ArrayList<String>();
@@ -90,7 +99,7 @@ public class temp
             //System.out.println(templates_final);
         }
         if(flag == 0){
-
+            bw.write(searchTerm + "\n");
             boolean is_quick_ans_present = false;
             GoogleSearchJava googleSearchJava = new GoogleSearchJava();
             is_quick_ans_present = googleSearchJava.googleSearch(searchTerm, search, 0, head_phrase_list, query_term_list);
@@ -122,6 +131,7 @@ public class temp
         else{
             for(int i=0;i<templates_final.size();i++)
             {
+                bw.write(templates_final.get(i) + "\n");
                 boolean is_quick_ans_present = false;
                 //String temp_1 = "" + i;
                 //templates_final.set(i,temp_1);
@@ -156,6 +166,17 @@ public class temp
              }
         }
 
+        try
+        {
+            if(bw!=null)
+                bw.close();
+            if(fw!=null)
+                fw.close();
+        }
+        catch(Exception e)
+        {
+            e.printStackTrace();
+        }
 
 //        CombineOllie combineOllie = new CombineOllie();
 //        combineOllie.combineOllieFunc(temp_num);

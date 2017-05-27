@@ -1,425 +1,75 @@
-10;http://www.studytonight.com/data-structures/introduction-to-data-structures;collecting;1.0;0.041666666666666664;4.0;0
-10;http://www.studytonight.com/data-structures/introduction-to-data-structures;data structure;1.833333333335;0.08333333333333333;2.0;0
-10;http://www.studytonight.com/data-structures/introduction-to-data-structures;perform operations;2.0;0.041666666666666664;4.0;0
-10;http://www.studytonight.com/data-structures/introduction-to-data-structures;effective;1.0;0.041666666666666664;4.0;0
-10;http://www.studytonight.com/data-structures/introduction-to-data-structures;organising data;1.833333333335;0.041666666666666664;4.0;0
-10;http://www.studytonight.com/data-structures/introduction-to-data-structures;data;1.66666666667;0.041666666666666664;4.0;0
-11;http://www.studytonight.com/data-structures/introduction-to-data-structures;terms;1.0;0.041666666666666664;1.3333333333333333;0
-11;http://www.studytonight.com/data-structures/introduction-to-data-structures;relationship;1.0;0.0;4.0;0
-11;http://www.studytonight.com/data-structures/introduction-to-data-structures;storage;1.0;0.041666666666666664;4.0;0
-11;http://www.studytonight.com/data-structures/introduction-to-data-structures;data structures;2.25;0.041666666666666664;0.4444444444444444;0
-11;http://www.studytonight.com/data-structures/introduction-to-data-structures;organization;1.0;0.0;4.0;0
-11;http://www.studytonight.com/data-structures/introduction-to-data-structures;rendering data elements;2.8333333333333335;0.041666666666666664;4.0;0
-12;http://www.studytonight.com/data-structures/introduction-to-data-structures;virat;1.0;0.0;4.0;0
-12;http://www.studytonight.com/data-structures/introduction-to-data-structures;data player;2.0;0.041666666666666664;4.0;0
-12;http://www.studytonight.com/data-structures/introduction-to-data-structures;age 26;0.5;0.041666666666666664;4.0;0
-13;http://www.studytonight.com/data-structures/introduction-to-data-structures;virat;1.0;0.0;4.0;0
-13;http://www.studytonight.com/data-structures/introduction-to-data-structures;string data type;3.0;0.041666666666666664;4.0;0
-13;http://www.studytonight.com/data-structures/introduction-to-data-structures;integer data type;3.0;0.041666666666666664;4.0;0
-15;http://www.studytonight.com/data-structures/introduction-to-data-structures;note;1.0;0.041666666666666664;4.0;0
-16;http://www.studytonight.com/data-structures/introduction-to-data-structures;java;1.0;0.0;4.0;0
-16;http://www.studytonight.com/data-structures/introduction-to-data-structures;data structure;2.0;0.08333333333333333;2.0;0
-16;http://www.studytonight.com/data-structures/introduction-to-data-structures;programming;1.0;0.0;4.0;0
-16;http://www.studytonight.com/data-structures/introduction-to-data-structures;deep;1.0;0.041666666666666664;4.0;0
-16;http://www.studytonight.com/data-structures/introduction-to-data-structures;good knowledge;2.0;0.041666666666666664;4.0;0
-20;http://www.cprogramming.com/algorithms-and-data-structures.html;introduction;1.0;0.0;4.0;0
-20;http://www.cprogramming.com/algorithms-and-data-structures.html;topic;1.0;0.05555555555555555;4.0;0
-20;http://www.cprogramming.com/algorithms-and-data-structures.html;computer science;2.0;0.1111111111111111;4.0;0
-21;http://www.cprogramming.com/algorithms-and-data-structures.html;octal;1.0;0.05555555555555555;4.0;0
-21;http://www.cprogramming.com/algorithms-and-data-structures.html;hex;1.0;0.0;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;heart;1.0;0.0;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;advanced topic;2.0;0.05555555555555555;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;nature;1.0;0.05555555555555555;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;tutorial covers;2.0;0.05555555555555555;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;computed __;2.0;0.0;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;faint;1.0;0.05555555555555555;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;halting problem;2.0;0.1111111111111111;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;solve;1.0;0.05555555555555555;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;computer science;2.0;0.1111111111111111;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;problems computers simply;3.0;0.05555555555555555;4.0;0
-22;http://www.cprogramming.com/algorithms-and-data-structures.html;types;1.0;0.05555555555555555;2.0;0
-23;http://www.cprogramming.com/algorithms-and-data-structures.html;halting problem;2.0;0.1111111111111111;4.0;0
-23;http://www.cprogramming.com/algorithms-and-data-structures.html;consequences;1.0;0.0;4.0;0
-44;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;2.0;0.022535211267605635;2.0;0
-44;https://en.wikipedia.org/wiki/List_of_data_structures;list;1.0;0.0;4.0;0
-45;https://en.wikipedia.org/wiki/List_of_data_structures;terms;1.5;0.005633802816901409;2.0;0
-45;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;2.0;0.022535211267605635;2.0;0
-45;https://en.wikipedia.org/wiki/List_of_data_structures;terms relating;1.75;0.0028169014084507044;4.0;0
-45;https://en.wikipedia.org/wiki/List_of_data_structures;list;1.5;0.0;4.0;0
-45;https://en.wikipedia.org/wiki/List_of_data_structures;wider list;1.75;0.0028169014084507044;4.0;0
-45;https://en.wikipedia.org/wiki/List_of_data_structures;algorithms;1.0;0.0028169014084507044;4.0;0
-46;https://en.wikipedia.org/wiki/List_of_data_structures;running time;2.0;0.0028169014084507044;4.0;0
-46;https://en.wikipedia.org/wiki/List_of_data_structures;comparison;1.0;0.0028169014084507044;4.0;0
-46;https://en.wikipedia.org/wiki/List_of_data_structures;subset;1.0;0.0028169014084507044;4.0;0
-46;https://en.wikipedia.org/wiki/List_of_data_structures;list;1.0;0.0;4.0;0
-46;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;2.0;0.022535211267605635;2.0;0
-47;https://en.wikipedia.org/wiki/List_of_data_structures;properties;1.0;0.005633802816901409;4.0;0
-47;https://en.wikipedia.org/wiki/List_of_data_structures;abstract data types;3.0;0.005633802816901409;4.0;0
-48;https://en.wikipedia.org/wiki/List_of_data_structures;data structure;2.0;0.0028169014084507044;1.3333333333333333;0
-48;https://en.wikipedia.org/wiki/List_of_data_structures;linear;1.0;0.0;4.0;0
-48;https://en.wikipedia.org/wiki/List_of_data_structures;elements form;2.0;0.0028169014084507044;4.0;0
-48;https://en.wikipedia.org/wiki/List_of_data_structures;sequence;1.0;0.005633802816901409;4.0;0
-49;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;2.0;0.022535211267605635;2.0;0
-49;https://en.wikipedia.org/wiki/List_of_data_structures;tree node compares;3.0;0.0028169014084507044;4.0;0
-49;https://en.wikipedia.org/wiki/List_of_data_structures;key values;2.0;0.0028169014084507044;4.0;0
-49;https://en.wikipedia.org/wiki/List_of_data_structures;bit slice;2.0;0.0028169014084507044;4.0;0
-50;https://en.wikipedia.org/wiki/List_of_data_structures;trie;1.0;0.0028169014084507044;4.0;0
-51;https://en.wikipedia.org/wiki/List_of_data_structures;radix tree;2.0;0.0028169014084507044;4.0;0
-52;https://en.wikipedia.org/wiki/List_of_data_structures;suffix tree;2.0;0.0028169014084507044;4.0;0
-53;https://en.wikipedia.org/wiki/List_of_data_structures;suffix array;2.0;0.0028169014084507044;4.0;0
-54;https://en.wikipedia.org/wiki/List_of_data_structures;compressed suffix array;3.0;0.0028169014084507044;4.0;0
-55;https://en.wikipedia.org/wiki/List_of_data_structures;fm_index;1.0;0.0028169014084507044;4.0;0
-56;https://en.wikipedia.org/wiki/List_of_data_structures;generalised suffix tree;3.0;0.0028169014084507044;4.0;0
-57;https://en.wikipedia.org/wiki/List_of_data_structures;b_trie;1.0;0.0028169014084507044;4.0;0
-58;https://en.wikipedia.org/wiki/List_of_data_structures;judy array;2.0;0.0028169014084507044;4.0;0
-59;https://en.wikipedia.org/wiki/List_of_data_structures;x_fast trie;2.0;0.0028169014084507044;4.0;0
-60;https://en.wikipedia.org/wiki/List_of_data_structures;y_fast trie;2.0;0.0028169014084507044;4.0;0
-61;https://en.wikipedia.org/wiki/List_of_data_structures;merkle tree;2.0;0.0028169014084507044;4.0;0
-62;https://en.wikipedia.org/wiki/List_of_data_structures;ctrie;1.0;0.0;4.0;0
-63;https://en.wikipedia.org/wiki/List_of_data_structures;binary space partitioning;2.6666666666666665;0.0028169014084507044;4.0;0
-63;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;2.0;0.022535211267605635;2.0;0
-63;https://en.wikipedia.org/wiki/List_of_data_structures;space partitioning;2.5;0.0028169014084507044;4.0;0
-64;https://en.wikipedia.org/wiki/List_of_data_structures;segment tree;2.0;0.0028169014084507044;4.0;0
-65;https://en.wikipedia.org/wiki/List_of_data_structures;interval tree;2.0;0.0028169014084507044;4.0;0
-66;https://en.wikipedia.org/wiki/List_of_data_structures;range tree;2.0;0.0028169014084507044;4.0;0
-67;https://en.wikipedia.org/wiki/List_of_data_structures;bin;1.0;0.0028169014084507044;4.0;0
-68;https://en.wikipedia.org/wiki/List_of_data_structures;k_d tree;2.0;0.0028169014084507044;4.0;0
-69;https://en.wikipedia.org/wiki/List_of_data_structures;implicit k_d tree;3.0;0.0028169014084507044;4.0;0
-71;https://en.wikipedia.org/wiki/List_of_data_structures;relaxed k_d tree;3.0;0.0028169014084507044;4.0;0
-72;https://en.wikipedia.org/wiki/List_of_data_structures;adaptive k_d tree;3.0;0.0028169014084507044;4.0;0
-73;https://en.wikipedia.org/wiki/List_of_data_structures;quadtree;1.0;0.0;4.0;0
-74;https://en.wikipedia.org/wiki/List_of_data_structures;octree;1.0;0.0;4.0;0
-75;https://en.wikipedia.org/wiki/List_of_data_structures;linear octree;2.0;0.0028169014084507044;4.0;0
-76;https://en.wikipedia.org/wiki/List_of_data_structures;z_order;1.0;0.0028169014084507044;4.0;0
-77;https://en.wikipedia.org/wiki/List_of_data_structures;ub_tree;1.0;0.0028169014084507044;4.0;0
-78;https://en.wikipedia.org/wiki/List_of_data_structures;r_tree;1.0;0.005633802816901409;4.0;0
-79;https://en.wikipedia.org/wiki/List_of_data_structures;tree;1.0;0.022535211267605635;4.0;0
-80;https://en.wikipedia.org/wiki/List_of_data_structures;tree;1.0;0.022535211267605635;4.0;0
-81;https://en.wikipedia.org/wiki/List_of_data_structures;hilbert r_tree;2.0;0.005633802816901409;4.0;0
-82;https://en.wikipedia.org/wiki/List_of_data_structures;x_tree;1.0;0.0028169014084507044;4.0;0
-83;https://en.wikipedia.org/wiki/List_of_data_structures;metric tree;2.0;0.0028169014084507044;4.0;0
-84;https://en.wikipedia.org/wiki/List_of_data_structures;cover tree;2.0;0.0028169014084507044;4.0;0
-85;https://en.wikipedia.org/wiki/List_of_data_structures;m_tree;1.0;0.0028169014084507044;4.0;0
-86;https://en.wikipedia.org/wiki/List_of_data_structures;vp_tree;1.0;0.0028169014084507044;4.0;0
-87;https://en.wikipedia.org/wiki/List_of_data_structures;bk_tree;1.0;0.0028169014084507044;4.0;0
-88;https://en.wikipedia.org/wiki/List_of_data_structures;bounding interval hierarchy;3.0;0.0028169014084507044;4.0;0
-89;https://en.wikipedia.org/wiki/List_of_data_structures;bounding volume hierarchy;3.0;0.0028169014084507044;4.0;0
-90;https://en.wikipedia.org/wiki/List_of_data_structures;bsp tree;2.0;0.0028169014084507044;4.0;0
-95;https://en.wikipedia.org/wiki/List_of_data_structures;4 hashes;0.5;0.0028169014084507044;4.0;0
-96;https://en.wikipedia.org/wiki/List_of_data_structures;5 graphs;0.5;0.0028169014084507044;4.0;0
-98;https://en.wikipedia.org/wiki/List_of_data_structures;7 external links;1.3333333333333333;0.0028169014084507044;4.0;0
-100;https://en.wikipedia.org/wiki/List_of_data_structures;non_primitive type;2.0;0.0028169014084507044;4.0;0
-102;https://en.wikipedia.org/wiki/List_of_data_structures;2 1 arrays;0.3333333333333333;0.0028169014084507044;4.0;0
-103;https://en.wikipedia.org/wiki/List_of_data_structures;2 2 lists;0.3333333333333333;0.0028169014084507044;4.0;0
-105;https://en.wikipedia.org/wiki/List_of_data_structures;3 2 b_trees;0.3333333333333333;0.0028169014084507044;4.0;0
-106;https://en.wikipedia.org/wiki/List_of_data_structures;3 3 heaps;0.3333333333333333;0.0028169014084507044;4.0;0
-107;https://en.wikipedia.org/wiki/List_of_data_structures;3 4 trees;0.3333333333333333;0.0028169014084507044;4.0;0
-111;https://en.wikipedia.org/wiki/List_of_data_structures;false;1.0;0.0028169014084507044;4.0;0
-111;https://en.wikipedia.org/wiki/List_of_data_structures;boolean;1.0;0.0;4.0;0
-111;https://en.wikipedia.org/wiki/List_of_data_structures;true;1.0;0.0028169014084507044;4.0;0
-112;https://en.wikipedia.org/wiki/List_of_data_structures;character;1.0;0.0028169014084507044;4.0;0
-113;https://en.wikipedia.org/wiki/List_of_data_structures;floating_point;1.0;0.0028169014084507044;4.0;0
-114;https://en.wikipedia.org/wiki/List_of_data_structures;double;1.0;0.0028169014084507044;4.0;0
-114;https://en.wikipedia.org/wiki/List_of_data_structures;wider floating_point size;3.0;0.0028169014084507044;4.0;0
-115;https://en.wikipedia.org/wiki/List_of_data_structures;integer;1.0;0.0028169014084507044;4.0;0
-115;https://en.wikipedia.org/wiki/List_of_data_structures;integral;1.0;0.0028169014084507044;4.0;0
-115;https://en.wikipedia.org/wiki/List_of_data_structures;fixed_precision values;2.0;0.0028169014084507044;4.0;0
-116;https://en.wikipedia.org/wiki/List_of_data_structures;string;1.0;0.0028169014084507044;4.0;0
-116;https://en.wikipedia.org/wiki/List_of_data_structures;characters;1.0;0.0028169014084507044;4.0;0
-116;https://en.wikipedia.org/wiki/List_of_data_structures;sequence;1.0;0.005633802816901409;4.0;0
-117;https://en.wikipedia.org/wiki/List_of_data_structures;larger;1.0;0.0;4.0;0
-117;https://en.wikipedia.org/wiki/List_of_data_structures;referring;1.0;0.0028169014084507044;4.0;0
-117;https://en.wikipedia.org/wiki/List_of_data_structures;reference;1.0;0.0028169014084507044;4.0;0
-117;https://en.wikipedia.org/wiki/List_of_data_structures;object;1.0;0.0028169014084507044;4.0;0
-117;https://en.wikipedia.org/wiki/List_of_data_structures;possibly;1.0;0.0028169014084507044;4.0;0
-117;https://en.wikipedia.org/wiki/List_of_data_structures;memory;1.0;0.0028169014084507044;4.0;0
-117;https://en.wikipedia.org/wiki/List_of_data_structures;small;1.0;0.0028169014084507044;4.0;0
-117;https://en.wikipedia.org/wiki/List_of_data_structures;address;1.0;0.0028169014084507044;4.0;0
-118;https://en.wikipedia.org/wiki/List_of_data_structures;small set;2.0;0.0028169014084507044;4.0;0
-118;https://en.wikipedia.org/wiki/List_of_data_structures;enumerated type;2.0;0.0028169014084507044;4.0;0
-118;https://en.wikipedia.org/wiki/List_of_data_structures;uniquely_named values;2.0;0.0028169014084507044;4.0;0
-119;https://en.wikipedia.org/wiki/List_of_data_structures;array;1.0;0.005633802816901409;4.0;0
-120;https://en.wikipedia.org/wiki/List_of_data_structures;record;1.0;0.0028169014084507044;2.0;0
-121;https://en.wikipedia.org/wiki/List_of_data_structures;union;1.0;0.0028169014084507044;4.0;0
-122;https://en.wikipedia.org/wiki/List_of_data_structures;tagged union;2.0;0.0028169014084507044;4.0;0
-123;https://en.wikipedia.org/wiki/List_of_data_structures;container;1.0;0.005633802816901409;4.0;0
-124;https://en.wikipedia.org/wiki/List_of_data_structures;list;1.0;0.0;4.0;0
-125;https://en.wikipedia.org/wiki/List_of_data_structures;associative array;2.0;0.0028169014084507044;4.0;0
-126;https://en.wikipedia.org/wiki/List_of_data_structures;multimap;1.0;0.0;4.0;0
-127;https://en.wikipedia.org/wiki/List_of_data_structures;set;1.0;0.0028169014084507044;4.0;0
-128;https://en.wikipedia.org/wiki/List_of_data_structures;bag;1.0;0.0028169014084507044;4.0;0
-129;https://en.wikipedia.org/wiki/List_of_data_structures;multiset;1.0;0.0;4.0;0
-130;https://en.wikipedia.org/wiki/List_of_data_structures;stack;1.0;0.005633802816901409;4.0;0
-131;https://en.wikipedia.org/wiki/List_of_data_structures;queue;1.0;0.0028169014084507044;4.0;0
-132;https://en.wikipedia.org/wiki/List_of_data_structures;double_ended queue;2.0;0.008450704225352112;4.0;0
-133;https://en.wikipedia.org/wiki/List_of_data_structures;priority queue;2.0;0.0028169014084507044;4.0;0
-134;https://en.wikipedia.org/wiki/List_of_data_structures;tree;1.0;0.022535211267605635;4.0;0
-135;https://en.wikipedia.org/wiki/List_of_data_structures;graph;1.0;0.005633802816901409;4.0;0
-136;https://en.wikipedia.org/wiki/List_of_data_structures;array;1.0;0.005633802816901409;4.0;0
-137;https://en.wikipedia.org/wiki/List_of_data_structures;bit array;2.0;0.005633802816901409;4.0;0
-138;https://en.wikipedia.org/wiki/List_of_data_structures;bit field;2.0;0.0028169014084507044;4.0;0
-139;https://en.wikipedia.org/wiki/List_of_data_structures;bitboard;1.0;0.0;4.0;0
-140;https://en.wikipedia.org/wiki/List_of_data_structures;bitmap;1.0;0.0028169014084507044;4.0;0
-141;https://en.wikipedia.org/wiki/List_of_data_structures;circular buffer;2.0;0.005633802816901409;4.0;0
-142;https://en.wikipedia.org/wiki/List_of_data_structures;control table;2.0;0.0028169014084507044;4.0;0
-143;https://en.wikipedia.org/wiki/List_of_data_structures;image;1.0;0.0028169014084507044;4.0;0
-144;https://en.wikipedia.org/wiki/List_of_data_structures;dope vector;2.0;0.0028169014084507044;4.0;0
-145;https://en.wikipedia.org/wiki/List_of_data_structures;dynamic array;2.0;0.005633802816901409;4.0;0
-146;https://en.wikipedia.org/wiki/List_of_data_structures;gap buffer;2.0;0.0028169014084507044;4.0;0
-147;https://en.wikipedia.org/wiki/List_of_data_structures;hashed array tree;3.0;0.005633802816901409;4.0;0
-148;https://en.wikipedia.org/wiki/List_of_data_structures;heightmap;1.0;0.0;4.0;0
-149;https://en.wikipedia.org/wiki/List_of_data_structures;lookup table;2.0;0.0028169014084507044;4.0;0
-150;https://en.wikipedia.org/wiki/List_of_data_structures;matrix;1.0;0.0028169014084507044;4.0;0
-151;https://en.wikipedia.org/wiki/List_of_data_structures;parallel array;2.0;0.0028169014084507044;4.0;0
-152;https://en.wikipedia.org/wiki/List_of_data_structures;sorted array;2.0;0.0028169014084507044;4.0;0
-153;https://en.wikipedia.org/wiki/List_of_data_structures;sparse matrix;2.0;0.005633802816901409;4.0;0
-154;https://en.wikipedia.org/wiki/List_of_data_structures;iliffe vector;2.0;0.0028169014084507044;4.0;0
-155;https://en.wikipedia.org/wiki/List_of_data_structures;variable_length array;2.0;0.0028169014084507044;4.0;0
-156;https://en.wikipedia.org/wiki/List_of_data_structures;doubly linked list;3.0;0.0028169014084507044;4.0;0
-157;https://en.wikipedia.org/wiki/List_of_data_structures;array list;2.0;0.0028169014084507044;4.0;0
-158;https://en.wikipedia.org/wiki/List_of_data_structures;linked list;2.0;0.005633802816901409;4.0;0
-159;https://en.wikipedia.org/wiki/List_of_data_structures;self_organizing list;2.0;0.0028169014084507044;4.0;0
-160;https://en.wikipedia.org/wiki/List_of_data_structures;skip list;2.0;0.005633802816901409;4.0;0
-161;https://en.wikipedia.org/wiki/List_of_data_structures;unrolled linked list;3.0;0.005633802816901409;4.0;0
-162;https://en.wikipedia.org/wiki/List_of_data_structures;vlist;1.0;0.0;4.0;0
-163;https://en.wikipedia.org/wiki/List_of_data_structures;conc_tree list;2.0;0.0028169014084507044;4.0;0
-164;https://en.wikipedia.org/wiki/List_of_data_structures;xor linked list;3.0;0.005633802816901409;4.0;0
-165;https://en.wikipedia.org/wiki/List_of_data_structures;zipper;1.0;0.0;4.0;0
-167;https://en.wikipedia.org/wiki/List_of_data_structures;difference list;2.0;0.0028169014084507044;4.0;0
-168;https://en.wikipedia.org/wiki/List_of_data_structures;free list;2.0;0.0028169014084507044;4.0;0
-169;https://en.wikipedia.org/wiki/List_of_data_structures;aa tree;2.0;0.005633802816901409;4.0;0
-170;https://en.wikipedia.org/wiki/List_of_data_structures;avl tree;2.0;0.005633802816901409;4.0;0
-171;https://en.wikipedia.org/wiki/List_of_data_structures;binary search tree;3.0;0.0028169014084507044;4.0;0
-172;https://en.wikipedia.org/wiki/List_of_data_structures;binary tree;2.0;0.0028169014084507044;4.0;0
-173;https://en.wikipedia.org/wiki/List_of_data_structures;cartesian tree;2.0;0.0028169014084507044;4.0;0
-175;https://en.wikipedia.org/wiki/List_of_data_structures;order statistic tree;3.0;0.0028169014084507044;4.0;0
-176;https://en.wikipedia.org/wiki/List_of_data_structures;pagoda;1.0;0.0028169014084507044;4.0;0
-178;https://en.wikipedia.org/wiki/List_of_data_structures;red black tree;3.0;0.005633802816901409;4.0;0
-179;https://en.wikipedia.org/wiki/List_of_data_structures;rope;1.0;0.0028169014084507044;4.0;0
-180;https://en.wikipedia.org/wiki/List_of_data_structures;scapegoat tree;2.0;0.0028169014084507044;4.0;0
-182;https://en.wikipedia.org/wiki/List_of_data_structures;splay tree;2.0;0.005633802816901409;4.0;0
-183;https://en.wikipedia.org/wiki/List_of_data_structures;t_tree;1.0;0.0028169014084507044;4.0;0
-184;https://en.wikipedia.org/wiki/List_of_data_structures;tango tree;2.0;0.0028169014084507044;4.0;0
-185;https://en.wikipedia.org/wiki/List_of_data_structures;threaded binary tree;3.0;0.0028169014084507044;4.0;0
-186;https://en.wikipedia.org/wiki/List_of_data_structures;top tree;2.0;0.0028169014084507044;4.0;0
-187;https://en.wikipedia.org/wiki/List_of_data_structures;treap;1.0;0.0;4.0;0
-188;https://en.wikipedia.org/wiki/List_of_data_structures;wavl tree;2.0;0.0028169014084507044;4.0;0
-189;https://en.wikipedia.org/wiki/List_of_data_structures;weight_balanced tree;2.0;0.0028169014084507044;4.0;0
-190;https://en.wikipedia.org/wiki/List_of_data_structures;b_tree;1.0;0.005633802816901409;4.0;0
-191;https://en.wikipedia.org/wiki/List_of_data_structures;tree;1.0;0.022535211267605635;4.0;0
-192;https://en.wikipedia.org/wiki/List_of_data_structures;_tree;1.0;0.0;4.0;0
-193;https://en.wikipedia.org/wiki/List_of_data_structures;sharp tree;2.0;0.0028169014084507044;4.0;0
-194;https://en.wikipedia.org/wiki/List_of_data_structures;dancing tree;2.0;0.0028169014084507044;4.0;0
-195;https://en.wikipedia.org/wiki/List_of_data_structures;2_3 tree;2.0;0.0028169014084507044;4.0;0
-196;https://en.wikipedia.org/wiki/List_of_data_structures;2_3_4 tree;2.0;0.0028169014084507044;4.0;0
-197;https://en.wikipedia.org/wiki/List_of_data_structures;queap;1.0;0.0;4.0;0
-198;https://en.wikipedia.org/wiki/List_of_data_structures;fusion tree;2.0;0.005633802816901409;4.0;0
-199;https://en.wikipedia.org/wiki/List_of_data_structures;bx_tree;1.0;0.0028169014084507044;4.0;0
-200;https://en.wikipedia.org/wiki/List_of_data_structures;alist;1.0;0.0;4.0;0
-201;https://en.wikipedia.org/wiki/List_of_data_structures;heap;1.0;0.0;4.0;0
-202;https://en.wikipedia.org/wiki/List_of_data_structures;binary heap;2.0;0.005633802816901409;4.0;0
-203;https://en.wikipedia.org/wiki/List_of_data_structures;weak heap;2.0;0.0028169014084507044;4.0;0
-204;https://en.wikipedia.org/wiki/List_of_data_structures;binomial heap;2.0;0.005633802816901409;4.0;0
-205;https://en.wikipedia.org/wiki/List_of_data_structures;fibonacci heap af_heap;3.0;0.0028169014084507044;4.0;0
-206;https://en.wikipedia.org/wiki/List_of_data_structures;leonardo heap;2.0;0.0028169014084507044;4.0;0
-207;https://en.wikipedia.org/wiki/List_of_data_structures;2_3 heap;2.0;0.0028169014084507044;4.0;0
-208;https://en.wikipedia.org/wiki/List_of_data_structures;soft heap;2.0;0.0028169014084507044;4.0;0
-209;https://en.wikipedia.org/wiki/List_of_data_structures;pairing heap;2.0;0.0028169014084507044;4.0;0
-210;https://en.wikipedia.org/wiki/List_of_data_structures;leftist heap;2.0;0.0028169014084507044;4.0;0
-211;https://en.wikipedia.org/wiki/List_of_data_structures;treap;1.0;0.0;4.0;0
-212;https://en.wikipedia.org/wiki/List_of_data_structures;beap;1.0;0.0;4.0;0
-213;https://en.wikipedia.org/wiki/List_of_data_structures;skew heap;2.0;0.0028169014084507044;4.0;0
-214;https://en.wikipedia.org/wiki/List_of_data_structures;ternary heap;2.0;0.0028169014084507044;4.0;0
-215;https://en.wikipedia.org/wiki/List_of_data_structures;d_ary heap;2.0;0.0028169014084507044;4.0;0
-216;https://en.wikipedia.org/wiki/List_of_data_structures;brodal queue;2.0;0.0028169014084507044;4.0;0
-217;https://en.wikipedia.org/wiki/List_of_data_structures;af_heap;1.0;0.0028169014084507044;4.0;0
-218;https://en.wikipedia.org/wiki/List_of_data_structures;ternary tree;2.0;0.0028169014084507044;4.0;0
-219;https://en.wikipedia.org/wiki/List_of_data_structures;k_ary tree;2.0;0.0028169014084507044;4.0;0
-220;https://en.wikipedia.org/wiki/List_of_data_structures;tree;1.0;0.022535211267605635;4.0;0
-221;https://en.wikipedia.org/wiki/List_of_data_structures;_tree;1.0;0.0;4.0;0
-222;https://en.wikipedia.org/wiki/List_of_data_structures;link cut tree;3.0;0.0028169014084507044;4.0;0
-223;https://en.wikipedia.org/wiki/List_of_data_structures;spqr_tree;1.0;0.0028169014084507044;4.0;0
-224;https://en.wikipedia.org/wiki/List_of_data_structures;spaghetti stack;2.0;0.0028169014084507044;4.0;0
-225;https://en.wikipedia.org/wiki/List_of_data_structures;disjoint_set data structure;3.0;0.0028169014084507044;4.0;0
-226;https://en.wikipedia.org/wiki/List_of_data_structures;fusion tree;2.0;0.005633802816901409;4.0;0
-227;https://en.wikipedia.org/wiki/List_of_data_structures;enfilade;1.0;0.0028169014084507044;4.0;0
-228;https://en.wikipedia.org/wiki/List_of_data_structures;exponential tree;2.0;0.0028169014084507044;4.0;0
-229;https://en.wikipedia.org/wiki/List_of_data_structures;fenwick tree;2.0;0.0028169014084507044;4.0;0
-231;https://en.wikipedia.org/wiki/List_of_data_structures;rose tree;2.0;0.0028169014084507044;4.0;0
-232;https://en.wikipedia.org/wiki/List_of_data_structures;abstract syntax tree;3.0;0.0028169014084507044;4.0;0
-233;https://en.wikipedia.org/wiki/List_of_data_structures;parse tree;2.0;0.0028169014084507044;4.0;0
-234;https://en.wikipedia.org/wiki/List_of_data_structures;decision tree;2.0;0.0028169014084507044;4.0;0
-235;https://en.wikipedia.org/wiki/List_of_data_structures;alternating decision tree;3.0;0.0028169014084507044;4.0;0
-236;https://en.wikipedia.org/wiki/List_of_data_structures;minimax tree;2.0;0.0028169014084507044;4.0;0
-237;https://en.wikipedia.org/wiki/List_of_data_structures;expectiminimax tree;2.0;0.0028169014084507044;4.0;0
-238;https://en.wikipedia.org/wiki/List_of_data_structures;finger tree;2.0;0.0028169014084507044;4.0;0
-239;https://en.wikipedia.org/wiki/List_of_data_structures;expression tree;2.0;0.0028169014084507044;4.0;0
-240;https://en.wikipedia.org/wiki/List_of_data_structures;log_structured merge_tree;2.0;0.0028169014084507044;4.0;0
-241;https://en.wikipedia.org/wiki/List_of_data_structures;lexicographic search tree;3.0;0.0028169014084507044;4.0;0
-242;https://en.wikipedia.org/wiki/List_of_data_structures;bloom filter;2.0;0.0028169014084507044;4.0;0
-243;https://en.wikipedia.org/wiki/List_of_data_structures;count_min sketch;2.0;0.0028169014084507044;4.0;0
-244;https://en.wikipedia.org/wiki/List_of_data_structures;distributed hash table;3.0;0.0028169014084507044;4.0;0
-245;https://en.wikipedia.org/wiki/List_of_data_structures;double hashing;2.0;0.0028169014084507044;4.0;0
-248;https://en.wikipedia.org/wiki/List_of_data_structures;hash list;2.0;0.0028169014084507044;4.0;0
-249;https://en.wikipedia.org/wiki/List_of_data_structures;hash table;2.0;0.005633802816901409;4.0;0
-250;https://en.wikipedia.org/wiki/List_of_data_structures;hash tree;2.0;0.005633802816901409;4.0;0
-251;https://en.wikipedia.org/wiki/List_of_data_structures;hash trie;2.0;0.0028169014084507044;4.0;0
-252;https://en.wikipedia.org/wiki/List_of_data_structures;koorde;1.0;0.0;4.0;0
-253;https://en.wikipedia.org/wiki/List_of_data_structures;prefix hash tree;3.0;0.0028169014084507044;4.0;0
-254;https://en.wikipedia.org/wiki/List_of_data_structures;rolling hash;2.0;0.0028169014084507044;4.0;0
-255;https://en.wikipedia.org/wiki/List_of_data_structures;minhash;1.0;0.0;4.0;0
-256;https://en.wikipedia.org/wiki/List_of_data_structures;quotient filter;2.0;0.0028169014084507044;4.0;0
-257;https://en.wikipedia.org/wiki/List_of_data_structures;ctrie;1.0;0.0;4.0;0
-258;https://en.wikipedia.org/wiki/List_of_data_structures;graph;1.0;0.005633802816901409;4.0;0
-259;https://en.wikipedia.org/wiki/List_of_data_structures;adjacency list;2.0;0.0028169014084507044;4.0;0
-260;https://en.wikipedia.org/wiki/List_of_data_structures;adjacency matrix;2.0;0.0028169014084507044;4.0;0
-261;https://en.wikipedia.org/wiki/List_of_data_structures;graph_structured stack;2.0;0.0028169014084507044;4.0;0
-262;https://en.wikipedia.org/wiki/List_of_data_structures;scene graph;2.0;0.0028169014084507044;4.0;0
-263;https://en.wikipedia.org/wiki/List_of_data_structures;binary decision diagram;3.0;0.005633802816901409;4.0;0
-264;https://en.wikipedia.org/wiki/List_of_data_structures;zero_suppressed decision diagram;3.0;0.0028169014084507044;4.0;0
-265;https://en.wikipedia.org/wiki/List_of_data_structures;and_inverter graph;2.0;0.0028169014084507044;4.0;0
-266;https://en.wikipedia.org/wiki/List_of_data_structures;directed graph;2.0;0.0028169014084507044;4.0;0
-267;https://en.wikipedia.org/wiki/List_of_data_structures;directed acyclic graph;3.0;0.005633802816901409;4.0;0
-269;https://en.wikipedia.org/wiki/List_of_data_structures;multigraph;1.0;0.0;4.0;0
-270;https://en.wikipedia.org/wiki/List_of_data_structures;hypergraph;1.0;0.0;4.0;0
-271;https://en.wikipedia.org/wiki/List_of_data_structures;lightmap;1.0;0.0;4.0;0
-272;https://en.wikipedia.org/wiki/List_of_data_structures;winged edge;2.0;0.0028169014084507044;4.0;0
-274;https://en.wikipedia.org/wiki/List_of_data_structures;quad_edge;1.0;0.0028169014084507044;4.0;0
-275;https://en.wikipedia.org/wiki/List_of_data_structures;routing table;2.0;0.0028169014084507044;4.0;0
-276;https://en.wikipedia.org/wiki/List_of_data_structures;symbol table;2.0;0.0028169014084507044;4.0;0
-280;https://en.wikipedia.org/wiki/List_of_data_structures;collection;1.0;0.0028169014084507044;2.0;0
-281;https://en.wikipedia.org/wiki/List_of_data_structures;container;1.0;0.005633802816901409;4.0;0
-282;https://en.wikipedia.org/wiki/List_of_data_structures;associative array multimap;3.0;0.0028169014084507044;4.0;0
-283;https://en.wikipedia.org/wiki/List_of_data_structures;list;1.0;0.0;4.0;0
-284;https://en.wikipedia.org/wiki/List_of_data_structures;stack;1.0;0.005633802816901409;4.0;0
-285;https://en.wikipedia.org/wiki/List_of_data_structures;queue double_ended queue;3.0;0.0028169014084507044;4.0;0
-287;https://en.wikipedia.org/wiki/List_of_data_structures;set multiset disjoint_set;3.0;0.0028169014084507044;4.0;0
-288;https://en.wikipedia.org/wiki/List_of_data_structures;multimap;1.0;0.0;4.0;0
-289;https://en.wikipedia.org/wiki/List_of_data_structures;double_ended queue;2.0;0.008450704225352112;4.0;0
-290;https://en.wikipedia.org/wiki/List_of_data_structures;double_ended priority queue;3.0;0.0028169014084507044;4.0;0
-291;https://en.wikipedia.org/wiki/List_of_data_structures;multiset;1.0;0.0;4.0;0
-292;https://en.wikipedia.org/wiki/List_of_data_structures;disjoint_set;1.0;0.0028169014084507044;4.0;0
-293;https://en.wikipedia.org/wiki/List_of_data_structures;bit array;2.0;0.005633802816901409;4.0;0
-294;https://en.wikipedia.org/wiki/List_of_data_structures;circular buffer;2.0;0.005633802816901409;4.0;0
-295;https://en.wikipedia.org/wiki/List_of_data_structures;dynamic array;2.0;0.005633802816901409;4.0;0
-296;https://en.wikipedia.org/wiki/List_of_data_structures;hash table;2.0;0.005633802816901409;4.0;0
-297;https://en.wikipedia.org/wiki/List_of_data_structures;hashed array tree;3.0;0.005633802816901409;4.0;0
-298;https://en.wikipedia.org/wiki/List_of_data_structures;sparse matrix;2.0;0.005633802816901409;4.0;0
-299;https://en.wikipedia.org/wiki/List_of_data_structures;association list;2.0;0.0028169014084507044;4.0;0
-300;https://en.wikipedia.org/wiki/List_of_data_structures;linked list;2.0;0.005633802816901409;4.0;0
-301;https://en.wikipedia.org/wiki/List_of_data_structures;skip list;2.0;0.005633802816901409;4.0;0
-302;https://en.wikipedia.org/wiki/List_of_data_structures;unrolled linked list;3.0;0.005633802816901409;4.0;0
-303;https://en.wikipedia.org/wiki/List_of_data_structures;xor linked list;3.0;0.005633802816901409;4.0;0
-304;https://en.wikipedia.org/wiki/List_of_data_structures;b_tree;1.0;0.005633802816901409;4.0;0
-307;https://en.wikipedia.org/wiki/List_of_data_structures;tree hilbert r_tree;2.3333333333333335;0.0028169014084507044;4.0;0
-307;https://en.wikipedia.org/wiki/List_of_data_structures;r_tree;2.0;0.005633802816901409;4.0;0
-307;https://en.wikipedia.org/wiki/List_of_data_structures;tree;2.0;0.022535211267605635;4.0;0
-308;https://en.wikipedia.org/wiki/List_of_data_structures;trie hash tree;3.0;0.0028169014084507044;4.0;0
-309;https://en.wikipedia.org/wiki/List_of_data_structures;aa tree;2.0;0.005633802816901409;4.0;0
-310;https://en.wikipedia.org/wiki/List_of_data_structures;avl tree;2.0;0.005633802816901409;4.0;0
-311;https://en.wikipedia.org/wiki/List_of_data_structures;red black tree;3.0;0.005633802816901409;4.0;0
-312;https://en.wikipedia.org/wiki/List_of_data_structures;self_balancing tree;2.0;0.0028169014084507044;4.0;0
-313;https://en.wikipedia.org/wiki/List_of_data_structures;splay tree;2.0;0.005633802816901409;4.0;0
-314;https://en.wikipedia.org/wiki/List_of_data_structures;binary heap;2.0;0.005633802816901409;4.0;0
-315;https://en.wikipedia.org/wiki/List_of_data_structures;binomial heap;2.0;0.005633802816901409;4.0;0
-316;https://en.wikipedia.org/wiki/List_of_data_structures;fibonacci heap;2.0;0.0028169014084507044;4.0;0
-317;https://en.wikipedia.org/wiki/List_of_data_structures;tree;1.0;0.022535211267605635;4.0;0
-318;https://en.wikipedia.org/wiki/List_of_data_structures;tree;1.0;0.022535211267605635;4.0;0
-319;https://en.wikipedia.org/wiki/List_of_data_structures;hilbert r_tree;2.0;0.005633802816901409;4.0;0
-320;https://en.wikipedia.org/wiki/List_of_data_structures;hash tree;2.0;0.005633802816901409;4.0;0
-321;https://en.wikipedia.org/wiki/List_of_data_structures;binary decision diagram;3.0;0.005633802816901409;4.0;0
-322;https://en.wikipedia.org/wiki/List_of_data_structures;directed acyclic graph;3.0;0.005633802816901409;4.0;0
-324;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;2.0;0.022535211267605635;2.0;0
-324;https://en.wikipedia.org/wiki/List_of_data_structures;list;1.0;0.0;4.0;0
-325;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;2.0;0.022535211267605635;2.0;0
-325;https://en.wikipedia.org/wiki/List_of_data_structures;tommy benchmarks comparison;3.0;0.0028169014084507044;4.0;0
-326;https://en.wikipedia.org/wiki/List_of_data_structures;data structures;2.0;0.022535211267605635;2.0;0
-327;https://en.wikipedia.org/wiki/List_of_data_structures;computing_related lists;2.0;0.0028169014084507044;4.0;0
-328;https://en.wikipedia.org/wiki/List_of_data_structures;logged;1.0;0.0;4.0;0
-329;https://en.wikipedia.org/wiki/List_of_data_structures;talk;1.0;0.005633802816901409;4.0;0
-330;https://en.wikipedia.org/wiki/List_of_data_structures;contributions;1.0;0.0;4.0;0
-331;https://en.wikipedia.org/wiki/List_of_data_structures;create account;2.0;0.0028169014084507044;4.0;0
-332;https://en.wikipedia.org/wiki/List_of_data_structures;log;1.0;0.0;4.0;0
-333;https://en.wikipedia.org/wiki/List_of_data_structures;article;1.0;0.0028169014084507044;4.0;0
-334;https://en.wikipedia.org/wiki/List_of_data_structures;talk;1.0;0.005633802816901409;4.0;0
-335;https://en.wikipedia.org/wiki/List_of_data_structures;read;1.0;0.0028169014084507044;4.0;0
-336;https://en.wikipedia.org/wiki/List_of_data_structures;edit;1.0;0.0028169014084507044;4.0;0
-337;https://en.wikipedia.org/wiki/List_of_data_structures;view history;2.0;0.0028169014084507044;4.0;0
-338;https://en.wikipedia.org/wiki/List_of_data_structures;main page;2.0;0.0028169014084507044;4.0;0
-339;https://en.wikipedia.org/wiki/List_of_data_structures;contents;1.0;0.0028169014084507044;4.0;0
-340;https://en.wikipedia.org/wiki/List_of_data_structures;featured content;2.0;0.0028169014084507044;4.0;0
-341;https://en.wikipedia.org/wiki/List_of_data_structures;current events;2.0;0.0028169014084507044;4.0;0
-342;https://en.wikipedia.org/wiki/List_of_data_structures;random article;2.0;0.0028169014084507044;4.0;0
-343;https://en.wikipedia.org/wiki/List_of_data_structures;donate;1.0;0.0028169014084507044;4.0;0
-343;https://en.wikipedia.org/wiki/List_of_data_structures;wikipedia;1.0;0.0;4.0;0
-344;https://en.wikipedia.org/wiki/List_of_data_structures;wikipedia store;2.0;0.0028169014084507044;4.0;0
-346;https://en.wikipedia.org/wiki/List_of_data_structures;wikipedia;1.0;0.0;4.0;0
-347;https://en.wikipedia.org/wiki/List_of_data_structures;community portal;2.0;0.0028169014084507044;4.0;0
-348;https://en.wikipedia.org/wiki/List_of_data_structures;recent;1.0;0.0028169014084507044;4.0;0
-349;https://en.wikipedia.org/wiki/List_of_data_structures;contact page;2.0;0.0028169014084507044;4.0;0
-350;https://en.wikipedia.org/wiki/List_of_data_structures;links;1.0;0.0;4.0;0
-351;https://en.wikipedia.org/wiki/List_of_data_structures;related;1.0;0.0028169014084507044;4.0;0
-352;https://en.wikipedia.org/wiki/List_of_data_structures;upload file;2.0;0.0028169014084507044;4.0;0
-353;https://en.wikipedia.org/wiki/List_of_data_structures;special pages;2.0;0.0028169014084507044;4.0;0
-354;https://en.wikipedia.org/wiki/List_of_data_structures;permanent link;2.0;0.0028169014084507044;4.0;0
-355;https://en.wikipedia.org/wiki/List_of_data_structures;page information;2.0;0.0028169014084507044;4.0;0
-356;https://en.wikipedia.org/wiki/List_of_data_structures;wikidata item;2.0;0.0028169014084507044;4.0;0
-357;https://en.wikipedia.org/wiki/List_of_data_structures;cite;1.0;0.0028169014084507044;4.0;0
-357;https://en.wikipedia.org/wiki/List_of_data_structures;page;1.0;0.005633802816901409;4.0;0
-358;https://en.wikipedia.org/wiki/List_of_data_structures;create;1.0;0.0028169014084507044;4.0;0
-358;https://en.wikipedia.org/wiki/List_of_data_structures;book;1.0;0.0028169014084507044;4.0;0
-359;https://en.wikipedia.org/wiki/List_of_data_structures;download;1.0;0.0028169014084507044;4.0;0
-359;https://en.wikipedia.org/wiki/List_of_data_structures;pdf;1.0;0.0;4.0;0
-360;https://en.wikipedia.org/wiki/List_of_data_structures;printable version;2.0;0.0028169014084507044;4.0;0
-363;https://en.wikipedia.org/wiki/List_of_data_structures;italiano;1.0;0.0;4.0;0
-364;https://en.wikipedia.org/wiki/List_of_data_structures;magyar;1.0;0.0;4.0;0
-369;https://en.wikipedia.org/wiki/List_of_data_structures;ti ng vi;3.0;0.0028169014084507044;4.0;0
-371;https://en.wikipedia.org/wiki/List_of_data_structures;edited;1.0;0.0028169014084507044;4.0;0
-371;https://en.wikipedia.org/wiki/List_of_data_structures;page;1.0;0.005633802816901409;4.0;0
-372;https://en.wikipedia.org/wiki/List_of_data_structures;terms;1.0;0.005633802816901409;2.0;0
-372;https://en.wikipedia.org/wiki/List_of_data_structures;text;1.0;0.0028169014084507044;4.0;0
-372;https://en.wikipedia.org/wiki/List_of_data_structures;site;1.0;0.0028169014084507044;4.0;0
-372;https://en.wikipedia.org/wiki/List_of_data_structures;non_profit organization;2.0;0.0028169014084507044;4.0;0
-372;https://en.wikipedia.org/wiki/List_of_data_structures;registered trademark;2.0;0.0028169014084507044;4.0;0
-372;https://en.wikipedia.org/wiki/List_of_data_structures;apply;1.0;0.0028169014084507044;4.0;0
-372;https://en.wikipedia.org/wiki/List_of_data_structures;agree;1.0;0.0028169014084507044;4.0;0
-372;https://en.wikipedia.org/wiki/List_of_data_structures;privacy policy  wikipedia;2.25;0.0028169014084507044;4.0;0
-372;https://en.wikipedia.org/wiki/List_of_data_structures;wikimedia foundation;2.0;0.0028169014084507044;4.0;0
-373;https://en.wikipedia.org/wiki/List_of_data_structures;privacy policy;2.0;0.0028169014084507044;4.0;0
-374;https://en.wikipedia.org/wiki/List_of_data_structures;wikipedia;1.0;0.0;4.0;0
-375;https://en.wikipedia.org/wiki/List_of_data_structures;disclaimers;1.0;0.0;4.0;0
-376;https://en.wikipedia.org/wiki/List_of_data_structures;contact wikipedia;2.0;0.0028169014084507044;4.0;0
-377;https://en.wikipedia.org/wiki/List_of_data_structures;developers;1.0;0.0028169014084507044;4.0;0
-378;https://en.wikipedia.org/wiki/List_of_data_structures;cookie statement;2.0;0.0028169014084507044;4.0;0
-379;https://en.wikipedia.org/wiki/List_of_data_structures;mobile view;2.0;0.0028169014084507044;4.0;0
-382;https://en.wikipedia.org/wiki/List_of_data_structures;properties;1.0;0.005633802816901409;4.0;0
-382;https://en.wikipedia.org/wiki/List_of_data_structures;abstract data types;3.0;0.005633802816901409;4.0;0
-383;https://en.wikipedia.org/wiki/List_of_data_structures;double_ended queue;2.0;0.008450704225352112;4.0;0
-386;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;group;1.0;0.07142857142857142;4.0;0
-386;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;simply;1.0;0.07142857142857142;4.0;0
-386;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;structure;1.0;0.14285714285714285;4.0;0
-386;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;built_in data types;3.0;0.07142857142857142;4.0;0
-387;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;java;1.0;0.0;4.0;0
-387;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;methods;1.0;0.03571428571428571;4.0;0
-387;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;items;1.0;0.03571428571428571;4.0;0
-387;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;collection;1.0;0.03571428571428571;2.0;0
-387;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;record;1.0;0.03571428571428571;2.0;0
-387;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;pascal;1.0;0.03571428571428571;4.0;0
-387;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;structure;1.0;0.14285714285714285;4.0;0
-387;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;class;1.0;0.03571428571428571;4.0;0
-387;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;types;1.0;0.03571428571428571;2.0;0
-388;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;discussed;1.0;0.03571428571428571;4.0;0
-388;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;complex;1.0;0.07142857142857142;4.0;0
-388;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;structures;1.0;0.03571428571428571;4.0;0
-388;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;structs;1.0;0.0;4.0;0
-389;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;group;1.0;0.07142857142857142;4.0;0
-389;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;simply;1.0;0.07142857142857142;4.0;0
-389;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;structure;1.0;0.14285714285714285;4.0;0
-389;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;built_in data types;3.0;0.07142857142857142;4.0;0
-390;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;object conepts;2.25;0.03571428571428571;4.0;0
-390;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;object oriented goals;2.8333333333333335;0.03571428571428571;4.0;0
-390;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;derived;1.0;0.03571428571428571;4.0;0
-390;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;structure concept;1.75;0.03571428571428571;4.0;0
-390;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;complex;1.0;0.07142857142857142;4.0;0
-390;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;achieve;1.0;0.03571428571428571;4.0;0
-390;http://www.tutorialspoint.com/ansi_c/c_structured_datatypes.htm;structure;1.5;0.14285714285714285;4.0;0
+1;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;rules;1.0;0.08333333333333333;4.0;0
+1;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;derivatives;1.0;0.0;4.0;0
+1;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;functions;1.0;0.08333333333333333;1.0;0
+1;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;find;1.0;0.08333333333333333;4.0;0
+1;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;methods;1.0;0.08333333333333333;4.0;0
+2;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;examples;1.0;0.08333333333333333;2.0;0
+2;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;detailed solutions;2.0;0.08333333333333333;4.0;0
+2;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;presented;1.0;0.08333333333333333;4.0;0
+3;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;exercises;1.0;0.08333333333333333;4.0;0
+3;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;end;1.0;0.08333333333333333;4.0;0
+3;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;page;1.0;0.08333333333333333;4.0;0
+3;http://www.analyzemath.com/calculus/Differentiation/find_derivative_function.html;answers;1.0;0.08333333333333333;4.0;0
+4;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;function;1.5;0.07692307692307693;4.0;0
+4;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;algebraic function;1.75;0.07692307692307693;4.0;0
+4;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;basic operations;2.0;0.07692307692307693;4.0;0
+4;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;written;1.0;0.07692307692307693;4.0;0
+4;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;finite number;2.0;0.07692307692307693;4.0;0
+4;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;arithmetic;1.0;0.07692307692307693;4.0;0
+6;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;addition;1.0;0.07692307692307693;4.0;0
+6;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;multiplication;1.0;0.0;4.0;0
+6;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;exponentiation;1.0;0.0;4.0;0
+7;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;derivative;1.0;0.07692307692307693;1.3333333333333333;0
+7;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;functions;1.0;0.07692307692307693;1.0;0
+7;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;order;1.0;0.07692307692307693;4.0;0
+7;https://brilliant.org/discussions/thread/differentiation-of-algebraic-functions/;power rule;2.0;0.07692307692307693;4.0;0
+8;https://www.youtube.com/watch%3Fv%3DGcTaTULHLfM;calculus;1.0;0.25;4.0;0
+9;https://www.youtube.com/watch%3Fv%3DGcTaTULHLfM;differentiation;1.0;0.0;4.0;0
+10;https://www.youtube.com/watch%3Fv%3DGcTaTULHLfM;examples _ derivative;3.0;0.25;4.0;0
+10;https://www.youtube.com/watch%3Fv%3DGcTaTULHLfM;algebraic functions;2.0;0.25;4.0;0
+11;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;chapter;1.0;0.021739130434782608;4.0;0
+11;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;definition;1.0;0.06521739130434782;4.0;0
+11;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;computed;1.0;0.021739130434782608;4.0;0
+11;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;derivatives;1.0;0.0;4.0;0
+11;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;section;1.0;0.021739130434782608;4.0;0
+11;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;derivative;1.0;0.043478260869565216;2.0;0
+11;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;couple;1.0;0.021739130434782608;4.0;0
+12;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;fair amount;2.0;0.021739130434782608;4.0;0
+12;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;functions;1.0;0.043478260869565216;1.3333333333333333;0
+12;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;terribly complicated;2.0;0.021739130434782608;4.0;0
+12;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;limits;1.0;0.0;4.0;0
+12;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;computing;1.0;0.021739130434782608;4.0;0
+12;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;examples;1.0;0.021739130434782608;2.0;0
+12;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;worked;1.0;0.021739130434782608;4.0;0
+12;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;work involved;2.0;0.021739130434782608;4.0;0
+43;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;definition;1.0;0.06521739130434782;4.0;0
+43;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;impossible task;2.0;0.021739130434782608;4.0;0
+43;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;complex functions;2.0;0.021739130434782608;4.0;0
+43;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;derivative;1.0;0.043478260869565216;2.0;0
+44;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;luckily;1.0;0.0;4.0;0
+44;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;won;1.0;0.021739130434782608;4.0;0
+44;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;definition terribly;2.0;0.021739130434782608;4.0;0
+45;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;formulas;1.0;0.021739130434782608;4.0;0
+45;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;large collection;2.0;0.021739130434782608;4.0;0
+45;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;definition;1.0;0.06521739130434782;4.0;0
+45;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;avoid;1.0;0.021739130434782608;4.0;0
+45;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;simplify;1.0;0.021739130434782608;4.0;0
+45;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;life considerably;2.0;0.021739130434782608;4.0;0
+45;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;occasion;1.0;0.021739130434782608;4.0;0
+45;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;properties;1.0;0.021739130434782608;4.0;0
+118;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;make;1.0;0.021739130434782608;4.0;0
+118;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;work;1.0;0.021739130434782608;4.0;0
+118;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;kind;1.0;0.0;4.0;0
+119;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;functions;1.0;0.043478260869565216;1.3333333333333333;0
+119;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;positive;1.0;0.021739130434782608;4.0;0
+119;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;asked numerous times;3.0;0.021739130434782608;4.0;0
+119;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;negative;1.0;0.021739130434782608;4.0;0
+119;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;chapters;1.0;0.021739130434782608;4.0;0
+119;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;determine;1.0;0.021739130434782608;4.0;0
+120;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;kinds;1.0;0.0;4.0;0
+120;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;solving inequalities section;3.0;0.021739130434782608;4.0;0
+120;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;review;2.0;0.021739130434782608;4.0;0
+120;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;practice;1.0;0.021739130434782608;4.0;0
+120;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;problems;1.0;0.021739130434782608;4.0;0
+120;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;algebra trig review;2.6666666666666665;0.021739130434782608;4.0;0
+120;http://tutorial.math.lamar.edu/Classes/CalcI/DiffFormulas.aspx;check;1.0;0.021739130434782608;4.0;0

@@ -1,12 +1,118 @@
-1;Multimap.
-1;.
-1;.
-0;.
-0;The Properties class is used by many other Java classes.
-0; For example, it is the type of object returned by System.
-0;getPropertieswhen obtaining environmental values.
-0;.
-0;Multimap.
-0;.
-0;.
-0;A language s set of primitive types are not sufficient, by themselves, for dealing with data that have many parts and complex interrelationships among those parts.
+0;An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic  i.
+0;e.
+0;, addition, multiplication, and exponentiation .
+0; In order to take the derivative of these functions, we will need the power rule.
+0;Find the derivatives of various functions using different methods and rules.
+0; Several Examples with detailed solutions are presented.
+0; More exercises with answers are at the end of this page.
+0;Example.
+0; Differentiate the absolute value function.
+0;For more complex functions using the definition of the derivative would be an almost impossible task.
+0;  Luckily for us we won t have to use the definition terribly often.
+0;  We will have to use it on occasion, however we have a large collection of formulas and properties that we can use to simplify our life considerably and will allow us to avoid using the definition whenever possible.
+0;   .
+0;   .
+0;   .
+0;   .
+0;   .
+0; .
+0;                                       .
+0; .
+0;                                                     .
+0; .
+0;                                                       .
+0;                                                                     .
+0;                                                          .
+0; .
+0;                                                   .
+0;                                           .
+0; .
+0;                                                       .
+0;   .
+0;   .
+0;   .
+0;                                                    .
+0;                                                            .
+0; .
+0;                                              .
+0;                                                           .
+0;                .
+0;                                           .
+0;                                                      .
+0;                 .
+0;                             .
+0;                                                    .
+0;                                                    .
+0;                              .
+0;                                            .
+0;                                   .
+0;Example 1  Differentiate each of the following functions.
+0;   .
+0;   .
+0;   .
+0; .
+0;                                       .
+0;                                                     .
+0; .
+0;                                                       .
+0;                                                                     .
+0;                                                          .
+0;                                                   .
+0;                                           .
+0; .
+0;                                                       .
+0;   .
+0;   .
+0;                                                    .
+0;                                                            .
+0;                                              .
+0;                                                           .
+0;                .
+0;                                           .
+0;                                                      .
+0;                 .
+0;                             .
+0;                                                    .
+0;                                                    .
+0;                              .
+0;                                            .
+0;                                   .
+0;   .
+0;   .
+0;   .
+0;   .
+0;   .
+0; .
+0;                                       .
+0; .
+0;                                                     .
+0; .
+0;                                                       .
+0;                                                                     .
+0;                                                          .
+0; .
+0;                                                   .
+0;                                           .
+0; .
+0;                                                       .
+0;   .
+0;   .
+0;   .
+0;                                                    .
+0;                                                            .
+0; .
+0;                                              .
+0;                                                           .
+0;                .
+0;                                           .
+0;                                                      .
+0;                 .
+0;                             .
+0;                                                    .
+0;                                                    .
+0;                              .
+0;                                            .
+0;                                   .
+0;Make sure that you can do the kind of work that we just did in this example.
+0;  You will be asked numerous times over the course of the next two chapters to determine where functions are positive and or negative.
+0;  If you need some review or want to practice these kinds of problems you should check out the Solving Inequalities section of my Algebra Trig Review.

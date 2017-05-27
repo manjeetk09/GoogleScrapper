@@ -4,9 +4,7 @@ import semantics.Compare;
 import java.io.*;
 import java.util.ArrayList;
 
-/**
- * Created by manjeet on 21/5/17.
- */
+
 public class TripleRake
 {
     public void tripleRake(int temp_index) throws IOException

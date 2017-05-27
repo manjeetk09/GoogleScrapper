@@ -1,12 +1,118 @@
-Multimap.
-.
-.
-.
-The Properties class is used by many other Java classes.
- For example, it is the type of object returned by System.
-getPropertieswhen obtaining environmental values.
-.
-Multimap.
-.
-.
-A language s set of primitive types are not sufficient, by themselves, for dealing with data that have many parts and complex interrelationships among those parts.
+An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic  i.
+e.
+, addition, multiplication, and exponentiation .
+ In order to take the derivative of these functions, we will need the power rule.
+Find the derivatives of various functions using different methods and rules.
+ Several Examples with detailed solutions are presented.
+ More exercises with answers are at the end of this page.
+Example.
+ Differentiate the absolute value function.
+For more complex functions using the definition of the derivative would be an almost impossible task.
+  Luckily for us we won t have to use the definition terribly often.
+  We will have to use it on occasion, however we have a large collection of formulas and properties that we can use to simplify our life considerably and will allow us to avoid using the definition whenever possible.
+   .
+   .
+   .
+   .
+   .
+ .
+                                       .
+ .
+                                                     .
+ .
+                                                       .
+                                                                     .
+                                                          .
+ .
+                                                   .
+                                           .
+ .
+                                                       .
+   .
+   .
+   .
+                                                    .
+                                                            .
+ .
+                                              .
+                                                           .
+                .
+                                           .
+                                                      .
+                 .
+                             .
+                                                    .
+                                                    .
+                              .
+                                            .
+                                   .
+Example 1  Differentiate each of the following functions.
+   .
+   .
+   .
+ .
+                                       .
+                                                     .
+ .
+                                                       .
+                                                                     .
+                                                          .
+                                                   .
+                                           .
+ .
+                                                       .
+   .
+   .
+                                                    .
+                                                            .
+                                              .
+                                                           .
+                .
+                                           .
+                                                      .
+                 .
+                             .
+                                                    .
+                                                    .
+                              .
+                                            .
+                                   .
+   .
+   .
+   .
+   .
+   .
+ .
+                                       .
+ .
+                                                     .
+ .
+                                                       .
+                                                                     .
+                                                          .
+ .
+                                                   .
+                                           .
+ .
+                                                       .
+   .
+   .
+   .
+                                                    .
+                                                            .
+ .
+                                              .
+                                                           .
+                .
+                                           .
+                                                      .
+                 .
+                             .
+                                                    .
+                                                    .
+                              .
+                                            .
+                                   .
+Make sure that you can do the kind of work that we just did in this example.
+  You will be asked numerous times over the course of the next two chapters to determine where functions are positive and or negative.
+  If you need some review or want to practice these kinds of problems you should check out the Solving Inequalities section of my Algebra Trig Review.

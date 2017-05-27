@@ -1,47 +1,103 @@
-1;http://adv-r.had.co.nz/Data-structures.html;attributes;1.0;0.07142857142857142;4.0;0
-1;http://adv-r.had.co.nz/Data-structures.html;length;1.0;0.0;4.0;0
-1;http://adv-r.had.co.nz/Data-structures.html;vector;1.0;0.07142857142857142;2.0;0
-1;http://adv-r.had.co.nz/Data-structures.html;type;1.0;0.07142857142857142;2.0;0
-1;http://adv-r.had.co.nz/Data-structures.html;properties;1.0;0.07142857142857142;4.0;0
-2;http://adv-r.had.co.nz/Data-structures.html;common types;2.0;0.07142857142857142;4.0;0
-2;http://adv-r.had.co.nz/Data-structures.html;character;1.0;0.07142857142857142;4.0;0
-2;http://adv-r.had.co.nz/Data-structures.html;logical;1.0;0.0;4.0;0
-2;http://adv-r.had.co.nz/Data-structures.html;atomic vector;2.0;0.07142857142857142;4.0;0
-2;http://adv-r.had.co.nz/Data-structures.html;double;1.0;0.07142857142857142;4.0;0
-2;http://adv-r.had.co.nz/Data-structures.html;integer;1.0;0.07142857142857142;4.0;0
-3;http://adv-r.had.co.nz/Data-structures.html;raw;1.0;0.07142857142857142;4.0;0
-3;http://adv-r.had.co.nz/Data-structures.html;rarer types;2.0;0.07142857142857142;4.0;0
-3;http://adv-r.had.co.nz/Data-structures.html;complex;1.0;0.07142857142857142;4.0;0
-4;https://ramnathv.github.io/pycon2014-r/learn/structures.html;basic data structure;3.0;0.1;4.0;0
-4;https://ramnathv.github.io/pycon2014-r/learn/structures.html;workhorse;1.0;0.1;4.0;0
-4;https://ramnathv.github.io/pycon2014-r/learn/structures.html;vector;1.0;0.1;2.0;0
-4;https://ramnathv.github.io/pycon2014-r/learn/structures.html;common;1.0;0.1;4.0;0
-4;https://ramnathv.github.io/pycon2014-r/learn/structures.html;pretty;1.0;0.1;4.0;0
-5;https://ramnathv.github.io/pycon2014-r/learn/structures.html;vectors;1.0;0.1;4.0;0
-5;https://ramnathv.github.io/pycon2014-r/learn/structures.html;types;1.0;0.1;4.0;0
-5;https://ramnathv.github.io/pycon2014-r/learn/structures.html;technically;1.0;0.0;4.0;0
-6;https://ramnathv.github.io/pycon2014-r/learn/structures.html;atomic vectors;2.0;0.1;4.0;0
-7;https://ramnathv.github.io/pycon2014-r/learn/structures.html;lists;1.0;0.0;4.0;0
-8;https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/;data structures;2.0;0.4;4.0;0
-9;https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/;access data;2.0;0.2;4.0;0
-9;https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/;data structures;2.0;0.4;4.0;0
-10;https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/;expose learners;2.0;0.2;4.0;0
-10;https://swcarpentry.github.io/r-novice-inflammation/13-supp-data-structures/;data types;2.0;0.2;4.0;0
-11;http://www.statmethods.net/input/datatypes.html;elements;1.0;0.05555555555555555;4.0;0
-11;http://www.statmethods.net/input/datatypes.html;length  number;1.3333333333333333;0.05555555555555555;4.0;0
-11;http://www.statmethods.net/input/datatypes.html;object;2.0;0.16666666666666666;4.0;0
-11;http://www.statmethods.net/input/datatypes.html;object names   names;1.6;0.05555555555555555;4.0;0
-11;http://www.statmethods.net/input/datatypes.html;components str     structure;1.2857142857142858;0.05555555555555555;4.0;0
-11;http://www.statmethods.net/input/datatypes.html;object class   class;1.6;0.05555555555555555;4.0;0
-11;http://www.statmethods.net/input/datatypes.html;type;1.0;0.05555555555555555;2.0;0
-12;http://www.statmethods.net/input/datatypes.html;vector cbind object;2.6666666666666665;0.05555555555555555;4.0;0
-12;http://www.statmethods.net/input/datatypes.html;combine objects;2.0;0.16666666666666666;4.0;0
-12;http://www.statmethods.net/input/datatypes.html;object;2.0;0.16666666666666666;4.0;0
-13;http://www.statmethods.net/input/datatypes.html;columns rbind object;2.6666666666666665;0.05555555555555555;4.0;0
-13;http://www.statmethods.net/input/datatypes.html;combine objects;2.0;0.16666666666666666;4.0;0
-13;http://www.statmethods.net/input/datatypes.html;object;2.0;0.16666666666666666;4.0;0
-14;http://www.statmethods.net/input/datatypes.html;rows object       prints;1.0;0.05555555555555555;4.0;0
-14;http://www.statmethods.net/input/datatypes.html;place;1.0;0.05555555555555555;4.0;0
-14;http://www.statmethods.net/input/datatypes.html;save;1.0;0.05555555555555555;4.0;0
-14;http://www.statmethods.net/input/datatypes.html;combine objects;2.0;0.16666666666666666;4.0;0
-14;http://www.statmethods.net/input/datatypes.html;newobject fix                edit;0.5;0.05555555555555555;4.0;0
+4;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;graph;1.0;0.13333333333333333;1.0;0
+4;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;fin;1.0;0.06666666666666667;5.0;0
+5;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;graph;1.0;0.13333333333333333;1.0;0
+5;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;generate points;2.0;0.06666666666666667;5.0;0
+5;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;easy;1.0;0.06666666666666667;5.0;0
+6;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;coordinate;1.0;0.06666666666666667;5.0;0
+6;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;evaluate;1.0;0.06666666666666667;5.0;0
+6;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;find;1.0;0.06666666666666667;5.0;0
+6;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;choose;1.0;0.06666666666666667;5.0;0
+6;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;number;1.0;0.06666666666666667;1.6666666666666667;0
+7;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;function;1.0;0.06666666666666667;1.0;0
+7;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;values;1.0;0.06666666666666667;5.0;0
+7;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;table shows;2.0;0.06666666666666667;5.0;0
+7;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;evaluated;1.0;0.06666666666666667;5.0;0
+7;http://dl.uncw.edu/digilib/mathematics/algebra/mat111hb/functions/graphs/graphs.html;numbers;1.0;0.06666666666666667;5.0;0
+9;https://www.mathplanet.com/education/algebra-2/how-to-graph-functions-and-linear-equations/graph-functions-and-relations;equation;1.0;0.2;5.0;0
+9;https://www.mathplanet.com/education/algebra-2/how-to-graph-functions-and-linear-equations/graph-functions-and-relations;solve;1.0;0.2;5.0;0
+10;https://www.mathplanet.com/education/algebra-2/how-to-graph-functions-and-linear-equations/graph-functions-and-relations;graph;1.0;0.2;1.0;0
+10;https://www.mathplanet.com/education/algebra-2/how-to-graph-functions-and-linear-equations/graph-functions-and-relations;draw;1.0;0.1;5.0;0
+10;https://www.mathplanet.com/education/algebra-2/how-to-graph-functions-and-linear-equations/graph-functions-and-relations;matching x_;2.0;0.1;5.0;0
+10;https://www.mathplanet.com/education/algebra-2/how-to-graph-functions-and-linear-equations/graph-functions-and-relations;line;1.0;0.0;5.0;0
+10;https://www.mathplanet.com/education/algebra-2/how-to-graph-functions-and-linear-equations/graph-functions-and-relations;y_values;1.0;0.1;5.0;0
+12;https://www.mathplanet.com/education/algebra-2/how-to-graph-functions-and-linear-equations/graph-functions-and-relations;graph;1.0;0.2;1.0;0
+13;https://www.mathplanet.com/education/algebra-2/how-to-graph-functions-and-linear-equations/graph-functions-and-relations;equation;1.0;0.2;5.0;0
+13;https://www.mathplanet.com/education/algebra-2/how-to-graph-functions-and-linear-equations/graph-functions-and-relations;solve;1.0;0.2;5.0;0
+16;http://study.com/academy/lesson/algebraic-function-definition-examples.html;function;1.0;0.5;1.0;0
+16;http://study.com/academy/lesson/algebraic-function-definition-examples.html;graph;1.0;0.5;0.8333333333333334;0
+17;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;hours;1.0;0.05263157894736842;5.0;0
+17;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;fast food outlet;3.0;0.05263157894736842;5.0;0
+17;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;work;1.0;0.05263157894736842;5.0;0
+17;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;number;1.0;0.05263157894736842;1.6666666666666667;0
+17;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;pay packet depends;3.0;0.05263157894736842;5.0;0
+18;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;building;1.0;0.05263157894736842;5.0;0
+18;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;depend;1.0;0.05263157894736842;5.0;0
+18;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;constructing;1.0;0.0;5.0;0
+18;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;height;1.0;0.0;5.0;0
+18;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;concrete;1.0;0.05263157894736842;5.0;0
+18;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;amount;1.0;0.05263157894736842;5.0;0
+18;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;order;1.0;0.05263157894736842;5.0;0
+20;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;function;1.0;0.05263157894736842;1.0;0
+20;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;data _;2.0;0.0;5.0;0
+20;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;don;1.0;0.05263157894736842;5.0;0
+20;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;tables;1.0;0.05263157894736842;5.0;0
+20;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;algebraic expression;2.0;0.05263157894736842;5.0;0
+20;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;functions defined;2.0;0.05263157894736842;5.0;0
+20;http://www.intmath.com/functions-and-graphs/functions-graphs-intro.php;graphs;1.0;0.05263157894736842;5.0;0
+21;https://en.wikipedia.org/wiki/Algebraic_function;function;1.5;0.03508771929824561;1.25;0
+21;https://en.wikipedia.org/wiki/Algebraic_function;algebraic function;1.75;0.07017543859649122;5.0;0
+21;https://en.wikipedia.org/wiki/Algebraic_function;polynomial equation;2.0;0.017543859649122806;5.0;0
+21;https://en.wikipedia.org/wiki/Algebraic_function;defined;1.0;0.017543859649122806;5.0;0
+21;https://en.wikipedia.org/wiki/Algebraic_function;mathematics;1.0;0.0;5.0;0
+21;https://en.wikipedia.org/wiki/Algebraic_function;root;1.0;0.017543859649122806;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;division;1.0;0.03508771929824561;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;algebraic operations addition;2.8333333333333335;0.017543859649122806;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;terms;1.0;0.017543859649122806;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;expressed;1.0;0.017543859649122806;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;algebraic functions;2.25;0.03508771929824561;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;fractional power;2.0;0.017543859649122806;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;involving;1.0;0.017543859649122806;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;subtraction;1.0;0.0;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;multiplication;1.0;0.0;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;finite number;2.0;0.017543859649122806;5.0;0
+22;https://en.wikipedia.org/wiki/Algebraic_function;raising;1.0;0.017543859649122806;5.0;0
+25;https://en.wikipedia.org/wiki/Algebraic_function;informal definition;2.0;0.017543859649122806;5.0;0
+25;https://en.wikipedia.org/wiki/Algebraic_function;algebraic function;2.0;0.07017543859649122;5.0;0
+25;https://en.wikipedia.org/wiki/Algebraic_function;properties;1.0;0.017543859649122806;5.0;0
+25;https://en.wikipedia.org/wiki/Algebraic_function;number;1.0;0.017543859649122806;1.6666666666666667;0
+25;https://en.wikipedia.org/wiki/Algebraic_function;clues;1.0;0.017543859649122806;5.0;0
+26;https://en.wikipedia.org/wiki/Algebraic_function;functions;2.0;0.017543859649122806;5.0;0
+26;https://en.wikipedia.org/wiki/Algebraic_function;helpful;1.0;0.0;5.0;0
+26;https://en.wikipedia.org/wiki/Algebraic_function;formed;1.0;0.017543859649122806;5.0;0
+26;https://en.wikipedia.org/wiki/Algebraic_function;usual algebraic operations;3.0;0.017543859649122806;5.0;0
+26;https://en.wikipedia.org/wiki/Algebraic_function;gain;1.0;0.017543859649122806;5.0;0
+26;https://en.wikipedia.org/wiki/Algebraic_function;intuitive understanding;2.0;0.017543859649122806;5.0;0
+26;https://en.wikipedia.org/wiki/Algebraic_function;regard algebraic functions;2.6666666666666665;0.017543859649122806;5.0;0
+27;https://en.wikipedia.org/wiki/Algebraic_function;addition;1.0;0.017543859649122806;5.0;0
+27;https://en.wikipedia.org/wiki/Algebraic_function;multiplication;1.0;0.0;5.0;0
+27;https://en.wikipedia.org/wiki/Algebraic_function;taking;1.0;0.017543859649122806;5.0;0
+27;https://en.wikipedia.org/wiki/Algebraic_function;nth root;2.0;0.017543859649122806;5.0;0
+27;https://en.wikipedia.org/wiki/Algebraic_function;division;1.0;0.03508771929824561;5.0;0
+28;https://en.wikipedia.org/wiki/Algebraic_function;oversimplification;1.0;0.0;5.0;0
+28;https://en.wikipedia.org/wiki/Algebraic_function;expressible;1.0;0.0;5.0;0
+28;https://en.wikipedia.org/wiki/Algebraic_function;galois theory;2.0;0.017543859649122806;5.0;0
+28;https://en.wikipedia.org/wiki/Algebraic_function;algebraic functions;2.0;0.03508771929824561;5.0;0
+28;https://en.wikipedia.org/wiki/Algebraic_function;radicals;1.0;0.017543859649122806;5.0;0
+28;https://en.wikipedia.org/wiki/Algebraic_function;fundamental theorem;2.0;0.017543859649122806;5.0;0
+31;https://en.wikipedia.org/wiki/Algebraic_function;function;1.0;0.03508771929824561;1.25;0
+31;https://en.wikipedia.org/wiki/Algebraic_function;inverse;1.0;0.03508771929824561;5.0;0
+32;https://en.wikipedia.org/wiki/Algebraic_function;x2 fails;2.0;0.017543859649122806;5.0;0
+32;https://en.wikipedia.org/wiki/Algebraic_function;horizontal line test;3.0;0.017543859649122806;5.0;0
+33;https://en.wikipedia.org/wiki/Algebraic_function;fails;1.0;0.017543859649122806;5.0;0
+33;https://en.wikipedia.org/wiki/Algebraic_function;one_to_one;1.0;0.017543859649122806;5.0;0
+34;https://en.wikipedia.org/wiki/Algebraic_function;algebraic  function;1.3333333333333333;0.07017543859649122;5.0;0
+34;https://en.wikipedia.org/wiki/Algebraic_function;inverse;1.0;0.03508771929824561;5.0;0
+34;https://en.wikipedia.org/wiki/Algebraic_function;pm   sqrt;1.0;0.017543859649122806;5.0;0
+34;https://en.wikipedia.org/wiki/Algebraic_function;displaystyle;1.0;0.0;5.0;0
+35;https://en.wikipedia.org/wiki/Algebraic_function;algebraic function;2.0;0.07017543859649122;5.0;0
+35;https://en.wikipedia.org/wiki/Algebraic_function;set;1.0;0.017543859649122806;5.0;0
+35;https://en.wikipedia.org/wiki/Algebraic_function;branches;1.0;0.017543859649122806;5.0;0
+35;https://en.wikipedia.org/wiki/Algebraic_function;graph;1.0;0.017543859649122806;0.8333333333333334;0
+35;https://en.wikipedia.org/wiki/Algebraic_function;algebraic curve;2.0;0.017543859649122806;5.0;0
+35;https://en.wikipedia.org/wiki/Algebraic_function;understand;1.0;0.017543859649122806;5.0;0
+35;https://en.wikipedia.org/wiki/Algebraic_function;polynomial equation defining;3.0;0.017543859649122806;5.0;0

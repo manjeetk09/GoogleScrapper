@@ -12,6 +12,7 @@ import java.io.*;
 import java.net.*;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 
 public class GoogleSearchJava {
@@ -75,6 +76,7 @@ public class GoogleSearchJava {
         String file_url = "urls" + temp_index + ".txt";
         String file_para = "para" + temp_index + ".txt";
         String li_file = "li" + temp_index + ".csv";
+        String file_date = "timeDate" + temp_index + ".txt";
 
         BufferedWriter bw = null;
         FileWriter fw = null;
@@ -109,6 +111,11 @@ public class GoogleSearchJava {
         FileWriter fw5 = null;
         fw5 = new FileWriter(FILENAME_quick);
         bw5 = new BufferedWriter(fw5);
+
+        BufferedWriter bw6 = null;
+        FileWriter fw6 = null;
+        fw6 = new FileWriter(file_date);
+        bw6 = new BufferedWriter(fw6);
 
         //Taking search term input from console
         //Scanner scanner = new Scanner(System.in);
@@ -434,7 +441,10 @@ public class GoogleSearchJava {
                                         System.out.println(lines_itr);
                                     }
                                     */
+                                    Date date = new Date();
+
                                     if(is_quick_ans_presnt == false) {
+
                                         bw.write("0;");
                                         bw.write(lines_itr);
                                         bw.write(".");
@@ -446,6 +456,7 @@ public class GoogleSearchJava {
                                         bw2.write("\n");
                                         bw3.write(para_text);
                                         bw3.write("\n");
+                                        bw6.write(date.toString() + "\n");
                                     }
                                     else{
 
@@ -460,6 +471,7 @@ public class GoogleSearchJava {
                                         bw2.write("\n");
                                         bw3.write(para_text);
                                         bw3.write("\n");
+                                        bw6.write(date.toString() + "\n");
                                     }
                                 }
                                 System.out.println("Done Writing");
@@ -590,6 +602,7 @@ public class GoogleSearchJava {
                                 //System.out.println(line_li);
                                 line_li = line_li.replaceAll("-","_").replaceAll("\\(.*?\\) ?", "");
                                 line_li = line_li.replaceAll("[^a-zA-Z0-9,_]"," ");
+                                Date date1 = new Date();
                                 if(is_quick_ans_presnt == false) {
                                     bw.write("0;");
                                     bw.write(line_li);
@@ -604,6 +617,7 @@ public class GoogleSearchJava {
                                     bw3.write("\n");
                                     bw4.write(line_li);
                                     bw4.write("\n");
+                                    bw6.write(date1.toString() + "\n");
                                 }
                                 else{
                                     bw.write("1;");
@@ -619,6 +633,7 @@ public class GoogleSearchJava {
                                     bw3.write("\n");
                                     bw4.write(line_li);
                                     bw4.write("\n");
+                                    bw6.write(date1.toString() + "\n");
                                 }
 
                             }
@@ -665,6 +680,12 @@ public class GoogleSearchJava {
 
             if(fw5 != null)
                 fw5.close();
+
+            if (bw6 != null)
+                bw6.close();
+
+            if(fw6 != null)
+                fw6.close();
 
         } catch (IOException ex) {
 
