@@ -1,295 +1,49 @@
-Hierarchical Database model is one of the oldest database models, dating from late 1950s.
-0.768: (Hierarchical Database model; is; one of the oldest database models)
-
- One of the first hierarchical databases Information Management System was developed jointly by North American Rockwell Company and IBM.
-0.92: (Information Management System; was developed jointly by; North American Rockwell Company and IBM)
-0.588: (Information Management System; was developed jointly in; the first hierarchical databases)
-
- This model is like a structure of a tree with the records forming the nodes and fields forming the branches of the tree.
-0.905: (This model; is like; a structure of a tree)
-0.807: (This model; is with; the records forming the nodes and fields)
-
-                        .
-No extractions found.
-
-                            .
-No extractions found.
-
-                .
-No extractions found.
-
-                              .
-No extractions found.
-
-                                .
-No extractions found.
-
-                                .
-No extractions found.
-
-                        .
-No extractions found.
-
-                            .
-No extractions found.
-
-                .
-No extractions found.
-
-                              .
-No extractions found.
-
-                                .
-No extractions found.
-
-The tree structure has parts record superior to supplier record.
-0.854: (The tree structure; has parts record superior to; supplier record)
-0.768: (The tree structure; has; parts record superior)
-
- That is parts form the parent and supplier forms the children.
-No extractions found.
-
- Each of the four trees figure, consists of one part record occurrence, together with a set of subordinate supplier record occurrences.
-No extractions found.
-
- There is one supplier record for each supplier of a particular part.
-No extractions found.
-
- Each supplier occurrence includes the corresponding shipment quantity.
-0.782: (Each supplier occurrence; includes; the corresponding shipment quantity)
-
-                                .
-No extractions found.
-
-                        .
-No extractions found.
-
-                            .
-No extractions found.
-
-                .
-No extractions found.
-
-                              .
-No extractions found.
-
-                                .
-No extractions found.
-
-                                .
-No extractions found.
-
-1.
-No extractions found.
-
- Simplicity.
-No extractions found.
-
-                        .
-No extractions found.
-
-                            .
-No extractions found.
-
-                .
-No extractions found.
-
-                              .
-No extractions found.
-
-                                .
-No extractions found.
-
-                                .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Database Management Systems.
-No extractions found.
-
-.
+linear.
 No extractions found.
 
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Hierarchical Databases In the Hierarchical Database Model we have to learn about the databases.
-0.74: (we; have to learn about; the databases)
-
- It is very fast and simple.
-No extractions found.
-
- In a hierarchical database, records contain information about there groups of parent child relationships, just like as a tree structure.
-0.783: (records; contain; information)
-0.569: (records; contain information about there groups of parent child relationships in; a hierarchical database)
-
- The structure implies that a record can have also a repeating information.
-0.68: (a record; can have also; a repeating information)
-
- In this structure Data follows a series of records, It is a set of field values attached to it.
-0.893: (It; is a set of; field values attached to it)[enabler=this structure Data follows a series of records]
-0.805: (Data; follows; a series of records)
-0.636: (Data; follows a series of records in; this structure)
-0.628: (field values; be attached to; it)
-0.62: (It; is; a set of field values)
-
- It collects all records together as a record type.
-0.785: (It; collects all records together as; a record type)
-0.488: (It; collects together; all records)
-
- These record types are the equivalent of tables in the relational model, and with the individual records being the equivalent of rows.
-0.939: (These record types; are the equivalent of; tables)
-0.896: (These record types; are the equivalent of tables in; the relational model)
-0.82: (the individual records; being the equivalent of; rows)
-
- To create links between these record types, the hierarchical model uses these type Relationships.
-0.591: (the hierarchical model; uses Relationships; these type)
-0.562: (these type; be uses Relationships by; links)
-
-.
-No extractions found.
-
-.
+quadratic.
 No extractions found.
 
-.
-No extractions found.
-
-.
+power.
 No extractions found.
 
-.
+polynomial.
 No extractions found.
 
-.
+rational.
 No extractions found.
 
-.
+exponential.
 No extractions found.
 
-.
+logarithmic.
 No extractions found.
 
-.
+sinusoidal.
 No extractions found.
 
-.
+linear.
 No extractions found.
 
-.
+quadratic.
 No extractions found.
 
-.
+power.
 No extractions found.
 
-.
+polynomial.
 No extractions found.
 
-.
+rational.
 No extractions found.
-
-Advantage Hierarchical database can be accessed and updated rapidly because in this model structure is like as a tree and the relationships between records are defined in advance.
-0.819: (Advantage Hierarchical database; can be updated rapidly in; this model structure)
 
- This feature is a two_edged.
-0.716: (This feature; is; a two_edged)
-
-.
+exponential.
 No extractions found.
 
-.
+logarithmic.
 No extractions found.
 
-.
+sinusoidal.
 No extractions found.
 
 .
@@ -298,121 +52,94 @@ No extractions found.
 .
 No extractions found.
 
-.
+There are various types of algebraic functions.
 No extractions found.
 
-.
-No extractions found.
+The mathematical concept of a function expresses the intuitive idea that one quantity completely determines another quantity.
+0.807: (The mathematical concept of a function; expresses; the intuitive idea)
+0.679: (one quantity; completely determines; another quantity)
 
-.
-No extractions found.
+ An equation will be a function if for any x in the domain of the equation, there is exactly one value of y.
+0.837: (An equation; will be; a function if for any x in the domain of the equation , there is exactly one value of y)
 
-.
-No extractions found.
+ More formally, a function is defined a type of relation which has only one output value with respect any permissible input value.
+0.724: (a function; More formally is defined; a type of relation)
+0.691: (relation; has only one output value with; respect)
+0.548: (only one output value; be has by; relation)
 
-.
-No extractions found.
+ The argument and the value may be real numbers, but they can also be elements from any given sets.
+0.846: (they; can also be; elements)
+0.655: (The argument and the value; may be; real numbers)
+0.644: (they; be elements from; any given sets)
 
-.
-No extractions found.
+ the domain, the co_domain of the function and all the assigned values are in the Range of the function.
+0.865: (the assigned values; are in; the Range of the function)
+0.502: (the assigned values; be the co domain of; the function)
 
-.
-No extractions found.
+ It is important how we assign the values to each element of the domain.
+0.799: (we; assign the values to; each element of the domain)
+0.691: (we; assign; the values)
+0.554: (It; is; important)
 
-.
+ There may be different types of functions in mathematics.
 No extractions found.
 
-.
+ The classification of functions on the basis of properties may be as follows .
 No extractions found.
-
-Disadvantage This type of database structure is that each child in the tree may have only one parent, and relationships or linkages between children are not permitted, even if they make sense from a logical standpoint.
-0.157: (they; even make sense from; a logical standpoint)
-0.128: (they; even make; sense)
-
- Hierarchical databases are so in their design.
-0.778: (Hierarchical databases; are so in; their design)
-
- it can adding a new field or record requires that the entire database be redefined.
-0.487: (it; can adding; a new field or record)
-
- Network Database A network databases are mainly used on a large digital computers.
-0.926: (Network Database; are mainly used on; a large digital computers)
 
- It more connections can be made between different types of data, network databases are considered more efficiency It contains limitations must be considered when we have to use this kind of database.
-0.917: (more connections; can be made between; different types of data)
-0.886: (It; can be made between; different types of data)
-0.735: (network databases; are considered; efficiency It contains limitations must be considered when we have to use this kind of database)
-0.667: (we; have to use; this kind of database)
+ Even Function Odd Function Monotonic Function Surjective Function Bijective Function Injective Function The functions can be classified into following on the basis of variables used .
+0.585: (The functions; can be classified in; Function Odd Function Monotonic Function Surjective Function Bijective Function Injective Function)
 
- It is Similar to the hierarchical databases, network databases .
-0.709: (It; is Similar to; the hierarchical databases)
-0.646: (It; is; Similar)
-
-Network databases are similar to hierarchical databases by also having a hierarchical structure.
-0.844: (Network databases; are similar to; hierarchical databases)
-
- A network database looks more like a cobweb or interconnected network of records.
-0.864: (A network database; looks like; a cobweb or interconnected network of records)
-
-.
-No extractions found.
-
-.
+ Algebraic Function Exponential Function Logarithmic Function Analytic Function Inverse Function Monotonic Function Polynomial Function Linear Function Quadratic Function Elliptic Function Identity Function Constant Function Power Function Vector_valued Function Integer_valued Function Periodic Function Piece_wise linear Function etc.
 No extractions found.
 
-.
-No extractions found.
+ In this article, we shall learn about few of the above mentioned types of functions.
+0.746: (we; shall learn; about few of the above mentioned types of functions)
+0.457: (about few of the above mentioned types of functions; shall be learn in; this article)
+0.306: (we; shall learn about few of the above mentioned types of functions in; this article)
 
-.
-No extractions found.
+A polynomial or algebraic function is a function which can be expressed in the following form.
+0.752: (A polynomial or algebraic function; is; a function which can be expressed in the following form)
 
-.
-No extractions found.
+  f  a_ n x  n    a_ n _ 1 x  n _ 1   .
+0.59: (1 x n;  ; 1)
+0.394: (f; a ; n x)
 
-.
+   a_ 2 x  2    a_ 1 x  1    a_ 0  .
 No extractions found.
 
-.
+The graphs that these types of functions produce vary depending on the power.
 No extractions found.
 
-.
-No extractions found.
+ If the power is positive, the graph changes direction based on the number of the power.
+0.842: (the graph changes direction; be based on; the number of the power)
+0.093: (the power; is; positive)
 
-.
-No extractions found.
+ If the power is even, the graph will have both edges going in the same direction.
+0.845: (the graph; will have; both edges going in the same direction)[enabler=If the power is even]
+0.729: (both edges; going in; the same direction)
 
-.
-No extractions found.
+ If the power is odd, the graph will have one edge going up and another going down.
+0.091: (the power; is; odd)
 
-.
-No extractions found.
+ If the power is negative, it will have two parts.
+0.678: (it; will have; two parts)[enabler=If the power is negative]
+0.093: (the power; is; negative)
 
-.
-No extractions found.
+ Each part will avoid the x 0 line because that will cause division by zero.
+0.808: (Each part; will avoid; the x 0 line)[enabler=because that will cause division by zero]
+0.708: (division; will be cause by; zero)
 
-.
-No extractions found.
+ When the power is a fraction, the graph goes up at x 0 and then when y is positive, it starts curving towards the x_axis.
+0.698: (a fraction; goes up then at; x 0)[enabler=when y is positive]
+0.698: (the graph; goes up then at; x 0)[enabler=when y is positive]
+0.67: (it; starts curving towards; the x_axis)
+0.653: (the power; is; a fraction)
+0.457: (y; is; positive)
 
-.
+ Even and Odd functions and.
 No extractions found.
 
-The relational database organizes data in a series of tables.
+ Algebraic and Transcendental functions.
 No extractions found.
-
- Each table has its own fields specific to the type of data being stored.
-0.704: (Each table; has; its own fields specific)
-
- The database management system designed around the relationships between tables has survived more than two decades because of its flexibility.
-0.836: (The database management system designed around the relationships between tables; has survived; than two decades)
-0.825: (The database management system; be designed around; the relationships)
-0.813: (The database management system designed around the relationships between tables; has survived more than two decades because of; its flexibility)
-
- Once the user enters data into a table and saves it in the massive database, a query will recall the information at any time.
-0.834: (a query; will recall the information at; any time)[enabler=Once the user enters data into a table and saves it in the massive database]
-0.814: (the user; saves it in; the massive database)
-0.798: (a query; will recall; the information)[enabler=Once the user enters data into a table and saves it in the massive database]
-0.774: (the user; Once enters data into; a table)
-0.755: (the user; Once enters; data)
-0.736: (the user; saves; it)
-0.708: (the information; will be recall at; any time)[enabler=Once the user enters data into a table and saves it in the massive database]
 

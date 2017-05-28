@@ -1,131 +1,42 @@
-0;Hierarchical Database model is one of the oldest database models, dating from late 1950s.
-0; One of the first hierarchical databases Information Management System was developed jointly by North American Rockwell Company and IBM.
-0; This model is like a structure of a tree with the records forming the nodes and fields forming the branches of the tree.
-0;                        .
-0;                            .
-0;                .
-0;                              .
-0;                                .
-0;                                .
-0;                        .
-0;                            .
-0;                .
-0;                              .
-0;                                .
-0;The tree structure has parts record superior to supplier record.
-0; That is parts form the parent and supplier forms the children.
-0; Each of the four trees figure, consists of one part record occurrence, together with a set of subordinate supplier record occurrences.
-0; There is one supplier record for each supplier of a particular part.
-0; Each supplier occurrence includes the corresponding shipment quantity.
-0;                                .
-0;                        .
-0;                            .
-0;                .
-0;                              .
-0;                                .
-0;                                .
-0;1.
-0; Simplicity.
-0;                        .
-0;                            .
-0;                .
-0;                              .
-0;                                .
-0;                                .
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;Database Management Systems.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;Hierarchical Databases In the Hierarchical Database Model we have to learn about the databases.
-0; It is very fast and simple.
-0; In a hierarchical database, records contain information about there groups of parent child relationships, just like as a tree structure.
-0; The structure implies that a record can have also a repeating information.
-0; In this structure Data follows a series of records, It is a set of field values attached to it.
-0; It collects all records together as a record type.
-0; These record types are the equivalent of tables in the relational model, and with the individual records being the equivalent of rows.
-0; To create links between these record types, the hierarchical model uses these type Relationships.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;Advantage Hierarchical database can be accessed and updated rapidly because in this model structure is like as a tree and the relationships between records are defined in advance.
-0; This feature is a two_edged.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;Disadvantage This type of database structure is that each child in the tree may have only one parent, and relationships or linkages between children are not permitted, even if they make sense from a logical standpoint.
-0; Hierarchical databases are so in their design.
-0; it can adding a new field or record requires that the entire database be redefined.
-0; Network Database A network databases are mainly used on a large digital computers.
-0; It more connections can be made between different types of data, network databases are considered more efficiency It contains limitations must be considered when we have to use this kind of database.
-0; It is Similar to the hierarchical databases, network databases .
-0;Network databases are similar to hierarchical databases by also having a hierarchical structure.
-0; A network database looks more like a cobweb or interconnected network of records.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;The relational database organizes data in a series of tables.
-0; Each table has its own fields specific to the type of data being stored.
-0; The database management system designed around the relationships between tables has survived more than two decades because of its flexibility.
-0; Once the user enters data into a table and saves it in the massive database, a query will recall the information at any time.
+1;linear.
+1;quadratic.
+1;power.
+1;polynomial.
+1;rational.
+1;exponential.
+1;logarithmic.
+1;sinusoidal.
+0;linear.
+0;quadratic.
+0;power.
+0;polynomial.
+0;rational.
+0;exponential.
+0;logarithmic.
+0;sinusoidal.
+0;.
+0;.
+0;There are various types of algebraic functions.
+0;The mathematical concept of a function expresses the intuitive idea that one quantity completely determines another quantity.
+0; An equation will be a function if for any x in the domain of the equation, there is exactly one value of y.
+0; More formally, a function is defined a type of relation which has only one output value with respect any permissible input value.
+0; The argument and the value may be real numbers, but they can also be elements from any given sets.
+0; the domain, the co_domain of the function and all the assigned values are in the Range of the function.
+0; It is important how we assign the values to each element of the domain.
+0; There may be different types of functions in mathematics.
+0; The classification of functions on the basis of properties may be as follows .
+0; Even Function Odd Function Monotonic Function Surjective Function Bijective Function Injective Function The functions can be classified into following on the basis of variables used .
+0; Algebraic Function Exponential Function Logarithmic Function Analytic Function Inverse Function Monotonic Function Polynomial Function Linear Function Quadratic Function Elliptic Function Identity Function Constant Function Power Function Vector_valued Function Integer_valued Function Periodic Function Piece_wise linear Function etc.
+0; In this article, we shall learn about few of the above mentioned types of functions.
+0;A polynomial or algebraic function is a function which can be expressed in the following form.
+0;  f  a_ n x  n    a_ n _ 1 x  n _ 1   .
+0;   a_ 2 x  2    a_ 1 x  1    a_ 0  .
+0;The graphs that these types of functions produce vary depending on the power.
+0; If the power is positive, the graph changes direction based on the number of the power.
+0; If the power is even, the graph will have both edges going in the same direction.
+0; If the power is odd, the graph will have one edge going up and another going down.
+0; If the power is negative, it will have two parts.
+0; Each part will avoid the x 0 line because that will cause division by zero.
+0; When the power is a fraction, the graph goes up at x 0 and then when y is positive, it starts curving towards the x_axis.
+0; Even and Odd functions and.
+0; Algebraic and Transcendental functions.

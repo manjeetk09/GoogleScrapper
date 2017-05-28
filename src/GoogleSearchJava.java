@@ -54,21 +54,21 @@ public class GoogleSearchJava {
     //these store the links and span
     public  ArrayList<String> link_data = new ArrayList<String>();
     public  ArrayList<String> span_data = new ArrayList<String>();
-    public  ArrayList<String> query_words = new ArrayList<String>();
+//    public  ArrayList<String> query_words = new ArrayList<String>();
     public  ArrayList<String> head_phrase_list = new ArrayList<String>();
     public  String span_quick_ans = "";
     public boolean is_quick_ans_presnt = false;
 
     public  String GOOGLE_SEARCH_URL = "https://www.google.com/search";
     //public  void main(String[] args) throws IOException
-    public boolean googleSearch(String input_url, int input_num, int temp_index , ArrayList<String> heads , ArrayList<String> query_word_list) throws IOException
+    public boolean googleSearch(String input_url, int input_num, int temp_index , ArrayList<String> heads) throws IOException
     {
 
         //text file for output
-        query_words.addAll(query_word_list);
+//        query_words.addAll(query_word_list);
         head_phrase_list.addAll(heads);
 
-        System.out.println("query_terms:: " + query_words);
+//        System.out.println("query_terms:: " + query_words);
         System.out.println("head_terms:: " + head_phrase_list);
         String FILENAME = "crawler" + temp_index + ".txt";
         String FILENAME_quick = "crawlerq" + temp_index + ".txt";

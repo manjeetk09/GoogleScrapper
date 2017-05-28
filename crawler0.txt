@@ -1,82 +1,25 @@
-1;Common logical data models for databases include.
-1; Hierarchical database model.
-1; Network model.
-1; Relational model.
-1; Entity relationship model Enhanced entity relationship model.
-1; Object model.
-1; Document model.
-1; Entity attribute value model.
-1; Star schema.
-1;Enhanced.
-1;.
-1;.
-0;Common logical data models for databases include.
-0; Hierarchical database model.
-0; Network model.
-0; Relational model.
-0; Entity relationship model Enhanced entity relationship model.
-0; Object model.
-0; Document model.
-0; Entity attribute value model.
-0; Star schema.
-0;Enhanced.
+1;linear.
+1;quadratic.
+1;power.
+1;polynomial.
+1;rational.
+1;exponential.
+1;logarithmic.
+1;sinusoidal.
+0;linear.
+0;quadratic.
+0;power.
+0;polynomial.
+0;rational.
+0;exponential.
+0;logarithmic.
+0;sinusoidal.
 0;.
 0;.
-0;There are many kinds of data models.
-0; Some of the most common ones include.
-0; Hierarchical database model.
-0; Relational model.
-0; Network model.
-0; Object_oriented database model.
-0; Entity_relationship model.
-0; Document model.
-0; Entity_attribute_value model.
-0; Star schema.
-0; The object_relational model, which combines the two that make up its name.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;A Database model defines the logical design of data.
-0; The model describes the relationships between different parts of the data.
-0; Historically, in database design, three models are commonly used.
-0; They are, Hierarchical Model.
-0; Network Model.
-0; Relational Model.
-0;     .
-0;High_level Conceptual Data models.
-0;.
-0;Database systems can be based on different data models or database models respectively.
-0; A data model is a collection of concepts and rules for the description of the structure of the database.
-0; Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
-0; The most often used data models are.
-0;Data models define how the logical structure of a database is modeled.
-0; Data Models are fundamental entities to introduce abstraction in a DBMS.
-0; Data models define how data is connected to each other and how they are processed and stored inside the system.
-0;  .
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;  .
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;  Entity_Relationship.
-0;The Entity_Relationship model has emerged as one of the main techniques for modeling database design and forms the basis for the database design methodology.
-0; The object oriented data model extends the definition of an entity to include, not only the attributes that describe the state of the object but also the actions that are associated with the object, that is, its behavior.
-0; The object is said to encapsulate both state and behavior.
-0; Entities in semantic systems represent the equivalent of a record in a relational system or an object in an OO system but they do not include behaviour .
-0; They are abstractions  used to represent real world  e.
-0;g.
-0; customer  or conceptual  e.
-0;g.
-0; bank account  objects.
-0; The functional data model is now almost twenty years old.
-0; The original idea was to  view the database as a collection of extensionally defined functions and to use a functional language for querying the database.
+0;There are various types of algebraic functions.
+0;There are eight types of graphs that you will see more often than other types.
+0; Each has its own type of function that produces the graphs.
+0; They are easy to visually distinguish and by knowing how each looks, you can get an idea of what a graph might look like just by analyzing the function.
+0; The eight types are linear, power, quadratic, polynomial, rational, exponential, logarithmic, and sinusoidal.
+0; Even and Odd functions and.
+0; Algebraic and Transcendental functions.

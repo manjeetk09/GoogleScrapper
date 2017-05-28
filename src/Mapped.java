@@ -3,6 +3,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.Hashtable;
 
 class Information
 {
@@ -131,9 +132,89 @@ public class Mapped {
         }
     }
 
+    public String getTemplate(int num) throws IOException
+    {
+        FileReader fr = new FileReader("templates.txt");
+        BufferedReader br = new BufferedReader(fr);
+
+        int count = 0;
+        String lineTemp = "";
+        while((lineTemp = br.readLine()) != null)
+        {
+            if(count == num)
+            {
+                return lineTemp;
+            }
+            else
+            {
+                count = count + 1;
+            }
+        }
+        try
+        {
+            if(br != null)
+                br.close();
+            if(fr != null)
+                fr.close();
+        }
+        catch(Exception e)
+        {
+            e.printStackTrace();
+        }
+        return null;
 
 
-    public static void main (String[] args) throws IOException
+    }
+
+    public String getLine(int temp_num, int line_num) throws IOException
+    {
+        FileReader fr = new FileReader("crawlerq" + temp_num + ".txt");
+        BufferedReader br = new BufferedReader(fr);
+
+        int count = 1;
+        String lineTemp = "";
+        while((lineTemp = br.readLine()) != null)
+        {
+            if(count == line_num)
+            {
+                return lineTemp;
+            }
+            else
+            {
+                count = count + 1;
+            }
+        }
+        try
+        {
+            if(br != null)
+                br.close();
+            if(fr != null)
+                fr.close();
+        }
+        catch(Exception e)
+        {
+            e.printStackTrace();
+        }
+        return null;
+
+
+    }
+
+    public static Object loadStatus(){
+        Object result = null;
+        try {
+            FileInputStream saveFile = new FileInputStream("teknowbase.dat");
+            ObjectInputStream in = new ObjectInputStream(saveFile);
+            result = in.readObject();
+            in.close();
+            saveFile.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return result;
+    }
+
+    public void mappedFunc (String head_entity) throws IOException
     {
         FileReader f = new FileReader("mappedInTKB.csv");
         BufferedReader b = new BufferedReader(f);
@@ -172,10 +253,11 @@ public class Mapped {
             quick_ans.add(temp.intValue());
         }
 
+        //rake score cutoff
         for(int i=0; i<entity.size(); i++)
         {
 
-            if(rake_score.get(i) < 0.5)
+            if(rake_score.get(i) < 0.5 && quick_ans.get(i)==0)
             {
                 template_num.remove(i);
                 line_num.remove(i);
@@ -196,6 +278,7 @@ public class Mapped {
             }
         }
 
+        //final score cutoff
         RakeScoreListSort ss = new RakeScoreListSort();
         Collections.sort(obj, ss);
 
@@ -208,6 +291,8 @@ public class Mapped {
                 obj.remove(i);
             }
         }
+
+        //sorting
         int count_quick = 0;
         for(int i=0; i<obj.size(); i++)
         {
@@ -222,11 +307,57 @@ public class Mapped {
                 count_quick = count_quick + 1;
             }
         }
+
+        //removing any redundancies
+        for(int i=0; i<obj.size(); i++)
+        {
+            for(int j=i+1; j<obj.size();j++)
+            {
+                if(obj.get(i).getEntity_name().matches(obj.get(j).getEntity_name()))
+                {
+                    obj.remove(j);
+                    j--;
+                }
+            }
+        }
+
+        //removing the already existing ones
+        ArrayList<String> existing_entity = new ArrayList<String>();
+        Hashtable hashtable = (Hashtable)loadStatus();
+        ArrayList<EntityTKB> entityTKB = (ArrayList<EntityTKB>)hashtable.get(head_entity);
+        if(entityTKB != null)
+        {
+            for(EntityTKB entityTKB1 : entityTKB)
+            {
+                if(entityTKB1.getRelation().matches("typeOf"))
+                {
+                    existing_entity.add(entityTKB1.getEntity1());
+//                    System.out.println(entityTKB1.getEntity1());
+                }
+            }
+            for(int i=0; i<obj.size(); i++)
+            {
+                for(int j=0; j<existing_entity.size();j++)
+                {
+                    if(obj.get(i).getEntity_name().matches(existing_entity.get(j)))
+                    {
+                        obj.remove(i);
+                        i--;
+                        break;
+                    }
+                }
+            }
+        }
+
+
+
         //printing it back
         for(int i=0; i<obj.size();i++)
         {
-            bw.write(obj.get(i).getEntity_name()+";"+obj.get(i).getRake_score()+";"+obj.get(i).getFinal_score()+";" +obj.get(i).getQuick_ans()+"\n");
+            Information info_temp = obj.get(i);
+            bw.write(getTemplate(Integer.parseInt(info_temp.getTemplate_number())) +getLine(Integer.parseInt(info_temp.getTemplate_number()),Integer.parseInt(info_temp.getLine_number())) +";"+obj.get(i).getEntity_name()+";"+obj.get(i).getRake_score()+";"+info_temp.getTf_score()+";"+info_temp.getIdf_score()+";"+obj.get(i).getFinal_score()+";" + info_temp.getRelation_score()+";" +obj.get(i).getQuick_ans()+"\n");
         }
+
 
 
         try{

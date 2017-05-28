@@ -30,15 +30,16 @@ public class temp
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the search term.");
         String searchTerm = scanner.nextLine();
-        System.out.println("Please enter the number of query terms.");
-        int num_query_terms = scanner.nextInt();
-        System.out.println("Please enter the list of query terms (one in each line)");
+        System.out.println("Please enter the main entity terms (as given in TKB).");
+//        int num_query_terms = scanner.nextInt();
+//        System.out.println("Please enter the list of query terms (one in each line)");
         Scanner scanner1 = new Scanner(System.in);
-        for(int i = 0 ; i < num_query_terms ;i++){
-            String new_head = scanner1.nextLine();
-            query_term_list.add(new_head);
-//            System.out.println(new_head + " " + query_term_list.size());
-        }
+//        for(int i = 0 ; i < num_query_terms ;i++){
+//            String new_head = scanner1.nextLine();
+//            query_term_list.add(new_head);
+////            System.out.println(new_head + " " + query_term_list.size());
+//        }
+        String head_entity = scanner1.nextLine();
         System.out.println("Please enter the number of head phrase.");
         int num_head = scanner.nextInt();
         System.out.println("Please enter the list of head phrase (one in each line)");
@@ -102,7 +103,7 @@ public class temp
             bw.write(searchTerm + "\n");
             boolean is_quick_ans_present = false;
             GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-            is_quick_ans_present = googleSearchJava.googleSearch(searchTerm, search, 0, head_phrase_list, query_term_list);
+            is_quick_ans_present = googleSearchJava.googleSearch(searchTerm, search, 0, head_phrase_list);
             System.out.println("found quick answer:: " + is_quick_ans_present);
 
             //via Ollie
@@ -136,7 +137,7 @@ public class temp
                 //String temp_1 = "" + i;
                 //templates_final.set(i,temp_1);
                 GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-                is_quick_ans_present = googleSearchJava.googleSearch(templates_final.get(i), search, i, head_phrase_list, query_term_list);
+                is_quick_ans_present = googleSearchJava.googleSearch(templates_final.get(i), search, i, head_phrase_list);
                 System.out.println("found quick answer:: " + is_quick_ans_present);
 
                 //via Ollie
@@ -194,6 +195,7 @@ public class temp
         test_map test_map_ins = new test_map();
         test_map_ins.test_map_func();
 
-
+        Mapped mapped = new Mapped();
+        mapped.mappedFunc(head_entity);
     }
 }

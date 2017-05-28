@@ -1,985 +1,388 @@
-0;1;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.1;6.0;0;1
-0;2;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.1;3.0;0;1
-0;3;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.1;2.0;0;1
-0;4;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.1;2.0;0;1
-0;6;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.1;6.0;0;1
-0;7;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.1;3.0;0;1
-0;8;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.1;6.0;0.0;1
-0;8;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.1;6.0;0.0;1
-0;9;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.1;3.0;0;1
-0;10;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.1;6.0;0;1
-0;13;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.1;6.0;0;0
-0;14;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.1;3.0;0;0
-0;15;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.1;2.0;0;0
-0;16;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.1;2.0;0;0
-0;18;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.1;6.0;0;0
-0;19;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.1;3.0;0;0
-0;20;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.1;6.0;0.0;0
-0;20;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.1;6.0;0.0;0
-0;21;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.1;3.0;0;0
-0;22;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.1;6.0;0;0
-0;25;https://www.lucidchart.com/pages/database-diagram/database-models;kinds;1.0;0.0;6.0;0;0
-0;25;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.06666666666666667;1.5;0;0
-0;26;https://www.lucidchart.com/pages/database-diagram/database-models;include;1.0;0.06666666666666667;3.0;0;0
-0;26;https://www.lucidchart.com/pages/database-diagram/database-models;common;1.0;0.06666666666666667;6.0;0;0
-0;27;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical database model;3.0;0.06666666666666667;2.0;0;0
-0;28;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.06666666666666667;1.5;0;0
-0;29;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.06666666666666667;1.5;0;0
-0;30;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.06666666666666667;6.0;0;0
-0;31;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.06666666666666667;3.0;0;0
-0;32;https://www.lucidchart.com/pages/database-diagram/database-models;document model;2.0;0.06666666666666667;2.0;0;0
-0;33;https://www.lucidchart.com/pages/database-diagram/database-models;entity_attribute_value model;2.0;0.06666666666666667;6.0;0;0
-0;34;https://www.lucidchart.com/pages/database-diagram/database-models;star schema;2.0;0.06666666666666667;2.0;0;0
-0;35;https://www.lucidchart.com/pages/database-diagram/database-models;combines;1.0;0.06666666666666667;6.0;0.0;0
-0;35;https://www.lucidchart.com/pages/database-diagram/database-models;make;1.0;0.06666666666666667;6.0;0.0;0
-0;35;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.06666666666666667;6.0;0.0;0
-0;41;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.07142857142857142;6.0;0.0;0
-0;41;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;2.0;0.0;0
-0;41;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.07142857142857142;6.0;0.0;0
-0;42;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;6.0;0.0;0
-0;42;http://www.studytonight.com/dbms/database-model;parts;1.0;0.07142857142857142;6.0;0.0;0
-0;42;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;2.0;0.0;0
-0;42;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.07142857142857142;6.0;0.0;0
-0;43;http://www.studytonight.com/dbms/database-model;database design;2.0;0.07142857142857142;6.0;0.0;0
-0;43;http://www.studytonight.com/dbms/database-model;models;1.0;0.07142857142857142;6.0;0.0;0
-0;43;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;6.0;0.0;0
-0;43;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.07142857142857142;6.0;0.0;0
-0;44;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.07142857142857142;6.0;0;0
-0;45;http://www.studytonight.com/dbms/database-model;network model;2.0;0.07142857142857142;1.5;0;0
-0;46;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.07142857142857142;1.5;0;0
-0;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database models;2.0;0.05;6.0;0.0;0
-0;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;based;1.0;0.05;6.0;0.0;0
-0;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database systems;2.0;0.05;6.0;0.0;0
-0;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.0;0.0;0
-0;51;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;6.0;0.0;0
-0;51;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database;1.0;0.05;2.0;0.0;0
-0;51;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;rules;1.0;0.05;6.0;0.0;0
-0;51;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data model;2.0;0.05;6.0;0.0;0
-0;51;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;collection;1.0;0.05;3.0;0.0;0
-0;51;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;concepts;1.0;0.05;6.0;0.0;0
-0;51;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;6.0;0.0;0
-0;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;relationships;1.0;0.0;6.0;0.0;0
-0;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;6.0;0.0;0
-0;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database means;2.0;0.05;6.0;0.0;0
-0;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data types;1.75;0.05;6.0;0.0;0
-0;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;storage;1.0;0.05;6.0;0.0;0
-0;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data;1.5;0.05;1.5;0.0;0
-0;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;6.0;0.0;0
-0;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;constraints;1.0;0.0;6.0;0.0;0
-0;53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.0;0;0
-0;54;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;3.0;0.14285714285714285;6.0;0;0
-0;54;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;database;1.0;0.07142857142857142;2.0;0;0
-0;54;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;modeled;1.0;0.07142857142857142;6.0;0;0
-0;54;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;logical structure;2.0;0.07142857142857142;6.0;0;0
-0;55;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;fundamental entities;2.0;0.07142857142857142;6.0;0.0;0
-0;55;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;introduce abstraction;2.0;0.07142857142857142;6.0;0.0;0
-0;55;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models;2.0;0.07142857142857142;1.5;0.0;0
-0;55;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;dbms;1.0;0.0;6.0;0.0;0
-0;56;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;2.6666666666666665;0.14285714285714285;6.0;0.0;0
-0;56;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;stored inside;2.0;0.07142857142857142;6.0;0.0;0
-0;56;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;system;1.0;0.07142857142857142;6.0;0.0;0
-0;56;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;connected;1.0;0.07142857142857142;6.0;0.0;0
-0;56;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;processed;1.0;0.07142857142857142;6.0;0.0;0
-0;56;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data;2.0;0.07142857142857142;1.5;0.0;0
-0;71;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;entity_relationship;1.0;0.023255813953488372;6.0;0;0
-0;72;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;main techniques;2.0;0.023255813953488372;6.0;0.0;0
-0;72;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;basis;1.0;0.023255813953488372;6.0;0.0;0
-0;72;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;entity_relationship model;2.0;0.023255813953488372;3.0;0.0;0
-0;72;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;database design methodology;3.0;0.023255813953488372;6.0;0.0;0
-0;72;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;forms;1.0;0.023255813953488372;6.0;0.0;0
-0;72;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;emerged;1.0;0.023255813953488372;6.0;0.0;0
-0;72;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;modeling database design;3.0;0.023255813953488372;6.0;0.0;0
-0;73;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;definition;1.0;0.023255813953488372;6.0;0.0;0
-0;73;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;object;1.0;0.06976744186046512;6.0;0.0;0
-0;73;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;describe;1.0;0.023255813953488372;6.0;0.0;0
-0;73;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;actions;1.0;0.023255813953488372;6.0;0.0;0
-0;73;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;entity;1.0;0.023255813953488372;6.0;0.0;0
-0;73;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;state;1.0;0.046511627906976744;6.0;0.0;0
-0;73;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;behavior;1.0;0.046511627906976744;6.0;0.0;0
-0;73;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;attributes;1.0;0.023255813953488372;6.0;0.0;0
-0;73;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;include;1.0;0.023255813953488372;3.0;0.0;0
-0;74;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;state;1.0;0.046511627906976744;6.0;0.0;0
-0;74;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;object;1.0;0.06976744186046512;6.0;0.0;0
-0;74;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;encapsulate;1.0;0.0;6.0;0.0;0
-0;74;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;behavior;1.0;0.046511627906976744;6.0;0.0;0
-0;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;oo system;2.0;0.023255813953488372;6.0;0.0;0
-0;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;semantic systems represent;3.0;0.023255813953488372;6.0;0.0;0
-0;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;record;1.0;0.023255813953488372;6.0;0.0;0
-0;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;equivalent;1.0;0.023255813953488372;6.0;0.0;0
-0;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;object;1.0;0.06976744186046512;6.0;0.0;0
-0;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;entities;1.0;0.023255813953488372;6.0;0.0;0
-0;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;relational system;2.0;0.023255813953488372;6.0;0.0;0
-0;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;include behaviour;2.0;0.023255813953488372;6.0;0.0;0
-0;76;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;represent real world;3.0;0.023255813953488372;6.0;0;0
-0;76;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;abstractions;1.0;0.0;6.0;0;0
-0;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;customer;1.0;0.023255813953488372;6.0;0;0
-0;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;conceptual;1.0;0.023255813953488372;6.0;0;0
-0;80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;bank account  objects;2.25;0.023255813953488372;6.0;0;0
-0;81;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;functional data model;3.0;0.023255813953488372;6.0;0.0;0
-0;81;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;twenty years;2.0;0.023255813953488372;6.0;0.0;0
-0;82;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;querying;1.0;0.023255813953488372;6.0;0.0;0
-0;82;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;database;1.0;0.023255813953488372;2.0;0.0;0
-0;82;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;original idea;2.0;0.023255813953488372;6.0;0.0;0
-0;82;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;extensionally defined functions;3.0;0.023255813953488372;6.0;0.0;0
-0;82;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;collection;1.0;0.023255813953488372;3.0;0.0;0
-0;82;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;functional language;2.0;0.023255813953488372;6.0;0.0;0
-0;82;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;view;1.0;0.023255813953488372;6.0;0.0;0
-1;1;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;oldest database models;3.0;0.03333333333333333;3.0;0.0;0
-1;1;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;hierarchical database model;3.0;0.03333333333333333;1.5;0.0;0
-1;1;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;dating;1.0;0.03333333333333333;3.0;0.0;0
-1;1;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;late 1950s;2.0;0.03333333333333333;3.0;0.0;0
-1;2;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;developed jointly;2.0;0.03333333333333333;3.0;0.0;0
-1;2;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;ibm;1.0;0.0;3.0;0.0;0
-1;3;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;branches;1.0;0.03333333333333333;3.0;0.0;0
-1;3;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;records forming;2.0;0.03333333333333333;3.0;0.0;0
-1;3;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;tree;1.0;0.03333333333333333;1.0;0.0;0
-1;3;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;fields forming;2.0;0.03333333333333333;3.0;0.0;0
-1;3;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;model;1.0;0.03333333333333333;3.0;0.0;0
-1;3;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;nodes;1.0;0.03333333333333333;3.0;0.0;0
-1;3;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;structure;1.0;0.03333333333333333;3.0;0.0;0
-1;15;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier record;2.25;0.06666666666666667;3.0;0.0;0
-1;15;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;tree structure;2.0;0.03333333333333333;1.5;0.0;0
-1;15;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;parts record superior;2.8333333333333335;0.03333333333333333;3.0;0.0;0
-1;16;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;parts form;2.0;0.03333333333333333;3.0;0;0
-1;16;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier forms;2.0;0.03333333333333333;3.0;0;0
-1;16;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;children;1.0;0.03333333333333333;1.5;0;0
-1;16;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;parent;1.0;0.03333333333333333;1.5;0;0
-1;17;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;consists;1.0;0.03333333333333333;3.0;0;0
-1;17;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;set;1.0;0.03333333333333333;1.5;0;0
-1;17;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;trees figure;2.0;0.03333333333333333;3.0;0;0
-1;17;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;part record occurrence;3.0;0.03333333333333333;3.0;0;0
-1;18;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier record;1.75;0.06666666666666667;3.0;0;0
-1;18;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier;1.5;0.03333333333333333;3.0;0;0
-1;18;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;part;1.0;0.03333333333333333;3.0;0;0
-1;19;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier occurrence includes;3.0;0.03333333333333333;3.0;0.0;0
-1;19;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;shipment quantity;2.0;0.03333333333333333;3.0;0.0;0
-1;28;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;simplicity;1.0;0.03333333333333333;3.0;0;0
-1;53;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;database management systems;3.0;0.011363636363636364;3.0;0;0
-1;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical database model;2.8333333333333335;0.011363636363636364;1.5;0.0;0
-1;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;learn;1.0;0.0;3.0;0.0;0
-1;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;databases;1.5;0.011363636363636364;3.0;0.0;0
-1;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical databases;2.0;0.045454545454545456;3.0;0.0;0
-1;69;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;simple;1.0;0.011363636363636364;3.0;0;0
-1;69;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;fast;1.0;0.011363636363636364;3.0;0;0
-1;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;information;1.0;0.0;3.0;0.0;0
-1;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical database;2.0;0.011363636363636364;3.0;0.0;0
-1;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;parent child relationships;3.0;0.011363636363636364;3.0;0.0;0
-1;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;tree structure;2.0;0.011363636363636364;1.5;0.0;0
-1;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;records;1.0;0.056818181818181816;3.0;0.0;0
-1;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;groups;1.0;0.011363636363636364;3.0;0.0;0
-1;71;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;repeating information;2.0;0.011363636363636364;3.0;0.0;0
-1;71;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;record;1.0;0.011363636363636364;3.0;0.0;0
-1;71;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;structure implies;2.0;0.011363636363636364;3.0;0.0;0
-1;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;field values attached;3.0;0.011363636363636364;3.0;0.0;0
-1;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;series;1.0;0.011363636363636364;1.5;0.0;0
-1;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;structure data;2.0;0.011363636363636364;3.0;0.0;0
-1;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;set;1.0;0.011363636363636364;1.5;0.0;0
-1;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;records;1.0;0.056818181818181816;3.0;0.0;0
-1;73;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;collects;1.0;0.011363636363636364;3.0;0.0;0
-1;73;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;record type;2.0;0.011363636363636364;3.0;0.0;0
-1;73;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;records;1.0;0.056818181818181816;3.0;0.0;0
-1;74;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;tables;1.0;0.011363636363636364;1.0;0.0;0
-1;74;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;rows;1.0;0.011363636363636364;3.0;0.0;0
-1;74;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;individual records;2.0;0.011363636363636364;3.0;0.0;0
-1;74;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;record types;2.0;0.022727272727272728;3.0;0.0;0
-1;74;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;equivalent;1.0;0.011363636363636364;3.0;0.0;0
-1;74;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;relational model;2.0;0.011363636363636364;3.0;0.0;0
-1;75;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;record types;2.0;0.022727272727272728;3.0;0.0;0
-1;75;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;create links;2.0;0.011363636363636364;3.0;0.0;0
-1;75;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical model;2.0;0.011363636363636364;3.0;0.0;0
-1;75;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;type relationships;2.0;0.011363636363636364;3.0;0.0;0
-1;90;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;relationships;1.0;0.0;3.0;0.0;0
-1;90;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;advance;1.0;0.011363636363636364;3.0;0.0;0
-1;90;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;records;1.0;0.056818181818181816;3.0;0.0;0
-1;90;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;defined;1.0;0.011363636363636364;3.0;0.0;0
-1;90;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;advantage hierarchical database;3.0;0.011363636363636364;3.0;0.0;0
-1;90;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;model structure;2.0;0.011363636363636364;3.0;0.0;0
-1;90;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;tree;1.0;0.022727272727272728;1.5;0.0;0
-1;90;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;updated rapidly;2.0;0.011363636363636364;3.0;0.0;0
-1;90;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;accessed;1.0;0.011363636363636364;3.0;0.0;0
-1;91;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;feature;1.0;0.011363636363636364;3.0;0.0;0
-1;91;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;two_edged;1.0;0.011363636363636364;3.0;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;relationships;1.0;0.0;3.0;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;database structure;2.0;0.011363636363636364;3.0;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;parent;1.0;0.011363636363636364;1.5;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;tree;1.0;0.022727272727272728;1.5;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;make sense;2.0;0.011363636363636364;3.0;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;permitted;1.0;0.011363636363636364;3.0;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;linkages;1.0;0.0;3.0;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;child;1.0;0.011363636363636364;3.0;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;logical standpoint;2.0;0.011363636363636364;3.0;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;type;1.0;0.011363636363636364;1.5;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;children;1.0;0.011363636363636364;1.5;0.0;0
-1;106;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;disadvantage;1.0;0.0;3.0;0.0;0
-1;107;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;design;1.0;0.011363636363636364;3.0;0.0;0
-1;107;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical databases;2.0;0.045454545454545456;3.0;0.0;0
-1;108;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;entire database;2.0;0.011363636363636364;3.0;0.0;0
-1;108;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;adding;1.0;0.011363636363636364;3.0;0.0;0
-1;108;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;redefined;1.0;0.011363636363636364;3.0;0.0;0
-1;108;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;record requires;2.0;0.011363636363636364;3.0;0.0;0
-1;108;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;field;1.0;0.011363636363636364;3.0;0.0;0
-1;109;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;large digital computers;3.0;0.011363636363636364;3.0;0.0;0
-1;109;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network database;2.0;0.022727272727272728;3.0;0.0;0
-1;109;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network databases;2.0;0.045454545454545456;3.0;0.0;0
-1;110;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;limitations;1.0;0.0;3.0;0.0;0
-1;110;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;kind;1.0;0.0;3.0;0.0;0
-1;110;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;made;1.0;0.011363636363636364;3.0;0.0;0
-1;110;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;database;1.0;0.011363636363636364;3.0;0.0;0
-1;110;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;considered;1.0;0.011363636363636364;3.0;0.0;0
-1;110;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;connections;1.0;0.0;3.0;0.0;0
-1;110;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;efficiency;1.0;0.011363636363636364;3.0;0.0;0
-1;110;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;data;1.0;0.011363636363636364;1.5;0.0;0
-1;110;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network databases;2.0;0.045454545454545456;3.0;0.0;0
-1;110;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;types;1.0;0.011363636363636364;3.0;0.0;0
-1;111;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;similar;1.0;0.022727272727272728;3.0;0.0;0
-1;111;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network databases;2.0;0.045454545454545456;3.0;0.0;0
-1;111;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical databases;2.0;0.045454545454545456;3.0;0.0;0
-1;112;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical structure;2.0;0.011363636363636364;3.0;0.0;0
-1;112;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;similar;1.0;0.022727272727272728;3.0;0.0;0
-1;112;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network databases;2.0;0.045454545454545456;3.0;0.0;0
-1;112;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical databases;2.0;0.045454545454545456;3.0;0.0;0
-1;113;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;records;1.0;0.056818181818181816;3.0;0.0;0
-1;113;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;cobweb;1.0;0.011363636363636364;3.0;0.0;0
-1;113;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network database;2.0;0.022727272727272728;3.0;0.0;0
-1;113;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;interconnected network;2.0;0.011363636363636364;3.0;0.0;0
-1;128;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;series;1.0;0.05;1.5;0;0
-1;128;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;tables;1.0;0.1;1.5;0;0
-1;129;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;table;1.0;0.1;3.0;0.0;0
-1;129;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;stored;1.0;0.05;3.0;0.0;0
-1;129;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;type;1.0;0.05;1.5;0.0;0
-1;129;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;fields specific;2.0;0.05;3.0;0.0;0
-1;129;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;data;1.0;0.05;1.5;0.0;0
-1;130;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;relationships;1.0;0.0;3.0;0.0;0
-1;130;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;tables;1.0;0.1;1.5;0.0;0
-1;130;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;flexibility;1.0;0.0;3.0;0.0;0
-1;130;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;decades;1.0;0.05;3.0;0.0;0
-1;130;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;survived;1.0;0.05;3.0;0.0;0
-1;131;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;information;1.0;0.0;3.0;0.0;0
-1;131;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;time;1.0;0.05;3.0;0.0;0
-1;131;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;recall;1.0;0.05;3.0;0.0;0
-1;131;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;saves;1.0;0.05;3.0;0.0;0
-1;131;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;massive database;2.0;0.05;3.0;0.0;0
-1;131;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;query;1.0;0.05;3.0;0.0;0
-1;131;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;table;1.0;0.1;3.0;0.0;0
-1;131;https://www.techwalla.com/articles/advantages-disadvantages-relational-database-model;user enters data;3.0;0.05;3.0;0.0;0
-2;1;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database models;2.0;0.05;3.0;0.0;0
-2;1;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;based;1.0;0.05;3.0;0.0;0
-2;1;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database systems;2.0;0.05;3.0;0.0;0
-2;1;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;3.0;0.0;0
-2;2;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;3.0;0.0;0
-2;2;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database;1.0;0.05;3.0;0.0;0
-2;2;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;rules;1.0;0.05;3.0;0.0;0
-2;2;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data model;2.0;0.05;3.0;0.0;0
-2;2;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;collection;1.0;0.05;3.0;0.0;0
-2;2;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;concepts;1.0;0.05;3.0;0.0;0
-2;2;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;3.0;0.0;0
-2;3;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;relationships;1.0;0.0;3.0;0.0;0
-2;3;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;3.0;0.0;0
-2;3;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database means;2.0;0.05;3.0;0.0;0
-2;3;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data types;1.75;0.05;3.0;0.0;0
-2;3;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;storage;1.0;0.05;3.0;0.0;0
-2;3;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data;1.5;0.05;3.0;0.0;0
-2;3;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;3.0;0.0;0
-2;3;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;constraints;1.0;0.0;3.0;0.0;0
-2;4;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;3.0;0;0
-2;5;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;associations;1.0;0.0;3.0;0.0;0
-2;5;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;reality;1.0;0.041666666666666664;3.0;0.0;0
-2;5;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;real world  objects;2.25;0.041666666666666664;3.0;0.0;0
-2;5;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;representation;1.0;0.0;3.0;0.0;0
-2;5;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;model;1.0;0.041666666666666664;1.5;0.0;0
-2;5;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;events;1.0;0.041666666666666664;3.0;0.0;0
-2;6;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;abstraction;1.0;0.0;3.0;0.0;0
-2;6;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;inherent aspects;2.0;0.041666666666666664;3.0;0.0;0
-2;6;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accidental properties;2.0;0.041666666666666664;3.0;0.0;0
-2;6;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;ignores;1.0;0.041666666666666664;3.0;0.0;0
-2;6;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;concentrates;1.0;0.0;3.0;0.0;0
-2;6;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;3.0;0.0;0
-2;6;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;essential;1.0;0.041666666666666664;3.0;0.0;0
-2;7;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;3.0;0.0;0
-2;7;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;data model represents;3.0;0.041666666666666664;3.0;0.0;0
-2;8;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;database designers;2.0;0.041666666666666664;3.0;0.0;0
-2;8;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;provide;1.0;0.041666666666666664;3.0;0.0;0
-2;8;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;end users unambiguously;3.0;0.041666666666666664;3.0;0.0;0
-2;8;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;communicate;1.0;0.0;3.0;0.0;0
-2;8;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accurately;1.0;0.041666666666666664;3.0;0.0;0
-2;8;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;basic concepts;2.0;0.041666666666666664;3.0;0.0;0
-2;8;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;notations;1.0;0.041666666666666664;3.0;0.0;0
-2;8;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organizational data;2.0;0.041666666666666664;3.0;0.0;0
-2;8;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;understanding;1.0;0.0;3.0;0.0;0
-2;9;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.1;3.0;0;0
-2;10;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.1;3.0;0;0
-2;11;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.1;3.0;0;0
-2;12;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.1;3.0;0;0
-2;14;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.1;3.0;0;0
-2;15;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.1;3.0;0;0
-2;16;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.1;3.0;0.0;0
-2;16;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.1;1.5;0.0;0
-2;17;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.1;3.0;0;0
-2;18;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.1;3.0;0;0
-4;6;https://www.lucidchart.com/pages/database-diagram/database-models;kinds;1.0;0.0;6.0;0;0
-4;6;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.06666666666666667;1.5;0;0
-4;7;https://www.lucidchart.com/pages/database-diagram/database-models;include;1.0;0.06666666666666667;6.0;0;0
-4;7;https://www.lucidchart.com/pages/database-diagram/database-models;common;1.0;0.06666666666666667;6.0;0;0
-4;8;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical database model;3.0;0.06666666666666667;3.0;0;0
-4;9;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.06666666666666667;2.0;0;0
-4;10;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.06666666666666667;2.0;0;0
-4;11;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.06666666666666667;6.0;0;0
-4;12;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.06666666666666667;6.0;0;0
-4;13;https://www.lucidchart.com/pages/database-diagram/database-models;document model;2.0;0.06666666666666667;3.0;0;0
-4;14;https://www.lucidchart.com/pages/database-diagram/database-models;entity_attribute_value model;2.0;0.06666666666666667;6.0;0;0
-4;15;https://www.lucidchart.com/pages/database-diagram/database-models;star schema;2.0;0.06666666666666667;3.0;0;0
-4;16;https://www.lucidchart.com/pages/database-diagram/database-models;combines;1.0;0.06666666666666667;6.0;0.0;0
-4;16;https://www.lucidchart.com/pages/database-diagram/database-models;make;1.0;0.06666666666666667;6.0;0.0;0
-4;16;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.06666666666666667;6.0;0.0;0
-4;22;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.1;6.0;0;0
-4;23;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.1;3.0;0;0
-4;24;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.1;2.0;0;0
-4;25;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.1;2.0;0;0
-4;27;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.1;6.0;0;0
-4;28;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.1;3.0;0;0
-4;29;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.1;6.0;0.0;0
-4;29;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.1;3.0;0.0;0
-4;30;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.1;3.0;0;0
-4;31;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.1;6.0;0;0
-4;36;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.07142857142857142;6.0;0.0;0
-4;36;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;2.0;0.0;0
-4;36;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.07142857142857142;6.0;0.0;0
-4;37;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;6.0;0.0;0
-4;37;http://www.studytonight.com/dbms/database-model;parts;1.0;0.07142857142857142;6.0;0.0;0
-4;37;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;2.0;0.0;0
-4;37;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.07142857142857142;6.0;0.0;0
-4;38;http://www.studytonight.com/dbms/database-model;database design;2.0;0.07142857142857142;6.0;0.0;0
-4;38;http://www.studytonight.com/dbms/database-model;models;1.0;0.07142857142857142;6.0;0.0;0
-4;38;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;6.0;0.0;0
-4;38;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.07142857142857142;6.0;0.0;0
-4;39;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.07142857142857142;6.0;0;0
-4;40;http://www.studytonight.com/dbms/database-model;network model;2.0;0.07142857142857142;2.0;0;0
-4;41;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.07142857142857142;2.0;0;0
-4;43;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database models;2.0;0.05;6.0;0.0;0
-4;43;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;based;1.0;0.05;6.0;0.0;0
-4;43;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database systems;2.0;0.05;6.0;0.0;0
-4;43;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.0;0.0;0
-4;44;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;6.0;0.0;0
-4;44;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database;1.0;0.05;3.0;0.0;0
-4;44;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;rules;1.0;0.05;6.0;0.0;0
-4;44;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data model;2.0;0.05;6.0;0.0;0
-4;44;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;collection;1.0;0.05;6.0;0.0;0
-4;44;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;concepts;1.0;0.05;6.0;0.0;0
-4;44;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;6.0;0.0;0
-4;45;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;relationships;1.0;0.0;6.0;0.0;0
-4;45;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;6.0;0.0;0
-4;45;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database means;2.0;0.05;6.0;0.0;0
-4;45;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data types;1.75;0.05;6.0;0.0;0
-4;45;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;storage;1.0;0.05;6.0;0.0;0
-4;45;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data;1.5;0.05;1.5;0.0;0
-4;45;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;6.0;0.0;0
-4;45;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;constraints;1.0;0.0;6.0;0.0;0
-4;46;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.0;0;0
-4;47;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;associations;1.0;0.0;6.0;0.0;0
-4;47;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;reality;1.0;0.041666666666666664;6.0;0.0;0
-4;47;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;real world  objects;2.25;0.041666666666666664;6.0;0.0;0
-4;47;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;representation;1.0;0.0;6.0;0.0;0
-4;47;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;model;1.0;0.041666666666666664;3.0;0.0;0
-4;47;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;events;1.0;0.041666666666666664;6.0;0.0;0
-4;48;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;abstraction;1.0;0.0;6.0;0.0;0
-4;48;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;inherent aspects;2.0;0.041666666666666664;6.0;0.0;0
-4;48;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accidental properties;2.0;0.041666666666666664;6.0;0.0;0
-4;48;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;ignores;1.0;0.041666666666666664;6.0;0.0;0
-4;48;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;concentrates;1.0;0.0;6.0;0.0;0
-4;48;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;6.0;0.0;0
-4;48;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;essential;1.0;0.041666666666666664;6.0;0.0;0
-4;49;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;6.0;0.0;0
-4;49;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;data model represents;3.0;0.041666666666666664;6.0;0.0;0
-4;50;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;database designers;2.0;0.041666666666666664;6.0;0.0;0
-4;50;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;provide;1.0;0.041666666666666664;6.0;0.0;0
-4;50;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;end users unambiguously;3.0;0.041666666666666664;6.0;0.0;0
-4;50;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;communicate;1.0;0.0;6.0;0.0;0
-4;50;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accurately;1.0;0.041666666666666664;6.0;0.0;0
-4;50;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;basic concepts;2.0;0.041666666666666664;6.0;0.0;0
-4;50;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;notations;1.0;0.041666666666666664;6.0;0.0;0
-4;50;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organizational data;2.0;0.041666666666666664;6.0;0.0;0
-4;50;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;understanding;1.0;0.0;6.0;0.0;0
-4;51;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;3.0;0.14285714285714285;6.0;0;0
-4;51;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;database;1.0;0.07142857142857142;3.0;0;0
-4;51;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;modeled;1.0;0.07142857142857142;6.0;0;0
-4;51;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;logical structure;2.0;0.07142857142857142;6.0;0;0
-4;52;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;fundamental entities;2.0;0.07142857142857142;6.0;0.0;0
-4;52;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;introduce abstraction;2.0;0.07142857142857142;6.0;0.0;0
-4;52;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models;2.0;0.07142857142857142;1.5;0.0;0
-4;52;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;dbms;1.0;0.0;6.0;0.0;0
-4;53;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;2.6666666666666665;0.14285714285714285;6.0;0.0;0
-4;53;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;stored inside;2.0;0.07142857142857142;6.0;0.0;0
-4;53;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;system;1.0;0.07142857142857142;6.0;0.0;0
-4;53;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;connected;1.0;0.07142857142857142;6.0;0.0;0
-4;53;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;processed;1.0;0.07142857142857142;6.0;0.0;0
-4;53;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data;2.0;0.07142857142857142;1.5;0.0;0
-5;15;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;database management systems;3.0;0.011363636363636364;1.0;0;0
-5;30;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical database model;2.8333333333333335;0.011363636363636364;1.0;0.0;0
-5;30;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;learn;1.0;0.0;1.0;0.0;0
-5;30;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;databases;1.5;0.011363636363636364;1.0;0.0;0
-5;30;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical databases;2.0;0.045454545454545456;1.0;0.0;0
-5;31;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;simple;1.0;0.011363636363636364;1.0;0;0
-5;31;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;fast;1.0;0.011363636363636364;1.0;0;0
-5;32;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;information;1.0;0.0;1.0;0.0;0
-5;32;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical database;2.0;0.011363636363636364;1.0;0.0;0
-5;32;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;parent child relationships;3.0;0.011363636363636364;1.0;0.0;0
-5;32;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;tree structure;2.0;0.011363636363636364;1.0;0.0;0
-5;32;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;records;1.0;0.056818181818181816;1.0;0.0;0
-5;32;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;groups;1.0;0.011363636363636364;1.0;0.0;0
-5;33;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;repeating information;2.0;0.011363636363636364;1.0;0.0;0
-5;33;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;record;1.0;0.011363636363636364;1.0;0.0;0
-5;33;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;structure implies;2.0;0.011363636363636364;1.0;0.0;0
-5;34;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;field values attached;3.0;0.011363636363636364;1.0;0.0;0
-5;34;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;series;1.0;0.011363636363636364;1.0;0.0;0
-5;34;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;structure data;2.0;0.011363636363636364;1.0;0.0;0
-5;34;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;set;1.0;0.011363636363636364;1.0;0.0;0
-5;34;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;records;1.0;0.056818181818181816;1.0;0.0;0
-5;35;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;collects;1.0;0.011363636363636364;1.0;0.0;0
-5;35;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;record type;2.0;0.011363636363636364;1.0;0.0;0
-5;35;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;records;1.0;0.056818181818181816;1.0;0.0;0
-5;36;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;tables;1.0;0.011363636363636364;1.0;0.0;0
-5;36;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;rows;1.0;0.011363636363636364;1.0;0.0;0
-5;36;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;individual records;2.0;0.011363636363636364;1.0;0.0;0
-5;36;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;record types;2.0;0.022727272727272728;1.0;0.0;0
-5;36;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;equivalent;1.0;0.011363636363636364;1.0;0.0;0
-5;36;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;relational model;2.0;0.011363636363636364;1.0;0.0;0
-5;37;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;record types;2.0;0.022727272727272728;1.0;0.0;0
-5;37;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;create links;2.0;0.011363636363636364;1.0;0.0;0
-5;37;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical model;2.0;0.011363636363636364;1.0;0.0;0
-5;37;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;type relationships;2.0;0.011363636363636364;1.0;0.0;0
-5;52;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;relationships;1.0;0.0;1.0;0.0;0
-5;52;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;advance;1.0;0.011363636363636364;1.0;0.0;0
-5;52;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;records;1.0;0.056818181818181816;1.0;0.0;0
-5;52;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;defined;1.0;0.011363636363636364;1.0;0.0;0
-5;52;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;advantage hierarchical database;3.0;0.011363636363636364;1.0;0.0;0
-5;52;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;model structure;2.0;0.011363636363636364;1.0;0.0;0
-5;52;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;tree;1.0;0.022727272727272728;1.0;0.0;0
-5;52;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;updated rapidly;2.0;0.011363636363636364;1.0;0.0;0
-5;52;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;accessed;1.0;0.011363636363636364;1.0;0.0;0
-5;53;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;feature;1.0;0.011363636363636364;1.0;0.0;0
-5;53;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;two_edged;1.0;0.011363636363636364;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;relationships;1.0;0.0;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;database structure;2.0;0.011363636363636364;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;parent;1.0;0.011363636363636364;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;tree;1.0;0.022727272727272728;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;make sense;2.0;0.011363636363636364;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;permitted;1.0;0.011363636363636364;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;linkages;1.0;0.0;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;child;1.0;0.011363636363636364;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;logical standpoint;2.0;0.011363636363636364;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;type;1.0;0.011363636363636364;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;children;1.0;0.011363636363636364;1.0;0.0;0
-5;68;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;disadvantage;1.0;0.0;1.0;0.0;0
-5;69;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;design;1.0;0.011363636363636364;1.0;0.0;0
-5;69;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical databases;2.0;0.045454545454545456;1.0;0.0;0
-5;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;entire database;2.0;0.011363636363636364;1.0;0.0;0
-5;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;adding;1.0;0.011363636363636364;1.0;0.0;0
-5;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;redefined;1.0;0.011363636363636364;1.0;0.0;0
-5;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;record requires;2.0;0.011363636363636364;1.0;0.0;0
-5;70;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;field;1.0;0.011363636363636364;1.0;0.0;0
-5;71;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;large digital computers;3.0;0.011363636363636364;1.0;0.0;0
-5;71;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network database;2.0;0.022727272727272728;1.0;0.0;0
-5;71;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network databases;2.0;0.045454545454545456;1.0;0.0;0
-5;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;limitations;1.0;0.0;1.0;0.0;0
-5;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;kind;1.0;0.0;1.0;0.0;0
-5;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;made;1.0;0.011363636363636364;1.0;0.0;0
-5;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;database;1.0;0.011363636363636364;1.0;0.0;0
-5;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;considered;1.0;0.011363636363636364;1.0;0.0;0
-5;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;connections;1.0;0.0;1.0;0.0;0
-5;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;efficiency;1.0;0.011363636363636364;1.0;0.0;0
-5;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;data;1.0;0.011363636363636364;1.0;0.0;0
-5;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network databases;2.0;0.045454545454545456;1.0;0.0;0
-5;72;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;types;1.0;0.011363636363636364;1.0;0.0;0
-5;73;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;similar;1.0;0.022727272727272728;1.0;0.0;0
-5;73;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network databases;2.0;0.045454545454545456;1.0;0.0;0
-5;73;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical databases;2.0;0.045454545454545456;1.0;0.0;0
-5;74;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical structure;2.0;0.011363636363636364;1.0;0.0;0
-5;74;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;similar;1.0;0.022727272727272728;1.0;0.0;0
-5;74;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network databases;2.0;0.045454545454545456;1.0;0.0;0
-5;74;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;hierarchical databases;2.0;0.045454545454545456;1.0;0.0;0
-5;75;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;records;1.0;0.056818181818181816;1.0;0.0;0
-5;75;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;cobweb;1.0;0.011363636363636364;1.0;0.0;0
-5;75;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;network database;2.0;0.022727272727272728;1.0;0.0;0
-5;75;http://www.c-sharpcorner.com/UploadFile/65fc13/types-of-database-management-systems/;interconnected network;2.0;0.011363636363636364;1.0;0.0;0
-6;6;http://www.mbaofficial.com/mba-courses/management-information-system/explain-the-the-database-model/;database models generally;3.0;0.25;8.0;0.0;0
-6;6;http://www.mbaofficial.com/mba-courses/management-information-system/explain-the-the-database-model/;business organizations;2.0;0.25;8.0;0.0;0
-6;6;http://www.mbaofficial.com/mba-courses/management-information-system/explain-the-the-database-model/;categorized;1.0;0.0;8.0;0.0;0
-6;6;http://www.mbaofficial.com/mba-courses/management-information-system/explain-the-the-database-model/;types;1.0;0.25;2.6666666666666665;0.0;0
-6;7;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;database models;2.0;0.047619047619047616;2.6666666666666665;0;0
-6;7;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;industry;1.0;0.09523809523809523;8.0;0;0
-6;7;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;common;1.0;0.047619047619047616;8.0;0;0
-6;7;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;types;1.0;0.047619047619047616;2.6666666666666665;0;0
-6;8;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;hierarchical data model;3.0;0.047619047619047616;8.0;0;0
-6;8;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;network data model;3.0;0.047619047619047616;8.0;0;0
-6;8;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;relational data model;3.0;0.047619047619047616;8.0;0;0
-6;9;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;models;1.0;0.047619047619047616;4.0;0.0;0
-6;9;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;industry;1.0;0.09523809523809523;8.0;0.0;0
-6;9;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;similar situation exists;3.0;0.047619047619047616;8.0;0.0;0
-6;9;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;applicable;1.0;0.047619047619047616;8.0;0.0;0
-6;9;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;nature;1.0;0.047619047619047616;8.0;0.0;0
-6;10;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;fourth model;2.0;0.047619047619047616;8.0;0.0;0
-6;10;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;objects;1.0;0.047619047619047616;8.0;0.0;0
-6;10;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;models providing flexibility;3.0;0.047619047619047616;8.0;0.0;0
-6;10;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;structured;1.0;0.047619047619047616;8.0;0.0;0
-6;10;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;application;1.0;0.0;8.0;0.0;0
-6;10;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;compared;1.0;0.047619047619047616;8.0;0.0;0
-6;10;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;designing;1.0;0.047619047619047616;8.0;0.0;0
-6;10;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;data;1.0;0.047619047619047616;2.6666666666666665;0.0;0
-6;10;http://www.openlearningworld.com/books/Fundamentals%2520of%2520MIS/DATABASE%2520AND%2520ENTERPRISE%2520MANAGEMENT%2520SYSTEMS/Database%2520Models.html;higher level;2.0;0.047619047619047616;8.0;0.0;0
-6;11;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.1;8.0;0;0
-6;12;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.1;4.0;0;0
-6;13;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.1;2.6666666666666665;0;0
-6;14;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.1;2.6666666666666665;0;0
-6;16;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.1;8.0;0;0
-6;17;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.1;8.0;0;0
-6;18;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.1;8.0;0.0;0
-6;18;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.1;2.6666666666666665;0.0;0
-6;19;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.1;8.0;0;0
-6;20;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.1;8.0;0;0
-6;37;http://www.c-sharpcorner.com/uploadfile/65fc13/types-of-database-management-systems/;database management systems;3.0;0.16666666666666666;8.0;0;0
-6;37;http://www.c-sharpcorner.com/uploadfile/65fc13/types-of-database-management-systems/;structural types;2.0;0.16666666666666666;8.0;0;0
-6;38;http://www.c-sharpcorner.com/uploadfile/65fc13/types-of-database-management-systems/;hierarchical databases;2.0;0.16666666666666666;8.0;0;0
-6;39;http://www.c-sharpcorner.com/uploadfile/65fc13/types-of-database-management-systems/;network databases;2.0;0.16666666666666666;8.0;0;0
-6;40;http://www.c-sharpcorner.com/uploadfile/65fc13/types-of-database-management-systems/;relational databases;2.0;0.16666666666666666;8.0;0;0
-6;41;http://www.c-sharpcorner.com/uploadfile/65fc13/types-of-database-management-systems/;object_oriented databases;2.0;0.16666666666666666;8.0;0;0
-6;56;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;associations;1.0;0.0;8.0;0.0;0
-6;56;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;reality;1.0;0.041666666666666664;8.0;0.0;0
-6;56;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;real world  objects;2.25;0.041666666666666664;8.0;0.0;0
-6;56;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;representation;1.0;0.0;8.0;0.0;0
-6;56;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;model;1.0;0.041666666666666664;2.6666666666666665;0.0;0
-6;56;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;events;1.0;0.041666666666666664;8.0;0.0;0
-6;57;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;abstraction;1.0;0.0;8.0;0.0;0
-6;57;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;inherent aspects;2.0;0.041666666666666664;8.0;0.0;0
-6;57;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accidental properties;2.0;0.041666666666666664;8.0;0.0;0
-6;57;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;ignores;1.0;0.041666666666666664;8.0;0.0;0
-6;57;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;concentrates;1.0;0.0;8.0;0.0;0
-6;57;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;8.0;0.0;0
-6;57;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;essential;1.0;0.041666666666666664;8.0;0.0;0
-6;58;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;8.0;0.0;0
-6;58;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;data model represents;3.0;0.041666666666666664;8.0;0.0;0
-6;59;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;database designers;2.0;0.041666666666666664;8.0;0.0;0
-6;59;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;provide;1.0;0.041666666666666664;8.0;0.0;0
-6;59;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;end users unambiguously;3.0;0.041666666666666664;8.0;0.0;0
-6;59;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;communicate;1.0;0.0;8.0;0.0;0
-6;59;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accurately;1.0;0.041666666666666664;8.0;0.0;0
-6;59;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;basic concepts;2.0;0.041666666666666664;8.0;0.0;0
-6;59;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;notations;1.0;0.041666666666666664;8.0;0.0;0
-6;59;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organizational data;2.0;0.041666666666666664;8.0;0.0;0
-6;59;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;understanding;1.0;0.0;8.0;0.0;0
-6;60;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;oldest database models;3.0;0.034482758620689655;8.0;0.0;0
-6;60;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;hierarchical database model;3.0;0.034482758620689655;4.0;0.0;0
-6;60;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;dating;1.0;0.034482758620689655;8.0;0.0;0
-6;60;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;late 1950s;2.0;0.034482758620689655;8.0;0.0;0
-6;61;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;developed jointly;2.0;0.034482758620689655;8.0;0.0;0
-6;61;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;ibm;1.0;0.0;8.0;0.0;0
-6;62;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;branches;1.0;0.034482758620689655;8.0;0.0;0
-6;62;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;records forming;2.0;0.034482758620689655;8.0;0.0;0
-6;62;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;tree;1.0;0.034482758620689655;8.0;0.0;0
-6;62;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;fields forming;2.0;0.034482758620689655;8.0;0.0;0
-6;62;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;model;1.0;0.034482758620689655;2.6666666666666665;0.0;0
-6;62;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;nodes;1.0;0.034482758620689655;8.0;0.0;0
-6;62;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;structure;1.0;0.034482758620689655;8.0;0.0;0
-6;74;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier record;2.25;0.06896551724137931;8.0;0.0;0
-6;74;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;tree structure;2.0;0.034482758620689655;8.0;0.0;0
-6;74;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;parts record superior;2.8333333333333335;0.034482758620689655;8.0;0.0;0
-6;75;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;parts form;2.0;0.034482758620689655;8.0;0;0
-6;75;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier forms;2.0;0.034482758620689655;8.0;0;0
-6;75;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;children;1.0;0.034482758620689655;8.0;0;0
-6;75;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;parent;1.0;0.034482758620689655;8.0;0;0
-6;76;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;consists;1.0;0.034482758620689655;8.0;0;0
-6;76;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;set;1.0;0.034482758620689655;8.0;0;0
-6;76;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;trees figure;2.0;0.034482758620689655;8.0;0;0
-6;76;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;part record occurrence;3.0;0.034482758620689655;8.0;0;0
-6;77;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier record;1.75;0.06896551724137931;8.0;0;0
-6;77;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier;1.5;0.034482758620689655;8.0;0;0
-6;77;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;part;1.0;0.034482758620689655;8.0;0;0
-6;78;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier occurrence includes;3.0;0.034482758620689655;8.0;0.0;0
-6;78;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;shipment quantity;2.0;0.034482758620689655;8.0;0.0;0
-6;85;https://www.lucidchart.com/pages/database-diagram/database-models;database models;2.0;0.16666666666666666;4.0;0;0
-6;85;https://www.lucidchart.com/pages/database-diagram/database-models;types;1.0;0.08333333333333333;2.6666666666666665;0;0
-6;86;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.08333333333333333;2.6666666666666665;0;0
-6;87;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical model;2.0;0.08333333333333333;4.0;0;0
-6;88;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.08333333333333333;2.6666666666666665;0;0
-6;89;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.08333333333333333;8.0;0;0
-6;90;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.08333333333333333;8.0;0;0
-6;91;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.08333333333333333;8.0;0;0
-6;92;https://www.lucidchart.com/pages/database-diagram/database-models;database models;2.0;0.16666666666666666;4.0;0;0
-6;93;https://www.lucidchart.com/pages/database-diagram/database-models;nosql database models;3.0;0.08333333333333333;8.0;0;0
-6;94;https://www.lucidchart.com/pages/database-diagram/database-models;web;1.0;0.08333333333333333;8.0;0;0
-6;94;https://www.lucidchart.com/pages/database-diagram/database-models;databases;1.0;0.08333333333333333;8.0;0;0
-6;100;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.07142857142857142;8.0;0.0;0
-6;100;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;4.0;0.0;0
-6;100;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.07142857142857142;8.0;0.0;0
-6;101;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;8.0;0.0;0
-6;101;http://www.studytonight.com/dbms/database-model;parts;1.0;0.07142857142857142;8.0;0.0;0
-6;101;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;4.0;0.0;0
-6;101;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.07142857142857142;8.0;0.0;0
-6;102;http://www.studytonight.com/dbms/database-model;database design;2.0;0.07142857142857142;8.0;0.0;0
-6;102;http://www.studytonight.com/dbms/database-model;models;1.0;0.07142857142857142;4.0;0.0;0
-6;102;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;8.0;0.0;0
-6;102;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.07142857142857142;8.0;0.0;0
-6;103;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.07142857142857142;4.0;0;0
-6;104;http://www.studytonight.com/dbms/database-model;network model;2.0;0.07142857142857142;2.6666666666666665;0;0
-6;105;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.07142857142857142;2.6666666666666665;0;0
-7;1;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;5.0;0;1
-7;2;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;2.5;0;1
-7;3;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;2.5;0;1
-7;4;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;2.5;0;1
-7;6;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;5.0;0;1
-7;7;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;2.5;0;1
-7;8;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;5.0;0.0;1
-7;8;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;2.5;0.0;1
-7;9;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;2.5;0;1
-7;10;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;5.0;0;1
-7;13;https://www.lucidchart.com/pages/database-diagram/database-models;kinds;1.0;0.0;5.0;0;0
-7;13;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.06666666666666667;1.6666666666666667;0;0
-7;14;https://www.lucidchart.com/pages/database-diagram/database-models;include;1.0;0.06666666666666667;5.0;0;0
-7;14;https://www.lucidchart.com/pages/database-diagram/database-models;common;1.0;0.06666666666666667;5.0;0;0
-7;15;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical database model;3.0;0.06666666666666667;1.6666666666666667;0;0
-7;16;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.06666666666666667;1.6666666666666667;0;0
-7;17;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.06666666666666667;1.6666666666666667;0;0
-7;18;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.06666666666666667;5.0;0;0
-7;19;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.06666666666666667;5.0;0;0
-7;20;https://www.lucidchart.com/pages/database-diagram/database-models;document model;2.0;0.06666666666666667;1.6666666666666667;0;0
-7;21;https://www.lucidchart.com/pages/database-diagram/database-models;entity_attribute_value model;2.0;0.06666666666666667;5.0;0;0
-7;22;https://www.lucidchart.com/pages/database-diagram/database-models;star schema;2.0;0.06666666666666667;1.6666666666666667;0;0
-7;23;https://www.lucidchart.com/pages/database-diagram/database-models;combines;1.0;0.06666666666666667;5.0;0.0;0
-7;23;https://www.lucidchart.com/pages/database-diagram/database-models;make;1.0;0.06666666666666667;5.0;0.0;0
-7;23;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.06666666666666667;5.0;0.0;0
-7;57;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;5.0;0;0
-7;58;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;2.5;0;0
-7;59;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;2.5;0;0
-7;60;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;2.5;0;0
-7;62;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;5.0;0;0
-7;63;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;2.5;0;0
-7;64;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;5.0;0.0;0
-7;64;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;2.5;0.0;0
-7;65;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;2.5;0;0
-7;66;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;5.0;0;0
-7;69;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database models;2.0;0.09090909090909091;5.0;0;0
-7;70;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;glossary;1.0;0.045454545454545456;5.0;0;0
-7;71;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database models;2.0;0.09090909090909091;5.0;0.0;0
-7;71;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;based;1.0;0.045454545454545456;5.0;0.0;0
-7;71;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database systems;2.0;0.045454545454545456;5.0;0.0;0
-7;71;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.09090909090909091;2.5;0.0;0
-7;72;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;5.0;0.0;0
-7;72;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database;1.0;0.045454545454545456;5.0;0.0;0
-7;72;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;rules;1.0;0.045454545454545456;5.0;0.0;0
-7;72;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data model;2.0;0.045454545454545456;5.0;0.0;0
-7;72;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;collection;1.0;0.045454545454545456;5.0;0.0;0
-7;72;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;concepts;1.0;0.045454545454545456;5.0;0.0;0
-7;72;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.09090909090909091;5.0;0.0;0
-7;73;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;relationships;1.0;0.0;5.0;0.0;0
-7;73;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;5.0;0.0;0
-7;73;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database means;2.0;0.045454545454545456;5.0;0.0;0
-7;73;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data types;1.75;0.045454545454545456;5.0;0.0;0
-7;73;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;storage;1.0;0.045454545454545456;5.0;0.0;0
-7;73;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data;1.5;0.045454545454545456;5.0;0.0;0
-7;73;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.09090909090909091;5.0;0.0;0
-7;73;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;constraints;1.0;0.0;5.0;0.0;0
-7;74;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.09090909090909091;2.5;0;0
-7;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;associations;1.0;0.0;5.0;0.0;0
-7;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;reality;1.0;0.041666666666666664;5.0;0.0;0
-7;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;real world  objects;2.25;0.041666666666666664;5.0;0.0;0
-7;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;representation;1.0;0.0;5.0;0.0;0
-7;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;model;1.0;0.041666666666666664;1.6666666666666667;0.0;0
-7;75;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;events;1.0;0.041666666666666664;5.0;0.0;0
-7;76;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;abstraction;1.0;0.0;5.0;0.0;0
-7;76;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;inherent aspects;2.0;0.041666666666666664;5.0;0.0;0
-7;76;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accidental properties;2.0;0.041666666666666664;5.0;0.0;0
-7;76;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;ignores;1.0;0.041666666666666664;5.0;0.0;0
-7;76;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;concentrates;1.0;0.0;5.0;0.0;0
-7;76;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;5.0;0.0;0
-7;76;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;essential;1.0;0.041666666666666664;5.0;0.0;0
-7;77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;5.0;0.0;0
-7;77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;data model represents;3.0;0.041666666666666664;5.0;0.0;0
-7;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;database designers;2.0;0.041666666666666664;5.0;0.0;0
-7;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;provide;1.0;0.041666666666666664;5.0;0.0;0
-7;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;end users unambiguously;3.0;0.041666666666666664;5.0;0.0;0
-7;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;communicate;1.0;0.0;5.0;0.0;0
-7;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accurately;1.0;0.041666666666666664;5.0;0.0;0
-7;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;basic concepts;2.0;0.041666666666666664;5.0;0.0;0
-7;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;notations;1.0;0.041666666666666664;5.0;0.0;0
-7;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organizational data;2.0;0.041666666666666664;5.0;0.0;0
-7;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;understanding;1.0;0.0;5.0;0.0;0
-8;1;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;6.0;0;1
-8;2;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;3.0;0;1
-8;3;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;2.0;0;1
-8;4;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;1.5;0;1
-8;6;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;6.0;0;1
-8;7;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;3.0;0;1
-8;8;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;6.0;0.0;1
-8;8;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;3.0;0.0;1
-8;9;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;3.0;0;1
-8;10;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;6.0;0;1
-8;15;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;database design;2.0;0.05;2.0;0.0;0
-8;15;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;process;1.0;0.05;2.0;0.0;0
-8;15;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;real world;2.0;0.1;6.0;0.0;0
-8;15;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;enterprise;1.0;0.1;6.0;0.0;0
-8;15;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;modeling;1.0;0.05;6.0;0.0;0
-8;16;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;database;1.0;0.05;2.0;1.0;0
-8;16;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;enterprise;1.0;0.1;6.0;1.0;0
-8;16;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;model;1.0;0.05;2.0;1.0;0
-8;16;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;real world;2.0;0.1;6.0;1.0;0
-8;16;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;fact;1.0;0.05;6.0;1.0;0
-8;16;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;selected information needed;3.0;0.05;6.0;1.0;0
-8;17;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;formally;1.0;0.05;6.0;0;0
-8;17;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;intuitive;1.0;0.05;6.0;0;0
-8;17;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;models;1.0;0.05;3.0;0;0
-8;17;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;languages;1.0;0.0;6.0;0;0
-8;17;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;informal;1.0;0.05;6.0;0;0
-8;17;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;designers;1.0;0.05;6.0;0;0
-8;17;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;mathematically defined;2.0;0.05;6.0;0;0
-8;18;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;tutorial;1.0;0.05;6.0;0.0;0
-8;18;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;present;1.0;0.05;6.0;0.0;0
-8;19;https://www.lucidchart.com/pages/database-diagram/database-models;kinds;1.0;0.0;6.0;0;0
-8;19;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.06666666666666667;6.0;0;0
-8;20;https://www.lucidchart.com/pages/database-diagram/database-models;include;1.0;0.06666666666666667;6.0;0;0
-8;20;https://www.lucidchart.com/pages/database-diagram/database-models;common;1.0;0.06666666666666667;6.0;0;0
-8;21;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical database model;3.0;0.06666666666666667;2.0;0;0
-8;22;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.06666666666666667;1.2;0;0
-8;23;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.06666666666666667;1.5;0;0
-8;24;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.06666666666666667;6.0;0;0
-8;25;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.06666666666666667;6.0;0;0
-8;26;https://www.lucidchart.com/pages/database-diagram/database-models;document model;2.0;0.06666666666666667;2.0;0;0
-8;27;https://www.lucidchart.com/pages/database-diagram/database-models;entity_attribute_value model;2.0;0.06666666666666667;6.0;0;0
-8;28;https://www.lucidchart.com/pages/database-diagram/database-models;star schema;2.0;0.06666666666666667;2.0;0;0
-8;29;https://www.lucidchart.com/pages/database-diagram/database-models;combines;1.0;0.06666666666666667;6.0;0.0;0
-8;29;https://www.lucidchart.com/pages/database-diagram/database-models;make;1.0;0.06666666666666667;6.0;0.0;0
-8;29;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.06666666666666667;6.0;0.0;0
-8;35;https://en.wikipedia.org/wiki/Database_design;database design;1.75;0.022222222222222223;2.0;0.0;0
-8;35;https://en.wikipedia.org/wiki/Database_design;process;1.0;0.044444444444444446;3.0;0.0;0
-8;35;https://en.wikipedia.org/wiki/Database_design;detailed data model;3.0;0.022222222222222223;6.0;0.0;0
-8;35;https://en.wikipedia.org/wiki/Database_design;producing;1.0;0.022222222222222223;6.0;0.0;0
-8;35;https://en.wikipedia.org/wiki/Database_design;database;1.5;0.044444444444444446;3.0;0.0;0
-8;36;https://en.wikipedia.org/wiki/Database_design;needed logical;2.0;0.022222222222222223;6.0;0.0;0
-8;36;https://en.wikipedia.org/wiki/Database_design;data definition language;2.8333333333333335;0.022222222222222223;6.0;0.0;0
-8;36;https://en.wikipedia.org/wiki/Database_design;create;1.0;0.022222222222222223;6.0;0.0;0
-8;36;https://en.wikipedia.org/wiki/Database_design;database;1.0;0.044444444444444446;3.0;0.0;0
-8;36;https://en.wikipedia.org/wiki/Database_design;data model;2.25;0.022222222222222223;6.0;0.0;0
-8;36;https://en.wikipedia.org/wiki/Database_design;physical design choices;2.6666666666666665;0.022222222222222223;6.0;0.0;0
-8;36;https://en.wikipedia.org/wiki/Database_design;design;2.0;0.044444444444444446;6.0;0.0;0
-8;36;https://en.wikipedia.org/wiki/Database_design;generate;1.0;0.022222222222222223;6.0;0.0;0
-8;37;https://en.wikipedia.org/wiki/Database_design;detailed attributes;2.0;0.022222222222222223;6.0;0.0;0
-8;37;https://en.wikipedia.org/wiki/Database_design;entity;1.0;0.022222222222222223;6.0;0.0;0
-8;40;https://en.wikipedia.org/wiki/Database_design;parts;1.0;0.022222222222222223;3.0;0.0;0
-8;40;https://en.wikipedia.org/wiki/Database_design;describe;1.0;0.022222222222222223;6.0;0.0;0
-8;40;https://en.wikipedia.org/wiki/Database_design;design;2.0;0.044444444444444446;6.0;0.0;0
-8;40;https://en.wikipedia.org/wiki/Database_design;term database design;2.5;0.044444444444444446;6.0;0.0;0
-8;40;https://en.wikipedia.org/wiki/Database_design;database system;2.25;0.022222222222222223;6.0;0.0;0
-8;41;https://en.wikipedia.org/wiki/Database_design;thought;1.0;0.022222222222222223;6.0;0.0;0
-8;41;https://en.wikipedia.org/wiki/Database_design;base data structures;2.6666666666666665;0.044444444444444446;6.0;0.0;0
-8;41;https://en.wikipedia.org/wiki/Database_design;correctly;1.0;0.022222222222222223;6.0;0.0;0
-8;41;https://en.wikipedia.org/wiki/Database_design;logical design;2.0;0.022222222222222223;3.0;0.0;0
-8;41;https://en.wikipedia.org/wiki/Database_design;principally;1.0;0.0;6.0;0.0;0
-8;41;https://en.wikipedia.org/wiki/Database_design;data;2.0;0.022222222222222223;2.0;0.0;0
-8;41;https://en.wikipedia.org/wiki/Database_design;store;1.0;0.022222222222222223;6.0;0.0;0
-8;42;https://en.wikipedia.org/wiki/Database_design;relational model;2.0;0.022222222222222223;1.2;0;0
-8;42;https://en.wikipedia.org/wiki/Database_design;tables;1.0;0.022222222222222223;6.0;0;0
-8;42;https://en.wikipedia.org/wiki/Database_design;views;1.0;0.022222222222222223;6.0;0;0
-8;43;https://en.wikipedia.org/wiki/Database_design;relationships map directly;2.8333333333333335;0.022222222222222223;6.0;0;0
-8;43;https://en.wikipedia.org/wiki/Database_design;entities;1.0;0.022222222222222223;6.0;0;0
-8;43;https://en.wikipedia.org/wiki/Database_design;object classes;2.0;0.022222222222222223;6.0;0;0
-8;43;https://en.wikipedia.org/wiki/Database_design;named relationships;2.25;0.022222222222222223;6.0;0;0
-8;43;https://en.wikipedia.org/wiki/Database_design;object database;2.0;0.022222222222222223;6.0;0;0
-8;44;https://en.wikipedia.org/wiki/Database_design;database application;2.333333333335;0.022222222222222223;6.0;0.0;0
-8;44;https://en.wikipedia.org/wiki/Database_design;process;1.0;0.044444444444444446;3.0;0.0;0
-8;44;https://en.wikipedia.org/wiki/Database_design;queries;1.0;0.022222222222222223;6.0;0.0;0
-8;44;https://en.wikipedia.org/wiki/Database_design;term database design;2.88888888889;0.044444444444444446;6.0;0.0;0
-8;44;https://en.wikipedia.org/wiki/Database_design;forms;1.0;0.022222222222222223;6.0;0.0;0
-8;44;https://en.wikipedia.org/wiki/Database_design;base data structures;3.0;0.044444444444444446;6.0;0.0;0
-8;44;https://en.wikipedia.org/wiki/Database_design;part;1.0;0.022222222222222223;6.0;0.0;0
-8;44;https://en.wikipedia.org/wiki/Database_design;database management system;2.88888888889;0.022222222222222223;6.0;0.0;0
-8;44;https://en.wikipedia.org/wiki/Database_design;designing;1.0;0.022222222222222223;6.0;0.0;0
-8;44;https://en.wikipedia.org/wiki/Database_design;apply;1.0;0.022222222222222223;6.0;0.0;0
-8;47;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;6.0;0;0
-8;48;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;3.0;0;0
-8;49;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;2.0;0;0
-8;50;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;1.5;0;0
-8;52;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;6.0;0;0
-8;53;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;3.0;0;0
-8;54;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;6.0;0.0;0
-8;54;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;3.0;0.0;0
-8;55;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;3.0;0;0
-8;56;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;6.0;0;0
-8;59;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.07142857142857142;6.0;0.0;0
-8;59;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;3.0;0.0;0
-8;59;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.07142857142857142;3.0;0.0;0
-8;60;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;6.0;0.0;0
-8;60;http://www.studytonight.com/dbms/database-model;parts;1.0;0.07142857142857142;3.0;0.0;0
-8;60;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;3.0;0.0;0
-8;60;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.07142857142857142;6.0;0.0;0
-8;61;http://www.studytonight.com/dbms/database-model;database design;2.0;0.07142857142857142;2.0;0.0;0
-8;61;http://www.studytonight.com/dbms/database-model;models;1.0;0.07142857142857142;3.0;0.0;0
-8;61;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;6.0;0.0;0
-8;61;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.07142857142857142;6.0;0.0;0
-8;62;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.07142857142857142;6.0;0;0
-8;63;http://www.studytonight.com/dbms/database-model;network model;2.0;0.07142857142857142;1.5;0;0
-8;64;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.07142857142857142;1.2;0;0
-9;1;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;8.0;0;1
-9;2;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;4.0;0;1
-9;3;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;2.6666666666666665;0;1
-9;4;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;2.6666666666666665;0;1
-9;6;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;8.0;0;1
-9;7;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;4.0;0;1
-9;8;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;8.0;0.0;1
-9;8;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;4.0;0.0;1
-9;9;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;4.0;0;1
-9;10;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;8.0;0;1
-9;13;https://www.lucidchart.com/pages/database-diagram/database-models;kinds;1.0;0.0;8.0;0;0
-9;13;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.06666666666666667;1.3333333333333333;0;0
-9;14;https://www.lucidchart.com/pages/database-diagram/database-models;include;1.0;0.06666666666666667;8.0;0;0
-9;14;https://www.lucidchart.com/pages/database-diagram/database-models;common;1.0;0.06666666666666667;8.0;0;0
-9;15;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical database model;3.0;0.06666666666666667;2.6666666666666665;0;0
-9;16;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.06666666666666667;2.0;0;0
-9;17;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.06666666666666667;2.0;0;0
-9;18;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.06666666666666667;8.0;0;0
-9;19;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.06666666666666667;2.6666666666666665;0;0
-9;20;https://www.lucidchart.com/pages/database-diagram/database-models;document model;2.0;0.06666666666666667;2.6666666666666665;0;0
-9;21;https://www.lucidchart.com/pages/database-diagram/database-models;entity_attribute_value model;2.0;0.06666666666666667;8.0;0;0
-9;22;https://www.lucidchart.com/pages/database-diagram/database-models;star schema;2.0;0.06666666666666667;2.6666666666666665;0;0
-9;23;https://www.lucidchart.com/pages/database-diagram/database-models;combines;1.0;0.06666666666666667;8.0;0.0;0
-9;23;https://www.lucidchart.com/pages/database-diagram/database-models;make;1.0;0.06666666666666667;8.0;0.0;0
-9;23;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.06666666666666667;8.0;0.0;0
-9;29;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;8.0;0;0
-9;30;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;4.0;0;0
-9;31;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;2.6666666666666665;0;0
-9;32;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;2.6666666666666665;0;0
-9;34;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;8.0;0;0
-9;35;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;4.0;0;0
-9;36;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;8.0;0.0;0
-9;36;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;4.0;0.0;0
-9;37;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;4.0;0;0
-9;38;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;8.0;0;0
-9;41;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;close;1.0;0.03333333333333333;8.0;0.0;0
-9;41;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;provide concepts;2.0;0.03333333333333333;8.0;0.0;0
-9;41;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;data;2.0;0.03333333333333333;1.3333333333333333;0.0;0
-9;41;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;present;1.0;0.03333333333333333;8.0;0.0;0
-9;41;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;people perceive data;2.6666666666666665;0.03333333333333333;8.0;0.0;0
-9;42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;relationships;1.0;0.0;8.0;1.0;0
-9;42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;entities;1.0;0.06666666666666667;8.0;1.0;0
-9;42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;typical;1.0;0.03333333333333333;8.0;1.0;0
-9;42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;attributes;1.0;0.06666666666666667;8.0;1.0;0
-9;42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;entity relationship model;3.0;0.03333333333333333;2.6666666666666665;1.0;0
-9;42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;type;1.0;0.03333333333333333;8.0;1.0;0
-9;42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;main concepts;2.0;0.03333333333333333;8.0;1.0;0
-9;43;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;employee;1.0;0.1;8.0;0.0;0
-9;43;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;project;1.0;0.06666666666666667;8.0;0.0;0
-9;43;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;entity represents;2.0;0.03333333333333333;8.0;0.0;0
-9;43;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;real_world object;2.0;0.03333333333333333;8.0;0.0;0
-9;44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;represents properties;2.0;0.03333333333333333;8.0;0.0;0
-9;44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;birthdate;1.0;0.0;8.0;0.0;0
-9;44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;entity;1.0;0.03333333333333333;8.0;0.0;0
-9;44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;address;1.0;0.03333333333333333;8.0;0.0;0
-9;44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;employee;1.0;0.1;8.0;0.0;0
-9;44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;attributes;1.0;0.06666666666666667;8.0;0.0;0
-9;45;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;employee works;2.0;0.03333333333333333;8.0;0.0;0
-9;45;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;entities;1.0;0.06666666666666667;8.0;0.0;0
-9;45;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;relationship represents;2.0;0.03333333333333333;8.0;0.0;0
-9;45;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;projects;1.0;0.03333333333333333;8.0;0.0;0
-9;45;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;association;1.0;0.0;8.0;0.0;0
-9;46;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;employee;1.0;0.1;8.0;0.0;0
-9;46;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;project;1.0;0.06666666666666667;8.0;0.0;0
-9;46;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;relationship exists;2.0;0.03333333333333333;8.0;0.0;0
-9;48;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database models;2.0;0.05;8.0;0.0;0
-9;48;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;based;1.0;0.05;4.0;0.0;0
-9;48;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database systems;2.0;0.05;8.0;0.0;0
-9;48;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.6666666666666665;0.0;0
-9;49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;8.0;0.0;0
-9;49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database;1.0;0.05;4.0;0.0;0
-9;49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;rules;1.0;0.05;8.0;0.0;0
-9;49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data model;2.0;0.05;8.0;0.0;0
-9;49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;collection;1.0;0.05;8.0;0.0;0
-9;49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;concepts;1.0;0.05;8.0;0.0;0
-9;49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;8.0;0.0;0
-9;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;relationships;1.0;0.0;8.0;0.0;0
-9;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;8.0;0.0;0
-9;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database means;2.0;0.05;8.0;0.0;0
-9;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data types;1.75;0.05;8.0;0.0;0
-9;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;storage;1.0;0.05;8.0;0.0;0
-9;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data;1.5;0.05;1.6;0.0;0
-9;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;8.0;0.0;0
-9;50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;constraints;1.0;0.0;8.0;0.0;0
-9;51;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.6666666666666665;0;0
-9;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database models;2.0;0.05;8.0;0.0;0
-9;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;based;1.0;0.05;4.0;0.0;0
-9;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database systems;2.0;0.05;8.0;0.0;0
-9;52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.6666666666666665;0.0;0
-9;53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;8.0;0.0;0
-9;53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database;1.0;0.05;4.0;0.0;0
-9;53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;rules;1.0;0.05;8.0;0.0;0
-9;53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data model;2.0;0.05;8.0;0.0;0
-9;53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;collection;1.0;0.05;8.0;0.0;0
-9;53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;concepts;1.0;0.05;8.0;0.0;0
-9;53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;8.0;0.0;0
-9;54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;relationships;1.0;0.0;8.0;0.0;0
-9;54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;8.0;0.0;0
-9;54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database means;2.0;0.05;8.0;0.0;0
-9;54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data types;1.75;0.05;8.0;0.0;0
-9;54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;storage;1.0;0.05;8.0;0.0;0
-9;54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data;1.5;0.05;1.6;0.0;0
-9;54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;8.0;0.0;0
-9;54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;constraints;1.0;0.0;8.0;0.0;0
-9;55;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.6666666666666665;0;0
-9;56;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.07142857142857142;8.0;0.0;0
-9;56;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;1.6;0.0;0
-9;56;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.07142857142857142;8.0;0.0;0
-9;57;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;8.0;0.0;0
-9;57;http://www.studytonight.com/dbms/database-model;parts;1.0;0.07142857142857142;8.0;0.0;0
-9;57;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;1.6;0.0;0
-9;57;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.07142857142857142;8.0;0.0;0
-9;58;http://www.studytonight.com/dbms/database-model;database design;2.0;0.07142857142857142;8.0;0.0;0
-9;58;http://www.studytonight.com/dbms/database-model;models;1.0;0.07142857142857142;8.0;0.0;0
-9;58;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;8.0;0.0;0
-9;58;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.07142857142857142;8.0;0.0;0
-9;59;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.07142857142857142;8.0;0;0
-9;60;http://www.studytonight.com/dbms/database-model;network model;2.0;0.07142857142857142;2.0;0;0
-9;61;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.07142857142857142;2.0;0;0
-9;77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;associations;1.0;0.0;8.0;0.0;0
-9;77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;reality;1.0;0.041666666666666664;8.0;0.0;0
-9;77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;real world  objects;2.25;0.041666666666666664;8.0;0.0;0
-9;77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;representation;1.0;0.0;8.0;0.0;0
-9;77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;model;1.0;0.041666666666666664;2.6666666666666665;0.0;0
-9;77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;events;1.0;0.041666666666666664;8.0;0.0;0
-9;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;abstraction;1.0;0.0;8.0;0.0;0
-9;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;inherent aspects;2.0;0.041666666666666664;8.0;0.0;0
-9;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accidental properties;2.0;0.041666666666666664;8.0;0.0;0
-9;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;ignores;1.0;0.041666666666666664;8.0;0.0;0
-9;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;concentrates;1.0;0.0;8.0;0.0;0
-9;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;8.0;0.0;0
-9;78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;essential;1.0;0.041666666666666664;8.0;0.0;0
-9;79;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;8.0;0.0;0
-9;79;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;data model represents;3.0;0.041666666666666664;8.0;0.0;0
-9;80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;database designers;2.0;0.041666666666666664;8.0;0.0;0
-9;80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;provide;1.0;0.041666666666666664;8.0;0.0;0
-9;80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;end users unambiguously;3.0;0.041666666666666664;8.0;0.0;0
-9;80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;communicate;1.0;0.0;8.0;0.0;0
-9;80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accurately;1.0;0.041666666666666664;8.0;0.0;0
-9;80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;basic concepts;2.0;0.041666666666666664;8.0;0.0;0
-9;80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;notations;1.0;0.041666666666666664;8.0;0.0;0
-9;80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organizational data;2.0;0.041666666666666664;8.0;0.0;0
-9;80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;understanding;1.0;0.0;8.0;0.0;0
-9;81;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;3.0;0.08333333333333333;8.0;0;0
-9;81;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;database;1.0;0.041666666666666664;2.6666666666666665;0;0
-9;81;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;modeled;1.0;0.041666666666666664;8.0;0;0
-9;81;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;logical structure;2.0;0.041666666666666664;8.0;0;0
-9;82;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;fundamental entities;2.0;0.041666666666666664;8.0;0.0;0
-9;82;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;introduce abstraction;2.0;0.041666666666666664;8.0;0.0;0
-9;82;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models;2.0;0.041666666666666664;1.3333333333333333;0.0;0
-9;82;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;dbms;1.0;0.0;8.0;0.0;0
-9;83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;2.6666666666666665;0.08333333333333333;8.0;0.0;0
-9;83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;stored inside;2.0;0.041666666666666664;8.0;0.0;0
-9;83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;system;1.0;0.041666666666666664;8.0;0.0;0
-9;83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;connected;1.0;0.041666666666666664;8.0;0.0;0
-9;83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;processed;1.0;0.041666666666666664;8.0;0.0;0
-9;83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data;2.0;0.041666666666666664;1.3333333333333333;0.0;0
-9;84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity_relationship model;2.0;0.041666666666666664;2.6666666666666665;0.0;0
-9;84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;relationships;1.0;0.0;8.0;0.0;0
-9;84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;based;1.0;0.041666666666666664;2.6666666666666665;0.0;0
-9;84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;notion;1.0;0.041666666666666664;8.0;0.0;0
-9;84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;real_world entities;2.0;0.041666666666666664;8.0;0.0;0
-9;85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;formulating real_world scenario;3.0;0.041666666666666664;8.0;0.0;0
-9;85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;general attributes;2.0;0.041666666666666664;8.0;0.0;0
-9;85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;database model;2.0;0.041666666666666664;8.0;0.0;0
-9;85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;relationship set;2.0;0.041666666666666664;8.0;0.0;0
-9;85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;constraints;1.0;0.0;8.0;0.0;0
+0;1;http://mathonweb.com/help_ebook/html/functions_4.htm;linear;1.0;0.0;4.0;0;1
+0;2;http://mathonweb.com/help_ebook/html/functions_4.htm;quadratic;1.0;0.125;2.0;0;1
+0;3;http://mathonweb.com/help_ebook/html/functions_4.htm;power;1.0;0.125;2.0;0;1
+0;4;http://mathonweb.com/help_ebook/html/functions_4.htm;polynomial;1.0;0.125;2.0;0;1
+0;5;http://mathonweb.com/help_ebook/html/functions_4.htm;rational;1.0;0.125;2.0;0;1
+0;6;http://mathonweb.com/help_ebook/html/functions_4.htm;exponential;1.0;0.0;4.0;0;1
+0;7;http://mathonweb.com/help_ebook/html/functions_4.htm;logarithmic;1.0;0.0;4.0;0;1
+0;8;http://mathonweb.com/help_ebook/html/functions_4.htm;sinusoidal;1.0;0.125;2.0;0;1
+0;9;http://mathonweb.com/help_ebook/html/functions_4.htm;linear;1.0;0.0;4.0;0;0
+0;10;http://mathonweb.com/help_ebook/html/functions_4.htm;quadratic;1.0;0.125;2.0;0;0
+0;11;http://mathonweb.com/help_ebook/html/functions_4.htm;power;1.0;0.125;2.0;0;0
+0;12;http://mathonweb.com/help_ebook/html/functions_4.htm;polynomial;1.0;0.125;2.0;0;0
+0;13;http://mathonweb.com/help_ebook/html/functions_4.htm;rational;1.0;0.125;2.0;0;0
+0;14;http://mathonweb.com/help_ebook/html/functions_4.htm;exponential;1.0;0.0;4.0;0;0
+0;15;http://mathonweb.com/help_ebook/html/functions_4.htm;logarithmic;1.0;0.0;4.0;0;0
+0;16;http://mathonweb.com/help_ebook/html/functions_4.htm;sinusoidal;1.0;0.125;2.0;0;0
+0;19;http://math.tutorvista.com/algebra/algebraic-functions.html;algebraic functions;2.0;0.5;4.0;0;0
+0;19;http://math.tutorvista.com/algebra/algebraic-functions.html;types;1.0;0.5;1.3333333333333333;0;0
+0;20;http://study.com/academy/lesson/graphs-types-examples-functions.html;graphs;1.0;0.09090909090909091;4.0;0;0
+0;20;http://study.com/academy/lesson/graphs-types-examples-functions.html;types;1.0;0.09090909090909091;2.0;0;0
+0;21;http://study.com/academy/lesson/graphs-types-examples-functions.html;function;1.0;0.09090909090909091;4.0;0.0;0
+0;21;http://study.com/academy/lesson/graphs-types-examples-functions.html;graphs;1.0;0.09090909090909091;4.0;0.0;0
+0;21;http://study.com/academy/lesson/graphs-types-examples-functions.html;type;1.0;0.045454545454545456;4.0;0.0;0
+0;21;http://study.com/academy/lesson/graphs-types-examples-functions.html;produces;1.0;0.045454545454545456;4.0;0.0;0
+0;22;http://study.com/academy/lesson/graphs-types-examples-functions.html;knowing;1.0;0.0;4.0;0.0;0
+0;22;http://study.com/academy/lesson/graphs-types-examples-functions.html;function;1.0;0.09090909090909091;4.0;0.0;0
+0;22;http://study.com/academy/lesson/graphs-types-examples-functions.html;graph;1.0;0.045454545454545456;4.0;0.0;0
+0;22;http://study.com/academy/lesson/graphs-types-examples-functions.html;idea;1.0;0.045454545454545456;4.0;0.0;0
+0;22;http://study.com/academy/lesson/graphs-types-examples-functions.html;visually distinguish;2.0;0.045454545454545456;4.0;0.0;0
+0;22;http://study.com/academy/lesson/graphs-types-examples-functions.html;analyzing;1.0;0.045454545454545456;4.0;0.0;0
+0;22;http://study.com/academy/lesson/graphs-types-examples-functions.html;easy;1.0;0.045454545454545456;4.0;0.0;0
+0;23;http://study.com/academy/lesson/graphs-types-examples-functions.html;linear;1.0;0.0;4.0;0;0
+0;23;http://study.com/academy/lesson/graphs-types-examples-functions.html;power;1.0;0.045454545454545456;1.3333333333333333;0;0
+0;23;http://study.com/academy/lesson/graphs-types-examples-functions.html;quadratic;1.0;0.045454545454545456;1.3333333333333333;0;0
+0;23;http://study.com/academy/lesson/graphs-types-examples-functions.html;logarithmic;1.0;0.0;4.0;0;0
+0;23;http://study.com/academy/lesson/graphs-types-examples-functions.html;rational;1.0;0.045454545454545456;1.3333333333333333;0;0
+0;23;http://study.com/academy/lesson/graphs-types-examples-functions.html;polynomial;1.0;0.045454545454545456;1.3333333333333333;0;0
+0;23;http://study.com/academy/lesson/graphs-types-examples-functions.html;sinusoidal;1.0;0.045454545454545456;1.3333333333333333;0;0
+0;23;http://study.com/academy/lesson/graphs-types-examples-functions.html;types;1.0;0.09090909090909091;2.0;0;0
+0;23;http://study.com/academy/lesson/graphs-types-examples-functions.html;exponential;1.0;0.0;4.0;0;0
+0;24;http://oregonstate.edu/instruct/mth251/cq/FieldGuide/general/lesson.html;odd functions;2.0;0.3333333333333333;4.0;0;0
+0;25;http://oregonstate.edu/instruct/mth251/cq/FieldGuide/general/lesson.html;algebraic;1.0;0.3333333333333333;4.0;0;0
+0;25;http://oregonstate.edu/instruct/mth251/cq/FieldGuide/general/lesson.html;transcendental functions;2.0;0.3333333333333333;4.0;0;0
+1;1;http://mathonweb.com/help_ebook/html/functions_4.htm;linear;1.0;0.0;5.0;0;1
+1;2;http://mathonweb.com/help_ebook/html/functions_4.htm;quadratic;1.0;0.125;5.0;0;1
+1;3;http://mathonweb.com/help_ebook/html/functions_4.htm;power;1.0;0.125;0.7142857142857143;0;1
+1;4;http://mathonweb.com/help_ebook/html/functions_4.htm;polynomial;1.0;0.125;2.5;0;1
+1;5;http://mathonweb.com/help_ebook/html/functions_4.htm;rational;1.0;0.125;5.0;0;1
+1;6;http://mathonweb.com/help_ebook/html/functions_4.htm;exponential;1.0;0.0;5.0;0;1
+1;7;http://mathonweb.com/help_ebook/html/functions_4.htm;logarithmic;1.0;0.0;5.0;0;1
+1;8;http://mathonweb.com/help_ebook/html/functions_4.htm;sinusoidal;1.0;0.125;5.0;0;1
+1;9;http://mathonweb.com/help_ebook/html/functions_4.htm;linear;1.0;0.0;5.0;0;0
+1;10;http://mathonweb.com/help_ebook/html/functions_4.htm;quadratic;1.0;0.125;5.0;0;0
+1;11;http://mathonweb.com/help_ebook/html/functions_4.htm;power;1.0;0.125;0.7142857142857143;0;0
+1;12;http://mathonweb.com/help_ebook/html/functions_4.htm;polynomial;1.0;0.125;2.5;0;0
+1;13;http://mathonweb.com/help_ebook/html/functions_4.htm;rational;1.0;0.125;5.0;0;0
+1;14;http://mathonweb.com/help_ebook/html/functions_4.htm;exponential;1.0;0.0;5.0;0;0
+1;15;http://mathonweb.com/help_ebook/html/functions_4.htm;logarithmic;1.0;0.0;5.0;0;0
+1;16;http://mathonweb.com/help_ebook/html/functions_4.htm;sinusoidal;1.0;0.125;5.0;0;0
+1;19;http://math.tutorvista.com/algebra/algebraic-functions.html;algebraic functions;2.0;0.5;5.0;0;0
+1;19;http://math.tutorvista.com/algebra/algebraic-functions.html;types;1.0;0.5;1.6666666666666667;0;0
+1;20;http://math.tutorvista.com/calculus/types-of-functions.html;function expresses;2.0;0.0196078431372549;5.0;0.0;0
+1;20;http://math.tutorvista.com/calculus/types-of-functions.html;quantity;2.0;0.0196078431372549;5.0;0.0;0
+1;20;http://math.tutorvista.com/calculus/types-of-functions.html;mathematical concept;2.0;0.0196078431372549;5.0;0.0;0
+1;20;http://math.tutorvista.com/calculus/types-of-functions.html;intuitive idea;2.0;0.0196078431372549;5.0;0.0;0
+1;20;http://math.tutorvista.com/calculus/types-of-functions.html;quantity completely determines;2.6666666666666665;0.0196078431372549;5.0;0.0;0
+1;21;http://math.tutorvista.com/calculus/types-of-functions.html;function;1.0;0.0784313725490196;5.0;0.0;0
+1;21;http://math.tutorvista.com/calculus/types-of-functions.html;equation;1.0;0.0196078431372549;5.0;0.0;0
+1;21;http://math.tutorvista.com/calculus/types-of-functions.html;domain;1.0;0.058823529411764705;5.0;0.0;0
+1;22;http://math.tutorvista.com/calculus/types-of-functions.html;function;1.0;0.0784313725490196;5.0;0.0;0
+1;22;http://math.tutorvista.com/calculus/types-of-functions.html;formally;1.0;0.0196078431372549;5.0;0.0;0
+1;22;http://math.tutorvista.com/calculus/types-of-functions.html;defined;1.0;0.0196078431372549;5.0;0.0;0
+1;22;http://math.tutorvista.com/calculus/types-of-functions.html;relation;1.0;0.0196078431372549;5.0;0.0;0
+1;22;http://math.tutorvista.com/calculus/types-of-functions.html;respect;1.0;0.0196078431372549;5.0;0.0;0
+1;22;http://math.tutorvista.com/calculus/types-of-functions.html;permissible input;2.0;0.0196078431372549;5.0;0.0;0
+1;22;http://math.tutorvista.com/calculus/types-of-functions.html;output;1.0;0.0196078431372549;5.0;0.0;0
+1;22;http://math.tutorvista.com/calculus/types-of-functions.html;type;1.0;0.0196078431372549;5.0;0.0;0
+1;23;http://math.tutorvista.com/calculus/types-of-functions.html;real numbers;2.0;0.0196078431372549;5.0;0.0;0
+1;23;http://math.tutorvista.com/calculus/types-of-functions.html;elements;1.0;0.0196078431372549;5.0;0.0;0
+1;23;http://math.tutorvista.com/calculus/types-of-functions.html;argument;1.0;0.0196078431372549;5.0;0.0;0
+1;23;http://math.tutorvista.com/calculus/types-of-functions.html;sets;1.0;0.0196078431372549;5.0;0.0;0
+1;24;http://math.tutorvista.com/calculus/types-of-functions.html;co_domain;1.0;0.0196078431372549;5.0;0.0;0
+1;24;http://math.tutorvista.com/calculus/types-of-functions.html;function;1.0;0.0784313725490196;5.0;0.0;0
+1;24;http://math.tutorvista.com/calculus/types-of-functions.html;domain;1.0;0.058823529411764705;5.0;0.0;0
+1;24;http://math.tutorvista.com/calculus/types-of-functions.html;range;1.0;0.0196078431372549;5.0;0.0;0
+1;24;http://math.tutorvista.com/calculus/types-of-functions.html;assigned values;2.0;0.0196078431372549;5.0;0.0;0
+1;25;http://math.tutorvista.com/calculus/types-of-functions.html;domain;1.0;0.058823529411764705;5.0;0.0;0
+1;25;http://math.tutorvista.com/calculus/types-of-functions.html;important;1.0;0.0196078431372549;5.0;0.0;0
+1;25;http://math.tutorvista.com/calculus/types-of-functions.html;values;1.0;0.0196078431372549;5.0;0.0;0
+1;25;http://math.tutorvista.com/calculus/types-of-functions.html;assign;1.0;0.0196078431372549;5.0;0.0;0
+1;25;http://math.tutorvista.com/calculus/types-of-functions.html;element;1.0;0.0196078431372549;5.0;0.0;0
+1;26;http://math.tutorvista.com/calculus/types-of-functions.html;mathematics;1.0;0.0;5.0;0;0
+1;26;http://math.tutorvista.com/calculus/types-of-functions.html;functions;1.0;0.0784313725490196;5.0;0;0
+1;26;http://math.tutorvista.com/calculus/types-of-functions.html;types;1.0;0.0196078431372549;1.6666666666666667;0;0
+1;27;http://math.tutorvista.com/calculus/types-of-functions.html;functions;1.0;0.0784313725490196;5.0;0;0
+1;27;http://math.tutorvista.com/calculus/types-of-functions.html;properties;1.0;0.0196078431372549;5.0;0;0
+1;27;http://math.tutorvista.com/calculus/types-of-functions.html;classification;1.0;0.0;5.0;0;0
+1;27;http://math.tutorvista.com/calculus/types-of-functions.html;basis;1.0;0.0392156862745098;5.0;0;0
+1;28;http://math.tutorvista.com/calculus/types-of-functions.html;functions;1.0;0.0784313725490196;5.0;0.0;0
+1;28;http://math.tutorvista.com/calculus/types-of-functions.html;classified;1.0;0.0196078431372549;5.0;0.0;0
+1;28;http://math.tutorvista.com/calculus/types-of-functions.html;variables;1.0;0.0196078431372549;5.0;0.0;0
+1;28;http://math.tutorvista.com/calculus/types-of-functions.html;basis;1.0;0.0392156862745098;5.0;0.0;0
+1;30;http://math.tutorvista.com/calculus/types-of-functions.html;article;1.0;0.0196078431372549;5.0;0.0;0
+1;30;http://math.tutorvista.com/calculus/types-of-functions.html;functions;1.0;0.0784313725490196;5.0;0.0;0
+1;30;http://math.tutorvista.com/calculus/types-of-functions.html;mentioned types;2.0;0.0196078431372549;5.0;0.0;0
+1;30;http://math.tutorvista.com/calculus/types-of-functions.html;learn;1.0;0.0;5.0;0.0;0
+1;31;http://math.tutorvista.com/calculus/types-of-functions.html;polynomial;1.0;0.0196078431372549;1.6666666666666667;0.0;0
+1;31;http://math.tutorvista.com/calculus/types-of-functions.html;function;1.5;0.0784313725490196;5.0;0.0;0
+1;31;http://math.tutorvista.com/calculus/types-of-functions.html;algebraic function;1.75;0.0196078431372549;5.0;0.0;0
+1;31;http://math.tutorvista.com/calculus/types-of-functions.html;form;1.0;0.0196078431372549;5.0;0.0;0
+1;31;http://math.tutorvista.com/calculus/types-of-functions.html;expressed;1.0;0.0196078431372549;5.0;0.0;0
+1;33;http://math.tutorvista.com/calculus/types-of-functions.html;a_ 2;0.5;0.0196078431372549;5.0;0;0
+1;34;http://study.com/academy/lesson/graphs-types-examples-functions.html;graphs;1.0;0.034482758620689655;5.0;0;0
+1;34;http://study.com/academy/lesson/graphs-types-examples-functions.html;power;1.0;0.20689655172413793;1.6666666666666667;0;0
+1;34;http://study.com/academy/lesson/graphs-types-examples-functions.html;types;1.0;0.034482758620689655;1.6666666666666667;0;0
+1;35;http://study.com/academy/lesson/graphs-types-examples-functions.html;positive;1.0;0.06896551724137931;5.0;0.0;0
+1;35;http://study.com/academy/lesson/graphs-types-examples-functions.html;number;1.0;0.034482758620689655;5.0;0.0;0
+1;35;http://study.com/academy/lesson/graphs-types-examples-functions.html;direction based;2.0;0.034482758620689655;5.0;0.0;0
+1;35;http://study.com/academy/lesson/graphs-types-examples-functions.html;power;1.0;0.20689655172413793;1.6666666666666667;0.0;0
+1;35;http://study.com/academy/lesson/graphs-types-examples-functions.html;graph;1.0;0.13793103448275862;5.0;0.0;0
+1;36;http://study.com/academy/lesson/graphs-types-examples-functions.html;graph;1.0;0.13793103448275862;5.0;0.0;0
+1;36;http://study.com/academy/lesson/graphs-types-examples-functions.html;direction;1.0;0.034482758620689655;5.0;0.0;0
+1;36;http://study.com/academy/lesson/graphs-types-examples-functions.html;edges;1.0;0.034482758620689655;5.0;0.0;0
+1;36;http://study.com/academy/lesson/graphs-types-examples-functions.html;power;1.0;0.20689655172413793;1.6666666666666667;0.0;0
+1;37;http://study.com/academy/lesson/graphs-types-examples-functions.html;graph;1.0;0.13793103448275862;5.0;0.0;0
+1;37;http://study.com/academy/lesson/graphs-types-examples-functions.html;edge;1.0;0.034482758620689655;5.0;0.0;0
+1;37;http://study.com/academy/lesson/graphs-types-examples-functions.html;odd;1.0;0.034482758620689655;5.0;0.0;0
+1;37;http://study.com/academy/lesson/graphs-types-examples-functions.html;power;1.0;0.20689655172413793;1.6666666666666667;0.0;0
+1;38;http://study.com/academy/lesson/graphs-types-examples-functions.html;parts;1.0;0.034482758620689655;5.0;0.0;0
+1;38;http://study.com/academy/lesson/graphs-types-examples-functions.html;negative;1.0;0.034482758620689655;5.0;0.0;0
+1;38;http://study.com/academy/lesson/graphs-types-examples-functions.html;power;1.0;0.20689655172413793;1.6666666666666667;0.0;0
+1;39;http://study.com/academy/lesson/graphs-types-examples-functions.html;0 line;0.5;0.034482758620689655;5.0;0.0;0
+1;39;http://study.com/academy/lesson/graphs-types-examples-functions.html;division;1.0;0.034482758620689655;5.0;0.0;0
+1;39;http://study.com/academy/lesson/graphs-types-examples-functions.html;avoid;1.0;0.034482758620689655;5.0;0.0;0
+1;39;http://study.com/academy/lesson/graphs-types-examples-functions.html;part;1.0;0.034482758620689655;5.0;0.0;0
+1;40;http://study.com/academy/lesson/graphs-types-examples-functions.html;power;1.0;0.20689655172413793;1.6666666666666667;0.0;0
+1;40;http://study.com/academy/lesson/graphs-types-examples-functions.html;graph;1.0;0.13793103448275862;5.0;0.0;0
+1;40;http://study.com/academy/lesson/graphs-types-examples-functions.html;x_axis;1.0;0.034482758620689655;5.0;0.0;0
+1;40;http://study.com/academy/lesson/graphs-types-examples-functions.html;starts curving;2.0;0.034482758620689655;5.0;0.0;0
+1;40;http://study.com/academy/lesson/graphs-types-examples-functions.html;fraction;1.0;0.034482758620689655;5.0;0.0;0
+1;40;http://study.com/academy/lesson/graphs-types-examples-functions.html;positive;1.0;0.06896551724137931;5.0;0.0;0
+1;41;http://oregonstate.edu/instruct/mth251/cq/FieldGuide/general/lesson.html;odd functions;2.0;0.3333333333333333;5.0;0;0
+1;42;http://oregonstate.edu/instruct/mth251/cq/FieldGuide/general/lesson.html;algebraic;1.0;0.3333333333333333;5.0;0;0
+1;42;http://oregonstate.edu/instruct/mth251/cq/FieldGuide/general/lesson.html;transcendental functions;2.0;0.3333333333333333;5.0;0;0
+2;1;https://en.wikipedia.org/wiki/List_of_curves;wikipedia page;2.0;0.043478260869565216;5.0;0;0
+2;1;https://en.wikipedia.org/wiki/List_of_curves;list;1.0;0.0;5.0;0;0
+2;1;https://en.wikipedia.org/wiki/List_of_curves;curves;1.0;0.043478260869565216;1.6666666666666667;0;0
+2;4;https://en.wikipedia.org/wiki/List_of_curves;bathtub curve;2.0;0.043478260869565216;5.0;0;0
+2;5;https://en.wikipedia.org/wiki/List_of_curves;bell curve;2.0;0.043478260869565216;5.0;0;0
+2;6;https://en.wikipedia.org/wiki/List_of_curves;calibration curve;2.0;0.043478260869565216;5.0;0;0
+2;7;https://en.wikipedia.org/wiki/List_of_curves;cardiac function curve;3.0;0.043478260869565216;5.0;0;0
+2;8;https://en.wikipedia.org/wiki/List_of_curves;dose response curve;3.0;0.043478260869565216;5.0;0;0
+2;9;https://en.wikipedia.org/wiki/List_of_curves;fish curve;2.0;0.043478260869565216;5.0;0;0
+2;10;https://en.wikipedia.org/wiki/List_of_curves;fletcher munson curve;3.0;0.043478260869565216;5.0;0;0
+2;11;https://en.wikipedia.org/wiki/List_of_curves;forgetting curve;2.0;0.043478260869565216;5.0;0;0
+2;12;https://en.wikipedia.org/wiki/List_of_curves;gompertz curve;2.0;0.043478260869565216;5.0;0;0
+2;13;https://en.wikipedia.org/wiki/List_of_curves;growth curve;2.0;0.043478260869565216;5.0;0;0
+2;14;https://en.wikipedia.org/wiki/List_of_curves;hubbert curve;2.0;0.043478260869565216;5.0;0;0
+2;15;https://en.wikipedia.org/wiki/List_of_curves;kruithof curve;2.0;0.043478260869565216;5.0;0;0
+2;16;https://en.wikipedia.org/wiki/List_of_curves;learning curve;2.0;0.043478260869565216;5.0;0;0
+2;17;https://en.wikipedia.org/wiki/List_of_curves;light curve;2.0;0.043478260869565216;5.0;0;0
+2;18;https://en.wikipedia.org/wiki/List_of_curves;logistic curve;2.0;0.043478260869565216;5.0;0;0
+2;20;https://en.wikipedia.org/wiki/List_of_curves;paschen curve;2.0;0.043478260869565216;5.0;0;0
+2;21;https://en.wikipedia.org/wiki/List_of_curves;robinson dadson curves;3.0;0.043478260869565216;5.0;0;0
+2;22;https://en.wikipedia.org/wiki/List_of_curves;rotation curve;2.0;0.043478260869565216;5.0;0;0
+2;23;https://en.wikipedia.org/wiki/List_of_curves;species area curve;3.0;0.043478260869565216;5.0;0;0
+2;24;https://en.wikipedia.org/wiki/List_of_curves;stress strain curve;3.0;0.043478260869565216;5.0;0;0
+2;29;https://en.wikipedia.org/wiki/Algebraic_curve;euclidean plane;2.0;0.018518518518518517;5.0;0.0;0
+2;29;https://en.wikipedia.org/wiki/Algebraic_curve;set;1.0;0.018518518518518517;2.5;0.0;0
+2;29;https://en.wikipedia.org/wiki/Algebraic_curve;variables;1.0;0.018518518518518517;5.0;0.0;0
+2;29;https://en.wikipedia.org/wiki/Algebraic_curve;coordinates;1.0;0.0;5.0;0.0;0
+2;29;https://en.wikipedia.org/wiki/Algebraic_curve;points;1.0;0.05555555555555555;1.6666666666666667;0.0;0
+2;29;https://en.wikipedia.org/wiki/Algebraic_curve;zeros;1.0;0.0;5.0;0.0;0
+2;29;https://en.wikipedia.org/wiki/Algebraic_curve;polynomial;1.0;0.018518518518518517;1.25;0.0;0
+2;29;https://en.wikipedia.org/wiki/Algebraic_curve;mathematics;1.0;0.0;5.0;0.0;0
+2;30;https://en.wikipedia.org/wiki/Algebraic_curve;embedded;1.0;0.018518518518518517;5.0;0.0;0
+2;30;https://en.wikipedia.org/wiki/Algebraic_curve;defined;1.0;0.037037037037037035;2.5;0.0;0
+2;30;https://en.wikipedia.org/wiki/Algebraic_curve;generally;1.0;0.018518518518518517;5.0;0.0;0
+2;30;https://en.wikipedia.org/wiki/Algebraic_curve;algebraic curve;2.0;0.037037037037037035;0.8333333333333334;0.0;0
+2;30;https://en.wikipedia.org/wiki/Algebraic_curve;higher dimensional space;3.0;0.018518518518518517;5.0;0.0;0
+2;30;https://en.wikipedia.org/wiki/Algebraic_curve;general field;2.0;0.018518518518518517;5.0;0.0;0
+2;30;https://en.wikipedia.org/wiki/Algebraic_curve;similar;1.0;0.018518518518518517;5.0;0.0;0
+2;33;https://en.wikipedia.org/wiki/Algebraic_curve;uniquely decomposed;2.0;0.018518518518518517;5.0;0.0;0
+2;33;https://en.wikipedia.org/wiki/Algebraic_curve;points;2.0;0.05555555555555555;1.6666666666666667;0.0;0
+2;33;https://en.wikipedia.org/wiki/Algebraic_curve;finite number;2.0;0.018518518518518517;5.0;0.0;0
+2;33;https://en.wikipedia.org/wiki/Algebraic_curve;algebraic curve;2.0;0.037037037037037035;0.8333333333333334;0.0;0
+2;33;https://en.wikipedia.org/wiki/Algebraic_curve;called  remarkable points;2.0;0.018518518518518517;5.0;0.0;0
+2;34;https://en.wikipedia.org/wiki/Algebraic_curve;smooth function;2.25;0.018518518518518517;5.0;0.0;0
+2;34;https://en.wikipedia.org/wiki/Algebraic_curve;defined;1.0;0.037037037037037035;2.5;0.0;0
+2;34;https://en.wikipedia.org/wiki/Algebraic_curve;graph;1.0;0.018518518518518517;1.6666666666666667;0.0;0
+2;34;https://en.wikipedia.org/wiki/Algebraic_curve;x_axis;1.0;0.018518518518518517;5.0;0.0;0
+2;34;https://en.wikipedia.org/wiki/Algebraic_curve;smooth monotone arc;2.5;0.018518518518518517;5.0;0.0;0
+2;34;https://en.wikipedia.org/wiki/Algebraic_curve;open interval;2.0;0.018518518518518517;5.0;0.0;0
+2;34;https://en.wikipedia.org/wiki/Algebraic_curve;monotone;2.0;0.018518518518518517;5.0;0.0;0
+2;35;https://en.wikipedia.org/wiki/Algebraic_curve;direction;1.0;0.018518518518518517;5.0;0.0;0
+2;35;https://en.wikipedia.org/wiki/Algebraic_curve;point;1.66666666667;0.037037037037037035;5.0;0.0;0
+2;35;https://en.wikipedia.org/wiki/Algebraic_curve;unbounded;1.0;0.018518518518518517;5.0;0.0;0
+2;35;https://en.wikipedia.org/wiki/Algebraic_curve;tangent parallel;2.0;0.018518518518518517;5.0;0.0;0
+2;35;https://en.wikipedia.org/wiki/Algebraic_curve;arc;1.0;0.018518518518518517;5.0;0.0;0
+2;35;https://en.wikipedia.org/wiki/Algebraic_curve;end point;1.833333333335;0.018518518518518517;5.0;0.0;0
+2;35;https://en.wikipedia.org/wiki/Algebraic_curve;singular point;1.833333333335;0.018518518518518517;5.0;0.0;0
+2;35;https://en.wikipedia.org/wiki/Algebraic_curve;coordinate axes;2.0;0.018518518518518517;5.0;0.0;0
+2;39;https://en.wikipedia.org/wiki/Algebraic_curve;large;1.0;0.0;5.0;0.0;0
+2;39;https://en.wikipedia.org/wiki/Algebraic_curve;projective completion;2.0;0.037037037037037035;5.0;0.0;0
+2;39;https://en.wikipedia.org/wiki/Algebraic_curve;complete  curve;1.2666666666666666;0.018518518518518517;5.0;0.0;0
+2;39;https://en.wikipedia.org/wiki/Algebraic_curve;curve;1.8;0.018518518518518517;2.5;0.0;0
+2;39;https://en.wikipedia.org/wiki/Algebraic_curve;projective curve;1.9;0.018518518518518517;5.0;0.0;0
+2;39;https://en.wikipedia.org/wiki/Algebraic_curve;affine curve;1.9;0.037037037037037035;5.0;0.0;0
+2;39;https://en.wikipedia.org/wiki/Algebraic_curve;part;1.0;0.018518518518518517;5.0;0.0;0
+2;39;https://en.wikipedia.org/wiki/Algebraic_curve;precisely;1.0;0.018518518518518517;5.0;0.0;0
+2;39;https://en.wikipedia.org/wiki/Algebraic_curve;define;1.0;0.018518518518518517;5.0;0.0;0
+2;40;https://en.wikipedia.org/wiki/Algebraic_curve;calling  points;1.1666666666666667;0.018518518518518517;5.0;0.0;0
+2;40;https://en.wikipedia.org/wiki/Algebraic_curve;infinity;1.0;0.018518518518518517;5.0;0.0;0
+2;40;https://en.wikipedia.org/wiki/Algebraic_curve;point;1.0;0.037037037037037035;5.0;0.0;0
+2;40;https://en.wikipedia.org/wiki/Algebraic_curve;belong;1.0;0.018518518518518517;5.0;0.0;0
+2;40;https://en.wikipedia.org/wiki/Algebraic_curve;projective completion;2.0;0.037037037037037035;5.0;0.0;0
+2;40;https://en.wikipedia.org/wiki/Algebraic_curve;affine curve;2.0;0.037037037037037035;5.0;0.0;0
+2;40;https://en.wikipedia.org/wiki/Algebraic_curve;points;1.5;0.05555555555555555;1.6666666666666667;0.0;0
+2;40;https://en.wikipedia.org/wiki/Algebraic_curve;affine part;2.0;0.018518518518518517;5.0;0.0;0
+2;40;https://en.wikipedia.org/wiki/Algebraic_curve;commonly expressed;2.0;0.018518518518518517;5.0;0.0;0
+2;40;https://en.wikipedia.org/wiki/Algebraic_curve;view;1.0;0.018518518518518517;5.0;0.0;0
+2;44;http://study.com/academy/lesson/graphs-types-examples-functions.html;graphs;1.0;0.06451612903225806;5.0;0;0
+2;44;http://study.com/academy/lesson/graphs-types-examples-functions.html;types;1.0;0.06451612903225806;5.0;0;0
+2;45;http://study.com/academy/lesson/graphs-types-examples-functions.html;function;1.0;0.06451612903225806;5.0;0.0;0
+2;45;http://study.com/academy/lesson/graphs-types-examples-functions.html;graphs;1.0;0.06451612903225806;5.0;0.0;0
+2;45;http://study.com/academy/lesson/graphs-types-examples-functions.html;type;1.0;0.03225806451612903;2.5;0.0;0
+2;45;http://study.com/academy/lesson/graphs-types-examples-functions.html;produces;1.0;0.03225806451612903;5.0;0.0;0
+2;46;http://study.com/academy/lesson/graphs-types-examples-functions.html;knowing;1.0;0.0;5.0;0.0;0
+2;46;http://study.com/academy/lesson/graphs-types-examples-functions.html;function;1.0;0.06451612903225806;5.0;0.0;0
+2;46;http://study.com/academy/lesson/graphs-types-examples-functions.html;graph;1.0;0.06451612903225806;2.5;0.0;0
+2;46;http://study.com/academy/lesson/graphs-types-examples-functions.html;idea;1.0;0.03225806451612903;5.0;0.0;0
+2;46;http://study.com/academy/lesson/graphs-types-examples-functions.html;visually distinguish;2.0;0.03225806451612903;5.0;0.0;0
+2;46;http://study.com/academy/lesson/graphs-types-examples-functions.html;analyzing;1.0;0.03225806451612903;5.0;0.0;0
+2;46;http://study.com/academy/lesson/graphs-types-examples-functions.html;easy;1.0;0.03225806451612903;5.0;0.0;0
+2;47;http://study.com/academy/lesson/graphs-types-examples-functions.html;linear;1.0;0.0;5.0;0;0
+2;47;http://study.com/academy/lesson/graphs-types-examples-functions.html;power;1.0;0.03225806451612903;5.0;0;0
+2;47;http://study.com/academy/lesson/graphs-types-examples-functions.html;quadratic;1.0;0.03225806451612903;5.0;0;0
+2;47;http://study.com/academy/lesson/graphs-types-examples-functions.html;logarithmic;1.0;0.0;5.0;0;0
+2;47;http://study.com/academy/lesson/graphs-types-examples-functions.html;rational;1.0;0.03225806451612903;5.0;0;0
+2;47;http://study.com/academy/lesson/graphs-types-examples-functions.html;polynomial;1.0;0.03225806451612903;1.25;0;0
+2;47;http://study.com/academy/lesson/graphs-types-examples-functions.html;sinusoidal;1.0;0.03225806451612903;5.0;0;0
+2;47;http://study.com/academy/lesson/graphs-types-examples-functions.html;types;1.0;0.06451612903225806;5.0;0;0
+2;47;http://study.com/academy/lesson/graphs-types-examples-functions.html;exponential;1.0;0.0;5.0;0;0
+2;48;http://study.com/academy/lesson/graphs-types-examples-functions.html;interesting graphs;2.0;0.03225806451612903;5.0;0.0;0
+2;48;http://study.com/academy/lesson/graphs-types-examples-functions.html;curves;1.0;0.06451612903225806;2.5;0.0;0
+2;48;http://study.com/academy/lesson/graphs-types-examples-functions.html;functions produce;2.0;0.03225806451612903;5.0;0.0;0
+2;49;http://study.com/academy/lesson/graphs-types-examples-functions.html;graph;1.0;0.06451612903225806;2.5;0.0;0
+2;49;http://study.com/academy/lesson/graphs-types-examples-functions.html;highest power;2.0;0.03225806451612903;5.0;0.0;0
+2;49;http://study.com/academy/lesson/graphs-types-examples-functions.html;curves;1.0;0.06451612903225806;2.5;0.0;0
+2;49;http://study.com/academy/lesson/graphs-types-examples-functions.html;ups;1.0;0.03225806451612903;5.0;0.0;0
+2;49;http://study.com/academy/lesson/graphs-types-examples-functions.html;function tells;2.0;0.03225806451612903;5.0;0.0;0
+2;49;http://study.com/academy/lesson/graphs-types-examples-functions.html;downs;1.0;0.03225806451612903;5.0;0.0;0
+2;50;http://mathworld.wolfram.com/AlgebraicCurve.html;algebraic curves;2.0;0.25;5.0;0;0
+2;50;http://mathworld.wolfram.com/AlgebraicCurve.html;table lists;2.0;0.25;5.0;0;0
+2;50;http://mathworld.wolfram.com/AlgebraicCurve.html;names;1.0;0.25;5.0;0;0
+2;50;http://mathworld.wolfram.com/AlgebraicCurve.html;degree;1.0;0.25;5.0;0;0
+2;51;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;clearest concept;2.0;0.007575757575757576;5.0;0;0
+2;51;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;simplest;1.0;0.007575757575757576;5.0;0;0
+2;52;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;algebraically closed field;3.0;0.007575757575757576;5.0;0;0
+2;52;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;set;1.0;0.007575757575757576;2.5;0;0
+2;52;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;equation;1.0;0.022727272727272728;5.0;0;0
+2;52;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;points;1.0;0.015151515151515152;1.25;0;0
+2;52;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;polynomial;1.0;0.015151515151515152;1.6666666666666667;0;0
+2;52;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;affine plane satisfying;3.0;0.007575757575757576;5.0;0;0
+2;52;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;coefficients;1.0;0.0;5.0;0;0
+2;53;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;form;1.0;0.007575757575757576;5.0;0.0;0
+2;53;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;equation;1.0;0.022727272727272728;5.0;0.0;0
+2;53;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;algebraic functions;2.25;0.007575757575757576;5.0;0.0;0
+2;53;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;field;1.0;0.022727272727272728;5.0;0.0;0
+2;53;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;rational functions;2.0;0.015151515151515152;5.0;0.0;0
+2;53;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;connected;1.0;0.007575757575757576;5.0;0.0;0
+2;53;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;variable;1.0;0.007575757575757576;5.0;0.0;0
+2;53;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;irreducible algebraic curve;2.8333333333333335;0.007575757575757576;5.0;0.0;0
+2;53;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;polynomial;1.0;0.015151515151515152;1.6666666666666667;0.0;0
+2;54;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;plane affine curve;2.8333333333333335;0.007575757575757576;5.0;0.0;0
+2;54;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;birationally isomorphic;2.0;0.007575757575757576;5.0;0.0;0
+2;54;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;algebraic curve;2.25;0.03787878787878788;1.6666666666666667;0.0;0
+2;54;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;means;1.0;0.007575757575757576;5.0;0.0;0
+2;55;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;complete algebraic curve;2.6666666666666665;0.007575757575757576;5.0;0.0;0
+2;55;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;arithmetic genus;2.0;0.007575757575757576;5.0;0.0;0
+2;55;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;number;1.0;0.007575757575757576;5.0;0.0;0
+2;55;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;algebraic curve;2.5;0.03787878787878788;1.6666666666666667;0.0;0
+2;56;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;identical;1.0;0.007575757575757576;5.0;0.0;0
+2;56;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;regular differential forms;3.0;0.007575757575757576;5.0;0.0;0
+2;56;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;space;1.0;0.007575757575757576;5.0;0.0;0
+2;56;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;smooth;1.0;0.007575757575757576;5.0;0.0;0
+2;56;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;genus;1.0;0.03787878787878788;5.0;0.0;0
+2;56;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;dimension;1.0;0.007575757575757576;5.0;0.0;0
+2;57;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;definition;1.0;0.007575757575757576;5.0;0.0;0
+2;57;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;non_singular model;2.0;0.007575757575757576;5.0;0.0;0
+2;57;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;genus;1.0;0.03787878787878788;5.0;0.0;0
+2;57;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;equal;1.0;0.007575757575757576;5.0;0.0;0
+2;57;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;algebraic curve;2.0;0.03787878787878788;1.6666666666666667;0.0;0
+2;58;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;genus;1.0;0.03787878787878788;5.0;0;0
+2;58;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;algebraic curve;2.0;0.03787878787878788;1.6666666666666667;0;0
+2;58;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;exists;1.0;0.015151515151515152;5.0;0;0
+2;58;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;non_negative integer;2.0;0.007575757575757576;5.0;0;0
+2;59;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;equality;1.0;0.007575757575757576;5.0;0.0;0
+2;59;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;rational curves;2.0;0.007575757575757576;5.0;0.0;0
+2;59;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;distinguished;1.0;0.0;5.0;0.0;0
+2;60;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;order;1.0;0.007575757575757576;5.0;0;0
+2;60;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;projective plane curve;3.0;0.007575757575757576;5.0;0;0
+2;61;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;compact fundamental domain;3.0;0.007575757575757576;5.0;0.0;0
+2;61;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;transformations;1.0;0.0;5.0;0.0;0
+2;61;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;study;1.0;0.022727272727272728;5.0;0.0;0
+2;61;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;act freely;2.0;0.007575757575757576;5.0;0.0;0
+2;61;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;discrete groups;2.0;0.007575757575757576;5.0;0.0;0
+2;61;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;problem;1.0;0.015151515151515152;5.0;0.0;0
+2;61;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;type;1.0;0.007575757575757576;2.5;0.0;0
+2;61;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;reduced;1.0;0.007575757575757576;5.0;0.0;0
+2;61;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;universal coverings;2.0;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;case;1.0;0.015151515151515152;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;non_euclidean bounded polygon;3.0;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;projective line;2.25;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;defined;1.0;0.007575757575757576;1.6666666666666667;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;isomorphic;1.0;0.022727272727272728;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;two_dimensional lattice;2.0;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;lobachevskii plane;2.0;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;motions;1.0;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;unit disc;2.0;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;interior;1.0;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;affine straight line;2.8333333333333335;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;additive group;2.0;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;identity group;2.0;0.007575757575757576;5.0;0.0;0
+2;62;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;subgroup;1.0;0.007575757575757576;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;unique curve;2.0;0.007575757575757576;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;respective curve;2.0;0.007575757575757576;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;torus defining;2.0;0.007575757575757576;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;class consists;1.75;0.015151515151515152;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;addition;1.0;0.007575757575757576;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;group structure;1.75;0.007575757575757576;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;one_dimensional abelian variety;3.0;0.007575757575757576;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;complex tori;2.0;0.007575757575757576;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;class;1.5;0.007575757575757576;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;structure;1.5;0.007575757575757576;5.0;0.0;0
+2;63;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;points;1.0;0.015151515151515152;1.25;0.0;0
+2;64;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;obtained;1.0;0.007575757575757576;5.0;0.0;0
+2;64;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;smooth elliptic curves;3.0;0.007575757575757576;5.0;0.0;0
+2;65;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;period group;2.0;0.007575757575757576;5.0;0.0;0
+2;65;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;meromorphic doubly_periodic functions;2.8333333333333335;0.007575757575757576;5.0;0.0;0
+2;65;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;elliptic curve;2.0;0.007575757575757576;5.0;0.0;0
+2;65;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;isomorphic;1.0;0.022727272727272728;5.0;0.0;0
+2;65;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;field;1.0;0.022727272727272728;5.0;0.0;0
+2;65;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;rational functions;2.25;0.015151515151515152;5.0;0.0;0
+2;66;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;affine model;2.0;0.007575757575757576;5.0;0;0
+2;66;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;exists;1.0;0.015151515151515152;5.0;0;0
+2;66;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;equation;1.0;0.022727272727272728;5.0;0;0
+2;66;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;curve;1.0;0.007575757575757576;2.5;0;0
+2;66;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;parametrization;1.0;0.0;5.0;0;0
+2;66;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;elliptic functions;2.0;0.007575757575757576;5.0;0;0
+2;67;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;genus;1.0;0.03787878787878788;5.0;0.0;0
+2;67;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;class consists;2.0;0.015151515151515152;5.0;0.0;0
+2;67;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;smooth projective curves;3.0;0.007575757575757576;5.0;0.0;0
+2;68;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;case;1.0;0.015151515151515152;5.0;0.0;0
+2;68;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;group;1.0;0.015151515151515152;5.0;0.0;0
+2;68;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;isomorphic;1.0;0.022727272727272728;5.0;0.0;0
+2;68;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;field;1.0;0.022727272727272728;5.0;0.0;0
+2;68;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;meromorphic functions;2.0;0.007575757575757576;5.0;0.0;0
+2;68;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;respect;1.0;0.007575757575757576;5.0;0.0;0
+2;68;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;invariant;1.0;0.007575757575757576;5.0;0.0;0
+2;69;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;functions;1.0;0.007575757575757576;5.0;0.0;0
+2;69;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;automorphic;1.0;0.0;5.0;0.0;0
+2;70;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;automorphic functions  cf;2.25;0.007575757575757576;5.0;0.0;0
+2;70;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;genus;1.0;0.03787878787878788;5.0;0.0;0
+2;70;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;uniformized;1.0;0.0;5.0;0.0;0
+2;70;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;algebraic curve;2.0;0.03787878787878788;1.6666666666666667;0.0;0
+2;71;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;uniformization;1.0;0.0;5.0;0;0
+2;72;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;led;1.0;0.0;5.0;0.0;0
+2;72;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;classification;1.0;0.0;5.0;0.0;0
+2;72;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;study;1.0;0.022727272727272728;5.0;0.0;0
+2;72;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;discussed;1.0;0.007575757575757576;5.0;0.0;0
+2;72;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;substantially;1.0;0.0;5.0;0.0;0
+2;72;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;situation;1.0;0.007575757575757576;5.0;0.0;0
+2;72;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;problem;1.0;0.015151515151515152;5.0;0.0;0
+2;72;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;elliptic curves;2.0;0.007575757575757576;5.0;0.0;0
+2;72;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;quotient;1.0;0.007575757575757576;5.0;0.0;0
+2;73;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;non_compact;1.0;0.007575757575757576;5.0;0.0;0
+2;73;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;manifold;1.0;0.007575757575757576;5.0;0.0;0
+2;73;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;finite lobachevskii plane;3.0;0.007575757575757576;5.0;0.0;0
+2;73;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;group;1.0;0.015151515151515152;5.0;0.0;0
+2;73;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;fixed points;2.0;0.007575757575757576;5.0;0.0;0
+2;74;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;important role;2.0;0.007575757575757576;5.0;0.0;0
+2;74;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;plays;1.0;0.007575757575757576;5.0;0.0;0
+2;74;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;modern arithmetical research;3.0;0.007575757575757576;5.0;0.0;0
+2;74;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;study;1.0;0.022727272727272728;5.0;0.0;0
+2;74;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;general case;2.0;0.007575757575757576;5.0;0.0;0
+2;74;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;groups;1.0;0.007575757575757576;5.0;0.0;0
+2;74;https://www.encyclopediaofmath.org/index.php/Algebraic_curve;respective quotients;2.0;0.007575757575757576;5.0;0.0;0

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class Entity
+class Entity implements Serializable
 {
     String name;
     String template;
@@ -86,6 +86,74 @@ public class test_map
         return result;
     }
 
+    public String getTemplate(int num) throws IOException
+    {
+        FileReader fr = new FileReader("templates.txt");
+        BufferedReader br = new BufferedReader(fr);
+
+        int count = 0;
+        String lineTemp = "";
+        while((lineTemp = br.readLine()) != null)
+        {
+            if(count == num)
+            {
+                return lineTemp;
+            }
+            else
+            {
+                count = count + 1;
+            }
+        }
+        try
+        {
+            if(br != null)
+                br.close();
+            if(fr != null)
+                fr.close();
+        }
+        catch(Exception e)
+        {
+            e.printStackTrace();
+        }
+        return null;
+
+
+    }
+
+    public String getLine(int temp_num, int line_num) throws IOException
+    {
+        FileReader fr = new FileReader("crawlerq" + temp_num + ".txt");
+        BufferedReader br = new BufferedReader(fr);
+
+        int count = 1;
+        String lineTemp = "";
+        while((lineTemp = br.readLine()) != null)
+        {
+            if(count == line_num)
+            {
+                return lineTemp;
+            }
+            else
+            {
+                count = count + 1;
+            }
+        }
+        try
+        {
+            if(br != null)
+                br.close();
+            if(fr != null)
+                fr.close();
+        }
+        catch(Exception e)
+        {
+            e.printStackTrace();
+        }
+        return null;
+
+
+    }
+
 	public void test_map_func() throws IOException
 	{
 		FileReader f = new FileReader("final_normalize.csv");
@@ -158,7 +226,7 @@ public class test_map
         				if(quick_ans.get(j) == 1)
         				{
         				    Date date = new Date();
-                            Entity obj = new Entity(entity.get(i),template_num.get(i),date.toString(),line_num.get(i) , url.get(i));
+                            Entity obj = new Entity(entity.get(i),getTemplate(Integer.parseInt(template_num.get(i))),date.toString(),getLine(Integer.parseInt(template_num.get(i)),Integer.parseInt(line_num.get(i))) , url.get(i));
                             ArrayList<Entity> list = (ArrayList<Entity>)hashtable.get(entity.get(i));
                             if(list != null)
                             {
@@ -188,7 +256,7 @@ public class test_map
         				else
         				{
                             Date date = new Date();
-                            Entity obj = new Entity(entity.get(j),template_num.get(j),date.toString(),line_num.get(j) , url.get(j));
+                            Entity obj = new Entity(entity.get(j),getTemplate(Integer.parseInt(template_num.get(j))),date.toString(),getLine(Integer.parseInt(template_num.get(j)),Integer.parseInt(line_num.get(j))) , url.get(j));
                             ArrayList<Entity> list = (ArrayList<Entity>)hashtable.get(entity.get(j));
                             if(list != null)
                             {
@@ -219,7 +287,7 @@ public class test_map
         				if(final_score.get(i) >= final_score.get(j))
         				{
                             Date date = new Date();
-                            Entity obj = new Entity(entity.get(j),template_num.get(j),date.toString(),line_num.get(j) , url.get(j));
+                            Entity obj = new Entity(entity.get(j),getTemplate(Integer.parseInt(template_num.get(j))),date.toString(),getLine(Integer.parseInt(template_num.get(j)),Integer.parseInt(line_num.get(j))) , url.get(j));
                             ArrayList<Entity> list = (ArrayList<Entity>)hashtable.get(entity.get(j));
                             if(list != null)
                             {
@@ -247,7 +315,7 @@ public class test_map
         				else
         				{
                             Date date = new Date();
-                            Entity obj = new Entity(entity.get(i),template_num.get(i),date.toString(),line_num.get(i) , url.get(i));
+                            Entity obj = new Entity(entity.get(i),getTemplate(Integer.parseInt(template_num.get(i))),date.toString(),getLine(Integer.parseInt(template_num.get(i)),Integer.parseInt(line_num.get(i))) , url.get(i));
                             ArrayList<Entity> list = (ArrayList<Entity>)hashtable.get(entity.get(i));
                             if(list != null)
                             {
