@@ -202,7 +202,7 @@ public class Unmapped
 
 
     }
-    public static void main (String args[]) throws IOException
+    public void unmappedFunc () throws IOException
     {
         FileReader f = new FileReader("notMappedInTKB.csv");
         BufferedReader b = new BufferedReader(f);
@@ -210,8 +210,8 @@ public class Unmapped
         FileWriter fw = new FileWriter("processedUnmapped.csv");
         BufferedWriter bw = new BufferedWriter(fw);
 
-        FileWriter fw1 = new FileWriter("unmapWithWiki.csv");
-        BufferedWriter bw1 = new BufferedWriter(fw1);
+//        FileWriter fw1 = new FileWriter("unmapWithWiki.csv");
+//        BufferedWriter bw1 = new BufferedWriter(fw1);
 
         ArrayList<InformationUnmap> obj = new ArrayList<InformationUnmap>();
 
@@ -286,48 +286,25 @@ public class Unmapped
         }
 
         //removing those that have wiki pages
-        for(int i=0; i<obj.size();i++)
-        {
-            try
-            {
-                String command = "python mapWiki.py " + obj.get(i).getEntity_name();
-//                String command = "echo hello";
-                System.out.println(command);
-                Process proc = Runtime.getRuntime().exec(command);
+//        try
+//        {
+//            String command = "python mapWiki.py relational_model";
+//            String command = "python test.py";
+//
+//            Process proc = Runtime.getRuntime().exec(command);
+//
+//            BufferedReader reader = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+//
+//            String line2 = "";
+//
+//            while((line2 = reader.readLine()) != null) {
+//                System.out.println(line2 + "\n");
+//            }
+//
+//            proc.waitFor();
+//        }
+//        catch(Exception e){}
 
-                BufferedReader reader2 = new BufferedReader(new InputStreamReader(proc.getInputStream()));
-
-                String line2 = "";
-//                line2 = reader.readLine();
-//                if(line2 == null){
-//                    System.out.println("found null");
-//                }
-//                System.out.println("Hi");
-                while((line2 = reader2.readLine()) != null) {
-                    System.out.println("Helo");
-                    System.out.println(line2);
-                    if(line2.length()>3)
-                    {
-                        String temp = line2.substring(3,line2.length()-2).replaceAll("\\\\u2013"," ");
-                        System.out.println(temp);
-                        bw1.write(obj.get(i).getEntity_name() + ";" + temp);
-                        obj.remove(i);
-                        i--;
-                        break;
-                    }
-                    else
-                    {
-                        System.out.println("null");
-                    }
-                }
-
-                proc.waitFor();
-
-            }
-            catch(Exception e){
-                e.printStackTrace();
-            }
-        }
 
         //sorting
         int count_quick = 0;
@@ -361,9 +338,9 @@ public class Unmapped
         //printing it back
         for(int i=0; i<obj.size();i++)
         {
-            bw.write(obj.get(i).getEntity_name()+";"+obj.get(i).getFinal_score()+";"+obj.get(i).getTemplate_number()+";"+obj.get(i).getLine_number()+"\n");
-//            InformationUnmap info_temp = obj.get(i);
-//            bw.write(getTemplate(Integer.parseInt(info_temp.getTemplate_number())) +getLine(Integer.parseInt(info_temp.getTemplate_number()),Integer.parseInt(info_temp.getLine_number())) +";"+obj.get(i).getEntity_name()+";"+obj.get(i).getRake_score()+";"+info_temp.getTf_score()+";"+info_temp.getIdf_score()+";"+obj.get(i).getFinal_score()+";" + info_temp.getRelation_score()+";" +obj.get(i).getQuick_ans()+"\n");
+//            bw.write(obj.get(i).getEntity_name()+";"+obj.get(i).getFinal_score()+";"+obj.get(i).getTemplate_number()+";"+obj.get(i).getLine_number()+"\n");
+            InformationUnmap info_temp = obj.get(i);
+            bw.write(getTemplate(Integer.parseInt(info_temp.getTemplate_number()))+";" +getLine(Integer.parseInt(info_temp.getTemplate_number()),Integer.parseInt(info_temp.getLine_number())) +";"+obj.get(i).getEntity_name()+";"+obj.get(i).getRake_score()+";"+info_temp.getTf_score()+";"+info_temp.getIdf_score()+";"+obj.get(i).getFinal_score()+";" + info_temp.getRelation_score()+";" +obj.get(i).getQuick_ans()+"\n");
         }
 
         //removing and storing separately those entities which have WIKI page
@@ -382,11 +359,11 @@ public class Unmapped
             if(fw != null)
                 fw.close();
 
-            if(bw1 != null)
-                bw1.close();
-
-            if(fw1 != null)
-                fw1.close();
+//            if(bw1 != null)
+//                bw1.close();
+//
+//            if(fw1 != null)
+//                fw1.close();
         }
         catch(Exception e)
         {

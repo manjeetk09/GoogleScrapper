@@ -70,7 +70,7 @@ public class pdfStrip {
             FileWriter fw1 = new FileWriter(file_name);
             bw1 = new BufferedWriter(fw1);
 
-            String command = "python pdf2txt.py -Y normal 1.pdf";
+            String command = "python pdf2txt.py -Y normal download.pdf";
             //String command = "echo 'hello'";
 
             Process proc = Runtime.getRuntime().exec(command);

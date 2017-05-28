@@ -355,7 +355,7 @@ public class Mapped {
         for(int i=0; i<obj.size();i++)
         {
             Information info_temp = obj.get(i);
-            bw.write(getTemplate(Integer.parseInt(info_temp.getTemplate_number())) +getLine(Integer.parseInt(info_temp.getTemplate_number()),Integer.parseInt(info_temp.getLine_number())) +";"+obj.get(i).getEntity_name()+";"+obj.get(i).getRake_score()+";"+info_temp.getTf_score()+";"+info_temp.getIdf_score()+";"+obj.get(i).getFinal_score()+";" + info_temp.getRelation_score()+";" +obj.get(i).getQuick_ans()+"\n");
+            bw.write(getTemplate(Integer.parseInt(info_temp.getTemplate_number()))+";" +getLine(Integer.parseInt(info_temp.getTemplate_number()),Integer.parseInt(info_temp.getLine_number())) +";"+obj.get(i).getEntity_name()+";"+obj.get(i).getRake_score()+";"+info_temp.getTf_score()+";"+info_temp.getIdf_score()+";"+obj.get(i).getFinal_score()+";" + info_temp.getRelation_score()+";" +obj.get(i).getQuick_ans()+"\n");
         }
 
 

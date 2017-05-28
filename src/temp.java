@@ -197,5 +197,8 @@ public class temp
 
         Mapped mapped = new Mapped();
         mapped.mappedFunc(head_entity);
+
+        Unmapped unmapped = new Unmapped();
+        unmapped.unmappedFunc();
     }
 }

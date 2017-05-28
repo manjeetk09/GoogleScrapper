@@ -12,29 +12,61 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
 public class test
 {
-    private static String getUrlSource(String url) throws IOException {
-        URL yahoo = new URL(url);
-        URLConnection yc = yahoo.openConnection();
-        BufferedReader in = new BufferedReader(new InputStreamReader(yc.getInputStream(), "UTF-8"));
-        String inputLine;
-        StringBuilder a = new StringBuilder();
-        while ((inputLine = in.readLine()) != null)
-            a.append(inputLine);
-        in.close();
-
-        return a.toString();
-    }
+//    private static String getUrlSource(String url) throws IOException {
+//        URL yahoo = new URL(url);
+//        URLConnection yc = yahoo.openConnection();
+//        BufferedReader in = new BufferedReader(new InputStreamReader(yc.getInputStream(), "UTF-8"));
+//        String inputLine;
+//        StringBuilder a = new StringBuilder();
+//        while ((inputLine = in.readLine()) != null)
+//            a.append(inputLine);
+//        in.close();
+//
+//        return a.toString();
+//    }
 
     public static void main (String args[]) throws IOException
     {
+//        execute("echo hello");
 
-        String str = "table 1: is about";
-        System.out.println( "str:: " + str);
-        String new_str = str.replaceAll(":"," ");
-        System.out.println( "str:: " + new_str);
+//        String[] StringMklink = {"python", "test.py"};
+//
+//        try{
+//            ProcessBuilder pb=new ProcessBuilder(StringMklink);
+//            pb.redirectErrorStream(true);
+//            Process process = pb.start();
+//            BufferedReader inStreamReader = new BufferedReader(new InputStreamReader(process.getInputStream()));
+//            System.out.println("outside");
+//            while(inStreamReader.readLine() != null){
+//                System.out.println("inside");
+//                System.out.println(inStreamReader.readLine());
+//            }
+//        } catch (IOException e) {
+//            System.out.println(e.toString());
+//            e.printStackTrace();
+//        }
+        try
+        {
+//            String command = "python -c 'print \"hello\";import wikipedia; print wikipedia.search(\"Relational model\",results=1)'";
+            String command = "python --version";
+            System.out.println(command);
+            Process proc = Runtime.getRuntime().exec(command);
+
+            BufferedReader reader = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+
+            String line2 = "";
+            proc.waitFor();
+            while((line2 = reader.readLine()) != null) {
+                System.out.println(line2);
+            }
+        }
+        catch(Exception e){}
+//        String str = "table 1: is about";
+//        System.out.println( "str:: " + str);
+//        String new_str = str.replaceAll(":"," ");
+//        System.out.println( "str:: " + new_str);
 
 //        System.setProperty("http.proxyHost", "10.10.78.22");
 //        System.setProperty("http.proxyPort", "3128");
