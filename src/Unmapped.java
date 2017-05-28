@@ -2,6 +2,7 @@ import net.didion.jwnl.data.Exc;
 import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 
 import java.io.*;
+import java.util.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -12,6 +13,7 @@ class InformationUnmap
     String line_number;
     String url;
     String entity_name;
+    String timestamp;
     double rake_score;
     double tf_score;
     double idf_score;
@@ -19,11 +21,12 @@ class InformationUnmap
     double relation_score;
     int quick_ans;
 
-    public InformationUnmap(String template_number, String line_number, String url, String entity_name, double rake_score, double tf_score, double idf_score, double final_score, double relation_score, int quick_ans) {
+    public InformationUnmap(String template_number, String line_number, String url, String entity_name,String timestamp, double rake_score, double tf_score, double idf_score, double final_score, double relation_score, int quick_ans) {
         this.template_number = template_number;
         this.line_number = line_number;
         this.url = url;
         this.entity_name = entity_name;
+        this.timestamp = timestamp;
         this.rake_score = rake_score;
         this.tf_score = tf_score;
         this.idf_score = idf_score;
@@ -38,6 +41,14 @@ class InformationUnmap
 
     public void setTemplate_number(String template_number) {
         this.template_number = template_number;
+    }
+
+    public String getTimestamp() {
+        return timestamp;
+    }
+
+    public void setTimestamp(String timestamp) {
+        this.timestamp = timestamp;
     }
 
     public String getLine_number() {
@@ -202,7 +213,7 @@ public class Unmapped
 
 
     }
-    public void unmappedFunc () throws IOException
+    public void unmappedFunc (String head_entity) throws IOException
     {
         FileReader f = new FileReader("notMappedInTKB.csv");
         BufferedReader b = new BufferedReader(f);
@@ -264,7 +275,8 @@ public class Unmapped
             }
             else
             {
-                InformationUnmap info = new InformationUnmap(template_num.get(i), line_num.get(i),url.get(i),entity.get(i),rake_score.get(i),tf_score.get(i),idf_score.get(i),final_score.get(i),relation_sim_score.get(i),quick_ans.get(i));
+                Date date = new Date();
+                InformationUnmap info = new InformationUnmap(template_num.get(i), line_num.get(i),url.get(i),entity.get(i),date.toString(),rake_score.get(i),tf_score.get(i),idf_score.get(i),final_score.get(i),relation_sim_score.get(i),quick_ans.get(i));
                 obj.add(info);
             }
         }
@@ -336,11 +348,24 @@ public class Unmapped
         }
 
         //printing it back
-        for(int i=0; i<obj.size();i++)
-        {
+        for(int i=0; i<obj.size();i++) {
 //            bw.write(obj.get(i).getEntity_name()+";"+obj.get(i).getFinal_score()+";"+obj.get(i).getTemplate_number()+";"+obj.get(i).getLine_number()+"\n");
             InformationUnmap info_temp = obj.get(i);
-            bw.write(getTemplate(Integer.parseInt(info_temp.getTemplate_number()))+";" +getLine(Integer.parseInt(info_temp.getTemplate_number()),Integer.parseInt(info_temp.getLine_number())) +";"+obj.get(i).getEntity_name()+";"+obj.get(i).getRake_score()+";"+info_temp.getTf_score()+";"+info_temp.getIdf_score()+";"+obj.get(i).getFinal_score()+";" + info_temp.getRelation_score()+";" +obj.get(i).getQuick_ans()+"\n");
+            String[] head_list = head_entity.toLowerCase().split("_");
+            int flag = 0;
+            for (int h = 0; h < head_list.length; h++) {
+                if (!info_temp.getEntity_name().toLowerCase().contains(head_list[h])) {
+                    flag = 1;
+                    break;
+                }
+            }
+            if(flag == 0 && info_temp.getEntity_name().length() < head_entity.length() + 2){
+                System.out.println("i is:: " + i + " recent removed:: " + entity.get(i));
+            }
+            else {
+                bw.write(getTemplate(Integer.parseInt(info_temp.getTemplate_number())) +  ";" +obj.get(i).getUrl() +";" + getLine(Integer.parseInt(info_temp.getTemplate_number()), Integer.parseInt(info_temp.getLine_number())) + ";" + obj.get(i).getEntity_name() + ";" + obj.get(i).getRake_score() + ";" + info_temp.getTf_score() + ";" + info_temp.getIdf_score() + ";" + obj.get(i).getFinal_score() + ";" + info_temp.getRelation_score() + ";" + obj.get(i).getQuick_ans()+";"+obj.get(i).getTimestamp() + "\n");
+                System.out.println("i is:: " + i + " recent not removed:: " + entity.get(i));
+            }
         }
 
         //removing and storing separately those entities which have WIKI page

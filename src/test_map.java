@@ -154,7 +154,7 @@ public class test_map
 
     }
 
-	public void test_map_func() throws IOException
+	public void test_map_func( String head_entity) throws IOException
 	{
 		FileReader f = new FileReader("final_normalize.csv");
         BufferedReader b = new BufferedReader(f);
@@ -352,13 +352,15 @@ public class test_map
         // System.out.println(entity.size() + ":" + entity.get(entity.size() -1));
         for(int i=0;i<entity.size(); i++)
         {
-            bw2.write( template_num.get(i) + ";" + line_num.get(i) + ";" + url.get(i) + ";" + entity.get(i) + ";" + rake_score.get(i) + ";" + tf_score.get(i) + ";" + idf_score.get(i) + ";" + final_score.get(i) + ";" + relation_sim_score.get(i) + ";" + quick_ans.get(i) +"\n");
+            bw2.write(template_num.get(i) + ";" + line_num.get(i) + ";" + url.get(i) + ";" + entity.get(i) + ";" + rake_score.get(i) + ";" + tf_score.get(i) + ";" + idf_score.get(i) + ";" + final_score.get(i) + ";" + relation_sim_score.get(i) + ";" + quick_ans.get(i) + "\n");
         }
         // System.out.println("out again");
         //writing in a txt
         for(int i=0;i<entity.size(); i++)
         {
+
             bw3.write(entity.get(i) + "\n");
+
         }        
         // System.out.println("out");
         try
