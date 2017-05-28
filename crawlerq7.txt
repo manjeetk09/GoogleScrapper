@@ -1,120 +1,78 @@
-Find the derivatives of various functions using different methods and rules.
- Several Examples with detailed solutions are presented.
- More exercises with answers are at the end of this page.
-An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic  i.
-e.
-, addition, multiplication, and exponentiation .
- In order to take the derivative of these functions, we will need the power rule.
-Calculus.
- Differentiation.
- Examples _ Derivative of Algebraic functions.
-In the first section of this chapter we saw the definition of the derivative and we computed a couple of derivatives using the definition.
-  As we saw in those examples there was a fair amount of work involved in computing the limits and the functions that we worked with were not terribly complicated.
-   .
-   .
-   .
- .
-                                       .
-                                                     .
-                                                       .
-                                                                     .
-                                                          .
- .
-                                                   .
-                                           .
- .
-                                                       .
-   .
-   .
-                                                    .
-                                                            .
-                                              .
-                                                           .
-                .
-                                           .
-                                                      .
-                 .
-                             .
-                                                    .
-                                                    .
-                              .
-                                            .
-                                   .
-For more complex functions using the definition of the derivative would be an almost impossible task.
-  Luckily for us we won t have to use the definition terribly often.
-  We will have to use it on occasion, however we have a large collection of formulas and properties that we can use to simplify our life considerably and will allow us to avoid using the definition whenever possible.
-   .
-   .
-   .
-   .
-   .
- .
-                                       .
- .
-                                                     .
- .
-                                                       .
-                                                                     .
-                                                          .
- .
-                                                   .
-                                           .
- .
-                                                       .
-   .
-   .
-   .
-                                                    .
-                                                            .
- .
-                                              .
-                                                           .
-                .
-                                           .
-                                                      .
-                 .
-                             .
-                                                    .
-                                                    .
-                              .
-                                            .
-                                   .
-   .
-   .
-   .
-   .
-   .
- .
-                                       .
- .
-                                                     .
- .
-                                                       .
-                                                                     .
-                                                          .
- .
-                                                   .
-                                           .
- .
-                                                       .
-   .
-   .
-   .
-                                                    .
-                                                            .
- .
-                                              .
-                                                           .
-                .
-                                           .
-                                                      .
-                 .
-                             .
-                                                    .
-                                                    .
-                              .
-                                            .
-                                   .
-Make sure that you can do the kind of work that we just did in this example.
-  You will be asked numerous times over the course of the next two chapters to determine where functions are positive and or negative.
-  If you need some review or want to practice these kinds of problems you should check out the Solving Inequalities section of my Algebra Trig Review.
+Common logical data models for databases include.
+ Hierarchical database model.
+ Network model.
+ Relational model.
+ Entity relationship model Enhanced entity relationship model.
+ Object model.
+ Document model.
+ Entity attribute value model.
+ Star schema.
+Enhanced.
+.
+.
+There are many kinds of data models.
+ Some of the most common ones include.
+ Hierarchical database model.
+ Relational model.
+ Network model.
+ Object_oriented database model.
+ Entity_relationship model.
+ Document model.
+ Entity_attribute_value model.
+ Star schema.
+ The object_relational model, which combines the two that make up its name.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Common logical data models for databases include.
+ Hierarchical database model.
+ Network model.
+ Relational model.
+ Entity relationship model Enhanced entity relationship model.
+ Object model.
+ Document model.
+ Entity attribute value model.
+ Star schema.
+Enhanced.
+.
+.
+Database Models.
+Glossary.
+Database systems can be based on different data models or database models respectively.
+ A data model is a collection of concepts and rules for the description of the structure of the database.
+ Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
+ The most often used data models are.
+A model is a representation of reality,  real world  objects and events, associations.
+ It is an abstraction that concentrates on the essential, inherent aspects an organization and ignores the accidental properties.
+ A data model represents the organization itself.
+ It should provide the basic concepts and notations that will allow database designers and end users unambiguously and accurately to communicate their understanding of the organizational data.

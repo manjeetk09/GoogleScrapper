@@ -1,283 +1,131 @@
-0;A number of wonderful online function machines develop the same concept.
-0; Students can work individually, in pairs, or as a class to solve the function machine puzzles.
-0; Amy s Electronic Classroom.
-0; Function Machine, Grades 3_4 With the option of guessing outputs, inputs, or function, this machine is a good starting point.
-0; As the user makes a series of successful guesses, the functions progress from 1 to 2 rules.
-0; Unfortunately, if you play again, the sequence of problems is identical.
-0; Math Playground s Function Machine This machine for guessing mystery function rules lets the user control the maximum input number, with options for manual or computer inputs and 1 or 2 function rules.
-0; It requires five inputs outputs before it will let the user guess the function rule.
-0; Ambleside Function Machine This machine for guessing mystery function rules offers a variety of 1_ or 2_step function rules.
-0; The three function machines at Shodor s Interactivate site include help and lessons for students and teachers.
-0; Function Machine Positive Linear Function Machine Linear Function Machine .
-0; Annenberg Teachers  Lab Patterns in Mathematics.
-0; Mystery Operation This challenging function machine takes user input for two variables to produce an output.
-0; After examining a series of input pairs and outputs, the user tries to deduce and apply the mystery operation to predict the output for a pair of machine_generated inputs.
-0; An example of a mystery operation in this machine is.
-0; a   .
-0;The NCTM Standard 2 for Patterns, Functions, and Algebra expects students to.
-0; understand various types of patterns and functional relationships .
-0; use symbolic forms to represent and analyze mathematical situations and structures .
-0; use mathematical models and analyze change in both real and abstract contexts.
-0;As we point out and use functions in real_life settings, we can ask our students to keep alert for other input_output situations in the real world.
-0; You might draw from the following examples.
-0; A soda, snack, or stamp machine The user puts in money, punches a specific button, and a specific item drops into the output slot.
-0;  The function rule is the product price.
-0; The input is the money combined with the selected button.
-0; The output is the product, sometimes delivered along with coins in change, if the user has entered more money than required by the function rule.
-0; .
-0; Measurement.
-0;   Thermometer Most thermometers come with both Celsius and Fahrenheit scales.
-0; Students can study a thermometer as an input output table.
-0; Students who have had experience in deducing composite function rules might be able to compare the two scales and figure out the mystery function rule __ the formula for converting from one scale to the other.
-0; Circumference of a circle is a function of diameter.
-0; Students can measure the diameter and circumference of several round containers or lids and record that data in a table.
-0; If diameter is the input and circumference is the output, what s the function rule  As they divide each container s circumference by its diameter to find that rule, they should notice a constant ratio __ a rough approximation of pi.
-0; Arm length is a function of height.
-0; Miles per gallon A car s efficiency in terms of miles per gallon of gasoline is a function.
-0; If a car typically gets 20 mpg, and if you input 10 gallons of gasoline, it will be able to travel roughly 200 miles.
-0; The car s efficiency may be a function of the car s design , speed, temperature inside and outside of the car, and other factors.
-0; Basic economics and money math.
-0; A weekly salary is a function of the hourly pay rate and the number of hours worked.
-0; Compound interest is a function of initial investment, interest rate, and time.
-0; Supply and demand.
-0; As price goes up, demand goes down.
-0; Shadows The length of a shadow is a function of its height and the time of day.
-0; Shadows can be used to find the height of large objects such as trees or buildings  the same function rule by which we compare the length of an upright ruler to its shadow will help us find the unknown input when we measure its shadow.
-0; Geometric Patterns Polyhedra As they examine the relationship between the number of faces, edges, and vertices of various polyhedra, can students discover Euler s rule  F   V   E   2  The number of faces plus the number of vertices equals the number of edges plus 2.
-0;  For example.
-0;      sides per face faces edges vertices tetrahedron 3 4 6 4 hexahedron 3 6 9 5 octahedron 3 8 12 6 decahedron 3 10 15 7 icosahedron 3 20 30 12 cube 4 6 12 8 dodecahedron 5 12 30 20 Pattern block trains   of  cat heads  perimeter 1 7 2 12 3 17 Students can arrange a few pattern blocks in a simple design, give it a name, find the perimeter of the design , and then make a train of 2 or 3 repetitions of that design and find the perimeter of the train as it grows.
-0; As they make a data table, can they find a function rule or rules describing the relationship between the number of repetitions and the perimeter of the train  The function rule.
-0; x5  2 .
-0; Geometric patterns in the world around us You or your students could take photos of architectural details with repeating patterns and make a table to analyze each pattern.
-0; For example, in the brick wall shown here, if each brick is 2  x 8 , what is the perimeter of a series of bricks arranged in a stair_step pattern  What function rule describes that relationship    of bricks perimeter 1 20 2 32 3 44 The function rule is x6   4 .
-0; How about the patterns found in floor or wall tiles  What is the ratio of one color to another color  How many tiles of each color would we need to purchase to tile a room of a given size  What if we wanted to include a border of a given color  Some of the mosaic floor designs in the Library of Congress in Washington, D.
-0;C.
-0; are magnificent examples to study.
-0; Click here to view the images below in full_size.
-0; Most of the examples in this article have featured data tables for analyzing functions, but of course, graphs are another effective means of representing input_output situations, including changes over time .
-0; As students begin to use functions in the real world, more and more opportunities will present themselves, and the concept and value of functions will truly come to life.
-0; ADDITIONAL RESOURCE Learning Math.
-0; Patterns, Functions, and Algebra Annenberg Media has produced a fine collection of free online streaming videos on demand for teachers of grades K 8.
-0; Topics in this series include.
-0; algebraic thinking, patterns in context, functions and algorithms, proportional reasoning, linear functions and slope, solving equations, nonlinear functions, and classroom studies.
-0; National Council of Teachers of Mathematics.
-0; .
-0; Principles and standards for school mathematics.
-0; Reston, VA.
-0; NCTM About the Author Wendy Petti is the creator of the award_winning Math Cats Web site, author of Exploring Math with MicroWorlds EX , and a frequent presenter at regional and national math and technology conferences.
-0; She teaches grades 4 and 5 math at Washington International School.
-0; Article by Wendy Petti Copyright    2007 Education World 11 20 2007.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;We use algebra quite frequently in our everyday lives, and without even realizing it  We not only use algebra, we actually need algebra, to solve most of our problems that involves calculations.
-0;Here are some simple examples that demonstrate the relevance of algebra in the real world.
-0;The figure below illustrates the problem.
-0; The different shapes inside the bags denote different items purchased.
-0; The number depicts the item number.
-0;We use simple algebraic formula  x y  to calculate the number of bags.
-0;x   Number of items purchased   10.
-0;y   Capacity of 1 bag   3.
-0;Hence,.
-0; 10 3     3.
-0;33  bags    4  bags.
-0;So,we need 4 shopping bags to put 10 items.
-0;The figure below shows the three items in different shapes and colors.
-0;This will help your mind to calculate faster.
-0;We will use algebra to solve the problem easily and quickly.
-0;The prices are.
-0;a   Price of two dozen eggs    10.
-0;b   Price of one bread    5.
-0;c   Price of one bottle of juice   8.
-0;   Money needed   a   3b   5c.
-0;   Money needed    10   3  5   10    15    40    65.
-0;In the below diagram, each block represents  1, and each row is a bundle of  3, which is used to buy 1 gallon of gas.
-0;We use simple algebraic formula, x y  to calculate the total gallons that can be bought.
-0;x   Money in your pocket   15.
-0;y   Price of 1 gallon of gas   3.
-0;Hence,.
-0;      5 gallon.
-0;So, with  15 we can buy 5 gallons of gas.
-0;Life s many problems are disguised in the form of math equations, and if we know the math, it s fairly simple to solve those problems.
+0;Hierarchical Database model is one of the oldest database models, dating from late 1950s.
+0; One of the first hierarchical databases Information Management System was developed jointly by North American Rockwell Company and IBM.
+0; This model is like a structure of a tree with the records forming the nodes and fields forming the branches of the tree.
+0;                        .
+0;                            .
+0;                .
+0;                              .
+0;                                .
+0;                                .
+0;                        .
+0;                            .
+0;                .
+0;                              .
+0;                                .
+0;The tree structure has parts record superior to supplier record.
+0; That is parts form the parent and supplier forms the children.
+0; Each of the four trees figure, consists of one part record occurrence, together with a set of subordinate supplier record occurrences.
+0; There is one supplier record for each supplier of a particular part.
+0; Each supplier occurrence includes the corresponding shipment quantity.
+0;                                .
+0;                        .
+0;                            .
+0;                .
+0;                              .
+0;                                .
+0;                                .
 0;1.
-0;  Understand the problem.
-0;The task is to find three consecutive numbers whose total is 216.
-0;2.
-0;  Write the variable.
-0;Let   x   represent the first number.
-0;So,  x    first number.
-0; x 1    second number.
-0; x 2   third number.
-0;3.
-0;  Write the equation.
-0;When you add up all the numbers, you are supposed to get 216.
-0; x        216.
-0; 3x   3    216.
-0;4.
-0;  Solve the equation.
-0;Subtract 3 from both sides.
-0; 3x   3 _ 3    216 _ 3.
-0; 3x     213.
-0;Divide each side by 3.
-0;   3    213   3.
-0; x   71 .
-0;5.
-0;  Check your answer.
-0;First number   Second number   Third number   216.
-0; x      .
-0;71     .
-0;71   72   73   216.
-0;So the three numbers whose sum is 216 are 71, 72 and 73.
-0;1.
-0;  Understand the problem.
-0;A group of 5 boys goes to the theatre.
-0; The cost of ticket and popcorn is  55 and  25 respectively.
-0; What is cost per person .
-0;2.
-0;  Write the variable.
-0;Let s say,  x    cost of ticket person and  y    cost of popcorn person.
-0;3.
-0;  Write the equation.
-0;If 5 tickets cost  55, then cost of one ticket is,.
-0; 5x    55.
-0; x      55   5 .
-0;If 5 bags of popcorn cost  25, then the cost of each bag is,.
-0; 5y     25.
-0; y      25   5 .
-0;Total cost of the movie per person    x   y  .
-0;4.
-0;  Solve the equation.
-0;Cost of ticket person.
-0; x     55   5 .
-0; x     11.
-0;Cost of popcorn person.
-0; y      25   5 .
-0; y      5.
-0;5.
-0;  Check your answer.
-0;Cost of ticket person   Cost of popcorn person   Total cost.
-0;11   5   16.
-0;If we add up 16 five times , the result is,.
-0;16   16   16   16   16   80.
-0; 80 is the total cost.
-0;1.
-0;  Understand the problem.
-0;The area of a rectangle is 72 cm.
-0; The width is twice its length.
-0; What is the length and width of the rectangle .
-0;2.
-0;  Write the variable.
-0;Let   x   be the length and   2x   be the width.
-0;3.
-0;  Write the equation.
-0;Length     Width   Area.
-0; x   x       2x 2    Area.
-0;4.
-0;  Solve the equation.
-0; 2x 2    Area.
-0; 2x 2    72.
-0; x 2     72   2 .
-0; x 2    36.
-0; x    6.
-0; x     Length.
-0;So, the length is 6 cm.
-0;The width is twice its length.
-0; 2x    2 x 6   12.
-0;So, the width is 12 cm.
-0;5.
-0;  Check your answer.
-0;The length is 6 cm and width is 12 cm.
-0;The perimeter i.
-0;e.
-0; the distance around the edges is the sum of lengths and widths.
-0; Since rectangle has two lengths and two breadths hence the equation is,.
-0;2 x .
-0;2 x   2 x 18   36 cm.
-0;Subscribe to our newsletter and be the first to know about all updates .
-0;Home.
-0;Grades.
-0;Math practice.
-0;Worksheets.
-0;Learn.
-0;Site Map.
-0;Why Us.
-0;Contact Us.
-0;FAQs.
-0;Terms of Use.
-0;Blog.
-0;Privacy policy.
-0;Register.
-0;Sign In.
-0;  2017 iPracticeMath   All Rights Reserved   Terms of Use.
+0; Simplicity.
+0;                        .
+0;                            .
+0;                .
+0;                              .
+0;                                .
+0;                                .
 0;.
 0;.
-0;Grades 1_5 6 7 8 9 10 11 12.
-0;Grades.
-0;1_5.
-0;6.
-0;7.
-0;8.
-0;9.
-0;10.
-0;11.
-0;12.
-0;Grades.
-0;Math Practice.
-0;Learn.
-0;Worksheets.
-0;Reports.
-0;Awards.
-0;Sign In Register.
-0;Home.
-0;Learn.
-0;Algebra.
-0;What is Algebra.
-0;Algebra in Every Day life.
-0;Basic algebraic terms.
-0;Solving methods for algebra.
-0;Linear, non_linear equations.
-0;Algebra Formulae.
-0;Commutative Associative laws.
-0;Distance Formula.
-0;Foil Method.
-0;Midpoint Formula.
-0;Parantheses Rules.
-0;Quadrartic Equation.
-0;Quadratic Formula.
-0;Polynomial Operations.
-0;Polynomial Addition.
-0;Polynomial Subtraction.
-0;Polynomial Multiplication.
-0;Polynomial Long Division.
-0;Graphs of Polynomial functions.
-0;What is Algebra.
-0;Algebra in Every Day life.
-0;Basic algebraic terms.
-0;Solving methods for algebra.
-0;Linear, non_linear equations.
-0;Algebra Formulae.
-0;Commutative Associative laws.
-0;Distance Formula.
-0;Foil Method.
-0;Midpoint Formula.
-0;Parantheses Rules.
-0;Quadrartic Equation.
-0;Quadratic Formula.
-0;Polynomial Operations.
-0;Polynomial Addition.
-0;Polynomial Subtraction.
-0;Polynomial Multiplication.
-0;Polynomial Long Division.
-0;Graphs of Polynomial functions.
-0;Some examples of functions include.
-0;The set of all x_values such that x is an element of the set of real numbers and is greater than 0.
-0;Algebraic formula.
-0; f x_5.
-0;Education.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Database Management Systems.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Hierarchical Databases In the Hierarchical Database Model we have to learn about the databases.
+0; It is very fast and simple.
+0; In a hierarchical database, records contain information about there groups of parent child relationships, just like as a tree structure.
+0; The structure implies that a record can have also a repeating information.
+0; In this structure Data follows a series of records, It is a set of field values attached to it.
+0; It collects all records together as a record type.
+0; These record types are the equivalent of tables in the relational model, and with the individual records being the equivalent of rows.
+0; To create links between these record types, the hierarchical model uses these type Relationships.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Advantage Hierarchical database can be accessed and updated rapidly because in this model structure is like as a tree and the relationships between records are defined in advance.
+0; This feature is a two_edged.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Disadvantage This type of database structure is that each child in the tree may have only one parent, and relationships or linkages between children are not permitted, even if they make sense from a logical standpoint.
+0; Hierarchical databases are so in their design.
+0; it can adding a new field or record requires that the entire database be redefined.
+0; Network Database A network databases are mainly used on a large digital computers.
+0; It more connections can be made between different types of data, network databases are considered more efficiency It contains limitations must be considered when we have to use this kind of database.
+0; It is Similar to the hierarchical databases, network databases .
+0;Network databases are similar to hierarchical databases by also having a hierarchical structure.
+0; A network database looks more like a cobweb or interconnected network of records.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;The relational database organizes data in a series of tables.
+0; Each table has its own fields specific to the type of data being stored.
+0; The database management system designed around the relationships between tables has survived more than two decades because of its flexibility.
+0; Once the user enters data into a table and saves it in the massive database, a query will recall the information at any time.

@@ -1,9 +1,31 @@
-An algebraic function is a function that involves only algebraic operations, like, addition, subtraction, multiplication, and division, as well as fractional or rational exponents.
-0.87: (An algebraic function; is a function like; addition , subtraction , multiplication , and division)
-0.698: (An algebraic function; is; a function that involves only algebraic operations)
-0.564: (algebraic operations; be involves by; a function)
+Common logical data models for databases include.
+No extractions found.
 
- Think of an algebraic function as a machine, where real numbers go in, mathematical operations occur, and other numbers come out.
+ Hierarchical database model.
+No extractions found.
+
+ Network model.
+No extractions found.
+
+ Relational model.
+No extractions found.
+
+ Entity relationship model Enhanced entity relationship model.
+No extractions found.
+
+ Object model.
+No extractions found.
+
+ Document model.
+No extractions found.
+
+ Entity attribute value model.
+0.767: (Entity; attribute; value model)
+
+ Star schema.
+No extractions found.
+
+Enhanced.
 No extractions found.
 
 .
@@ -12,21 +34,227 @@ No extractions found.
 .
 No extractions found.
 
-An algebraic function is a function that involves only algebraic operations, like, addition, subtraction, multiplication, and division, as well as fractional or rational exponents.
-0.87: (An algebraic function; is a function like; addition , subtraction , multiplication , and division)
-0.698: (An algebraic function; is; a function that involves only algebraic operations)
-0.564: (algebraic operations; be involves by; a function)
-
- Think of an algebraic function as a machine, where real numbers go in, mathematical operations occur, and other numbers come out.
+Common logical data models for databases include.
 No extractions found.
 
-An algebraic function is a function which satisfies , where is a polynomial in and with integer coefficients.
-0.653: (An algebraic function; is; a function which satisfies)
+ Hierarchical database model.
+No extractions found.
 
- Functions that can be constructed using only a finite number of elementary operations together with the inverses of functions capable of being so constructed are examples of algebraic functions.
-0.909: (Functions that can be constructed using only a finite number of elementary operations together with the inverses of functions capable; are examples of; algebraic functions)
-0.634: (a finite number of elementary operations; be using together with; the inverses of functions capable)
+ Network model.
+No extractions found.
 
- Nonalgebraic functions are called transcendental functions.
-0.763: (Nonalgebraic functions; are called; transcendental functions)
+ Relational model.
+No extractions found.
+
+ Entity relationship model Enhanced entity relationship model.
+No extractions found.
+
+ Object model.
+No extractions found.
+
+ Document model.
+No extractions found.
+
+ Entity attribute value model.
+0.767: (Entity; attribute; value model)
+
+ Star schema.
+No extractions found.
+
+Enhanced.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+There are many kinds of data models.
+No extractions found.
+
+ Some of the most common ones include.
+No extractions found.
+
+ Hierarchical database model.
+No extractions found.
+
+ Relational model.
+No extractions found.
+
+ Network model.
+No extractions found.
+
+ Object_oriented database model.
+No extractions found.
+
+ Entity_relationship model.
+No extractions found.
+
+ Document model.
+No extractions found.
+
+ Entity_attribute_value model.
+No extractions found.
+
+ Star schema.
+No extractions found.
+
+ The object_relational model, which combines the two that make up its name.
+0.736: (two that make up its name; be combines by; The object_relational model)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A Database model defines the logical design of data.
+0.833: (A Database model; defines; the logical design of data)
+
+ The model describes the relationships between different parts of the data.
+0.807: (The model; describes; the relationships)
+0.303: (different; be parts of; the data)
+
+ Historically, in database design, three models are commonly used.
+0.764: (three models; Historically are commonly used in; database design)
+
+ They are, Hierarchical Model.
+No extractions found.
+
+ Network Model.
+No extractions found.
+
+ Relational Model.
+No extractions found.
+
+     .
+No extractions found.
+
+High_level Conceptual Data models.
+No extractions found.
+
+.
+No extractions found.
+
+Database systems can be based on different data models or database models respectively.
+0.9: (Database systems; can be based on; different data models or database models)
+
+ A data model is a collection of concepts and rules for the description of the structure of the database.
+0.939: (A data model; is a collection of; concepts and rules)
+0.922: (A data model; is a collection of concepts for; the description of the structure of the database)
+0.736: (A data model; is; a collection of concepts)
+
+ Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
+0.74: (Structure of the database; means; the data types)
+
+ The most often used data models are.
+No extractions found.
+
+Data models define how the logical structure of a database is modeled.
+No extractions found.
+
+ Data Models are fundamental entities to introduce abstraction in a DBMS.
+0.691: (abstraction; to be introduce in; a DBMS.)
+
+ Data models define how data is connected to each other and how they are processed and stored inside the system.
+0.92: (they; be stored inside; the system)[attrib=Data models define]
+0.894: (data; is connected to; each other)[attrib=Data models define]
+0.852: (they; is connected to; each other)[attrib=Data models define]
+0.807: (data; be stored inside; the system)[attrib=Data models define]
+
+  .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+  .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+  Entity_Relationship.
+No extractions found.
+
+The Entity_Relationship model has emerged as one of the main techniques for modeling database design and forms the basis for the database design methodology.
+0.889: (The Entity_Relationship model; has emerged as; one of the main techniques)
+
+ The object oriented data model extends the definition of an entity to include, not only the attributes that describe the state of the object but also the actions that are associated with the object, that is, its behavior.
+0.846: (data model; extends; the definition of an entity)
+
+ The object is said to encapsulate both state and behavior.
+0.761: (The object; to encapsulate; state and behavior)
+
+ Entities in semantic systems represent the equivalent of a record in a relational system or an object in an OO system but they do not include behaviour .
+0.85: (Entities; represent the equivalent of a record in; a relational system or an object)
+0.842: (Entities; represent; the equivalent of a record)
+0.825: (they; do not include; behaviour)
+
+ They are abstractions  used to represent real world  e.
+No extractions found.
+
+g.
+No extractions found.
+
+ customer  or conceptual  e.
+No extractions found.
+
+g.
+No extractions found.
+
+ bank account  objects.
+No extractions found.
+
+ The functional data model is now almost twenty years old.
+0.758: (The functional data model; is now; old)
+
+ The original idea was to  view the database as a collection of extensionally defined functions and to use a functional language for querying the database.
+0.86: (The original idea; was to view the database to as; a collection of extensionally defined functions)
+0.767: (The original idea; to view the database to as; a collection of extensionally defined functions)
+0.756: (the database; to view to be as; a collection of extensionally defined functions)
+0.734: (The original idea; was to view to; the database)
+0.669: (The original idea; to view to; the database)
+0.581: (The original idea; was to to use; a functional language)
+0.504: (The original idea; to to use; a functional language)
 

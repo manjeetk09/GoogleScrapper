@@ -4,12 +4,10 @@ No extractions found.
 .
 No extractions found.
 
-An algebraic function is a function that involves only algebraic operations, like, addition, subtraction, multiplication, and division, as well as fractional or rational exponents.
-0.87: (An algebraic function; is a function like; addition , subtraction , multiplication , and division)
-0.698: (An algebraic function; is; a function that involves only algebraic operations)
-0.564: (algebraic operations; be involves by; a function)
+.
+No extractions found.
 
- Think of an algebraic function as a machine, where real numbers go in, mathematical operations occur, and other numbers come out.
+.
 No extractions found.
 
 .
@@ -18,245 +16,266 @@ No extractions found.
 .
 No extractions found.
 
-An algebraic function is a function which satisfies , where is a polynomial in and with integer coefficients.
-0.653: (An algebraic function; is; a function which satisfies)
-
- Functions that can be constructed using only a finite number of elementary operations together with the inverses of functions capable of being so constructed are examples of algebraic functions.
-0.909: (Functions that can be constructed using only a finite number of elementary operations together with the inverses of functions capable; are examples of; algebraic functions)
-0.634: (a finite number of elementary operations; be using together with; the inverses of functions capable)
-
- Nonalgebraic functions are called transcendental functions.
-0.763: (Nonalgebraic functions; are called; transcendental functions)
-
-This function is a well_defined function, since we assume every element  x  in X  is mapped via the function machine to a unique element  y  in X , i.
-0.925: (every element x; is mapped via; the function machine)
-0.667: (This function; is; a well_defined function)
-
-e.
+.
 No extractions found.
-
-, every person  x  has exactly one mother  y .
-0.576: (every person x; has y; exactly one mother)
-
- Although the codomain is the set of all people  X , it s clear that it will be impossible for this function to output certain people.
-0.861: (the codomain; is the set of; all people)
-0.678: (it; will be impossible for; this function)
-0.621: (the codomain; is; the set of all people)
-0.584: (it; will be impossible to; output certain people)
-0.576: (it; will be; impossible)
 
- There s no way the mother function  m  could output any males, nor could it output any childless females.
+.
 No extractions found.
 
- In other words, the range of the function  m  is the set of female people who have had children, which is a proper subset of the set  X  of all people.
-0.938: (the range of the function m; is the set of; female people who have had children ,)
-0.817: (children; is a proper subset of; the set)
-0.794: (the range of the function m; is; the set of female people)
-0.746: (the range of the function m; is the set of female people in; other words)
-0.399: (the set of female people; be the range of; the function m)
-
-We can also define a function using an algebraic formula, such as  f x 2 1 .
-0.64: (We; can also define; a function)
-0.512: (We; can also define a function using; an algebraic formula)
-
- Such algebraic formulas are the way many people think of functions, though, as the above examples show, such a formula is not required.
-0.817: (many people; think of; functions)
-
-              .
+.
 No extractions found.
 
-                   .
+.
 No extractions found.
 
-Okay, with that out of the way let s get back to the definition of a function and let s look at some examples of equations that are functions and equations that aren t functions.
-0.775: (s; look at; some examples of equations)
-
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-  .
+Database Management Systems.
 No extractions found.
 
-                                      .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                           .
+.
 No extractions found.
 
-                                          .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                             .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                        .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-                                            .
+.
 No extractions found.
 
-                                 .
+.
 No extractions found.
 
-                                                    .
-No extractions found.
+Hierarchical Databases In the Hierarchical Database Model we have to learn about the databases.
+0.74: (we; have to learn about; the databases)
 
- .
+ It is very fast and simple.
 No extractions found.
+
+ In a hierarchical database, records contain information about there groups of parent child relationships, just like as a tree structure.
+0.783: (records; contain; information)
+0.569: (records; contain information about there groups of parent child relationships in; a hierarchical database)
+
+ The structure implies that a record can have also a repeating information.
+0.68: (a record; can have also; a repeating information)
 
-                                                     .
+ In this structure Data follows a series of records, It is a set of field values attached to it.
+0.893: (It; is a set of; field values attached to it)[enabler=this structure Data follows a series of records]
+0.805: (Data; follows; a series of records)
+0.636: (Data; follows a series of records in; this structure)
+0.628: (field values; be attached to; it)
+0.62: (It; is; a set of field values)
+
+ It collects all records together as a record type.
+0.785: (It; collects all records together as; a record type)
+0.488: (It; collects together; all records)
+
+ These record types are the equivalent of tables in the relational model, and with the individual records being the equivalent of rows.
+0.939: (These record types; are the equivalent of; tables)
+0.896: (These record types; are the equivalent of tables in; the relational model)
+0.82: (the individual records; being the equivalent of; rows)
+
+ To create links between these record types, the hierarchical model uses these type Relationships.
+0.591: (the hierarchical model; uses Relationships; these type)
+0.562: (these type; be uses Relationships by; links)
+
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                            .
+.
 No extractions found.
 
-                                                 .
+.
 No extractions found.
 
-                                               .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                     .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                       .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
+
+Advantage Hierarchical database can be accessed and updated rapidly because in this model structure is like as a tree and the relationships between records are defined in advance.
+0.819: (Advantage Hierarchical database; can be updated rapidly in; this model structure)
 
- .
+ This feature is a two_edged.
+0.716: (This feature; is; a two_edged)
+
+.
 No extractions found.
 
-                                                     .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                      .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                                  .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                                 .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                     .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
+
+Disadvantage This type of database structure is that each child in the tree may have only one parent, and relationships or linkages between children are not permitted, even if they make sense from a logical standpoint.
+0.157: (they; even make sense from; a logical standpoint)
+0.128: (they; even make; sense)
+
+ Hierarchical databases are so in their design.
+0.778: (Hierarchical databases; are so in; their design)
+
+ it can adding a new field or record requires that the entire database be redefined.
+0.487: (it; can adding; a new field or record)
+
+ Network Database A network databases are mainly used on a large digital computers.
+0.926: (Network Database; are mainly used on; a large digital computers)
+
+ It more connections can be made between different types of data, network databases are considered more efficiency It contains limitations must be considered when we have to use this kind of database.
+0.917: (more connections; can be made between; different types of data)
+0.886: (It; can be made between; different types of data)
+0.735: (network databases; are considered; efficiency It contains limitations must be considered when we have to use this kind of database)
+0.667: (we; have to use; this kind of database)
+
+ It is Similar to the hierarchical databases, network databases .
+0.709: (It; is Similar to; the hierarchical databases)
+0.646: (It; is; Similar)
+
+Network databases are similar to hierarchical databases by also having a hierarchical structure.
+0.844: (Network databases; are similar to; hierarchical databases)
+
+ A network database looks more like a cobweb or interconnected network of records.
+0.864: (A network database; looks like; a cobweb or interconnected network of records)
 
- .
+.
 No extractions found.
 
-                                 .
+.
 No extractions found.
 
-                                 .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                                  .
+.
 No extractions found.
 
-                                             .
+.
 No extractions found.
 
-                                                             .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                                .
+.
 No extractions found.
 
-                                                           .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                                .
+.
 No extractions found.
 
-                                .
+.
 No extractions found.
 
-                                                  .
+.
 No extractions found.
 

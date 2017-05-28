@@ -1,8 +1,91 @@
 import java.io.*;
 import java.util.*;
 
+class Entity
+{
+    String name;
+    String template;
+    String timestamp;
+    String para;
+    String url;
+
+    public Entity(String name, String template, String timestamp, String para, String url) {
+        this.name = name;
+        this.template = template;
+        this.timestamp = timestamp;
+        this.para = para;
+        this.url = url;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getTemplate() {
+        return template;
+    }
+
+    public void setTemplate(String template) {
+        this.template = template;
+    }
+
+    public String getTimestamp() {
+        return timestamp;
+    }
+
+    public void setTimestamp(String timestamp) {
+        this.timestamp = timestamp;
+    }
+
+    public String getPara() {
+        return para;
+    }
+
+    public void setPara(String para) {
+        this.para = para;
+    }
+
+    public String getUrl() {
+        return url;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
+    }
+}
+
 public class test_map
 {
+    public static void saveStatus(Serializable object){
+        try {
+            FileOutputStream saveFile = new FileOutputStream("duplicates.dat");
+            ObjectOutputStream out = new ObjectOutputStream(saveFile);
+            out.writeObject(object);
+            out.close();
+            saveFile.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static Object loadStatus(){
+        Object result = null;
+        try {
+            FileInputStream saveFile = new FileInputStream("duplicates.dat");
+            ObjectInputStream in = new ObjectInputStream(saveFile);
+            result = in.readObject();
+            in.close();
+            saveFile.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return result;
+    }
+
 	public void test_map_func() throws IOException
 	{
 		FileReader f = new FileReader("final_normalize.csv");
@@ -54,6 +137,9 @@ public class test_map
         }catch(Exception e){
             e.printStackTrace();
         }
+        //storing duplicates in hashtable
+        Hashtable hashtable = new Hashtable(1000);
+
 
         //removing duplicates
 
@@ -71,6 +157,20 @@ public class test_map
         			{
         				if(quick_ans.get(j) == 1)
         				{
+        				    Date date = new Date();
+                            Entity obj = new Entity(entity.get(i),template_num.get(i),date.toString(),line_num.get(i) , url.get(i));
+                            ArrayList<Entity> list = (ArrayList<Entity>)hashtable.get(entity.get(i));
+                            if(list != null)
+                            {
+                                list.add(obj);
+                                hashtable.put(entity.get(i),list);
+                            }
+                            else
+                            {
+                                ArrayList<Entity> list1 = new ArrayList<Entity>();
+                                list1.add(obj);
+                                hashtable.put(entity.get(i),list1);
+                            }
         					template_num.remove(i);
         					line_num.remove(i);
         					url.remove(i);
@@ -87,6 +187,20 @@ public class test_map
         				}
         				else
         				{
+                            Date date = new Date();
+                            Entity obj = new Entity(entity.get(j),template_num.get(j),date.toString(),line_num.get(j) , url.get(j));
+                            ArrayList<Entity> list = (ArrayList<Entity>)hashtable.get(entity.get(j));
+                            if(list != null)
+                            {
+                                list.add(obj);
+                                hashtable.put(entity.get(j),list);
+                            }
+                            else
+                            {
+                                ArrayList<Entity> list1 = new ArrayList<Entity>();
+                                list1.add(obj);
+                                hashtable.put(entity.get(j),list1);
+                            }
         					template_num.remove(j);
         					line_num.remove(j);
         					url.remove(j);
@@ -104,6 +218,20 @@ public class test_map
         			{
         				if(final_score.get(i) >= final_score.get(j))
         				{
+                            Date date = new Date();
+                            Entity obj = new Entity(entity.get(j),template_num.get(j),date.toString(),line_num.get(j) , url.get(j));
+                            ArrayList<Entity> list = (ArrayList<Entity>)hashtable.get(entity.get(j));
+                            if(list != null)
+                            {
+                                list.add(obj);
+                                hashtable.put(entity.get(j),list);
+                            }
+                            else
+                            {
+                                ArrayList<Entity> list1 = new ArrayList<Entity>();
+                                list1.add(obj);
+                                hashtable.put(entity.get(j),list1);
+                            }
         					template_num.remove(j);
         					line_num.remove(j);
         					url.remove(j);
@@ -118,6 +246,20 @@ public class test_map
         				}
         				else
         				{
+                            Date date = new Date();
+                            Entity obj = new Entity(entity.get(i),template_num.get(i),date.toString(),line_num.get(i) , url.get(i));
+                            ArrayList<Entity> list = (ArrayList<Entity>)hashtable.get(entity.get(i));
+                            if(list != null)
+                            {
+                                list.add(obj);
+                                hashtable.put(entity.get(i),list);
+                            }
+                            else
+                            {
+                                ArrayList<Entity> list1 = new ArrayList<Entity>();
+                                list1.add(obj);
+                                hashtable.put(entity.get(i),list1);
+                            }
         					template_num.remove(i);
         					line_num.remove(i);
         					url.remove(i);
@@ -136,6 +278,7 @@ public class test_map
         		}
         	}
         }
+        saveStatus(hashtable);
         
         //writing into duplicates file
         // System.out.println(entity.size() + ":" + entity.get(entity.size() -1));

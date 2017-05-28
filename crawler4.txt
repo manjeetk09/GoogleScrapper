@@ -1,38 +1,53 @@
-0;A function is called an algebraic function if it can be constructed using algebraic operations on polynomials.
-0;Any rational function is automatically an algebraic function.
+1;.
+1;.
+1;.
+1;.
+1;.
+0;There are many kinds of data models.
+0; Some of the most common ones include.
+0; Hierarchical database model.
+0; Relational model.
+0; Network model.
+0; Object_oriented database model.
+0; Entity_relationship model.
+0; Document model.
+0; Entity_attribute_value model.
+0; Star schema.
+0; The object_relational model, which combines the two that make up its name.
 0;.
 0;.
-0;Think of all the graphing that you ve done so far.
-0; The simplest method is to solve for  y   , make a T_chart, pick some values for x, solve for the corresponding values of y, plot your points, and connect the dots, yadda, yadda, yadda.
-0; Not only is this useful for graphing, but this methodology gives yet another way of identifying functions.
-0; If you can solve for  y   , then it s a function.
-0; In other words, if you can enter it into your graphing calculator, then it s a function.
-0; The calculator can only handle functions.
-0; For example, 2y   3x   6 is a function, because you can solve for y.
-0; 2y   3x   6 2y    3x   6 y   x   3.
 0;.
 0;.
-0;In mathematics, an algebraic function is a function that can be defined as the root of a polynomial equation.
-0; Quite often algebraic functions can be expressed using a finite number of terms, involving only the algebraic operations addition, subtraction, multiplication, division, and raising to a fractional power.
+0;.
+0;Common logical data models for databases include.
+0; Hierarchical database model.
+0; Network model.
+0; Relational model.
+0; Entity relationship model Enhanced entity relationship model.
+0; Object model.
+0; Document model.
+0; Entity attribute value model.
+0; Star schema.
+0;Enhanced.
 0;.
 0;.
-0;Some algebraic functions, however, cannot be expressed by such finite expressions .
-0; This is the case, for example, of the Bring radical, which is the function implicitly defined by.
+0;High_level Conceptual Data models.
 0;.
-0;.
-0;A function which is not algebraic is called a transcendental function, as it is for example the case of exp   , tan   , ln   ,     displaystyle  exp, tan, ln, Gamma   .
-0; A composition of transcendental functions can give an algebraic function.
-0; f   cos       1   x 2   displaystyle f  cos    sqrt  1_x  2     .
-0;.
-0;.
-0;A transcendental function is an analytic function that does not satisfy a polynomial equation, in contrast to an algebraic function.
-0;  The polynomials sometimes must have rational coefficients.
-0;  In other words, a transcendental function  transcends  algebra in that it cannot be expressed in terms of a finite sequence of the algebraic operations of addition, multiplication, and root extraction.
-0;.
-0;.
-0;A function that is not transcendental is algebraic.
-0; Simple examples of algebraic functions are the rational functions and the square root function, but in general, algebraic functions cannot be defined as finite formulas of the elementary functions.
-0;.
-0;.
-0;Colin McQuillan s answer is terse, correct, but difficult to understand for typographical reasons.
-0; There should be some letters below the arrows.
+0;A Database model defines the logical design of data.
+0; The model describes the relationships between different parts of the data.
+0; Historically, in database design, three models are commonly used.
+0; They are, Hierarchical Model.
+0; Network Model.
+0; Relational Model.
+0;     .
+0;Database systems can be based on different data models or database models respectively.
+0; A data model is a collection of concepts and rules for the description of the structure of the database.
+0; Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
+0; The most often used data models are.
+0;A model is a representation of reality,  real world  objects and events, associations.
+0; It is an abstraction that concentrates on the essential, inherent aspects an organization and ignores the accidental properties.
+0; A data model represents the organization itself.
+0; It should provide the basic concepts and notations that will allow database designers and end users unambiguously and accurately to communicate their understanding of the organizational data.
+0;Data models define how the logical structure of a database is modeled.
+0; Data Models are fundamental entities to introduce abstraction in a DBMS.
+0; Data models define how data is connected to each other and how they are processed and stored inside the system.

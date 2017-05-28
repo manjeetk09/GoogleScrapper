@@ -1,118 +1,65 @@
-An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic  i.
-e.
-, addition, multiplication, and exponentiation .
- In order to take the derivative of these functions, we will need the power rule.
-Find the derivatives of various functions using different methods and rules.
- Several Examples with detailed solutions are presented.
- More exercises with answers are at the end of this page.
-Example.
- Differentiate the absolute value function.
-For more complex functions using the definition of the derivative would be an almost impossible task.
-  Luckily for us we won t have to use the definition terribly often.
-  We will have to use it on occasion, however we have a large collection of formulas and properties that we can use to simplify our life considerably and will allow us to avoid using the definition whenever possible.
-   .
-   .
-   .
-   .
-   .
- .
-                                       .
- .
-                                                     .
- .
-                                                       .
-                                                                     .
-                                                          .
- .
-                                                   .
-                                           .
- .
-                                                       .
-   .
-   .
-   .
-                                                    .
-                                                            .
- .
-                                              .
-                                                           .
-                .
-                                           .
-                                                      .
-                 .
-                             .
-                                                    .
-                                                    .
-                              .
-                                            .
-                                   .
-Example 1  Differentiate each of the following functions.
-   .
-   .
-   .
- .
-                                       .
-                                                     .
- .
-                                                       .
-                                                                     .
-                                                          .
-                                                   .
-                                           .
- .
-                                                       .
-   .
-   .
-                                                    .
-                                                            .
-                                              .
-                                                           .
-                .
-                                           .
-                                                      .
-                 .
-                             .
-                                                    .
-                                                    .
-                              .
-                                            .
-                                   .
-   .
-   .
-   .
-   .
-   .
- .
-                                       .
- .
-                                                     .
- .
-                                                       .
-                                                                     .
-                                                          .
- .
-                                                   .
-                                           .
- .
-                                                       .
-   .
-   .
-   .
-                                                    .
-                                                            .
- .
-                                              .
-                                                           .
-                .
-                                           .
-                                                      .
-                 .
-                             .
-                                                    .
-                                                    .
-                              .
-                                            .
-                                   .
-Make sure that you can do the kind of work that we just did in this example.
-  You will be asked numerous times over the course of the next two chapters to determine where functions are positive and or negative.
-  If you need some review or want to practice these kinds of problems you should check out the Solving Inequalities section of my Algebra Trig Review.
+Common logical data models for databases include.
+ Hierarchical database model.
+ Network model.
+ Relational model.
+ Entity relationship model Enhanced entity relationship model.
+ Object model.
+ Document model.
+ Entity attribute value model.
+ Star schema.
+Enhanced.
+.
+.
+High_level Conceptual Data models.
+.
+Database design is a process of modeling an enterprise in the real world.
+ In fact, a database itself is a model of the real world that contains selected information needed by the enterprise.
+ Many models and languages some formally and mathematically defined, some informal and intuitive are used by designers.
+ Here are the ones that we present in this tutorial.
+There are many kinds of data models.
+ Some of the most common ones include.
+ Hierarchical database model.
+ Relational model.
+ Network model.
+ Object_oriented database model.
+ Entity_relationship model.
+ Document model.
+ Entity_attribute_value model.
+ Star schema.
+ The object_relational model, which combines the two that make up its name.
+.
+.
+.
+.
+.
+Database design is the process of producing a detailed data model of database.
+ This data model contains all the needed logical and physical design choices and physical storage parameters needed to generate a design in a data definition language, which can then be used to create a database.
+ A fully attributed data model contains detailed attributes for each entity.
+.
+.
+The term database design can be used to describe many different parts of the design of an overall database system.
+ Principally, and most correctly, it can be thought of as the logical design of the base data structures used to store the data.
+ In the relational model these are the tables and views.
+ In an object database the entities and relationships map directly to object classes and named relationships.
+ However, the term database design could also be used to apply to the overall process of designing, not just the base data structures, but also the forms and queries used as part of the overall database application within the database management system .
+.
+.
+Common logical data models for databases include.
+ Hierarchical database model.
+ Network model.
+ Relational model.
+ Entity relationship model Enhanced entity relationship model.
+ Object model.
+ Document model.
+ Entity attribute value model.
+ Star schema.
+Enhanced.
+.
+.
+A Database model defines the logical design of data.
+ The model describes the relationships between different parts of the data.
+ Historically, in database design, three models are commonly used.
+ They are, Hierarchical Model.
+ Network Model.
+ Relational Model.
+     .

@@ -1,368 +1,205 @@
-An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic  i.
-0.752: (An algebraic function; is; a function that can be written using a finite number of the basic operations of arithmetic i)
-
-e.
-No extractions found.
-
-, addition, multiplication, and exponentiation .
-No extractions found.
-
- In order to take the derivative of these functions, we will need the power rule.
-0.678: (we; will need; the power rule)[enabler=In order to take the derivative of these functions]
-
-Find the derivatives of various functions using different methods and rules.
-No extractions found.
-
- Several Examples with detailed solutions are presented.
-No extractions found.
-
- More exercises with answers are at the end of this page.
-No extractions found.
-
-Example.
-No extractions found.
-
- Differentiate the absolute value function.
-No extractions found.
-
-For more complex functions using the definition of the derivative would be an almost impossible task.
-No extractions found.
-
-  Luckily for us we won t have to use the definition terribly often.
-0.611: (we; Luckily won; t)
-0.25: (we; Luckily won t for; us)
-0.108: (t; be Luckily won for; us)
-
-  We will have to use it on occasion, however we have a large collection of formulas and properties that we can use to simplify our life considerably and will allow us to avoid using the definition whenever possible.
-0.663: (We; will have to use it on; occasion)
-0.594: (We; will have to use; it)
-0.564: (We; to use; it)
-0.472: (it; to be use on; occasion)
-0.461: (we; however have; a large collection of formulas)
-0.426: (us; to avoid using; the definition)[enabler=whenever possible]
-0.301: (we; can use will to simplify considerably; our life)
-0.222: (we; to simplify considerably; our life)
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
- .
-No extractions found.
-
-                                       .
-No extractions found.
-
- .
-No extractions found.
-
-                                                     .
-No extractions found.
-
- .
-No extractions found.
-
-                                                       .
-No extractions found.
-
-                                                                     .
-No extractions found.
-
-                                                          .
-No extractions found.
-
- .
-No extractions found.
-
-                                                   .
-No extractions found.
-
-                                           .
-No extractions found.
-
- .
-No extractions found.
-
-                                                       .
-No extractions found.
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
-                                                    .
-No extractions found.
-
-                                                            .
-No extractions found.
-
- .
-No extractions found.
-
-                                              .
-No extractions found.
-
-                                                           .
-No extractions found.
-
-                .
-No extractions found.
-
-                                           .
-No extractions found.
-
-                                                      .
-No extractions found.
-
-                 .
-No extractions found.
-
-                             .
-No extractions found.
-
-                                                    .
-No extractions found.
-
-                                                    .
-No extractions found.
-
-                              .
-No extractions found.
-
-                                            .
-No extractions found.
-
-                                   .
-No extractions found.
-
-Example 1  Differentiate each of the following functions.
+Common logical data models for databases include.
 No extractions found.
 
-   .
+ Hierarchical database model.
 No extractions found.
 
-   .
+ Network model.
 No extractions found.
 
-   .
+ Relational model.
 No extractions found.
 
- .
+ Entity relationship model Enhanced entity relationship model.
 No extractions found.
 
-                                       .
+ Object model.
 No extractions found.
 
-                                                     .
+ Document model.
 No extractions found.
 
- .
-No extractions found.
-
-                                                       .
-No extractions found.
+ Entity attribute value model.
+0.767: (Entity; attribute; value model)
 
-                                                                     .
+ Star schema.
 No extractions found.
 
-                                                          .
+Enhanced.
 No extractions found.
 
-                                                   .
+.
 No extractions found.
 
-                                           .
+.
 No extractions found.
 
- .
+High_level Conceptual Data models.
 No extractions found.
 
-                                                       .
+.
 No extractions found.
 
-   .
-No extractions found.
-
-   .
-No extractions found.
+Database design is a process of modeling an enterprise in the real world.
+0.792: (Database design; is; a process modeling an enterprise in the real world)
+0.674: (an enterprise; be modeling in; the real world)
 
-                                                    .
-No extractions found.
+ In fact, a database itself is a model of the real world that contains selected information needed by the enterprise.
+0.909: (a database; is a model of; the real world)
+0.782: (selected information; be needed by; the enterprise)
+0.752: (a database; is; a model of the real world that contains selected information)
+0.628: (selected information needed by the enterprise; be contains by; a model of the real world)
+0.446: (a database; is a model of the real world in; fact)
 
-                                                            .
+ Many models and languages some formally and mathematically defined, some informal and intuitive are used by designers.
 No extractions found.
 
-                                              .
-No extractions found.
+ Here are the ones that we present in this tutorial.
+0.489: (we; that present in; this tutorial)
 
-                                                           .
+There are many kinds of data models.
 No extractions found.
 
-                .
+ Some of the most common ones include.
 No extractions found.
 
-                                           .
+ Hierarchical database model.
 No extractions found.
 
-                                                      .
+ Relational model.
 No extractions found.
 
-                 .
+ Network model.
 No extractions found.
 
-                             .
+ Object_oriented database model.
 No extractions found.
 
-                                                    .
+ Entity_relationship model.
 No extractions found.
 
-                                                    .
+ Document model.
 No extractions found.
 
-                              .
+ Entity_attribute_value model.
 No extractions found.
 
-                                            .
+ Star schema.
 No extractions found.
 
-                                   .
-No extractions found.
+ The object_relational model, which combines the two that make up its name.
+0.736: (two that make up its name; be combines by; The object_relational model)
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
- .
-No extractions found.
+Database design is the process of producing a detailed data model of database.
+0.792: (Database design; is; the process producing a detailed data model of database)
 
-                                       .
-No extractions found.
+ This data model contains all the needed logical and physical design choices and physical storage parameters needed to generate a design in a data definition language, which can then be used to create a database.
+0.681: (This data model; contains; all the needed logical and physical design choices and physical storage parameters)
 
- .
-No extractions found.
+ A fully attributed data model contains detailed attributes for each entity.
+0.79: (A fully attributed data model; contains detailed; attributes)
 
-                                                     .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                       .
-No extractions found.
+The term database design can be used to describe many different parts of the design of an overall database system.
+0.769: (The term database design; to describe; many different parts of the design of an overall database system)
+0.42: (different; be parts of; the design of an overall database system)
+0.42: (many; be different parts of; the design of an overall database system)
 
-                                                                     .
-No extractions found.
+ Principally, and most correctly, it can be thought of as the logical design of the base data structures used to store the data.
+0.66: (the logical design of the base data structures; used to store; the data)
+0.587: (the logical design of the base data structures; to store; the data)
 
-                                                          .
+ In the relational model these are the tables and views.
 No extractions found.
 
- .
+ In an object database the entities and relationships map directly to object classes and named relationships.
 No extractions found.
 
-                                                   .
-No extractions found.
+ However, the term database design could also be used to apply to the overall process of designing, not just the base data structures, but also the forms and queries used as part of the overall database application within the database management system .
+0.823: (the base data structures , but also the forms and queries; be used as; part of the overall database application)
+0.282: (the term database design; to apply to the overall process of designing , not to; the overall process designing)
 
-                                           .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                       .
+Common logical data models for databases include.
 No extractions found.
 
-   .
+ Hierarchical database model.
 No extractions found.
 
-   .
+ Network model.
 No extractions found.
 
-   .
+ Relational model.
 No extractions found.
 
-                                                    .
+ Entity relationship model Enhanced entity relationship model.
 No extractions found.
 
-                                                            .
+ Object model.
 No extractions found.
 
- .
+ Document model.
 No extractions found.
 
-                                              .
-No extractions found.
+ Entity attribute value model.
+0.767: (Entity; attribute; value model)
 
-                                                           .
+ Star schema.
 No extractions found.
 
-                .
+Enhanced.
 No extractions found.
 
-                                           .
+.
 No extractions found.
 
-                                                      .
+.
 No extractions found.
 
-                 .
-No extractions found.
+A Database model defines the logical design of data.
+0.833: (A Database model; defines; the logical design of data)
 
-                             .
-No extractions found.
+ The model describes the relationships between different parts of the data.
+0.807: (The model; describes; the relationships)
+0.303: (different; be parts of; the data)
 
-                                                    .
-No extractions found.
+ Historically, in database design, three models are commonly used.
+0.764: (three models; Historically are commonly used in; database design)
 
-                                                    .
+ They are, Hierarchical Model.
 No extractions found.
 
-                              .
+ Network Model.
 No extractions found.
 
-                                            .
+ Relational Model.
 No extractions found.
 
-                                   .
+     .
 No extractions found.
-
-Make sure that you can do the kind of work that we just did in this example.
-0.858: (you; can do; the kind of work)
-0.756: (we; just did in; this example)
-0.608: (you; be the kind of; work)
-
-  You will be asked numerous times over the course of the next two chapters to determine where functions are positive and or negative.
-0.962: (You; will be asked numerous times over; the course of the next two chapters)
-0.839: (You; will be asked; numerous times)
-
-  If you need some review or want to practice these kinds of problems you should check out the Solving Inequalities section of my Algebra Trig Review.
-0.834: (you; should check out; the Solving Inequalities section of my Algebra Trig Review)
-0.797: (Solving Inequalities; be section of; my Algebra Trig Review)
-0.157: (you; need; some review)
 
