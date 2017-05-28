@@ -6,7 +6,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
-import scala.xml.dtd.ELEMENTS;
 
 import java.io.*;
 import java.net.*;
@@ -17,6 +16,23 @@ import java.util.List;
 
 public class GoogleSearchJava {
 
+
+    private static boolean check_contain(String para, String span){
+        String span_copy = span.substring(0,span.length());
+        span_copy = span_copy.replaceAll("[^a-zA-Z0-9]" , " " );
+        String[] span_words = span_copy.split("\\s+");
+        String para_copy = para.replaceAll("[^a-zA-Z0-9]" , " ");
+        for(int i = 0 ; i < span_words.length ; i++){
+            if(para_copy.contains(span_words[i])){
+                continue;
+            }
+            else{
+                return false;
+            }
+        }
+        return true;
+
+    }
 
     private static String getUrlSource(String url) throws IOException {
         URL yahoo = new URL(url);
@@ -406,7 +422,7 @@ public class GoogleSearchJava {
                         if(para_text.length() <= 2) {
                             continue;
                         }
-                        if ((para_text.replaceAll("[^a-zA-Z0-9]" , "" )).contains(span_data_temp.replaceAll("[^a-zA-Z0-9]" , "" )) || (span_data_temp.replaceAll("[^a-zA-Z0-9]" , "" ).contains(para_text.replaceAll("[^a-zA-Z0-9]" , "" )))) {
+                        if ( check_contain(para_text,span_data_temp) || check_contain(span_data_temp,para_text) ) {
 
                             for(Element e_ul : ul_appended_para){
 
@@ -590,7 +606,7 @@ public class GoogleSearchJava {
                     for(Element u : ul1) {
                         String ul_text = u.text();
                         ul_text = ul_text.replaceAll("\\[(.*?)\\]", "");
-                        if ((ul_text.replaceAll("[^a-zA-Z0-9]", "")).contains(span_data_temp.replaceAll("[^a-zA-Z0-9]", "")) || (span_data_temp.replaceAll("[^a-zA-Z0-9]", "").contains(ul_text.replaceAll("[^a-zA-Z0-9]", "")))) {
+                        if ( check_contain(ul_text,span_data_temp) || check_contain(span_data_temp,ul_text) ) {
                             Elements child_ul = u.children();
 
                             //System.out.println(u1.text());
