@@ -1,82 +1,74 @@
-0;Solution to Question 1.
+0;This is a list of curves, by Wikipedia page.
+0;.
+0;.
+0;Other Bathtub curve.
+0; Bell curve.
+0; Calibration curve.
+0; Cardiac function curve.
+0; Dose response curve.
+0; Fish curve.
+0; Fletcher Munson curve.
+0; Forgetting curve.
+0; Gompertz curve.
+0; Growth curve .
+0; Hubbert curve.
+0; Kruithof curve.
+0; Learning curve.
+0; Light curve.
+0; Logistic curve.
+0; Oxygen hemoglobin dissociation curve.
+0; Paschen curve.
+0; Robinson Dadson curves.
+0; Rotation curve.
+0; Species area curve.
+0; Stress strain curve.
 0;.
 0;.
 0;.
 0;.
+0;In mathematics, a plane real algebraic curve is the set of points on the Euclidean plane whose coordinates are zeros of some polynomial in two variables.
+0; More generally an algebraic curve is similar but may be embedded in a higher dimensional space or defined over some more general field.
 0;.
 0;.
+0;Every algebraic curve may be uniquely decomposed into a finite number of smooth monotone arcs connected by some points sometimes called  remarkable points .
+0; A smooth monotone arc is the graph of a smooth function which is defined and monotone on an open interval of the x_axis.
+0; In each direction, an arc is either unbounded or has an end point which is either a singular point or a point with a tangent parallel to one of the coordinate axes.
+0;and.
 0;.
 0;.
+0;This allows to consider that an affine curve and its projective completion are the same curve, or, more precisely that the affine curve is a part of the projective curve that is large enough to well define the  complete  curve.
+0; This point of view is commonly expressed by calling  points at infinity  of the affine curve the points of the projective completion that do not belong to the affine part.
+0;and.
 0;.
 0;.
-0;Think back to when you were in elementary school.
-0; Your teacher gave you worksheets containing statements like     2   4  and told you to fill in the box.
-0; Once you got older, your teacher started giving you worksheets containing statements like  x   2   4  and told you to  solve for x .
-0;  2.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;Word problems are a great way to see math in action  This word problem deals with calculating profit after a certain number of years.
-0; See how to use a function from the word problem to solve .
-0;You can t go through algebra without learning about functions.
-0; This tutorial shows you a great approach to thinking about functions  Learn the definition of a function and see the different ways functions can be represented.
-0; Take a look .
-0;Every see  f  in your math  That s function notation  It s a way to indicate that an equation is a function.
-0; Learn about function notation by watching this tutorial.
-0;To solve a function for a given value, plug that value into the function and simplify.
-0; See this first_hand by watching this tutorial .
-0;Got a quadratic polynomial  Want to put it in standard form  Watch this tutorial to learn the steps it takes to make sure a quadratic polynomial is in standard form .
-0;problem.
-0;word problem.
-0;word.
-0;translate words to algebra.
-0;function.
-0;evaluate function.
-0;plug in.
-0;find value.
-0;plug in value.
-0;f.
-0;polynomial.
-0;quadratic.
-0;Function Definitions and Function Notation What s a Function  You can t go through algebra without learning about functions  This tutorial shows you a great approach to thinking about functions  Learn the definition of a function and see the different ways functions can be represented  Take a look  What is Function Notation  Every see  f  in your math  That s function notation  It s a way to indicate that an equation is a function  Learn about function notation by watching this tutorial .
-0;What s a Function  You can t go through algebra without learning about functions  This tutorial shows you a great approach to thinking about functions  Learn the definition of a function and see the different ways functions can be represented  Take a look .
-0;What is Function Notation  Every see  f  in your math  That s function notation  It s a way to indicate that an equation is a function  Learn about function notation by watching this tutorial .
-0;.
-0;.
-0;Function Definitions and Function Notation How Do You Find fIf You Have a Value For x  To solve a function for a given value, plug that value into the function and simplify  See this first_hand by watching this tutorial .
-0;Graphing Definitions and Examples What is the Standard Form of a Quadratic  Got a quadratic polynomial  Want to put it in standard form  Watch this tutorial to learn the steps it takes to make sure a quadratic polynomial is in standard form .
-0;How Do You Find fIf You Have a Value For x  To solve a function for a given value, plug that value into the function and simplify  See this first_hand by watching this tutorial .
-0;.
-0;What is the Standard Form of a Quadratic  Got a quadratic polynomial  Want to put it in standard form  Watch this tutorial to learn the steps it takes to make sure a quadratic polynomial is in standard form .
-0;.
-0;About.
-0;Terms of Use.
-0;Privacy.
-0;Contact.
-0;Word problems are a great way to see math in action  This word problem deals with calculating profit after a certain number of years.
-0; See how to use a function from the word problem to solve .
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;Function Definitions and Function Notation How Do You Find fIf You Have a Value For x  To solve a function for a given value, plug that value into the function and simplify  See this first_hand by watching this tutorial .
-0;Graphing Definitions and Examples What is the Standard Form of a Quadratic  Got a quadratic polynomial  Want to put it in standard form  Watch this tutorial to learn the steps it takes to make sure a quadratic polynomial is in standard form .
-0;.
-0;.
+0;There are eight types of graphs that you will see more often than other types.
+0; Each has its own type of function that produces the graphs.
+0; They are easy to visually distinguish and by knowing how each looks, you can get an idea of what a graph might look like just by analyzing the function.
+0; The eight types are linear, power, quadratic, polynomial, rational, exponential, logarithmic, and sinusoidal.
+0;These functions produce more interesting graphs with more curves.
+0; The highest power of the function tells you how many curves or ups and downs the graph may have.
+0;The following table lists the names of algebraic curves of a given degree.
+0;The simplest and clearest concept is that of a plane affine algebraic curve.
+0; This is a set of points in an affine plane satisfying the equation , where is a polynomial with coefficients from an algebraically closed field .
+0; The field of rational functions of an irreducible algebraic curve over is the field of algebraic functions in one variable of the form , where and are connected by the equation , where is a polynomial over .
+0; This means that every algebraic curve is birationally isomorphic to a plane affine curve.
+0;For any complete algebraic curve , the number is known as the arithmetic genus of the algebraic curve .
+0; If is smooth, is identical with the dimension of the space of all regular differential forms on   this dimension is known as the genus of .
+0; By definition, the genus of an algebraic curve is equal to the genus of its non_singular model.
+0; For any non_negative integer there exists an algebraic curve of genus .
+0; Rational curves are distinguished by the equality .
+0; If is a projective plane curve of order , then.
+0;The problem of classifying smooth projective curves of a given type can be reduced to the study of discrete groups of transformations of the universal coverings which act freely with a relatively compact fundamental domain.
+0; In the case of the projective line, is the identity group  in the case of the affine straight line, is isomorphic to a subgroup of the additive group which is a two_dimensional lattice in   in the case of the interior of the unit disc, is a subgroup of motions in the Lobachevskii plane which can be defined by some non_Euclidean bounded polygon.
+0; Thus, the first class above contains a unique curve , the second class consists of complex tori that all have the structure of a one_dimensional Abelian variety , the addition of points on the torus defining the group structure on the respective curve.
+0; All smooth elliptic curves are obtained in this way.
+0; The field of rational functions on an elliptic curve is isomorphic to the field of meromorphic doubly_periodic functions with period group .
+0; If is the equation of the affine model of the curve , then there exists a parametrization , by elliptic functions of it .
+0; The third class consists of all smooth projective curves of genus .
+0; In this case the field is isomorphic to the field of meromorphic functions on that are invariant with respect to the group .
+0; Such functions are known as automorphic.
+0; Every algebraic curve of genus is uniformized by automorphic functions  cf.
+0; Uniformization .
+0; The problem of the classification of elliptic curves also led to a study of the quotient , but this situation is substantially different from the one just discussed.
+0; First, the group has fixed points in   secondly, the manifold is non_compact, though containing a finite Lobachevskii plane.
+0; The study of the general case of such groups, and of the respective quotients, plays an important role in modern arithmetical research.

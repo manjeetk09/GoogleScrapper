@@ -1,377 +1,238 @@
-Find the derivatives of various functions using different methods and rules.
+Common logical data models for databases include.
 No extractions found.
 
- Several Examples with detailed solutions are presented.
+ Hierarchical database model.
 No extractions found.
 
- More exercises with answers are at the end of this page.
+ Network model.
 No extractions found.
 
-An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic  i.
-0.752: (An algebraic function; is; a function that can be written using a finite number of the basic operations of arithmetic i)
-
-e.
-No extractions found.
-
-, addition, multiplication, and exponentiation .
-No extractions found.
-
- In order to take the derivative of these functions, we will need the power rule.
-0.678: (we; will need; the power rule)[enabler=In order to take the derivative of these functions]
-
-Calculus.
-No extractions found.
-
- Differentiation.
-No extractions found.
-
- Examples _ Derivative of Algebraic functions.
-0.82: (Examples;  ; Derivative of Algebraic functions)
-
-In the first section of this chapter we saw the definition of the derivative and we computed a couple of derivatives using the definition.
-0.74: (we; computed; a couple of derivatives)
-0.692: (we; saw; the definition of the derivative)
-0.677: (we; saw the definition of the derivative in; the first section of this chapter)
-0.644: (the definition of the derivative; be saw in; the first section of this chapter)
-
-  As we saw in those examples there was a fair amount of work involved in computing the limits and the functions that we worked with were not terribly complicated.
-0.583: (we; saw there in; those examples)
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
- .
-No extractions found.
-
-                                       .
-No extractions found.
-
-                                                     .
-No extractions found.
-
-                                                       .
-No extractions found.
-
-                                                                     .
-No extractions found.
-
-                                                          .
-No extractions found.
-
- .
-No extractions found.
-
-                                                   .
-No extractions found.
-
-                                           .
-No extractions found.
-
- .
-No extractions found.
-
-                                                       .
-No extractions found.
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
-                                                    .
-No extractions found.
-
-                                                            .
-No extractions found.
-
-                                              .
-No extractions found.
-
-                                                           .
-No extractions found.
-
-                .
-No extractions found.
-
-                                           .
-No extractions found.
-
-                                                      .
-No extractions found.
-
-                 .
-No extractions found.
-
-                             .
-No extractions found.
-
-                                                    .
+ Relational model.
 No extractions found.
 
-                                                    .
+ Entity relationship model Enhanced entity relationship model.
 No extractions found.
 
-                              .
+ Object model.
 No extractions found.
 
-                                            .
+ Document model.
 No extractions found.
 
-                                   .
-No extractions found.
-
-For more complex functions using the definition of the derivative would be an almost impossible task.
-No extractions found.
-
-  Luckily for us we won t have to use the definition terribly often.
-0.611: (we; Luckily won; t)
-0.25: (we; Luckily won t for; us)
-0.108: (t; be Luckily won for; us)
-
-  We will have to use it on occasion, however we have a large collection of formulas and properties that we can use to simplify our life considerably and will allow us to avoid using the definition whenever possible.
-0.663: (We; will have to use it on; occasion)
-0.594: (We; will have to use; it)
-0.564: (We; to use; it)
-0.472: (it; to be use on; occasion)
-0.461: (we; however have; a large collection of formulas)
-0.426: (us; to avoid using; the definition)[enabler=whenever possible]
-0.301: (we; can use will to simplify considerably; our life)
-0.222: (we; to simplify considerably; our life)
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
-   .
-No extractions found.
-
-   .
-No extractions found.
+ Entity attribute value model.
+0.767: (Entity; attribute; value model)
 
- .
+ Star schema.
 No extractions found.
 
-                                       .
+Enhanced.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                     .
+.
 No extractions found.
 
- .
+There are many kinds of data models.
 No extractions found.
 
-                                                       .
+ Some of the most common ones include.
 No extractions found.
 
-                                                                     .
+ Hierarchical database model.
 No extractions found.
 
-                                                          .
+ Relational model.
 No extractions found.
 
- .
+ Network model.
 No extractions found.
 
-                                                   .
+ Object_oriented database model.
 No extractions found.
 
-                                           .
+ Entity_relationship model.
 No extractions found.
 
- .
+ Document model.
 No extractions found.
 
-                                                       .
+ Entity_attribute_value model.
 No extractions found.
 
-   .
+ Star schema.
 No extractions found.
 
-   .
-No extractions found.
+ The object_relational model, which combines the two that make up its name.
+0.736: (two that make up its name; be combines by; The object_relational model)
 
-   .
+.
 No extractions found.
 
-                                                    .
+.
 No extractions found.
 
-                                                            .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                              .
+.
 No extractions found.
 
-                                                           .
+.
 No extractions found.
 
-                .
+.
 No extractions found.
 
-                                           .
+.
 No extractions found.
 
-                                                      .
+.
 No extractions found.
 
-                 .
+.
 No extractions found.
 
-                             .
+.
 No extractions found.
 
-                                                    .
+.
 No extractions found.
 
-                                                    .
+.
 No extractions found.
 
-                              .
+.
 No extractions found.
 
-                                            .
+.
 No extractions found.
 
-                                   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
-   .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                       .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                     .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                       .
+.
 No extractions found.
 
-                                                                     .
+.
 No extractions found.
 
-                                                          .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                   .
+.
 No extractions found.
 
-                                           .
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-                                                       .
+Common logical data models for databases include.
 No extractions found.
 
-   .
+ Hierarchical database model.
 No extractions found.
 
-   .
+ Network model.
 No extractions found.
 
-   .
+ Relational model.
 No extractions found.
 
-                                                    .
+ Entity relationship model Enhanced entity relationship model.
 No extractions found.
 
-                                                            .
+ Object model.
 No extractions found.
 
- .
+ Document model.
 No extractions found.
 
-                                              .
-No extractions found.
+ Entity attribute value model.
+0.767: (Entity; attribute; value model)
 
-                                                           .
+ Star schema.
 No extractions found.
 
-                .
+Enhanced.
 No extractions found.
 
-                                           .
+.
 No extractions found.
 
-                                                      .
+.
 No extractions found.
 
-                 .
+Database Models.
 No extractions found.
 
-                             .
+Glossary.
 No extractions found.
 
-                                                    .
-No extractions found.
+Database systems can be based on different data models or database models respectively.
+0.9: (Database systems; can be based on; different data models or database models)
 
-                                                    .
-No extractions found.
+ A data model is a collection of concepts and rules for the description of the structure of the database.
+0.939: (A data model; is a collection of; concepts and rules)
+0.922: (A data model; is a collection of concepts for; the description of the structure of the database)
+0.736: (A data model; is; a collection of concepts)
 
-                              .
-No extractions found.
+ Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
+0.74: (Structure of the database; means; the data types)
 
-                                            .
+ The most often used data models are.
 No extractions found.
 
-                                   .
-No extractions found.
+A model is a representation of reality,  real world  objects and events, associations.
+0.913: (A model; is a representation of; reality)
+0.736: (A model; is; a representation of reality)
 
-Make sure that you can do the kind of work that we just did in this example.
-0.858: (you; can do; the kind of work)
-0.756: (we; just did in; this example)
-0.608: (you; be the kind of; work)
+ It is an abstraction that concentrates on the essential, inherent aspects an organization and ignores the accidental properties.
+0.716: (It; is; an abstraction that concentrates on the essential , inherent aspects an organization and ignores the accidental properties)
 
-  You will be asked numerous times over the course of the next two chapters to determine where functions are positive and or negative.
-0.962: (You; will be asked numerous times over; the course of the next two chapters)
-0.839: (You; will be asked; numerous times)
+ A data model represents the organization itself.
+0.74: (A data model; represents; the organization)
 
-  If you need some review or want to practice these kinds of problems you should check out the Solving Inequalities section of my Algebra Trig Review.
-0.834: (you; should check out; the Solving Inequalities section of my Algebra Trig Review)
-0.797: (Solving Inequalities; be section of; my Algebra Trig Review)
-0.157: (you; need; some review)
+ It should provide the basic concepts and notations that will allow database designers and end users unambiguously and accurately to communicate their understanding of the organizational data.
+0.773: (database designers and end users; to communicate; their understanding of the organizational data)
+0.734: (It; should provide; the basic concepts and notations that will allow database designers and end users unambiguously and accurately to communicate their understanding of the organizational data)
 

@@ -18,7 +18,7 @@ class TrieNode:
     def insert( self, word ):
         node = self
         for letter in word:
-            if letter not in node.children: 
+            if letter not in node.children:
                 node.children[letter] = TrieNode()
 
             node = node.children[letter]
@@ -41,7 +41,7 @@ def search( word, maxCost ):
 
     # recursively search each branch of the trie
     for letter in trie.children:
-        searchRecursive( trie.children[letter], letter, word, currentRow, 
+        searchRecursive( trie.children[letter], letter, word, currentRow,
             results, maxCost )
 
     return results
@@ -62,7 +62,7 @@ def searchRecursive( node, letter, word, previousRow, results, maxCost ):
 
         if word[column - 1] != letter:
             replaceCost = previousRow[ column - 1 ] + 1
-        else:                
+        else:
             replaceCost = previousRow[ column - 1 ]
 
         currentRow.append( min( insertCost, deleteCost, replaceCost ) )
@@ -72,11 +72,11 @@ def searchRecursive( node, letter, word, previousRow, results, maxCost ):
     if currentRow[-1] <= maxCost and node.word != None:
         results.append( (node.word, currentRow[-1] ) )
 
-    # if any entries in the row are less than the maximum cost, then 
+    # if any entries in the row are less than the maximum cost, then
     # recursively search each branch of the trie
     if min( currentRow ) <= maxCost:
         for letter in node.children:
-            searchRecursive( node.children[letter], letter, word, currentRow, 
+            searchRecursive( node.children[letter], letter, word, currentRow,
                 results, maxCost )
 
 
@@ -100,7 +100,12 @@ for line in content:
     line.replace("\n","")
 
     TARGET = line
-    MAX_COST = 3
+    MAX_COST = 0
+
+    if len(line) > 6:
+        MAX_COST = 2
+    else:
+        MAX_COST = 1
 
     # start = time.time()
     results = search( TARGET, MAX_COST )

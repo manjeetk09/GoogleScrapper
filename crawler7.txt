@@ -1,120 +1,78 @@
-0;Find the derivatives of various functions using different methods and rules.
-0; Several Examples with detailed solutions are presented.
-0; More exercises with answers are at the end of this page.
-0;An algebraic function is a function that can be written using a finite number of the basic operations of arithmetic  i.
-0;e.
-0;, addition, multiplication, and exponentiation .
-0; In order to take the derivative of these functions, we will need the power rule.
-0;Calculus.
-0; Differentiation.
-0; Examples _ Derivative of Algebraic functions.
-0;In the first section of this chapter we saw the definition of the derivative and we computed a couple of derivatives using the definition.
-0;  As we saw in those examples there was a fair amount of work involved in computing the limits and the functions that we worked with were not terribly complicated.
-0;   .
-0;   .
-0;   .
-0; .
-0;                                       .
-0;                                                     .
-0;                                                       .
-0;                                                                     .
-0;                                                          .
-0; .
-0;                                                   .
-0;                                           .
-0; .
-0;                                                       .
-0;   .
-0;   .
-0;                                                    .
-0;                                                            .
-0;                                              .
-0;                                                           .
-0;                .
-0;                                           .
-0;                                                      .
-0;                 .
-0;                             .
-0;                                                    .
-0;                                                    .
-0;                              .
-0;                                            .
-0;                                   .
-0;For more complex functions using the definition of the derivative would be an almost impossible task.
-0;  Luckily for us we won t have to use the definition terribly often.
-0;  We will have to use it on occasion, however we have a large collection of formulas and properties that we can use to simplify our life considerably and will allow us to avoid using the definition whenever possible.
-0;   .
-0;   .
-0;   .
-0;   .
-0;   .
-0; .
-0;                                       .
-0; .
-0;                                                     .
-0; .
-0;                                                       .
-0;                                                                     .
-0;                                                          .
-0; .
-0;                                                   .
-0;                                           .
-0; .
-0;                                                       .
-0;   .
-0;   .
-0;   .
-0;                                                    .
-0;                                                            .
-0; .
-0;                                              .
-0;                                                           .
-0;                .
-0;                                           .
-0;                                                      .
-0;                 .
-0;                             .
-0;                                                    .
-0;                                                    .
-0;                              .
-0;                                            .
-0;                                   .
-0;   .
-0;   .
-0;   .
-0;   .
-0;   .
-0; .
-0;                                       .
-0; .
-0;                                                     .
-0; .
-0;                                                       .
-0;                                                                     .
-0;                                                          .
-0; .
-0;                                                   .
-0;                                           .
-0; .
-0;                                                       .
-0;   .
-0;   .
-0;   .
-0;                                                    .
-0;                                                            .
-0; .
-0;                                              .
-0;                                                           .
-0;                .
-0;                                           .
-0;                                                      .
-0;                 .
-0;                             .
-0;                                                    .
-0;                                                    .
-0;                              .
-0;                                            .
-0;                                   .
-0;Make sure that you can do the kind of work that we just did in this example.
-0;  You will be asked numerous times over the course of the next two chapters to determine where functions are positive and or negative.
-0;  If you need some review or want to practice these kinds of problems you should check out the Solving Inequalities section of my Algebra Trig Review.
+1;Common logical data models for databases include.
+1; Hierarchical database model.
+1; Network model.
+1; Relational model.
+1; Entity relationship model Enhanced entity relationship model.
+1; Object model.
+1; Document model.
+1; Entity attribute value model.
+1; Star schema.
+1;Enhanced.
+1;.
+1;.
+0;There are many kinds of data models.
+0; Some of the most common ones include.
+0; Hierarchical database model.
+0; Relational model.
+0; Network model.
+0; Object_oriented database model.
+0; Entity_relationship model.
+0; Document model.
+0; Entity_attribute_value model.
+0; Star schema.
+0; The object_relational model, which combines the two that make up its name.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Common logical data models for databases include.
+0; Hierarchical database model.
+0; Network model.
+0; Relational model.
+0; Entity relationship model Enhanced entity relationship model.
+0; Object model.
+0; Document model.
+0; Entity attribute value model.
+0; Star schema.
+0;Enhanced.
+0;.
+0;.
+0;Database Models.
+0;Glossary.
+0;Database systems can be based on different data models or database models respectively.
+0; A data model is a collection of concepts and rules for the description of the structure of the database.
+0; Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
+0; The most often used data models are.
+0;A model is a representation of reality,  real world  objects and events, associations.
+0; It is an abstraction that concentrates on the essential, inherent aspects an organization and ignores the accidental properties.
+0; A data model represents the organization itself.
+0; It should provide the basic concepts and notations that will allow database designers and end users unambiguously and accurately to communicate their understanding of the organizational data.
