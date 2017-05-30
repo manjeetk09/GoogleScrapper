@@ -1,42 +1,66 @@
-linear.
-quadratic.
-power.
-polynomial.
-rational.
-exponential.
-logarithmic.
-sinusoidal.
-linear.
-quadratic.
-power.
-polynomial.
-rational.
-exponential.
-logarithmic.
-sinusoidal.
+Some widely used debuggers are.
+ Firefox JavaScript debugger.
+ GDB _ the GNU debugger.
+ LLDB.
+ Microsoft Visual Studio Debugger.
+ Valgrind.
+ WinDbg.
+ Eclipse debugger API used in a range of IDEs.
+ Eclipse IDE Nodeclipse .
+ WDW, the OpenWatcom debugger.
 .
 .
-There are various types of algebraic functions.
-The mathematical concept of a function expresses the intuitive idea that one quantity completely determines another quantity.
- An equation will be a function if for any x in the domain of the equation, there is exactly one value of y.
- More formally, a function is defined a type of relation which has only one output value with respect any permissible input value.
- The argument and the value may be real numbers, but they can also be elements from any given sets.
- the domain, the co_domain of the function and all the assigned values are in the Range of the function.
- It is important how we assign the values to each element of the domain.
- There may be different types of functions in mathematics.
- The classification of functions on the basis of properties may be as follows .
- Even Function Odd Function Monotonic Function Surjective Function Bijective Function Injective Function The functions can be classified into following on the basis of variables used .
- Algebraic Function Exponential Function Logarithmic Function Analytic Function Inverse Function Monotonic Function Polynomial Function Linear Function Quadratic Function Elliptic Function Identity Function Constant Function Power Function Vector_valued Function Integer_valued Function Periodic Function Piece_wise linear Function etc.
- In this article, we shall learn about few of the above mentioned types of functions.
-A polynomial or algebraic function is a function which can be expressed in the following form.
-  f  a_ n x  n    a_ n _ 1 x  n _ 1   .
-   a_ 2 x  2    a_ 1 x  1    a_ 0  .
-The graphs that these types of functions produce vary depending on the power.
- If the power is positive, the graph changes direction based on the number of the power.
- If the power is even, the graph will have both edges going in the same direction.
- If the power is odd, the graph will have one edge going up and another going down.
- If the power is negative, it will have two parts.
- Each part will avoid the x 0 line because that will cause division by zero.
- When the power is a fraction, the graph goes up at x 0 and then when y is positive, it starts curving towards the x_axis.
- Even and Odd functions and.
- Algebraic and Transcendental functions.
+Some widely used debuggers are.
+ Firefox JavaScript debugger.
+ GDB _ the GNU debugger.
+ LLDB.
+ Microsoft Visual Studio Debugger.
+ Valgrind.
+ WinDbg.
+ Eclipse debugger API used in a range of IDEs.
+ Eclipse IDE Nodeclipse .
+ WDW, the OpenWatcom debugger.
+.
+.
+.
+.
+The following example uses the .
+foreach token to search for WORD values of 5a4d.
+ For each 5a4d value that is found, the debugger displays 8 DWORD values, starting at the address of where the 5a4d DWORD was found.
+The following example uses the .
+foreach token to search for WORD values of 5a4d.
+ For each 5a4d value that is found, the debugger displays 8 DWORD values, starting 4 bytes prior to the address where the 5a4d DWORD was found.
+A debugger or debugging tool is a computer program that is used to test and debug other programs .
+ The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered but which will typically be somewhat slower than executing the code directly on the appropriate processor.
+ Some debuggers offer two modes of operation _ full or partial simulation, to limit this impact.
+.
+.
+A  crash  happens when the program cannot normally continue because of a programming bug.
+ For example, the program might have tried to use an instruction not available on the current version of the CPU or attempted to access unavailable or protected memory.
+ When the program  crashes  or reaches a preset condition, the debugger typically shows the position in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments.
+ If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly .
+.
+.
+What does a debugging program do and how is it useful  These questions are better explained by example, but to give a quick answer, a debugging program allows you to monitor control of a program during program execution.
+ What does that mean  Well, let s give a quick example.
+ Using the debug program you can tell the program to execute until a specific statement is reached  upon reaching this statement the debugger allows you to look at and change values of different variables in the program and also the registers used by the PC .
+ The usefulness of this ability to watch your program unfold in great detail will become apparent later on.
+.
+.
+.
+.
+ .
+ .
+.
+.
+.
+.
+ .
+ .
+Using print statements for debugging a program is often not adequate or convenient.
+ For example, the programmer may want to change the values of certain variables after observing the execution of the program till some point.
+ For a large program it may be difficult to go back to the source program, make the necessary changes and rerun the program.
+ Again, if such print statements are placed inside loops, it will produce output everytime the loop is executed though the programmer may be interested in only certain iterations of the loop.
+ To overcome several such drawbacks of debugging by inserting extra statements in the program, there are a kind of tool called debugger that helps in debugging programs by giving the programmer some control over the execution of the program and some means of examining and modifying different program variables during runtime.
+Here are some examples of valgrind output.
+ In each case the example program is compiled with _g3 so that valgrind can report line numbers from the source code.

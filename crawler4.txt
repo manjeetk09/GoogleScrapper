@@ -1,53 +1,11 @@
-1;.
-1;.
-1;.
-1;.
-1;.
-0;There are many kinds of data models.
-0; Some of the most common ones include.
-0; Hierarchical database model.
-0; Relational model.
-0; Network model.
-0; Object_oriented database model.
-0; Entity_relationship model.
-0; Document model.
-0; Entity_attribute_value model.
-0; Star schema.
-0; The object_relational model, which combines the two that make up its name.
+0;.
+0;Sentiment Analysis is an ongoing field of research in text mining field.
+0; SA is the computational treatment of opinions, sentiments and subjectivity of text.
+0; This survey paper tackles a comprehensive overview of the last update in this field.
+0; Many recently proposed algorithms  enhancements and various SA applications are investigated and presented briefly in this survey.
+0; These articles are categorized according to their contributions in the various SA techniques.
+0; The related fields to SA that attracted researchers recently are discussed.
+0; The main target of this survey is to give nearly full image of SA techniques and the related fields with brief details.
+0; The main contributions of this paper include the sophisticated categorizations of a large number of recent articles and the illustration of the recent trend of research in the sentiment analysis and its related areas.
 0;.
 0;.
-0;.
-0;.
-0;.
-0;Common logical data models for databases include.
-0; Hierarchical database model.
-0; Network model.
-0; Relational model.
-0; Entity relationship model Enhanced entity relationship model.
-0; Object model.
-0; Document model.
-0; Entity attribute value model.
-0; Star schema.
-0;Enhanced.
-0;.
-0;.
-0;High_level Conceptual Data models.
-0;.
-0;A Database model defines the logical design of data.
-0; The model describes the relationships between different parts of the data.
-0; Historically, in database design, three models are commonly used.
-0; They are, Hierarchical Model.
-0; Network Model.
-0; Relational Model.
-0;     .
-0;Database systems can be based on different data models or database models respectively.
-0; A data model is a collection of concepts and rules for the description of the structure of the database.
-0; Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
-0; The most often used data models are.
-0;A model is a representation of reality,  real world  objects and events, associations.
-0; It is an abstraction that concentrates on the essential, inherent aspects an organization and ignores the accidental properties.
-0; A data model represents the organization itself.
-0; It should provide the basic concepts and notations that will allow database designers and end users unambiguously and accurately to communicate their understanding of the organizational data.
-0;Data models define how the logical structure of a database is modeled.
-0; Data Models are fundamental entities to introduce abstraction in a DBMS.
-0; Data models define how data is connected to each other and how they are processed and stored inside the system.

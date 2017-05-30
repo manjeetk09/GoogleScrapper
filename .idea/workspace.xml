@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2dfaf8d-a7ae-4776-9a48-eeee4d48dff8" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/combinedOllie.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/combinedPOS.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/download.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/evaluate_rake.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/li5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/li6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/li7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/li8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/li9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pdf.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/processed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/quick_ans + 0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/quick_ans + 1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/quick_ans + 2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/quick_ans + 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_ollie9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sample.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/similarity_ollie_to_Pos.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/unmapWithWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/urls5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/urls6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/urls7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/urls8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/urls9.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicates.dat" afterPath="$PROJECT_DIR$/duplicates.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li2.csv" afterPath="$PROJECT_DIR$/li2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Information.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Information.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/InformationUnmap.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/InformationUnmap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Mapped$RakeScoreListSort.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Mapped$RakeScoreListSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Mapped.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Mapped.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Unmapped$RakeScoreListSort.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Unmapped$RakeScoreListSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Unmapped.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Unmapped.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/pdfStrip.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/pdfStrip.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/test.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/test_map.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/test_map.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler0.txt" afterPath="$PROJECT_DIR$/crawler0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler1.txt" afterPath="$PROJECT_DIR$/crawler1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler2.txt" afterPath="$PROJECT_DIR$/crawler2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler3.txt" afterPath="$PROJECT_DIR$/crawler3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler4.txt" afterPath="$PROJECT_DIR$/crawler4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq0.txt" afterPath="$PROJECT_DIR$/crawlerq0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq1.txt" afterPath="$PROJECT_DIR$/crawlerq1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq2.txt" afterPath="$PROJECT_DIR$/crawlerq2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq3.txt" afterPath="$PROJECT_DIR$/crawlerq3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq4.txt" afterPath="$PROJECT_DIR$/crawlerq4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie1.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie3.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie4.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/duplicatesRemoved.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity.txt" afterPath="$PROJECT_DIR$/entity.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake0.csv" afterPath="$PROJECT_DIR$/entity_rake0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake1.csv" afterPath="$PROJECT_DIR$/entity_rake1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake2.csv" afterPath="$PROJECT_DIR$/entity_rake2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake3.csv" afterPath="$PROJECT_DIR$/entity_rake3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake4.csv" afterPath="$PROJECT_DIR$/entity_rake4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final.csv" afterPath="$PROJECT_DIR$/final.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_normalize.csv" afterPath="$PROJECT_DIR$/final_normalize.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li0.csv" afterPath="$PROJECT_DIR$/li0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li1.csv" afterPath="$PROJECT_DIR$/li1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li3.csv" afterPath="$PROJECT_DIR$/li3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li4.csv" afterPath="$PROJECT_DIR$/li4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mapWiki.py" afterPath="$PROJECT_DIR$/mapWiki.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mappedInTKB.csv" afterPath="$PROJECT_DIR$/mappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/notMappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para0.txt" afterPath="$PROJECT_DIR$/para0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para1.txt" afterPath="$PROJECT_DIR$/para1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para2.txt" afterPath="$PROJECT_DIR$/para2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para3.txt" afterPath="$PROJECT_DIR$/para3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para4.txt" afterPath="$PROJECT_DIR$/para4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMapped.csv" afterPath="$PROJECT_DIR$/processedMapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedUnmapped.csv" afterPath="$PROJECT_DIR$/processedUnmapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result0.csv" afterPath="$PROJECT_DIR$/result0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result1.csv" afterPath="$PROJECT_DIR$/result1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result2.csv" afterPath="$PROJECT_DIR$/result2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result3.csv" afterPath="$PROJECT_DIR$/result3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result4.csv" afterPath="$PROJECT_DIR$/result4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Mapped.java" afterPath="$PROJECT_DIR$/src/Mapped.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/temp.java" afterPath="$PROJECT_DIR$/src/temp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.txt" afterPath="$PROJECT_DIR$/temp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates.txt" afterPath="$PROJECT_DIR$/templates.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate0.txt" afterPath="$PROJECT_DIR$/timeDate0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate1.txt" afterPath="$PROJECT_DIR$/timeDate1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate2.txt" afterPath="$PROJECT_DIR$/timeDate2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate3.txt" afterPath="$PROJECT_DIR$/timeDate3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate4.txt" afterPath="$PROJECT_DIR$/timeDate4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie0.txt" afterPath="$PROJECT_DIR$/triples_ollie0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie1.txt" afterPath="$PROJECT_DIR$/triples_ollie1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie2.txt" afterPath="$PROJECT_DIR$/triples_ollie2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie3.txt" afterPath="$PROJECT_DIR$/triples_ollie3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie4.txt" afterPath="$PROJECT_DIR$/triples_ollie4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls0.txt" afterPath="$PROJECT_DIR$/urls0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls1.txt" afterPath="$PROJECT_DIR$/urls1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls2.txt" afterPath="$PROJECT_DIR$/urls2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls3.txt" afterPath="$PROJECT_DIR$/urls3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls4.txt" afterPath="$PROJECT_DIR$/urls4.txt" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="GoogleScrapper" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="temp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/temp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="55" column="40" lean-forward="false" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mapped.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Mapped.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3400">
+              <caret line="220" column="32" lean-forward="false" selection-start-line="220" selection-start-column="32" selection-end-line="220" selection-end-column="32" />
+              <folding>
+                <element signature="e#1152#1153#0" expanded="false" />
+                <element signature="e#1190#1191#0" expanded="false" />
+                <element signature="e#1252#1253#0" expanded="false" />
+                <element signature="e#1306#1307#0" expanded="false" />
+                <element signature="e#1342#1343#0" expanded="false" />
+                <element signature="e#1374#1375#0" expanded="false" />
+                <element signature="e#1424#1425#0" expanded="false" />
+                <element signature="e#1466#1467#0" expanded="false" />
+                <element signature="e#1504#1505#0" expanded="false" />
+                <element signature="e#1538#1539#0" expanded="false" />
+                <element signature="e#1592#1593#0" expanded="false" />
+                <element signature="e#1638#1639#0" expanded="false" />
+                <element signature="e#1668#1669#0" expanded="false" />
+                <element signature="e#1694#1695#0" expanded="false" />
+                <element signature="e#1732#1733#0" expanded="false" />
+                <element signature="e#1762#1763#0" expanded="false" />
+                <element signature="e#1800#1801#0" expanded="false" />
+                <element signature="e#1834#1835#0" expanded="false" />
+                <element signature="e#1888#1889#0" expanded="false" />
+                <element signature="e#1934#1935#0" expanded="false" />
+                <element signature="e#1971#1972#0" expanded="false" />
+                <element signature="e#2004#2005#0" expanded="false" />
+                <element signature="e#2056#2057#0" expanded="false" />
+                <element signature="e#2100#2101#0" expanded="false" />
+                <element signature="e#2135#2136#0" expanded="false" />
+                <element signature="e#2166#2167#0" expanded="false" />
+                <element signature="e#2214#2215#0" expanded="false" />
+                <element signature="e#2254#2255#0" expanded="false" />
+                <element signature="e#2290#2291#0" expanded="false" />
+                <element signature="e#2322#2323#0" expanded="false" />
+                <element signature="e#2372#2373#0" expanded="false" />
+                <element signature="e#2414#2415#0" expanded="false" />
+                <element signature="e#2452#2453#0" expanded="false" />
+                <element signature="e#2486#2487#0" expanded="false" />
+                <element signature="e#2540#2541#0" expanded="false" />
+                <element signature="e#2586#2587#0" expanded="false" />
+                <element signature="e#2627#2628#0" expanded="false" />
+                <element signature="e#2664#2665#0" expanded="false" />
+                <element signature="e#2724#2725#0" expanded="false" />
+                <element signature="e#2776#2777#0" expanded="false" />
+                <element signature="e#2809#2810#0" expanded="false" />
+                <element signature="e#2841#2842#0" expanded="false" />
+                <element signature="e#2888#2889#0" expanded="false" />
+                <element signature="e#2930#2931#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ayush.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ayush.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hashTeKnowBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hashTeKnowBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1220">
+              <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#272#273#0" expanded="false" />
+                <element signature="e#298#299#0" expanded="false" />
+                <element signature="e#336#337#0" expanded="false" />
+                <element signature="e#366#367#0" expanded="false" />
+                <element signature="e#613#614#0" expanded="false" />
+                <element signature="e#643#644#0" expanded="false" />
+                <element signature="e#689#690#0" expanded="false" />
+                <element signature="e#727#728#0" expanded="false" />
+                <element signature="e#762#763#0" expanded="false" />
+                <element signature="e#793#794#0" expanded="false" />
+                <element signature="e#841#842#0" expanded="false" />
+                <element signature="e#881#882#0" expanded="false" />
+                <element signature="e#915#916#0" expanded="false" />
+                <element signature="e#945#946#0" expanded="false" />
+                <element signature="e#991#992#0" expanded="false" />
+                <element signature="e#1029#1030#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NormalizeScores.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NormalizeScores.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1460">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unmapped.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unmapped.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6280">
+              <caret line="365" column="499" lean-forward="false" selection-start-line="365" selection-start-column="499" selection-end-line="365" selection-end-column="499" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1188#1189#0" expanded="false" />
+                <element signature="e#1226#1227#0" expanded="false" />
+                <element signature="e#1288#1289#0" expanded="false" />
+                <element signature="e#1342#1343#0" expanded="false" />
+                <element signature="e#1378#1379#0" expanded="false" />
+                <element signature="e#1410#1411#0" expanded="false" />
+                <element signature="e#1460#1461#0" expanded="false" />
+                <element signature="e#1502#1503#0" expanded="false" />
+                <element signature="e#1540#1541#0" expanded="false" />
+                <element signature="e#1574#1575#0" expanded="false" />
+                <element signature="e#1628#1629#0" expanded="false" />
+                <element signature="e#1674#1675#0" expanded="false" />
+                <element signature="e#1704#1705#0" expanded="false" />
+                <element signature="e#1730#1731#0" expanded="false" />
+                <element signature="e#1768#1769#0" expanded="false" />
+                <element signature="e#1798#1799#0" expanded="false" />
+                <element signature="e#1836#1837#0" expanded="false" />
+                <element signature="e#1870#1871#0" expanded="false" />
+                <element signature="e#1924#1925#0" expanded="false" />
+                <element signature="e#1970#1971#0" expanded="false" />
+                <element signature="e#2007#2008#0" expanded="false" />
+                <element signature="e#2040#2041#0" expanded="false" />
+                <element signature="e#2092#2093#0" expanded="false" />
+                <element signature="e#2136#2137#0" expanded="false" />
+                <element signature="e#2171#2172#0" expanded="false" />
+                <element signature="e#2202#2203#0" expanded="false" />
+                <element signature="e#2250#2251#0" expanded="false" />
+                <element signature="e#2290#2291#0" expanded="false" />
+                <element signature="e#2326#2327#0" expanded="false" />
+                <element signature="e#2358#2359#0" expanded="false" />
+                <element signature="e#2408#2409#0" expanded="false" />
+                <element signature="e#2450#2451#0" expanded="false" />
+                <element signature="e#2488#2489#0" expanded="false" />
+                <element signature="e#2522#2523#0" expanded="false" />
+                <element signature="e#2576#2577#0" expanded="false" />
+                <element signature="e#2622#2623#0" expanded="false" />
+                <element signature="e#2663#2664#0" expanded="false" />
+                <element signature="e#2700#2701#0" expanded="false" />
+                <element signature="e#2760#2761#0" expanded="false" />
+                <element signature="e#2812#2813#0" expanded="false" />
+                <element signature="e#2845#2846#0" expanded="false" />
+                <element signature="e#2877#2878#0" expanded="false" />
+                <element signature="e#2924#2925#0" expanded="false" />
+                <element signature="e#2966#2967#0" expanded="false" />
+                <marker date="1496011684627" expanded="true" signature="8263:8298" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pdfStrip.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pdfStrip.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1360">
+              <caret line="72" column="66" lean-forward="false" selection-start-line="72" selection-start-column="66" selection-end-line="72" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoogleSearchJava.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3300">
+              <caret line="177" column="13" lean-forward="false" selection-start-line="177" selection-start-column="13" selection-end-line="177" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_map.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test_map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1840">
+              <caret line="113" column="26" lean-forward="false" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#446#447#0" expanded="false" />
+                <element signature="e#473#474#0" expanded="false" />
+                <element signature="e#513#514#0" expanded="false" />
+                <element signature="e#545#546#0" expanded="false" />
+                <element signature="e#580#581#0" expanded="false" />
+                <element signature="e#611#612#0" expanded="false" />
+                <element signature="e#659#660#0" expanded="false" />
+                <element signature="e#699#700#0" expanded="false" />
+                <element signature="e#735#736#0" expanded="false" />
+                <element signature="e#767#768#0" expanded="false" />
+                <element signature="e#817#818#0" expanded="false" />
+                <element signature="e#859#860#0" expanded="false" />
+                <element signature="e#890#891#0" expanded="false" />
+                <element signature="e#917#918#0" expanded="false" />
+                <element signature="e#957#958#0" expanded="false" />
+                <element signature="e#989#990#0" expanded="false" />
+                <element signature="e#1019#1020#0" expanded="false" />
+                <element signature="e#1045#1046#0" expanded="false" />
+                <element signature="e#1083#1084#0" expanded="false" />
+                <element signature="e#1113#1114#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>new line is::</find>
+      <find>check</find>
+      <find>system.set</find>
+      <find>sizes</find>
+      <find>link_data.add</find>
+      <find>sys</find>
+      <find>bw4</find>
+      <find>temp_num</find>
+      <find>sendrequest</find>
+      <find>bw.write</find>
+      <find>parse</find>
+      <find>search</find>
+      <find>is_quick_ans_presnt</find>
+      <find>= false</find>
+      <find>line num</find>
+      <find>para_inde</find>
+      <find>appended</find>
+      <find>para_text::</find>
+      <find>found</find>
+      <find>bw2</find>
+      <find>table</find>
+      <find>date</find>
+      <find>sort</find>
+      <find>query_word_list</find>
+      <find>query_words</find>
+      <find>Information</find>
+      <find>line</find>
+      <find>reader</find>
+      <find>bw1</find>
+      <find>bw3.write</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/semantics/Compare.java" />
+        <option value="$PROJECT_DIR$/src/EntityScore.java" />
+        <option value="$PROJECT_DIR$/src/TriplePOS.java" />
+        <option value="$PROJECT_DIR$/src/parsePOS.java" />
+        <option value="$PROJECT_DIR$/src/CombineOllie.java" />
+        <option value="$PROJECT_DIR$/src/similarity.java" />
+        <option value="$PROJECT_DIR$/src/CombinePOS.java" />
+        <option value="$PROJECT_DIR$/src/similarityOllieToPos.java" />
+        <option value="$PROJECT_DIR$/src/SimilarityOllieToPos.java" />
+        <option value="$PROJECT_DIR$/src/SimilarityOllie.java" />
+        <option value="$PROJECT_DIR$/src/sample.java" />
+        <option value="/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/net/NetworkClient.class" />
+        <option value="$PROJECT_DIR$/src/GoogleSearch.java" />
+        <option value="$PROJECT_DIR$/src/CombineOllieRake.java" />
+        <option value="$PROJECT_DIR$/src/parseOllie.java" />
+        <option value="$PROJECT_DIR$/src/relationSim.java" />
+        <option value="$PROJECT_DIR$/src/TripleRake.java" />
+        <option value="$PROJECT_DIR$/trie_sim.py" />
+        <option value="$PROJECT_DIR$/src/hash.java" />
+        <option value="$PROJECT_DIR$/src/hashTeKnowBase.java" />
+        <option value="$PROJECT_DIR$/src/pdfStrip.java" />
+        <option value="$PROJECT_DIR$/src/GoogleSearchJava.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/NormalizeScores.java" />
+        <option value="$PROJECT_DIR$/src/test_map.java" />
+        <option value="$PROJECT_DIR$/src/Unmapped.java" />
+        <option value="$PROJECT_DIR$/src/Mapped.java" />
+        <option value="$PROJECT_DIR$/src/ayush.java" />
+        <option value="$PROJECT_DIR$/src/temp.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1922" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Unmapped.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test_map.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mapped.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hashTeKnowBase.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleScrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="semantics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/processing" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.temp">
+    <configuration default="false" name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="temp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GoogleScrapper" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Mapped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Mapped" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GoogleScrapper" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unmapped" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Unmapped" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GoogleScrapper" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GoogleScrapper" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ayush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ayush" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GoogleScrapper" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GoogleScrapper" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.temp" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Mapped" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Unmapped" />
+      <item index="3" class="java.lang.String" itemvalue="Application.test" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ayush" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.temp" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ayush" />
+        <item index="2" class="java.lang.String" itemvalue="Application.test" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Unmapped" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Mapped" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2dfaf8d-a7ae-4776-9a48-eeee4d48dff8" name="Default" comment="" />
+      <created>1494959281734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494959281734</updated>
+      <workItem from="1494959286660" duration="8071000" />
+      <workItem from="1494970816694" duration="2473000" />
+      <workItem from="1495010822178" duration="1091000" />
+      <workItem from="1495012495300" duration="369000" />
+      <workItem from="1495020387120" duration="25524000" />
+      <workItem from="1495095165888" duration="40608000" />
+      <workItem from="1495355720631" duration="4485000" />
+      <workItem from="1495475128343" duration="3000" />
+      <workItem from="1495478636898" duration="2488000" />
+      <workItem from="1495525517356" duration="10136000" />
+      <workItem from="1495571611042" duration="2457000" />
+      <workItem from="1495672132908" duration="3595000" />
+      <workItem from="1495784673031" duration="583000" />
+      <workItem from="1495876663532" duration="7355000" />
+      <workItem from="1495901183150" duration="3437000" />
+      <workItem from="1496071986175" duration="5813000" />
+      <workItem from="1496157170894" duration="1970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="277562000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26096034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6691023" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55741125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21558164" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26096034" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38204592" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55741125" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21125206" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/crawler2.txt" />
+    <entry file="file://$PROJECT_DIR$/crawler3.txt" />
+    <entry file="file://$PROJECT_DIR$/crawler4.txt" />
+    <entry file="file://$PROJECT_DIR$/crawler5.txt" />
+    <entry file="file://$PROJECT_DIR$/crawler7.txt" />
+    <entry file="file://$PROJECT_DIR$/crawler6.txt" />
+    <entry file="file://$PROJECT_DIR$/crawler8.txt" />
+    <entry file="file://$PROJECT_DIR$/crawler9.txt" />
+    <entry file="file://$PROJECT_DIR$/para0.txt" />
+    <entry file="file://$PROJECT_DIR$/csv_triples_ollie0.csv" />
+    <entry file="file://$PROJECT_DIR$/result_similarity_ollie0.csv" />
+    <entry file="file://$PROJECT_DIR$/para2.txt" />
+    <entry file="file://$PROJECT_DIR$/urls1.txt" />
+    <entry file="file://$PROJECT_DIR$/triples_ollie0.txt" />
+    <entry file="file://$PROJECT_DIR$/csv_triples_ollie2.csv" />
+    <entry file="file://$PROJECT_DIR$/result0.csv" />
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="101" column="14" lean-forward="true" selection-start-line="101" selection-start-column="14" selection-end-line="101" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combinedOllie.csv" />
+    <entry file="file://$PROJECT_DIR$/csv_triples_ollie1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample.java" />
+    <entry file="file://$PROJECT_DIR$/urls0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TriplePOS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/net/NetworkClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3230">
+          <caret line="196" column="0" lean-forward="false" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GoogleSearch.java" />
+    <entry file="file://$PROJECT_DIR$/src/hash.java" />
+    <entry file="file://$PROJECT_DIR$/trie_sim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="79" column="34" lean-forward="true" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/semantics/Compare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombineOllie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" column="33" lean-forward="false" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombineOllieRake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombinePOS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EntityScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parseOllie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parsePOS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="47" column="51" lean-forward="false" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/relationSim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="45" column="23" lean-forward="false" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimilarityOllieToPos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-760">
+          <caret line="33" column="14" lean-forward="false" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/similarity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="72" column="39" lean-forward="false" selection-start-line="71" selection-start-column="8" selection-end-line="72" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SimilarityOllie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="71" column="28" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hashTeKnowBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#272#273#0" expanded="false" />
+            <element signature="e#298#299#0" expanded="false" />
+            <element signature="e#336#337#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#613#614#0" expanded="false" />
+            <element signature="e#643#644#0" expanded="false" />
+            <element signature="e#689#690#0" expanded="false" />
+            <element signature="e#727#728#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#793#794#0" expanded="false" />
+            <element signature="e#841#842#0" expanded="false" />
+            <element signature="e#881#882#0" expanded="false" />
+            <element signature="e#915#916#0" expanded="false" />
+            <element signature="e#945#946#0" expanded="false" />
+            <element signature="e#991#992#0" expanded="false" />
+            <element signature="e#1029#1030#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TripleRake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="135" column="21" lean-forward="false" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pdfStrip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="72" column="66" lean-forward="false" selection-start-line="72" selection-start-column="66" selection-end-line="72" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mapWiki.py" />
+    <entry file="file://$PROJECT_DIR$/src/NormalizeScores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1460">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test_map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="113" column="26" lean-forward="false" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#446#447#0" expanded="false" />
+            <element signature="e#473#474#0" expanded="false" />
+            <element signature="e#513#514#0" expanded="false" />
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#580#581#0" expanded="false" />
+            <element signature="e#611#612#0" expanded="false" />
+            <element signature="e#659#660#0" expanded="false" />
+            <element signature="e#699#700#0" expanded="false" />
+            <element signature="e#735#736#0" expanded="false" />
+            <element signature="e#767#768#0" expanded="false" />
+            <element signature="e#817#818#0" expanded="false" />
+            <element signature="e#859#860#0" expanded="false" />
+            <element signature="e#890#891#0" expanded="false" />
+            <element signature="e#917#918#0" expanded="false" />
+            <element signature="e#957#958#0" expanded="false" />
+            <element signature="e#989#990#0" expanded="false" />
+            <element signature="e#1019#1020#0" expanded="false" />
+            <element signature="e#1045#1046#0" expanded="false" />
+            <element signature="e#1083#1084#0" expanded="false" />
+            <element signature="e#1113#1114#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unmapped.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6280">
+          <caret line="365" column="499" lean-forward="false" selection-start-line="365" selection-start-column="499" selection-end-line="365" selection-end-column="499" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1188#1189#0" expanded="false" />
+            <element signature="e#1226#1227#0" expanded="false" />
+            <element signature="e#1288#1289#0" expanded="false" />
+            <element signature="e#1342#1343#0" expanded="false" />
+            <element signature="e#1378#1379#0" expanded="false" />
+            <element signature="e#1410#1411#0" expanded="false" />
+            <element signature="e#1460#1461#0" expanded="false" />
+            <element signature="e#1502#1503#0" expanded="false" />
+            <element signature="e#1540#1541#0" expanded="false" />
+            <element signature="e#1574#1575#0" expanded="false" />
+            <element signature="e#1628#1629#0" expanded="false" />
+            <element signature="e#1674#1675#0" expanded="false" />
+            <element signature="e#1704#1705#0" expanded="false" />
+            <element signature="e#1730#1731#0" expanded="false" />
+            <element signature="e#1768#1769#0" expanded="false" />
+            <element signature="e#1798#1799#0" expanded="false" />
+            <element signature="e#1836#1837#0" expanded="false" />
+            <element signature="e#1870#1871#0" expanded="false" />
+            <element signature="e#1924#1925#0" expanded="false" />
+            <element signature="e#1970#1971#0" expanded="false" />
+            <element signature="e#2007#2008#0" expanded="false" />
+            <element signature="e#2040#2041#0" expanded="false" />
+            <element signature="e#2092#2093#0" expanded="false" />
+            <element signature="e#2136#2137#0" expanded="false" />
+            <element signature="e#2171#2172#0" expanded="false" />
+            <element signature="e#2202#2203#0" expanded="false" />
+            <element signature="e#2250#2251#0" expanded="false" />
+            <element signature="e#2290#2291#0" expanded="false" />
+            <element signature="e#2326#2327#0" expanded="false" />
+            <element signature="e#2358#2359#0" expanded="false" />
+            <element signature="e#2408#2409#0" expanded="false" />
+            <element signature="e#2450#2451#0" expanded="false" />
+            <element signature="e#2488#2489#0" expanded="false" />
+            <element signature="e#2522#2523#0" expanded="false" />
+            <element signature="e#2576#2577#0" expanded="false" />
+            <element signature="e#2622#2623#0" expanded="false" />
+            <element signature="e#2663#2664#0" expanded="false" />
+            <element signature="e#2700#2701#0" expanded="false" />
+            <element signature="e#2760#2761#0" expanded="false" />
+            <element signature="e#2812#2813#0" expanded="false" />
+            <element signature="e#2845#2846#0" expanded="false" />
+            <element signature="e#2877#2878#0" expanded="false" />
+            <element signature="e#2924#2925#0" expanded="false" />
+            <element signature="e#2966#2967#0" expanded="false" />
+            <marker date="1496011684627" expanded="true" signature="8263:8298" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Mapped.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3400">
+          <caret line="220" column="32" lean-forward="false" selection-start-line="220" selection-start-column="32" selection-end-line="220" selection-end-column="32" />
+          <folding>
+            <element signature="e#1152#1153#0" expanded="false" />
+            <element signature="e#1190#1191#0" expanded="false" />
+            <element signature="e#1252#1253#0" expanded="false" />
+            <element signature="e#1306#1307#0" expanded="false" />
+            <element signature="e#1342#1343#0" expanded="false" />
+            <element signature="e#1374#1375#0" expanded="false" />
+            <element signature="e#1424#1425#0" expanded="false" />
+            <element signature="e#1466#1467#0" expanded="false" />
+            <element signature="e#1504#1505#0" expanded="false" />
+            <element signature="e#1538#1539#0" expanded="false" />
+            <element signature="e#1592#1593#0" expanded="false" />
+            <element signature="e#1638#1639#0" expanded="false" />
+            <element signature="e#1668#1669#0" expanded="false" />
+            <element signature="e#1694#1695#0" expanded="false" />
+            <element signature="e#1732#1733#0" expanded="false" />
+            <element signature="e#1762#1763#0" expanded="false" />
+            <element signature="e#1800#1801#0" expanded="false" />
+            <element signature="e#1834#1835#0" expanded="false" />
+            <element signature="e#1888#1889#0" expanded="false" />
+            <element signature="e#1934#1935#0" expanded="false" />
+            <element signature="e#1971#1972#0" expanded="false" />
+            <element signature="e#2004#2005#0" expanded="false" />
+            <element signature="e#2056#2057#0" expanded="false" />
+            <element signature="e#2100#2101#0" expanded="false" />
+            <element signature="e#2135#2136#0" expanded="false" />
+            <element signature="e#2166#2167#0" expanded="false" />
+            <element signature="e#2214#2215#0" expanded="false" />
+            <element signature="e#2254#2255#0" expanded="false" />
+            <element signature="e#2290#2291#0" expanded="false" />
+            <element signature="e#2322#2323#0" expanded="false" />
+            <element signature="e#2372#2373#0" expanded="false" />
+            <element signature="e#2414#2415#0" expanded="false" />
+            <element signature="e#2452#2453#0" expanded="false" />
+            <element signature="e#2486#2487#0" expanded="false" />
+            <element signature="e#2540#2541#0" expanded="false" />
+            <element signature="e#2586#2587#0" expanded="false" />
+            <element signature="e#2627#2628#0" expanded="false" />
+            <element signature="e#2664#2665#0" expanded="false" />
+            <element signature="e#2724#2725#0" expanded="false" />
+            <element signature="e#2776#2777#0" expanded="false" />
+            <element signature="e#2809#2810#0" expanded="false" />
+            <element signature="e#2841#2842#0" expanded="false" />
+            <element signature="e#2888#2889#0" expanded="false" />
+            <element signature="e#2930#2931#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="177" column="13" lean-forward="false" selection-start-line="177" selection-start-column="13" selection-end-line="177" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ayush.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="55" column="40" lean-forward="false" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GoogleScrapper</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

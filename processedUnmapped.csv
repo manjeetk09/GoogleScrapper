@@ -1,106 +1,46 @@
-quadratic;1.45;1;2
-sinusoidal;1.45;1;8
-exponential;1.2;1;6
-logarithmic;1.2;1;7
-algebraic_functions;2.6;1;19
-odd_functions;2.2666666666666666;1;41
-transcendental_functions;2.2666666666666666;1;42
-algebraic_curves;2.1;2;50
-table_lists;2.1;2;50
-dose_response_curve;2.0869565217391304;2;8
-fletcher_munson_curve;2.0869565217391304;2;10
-robinson_dadson_curves;2.0869565217391304;2;21
-stress_strain_curve;2.0869565217391304;2;24
-higher_dimensional_space;2.037037037037037;2;30
-algebraically_closed_field;2.015151515151515;2;52
-affine_plane_satisfying;2.015151515151515;2;52
-regular_differential_forms;2.015151515151515;2;56
-projective_plane_curve;2.015151515151515;2;60
-compact_fundamental_domain;2.015151515151515;2;61
-non_euclidean_bounded_polygon;2.015151515151515;2;62
-one_dimensional_abelian_variety;2.015151515151515;2;63
-smooth_elliptic_curves;2.015151515151515;2;64
-smooth_projective_curves;2.015151515151515;2;67
-finite_lobachevskii_plane;2.015151515151515;2;73
-modern_arithmetical_research;2.015151515151515;2;74
-irreducible_algebraic_curve;1.9484848484848485;2;53
-plane_affine_curve;1.9484848484848485;2;54
-affine_straight_line;1.9484848484848485;2;62
-meromorphic_doubly_periodic_functions;1.9484848484848485;2;65
-quantity_completely_determines;1.9058823529411764;1;20
-complete_algebraic_curve;1.8818181818181818;2;55
-smooth_monotone_arc;1.837037037037037;2;34
-smooth_function;1.737037037037037;2;34
-projective_line;1.715151515151515;2;62
-automorphic_functions__cf;1.715151515151515;2;70
-wikipedia_page;1.6869565217391305;2;1
-bathtub_curve;1.6869565217391305;2;4
-bell_curve;1.6869565217391305;2;5
-fish_curve;1.6869565217391305;2;9
-forgetting_curve;1.6869565217391305;2;11
-gompertz_curve;1.6869565217391305;2;12
-growth_curve;1.6869565217391305;2;13
-hubbert_curve;1.6869565217391305;2;14
-kruithof_curve;1.6869565217391305;2;15
-learning_curve;1.6869565217391305;2;16
-light_curve;1.6869565217391305;2;17
-logistic_curve;1.6869565217391305;2;18
-paschen_curve;1.6869565217391305;2;20
-rotation_curve;1.6869565217391305;2;22
-projective_completion;1.674074074074074;2;39
-affine_curve;1.674074074074074;2;40
-direction_based;1.6689655172413793;1;35
-starts_curving;1.6689655172413793;1;40
-visually_distinguish;1.664516129032258;2;46
-interesting_graphs;1.664516129032258;2;48
-functions_produce;1.664516129032258;2;48
-highest_power;1.664516129032258;2;49
-function_tells;1.664516129032258;2;49
-function_expresses;1.6392156862745098;1;20
-mathematical_concept;1.6392156862745098;1;20
-intuitive_idea;1.6392156862745098;1;20
-permissible_input;1.6392156862745098;1;22
-assigned_values;1.6392156862745098;1;24
-mentioned_types;1.6392156862745098;1;30
-euclidean_plane;1.637037037037037;2;29
-general_field;1.637037037037037;2;30
-uniquely_decomposed;1.637037037037037;2;33
-finite_number;1.637037037037037;2;33
-called__remarkable_points;1.637037037037037;2;33
-open_interval;1.637037037037037;2;34
-tangent_parallel;1.637037037037037;2;35
-coordinate_axes;1.637037037037037;2;35
-affine_part;1.637037037037037;2;40
-commonly_expressed;1.637037037037037;2;40
-class_consists;1.6303030303030304;2;67
-clearest_concept;1.6151515151515152;2;51
-birationally_isomorphic;1.6151515151515152;2;54
-arithmetic_genus;1.6151515151515152;2;55
-non_singular_model;1.6151515151515152;2;57
-non_negative_integer;1.6151515151515152;2;58
-rational_curves;1.6151515151515152;2;59
-act_freely;1.6151515151515152;2;61
-discrete_groups;1.6151515151515152;2;61
-universal_coverings;1.6151515151515152;2;61
-two_dimensional_lattice;1.6151515151515152;2;62
-lobachevskii_plane;1.6151515151515152;2;62
-unit_disc;1.6151515151515152;2;62
-additive_group;1.6151515151515152;2;62
-identity_group;1.6151515151515152;2;62
-unique_curve;1.6151515151515152;2;63
-respective_curve;1.6151515151515152;2;63
-torus_defining;1.6151515151515152;2;63
-complex_tori;1.6151515151515152;2;63
-period_group;1.6151515151515152;2;65
-affine_model;1.6151515151515152;2;66
-meromorphic_functions;1.6151515151515152;2;68
-fixed_points;1.6151515151515152;2;73
-important_role;1.6151515151515152;2;74
-general_case;1.6151515151515152;2;74
-respective_quotients;1.6151515151515152;2;74
-projective_curve;1.597037037037037;2;39
-end_point;1.570370370371037;2;35
-singular_point;1.570370370371037;2;35
-algebraic_function;1.5392156862745097;1;31
-group_structure;1.5151515151515151;2;63
-curve;0.9737037037037036;2;39
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger; Firefox JavaScript debugger.;firefox_javascript_debugger;1.0;0.3571428571428571;1.0;2.357142857142857;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger; Eclipse debugger API used in a range of IDEs.;eclipse_debugger_api;1.0;0.3571428571428571;1.0;2.357142857142857;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger; Eclipse IDE Nodeclipse .;eclipse_ide_nodeclipse;1.0;0.3571428571428571;1.0;2.357142857142857;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger; WDW, the OpenWatcom debugger.;openwatcom_debugger;0.5;0.3571428571428571;1.0;1.8571428571428572;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger; GDB _ the GNU debugger.;gdb__;0.5;0.0;1.0;1.5;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger;Some widely used debuggers are.;widely;0.0;0.3571428571428571;1.0;1.3571428571428572;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger; Eclipse debugger API used in a range of IDEs.;range;0.0;0.3571428571428571;1.0;1.3571428571428572;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger; LLDB.;lldb;0.0;0.0;1.0;1.0;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger; Valgrind.;valgrind;0.0;0.0;1.0;1.0;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger; WinDbg.;windbg;0.0;0.0;1.0;1.0;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikipedia.org/wiki/Debugger; WDW, the OpenWatcom debugger.;wdw;0.0;0.0;1.0;1.0;0.0;1;Mon May 29 06:11:07 IST 2017
+examples of debugger software;http://www.cs.yale.edu/homes/aspnes/pinewiki/C%25282f%2529Debugging.html; In each case the example program is compiled with _g3 so that valgrind can report line numbers from the source code.;report_line_numbers;1.0;0.5555555555555555;1.0;2.5555555555555554;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debuggers;http://download.mikroe.com/documents/compilers/mikroc/arm/help/mikroicd_debugger_example.htm;Here is a step_by_step Hardware Debugger Example.;step_by_step_hardware_debugger;1.0;1.0;0.2046783625730994;2.2046783625730995;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debuggers;http://download.mikroe.com/documents/compilers/mikroc/arm/help/mikroicd_debugger_example.htm; We will show how the Hardware Debugger works using this example .;hardware_debugger_works;1.0;1.0;0.2046783625730994;2.2046783625730995;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html; Again, if such print statements are placed inside loops, it will produce output everytime the loop is executed though the programmer may be interested in only certain iterations of the loop.;produce_output_everytime;1.0;0.10869565217391304;1.0;2.108695652173913;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html; To overcome several such drawbacks of debugging by inserting extra statements in the program, there are a kind of tool called debugger that helps in debugging programs by giving the programmer some control over the execution of the program and some means of examining and modifying different program variables during runtime.;inserting_extra_statements;1.0;0.10869565217391304;1.0;2.108695652173913;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html; To overcome several such drawbacks of debugging by inserting extra statements in the program, there are a kind of tool called debugger that helps in debugging programs by giving the programmer some control over the execution of the program and some means of examining and modifying different program variables during runtime.;tool_called_debugger;1.0;0.10869565217391304;1.0;2.108695652173913;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered but which will typically be somewhat slower than executing the code directly on the appropriate processor.;instruction_set_simulator;1.0;0.09259259259259259;1.0;2.0925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; Some debuggers offer two modes of operation _ full or partial simulation, to limit this impact.;operation___full;1.0;0.09259259259259259;1.0;2.0925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;http://www.cs.yale.edu/homes/aspnes/pinewiki/C%25282f%2529Debugging.html;Here are some examples of valgrind output.;valgrind_output;0.5;0.5555555555555555;1.0;2.0555555555555554;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;http://www.cs.yale.edu/homes/aspnes/pinewiki/C%25282f%2529Debugging.html; In each case the example program is compiled with _g3 so that valgrind can report line numbers from the source code.;source_code;0.5;0.5555555555555555;1.0;2.0555555555555554;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; When the program  crashes  or reaches a preset condition, the debugger typically shows the position in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments.;debugger_typically_shows;0.8888888888883333;0.09259259259259259;1.0;1.9814814814809258;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;Using print statements for debugging a program is often not adequate or convenient.;print_statements;0.5;0.21739130434782608;1.0;1.7173913043478262;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://courses.engr.illinois.edu/ece390/books/labmanual/debugging.html;What does a debugging program do and how is it useful  These questions are better explained by example, but to give a quick answer, a debugging program allows you to monitor control of a program during program execution.;quick_answer;0.5;0.18518518518518517;1.0;1.6851851851851851;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://courses.engr.illinois.edu/ece390/books/labmanual/debugging.html;What does a debugging program do and how is it useful  These questions are better explained by example, but to give a quick answer, a debugging program allows you to monitor control of a program during program execution.;monitor_control;0.5;0.18518518518518517;1.0;1.6851851851851851;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://courses.engr.illinois.edu/ece390/books/labmanual/debugging.html; Using the debug program you can tell the program to execute until a specific statement is reached  upon reaching this statement the debugger allows you to look at and change values of different variables in the program and also the registers used by the PC .;change_values;0.5;0.18518518518518517;1.0;1.6851851851851851;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://courses.engr.illinois.edu/ece390/books/labmanual/debugging.html; The usefulness of this ability to watch your program unfold in great detail will become apparent later on.;great_detail;0.5;0.18518518518518517;1.0;1.6851851851851851;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://courses.engr.illinois.edu/ece390/books/labmanual/debugging.html; The usefulness of this ability to watch your program unfold in great detail will become apparent later on.;program_unfold;0.5;0.18518518518518517;1.0;1.6851851851851851;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; When the program  crashes  or reaches a preset condition, the debugger typically shows the position in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments.;symbolic_debugger;0.5833333333324999;0.09259259259259259;1.0;1.6759259259250925;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; When the program  crashes  or reaches a preset condition, the debugger typically shows the position in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments.;source_level_debugger;0.5833333333324999;0.09259259259259259;1.0;1.6759259259250925;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html; For example, the programmer may want to change the values of certain variables after observing the execution of the program till some point.;program_till;0.5;0.10869565217391304;1.0;1.608695652173913;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html; Again, if such print statements are placed inside loops, it will produce output everytime the loop is executed though the programmer may be interested in only certain iterations of the loop.;inside_loops;0.5;0.10869565217391304;1.0;1.608695652173913;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;A debugger or debugging tool is a computer program that is used to test and debug other programs .;computer_program;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;A debugger or debugging tool is a computer program that is used to test and debug other programs .;debugging_tool;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered but which will typically be somewhat slower than executing the code directly on the appropriate processor.;specific_conditions;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; Some debuggers offer two modes of operation _ full or partial simulation, to limit this impact.;partial_simulation;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; Some debuggers offer two modes of operation _ full or partial simulation, to limit this impact.;debuggers_offer;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;A  crash  happens when the program cannot normally continue because of a programming bug.;programming_bug;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; For example, the program might have tried to use an instruction not available on the current version of the CPU or attempted to access unavailable or protected memory.;protected_memory;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; For example, the program might have tried to use an instruction not available on the current version of the CPU or attempted to access unavailable or protected memory.;current_version;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; For example, the program might have tried to use an instruction not available on the current version of the CPU or attempted to access unavailable or protected memory.;access_unavailable;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; When the program  crashes  or reaches a preset condition, the debugger typically shows the position in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments.;preset_condition;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; When the program  crashes  or reaches a preset condition, the debugger typically shows the position in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments.;original_code;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly .;low_level_debugger;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger; If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly .;machine_language_debugger;0.5;0.09259259259259259;1.0;1.5925925925925926;0.0;0;Mon May 29 06:11:07 IST 2017
+examples of debugger software;https://msdn.microsoft.com/en-us/library/windows/hardware/ff540515(v%3Dvs.85).aspx;foreach token to search for WORD values of 5a4d.;word_values;0.5;0.0;0.3138401559454191;0.8138401559454191;0.0;0;Mon May 29 06:11:07 IST 2017

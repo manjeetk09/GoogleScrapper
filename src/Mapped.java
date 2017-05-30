@@ -297,7 +297,7 @@ public class Mapped {
         Collections.sort(obj, ss);
 
         Double max_final = obj.get(0).getFinal_score();
-        Double cutoff = max_final / 2.0;
+        Double cutoff = max_final / 3.0;
         for(int i=0; i<obj.size(); i++)
         {
             if(obj.get(i).getFinal_score() < cutoff && obj.get(i).getQuick_ans() == 0)
