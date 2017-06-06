@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="apache-opennlp-1.8">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../apache-opennlp-1.8.0-src" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../apache-opennlp-1.8.0-src/opennlp-tools/target/apidocs" />
+      <root url="file://$PROJECT_DIR$/../apache-opennlp-1.8.0-src/opennlp-uima/target/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../apache-opennlp-1.8.0-src/opennlp-brat-annotator/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-opennlp-1.8.0-src/opennlp-morfologik-addon/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-opennlp-1.8.0-src/opennlp-morfologik-addon/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-opennlp-1.8.0-src/opennlp-tools/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-opennlp-1.8.0-src/opennlp-tools/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../apache-opennlp-1.8.0-src/opennlp-uima/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../apache-opennlp-1.8.0-src/opennlp-uima/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
