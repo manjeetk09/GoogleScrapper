@@ -70,98 +70,70 @@ No extractions found.
 .
 No extractions found.
 
-.
+Many Eclipse perspectives, e g  the Java Development Tools , 1  provide a debugger front_end .
+0.767: (Many Eclipse perspectives , e g the Java Development Tools , 1; provide; a debugger front_end)
+
+Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 .
+0.83: (Allinea DDT;  ; a graphical debugger supporting for parallel multi_process and multithreaded applications)
+0.768: (a graphical debugger supporting for parallel multi_process and multithreaded applications; be   for; C C and F90)
+0.681: (a graphical debugger; supporting for; parallel multi_process and multithreaded applications)
+0.607: (Allinea DDT;   a graphical debugger supporting for parallel multi process and multithreaded applications for; C C and F90)
+
+DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  .
+0.782: (a complex tool; works with; common debuggers)
+0.704: (It; is; a complex tool that works with most common debuggers natively or with some external programs)
+0.695: (DDD; is the standard front end from; the GNU Project)
+0.465: (DDD; is; the standard front_end It is a complex tool)
+
+GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution.
+0.767: (visual debugging tools; be based on; GDB CodeLite)
+0.711: (GDB GUI Emacs Emacs editor; acts as; the frontend)
+0.677: (visual debugging tools based on GDB CodeLite An open source , cross platform C C IDE which have front end for gdb , the next version of CodeLite; will also include; a front end)
+0.539: (GDB CodeLite; have front end for; gdb)
+0.453: (GDB CodeLite; be based on; cross platform C C IDE)
+0.368: (GDB CodeLite; be based on; the next version of CodeLite)
+0.362: (GDB CodeLite; be the next version of; CodeLite)
+0.273: (visual debugging tools based on GDB CodeLite An open source , cross platform C C IDE which have front end for gdb , the next version of CodeLite; will also include a front end to the LLDB CodeBlocks A free cross platform C , C and Fortran IDE with a front end for gdb RR An open source C C debugger by Mozilla reverse; execution)
+0.197: (visual debugging tools based on GDB CodeLite An open source , cross platform C C IDE which have front end for gdb , the next version of CodeLite; will also include a front end to the LLDB CodeBlocks A free cross platform C , C and Fortran IDE with a front end for gdb RR An open source C C debugger by Mozilla supporting; reproduction of program state)
+
+Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend .
+0.846: (Emacs Emacs editor; acts as; the frontend)
+
+KDbg   Part of the KDE development tools .
 No extractions found.
 
-.
+Nemiver   A GDB frontend that integrates well in the GNOME desktop environment .
 No extractions found.
 
-A debugger or debugging tool is a computer program that is used to test and debug other programs .
-0.802: (A debugger or debugging tool; is; a computer program that is used to test and debug other programs)
-
- The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered but which will typically be somewhat slower than executing the code directly on the appropriate processor.
-0.635: (The code; to be examined; a technique that allows great power in its ability)
-0.517: (the code; be executing directly on; the appropriate processor)
-0.491: (great power; be allows by; a technique)
-
- Some debuggers offer two modes of operation _ full or partial simulation, to limit this impact.
-0.841: (Some debuggers; offer; two modes of operation to limit this impact)
-
-.
+xxgdb   X_window frontend for GDB and dbx debugger .
 No extractions found.
 
-.
+Qt Creator   multi_platform frontend for GDB, CDB and LLDB .
 No extractions found.
 
-A  crash  happens when the program cannot normally continue because of a programming bug.
-0.86: (the program; cannot normally continue because of; a programming)
+Allinea s DDT   a parallel and distributed front_end to a modified version of GDB .
+0.79: (DDT; be a parallel and distributed front end to; a modified version of GDB)
 
- For example, the program might have tried to use an instruction not available on the current version of the CPU or attempted to access unavailable or protected memory.
-0.829: (the program; might have tried to use; an instruction not available)
-0.726: (the program; to use; an instruction not available)
-0.404: (the program; might have tried for; example)
+Xcode   contains a GDB front_end as well .
+0.758: (Xcode; contains; a GDB front_end)
 
- When the program  crashes  or reaches a preset condition, the debugger typically shows the position in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments.
-0.798: (the debugger; typically shows; the position)
-0.565: (the debugger; typically shows the position in the original code in; a preset condition)
-0.06: (it; is; a source_level debugger or symbolic debugger)
+SlickEdit   contains a GDB front_end as well .
+0.74: (SlickEdit; contains; a GDB front_end)
 
- If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly .
-0.685: (it; shows in; the disassembly)
-0.659: (it; shows; the line)
-0.564: (the line; be shows by; a low_level debugger or a machine_language debugger)
-0.09: (it; is; a low_level debugger or a machine_language debugger it shows the line in the disassembly)
+Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB .
+0.845: (Eclipse C C Development Tools 2; includes; visual debugging tools based on GDB)
+0.764: (visual debugging tools; be based on; GDB)
 
-.
+CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB .
+0.715: (cross platform C C IDE; have front end for; gdb)
+0.691: (a front end; will be also include to; the LLDB)
+0.64: (An open source; will also include a front end to; the LLDB)
+0.603: (An open source; will also include; a front end)
+
+CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb .
 No extractions found.
 
-.
-No extractions found.
-
-What does a debugging program do and how is it useful  These questions are better explained by example, but to give a quick answer, a debugging program allows you to monitor control of a program during program execution.
-0.885: (you; to monitor; control of a program)
-0.875: (you; to monitor control of a program during; program execution)
-0.819: (These questions; are explained by; example)
-0.708: (control of a program; to be monitor during; program execution)
-
- What does that mean  Well, let s give a quick example.
-0.727: (s; give; a quick example)
-
- Using the debug program you can tell the program to execute until a specific statement is reached  upon reaching this statement the debugger allows you to look at and change values of different variables in the program and also the registers used by the PC .
-0.884: (you; can tell; the program to execute until a specific statement)
-0.796: (you; to change; values of different variables)
-0.78: (the registers; be used by; the PC)
-
- The usefulness of this ability to watch your program unfold in great detail will become apparent later on.
-0.728: (your program; to be watch unfold in; great detail)
-0.576: (The usefulness of this ability; will become later; apparent)
-0.544: (apparent; be The usefulness of; this ability to watch your program unfold in great detail)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
+RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution.
 No extractions found.
 
 .
@@ -195,12 +167,31 @@ No extractions found.
 0.674: (different program variables; be examining during; runtime)
 0.622: (extra statements; be inserting in; the program)
 
-Here is a step_by_step Hardware Debugger Example.
+Slide 8 of 20.
 No extractions found.
 
-First you have to write a program.
-0.772: (you; First have to write; a program)
+Fortunately, there are programs called debuggers that help software developers find and eliminate bugs while they are writing programs.
+0.689: (help software developers; eliminate; bugs)
+0.612: (they; are writing; programs)
 
- We will show how the Hardware Debugger works using this example .
-0.667: (the Hardware Debugger; works using; this example)[attrib=We will show]
+ A debugger tells the programmer what types of errors it finds and often marks the exact lines of code where the bugs are found.
+0.735: (A debugger; tells; the programmer what types of errors it finds and often marks the exact lines of code)
+0.727: (it; finds of; code where the bugs are found)
+0.647: (it; finds; the exact lines of code)
+0.576: (the exact lines of code; be finds by; the programmer what types of errors it finds and often marks)
+0.564: (the bugs; are found in; code)
+
+ Debuggers also allow programmers to run a program step by step so that they can determine exactly when and why a program crashes.
+0.747: (programmers; to run; a program step)
+0.745: (programmers; to run a program step by; step)
+0.585: (a program step; to be run by; step)
+
+ Advanced debuggers provide detailed information about threads and memory being used by the program during each step of execution.
+0.785: (Advanced debuggers; provide detailed; information)
+0.679: (threads and memory; being used by; the program)
+0.663: (threads and memory; being used during; each step of execution)
+
+ You could say a powerful debugger program is like OFF  with 100  deet.
+0.803: (a powerful debugger program; is like; OFF)[attrib=You could say]
+0.763: (a powerful debugger program; is with; 100 deet)[attrib=You could say]
 

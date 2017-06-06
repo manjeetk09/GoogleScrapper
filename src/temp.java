@@ -59,10 +59,10 @@ public class temp
         //System.out.println(searchURL);
 
         //for proxy
-        System.setProperty("http.proxyHost", "10.10.78.22");
-        System.setProperty("http.proxyPort", "3128");
-        System.setProperty("https.proxyHost", "10.10.78.22");
-        System.setProperty("https.proxyPort", "3128");
+//        System.setProperty("http.proxyHost", "10.10.78.22");
+//        System.setProperty("http.proxyPort", "3128");
+//        System.setProperty("https.proxyHost", "10.10.78.22");
+//        System.setProperty("https.proxyPort", "3128");
 
         org.jsoup.nodes.Document doc = Jsoup.connect(searchURL).userAgent("Mozilla/5.0").get();
 

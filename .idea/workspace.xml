@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2dfaf8d-a7ae-4776-9a48-eeee4d48dff8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/combinedOllie.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/combinedPOS.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.combinedOllie.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.csv_triples_ollie0.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.result0.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.result_similarity_ollie0.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.similarity_ollie_to_Pos.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawler4.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/crawler5.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/crawler6.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/crawler7.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/crawler8.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/crawler9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq4.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq5.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq6.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/crawlerq7.txt" afterPath="" />
@@ -24,35 +33,47 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS7.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS8.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/csv_entity_POS9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie4.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie5.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie6.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie7.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie8.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/csv_triples_ollie9.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/download.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake4.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake5.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake6.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake7.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake8.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/entity_rake9.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/evaluate_rake.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/li2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/li3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/li4.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/li5.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/li6.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/li7.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/li8.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/li9.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/para4.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/para5.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/para6.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/para7.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/para8.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/para9.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pdf.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/processed.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/quick_ans + 0.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/quick_ans + 1.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/quick_ans + 2.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/quick_ans + 3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/result4.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/result5.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/result6.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/result7.csv" afterPath="" />
@@ -78,8 +99,10 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos7.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos8.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/result_similarity_pos9.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/similarity_ollie_to_Pos.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate4.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate5.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate6.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/timeDate7.txt" afterPath="" />
@@ -95,92 +118,57 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS7.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS8.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/triples_POS9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie4.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie5.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie6.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie7.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie8.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/triples_ollie9.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/unmapWithWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/urls2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/urls3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/urls4.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/urls5.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/urls6.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/urls7.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/urls8.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/urls9.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicates.dat" afterPath="$PROJECT_DIR$/duplicates.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li2.csv" afterPath="$PROJECT_DIR$/li2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Information.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Information.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/InformationUnmap.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/InformationUnmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Mapped$RakeScoreListSort.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Mapped$RakeScoreListSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Mapped.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Mapped.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Unmapped$RakeScoreListSort.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Unmapped$RakeScoreListSort.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Unmapped.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Unmapped.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/pdfStrip.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/pdfStrip.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/temp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/test.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/test_map.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/test_map.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoogleScrapper.iml" afterPath="$PROJECT_DIR$/GoogleScrapper.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler0.txt" afterPath="$PROJECT_DIR$/crawler0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler1.txt" afterPath="$PROJECT_DIR$/crawler1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler2.txt" afterPath="$PROJECT_DIR$/crawler2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler3.txt" afterPath="$PROJECT_DIR$/crawler3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler4.txt" afterPath="$PROJECT_DIR$/crawler4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq0.txt" afterPath="$PROJECT_DIR$/crawlerq0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq1.txt" afterPath="$PROJECT_DIR$/crawlerq1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq2.txt" afterPath="$PROJECT_DIR$/crawlerq2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq3.txt" afterPath="$PROJECT_DIR$/crawlerq3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq4.txt" afterPath="$PROJECT_DIR$/crawlerq4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie1.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie3.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie4.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie4.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/duplicatesRemoved.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity.txt" afterPath="$PROJECT_DIR$/entity.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake0.csv" afterPath="$PROJECT_DIR$/entity_rake0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake1.csv" afterPath="$PROJECT_DIR$/entity_rake1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake2.csv" afterPath="$PROJECT_DIR$/entity_rake2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake3.csv" afterPath="$PROJECT_DIR$/entity_rake3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake4.csv" afterPath="$PROJECT_DIR$/entity_rake4.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final.csv" afterPath="$PROJECT_DIR$/final.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_normalize.csv" afterPath="$PROJECT_DIR$/final_normalize.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li0.csv" afterPath="$PROJECT_DIR$/li0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li1.csv" afterPath="$PROJECT_DIR$/li1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li3.csv" afterPath="$PROJECT_DIR$/li3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li4.csv" afterPath="$PROJECT_DIR$/li4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mapWiki.py" afterPath="$PROJECT_DIR$/mapWiki.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mappedInTKB.csv" afterPath="$PROJECT_DIR$/mappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/notMappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para0.txt" afterPath="$PROJECT_DIR$/para0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para1.txt" afterPath="$PROJECT_DIR$/para1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para2.txt" afterPath="$PROJECT_DIR$/para2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para3.txt" afterPath="$PROJECT_DIR$/para3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para4.txt" afterPath="$PROJECT_DIR$/para4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMapped.csv" afterPath="$PROJECT_DIR$/processedMapped.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedUnmapped.csv" afterPath="$PROJECT_DIR$/processedUnmapped.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result0.csv" afterPath="$PROJECT_DIR$/result0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result1.csv" afterPath="$PROJECT_DIR$/result1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result2.csv" afterPath="$PROJECT_DIR$/result2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result3.csv" afterPath="$PROJECT_DIR$/result3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result4.csv" afterPath="$PROJECT_DIR$/result4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Mapped.java" afterPath="$PROJECT_DIR$/src/Mapped.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/temp.java" afterPath="$PROJECT_DIR$/src/temp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.txt" afterPath="$PROJECT_DIR$/temp.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates.txt" afterPath="$PROJECT_DIR$/templates.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate0.txt" afterPath="$PROJECT_DIR$/timeDate0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate1.txt" afterPath="$PROJECT_DIR$/timeDate1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate2.txt" afterPath="$PROJECT_DIR$/timeDate2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate3.txt" afterPath="$PROJECT_DIR$/timeDate3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate4.txt" afterPath="$PROJECT_DIR$/timeDate4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie0.txt" afterPath="$PROJECT_DIR$/triples_ollie0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie1.txt" afterPath="$PROJECT_DIR$/triples_ollie1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie2.txt" afterPath="$PROJECT_DIR$/triples_ollie2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie3.txt" afterPath="$PROJECT_DIR$/triples_ollie3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie4.txt" afterPath="$PROJECT_DIR$/triples_ollie4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls0.txt" afterPath="$PROJECT_DIR$/urls0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls1.txt" afterPath="$PROJECT_DIR$/urls1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls2.txt" afterPath="$PROJECT_DIR$/urls2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls3.txt" afterPath="$PROJECT_DIR$/urls3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls4.txt" afterPath="$PROJECT_DIR$/urls4.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -199,8 +187,8 @@
       <file leaf-file-name="temp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/temp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="55" column="40" lean-forward="false" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+            <state relative-caret-position="-80">
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -213,52 +201,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3400">
               <caret line="220" column="32" lean-forward="false" selection-start-line="220" selection-start-column="32" selection-end-line="220" selection-end-column="32" />
-              <folding>
-                <element signature="e#1152#1153#0" expanded="false" />
-                <element signature="e#1190#1191#0" expanded="false" />
-                <element signature="e#1252#1253#0" expanded="false" />
-                <element signature="e#1306#1307#0" expanded="false" />
-                <element signature="e#1342#1343#0" expanded="false" />
-                <element signature="e#1374#1375#0" expanded="false" />
-                <element signature="e#1424#1425#0" expanded="false" />
-                <element signature="e#1466#1467#0" expanded="false" />
-                <element signature="e#1504#1505#0" expanded="false" />
-                <element signature="e#1538#1539#0" expanded="false" />
-                <element signature="e#1592#1593#0" expanded="false" />
-                <element signature="e#1638#1639#0" expanded="false" />
-                <element signature="e#1668#1669#0" expanded="false" />
-                <element signature="e#1694#1695#0" expanded="false" />
-                <element signature="e#1732#1733#0" expanded="false" />
-                <element signature="e#1762#1763#0" expanded="false" />
-                <element signature="e#1800#1801#0" expanded="false" />
-                <element signature="e#1834#1835#0" expanded="false" />
-                <element signature="e#1888#1889#0" expanded="false" />
-                <element signature="e#1934#1935#0" expanded="false" />
-                <element signature="e#1971#1972#0" expanded="false" />
-                <element signature="e#2004#2005#0" expanded="false" />
-                <element signature="e#2056#2057#0" expanded="false" />
-                <element signature="e#2100#2101#0" expanded="false" />
-                <element signature="e#2135#2136#0" expanded="false" />
-                <element signature="e#2166#2167#0" expanded="false" />
-                <element signature="e#2214#2215#0" expanded="false" />
-                <element signature="e#2254#2255#0" expanded="false" />
-                <element signature="e#2290#2291#0" expanded="false" />
-                <element signature="e#2322#2323#0" expanded="false" />
-                <element signature="e#2372#2373#0" expanded="false" />
-                <element signature="e#2414#2415#0" expanded="false" />
-                <element signature="e#2452#2453#0" expanded="false" />
-                <element signature="e#2486#2487#0" expanded="false" />
-                <element signature="e#2540#2541#0" expanded="false" />
-                <element signature="e#2586#2587#0" expanded="false" />
-                <element signature="e#2627#2628#0" expanded="false" />
-                <element signature="e#2664#2665#0" expanded="false" />
-                <element signature="e#2724#2725#0" expanded="false" />
-                <element signature="e#2776#2777#0" expanded="false" />
-                <element signature="e#2809#2810#0" expanded="false" />
-                <element signature="e#2841#2842#0" expanded="false" />
-                <element signature="e#2888#2889#0" expanded="false" />
-                <element signature="e#2930#2931#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -266,8 +209,8 @@
       <file leaf-file-name="ayush.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ayush.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            <state relative-caret-position="360">
+              <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -280,25 +223,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1220">
               <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#272#273#0" expanded="false" />
-                <element signature="e#298#299#0" expanded="false" />
-                <element signature="e#336#337#0" expanded="false" />
-                <element signature="e#366#367#0" expanded="false" />
-                <element signature="e#613#614#0" expanded="false" />
-                <element signature="e#643#644#0" expanded="false" />
-                <element signature="e#689#690#0" expanded="false" />
-                <element signature="e#727#728#0" expanded="false" />
-                <element signature="e#762#763#0" expanded="false" />
-                <element signature="e#793#794#0" expanded="false" />
-                <element signature="e#841#842#0" expanded="false" />
-                <element signature="e#881#882#0" expanded="false" />
-                <element signature="e#915#916#0" expanded="false" />
-                <element signature="e#945#946#0" expanded="false" />
-                <element signature="e#991#992#0" expanded="false" />
-                <element signature="e#1029#1030#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -308,9 +233,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
               <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -320,9 +243,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1460">
               <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -332,54 +253,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="6280">
               <caret line="365" column="499" lean-forward="false" selection-start-line="365" selection-start-column="499" selection-end-line="365" selection-end-column="499" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1188#1189#0" expanded="false" />
-                <element signature="e#1226#1227#0" expanded="false" />
-                <element signature="e#1288#1289#0" expanded="false" />
-                <element signature="e#1342#1343#0" expanded="false" />
-                <element signature="e#1378#1379#0" expanded="false" />
-                <element signature="e#1410#1411#0" expanded="false" />
-                <element signature="e#1460#1461#0" expanded="false" />
-                <element signature="e#1502#1503#0" expanded="false" />
-                <element signature="e#1540#1541#0" expanded="false" />
-                <element signature="e#1574#1575#0" expanded="false" />
-                <element signature="e#1628#1629#0" expanded="false" />
-                <element signature="e#1674#1675#0" expanded="false" />
-                <element signature="e#1704#1705#0" expanded="false" />
-                <element signature="e#1730#1731#0" expanded="false" />
-                <element signature="e#1768#1769#0" expanded="false" />
-                <element signature="e#1798#1799#0" expanded="false" />
-                <element signature="e#1836#1837#0" expanded="false" />
-                <element signature="e#1870#1871#0" expanded="false" />
-                <element signature="e#1924#1925#0" expanded="false" />
-                <element signature="e#1970#1971#0" expanded="false" />
-                <element signature="e#2007#2008#0" expanded="false" />
-                <element signature="e#2040#2041#0" expanded="false" />
-                <element signature="e#2092#2093#0" expanded="false" />
-                <element signature="e#2136#2137#0" expanded="false" />
-                <element signature="e#2171#2172#0" expanded="false" />
-                <element signature="e#2202#2203#0" expanded="false" />
-                <element signature="e#2250#2251#0" expanded="false" />
-                <element signature="e#2290#2291#0" expanded="false" />
-                <element signature="e#2326#2327#0" expanded="false" />
-                <element signature="e#2358#2359#0" expanded="false" />
-                <element signature="e#2408#2409#0" expanded="false" />
-                <element signature="e#2450#2451#0" expanded="false" />
-                <element signature="e#2488#2489#0" expanded="false" />
-                <element signature="e#2522#2523#0" expanded="false" />
-                <element signature="e#2576#2577#0" expanded="false" />
-                <element signature="e#2622#2623#0" expanded="false" />
-                <element signature="e#2663#2664#0" expanded="false" />
-                <element signature="e#2700#2701#0" expanded="false" />
-                <element signature="e#2760#2761#0" expanded="false" />
-                <element signature="e#2812#2813#0" expanded="false" />
-                <element signature="e#2845#2846#0" expanded="false" />
-                <element signature="e#2877#2878#0" expanded="false" />
-                <element signature="e#2924#2925#0" expanded="false" />
-                <element signature="e#2966#2967#0" expanded="false" />
-                <marker date="1496011684627" expanded="true" signature="8263:8298" ph="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -389,9 +263,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1360">
               <caret line="72" column="66" lean-forward="false" selection-start-line="72" selection-start-column="66" selection-end-line="72" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -411,29 +283,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1840">
               <caret line="113" column="26" lean-forward="false" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#446#447#0" expanded="false" />
-                <element signature="e#473#474#0" expanded="false" />
-                <element signature="e#513#514#0" expanded="false" />
-                <element signature="e#545#546#0" expanded="false" />
-                <element signature="e#580#581#0" expanded="false" />
-                <element signature="e#611#612#0" expanded="false" />
-                <element signature="e#659#660#0" expanded="false" />
-                <element signature="e#699#700#0" expanded="false" />
-                <element signature="e#735#736#0" expanded="false" />
-                <element signature="e#767#768#0" expanded="false" />
-                <element signature="e#817#818#0" expanded="false" />
-                <element signature="e#859#860#0" expanded="false" />
-                <element signature="e#890#891#0" expanded="false" />
-                <element signature="e#917#918#0" expanded="false" />
-                <element signature="e#957#958#0" expanded="false" />
-                <element signature="e#989#990#0" expanded="false" />
-                <element signature="e#1019#1020#0" expanded="false" />
-                <element signature="e#1045#1046#0" expanded="false" />
-                <element signature="e#1083#1084#0" expanded="false" />
-                <element signature="e#1113#1114#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -531,10 +381,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="-11" />
-    <option name="width" value="1922" />
-    <option name="height" value="1092" />
+    <option name="y" value="-4" />
+    <option name="width" value="1366" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -552,8 +401,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -682,7 +531,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/processing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jsoup-1.10.2.jar!/" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RunDashboard">
@@ -1204,15 +1053,15 @@
       <workItem from="1495901183150" duration="3437000" />
       <workItem from="1496071986175" duration="5813000" />
       <workItem from="1496157170894" duration="1970000" />
+      <workItem from="1496750520599" duration="2730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="277562000" />
+    <option name="totallyTimeSpent" value="280292000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1223,20 +1072,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66821706" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6691023" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55741125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5565891" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21558164" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21927163" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979124" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1448,25 +1297,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1220">
           <caret line="81" column="5" lean-forward="false" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#272#273#0" expanded="false" />
-            <element signature="e#298#299#0" expanded="false" />
-            <element signature="e#336#337#0" expanded="false" />
-            <element signature="e#366#367#0" expanded="false" />
-            <element signature="e#613#614#0" expanded="false" />
-            <element signature="e#643#644#0" expanded="false" />
-            <element signature="e#689#690#0" expanded="false" />
-            <element signature="e#727#728#0" expanded="false" />
-            <element signature="e#762#763#0" expanded="false" />
-            <element signature="e#793#794#0" expanded="false" />
-            <element signature="e#841#842#0" expanded="false" />
-            <element signature="e#881#882#0" expanded="false" />
-            <element signature="e#915#916#0" expanded="false" />
-            <element signature="e#945#946#0" expanded="false" />
-            <element signature="e#991#992#0" expanded="false" />
-            <element signature="e#1029#1030#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1481,9 +1312,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1360">
           <caret line="72" column="66" lean-forward="false" selection-start-line="72" selection-start-column="66" selection-end-line="72" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1492,9 +1321,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1460">
           <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1502,9 +1329,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1512,29 +1337,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1840">
           <caret line="113" column="26" lean-forward="false" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#446#447#0" expanded="false" />
-            <element signature="e#473#474#0" expanded="false" />
-            <element signature="e#513#514#0" expanded="false" />
-            <element signature="e#545#546#0" expanded="false" />
-            <element signature="e#580#581#0" expanded="false" />
-            <element signature="e#611#612#0" expanded="false" />
-            <element signature="e#659#660#0" expanded="false" />
-            <element signature="e#699#700#0" expanded="false" />
-            <element signature="e#735#736#0" expanded="false" />
-            <element signature="e#767#768#0" expanded="false" />
-            <element signature="e#817#818#0" expanded="false" />
-            <element signature="e#859#860#0" expanded="false" />
-            <element signature="e#890#891#0" expanded="false" />
-            <element signature="e#917#918#0" expanded="false" />
-            <element signature="e#957#958#0" expanded="false" />
-            <element signature="e#989#990#0" expanded="false" />
-            <element signature="e#1019#1020#0" expanded="false" />
-            <element signature="e#1045#1046#0" expanded="false" />
-            <element signature="e#1083#1084#0" expanded="false" />
-            <element signature="e#1113#1114#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1542,54 +1345,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6280">
           <caret line="365" column="499" lean-forward="false" selection-start-line="365" selection-start-column="499" selection-end-line="365" selection-end-column="499" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1188#1189#0" expanded="false" />
-            <element signature="e#1226#1227#0" expanded="false" />
-            <element signature="e#1288#1289#0" expanded="false" />
-            <element signature="e#1342#1343#0" expanded="false" />
-            <element signature="e#1378#1379#0" expanded="false" />
-            <element signature="e#1410#1411#0" expanded="false" />
-            <element signature="e#1460#1461#0" expanded="false" />
-            <element signature="e#1502#1503#0" expanded="false" />
-            <element signature="e#1540#1541#0" expanded="false" />
-            <element signature="e#1574#1575#0" expanded="false" />
-            <element signature="e#1628#1629#0" expanded="false" />
-            <element signature="e#1674#1675#0" expanded="false" />
-            <element signature="e#1704#1705#0" expanded="false" />
-            <element signature="e#1730#1731#0" expanded="false" />
-            <element signature="e#1768#1769#0" expanded="false" />
-            <element signature="e#1798#1799#0" expanded="false" />
-            <element signature="e#1836#1837#0" expanded="false" />
-            <element signature="e#1870#1871#0" expanded="false" />
-            <element signature="e#1924#1925#0" expanded="false" />
-            <element signature="e#1970#1971#0" expanded="false" />
-            <element signature="e#2007#2008#0" expanded="false" />
-            <element signature="e#2040#2041#0" expanded="false" />
-            <element signature="e#2092#2093#0" expanded="false" />
-            <element signature="e#2136#2137#0" expanded="false" />
-            <element signature="e#2171#2172#0" expanded="false" />
-            <element signature="e#2202#2203#0" expanded="false" />
-            <element signature="e#2250#2251#0" expanded="false" />
-            <element signature="e#2290#2291#0" expanded="false" />
-            <element signature="e#2326#2327#0" expanded="false" />
-            <element signature="e#2358#2359#0" expanded="false" />
-            <element signature="e#2408#2409#0" expanded="false" />
-            <element signature="e#2450#2451#0" expanded="false" />
-            <element signature="e#2488#2489#0" expanded="false" />
-            <element signature="e#2522#2523#0" expanded="false" />
-            <element signature="e#2576#2577#0" expanded="false" />
-            <element signature="e#2622#2623#0" expanded="false" />
-            <element signature="e#2663#2664#0" expanded="false" />
-            <element signature="e#2700#2701#0" expanded="false" />
-            <element signature="e#2760#2761#0" expanded="false" />
-            <element signature="e#2812#2813#0" expanded="false" />
-            <element signature="e#2845#2846#0" expanded="false" />
-            <element signature="e#2877#2878#0" expanded="false" />
-            <element signature="e#2924#2925#0" expanded="false" />
-            <element signature="e#2966#2967#0" expanded="false" />
-            <marker date="1496011684627" expanded="true" signature="8263:8298" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1597,52 +1353,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3400">
           <caret line="220" column="32" lean-forward="false" selection-start-line="220" selection-start-column="32" selection-end-line="220" selection-end-column="32" />
-          <folding>
-            <element signature="e#1152#1153#0" expanded="false" />
-            <element signature="e#1190#1191#0" expanded="false" />
-            <element signature="e#1252#1253#0" expanded="false" />
-            <element signature="e#1306#1307#0" expanded="false" />
-            <element signature="e#1342#1343#0" expanded="false" />
-            <element signature="e#1374#1375#0" expanded="false" />
-            <element signature="e#1424#1425#0" expanded="false" />
-            <element signature="e#1466#1467#0" expanded="false" />
-            <element signature="e#1504#1505#0" expanded="false" />
-            <element signature="e#1538#1539#0" expanded="false" />
-            <element signature="e#1592#1593#0" expanded="false" />
-            <element signature="e#1638#1639#0" expanded="false" />
-            <element signature="e#1668#1669#0" expanded="false" />
-            <element signature="e#1694#1695#0" expanded="false" />
-            <element signature="e#1732#1733#0" expanded="false" />
-            <element signature="e#1762#1763#0" expanded="false" />
-            <element signature="e#1800#1801#0" expanded="false" />
-            <element signature="e#1834#1835#0" expanded="false" />
-            <element signature="e#1888#1889#0" expanded="false" />
-            <element signature="e#1934#1935#0" expanded="false" />
-            <element signature="e#1971#1972#0" expanded="false" />
-            <element signature="e#2004#2005#0" expanded="false" />
-            <element signature="e#2056#2057#0" expanded="false" />
-            <element signature="e#2100#2101#0" expanded="false" />
-            <element signature="e#2135#2136#0" expanded="false" />
-            <element signature="e#2166#2167#0" expanded="false" />
-            <element signature="e#2214#2215#0" expanded="false" />
-            <element signature="e#2254#2255#0" expanded="false" />
-            <element signature="e#2290#2291#0" expanded="false" />
-            <element signature="e#2322#2323#0" expanded="false" />
-            <element signature="e#2372#2373#0" expanded="false" />
-            <element signature="e#2414#2415#0" expanded="false" />
-            <element signature="e#2452#2453#0" expanded="false" />
-            <element signature="e#2486#2487#0" expanded="false" />
-            <element signature="e#2540#2541#0" expanded="false" />
-            <element signature="e#2586#2587#0" expanded="false" />
-            <element signature="e#2627#2628#0" expanded="false" />
-            <element signature="e#2664#2665#0" expanded="false" />
-            <element signature="e#2724#2725#0" expanded="false" />
-            <element signature="e#2776#2777#0" expanded="false" />
-            <element signature="e#2809#2810#0" expanded="false" />
-            <element signature="e#2841#2842#0" expanded="false" />
-            <element signature="e#2888#2889#0" expanded="false" />
-            <element signature="e#2930#2931#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1656,8 +1367,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ayush.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state relative-caret-position="360">
+          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1666,8 +1377,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/temp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="55" column="40" lean-forward="false" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
+        <state relative-caret-position="-80">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
