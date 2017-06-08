@@ -203,6 +203,9 @@ public class temp
         Unmapped unmapped = new Unmapped();
         unmapped.unmappedFunc(head_entity);
 
+        Path path = new Path();
+        path.pathFunc(head_entity);
+
         System.out.println("num of templates:: " + temp_num);
     }
 }

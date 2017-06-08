@@ -218,7 +218,7 @@ public class Mapped {
         try {
             FileInputStream saveFile = new FileInputStream("teknowbase.dat");
             ObjectInputStream in = new ObjectInputStream(saveFile);
-            result = in.readObject();
+        result = in.readObject();
             in.close();
             saveFile.close();
         } catch (Exception e) {

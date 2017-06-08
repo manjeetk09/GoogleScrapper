@@ -1,0 +1,132 @@
+1;https://en.wikipedia.org/wiki/Relational_model;idealized;1.0;0.09090909090909091;4.0;0
+1;https://en.wikipedia.org/wiki/Relational_model;simple;1.0;0.09090909090909091;4.0;0
+1;https://en.wikipedia.org/wiki/Relational_model;description;1.0;0.0;4.0;0
+1;https://en.wikipedia.org/wiki/Relational_model;relvars;1.0;0.0;4.0;0
+1;https://en.wikipedia.org/wiki/Relational_model;attributes;1.0;0.09090909090909091;2.0;0
+2;https://en.wikipedia.org/wiki/Relational_model;customer;1.0;0.09090909090909091;1.3333333333333333;0
+3;https://en.wikipedia.org/wiki/Relational_model;order;1.0;0.09090909090909091;2.0;0
+4;https://en.wikipedia.org/wiki/Relational_model;order line;2.0;0.09090909090909091;4.0;0
+5;https://en.wikipedia.org/wiki/Relational_model;invoice;1.0;0.09090909090909091;4.0;0
+6;https://en.wikipedia.org/wiki/Relational_model;invoice line;2.0;0.09090909090909091;4.0;0
+7;https://en.wikipedia.org/wiki/Relational_model;product;1.0;0.09090909090909091;2.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;set;1.0;0.03333333333333333;4.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;database tables;2.0;0.016666666666666666;4.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;ways;1.0;0.016666666666666666;4.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;reassembled;1.0;0.0;4.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;collection;1.0;0.016666666666666666;2.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;data items organized;2.6666666666666665;0.016666666666666666;4.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;formally_described tables;2.0;0.016666666666666666;4.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;accessed;1.0;0.016666666666666666;4.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;relational database;2.0;0.05;4.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;data;2.0;0.03333333333333333;2.0;0
+16;http://searchsqlserver.techtarget.com/definition/relational-database;reorganize;1.0;0.016666666666666666;4.0;0
+17;http://searchsqlserver.techtarget.com/definition/relational-database;relational database;2.0;0.05;4.0;0
+17;http://searchsqlserver.techtarget.com/definition/relational-database;invented;1.0;0.016666666666666666;4.0;0
+19;http://searchsqlserver.techtarget.com/definition/relational-database;codd;1.0;0.0;4.0;0
+19;http://searchsqlserver.techtarget.com/definition/relational-database;ibm;1.0;0.0;4.0;0
+28;http://searchsqlserver.techtarget.com/definition/relational-database;relational database;2.0;0.05;4.0;0
+28;http://searchsqlserver.techtarget.com/definition/relational-database;data fitted;2.0;0.016666666666666666;4.0;0
+28;http://searchsqlserver.techtarget.com/definition/relational-database;set;1.0;0.03333333333333333;4.0;0
+28;http://searchsqlserver.techtarget.com/definition/relational-database;predefined categories;2.0;0.016666666666666666;4.0;0
+28;http://searchsqlserver.techtarget.com/definition/relational-database;tables;1.0;0.03333333333333333;4.0;0
+29;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.05;1.3333333333333333;0
+29;http://searchsqlserver.techtarget.com/definition/relational-database;data categories;2.0;0.016666666666666666;4.0;0
+29;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.05;4.0;0
+30;http://searchsqlserver.techtarget.com/definition/relational-database;unique instance;2.0;0.016666666666666666;4.0;0
+30;http://searchsqlserver.techtarget.com/definition/relational-database;data;1.0;0.03333333333333333;2.0;0
+30;http://searchsqlserver.techtarget.com/definition/relational-database;categories defined;2.0;0.016666666666666666;4.0;0
+30;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.05;4.0;0
+30;http://searchsqlserver.techtarget.com/definition/relational-database;row;1.0;0.016666666666666666;4.0;0
+31;http://searchsqlserver.techtarget.com/definition/relational-database;customer;1.0;0.03333333333333333;2.0;0
+31;http://searchsqlserver.techtarget.com/definition/relational-database;phone number;2.0;0.016666666666666666;4.0;0
+31;http://searchsqlserver.techtarget.com/definition/relational-database;address;1.0;0.016666666666666666;4.0;0
+31;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.05;1.3333333333333333;0
+31;http://searchsqlserver.techtarget.com/definition/relational-database;include;1.0;0.016666666666666666;4.0;0
+31;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.05;4.0;0
+32;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.05;1.3333333333333333;0
+32;http://searchsqlserver.techtarget.com/definition/relational-database;describe;1.0;0.016666666666666666;4.0;0
+32;http://searchsqlserver.techtarget.com/definition/relational-database;order;1.0;0.016666666666666666;2.0;0
+33;http://searchsqlserver.techtarget.com/definition/relational-database;customer;1.0;0.03333333333333333;2.0;0
+33;http://searchsqlserver.techtarget.com/definition/relational-database;date;1.0;0.03333333333333333;4.0;0
+33;http://searchsqlserver.techtarget.com/definition/relational-database;product;1.0;0.016666666666666666;2.0;0
+33;http://searchsqlserver.techtarget.com/definition/relational-database;sales price;2.0;0.016666666666666666;4.0;0
+34;http://searchsqlserver.techtarget.com/definition/relational-database;view;1.0;0.03333333333333333;4.0;0
+34;http://searchsqlserver.techtarget.com/definition/relational-database;obtain;1.0;0.03333333333333333;4.0;0
+34;http://searchsqlserver.techtarget.com/definition/relational-database;user;1.0;0.016666666666666666;4.0;0
+34;http://searchsqlserver.techtarget.com/definition/relational-database;fitted;1.0;0.016666666666666666;4.0;0
+34;http://searchsqlserver.techtarget.com/definition/relational-database;database;1.0;0.016666666666666666;2.0;0
+35;http://searchsqlserver.techtarget.com/definition/relational-database;customers;1.0;0.016666666666666666;2.0;0
+35;http://searchsqlserver.techtarget.com/definition/relational-database;branch office manager;3.0;0.016666666666666666;4.0;0
+35;http://searchsqlserver.techtarget.com/definition/relational-database;date;1.0;0.03333333333333333;4.0;0
+35;http://searchsqlserver.techtarget.com/definition/relational-database;report;1.0;0.03333333333333333;4.0;0
+35;http://searchsqlserver.techtarget.com/definition/relational-database;bought products;2.0;0.016666666666666666;4.0;0
+35;http://searchsqlserver.techtarget.com/definition/relational-database;view;1.0;0.03333333333333333;4.0;0
+36;http://searchsqlserver.techtarget.com/definition/relational-database;tables;1.0;0.03333333333333333;4.0;0
+36;http://searchsqlserver.techtarget.com/definition/relational-database;needed;1.0;0.016666666666666666;4.0;0
+36;http://searchsqlserver.techtarget.com/definition/relational-database;company;1.0;0.016666666666666666;4.0;0
+36;http://searchsqlserver.techtarget.com/definition/relational-database;obtain;1.0;0.03333333333333333;4.0;0
+36;http://searchsqlserver.techtarget.com/definition/relational-database;paid;1.0;0.016666666666666666;4.0;0
+36;http://searchsqlserver.techtarget.com/definition/relational-database;report;1.0;0.03333333333333333;4.0;0
+36;http://searchsqlserver.techtarget.com/definition/relational-database;accounts;1.0;0.016666666666666666;4.0;0
+36;http://searchsqlserver.techtarget.com/definition/relational-database;financial services manager;3.0;0.016666666666666666;4.0;0
+45;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;world;1.0;0.038461538461538464;4.0;0
+45;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;inter_related relations;2.0;0.038461538461538464;4.0;0
+45;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;collection;1.0;0.038461538461538464;2.0;0
+47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;fields;1.0;0.07692307692307693;4.0;0
+47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;attributes;1.0;0.038461538461538464;2.0;0
+47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;called columns;2.0;0.038461538461538464;4.0;0
+47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;principal storage units;3.0;0.038461538461538464;4.0;0
+48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;content;1.0;0.038461538461538464;4.0;0
+48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;house;1.0;0.0;4.0;0
+48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;basic components;2.0;0.038461538461538464;4.0;0
+48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;data;1.0;0.038461538461538464;1.3333333333333333;0
+48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;broken;1.0;0.038461538461538464;4.0;0
+49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;information;1.0;0.0;4.0;0
+49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;deciding;1.0;0.038461538461538464;4.0;0
+49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;create;1.0;0.038461538461538464;4.0;0
+49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;generically;1.0;0.0;4.0;0
+49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;fields;1.0;0.07692307692307693;4.0;0
+50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;information;1.0;0.0;4.0;0
+50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;database;1.0;0.038461538461538464;2.0;0
+50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;avoiding;1.0;0.038461538461538464;4.0;0
+50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;item;1.0;0.038461538461538464;4.0;0
+50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;specifics;1.0;0.038461538461538464;4.0;0
+50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;common components;2.0;0.038461538461538464;4.0;0
+50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;distinguish;1.0;0.0;4.0;0
+50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;drawing;1.0;0.038461538461538464;4.0;0
+50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;store;1.0;0.038461538461538464;4.0;0
+52;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;paul mcfedries;2.0;0.02857142857142857;4.0;0
+53;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;sep 10;0.5;0.02857142857142857;4.0;0
+54;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;parenttable relates;2.0;0.02857142857142857;4.0;0
+54;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;common relational model;3.0;0.02857142857142857;4.0;0
+54;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;multiple records;2.0;0.02857142857142857;4.0;0
+54;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;single record;2.0;0.02857142857142857;4.0;0
+54;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;child table;2.0;0.02857142857142857;4.0;0
+55;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;called aone_to_many relationship;3.0;0.02857142857142857;4.0;0
+56;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;companies table;2.0;0.02857142857142857;4.0;0
+56;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;sales leads;2.0;0.02857142857142857;4.0;0
+56;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;relate;1.0;0.02857142857142857;4.0;0
+56;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;record;1.0;0.02857142857142857;4.0;0
+56;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;manyrecords;1.0;0.0;4.0;0
+56;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;one_to_manyrelationship;1.0;0.02857142857142857;4.0;0
+56;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;contacts table;2.0;0.02857142857142857;4.0;0
+57;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;models;1.0;0.02857142857142857;4.0;0
+57;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;table;1.0;0.05714285714285714;1.0;0
+57;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;add;1.0;0.02857142857142857;4.0;0
+57;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;theone;1.0;0.0;4.0;0
+57;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;foreign key;2.0;0.02857142857142857;4.0;0
+58;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;application;1.0;0.0;4.0;0
+58;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;tracksaccounts_ receivable invoices;3.0;0.02857142857142857;4.0;0
+58;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;one_to_many relationship;2.0;0.02857142857142857;4.0;0
+59;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;table;1.0;0.05714285714285714;1.0;0
+59;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;customer data;2.0;0.02857142857142857;4.0;0
+59;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;invoice dataand;2.0;0.02857142857142857;4.0;0
+60;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;case;1.0;0.02857142857142857;4.0;0
+60;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;customers;1.0;0.02857142857142857;2.0;0
+60;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;common field;2.0;0.02857142857142857;4.0;0
+60;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;primarykey;1.0;0.0;4.0;0
+60;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;parent table;2.0;0.02857142857142857;4.0;0
+60;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;place;1.0;0.02857142857142857;4.0;0
+60;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;onecustomer;1.0;0.0;4.0;0
+60;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;customer table;2.0;0.02857142857142857;4.0;0
+60;http://www.informit.com/articles/article.aspx%3Fp%3D330333%26seqNum%3D2;orders;1.0;0.02857142857142857;4.0;0

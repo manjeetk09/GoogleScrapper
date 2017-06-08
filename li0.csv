@@ -1,22 +1,18 @@
-
-
-
-
-Many Eclipse perspectives, e g  the Java Development Tools , 1  provide a debugger front_end 
-Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 
-DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  
-GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
-Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend 
-KDbg   Part of the KDE development tools 
-Nemiver   A GDB frontend that integrates well in the GNOME desktop environment 
-xxgdb   X_window frontend for GDB and dbx debugger 
-Qt Creator   multi_platform frontend for GDB, CDB and LLDB 
-Allinea s DDT   a parallel and distributed front_end to a modified version of GDB 
-Xcode   contains a GDB front_end as well 
-SlickEdit   contains a GDB front_end as well 
-Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB 
-CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB 
-CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb 
-RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+linear
+quadratic
+power
+polynomial
+rational
+exponential
+logarithmic
+sinusoidal
+linear
+quadratic
+power
+polynomial
+rational
+exponential
+logarithmic
+sinusoidal
 
 

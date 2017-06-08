@@ -1,0 +1,300 @@
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+An object_relational database combines the two related structures.
+0.782: (An object_relational database; combines; the two related structures)
+
+Physical data models include.
+No extractions found.
+
+ Inverted index.
+No extractions found.
+
+ Flat file.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A flat database is a simple database system in which each database is represented as a single table in which all of the records are stored as single rows of data, which are separated by delimiters such as tabs or commas.
+0.927: (each database; is represented as; a single table in which all of the records are stored as single rows of data ,)
+0.825: (A flat database; is; a simple database system in which each database is represented as a single table)
+0.655: (each database; is represented in; a simple database system)
+
+ The table is usually stored and physically represented as a simple text file.
+0.898: (The table; be physically represented as; a simple text file)
+
+ Because of the limitations of flat databases, they are not unsuitable for most software applications in which there is a need to represent and store complex business relationships.
+0.883: (they; are not unsuitable for; most software applications)
+0.761: (they; are not unsuitable of; the limitations of flat databases)
+
+ However, some application developers still use flat files in order to reduce the cost and complexity of integrating a relational database.
+0.739: (some application developers; However still use; flat files)
+
+ Flat databases are also sometimes referred to as flat_file databases.
+0.892: (Flat databases; are also sometimes referred as; flat_file databases)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Types of database models.
+No extractions found.
+
+Relational model.
+No extractions found.
+
+Hierarchical model.
+No extractions found.
+
+Network model.
+No extractions found.
+
+Object_oriented database model.
+No extractions found.
+
+Object_relational model.
+No extractions found.
+
+Entity_relationship model.
+No extractions found.
+
+Other database models.
+No extractions found.
+
+NoSQL database models.
+No extractions found.
+
+Databases on the Web.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The flat model is the earliest, simplest data model.
+0.716: (The flat model; is; the earliest , simplest data model)
+
+ It simply lists all the data in a single table, consisting of columns and rows.
+0.785: (It; simply lists all the data in; a single table)
+0.767: (It; simply lists; the data)
+0.642: (It; simply lists all the data consisting of; columns and rows)
+
+ In order to access or manipulate the data, the computer has to read the entire flat file into memory, which makes this model inefficient for all but the smallest data sets.
+0.899: (the computer; has to read the entire flat file into; memory which makes this model inefficient for all but the smallest data sets)[enabler=In order to access or manipulate the data]
+0.878: (the computer; to read the entire flat file into; memory which makes this model inefficient for all but the smallest data sets)
+0.798: (the computer; has to read; the entire flat file)[enabler=In order to access or manipulate the data]
+0.796: (the entire flat file; to be read into; memory which makes this model inefficient for all but the smallest data sets)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Alternatively referred to as a flat database or text database, a flat file is a file of data that does not contain links to other files or is a non_relational database.
+No extractions found.
+
+ A good example of a flat file is a single text_only file that contains all the data needed for a program that is often separated by some kind of delimiter.
+0.86: (all the data; be needed for; a program that is often separated by some kind of delimiter)
+0.698: (A good example of a flat file; is; a single text_only file that contains all the data)
+0.564: (all the data needed for a program; be contains by; a single text_only file)
+0.492: (a single text_only file that contains all the data; be A good example of; a flat file)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+A flat file database is a database designed around a single table.
+0.802: (A flat file database; is; a database designed around a single table)
+0.793: (a database; be designed around; a single table)
+
+ The flat file design puts all database information in one table, or list, with fields to represent all parameters.
+0.841: (The flat file design; puts all database information with; fields)
+0.823: (The flat file design; puts all database information in; one table)
+0.768: (The flat file design; puts; all database information)
+0.659: (The flat file design; puts all database information to represent; all parameters)
+
+ A flat file may contain many fields, often, with duplicate data that are prone to data corruption.
+0.741: (A flat file; may contain; many fields)
+0.614: (A flat file; be many fields often with; duplicate data that are prone to data corruption)
+
+ If you decide to merge data between two flat files, you need to copy and paste relevant information from one file to the other.
+0.8: (you; need to paste relevant information from; one file)[enabler=If you decide to merge data between two flat files]
+0.774: (you; need to paste relevant information to; the other)[enabler=If you decide to merge data between two flat files]
+0.739: (relevant information; to be paste from; one file)
+0.73: (you; need to paste; relevant information)[enabler=If you decide to merge data between two flat files]
+0.708: (relevant information; to paste to be; the other)
+0.215: (you; decide to merge; data)
+
+ There is no automation between flat files.
+No extractions found.
+
+ If you have two or more flat files that contain client addresses, for example, and a client moved, you would have to manually modify the address parameters in each file that contains that client s information.
+0.891: (you; would have to manually modify the address parameters in; each file)
+0.846: (you; would have to manually modify; the address parameters)
+0.785: (you; to manually modify; the address parameters)
+0.679: (the address parameters; to be manually modify in; each file)
+0.139: (you; have; two or more flat files that contain client addresses)
+
+ Changing information in one file has no bearing on other files.
+0.752: (information; be Changing in; one file)
+
+ Flat files offer the functionality to store information, manipulate fields, print or display formatted information and exchange information with others, through email and over the Internet.
+0.833: (Flat files; offer; the functionality to store information , manipulate fields , print or display formatted information and exchange information with others)
+0.779: (fields , print or display formatted information and exchange information; be manipulate with; others)
+0.68: (Flat files; offer the functionality to store information , manipulate fields , print or display formatted information and exchange information with others over; email and over the Internet)
+0.68: (Flat files; offer the functionality to store information , manipulate fields , print or display formatted information and exchange information with others through; email and over the Internet)
+
+ Some flat files may be attached to external files, such as text editors, to extend functionality and manage related information.
+0.9: (Some flat files; may be attached to; external files)
+0.22: (external; files as; text editors)
+
+Designing flat file databases is simple and requires little design knowledge.
+0.772: (Designing flat file databases; requires; little design knowledge)
+0.653: (Designing flat file databases; is; simple)
+
+ Flat files can be developed using just about any database engine.
+No extractions found.
+
+ Flat files can be created in relational database engines by not taking advantage of relational design concepts.
+0.929: (Flat files; can be created in; relational database engines)
+0.655: (advantage; be not taking of; relational design concepts)
+
+ Designing a relational database takes more planning than flat file databases.
+0.824: (a relational database; takes; more planning)
+0.815: (a relational database; takes than; flat file databases)
+
+ With flat files, you may add information, as you deem necessary.
+0.789: (you; may add; information)[enabler=as you deem necessary]
+0.729: (you; deem; necessary)
+0.668: (you; may add information with; flat files)[enabler=as you deem necessary]
+0.473: (information; may be add with; flat files)[enabler=as you deem necessary]
+
+ With relational databases, you must be careful to store data in tables such that the relationships make sense.
+0.83: (you; must be; careful)
+0.659: (tables; make; sense)
+0.659: (the relationships; make; sense)
+0.651: (you; must be careful with; relational databases)
+
+ Building a relational database is dependant upon your ability to establish a relational model.
+0.872: (a relational database; is dependant upon; your ability to establish a relational model)
+0.778: (a relational database; is; dependant)
+
+ The model must fully describe how the data is organized, in terms of data structure, integrity, querying, manipulation and storage.
+0.901: (the data; is organized in; terms of data structure)[attrib=The model must fully describe]
+

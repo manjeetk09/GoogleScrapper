@@ -352,7 +352,38 @@ public class test_map
         // System.out.println(entity.size() + ":" + entity.get(entity.size() -1));
         for(int i=0;i<entity.size(); i++)
         {
-            bw2.write(template_num.get(i) + ";" + line_num.get(i) + ";" + url.get(i) + ";" + entity.get(i) + ";" + rake_score.get(i) + ";" + tf_score.get(i) + ";" + idf_score.get(i) + ";" + final_score.get(i) + ";" + relation_sim_score.get(i) + ";" + quick_ans.get(i) + "\n");
+            bw2.write(template_num.get(i) + ";" + line_num.get(i) + ";" + url.get(i) + ";" + entity.get(i) + ";" + rake_score.get(i) + ";" + tf_score.get(i) + ";" + idf_score.get(i) + ";" + final_score.get(i) + ";" + relation_sim_score.get(i) + ";" + quick_ans.get(i));
+
+            String filename_relation = "csv_triples_ollie"+ template_num.get(i) +".csv";
+            FileReader fr2 = new FileReader(filename_relation);
+            BufferedReader br2 = new BufferedReader(fr2);
+
+            String line2 = "";
+            while((line2 = br2.readLine()) != null)
+            {
+
+                String []compo = line2.split(";");
+                // System.out.println(compo[0]);
+                if(compo[0].matches(line_num.get(i)))
+                {
+                    bw2.write(";" + compo[2]);
+//                    System.out.println(compo[2]);
+                }
+            }
+            // System.out.println("");
+            bw2.write("\n");
+            try
+            {
+                if(br2!=null)
+                    br2.close();
+                if(fr2!=null)
+                    fr2.close();
+            }
+            catch(Exception e)
+            {
+                e.printStackTrace();
+            }
+
         }
         // System.out.println("out again");
         //writing in a txt

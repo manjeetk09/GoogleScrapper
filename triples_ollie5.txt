@@ -1,0 +1,316 @@
+The network model is a database model conceived as a flexible way of representing objects and their relationships.
+0.882: (a database model; conceived as; a flexible way representing objects and their relationships)
+0.667: (The network model; is; a database model)
+
+ Its distinguishing feature is that the schema, viewed as a graph in which object types are nodes and relationship types are arcs, is not restricted to being a hierarchy or lattice.
+0.794: (the schema; be viewed as; a graph in which object types are nodes and relationship types are arcs)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+What is a Database Model .
+No extractions found.
+
+                A database model is a structure or a format of a database.
+0.778: (A database model; is; a structure or a format of a database)
+
+Network Database Model.
+No extractions found.
+
+ Network Database Model.
+No extractions found.
+
+A Database model defines the logical design of data.
+0.833: (A Database model; defines; the logical design of data)
+
+ The model describes the relationships between different parts of the data.
+0.807: (The model; describes; the relationships)
+0.303: (different; be parts of; the data)
+
+ Historically, in database design, three models are commonly used.
+0.764: (three models; Historically are commonly used in; database design)
+
+ They are, Hierarchical Model.
+No extractions found.
+
+ Network Model.
+No extractions found.
+
+ Relational Model.
+No extractions found.
+
+     .
+No extractions found.
+
+In the network model, entities are organised in a graph,in which some entities can be accessed through several path.
+0.928: (entities; are organised in; a graph ,in which some entities can be accessed through several path)
+0.914: (some entities; can be accessed through; several path)
+0.746: (entities; are organised in; the network model)
+0.655: (some entities; can be accessed in; a graph)
+
+     .
+No extractions found.
+
+The Network model replaces the hierarchical tree with a graph thus allowing more general connections among the nodes.
+0.807: (The Network model; replaces; the hierarchical tree)
+0.554: (a graph; thus allowing; more general connections)
+
+ The main difference of the network model from the hierarchical model, is its ability to handle many to many  N.
+0.787: (The main difference of the network model; is; its ability to handle many to many N.)
+0.743: (many; to handle to be; many N.)
+0.714: (its ability to handle many to many N.; be The main difference of; the network model)
+0.582: (its ability to handle many to many N.; be The main difference of the network model from; the hierarchical model)
+
+N  relations.
+No extractions found.
+
+ In other words, it allows a record to have more than one parent.
+0.816: (a record; to have; than one parent)
+0.496: (it; allows in; other words)
+
+ Suppose an employee works for two departments.
+0.875: (an employee; works for; two departments)
+
+ The strict hierarchical arrangement is not possible here and the tree becomes a more generalized graph _ a network.
+0.854: (The strict hierarchical arrangement; becomes a more generalized graph  ; a network)
+0.846: (the tree; becomes a more generalized graph  ; a network)
+0.802: (The strict hierarchical arrangement; becomes; not possible here and the tree becomes a more generalized graph)
+0.685: (The strict hierarchical arrangement; is here; not possible here and the tree becomes a more generalized graph)
+
+ The network model was evolved to specifically handle non_hierarchical relationships.
+No extractions found.
+
+ As shown below data can belong to more than one parent.
+No extractions found.
+
+ Note that there are lateral connections as well as top_down connections.
+No extractions found.
+
+ A network structure thus allows 1.
+0.779: (A network structure; thus allows; 1)
+
+1  one.
+No extractions found.
+
+ one , l.
+No extractions found.
+
+ M  one.
+No extractions found.
+
+ many , M.
+No extractions found.
+
+ M  many.
+No extractions found.
+
+ many  relationships among entities.
+No extractions found.
+
+                            .
+No extractions found.
+
+                             .
+No extractions found.
+
+                       .
+No extractions found.
+
+               .
+No extractions found.
+
+                          .
+No extractions found.
+
+                            .
+No extractions found.
+
+Considering again the sample supplier_part database, its network view is shown.
+0.695: (its network view; is shown in; the sample supplier_part database)
+
+ In addition to the part and supplier record types, a third record type is introduced which we will call as the connector.
+0.818: (a third record type; is introduced in; addition)
+0.626: (we; which will call as; the connector)
+
+ A connector occurrence specifies the association between one supplier and one part.
+0.807: (A connector occurrence; specifies; the association)
+
+ It contains data describing the association between supplier and part records.
+0.782: (It; contains; data describing the association between supplier and part records)
+
+                             .
+No extractions found.
+
+                       .
+No extractions found.
+
+               .
+No extractions found.
+
+                          .
+No extractions found.
+
+By admin.
+No extractions found.
+
+July 29, 2015.
+No extractions found.
+
+Data Models,Database.
+No extractions found.
+
+The network database or network model uses the plex structure as its basic data structure.
+0.808: (The network database or network model; uses the plex structure as; its basic data structure)
+0.807: (The network database or network model; uses; the plex structure)
+
+ A network is a directed graph consisting of nodes connected by links or directed arcs.
+0.841: (a directed graph; consisting of; nodes connected by links or directed arcs)
+0.763: (A network; is; a directed graph consisting of nodes)
+0.734: (nodes; be connected by; links or directed arcs)
+
+ The nodes corresponds to record types and the links to pointers or relationships.
+No extractions found.
+
+ All the relationship are hardwired or pre_computed and build into structure of database itself because they are very efficient in space utilization and query execution time.
+0.847: (the relationship; build into; structure of database)[enabler=because they are very efficient in space utilization and query execution time]
+0.802: (they; are very efficient in; space utilization and query execution time)
+
+ The network data structure looks like a tree structure except that a dependent node which is  called a child or member, may have more than one parent or owner node.
+0.872: (The network data structure; looks like; a tree structure)
+0.735: (a dependent node which is called a child or member; may have; than one parent or owner node)
+
+All figure shows the network model  .
+0.74: (All figure; shows; the network model)
+
+network model in dbms.
+No extractions found.
+
+network model examples.
+No extractions found.
+
+network data model in dbms.
+No extractions found.
+
+network model in dbms with examples.
+No extractions found.
+
+example of network model.
+No extractions found.
+
+network data model in dbms with example.
+No extractions found.
+
+network model.
+No extractions found.
+
+network data model.
+No extractions found.
+
+network database.
+No extractions found.
+
+network database model advantages and disadvantages.
+No extractions found.
+
+Types of database models.
+No extractions found.
+
+Relational model.
+No extractions found.
+
+Hierarchical model.
+No extractions found.
+
+Network model.
+No extractions found.
+
+Object_oriented database model.
+No extractions found.
+
+Object_relational model.
+No extractions found.
+
+Entity_relationship model.
+No extractions found.
+
+Other database models.
+No extractions found.
+
+NoSQL database models.
+No extractions found.
+
+Databases on the Web.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A database model shows the logical structure of a database, including the relationships and constraints that determine how data can be stored and accessed.
+0.748: (A database model; shows; the logical structure of a database)
+
+ Individual database models are designed based on the rules and concepts of whichever broader data model the designers adopt.
+No extractions found.
+
+ Most data models can be represented by an accompanying database diagram.
+0.919: (Most data models; can be represented by; an accompanying database diagram)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The model also accounts for the types of relationships between those tables, including one_to_one, one_to_many, and many_to_many relationships.
+0.923: (The model; also accounts for; the types of relationships)
+
+ Here s an example.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+

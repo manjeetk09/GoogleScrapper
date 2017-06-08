@@ -1,0 +1,335 @@
+The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
+0.917: (The hierarchical structure; was developed by; IBM)
+0.874: (The hierarchical structure; was developed in; the 1960s)
+0.826: (The hierarchical structure; used in; early mainframe)
+
+ Records  relationships form a treelike model.
+0.709: (Records relationships; form; a treelike model)
+
+ This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
+0.869: (the relationship; is confined to; a one_to_many relationship)
+0.667: (This structure; is; simple)
+
+ The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
+0.867: (The IBM Information Management System and the RDM Mobile; are examples of; a hierarchical database system)
+0.78: (The IBM Information Management System and the RDM Mobile; are examples of a hierarchical database system over; the same data)
+
+ RDM Mobile is a newly designed embedded database for a mobile computer system.
+0.923: (RDM Mobile; is a newly designed embedded database for; a mobile computer system)
+0.764: (RDM Mobile; is; a newly designed embedded database)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
+0.917: (The hierarchical structure; was developed by; IBM)
+0.874: (The hierarchical structure; was developed in; the 1960s)
+0.826: (The hierarchical structure; used in; early mainframe)
+
+ Records  relationships form a treelike model.
+0.709: (Records relationships; form; a treelike model)
+
+ This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
+0.869: (the relationship; is confined to; a one_to_many relationship)
+0.667: (This structure; is; simple)
+
+ The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
+0.867: (The IBM Information Management System and the RDM Mobile; are examples of; a hierarchical database system)
+0.78: (The IBM Information Management System and the RDM Mobile; are examples of a hierarchical database system over; the same data)
+
+ RDM Mobile is a newly designed embedded database for a mobile computer system.
+0.923: (RDM Mobile; is a newly designed embedded database for; a mobile computer system)
+0.764: (RDM Mobile; is; a newly designed embedded database)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
+0.917: (The hierarchical structure; was developed by; IBM)
+0.874: (The hierarchical structure; was developed in; the 1960s)
+0.826: (The hierarchical structure; used in; early mainframe)
+
+ Records  relationships form a treelike model.
+0.709: (Records relationships; form; a treelike model)
+
+ This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
+0.869: (the relationship; is confined to; a one_to_many relationship)
+0.667: (This structure; is; simple)
+
+ The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
+0.867: (The IBM Information Management System and the RDM Mobile; are examples of; a hierarchical database system)
+0.78: (The IBM Information Management System and the RDM Mobile; are examples of a hierarchical database system over; the same data)
+
+ RDM Mobile is a newly designed embedded database for a mobile computer system.
+0.923: (RDM Mobile; is a newly designed embedded database for; a mobile computer system)
+0.764: (RDM Mobile; is; a newly designed embedded database)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
+0.917: (The hierarchical structure; was developed by; IBM)
+0.874: (The hierarchical structure; was developed in; the 1960s)
+0.826: (The hierarchical structure; used in; early mainframe)
+
+ Records  relationships form a treelike model.
+0.709: (Records relationships; form; a treelike model)
+
+ This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
+0.869: (the relationship; is confined to; a one_to_many relationship)
+0.667: (This structure; is; simple)
+
+ The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
+0.867: (The IBM Information Management System and the RDM Mobile; are examples of; a hierarchical database system)
+0.78: (The IBM Information Management System and the RDM Mobile; are examples of a hierarchical database system over; the same data)
+
+ RDM Mobile is a newly designed embedded database for a mobile computer system.
+0.923: (RDM Mobile; is a newly designed embedded database for; a mobile computer system)
+0.764: (RDM Mobile; is; a newly designed embedded database)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+For example, the following is the hierarchical schema of a company database.
+No extractions found.
+
+Sample Hierarchical Model Diagram.
+No extractions found.
+
+The hierarchical model was the first database model developed to overcome the limitations of the traditional file system.
+0.853: (the first database model; developed to overcome; the limitations of the traditional file system)
+0.669: (The hierarchical model; was; the first database model)
+
+  Hierarchical databases were predominantly used for transaction processing where the volume of transactions is large and the transaction operations change little over time.
+0.948: (Hierarchical databases; were predominantly used for; transaction processing where the volume of transactions is large and the transaction operations change little over time)
+0.821: (the transaction operations; change little over; time)
+0.821: (the volume of transactions; change little over; time)
+0.653: (the volume of transactions; is; large)
+0.48: (the transaction operations; is; large)
+0.399: (large; be the volume of; transactions)
+
+  For example, the hierarchical database model was particularly popular with banks, because, the way in which banks process savings transactions seldom varies.
+0.783: (the hierarchical database model; was particularly popular with; banks)
+0.78: (the hierarchical database model; was particularly; popular)
+0.523: (banks; process; savings transactions)
+0.272: (the hierarchical database model; was particularly popular for; example)
+
+ .
+No extractions found.
+
+    .
+No extractions found.
+
+    .
+No extractions found.
+
+The earliest model was the hierarchical database model, resembling an upside_down tree.
+0.719: (The earliest model; was; the hierarchical database model)
+
+ Files are related in a parent_child manner, with each parent capable of relating to more than one child, but each child only being related to one parent.
+0.911: (Files; are related with; each parent capable)
+0.9: (Files; are related in; a parent_child manner)
+0.744: (each child; only being related to; one parent)
+
+ Most of you will be familiar with this kind of structure it s the way most file systems work.
+0.884: (Most of you; will be familiar with; this kind of structure)
+0.838: (Most of you; will be; familiar)
+0.569: (it; s; the way)
+
+ There is usually a root, or top_level, directory that contains various other directories and files.
+0.564: (various other directories and files; be contains by; directory)
+
+ Each subdirectory can then contain more files and directories, and so on.
+0.729: (Each subdirectory; can then contain; more files and directories)
+
+ Each file or directory can only exist in one directory itself it only has one parent.
+0.825: (Each file or directory; can only exist in; one directory it only has one parent)
+0.612: (it; only has; one parent)
+0.491: (one parent; be only has by; one directory)
+
+ As you can see in the image below A1 is the root directory, and its children are B1 and B2.
+0.836: (you; can see in; the image)
+
+ B1 is a parent to C1, C2, and C3, which in turn has children of its own.
+0.808: (B1; is a parent to; C1 , C2 , and C3)
+0.642: (children of its own; be has by; C1 , C2 , and C3)
+0.591: (B1; is; a parent)
+0.539: (C1 , C2 , and C3; has children of its own in; turn)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+This model, although being a vast improvement on dealing with unrelated files, has some serious disadvantages.
+0.644: (This model; has; some serious disadvantages)
+
+ It represents one_to_many relationships well , but it has problems with many_to_many relationships.
+0.659: (it; has; problems)
+0.488: (It; represents well; one_to_many relationships)
+
+ Relationships such as that between a product file and an orders file are difficult to implement in a hierarchical model.
+No extractions found.
+
+ Specifically, an order can contain many products, and a product can appear in many orders.
+0.834: (a product; can appear in; many orders)
+0.678: (an order; Specifically can contain a product can appear in many orders; many products)
+
+ Also, the hierarchal model is not flexible because adding new relationships can result in wholesale changes to the existing structure, which in turn means all existing applications need to change as well.
+0.659: (the hierarchal model; Also is; not flexible)
+0.549: (the existing structure; means in; turn)
+
+ This is not fun when someone has forgotten a table and wants it added to the system shortly before the project is due to launch  And developing the applications is complex because the programmer needs to know the data structure well in order to traverse the model to access the needed data.
+0.806: (it; added to; the system)[enabler=because the programmer needs to know the data structure well in order to traverse the model to access the needed data]
+0.714: (someone; has forgotten; a table)
+0.686: (the project; to launch; complex)
+0.541: (the project; shortly is; due)
+0.474: (the programmer; needs to know well; the data structure)
+
+ As you ve seen in the earlier chapters, when accessing data from two related tables, you only need to know the fields you require from those two tables.
+0.88: (you; ve seen in; the earlier chapters)
+0.865: (you; only need to know the fields you require from; those two tables)
+0.794: (you; only need to know; the fields you require)
+0.772: (the fields you require; to be know from; those two tables)
+0.622: (data; be accessing from; two related tables)
+0.503: (you; ve seen at; the earlier chapters)
+
+ In the hierarchical model, you d need to know the entire chain between the two.
+0.88: (you; d; need to know the entire chain between the two)
+0.625: (you; d need to know the entire chain between the two in; the hierarchical model)
+0.565: (need to know the entire chain between the two; be d in; the hierarchical model)
+
+ For example, to relate data from A1 and D4, you d need to take the route.
+0.88: (you; d; need to take the route)[enabler=example , to relate data from A1 and D4]
+0.2: (data; to be relate for; example)
+
+ A1, B1, C3 and D4.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Hierarchical database model is a structure of data organized in a tree_like model using parent child like relationships, therefore there won t be too many relationships.
+0.896: (Hierarchical database model; is a structure therefore there won of; data organized in a tree_like model)
+0.753: (data; be organized in; a tree_like model using parent child like relationships)
+0.622: (parent child; be using like; relationships)
+0.571: (a tree_like model; using parent child like; relationships)
+0.545: (a structure of data; be; many relationships)
+0.473: (Hierarchical database model; is therefore there won; a structure of data)
+
+ In a hierarchical database, an entity type can be either a parent or a child  under each individual entity is is more multiple entities.
+0.863: (an entity type; can be either a parent under; each individual entity)
+0.778: (an entity type; can be either; a parent or a child)
+0.746: (an entity type; can be either a parent in; a hierarchical database)
+0.693: (a parent or a child; is is; multiple entities)
+
+ Entity types are related to each other using tree mapping, which is represented by one parent with many child relationships.
+0.9: (Entity types; are related to; each other)
+
+ There are also attributes of a specific data recorded under an entity.
+0.705: (a specific data; be recorded under; an entity)
+
+ .
+No extractions found.
+
+The tree like structure can be repeated data, usually with many children under single parent information.
+0.719: (The tree; can be repeated; data)
+0.21: (many; be children under; single parent information)
+
+ Data is a series of records, which have a set of values within it.
+0.921: (Data; is a series of; records)
+0.774: (Data; is; a series of records which have a set of values within it)
+
+ All of the collected data is recorded in each type.
+No extractions found.
+
+ These types are equal to the tables in other database model, and each parent or child is the equivalent of a row or column in a database table.
+0.936: (each parent or child; is the equivalent of; a row or column)
+0.888: (each parent or child; is the equivalent of a row in; a database table)
+0.886: (These types; is the equivalent of; a row or column)
+0.852: (These types; are equal to; the tables)
+0.81: (These types; is the equivalent of a row in; a database table)
+0.763: (These types; is; equal to the tables in other database model , and each parent or child is the equivalent of a row)
+0.726: (each parent or child; are equal to; the tables)
+
+ In a hierarchical model, Parent Child relationships are all link together by certain types of data in a category.
+0.94: (Parent Child relationships; are all link together by; certain types of data)
+0.734: (Parent Child relationships; are all link together in; a hierarchical model)
+
+ The links are mapped in the relationships so it would look like a tree structure with many branches sprouting form many branches.
+0.908: (The links; are mapped in; the relationships)[enabler=so it would look like a tree structure with many branches sprouting form many branches]
+0.694: (it; would look like; a tree structure)
+0.637: (it; would look with; many branches sprouting form many branches)
+
+ For example, a company will store information about an employee.
+0.798: (a company; will store; information)
+0.287: (a company; will store information about an employee for; example)
+0.2: (information; will be store for; example)
+
+ So in the beginning of the tree will be the employee name.
+No extractions found.
+
+ Below the name will be the data of the employee s number, department, salary, etc.
+No extractions found.
+
+ Information such as birthday, children, and age will be stored also.
+0.433: (children; be Information as; birthday)
+
