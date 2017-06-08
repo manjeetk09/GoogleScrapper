@@ -178,23 +178,23 @@ public class GetCategory{
 
             List<String> c_split = Arrays.asList(c.getName().split(" "));
 
-            if( c_split.size() > head_split.length ){
+            if( c_split.size() < head_split.length ){
                 int count = 0;
-                for(int i = 0 ; i < head_split.length ; i++){
+                for(int i = 0 ; i < c_split.size() ; i++){
 //                    if(!c_split.contains(head_split[i])){
 //                        flag = 1;
 //                        break;
 //                    }
-                    for(String s : c_split){
-                        if(s.contains(head_split[i])){
+                    for(String s : head_split){
+                        if(s.contains(c_split.get(i))){
                             count++;
                             break;
                         }
                     }
                 }
-                if(count == head_split.length){
+                if(count == c_split.size()){
                     System.out.println("Found suffix :: " + c.getName());
-                    if(c.getName().contains(head)){
+                    if(head.contains(c.getName())){
                         System.out.println("Found typeof");
                         sum = sum + 1;
                         res.add("suffix/prefix" + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
@@ -215,15 +215,15 @@ public class GetCategory{
 
         for(Category c2_temp : c2){
             List<String> c_split = Arrays.asList(c2_temp.getName().split(" "));
-            if( c_split.size() > head_split.length ){
+            if( c_split.size() < head_split.length ){
                 int count = 0;
-                for(int i = 0 ; i < head_split.length ; i++){
+                for(int i = 0 ; i < c_split.size() ; i++){
 //                    if(!c_split.contains(head_split[i])){
 //                        flag = 1;
 //                        break;
 //                    }
-                    for(String s : c_split){
-                        if(s.contains(head_split[i])){
+                    for(String s : head_split){
+                        if(c_split.get(i).contains(s)){
                             count++;
                             break;
                         }
@@ -231,7 +231,7 @@ public class GetCategory{
                 }
                 if(count == head_split.length){
                     System.out.println("Found suffix_2 :: " + c2_temp.getName());
-                    if(c2_temp.getName().contains(head)){
+                    if(head.contains(c2_temp.getName())){
                         System.out.println("Found typeof_2");
                         res.add("suffix/prefix" + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
                         sum = sum + 1;
