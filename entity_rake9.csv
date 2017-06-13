@@ -1,0 +1,167 @@
+1;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;8.0;1
+2;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;4.0;1
+3;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;2.6666666666666665;1
+4;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;2.6666666666666665;1
+6;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;8.0;1
+7;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;4.0;1
+8;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;8.0;1
+8;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;4.0;1
+9;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;4.0;1
+10;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;8.0;1
+13;https://www.lucidchart.com/pages/database-diagram/database-models;kinds;1.0;0.0;8.0;0
+13;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.06666666666666667;1.3333333333333333;0
+14;https://www.lucidchart.com/pages/database-diagram/database-models;include;1.0;0.06666666666666667;8.0;0
+14;https://www.lucidchart.com/pages/database-diagram/database-models;common;1.0;0.06666666666666667;8.0;0
+15;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical database model;3.0;0.06666666666666667;2.6666666666666665;0
+16;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.06666666666666667;2.0;0
+17;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.06666666666666667;2.0;0
+18;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.06666666666666667;8.0;0
+19;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.06666666666666667;2.6666666666666665;0
+20;https://www.lucidchart.com/pages/database-diagram/database-models;document model;2.0;0.06666666666666667;2.6666666666666665;0
+21;https://www.lucidchart.com/pages/database-diagram/database-models;entity_attribute_value model;2.0;0.06666666666666667;8.0;0
+22;https://www.lucidchart.com/pages/database-diagram/database-models;star schema;2.0;0.06666666666666667;2.6666666666666665;0
+23;https://www.lucidchart.com/pages/database-diagram/database-models;combines;1.0;0.06666666666666667;8.0;0
+23;https://www.lucidchart.com/pages/database-diagram/database-models;make;1.0;0.06666666666666667;8.0;0
+23;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.06666666666666667;8.0;0
+29;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;8.0;0
+30;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;4.0;0
+31;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;2.6666666666666665;0
+32;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;2.6666666666666665;0
+34;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;8.0;0
+35;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;4.0;0
+36;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;8.0;0
+36;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;4.0;0
+37;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;4.0;0
+38;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;8.0;0
+41;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;close;1.0;0.03333333333333333;8.0;0
+41;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;provide concepts;2.0;0.03333333333333333;8.0;0
+41;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;data;2.0;0.03333333333333333;1.3333333333333333;0
+41;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;present;1.0;0.03333333333333333;8.0;0
+41;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;people perceive data;2.6666666666666665;0.03333333333333333;8.0;0
+42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;relationships;1.0;0.0;8.0;0
+42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;entities;1.0;0.06666666666666667;8.0;0
+42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;typical;1.0;0.03333333333333333;8.0;0
+42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;attributes;1.0;0.06666666666666667;8.0;0
+42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;entity relationship model;3.0;0.03333333333333333;2.6666666666666665;0
+42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;type;1.0;0.03333333333333333;8.0;0
+42;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;main concepts;2.0;0.03333333333333333;8.0;0
+43;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;employee;1.0;0.1;8.0;0
+43;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;project;1.0;0.06666666666666667;8.0;0
+43;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;entity represents;2.0;0.03333333333333333;8.0;0
+43;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;real_world object;2.0;0.03333333333333333;8.0;0
+44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;represents properties;2.0;0.03333333333333333;8.0;0
+44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;birthdate;1.0;0.0;8.0;0
+44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;entity;1.0;0.03333333333333333;8.0;0
+44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;address;1.0;0.03333333333333333;8.0;0
+44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;employee;1.0;0.1;8.0;0
+44;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;attributes;1.0;0.06666666666666667;8.0;0
+45;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;employee works;2.0;0.03333333333333333;8.0;0
+45;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;entities;1.0;0.06666666666666667;8.0;0
+45;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;relationship represents;2.0;0.03333333333333333;8.0;0
+45;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;projects;1.0;0.03333333333333333;8.0;0
+45;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;association;1.0;0.0;8.0;0
+46;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;employee;1.0;0.1;8.0;0
+46;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;project;1.0;0.06666666666666667;8.0;0
+46;https://opentextbc.ca/dbdesign/chapter/chapter-4-types-of-database-models/;relationship exists;2.0;0.03333333333333333;8.0;0
+48;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database models;2.0;0.05;8.0;0
+48;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;based;1.0;0.05;4.0;0
+48;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database systems;2.0;0.05;8.0;0
+48;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.6666666666666665;0
+49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;8.0;0
+49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database;1.0;0.05;4.0;0
+49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;rules;1.0;0.05;8.0;0
+49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data model;2.0;0.05;8.0;0
+49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;collection;1.0;0.05;8.0;0
+49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;concepts;1.0;0.05;8.0;0
+49;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;8.0;0
+50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;relationships;1.0;0.0;8.0;0
+50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;8.0;0
+50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database means;2.0;0.05;8.0;0
+50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data types;1.75;0.05;8.0;0
+50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;storage;1.0;0.05;8.0;0
+50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data;1.5;0.05;1.6;0
+50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;8.0;0
+50;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;constraints;1.0;0.0;8.0;0
+51;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.6666666666666665;0
+52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database models;2.0;0.05;8.0;0
+52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;based;1.0;0.05;4.0;0
+52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database systems;2.0;0.05;8.0;0
+52;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.6666666666666665;0
+53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;8.0;0
+53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database;1.0;0.05;4.0;0
+53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;rules;1.0;0.05;8.0;0
+53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data model;2.0;0.05;8.0;0
+53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;collection;1.0;0.05;8.0;0
+53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;concepts;1.0;0.05;8.0;0
+53;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;8.0;0
+54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;relationships;1.0;0.0;8.0;0
+54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;8.0;0
+54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database means;2.0;0.05;8.0;0
+54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data types;1.75;0.05;8.0;0
+54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;storage;1.0;0.05;8.0;0
+54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data;1.5;0.05;1.6;0
+54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;8.0;0
+54;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;constraints;1.0;0.0;8.0;0
+55;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.6666666666666665;0
+56;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.07142857142857142;8.0;0
+56;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;1.6;0
+56;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.07142857142857142;8.0;0
+57;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;8.0;0
+57;http://www.studytonight.com/dbms/database-model;parts;1.0;0.07142857142857142;8.0;0
+57;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;1.6;0
+57;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.07142857142857142;8.0;0
+58;http://www.studytonight.com/dbms/database-model;database design;2.0;0.07142857142857142;8.0;0
+58;http://www.studytonight.com/dbms/database-model;models;1.0;0.07142857142857142;8.0;0
+58;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;8.0;0
+58;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.07142857142857142;8.0;0
+59;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.07142857142857142;8.0;0
+60;http://www.studytonight.com/dbms/database-model;network model;2.0;0.07142857142857142;2.0;0
+61;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.07142857142857142;2.0;0
+77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;associations;1.0;0.0;8.0;0
+77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;reality;1.0;0.041666666666666664;8.0;0
+77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;real world  objects;2.25;0.041666666666666664;8.0;0
+77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;representation;1.0;0.0;8.0;0
+77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;model;1.0;0.041666666666666664;2.6666666666666665;0
+77;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;events;1.0;0.041666666666666664;8.0;0
+78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;abstraction;1.0;0.0;8.0;0
+78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;inherent aspects;2.0;0.041666666666666664;8.0;0
+78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accidental properties;2.0;0.041666666666666664;8.0;0
+78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;ignores;1.0;0.041666666666666664;8.0;0
+78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;concentrates;1.0;0.0;8.0;0
+78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;8.0;0
+78;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;essential;1.0;0.041666666666666664;8.0;0
+79;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organization;1.0;0.0;8.0;0
+79;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;data model represents;3.0;0.041666666666666664;8.0;0
+80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;database designers;2.0;0.041666666666666664;8.0;0
+80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;provide;1.0;0.041666666666666664;8.0;0
+80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;end users unambiguously;3.0;0.041666666666666664;8.0;0
+80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;communicate;1.0;0.0;8.0;0
+80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;accurately;1.0;0.041666666666666664;8.0;0
+80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;basic concepts;2.0;0.041666666666666664;8.0;0
+80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;notations;1.0;0.041666666666666664;8.0;0
+80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;organizational data;2.0;0.041666666666666664;8.0;0
+80;http://ecomputernotes.com/fundamental/what-is-a-database/type-of-data-models;understanding;1.0;0.0;8.0;0
+81;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;3.0;0.08333333333333333;8.0;0
+81;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;database;1.0;0.041666666666666664;2.6666666666666665;0
+81;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;modeled;1.0;0.041666666666666664;8.0;0
+81;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;logical structure;2.0;0.041666666666666664;8.0;0
+82;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;fundamental entities;2.0;0.041666666666666664;8.0;0
+82;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;introduce abstraction;2.0;0.041666666666666664;8.0;0
+82;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models;2.0;0.041666666666666664;1.3333333333333333;0
+82;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;dbms;1.0;0.0;8.0;0
+83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;2.6666666666666665;0.08333333333333333;8.0;0
+83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;stored inside;2.0;0.041666666666666664;8.0;0
+83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;system;1.0;0.041666666666666664;8.0;0
+83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;connected;1.0;0.041666666666666664;8.0;0
+83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;processed;1.0;0.041666666666666664;8.0;0
+83;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data;2.0;0.041666666666666664;1.3333333333333333;0
+84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity_relationship model;2.0;0.041666666666666664;2.6666666666666665;0
+84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;relationships;1.0;0.0;8.0;0
+84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;based;1.0;0.041666666666666664;2.6666666666666665;0
+84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;notion;1.0;0.041666666666666664;8.0;0
+84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;real_world entities;2.0;0.041666666666666664;8.0;0
+85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;formulating real_world scenario;3.0;0.041666666666666664;8.0;0
+85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;general attributes;2.0;0.041666666666666664;8.0;0
+85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;database model;2.0;0.041666666666666664;8.0;0
+85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;relationship set;2.0;0.041666666666666664;8.0;0
+85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;constraints;1.0;0.0;8.0;0
