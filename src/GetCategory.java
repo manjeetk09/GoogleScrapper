@@ -249,6 +249,12 @@ public class GetCategory{
 
     public static void main(String args[]) throws IOException {
 
+        //for proxy
+        System.setProperty("http.proxyHost", "10.10.78.22");
+        System.setProperty("http.proxyPort", "3128");
+        System.setProperty("https.proxyHost", "10.10.78.22");
+        System.setProperty("https.proxyPort", "3128");
+
         FileWriter fw = new FileWriter("category_validated.csv");
         BufferedWriter bw = new BufferedWriter(fw);
 

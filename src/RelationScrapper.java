@@ -6,7 +6,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
-import semantics.Compare;
 
 import java.io.*;
 import java.net.*;
@@ -97,14 +96,14 @@ public class RelationScrapper {
 
     public boolean isRelation (String relation) throws IOException
     {
-        FileReader frr = new FileReader("relations.txt");
+        FileReader frr = new FileReader("relationFinal.txt");
         BufferedReader brr = new BufferedReader(frr);
 
         String lineT = "";
 
         while((lineT = brr.readLine()) != null)
         {
-            String line = lineT.replaceAll("_", " ");
+            String line = lineT;
             if(minDistance(relation, line) < 5)
             {
                 try
@@ -140,12 +139,12 @@ public class RelationScrapper {
     {
         //arguments : String searchTerm, int temp_index, int num
 
-        String filename = "scrapper" + temp_index + ".txt";
-        String file_rel = "scrapperq" + temp_index + ".txt";
+        String filename = "crawler" + temp_index + ".txt";
+        String file_rel = "crawlerq" + temp_index + ".txt";
 //        String file_noRel = "noRelation.txt";
-        String file_url = "urlsScrap" + temp_index + ".txt";
+        String file_url = "urls" + temp_index + ".txt";
 //        String file_para = "paraScrap" + temp_index + ".txt";
-        String file_date = "timeDateScrap" + temp_index + ".txt";
+        String file_date = "timeDate" + temp_index + ".txt";
 
         BufferedWriter bw = null;
         FileWriter fw = null;
@@ -239,6 +238,7 @@ public class RelationScrapper {
 
         for(int i=0; i<link_data.size();i++)
         {
+            System.out.println("error: " + i + link_data.get(i));
             if(link_data.get(i).contains("pdf") || link_data.get(i).contains("wordpress") || link_data.get(i).contains("slideshare"))
             {
                 System.out.println("HIGH!");
@@ -548,7 +548,7 @@ public class RelationScrapper {
             FileWriter fww = new FileWriter(file_name);
             bw1 = new BufferedWriter(fw1);
 
-            String command = "java -Xmx512m -jar ollie-app-latest.jar scrapperq" + temp_index + ".txt";
+            String command = "java -Xmx512m -jar ollie-app-latest.jar crawlerq" + temp_index + ".txt";
             //String command = "echo 'hello'";
 
             Process proc = Runtime.getRuntime().exec(command);

@@ -9,7 +9,6 @@ public class test
 {
     public static void main (String args[]) throws IOException
     {
-        System.out.println("hi");
 
 //        Scanner scanner = new Scanner(System.in);
 //        System.out.println("Enter the search:");

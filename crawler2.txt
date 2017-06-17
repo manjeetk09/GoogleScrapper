@@ -1,78 +1,84 @@
-0;This is a list of curves, by Wikipedia page.
-0;v.
-0;t.
-0;e.
-0;.
-0;.
-0;Other Bathtub curve.
-0; Bell curve.
-0; Calibration curve.
-0; Cardiac function curve.
-0; Dose response curve.
-0; Fish curve.
-0; Fletcher Munson curve.
-0; Forgetting curve.
-0; Gompertz curve.
-0; Growth curve .
-0; Hubbert curve.
-0; Kruithof curve.
-0; Learning curve.
-0; Light curve.
-0; Logistic curve.
-0; Oxygen hemoglobin dissociation curve.
-0; Paschen curve.
-0; Robinson Dadson curves.
-0; Rotation curve.
-0; Species area curve.
-0; Stress strain curve.
-0;v.
-0;t.
-0;e.
-0;.
-0;.
-0;v.
-0;t.
-0;e.
-0;.
-0;.
-0;In mathematics, a plane real algebraic curve is the set of points on the Euclidean plane whose coordinates are zeros of some polynomial in two variables.
-0; More generally an algebraic curve is similar but may be embedded in a higher dimensional space or defined over some more general field.
-0;v.
-0;t.
-0;e.
-0;v.
-0;t.
-0;e.
-0;.
-0;.
-0;Every algebraic curve may be uniquely decomposed into a finite number of smooth monotone arcs connected by some points sometimes called  remarkable points .
-0; A smooth monotone arc is the graph of a smooth function which is defined and monotone on an open interval of the x_axis.
-0; In each direction, an arc is either unbounded or has an end point which is either a singular point or a point with a tangent parallel to one of the coordinate axes.
-0;and.
-0;v.
-0;t.
-0;e.
-0;v.
-0;t.
-0;e.
-0;.
-0;.
-0;This allows to consider that an affine curve and its projective completion are the same curve, or, more precisely that the affine curve is a part of the projective curve that is large enough to well define the  complete  curve.
-0; This point of view is commonly expressed by calling  points at infinity  of the affine curve the points of the projective completion that do not belong to the affine part.
-0;and.
-0;v.
-0;t.
-0;e.
-0;v.
-0;t.
-0;e.
-0;.
-0;.
-0;There are eight types of graphs that you will see more often than other types.
-0; Each has its own type of function that produces the graphs.
-0; They are easy to visually distinguish and by knowing how each looks, you can get an idea of what a graph might look like just by analyzing the function.
-0; The eight types are linear, power, quadratic, polynomial, rational, exponential, logarithmic, and sinusoidal.
-0;These functions produce more interesting graphs with more curves.
-0; The highest power of the function tells you how many curves or ups and downs the graph may have.
-0;Algebra is all about graphing relationships, and the curve is one of the most basic shapes used.
-0; Here s a look at eight of the most frequently used graphs.
+1;A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated
+1;A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated
+1; The most popular example of a database model is the relational model, which uses a table_based format
+1; The most popular example of a database model is the relational model, which uses a table_based format
+1;Common logical data models for databases include
+1; Hierarchical database model
+1; Network model
+1; Relational model
+1; Entity relationship model Enhanced entity relationship model
+1; Object model
+1; Document model
+1; Entity attribute value model
+1; Star schema
+1;An object_relational database combines the two related structures
+1;Physical data models include
+1; Inverted index
+1; Flat file
+1;Other models include
+1; Associative model
+1; Correlational model
+1; Multidimensional model
+1; Multivalue model
+1; Semantic model
+1; XML database
+1; Named graph
+1; Triplestore
+1;A given database management system may provide one or more models
+1; The optimal structure depends on the natural organization of the application s data, and on the application s requirements, which include transaction rate , reliability, maintainability, scalability, and cost
+1; Most database management systems are built around one particular data model, although it is possible for products to offer support for more than one model
+1;Various physical data models can implement any given logical model
+1; Most database software will offer the user some level of control in tuning the physical implementation, since the choices that are made have a significant effect on performance
+1;A model is not just a way of structuring data
+1; The relational model, for example, defines operations such as select and join
+1; Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
+1; Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
+1; Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
+1;The flat model consists of a single, two_dimensional array of data elements, where all members of a given column are assumed to be similar values, and all members of a row are assumed to be related to one another
+1;The flat model consists of a single, two_dimensional array of data elements, where all members of a given column are assumed to be similar values, and all members of a row are assumed to be related to one another
+1; For instance, columns for name and password that might be used as a part of a system security database
+1; Each row would have the specific password associated with an individual user
+1; This tabular format is a precursor to the relational model
+1;These models were popular in the 1960s, 1970s, but nowadays can be found primarily in old legacy systems
+1; They are characterized primarily by being navigational with strong connections between their logical and physical representations, and deficiencies in data independence
+1;In a hierarchical model, data is organized into a tree_like structure, implying a single parent for each record
+1;In a hierarchical model, data is organized into a tree_like structure, implying a single parent for each record
+1; A sort field keeps sibling records in a particular order
+1; Hierarchical structures were widely used in the early mainframe database management systems, such as the Information Management System by IBM, and now describe the structure of XML documents
+1; This structure allows one one_to_many relationship between two types of data
+1; This structure is very efficient to describe many relationships in the real world  recipes, table of contents, ordering of paragraphs verses, any nested and sorted information
+1; This structure is very efficient to describe many relationships in the real world  recipes, table of contents, ordering of paragraphs verses, any nested and sorted information
+1;This hierarchy is used as the physical order of records in storage
+1; Such limitations have been compensated for in later IMS versions by additional logical hierarchies imposed on the base physical hierarchy
+1;The network model expands upon the hierarchical structure, allowing many_to_many relationships in a tree_like structure that allows multiple parents
+1; It was most popular before being replaced by the relational model, and is defined by the CODASYL specification
+1; It was most popular before being replaced by the relational model, and is defined by the CODASYL specification
+1;The network model organizes data using two fundamental concepts, called records and sets
+1; Records contain fields 
+1; Sets define one_to_many relationships between records
+1; one owner, many members
+1; A record may be an owner in any number of sets, and a member in any number of sets
+1;g
+1;, type A is the owner of B
+1; At the same time another set may be defined where B is the owner of A
+1; Thus all the sets comprise a general directed graph , or network construct
+1; Access to records is either sequential or by navigation in the circular linked lists
+1;The network model is able to represent redundancy in data more efficiently than in the hierarchical model, and there can be more than one path from an ancestor node to a descendant
+1;The network model is able to represent redundancy in data more efficiently than in the hierarchical model, and there can be more than one path from an ancestor node to a descendant
+1; a program maintains a current position, and navigates from one record to another by following the relationships in which the record participates
+1; Records can also be located by supplying key values
+1;Although it is not an essential feature of the model, network databases generally implement the set relationships by means of pointers that directly address the location of a record on disk
+1; This gives excellent retrieval performance, at the expense of operations such as database loading and reorganization
+1;Popular DBMS products that utilized it were Cincom Systems  Total and Cullinet s IDMS
+1; IDMS gained a considerable customer base  in the 1980s, it adopted the relational model and SQL in addition to its original tools and languages
+1; IDMS gained a considerable customer base  in the 1980s, it adopted the relational model and SQL in addition to its original tools and languages
+1;Most object databases use the navigational concept to provide fast navigation across networks of objects, generally using object identifiers as  smart  pointers to related objects
+1;In an inverted file or inverted index, the contents of the data are used as keys in a lookup table, and the values in the table are pointers to the location of each instance of a given content item
+1;In an inverted file or inverted index, the contents of the data are used as keys in a lookup table, and the values in the table are pointers to the location of each instance of a given content item
+1; The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
+1; The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
+1; The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
+1; The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
+1;Notable for using this data model is the ADABAS DBMS of Software AG, introduced in 1970
+1;Notable for using this data model is the ADABAS DBMS of Software AG, introduced in 1970
+1; In the 1980s 

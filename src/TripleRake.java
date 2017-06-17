@@ -163,27 +163,38 @@ public class TripleRake
         ArrayList<Integer>  terms_in_doc = new ArrayList<Integer>();
         int previous_index = 0;
 //        System.out.println("LINE SIZE:" + line_num.size());
-        for(int j=0;j<line_num.size()-1;j++)
+//        for(int j=0;j<line_num.size()-1;j++)
+        for(int j=0 ; j<line_num.size()-1; j++)
         {
 //            System.out.println("LINE NUM:" + line_num.get(j) + ";" + line_num.get(j+1));
 //            if(j > line_num.size())
 //            {
 //                continue;
 //            }
-            if(urls.get(line_num.get(j)-1).matches(urls.get(line_num.get(j+1)-1)))
-            {
-                continue;
-            }
-            else
-            {
-                total_docs = total_docs + 1;
-                int answer = (j-previous_index + 1);
-                for(int k=previous_index;k<=j;k++)
+//            try
+//            {
+                if((urls.get(line_num.get(j)-1)).matches(urls.get(line_num.get(j+1)-1)))
                 {
-                    terms_in_doc.add(answer);
+                    continue;
                 }
-                previous_index = j+1;
-            }
+                else
+                {
+                    total_docs = total_docs + 1;
+                    int answer = (j-previous_index + 1);
+                    for(int k=previous_index;k<=j;k++)
+                    {
+                        terms_in_doc.add(answer);
+                    }
+                    previous_index = j+1;
+                }
+//            }
+//            catch(Exception en)
+//            {
+//                System.out.println("Error: " + line_num.get(j) + ":" + urls.get(line_num.get(j)) + ":" + line_num.get(j+1) + ":" + urls.get(line_num.get(j+1)-1));
+//                en.printStackTrace();
+//            }
+
+
         }
         int answer = line_num.size() - previous_index;
         for(int k = previous_index; k< line_num.size();k++)

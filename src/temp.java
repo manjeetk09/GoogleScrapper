@@ -59,10 +59,10 @@ public class temp
         //System.out.println(searchURL);
 
         //for proxy
-//        System.setProperty("http.proxyHost", "10.10.78.22");
-//        System.setProperty("http.proxyPort", "3128");
-//        System.setProperty("https.proxyHost", "10.10.78.22");
-//        System.setProperty("https.proxyPort", "3128");
+        System.setProperty("http.proxyHost", "10.10.78.22");
+        System.setProperty("http.proxyPort", "3128");
+        System.setProperty("https.proxyHost", "10.10.78.22");
+        System.setProperty("https.proxyPort", "3128");
 
         org.jsoup.nodes.Document doc = Jsoup.connect(searchURL).userAgent("Mozilla/5.0").get();
 
@@ -103,10 +103,18 @@ public class temp
         }
         if(flag == 0){
             bw.write(searchTerm + "\n");
-            boolean is_quick_ans_present = false;
-            GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-            is_quick_ans_present = googleSearchJava.googleSearch(searchTerm, search, 0, head_phrase_list);
-            System.out.println("found quick answer:: " + is_quick_ans_present);
+
+            //run only one of them: GoogleSearchJava (or) RelationScrapper
+            //to run via GoogleSearchJava
+//            boolean is_quick_ans_present = false;
+//            GoogleSearchJava googleSearchJava = new GoogleSearchJava();
+//            is_quick_ans_present = googleSearchJava.googleSearch(searchTerm, search, 0, head_phrase_list);
+//            System.out.println("found quick answer:: " + is_quick_ans_present);
+
+            //to run via RelationScrapper
+            RelationScrapper relationScrapper = new RelationScrapper();
+            relationScrapper.relationFunc(searchTerm, 0, search);
+            System.out.println("relation scrapper over");
 
             //via Ollie
             parseOllie parseollie = new parseOllie();
@@ -135,12 +143,18 @@ public class temp
             for(int i=0;i<templates_final.size();i++)
             {
                 bw.write(templates_final.get(i) + "\n");
-                boolean is_quick_ans_present = false;
-                //String temp_1 = "" + i;
-                //templates_final.set(i,temp_1);
-                GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-                is_quick_ans_present = googleSearchJava.googleSearch(templates_final.get(i), search, i, head_phrase_list);
-                System.out.println("found quick answer:: " + is_quick_ans_present);
+
+                //run only one of them: GoogleSearchJava (or) RelationScrapper
+                //to run via GoogleSearchJava
+//                boolean is_quick_ans_present = false;
+//                GoogleSearchJava googleSearchJava = new GoogleSearchJava();
+//                is_quick_ans_present = googleSearchJava.googleSearch(templates_final.get(i), search, i, head_phrase_list);
+//                System.out.println("found quick answer:: " + is_quick_ans_present);
+
+                //to run via RelationScrapper
+                RelationScrapper relationScrapper = new RelationScrapper();
+                relationScrapper.relationFunc(searchTerm, i, search);
+                System.out.println("relation scrapper over");
 
                 //via Ollie
                 parseOllie parseollie = new parseOllie();

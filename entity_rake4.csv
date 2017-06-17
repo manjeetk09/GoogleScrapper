@@ -1,257 +1,41 @@
-1;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;5.0;1
-1;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;5.0;1
-1;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;5.0;1
-1;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;5.0;1
-2;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;5.0;1
-2;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;5.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;5.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;5.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;5.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;5.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;5.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;1.25;1
-4;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;5.0;1
-4;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;5.0;1
-4;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.25;1
-4;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;5.0;1
-4;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;5.0;1
-5;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;5.0;1
-5;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;5.0;1
-11;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;5.0;1
-11;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;5.0;1
-11;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;5.0;1
-11;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;5.0;1
-12;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;5.0;1
-12;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;5.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;5.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;5.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;5.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;5.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;5.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;1.25;1
-14;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;5.0;1
-14;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;5.0;1
-14;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.25;1
-14;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;5.0;1
-14;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;5.0;1
-15;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;5.0;1
-15;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;5.0;1
-21;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;5.0;0
-21;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;5.0;0
-21;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;5.0;0
-21;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;5.0;0
-22;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;5.0;0
-22;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;5.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;5.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;5.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;5.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;5.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;5.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;1.25;0
-24;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;5.0;0
-24;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;5.0;0
-24;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.25;0
-24;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;5.0;0
-24;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;5.0;0
-25;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;5.0;0
-25;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;5.0;0
-31;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;5.0;0
-31;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;5.0;0
-31;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;5.0;0
-31;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;5.0;0
-32;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;5.0;0
-32;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;5.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;5.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;5.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;5.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;5.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;5.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;1.25;0
-34;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;5.0;0
-34;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;5.0;0
-34;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.25;0
-34;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;5.0;0
-34;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;5.0;0
-35;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;5.0;0
-35;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;5.0;0
-41;http://people.cs.pitt.edu/~chang/156/14hier.html;company database;2.0;0.5;5.0;0
-41;http://people.cs.pitt.edu/~chang/156/14hier.html;hierarchical schema;2.0;0.5;5.0;0
-43;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;limitations;1.0;0.0;5.0;0
-43;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;database model developed;2.8333333333333335;0.0625;5.0;0
-43;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;overcome;1.0;0.0625;5.0;0
-43;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;hierarchical model;2.25;0.0625;1.25;0
-43;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;traditional file system;3.0;0.0625;5.0;0
-44;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;large;1.0;0.0;5.0;0
-44;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;transactions;1.0;0.0;5.0;0
-44;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;hierarchical databases;2.0;0.0625;5.0;0
-44;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;predominantly;1.0;0.0;5.0;0
-44;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;volume;1.0;0.0625;5.0;0
-44;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;time;1.0;0.0625;5.0;0
-44;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;transaction operations change;2.8333333333333335;0.0625;5.0;0
-44;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;transaction processing;2.25;0.0625;5.0;0
-45;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;popular;1.0;0.0625;5.0;0
-45;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;banks;1.0;0.0625;5.0;0
-45;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;hierarchical database model;3.0;0.0625;1.6666666666666667;0
-49;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;resembling;1.0;0.011111111111111112;5.0;0
-49;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;hierarchical database model;2.8333333333333335;0.011111111111111112;1.6666666666666667;0
-49;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;earliest model;2.25;0.011111111111111112;5.0;0
-49;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;upside_down tree;2.0;0.011111111111111112;5.0;0
-50;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;files;1.0;0.03333333333333333;5.0;0
-50;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;parent;1.5;0.03333333333333333;1.25;0
-50;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;parent_child manner;2.0;0.011111111111111112;5.0;0
-50;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;parent capable;1.75;0.011111111111111112;5.0;0
-50;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;related;1.0;0.011111111111111112;2.5;0
-50;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;child;1.0;0.011111111111111112;1.6666666666666667;0
-50;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;relating;1.0;0.011111111111111112;5.0;0
-51;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;familiar;1.0;0.011111111111111112;5.0;0
-51;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;kind;1.0;0.0;5.0;0
-51;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;file systems work;3.0;0.011111111111111112;5.0;0
-51;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;structure;1.0;0.011111111111111112;0.7142857142857143;0
-52;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;directory;1.0;0.022222222222222223;5.0;0
-52;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;files;1.0;0.03333333333333333;5.0;0
-52;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;directories;1.0;0.0;5.0;0
-52;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;root;1.0;0.011111111111111112;5.0;0
-52;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;top_level;1.0;0.011111111111111112;5.0;0
-53;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;files;1.0;0.03333333333333333;5.0;0
-53;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;directories;1.0;0.0;5.0;0
-53;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;subdirectory;1.0;0.0;5.0;0
-54;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;directory;1.0;0.022222222222222223;5.0;0
-54;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;exist;1.0;0.011111111111111112;5.0;0
-54;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;parent;1.0;0.03333333333333333;1.25;0
-54;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;file;1.0;0.011111111111111112;5.0;0
-55;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;image;1.0;0.011111111111111112;5.0;0
-55;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;children;1.0;0.022222222222222223;1.6666666666666667;0
-55;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;root directory;2.0;0.011111111111111112;5.0;0
-56;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;turn;1.0;0.011111111111111112;5.0;0
-56;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;children;1.0;0.022222222222222223;1.6666666666666667;0
-56;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;parent;1.0;0.03333333333333333;1.25;0
-60;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;unrelated files;2.0;0.011111111111111112;5.0;0
-60;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;dealing;1.0;0.011111111111111112;5.0;0
-60;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;model;1.0;0.022222222222222223;5.0;0
-60;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;vast improvement;2.0;0.011111111111111112;5.0;0
-60;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;disadvantages;1.0;0.0;5.0;0
-61;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;problems;1.0;0.011111111111111112;5.0;0
-61;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;many_to_many relationships;2.25;0.011111111111111112;5.0;0
-61;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;represents one_to_many relationships;2.8333333333333335;0.011111111111111112;5.0;0
-62;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;relationships;1.0;0.0;5.0;0
-62;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;orders file;2.0;0.011111111111111112;5.0;0
-62;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;hierarchical model;2.0;0.022222222222222223;1.6666666666666667;0
-62;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;product file;2.0;0.011111111111111112;5.0;0
-62;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;implement;1.0;0.011111111111111112;5.0;0
-62;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;difficult;1.0;0.011111111111111112;5.0;0
-63;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;product;1.0;0.011111111111111112;5.0;0
-63;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;products;1.0;0.011111111111111112;5.0;0
-63;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;order;1.0;0.022222222222222223;5.0;0
-63;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;specifically;1.0;0.0;5.0;0
-63;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;orders;1.0;0.011111111111111112;5.0;0
-64;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;relationships;1.0;0.0;5.0;0
-64;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;adding;1.0;0.011111111111111112;5.0;0
-64;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;hierarchal model;2.0;0.011111111111111112;5.0;0
-64;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;turn means;2.0;0.011111111111111112;5.0;0
-64;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;existing applications;2.0;0.011111111111111112;5.0;0
-64;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;wholesale;1.0;0.011111111111111112;5.0;0
-64;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;change;1.0;0.011111111111111112;5.0;0
-64;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;result;1.0;0.011111111111111112;5.0;0
-64;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;flexible;1.0;0.011111111111111112;5.0;0
-64;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;existing structure;2.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;data structure;2.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;traverse;1.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;added;1.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;launch;1.0;0.0;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;developing;1.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;model;1.0;0.022222222222222223;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;due;1.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;access;1.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;order;1.0;0.022222222222222223;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;project;1.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;applications;1.0;0.0;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;complex;1.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;needed data;2.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;forgotten;1.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;fun;1.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;table;1.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;system shortly;2.0;0.011111111111111112;5.0;0
-65;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;programmer;1.0;0.011111111111111112;5.0;0
-66;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;accessing data;2.0;0.011111111111111112;5.0;0
-66;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;tables;1.5;0.011111111111111112;2.5;0
-66;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;fields;1.0;0.011111111111111112;5.0;0
-66;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;require;1.0;0.011111111111111112;5.0;0
-66;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;related tables;1.75;0.011111111111111112;5.0;0
-66;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;earlier chapters;2.0;0.011111111111111112;5.0;0
-67;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;entire chain;2.0;0.011111111111111112;5.0;0
-67;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;hierarchical model;2.0;0.022222222222222223;1.6666666666666667;0
-68;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;route;1.0;0.011111111111111112;5.0;0
-68;https://mariadb.com/kb/en/mariadb/understanding-the-hierarchical-database-model/;relate data;2.0;0.011111111111111112;5.0;0
-73;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;relationships;1.0;0.0;5.0;0
-73;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;won;1.0;0.0136986301369863;5.0;0
-73;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;data organized;2.0;0.0136986301369863;5.0;0
-73;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;parent child;2.0;0.0136986301369863;5.0;0
-73;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;hierarchical database model;2.8333333333333335;0.0136986301369863;1.6666666666666667;0
-73;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;tree_like model;2.25;0.0136986301369863;5.0;0
-73;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;structure;1.0;0.0273972602739726;0.8333333333333334;0
-74;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;hierarchical database;2.0;0.0136986301369863;5.0;0
-74;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;multiple entities;2.0;0.0136986301369863;5.0;0
-74;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;parent;1.0;0.0410958904109589;1.25;0
-74;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;individual entity;2.0;0.0136986301369863;5.0;0
-74;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;child;1.0;0.0273972602739726;2.5;0
-74;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;entity type;2.0;0.0136986301369863;5.0;0
-75;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;entity types;2.0;0.0136986301369863;5.0;0
-75;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;parent;1.0;0.0410958904109589;1.25;0
-75;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;tree mapping;2.0;0.0136986301369863;5.0;0
-75;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;child relationships;2.0;0.0136986301369863;5.0;0
-75;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;related;1.0;0.0136986301369863;2.5;0
-75;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;represented;1.0;0.0;5.0;0
-76;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;attributes;1.0;0.0136986301369863;5.0;0
-76;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;specific data recorded;3.0;0.0136986301369863;5.0;0
-76;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;entity;1.0;0.0136986301369863;5.0;0
-78;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;repeated data;2.0;0.0136986301369863;5.0;0
-78;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;tree;1.0;0.0273972602739726;5.0;0
-78;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;children;1.0;0.0273972602739726;1.6666666666666667;0
-78;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;structure;1.0;0.0273972602739726;0.8333333333333334;0
-78;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;single parent information;3.0;0.0136986301369863;5.0;0
-79;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;values;1.0;0.0136986301369863;5.0;0
-79;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;series;1.0;0.0136986301369863;5.0;0
-79;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;set;1.0;0.0136986301369863;5.0;0
-79;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;data;1.0;0.0410958904109589;1.0;0
-79;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;records;1.0;0.0136986301369863;5.0;0
-80;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;type;1.0;0.0136986301369863;5.0;0
-80;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;recorded;1.0;0.0136986301369863;5.0;0
-80;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;collected data;2.0;0.0136986301369863;5.0;0
-81;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;tables;1.0;0.0136986301369863;2.5;0
-81;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;database model;2.0;0.0136986301369863;5.0;0
-81;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;parent;1.0;0.0410958904109589;1.25;0
-81;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;column;1.0;0.0136986301369863;5.0;0
-81;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;equivalent;1.0;0.0136986301369863;5.0;0
-81;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;equal;1.0;0.0136986301369863;5.0;0
-81;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;child;1.0;0.0273972602739726;2.5;0
-81;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;database table;2.0;0.0136986301369863;5.0;0
-81;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;types;1.0;0.0273972602739726;5.0;0
-81;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;row;1.0;0.0136986301369863;5.0;0
-82;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;category;1.0;0.0136986301369863;5.0;0
-82;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;hierarchical model;2.0;0.0136986301369863;1.25;0
-82;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;parent child relationships;3.0;0.0136986301369863;5.0;0
-82;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;link;1.0;0.0;5.0;0
-82;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;data;1.0;0.0410958904109589;1.0;0
-82;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;types;1.0;0.0273972602739726;5.0;0
-83;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;relationships;1.0;0.0;5.0;0
-83;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;branches sprouting form;2.6666666666666665;0.0136986301369863;5.0;0
-83;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;branches;2.0;0.0136986301369863;5.0;0
-83;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;links;1.0;0.0;5.0;0
-83;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;tree structure;2.0;0.0136986301369863;5.0;0
-83;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;mapped;1.0;0.0136986301369863;5.0;0
-84;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;employee;1.0;0.0410958904109589;5.0;0
-84;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;company;1.0;0.0136986301369863;5.0;0
-84;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;store information;2.0;0.0136986301369863;5.0;0
-85;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;employee;1.0;0.0410958904109589;5.0;0
-85;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;tree;1.0;0.0273972602739726;5.0;0
-85;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;beginning;1.0;0.0136986301369863;5.0;0
-86;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;employee;1.0;0.0410958904109589;5.0;0
-86;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;department;1.0;0.0136986301369863;5.0;0
-86;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;data;1.0;0.0410958904109589;1.0;0
-86;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;number;1.0;0.0136986301369863;5.0;0
-86;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;salary;1.0;0.0136986301369863;5.0;0
-87;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;stored;1.0;0.0136986301369863;5.0;0
-87;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;information;1.0;0.0;5.0;0
-87;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;age;1.0;0.0136986301369863;5.0;0
-87;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;birthday;1.0;0.0136986301369863;5.0;0
-87;http://www.computerbusinessresearch.com/Home/database/hierarchical-database-model;children;1.0;0.0273972602739726;1.6666666666666667;0
+1;http://www.sciencedirect.com/science/article/pii/S2090447914000550;sentiment analysis;2.0;0.04878048780487805;1.0;0
+1;http://www.sciencedirect.com/science/article/pii/S2090447914000550;ongoing field;2.25;0.024390243902439025;1.0;0
+1;http://www.sciencedirect.com/science/article/pii/S2090447914000550;text mining field;2.8333333333333335;0.024390243902439025;1.0;0
+1;http://www.sciencedirect.com/science/article/pii/S2090447914000550;research;1.0;0.04878048780487805;1.0;0
+2;http://www.sciencedirect.com/science/article/pii/S2090447914000550;opinions;1.0;0.024390243902439025;1.0;0
+2;http://www.sciencedirect.com/science/article/pii/S2090447914000550;text;1.0;0.024390243902439025;1.0;0
+2;http://www.sciencedirect.com/science/article/pii/S2090447914000550;sentiments;1.0;0.024390243902439025;1.0;0
+2;http://www.sciencedirect.com/science/article/pii/S2090447914000550;computational treatment;2.0;0.024390243902439025;1.0;0
+2;http://www.sciencedirect.com/science/article/pii/S2090447914000550;subjectivity;1.0;0.0;1.0;0
+3;http://www.sciencedirect.com/science/article/pii/S2090447914000550;survey paper tackles;3.0;0.024390243902439025;1.0;0
+3;http://www.sciencedirect.com/science/article/pii/S2090447914000550;comprehensive overview;2.0;0.024390243902439025;1.0;0
+3;http://www.sciencedirect.com/science/article/pii/S2090447914000550;update;1.0;0.024390243902439025;1.0;0
+3;http://www.sciencedirect.com/science/article/pii/S2090447914000550;field;1.0;0.024390243902439025;1.0;0
+4;http://www.sciencedirect.com/science/article/pii/S2090447914000550;sa applications;2.0;0.024390243902439025;1.0;0
+4;http://www.sciencedirect.com/science/article/pii/S2090447914000550;investigated;1.0;0.0;1.0;0
+4;http://www.sciencedirect.com/science/article/pii/S2090447914000550;survey;1.0;0.04878048780487805;1.0;0
+4;http://www.sciencedirect.com/science/article/pii/S2090447914000550;presented briefly;2.0;0.024390243902439025;1.0;0
+5;http://www.sciencedirect.com/science/article/pii/S2090447914000550;sa techniques;2.0;0.04878048780487805;1.0;0
+5;http://www.sciencedirect.com/science/article/pii/S2090447914000550;articles;1.0;0.024390243902439025;1.0;0
+5;http://www.sciencedirect.com/science/article/pii/S2090447914000550;contributions;1.0;0.0;1.0;0
+5;http://www.sciencedirect.com/science/article/pii/S2090447914000550;categorized;1.0;0.0;1.0;0
+6;http://www.sciencedirect.com/science/article/pii/S2090447914000550;attracted researchers recently;3.0;0.024390243902439025;1.0;0
+6;http://www.sciencedirect.com/science/article/pii/S2090447914000550;discussed;1.0;0.024390243902439025;1.0;0
+6;http://www.sciencedirect.com/science/article/pii/S2090447914000550;related fields;2.0;0.04878048780487805;1.0;0
+7;http://www.sciencedirect.com/science/article/pii/S2090447914000550;sa techniques;2.0;0.04878048780487805;1.0;0
+7;http://www.sciencedirect.com/science/article/pii/S2090447914000550;full image;2.0;0.024390243902439025;1.0;0
+7;http://www.sciencedirect.com/science/article/pii/S2090447914000550;related fields;2.0;0.04878048780487805;1.0;0
+7;http://www.sciencedirect.com/science/article/pii/S2090447914000550;give;1.0;0.024390243902439025;1.0;0
+7;http://www.sciencedirect.com/science/article/pii/S2090447914000550;survey;1.0;0.04878048780487805;1.0;0
+7;http://www.sciencedirect.com/science/article/pii/S2090447914000550;main target;2.0;0.024390243902439025;1.0;0
+7;http://www.sciencedirect.com/science/article/pii/S2090447914000550;details;1.0;0.024390243902439025;1.0;0
+8;http://www.sciencedirect.com/science/article/pii/S2090447914000550;sophisticated categorizations;2.0;0.024390243902439025;1.0;0
+8;http://www.sciencedirect.com/science/article/pii/S2090447914000550;related areas;2.0;0.024390243902439025;1.0;0
+8;http://www.sciencedirect.com/science/article/pii/S2090447914000550;main contributions;2.0;0.024390243902439025;1.0;0
+8;http://www.sciencedirect.com/science/article/pii/S2090447914000550;illustration;1.0;0.0;1.0;0
+8;http://www.sciencedirect.com/science/article/pii/S2090447914000550;paper include;2.0;0.024390243902439025;1.0;0
+8;http://www.sciencedirect.com/science/article/pii/S2090447914000550;recent trend;2.0;0.024390243902439025;1.0;0
+8;http://www.sciencedirect.com/science/article/pii/S2090447914000550;sentiment analysis;2.0;0.04878048780487805;1.0;0
+8;http://www.sciencedirect.com/science/article/pii/S2090447914000550;large number;2.0;0.024390243902439025;1.0;0
+8;http://www.sciencedirect.com/science/article/pii/S2090447914000550;recent articles;2.0;0.024390243902439025;1.0;0
+8;http://www.sciencedirect.com/science/article/pii/S2090447914000550;research;1.0;0.04878048780487805;1.0;0
