@@ -1,5 +1,6 @@
 
 
+import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -7,9 +8,7 @@ import org.jsoup.select.Elements;
 import scala.util.parsing.combinator.testing.Str;
 
 import java.io.*;
-import java.net.URL;
-import java.net.URLConnection;
-import java.net.URLDecoder;
+import java.net.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -18,7 +17,29 @@ import java.util.List;
 /**
  * Created by manjeet on 6/6/17.
  */
+
+
 public class GetCategory{
+
+    private static Document sendRequest(String url) {
+        Document doc = null;
+        try {
+            Connection connect = Jsoup.connect(url);
+            connect.request().followRedirects(false);
+            URI u = new URI(url);
+            doc = connect.url(new URI(u.getScheme(), u.getUserInfo(), u.getHost(), u.getPort(), URLDecoder.decode(u.getPath(), "UTF-8"), u.getQuery(), u.getFragment()).toURL()).get();
+            if (connect.response().statusCode() == 301 && connect.response().header("Location") != null) {
+                return sendRequest(connect.response().header("Location"));
+            }
+            return doc;
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (URISyntaxException e) {
+            e.printStackTrace();
+        }
+
+        return doc;
+    }
 
     private static String getUrlSource(String url) throws IOException {
         URL yahoo = new URL(url);
@@ -45,7 +66,8 @@ public class GetCategory{
         }
         else
         {
-            doc = Jsoup.connect(url).userAgent("Mozilla/5.0").get();
+            //doc = Jsoup.connect(url).userAgent("Mozilla/5.0").get();
+            doc = sendRequest(url);
         }
 
         //System.out.println(doc.html());
@@ -151,7 +173,7 @@ public class GetCategory{
 //        PorterStemmer p = new PorterStemmer();
 //        String stemmed = p.stem(head);
 //        System.out.println("stem: " +
-        String[] head_split = answer.split(" ");
+        String[] ans_ent_split = answer.split(" ");
         ArrayList<Category> c1 = getCats(answer);
         ArrayList<Category> c2 = getCats(head_phrase);
         for (Category c : c1){
@@ -161,7 +183,7 @@ public class GetCategory{
                     System.out.println("plural at level 0");
                     if(c.getName().contains(head)){
                         System.out.println("Found typeof");
-                        res.add("plural" + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
+                        res.add("plural" + ";" + 1 + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                         sum++;
                     }
                 }
@@ -169,7 +191,8 @@ public class GetCategory{
                     System.out.println("plural at level " + c.getLevel());
                     if(c.getName().contains(head)){
                         System.out.println("Found typeof");
-                        res.add("plural" + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
+                        double score = 1.0/(2*c.getLevel());
+                        res.add("plural" + ";" + score + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                         sum = sum + (1.0/c.getLevel());
                     }
                 }
@@ -178,15 +201,15 @@ public class GetCategory{
 
             List<String> c_split = Arrays.asList(c.getName().split(" "));
 
-            if( c_split.size() < head_split.length ){
+            if( c_split.size() < ans_ent_split.length ){
                 int count = 0;
                 for(int i = 0 ; i < c_split.size() ; i++){
-//                    if(!c_split.contains(head_split[i])){
+//                    if(!c_split.contains(ans_ent_split[i])){
 //                        flag = 1;
 //                        break;
 //                    }
-                    for(String s : head_split){
-                        if(s.contains(c_split.get(i))){
+                    for(String s : ans_ent_split){
+                        if(s.matches(c_split.get(i))){
                             count++;
                             break;
                         }
@@ -194,20 +217,51 @@ public class GetCategory{
                 }
                 if(count == c_split.size()){
                     System.out.println("Found suffix :: " + c.getName());
-                    if(head.contains(c.getName())){
+                    if(answer.contains(c.getName())){
                         System.out.println("Found typeof");
                         sum = sum + 1;
-                        res.add("suffix/prefix" + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
+                        res.add("2suffix/prefix" + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                     }
                     else{
-                        res.add("suffix/prefix/W" + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
+                        res.add("2suffix/prefix/W" + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                     }
                 }
             }
             for(Category c2_temp : c2){
-                if(c2_temp.getName() == c.getName()){
+                if(c2_temp.getName().matches(c.getName())){
                     //if(c2_temp.getLevel() < c.getLevel()){
-                    res.add("Category Match" + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel() + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
+                    double score;
+                    if(c.getLevel() == 2 && c2_temp.getLevel() == 0){
+                        score = 1.0;
+                    }
+                    else if(c.getLevel() == 1 && c2_temp.getLevel() == 0){
+                        score = 8.0/9.0;
+                    }
+                    else if(c.getLevel() == 2 && c2_temp.getLevel() == 1){
+                        score = 7.0/9.0;
+                    }
+                    else if(c.getLevel() == 0 && c2_temp.getLevel() == 0){
+                        score = 6.0/9.0;
+                    }
+                    else if(c.getLevel() == 1 && c2_temp.getLevel() == 1){
+                        score = 5.0/9.0;
+                    }
+                    else if(c.getLevel() == 2 && c2_temp.getLevel() == 2){
+                        score = 4.0/9.0;
+                    }
+                    else if(c.getLevel() == 0 && c2_temp.getLevel() == 1){
+                        score = 3.0/9.0;
+                    }
+                    else if(c.getLevel() == 0 && c2_temp.getLevel() == 2){
+                        score = 2.0/9.0;
+                    }
+                    else if(c.getLevel() == 1 && c2_temp.getLevel() == 2){
+                        score = 1.0/9.0;
+                    }
+                    else{
+                        score = 0;
+                    }
+                    res.add("Category Match" + ";" + score + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel() + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
                     //}
                 }
             }
@@ -215,23 +269,23 @@ public class GetCategory{
 
         for(Category c2_temp : c2){
             List<String> c_split = Arrays.asList(c2_temp.getName().split(" "));
-            if( c_split.size() < head_split.length ){
+            if( c_split.size() < ans_ent_split.length ){
                 int count = 0;
                 for(int i = 0 ; i < c_split.size() ; i++){
-//                    if(!c_split.contains(head_split[i])){
+//                    if(!c_split.contains(ans_ent_split[i])){
 //                        flag = 1;
 //                        break;
 //                    }
-                    for(String s : head_split){
-                        if(c_split.get(i).contains(s)){
+                    for(String s : ans_ent_split){
+                        if(c_split.get(i).matches(s)){
                             count++;
                             break;
                         }
                     }
                 }
-                if(count == head_split.length){
+                if(count == ans_ent_split.length){
                     System.out.println("Found suffix_2 :: " + c2_temp.getName());
-                    if(head.contains(c2_temp.getName())){
+                    if(answer.contains(c2_temp.getName())){
                         System.out.println("Found typeof_2");
                         res.add("suffix/prefix" + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
                         sum = sum + 1;
@@ -247,18 +301,23 @@ public class GetCategory{
 
     }
 
-    public static void main(String args[]) throws IOException {
+    public void runCat(int i) throws IOException {
 
-        //for proxy
         System.setProperty("http.proxyHost", "10.10.78.22");
         System.setProperty("http.proxyPort", "3128");
         System.setProperty("https.proxyHost", "10.10.78.22");
         System.setProperty("https.proxyPort", "3128");
 
-        FileWriter fw = new FileWriter("category_validated.csv");
+        FileWriter fw = new FileWriter("Category/category_intersection" + i + ".csv");
         BufferedWriter bw = new BufferedWriter(fw);
+        FileWriter fw1 = new FileWriter("Category/category_plural" + i + ".csv");
+        BufferedWriter bw1 = new BufferedWriter(fw1);
+        FileWriter fw2 = new FileWriter("Category/category_suffix_prefix" + i + ".csv");
+        BufferedWriter bw2 = new BufferedWriter(fw2);
+        FileWriter fw3 = new FileWriter("Category/final_intersection" + i + ".csv");
+        BufferedWriter bw3 = new BufferedWriter(fw3);
 
-        FileReader fr = new FileReader("catInput.csv");
+        FileReader fr = new FileReader("Category/catInput" + i + ".csv");
         BufferedReader br = new BufferedReader(fr);
         ArrayList<String> head_ent_pair = new ArrayList<String>();
         String line_url = "";
@@ -281,6 +340,8 @@ public class GetCategory{
         GetCategory getCategory = new GetCategory();
 
         for(String s : head_ent_pair){
+            double max_score_intersection = 0;
+            int indexOfMaxScore = -1;
             String[] pairList = s.split(";");
             String head = pairList[1];
             String answer = pairList[0];
@@ -288,9 +349,35 @@ public class GetCategory{
                 ArrayList<String> output = getCategory.catgoryScore(head,answer);
                 Thread.sleep(3000);
                 //System.out.println(score);
+                int k = 0;
                 for(String t : output){
-                    bw.write(t);
-                    bw.write("\n");
+                    if(t.substring(0,14).contains("Category Match")){
+                        //System.out.println(t);
+                        int secondIndex = t.indexOf(';', t.indexOf(';')+1);
+                        String temp_score = t.substring(15,secondIndex);
+                        //System.out.println(temp_score);
+                        Double score = Double.parseDouble(temp_score);
+                        if(score >= max_score_intersection){
+                            max_score_intersection = score;
+                            indexOfMaxScore = k;
+                        }
+                        bw.write(t);
+                        bw.write("\n");
+                    }
+                    else if(t.substring(0,6).contains("plural")){
+                        bw1.write(t);
+                        bw1.write("\n");
+                    }
+                    else if(t.substring(0,6).contains("suffix")){
+                        bw2.write(t);
+                        bw2.write("\n");
+                    }
+                    k++;
+                }
+                if(indexOfMaxScore != -1){
+                    System.out.println(indexOfMaxScore + " :: " + output.get(indexOfMaxScore));
+                    bw3.write(output.get(indexOfMaxScore));
+                    bw3.write("\n");
                 }
             }
             catch (Exception e){
@@ -304,6 +391,18 @@ public class GetCategory{
                 bw.close();
             if(fw != null)
                 fw.close();
+            if(bw1 != null)
+                bw1.close();
+            if(fw1 != null)
+                fw1.close();
+            if(bw2 != null)
+                bw2.close();
+            if(fw2 != null)
+                fw2.close();
+            if(bw3 != null)
+                bw3.close();
+            if(fw3 != null)
+                fw3.close();
         }
         catch (Exception e){
             e.printStackTrace();
