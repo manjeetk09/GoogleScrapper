@@ -1,84 +1,1121 @@
-1;A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated
-1;A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated
-1; The most popular example of a database model is the relational model, which uses a table_based format
-1; The most popular example of a database model is the relational model, which uses a table_based format
-1;Common logical data models for databases include
-1; Hierarchical database model
-1; Network model
-1; Relational model
-1; Entity relationship model Enhanced entity relationship model
-1; Object model
-1; Document model
-1; Entity attribute value model
-1; Star schema
-1;An object_relational database combines the two related structures
-1;Physical data models include
-1; Inverted index
-1; Flat file
-1;Other models include
-1; Associative model
-1; Correlational model
-1; Multidimensional model
-1; Multivalue model
-1; Semantic model
-1; XML database
-1; Named graph
-1; Triplestore
-1;A given database management system may provide one or more models
-1; The optimal structure depends on the natural organization of the application s data, and on the application s requirements, which include transaction rate , reliability, maintainability, scalability, and cost
-1; Most database management systems are built around one particular data model, although it is possible for products to offer support for more than one model
-1;Various physical data models can implement any given logical model
-1; Most database software will offer the user some level of control in tuning the physical implementation, since the choices that are made have a significant effect on performance
-1;A model is not just a way of structuring data
-1; The relational model, for example, defines operations such as select and join
-1; Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
-1; Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
-1; Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
-1;The flat model consists of a single, two_dimensional array of data elements, where all members of a given column are assumed to be similar values, and all members of a row are assumed to be related to one another
-1;The flat model consists of a single, two_dimensional array of data elements, where all members of a given column are assumed to be similar values, and all members of a row are assumed to be related to one another
-1; For instance, columns for name and password that might be used as a part of a system security database
-1; Each row would have the specific password associated with an individual user
-1; This tabular format is a precursor to the relational model
-1;These models were popular in the 1960s, 1970s, but nowadays can be found primarily in old legacy systems
-1; They are characterized primarily by being navigational with strong connections between their logical and physical representations, and deficiencies in data independence
-1;In a hierarchical model, data is organized into a tree_like structure, implying a single parent for each record
-1;In a hierarchical model, data is organized into a tree_like structure, implying a single parent for each record
-1; A sort field keeps sibling records in a particular order
-1; Hierarchical structures were widely used in the early mainframe database management systems, such as the Information Management System by IBM, and now describe the structure of XML documents
-1; This structure allows one one_to_many relationship between two types of data
-1; This structure is very efficient to describe many relationships in the real world  recipes, table of contents, ordering of paragraphs verses, any nested and sorted information
-1; This structure is very efficient to describe many relationships in the real world  recipes, table of contents, ordering of paragraphs verses, any nested and sorted information
-1;This hierarchy is used as the physical order of records in storage
-1; Such limitations have been compensated for in later IMS versions by additional logical hierarchies imposed on the base physical hierarchy
-1;The network model expands upon the hierarchical structure, allowing many_to_many relationships in a tree_like structure that allows multiple parents
-1; It was most popular before being replaced by the relational model, and is defined by the CODASYL specification
-1; It was most popular before being replaced by the relational model, and is defined by the CODASYL specification
-1;The network model organizes data using two fundamental concepts, called records and sets
-1; Records contain fields 
-1; Sets define one_to_many relationships between records
-1; one owner, many members
-1; A record may be an owner in any number of sets, and a member in any number of sets
+1;linear
+1;quadratic
+1;power
+1;polynomial
+1;rational
+1;exponential
+1;logarithmic
+1;sinusoidal
+1;In mathematics, an algebraic function is a function that can be defined as the root of a polynomial equation
+1; Quite often algebraic functions can be expressed using a finite number of terms, involving only the algebraic operations addition, subtraction, multiplication, division, and raising to a fractional power
+1;Examples of such functions are
+1; f   1   x   displaystyle f 1 x 
+1; f   x   displaystyle f   sqrt  x   
+1; f   1   x 3 x 3   7   7 x 1   3   displaystyle f   frac   sqrt  1 x  3    x  3 7 _  sqrt  7  x  1 3    
+1; This is the case, for example, of the Bring radical, which is the function implicitly defined by
+1;where the coefficients aiare polynomial functions of x, with coefficients belonging to a set S
+1;where the coefficients aiare polynomial functions of x, with coefficients belonging to a set S
+1;A function which is not algebraic is called a transcendental function, as it is for example the case of exp   , tan   , ln   ,     displaystyle  exp, tan, ln, Gamma   
+1;A function which is not algebraic is called a transcendental function, as it is for example the case of exp   , tan   , ln   ,     displaystyle  exp, tan, ln, Gamma   
+1; A composition of transcendental functions can give an algebraic function
+1; f   cos       1   x 2   displaystyle f  cos    sqrt  1_x  2     
+1;As an equation of degree n has n roots, a polynomial equation does not implicitly define a single function, but n functions, sometimes also called branches
+1; Consider for example the equation of the unit circle
+1; y 2   x 2   1
+1;   displaystyle y  2  x  2  1
+1; ,  This determines y, except only up to an overall sign  accordingly, it has two branches
+1; y     1   x 2 
+1;   displaystyle y  pm   sqrt  1_x  2   
+1; , 
+1;An algebraic function in m variables is similarly defined as a function y which solves a polynomial equation in m   1 variables
+1;,xm 
+1;The informal definition of an algebraic function provides a number of clues about their properties
+1;The informal definition of an algebraic function provides a number of clues about their properties
+1; To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations
+1; To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations
+1; addition, multiplication, division, and taking an nth root
+1; This is something of an oversimplification  because of the fundamental theorem of Galois theory, algebraic functions need not be expressible by radicals
+1;First, note that any polynomial function y   p   displaystyle y p  is an algebraic function, since it is simply the solution y to the equation
+1;More generally, any rational function y   p q   displaystyle y   frac  p  q    is algebraic, being the solution to
+1;Moreover, the nth root of any polynomial y   p n   displaystyle y   sqrt p    is an algebraic function, solving the equation
+1; For supposing that y is a solution to
+1; Indeed, interchanging the roles of x and y and gathering terms,
+1;Writing x as a function of y gives the inverse function, also an algebraic function
+1; For example, y   x2 fails the horizontal line test
+1; it fails to be one_to_one
+1; The inverse is the algebraic  function  x     y   displaystyle x  pm   sqrt  y    
+1; Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve
+1; Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve
+1; Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve
+1; Hence any polynomial relation p  0 is guaranteed to have at least one solution for y at each point x, provided we allow y to assume complex as well as real values
+1; Thus, problems to do with the domain of an algebraic function can safely be minimized
+1;Furthermore, even if one is ultimately interested in real algebraic functions, there may be no means to express the function in terms of addition, multiplication, division and taking nth roots without resorting to complex numbers 
+1;Furthermore, even if one is ultimately interested in real algebraic functions, there may be no means to express the function in terms of addition, multiplication, division and taking nth roots without resorting to complex numbers 
+1; For example, consider the algebraic function determined by the equation
+1;Using the cubic formula, we get
+1;For x   3 4 3 ,   displaystyle x leq   frac  3   sqrt 4   ,  the square root is real and the cubic root is thus well defined, providing the unique real root
+1; On the other hand, for x   3 4 3 ,   displaystyle x   frac  3   sqrt 4   ,  the square root is not real, and one has to choose, for the square root, either non_real square root
+1; On the other hand, for x   3 4 3 ,   displaystyle x   frac  3   sqrt 4   ,  the square root is not real, and one has to choose, for the square root, either non_real square root
+1; Thus the cubic root has to be chosen among three non_real numbers
+1; If the same choices are done in the two terms of the formula, the three choices for the cubic root provide the three branches shown, in the accompanying image
+1; If the same choices are done in the two terms of the formula, the three choices for the cubic root provide the three branches shown, in the accompanying image
+1;On a more significant theoretical level, using complex numbers allows one to use the powerful techniques of complex analysis to discuss algebraic functions
+1; In particular, the argument principle can be used to show that any algebraic function is in fact an analytic function, at least in the multiple_valued sense
+1; In particular, the argument principle can be used to show that any algebraic function is in fact an analytic function, at least in the multiple_valued sense
+1; In particular, the argument principle can be used to show that any algebraic function is in fact an analytic function, at least in the multiple_valued sense
+1;Formally, let pbe a complex polynomial in the complex variables x and y
+1; Suppose that x0   C is such that the polynomial pof y has n distinct zeros
+1; Suppose that x0   C is such that the polynomial pof y has n distinct zeros
+1; Suppose that x0   C is such that the polynomial pof y has n distinct zeros
+1; We shall show that the algebraic function is analytic in a neighborhood of x0
+1; Choose a system of n non_overlapping discs  i containing each of these zeros
+1; Then by the argument principle
+1;By continuity, this also holds for all x in a neighborhood of x0
+1; In particular, phas only one root in  i, given by the residue theorem
+1;which is an analytic function
+1;Note that the foregoing proof of analyticity derived an expression for a system of n different function elements fi, provided that x is not a critical point of p
+1;Note that the foregoing proof of analyticity derived an expression for a system of n different function elements fi, provided that x is not a critical point of p
+1; A critical point is a point where the number of distinct zeros is smaller than the degree of p, and this occurs only where the highest degree term of p vanishes, and where the discriminant vanishes
+1; A critical point is a point where the number of distinct zeros is smaller than the degree of p, and this occurs only where the highest degree term of p vanishes, and where the discriminant vanishes
+1; Hence there are only finitely many such points c1, 
+1;, cm
+1;Note that, away from the critical points, we have
+1;since the fi are by definition the distinct zeros of p
+1;since the fi are by definition the distinct zeros of p
+1;  The monodromy action on the universal covering space is related but different notion in the theory of Riemann surfaces
+1; 
+1;The ideas surrounding algebraic functions go back at least as far as Ren  Descartes
+1; The first discussion of algebraic functions appears to have been in Edward Waring s 1794 An Essay on the Principles of Human Knowledge in which he writes
+1;1 Algebraic functions in one variable 1 1 Introduction and overview 1 2 The role of complex numbers 1 3 Monodromy
+1;2 History
+1;3 See also
+1;4 References
+1;5 External links
+1;1 1 Introduction and overview
+1;1 2 The role of complex numbers
+1;1 3 Monodromy
+1;Algebraic expression
+1;Analytic function
+1;Complex function
+1;Elementary function
+1;Function 
+1;Generalized function
+1;List of special functions and eponyms
+1;List of types of functions
+1;Polynomial
+1;Rational function
+1;Special functions
+1;Transcendental function
+1;Ahlfors, Lars   Complex Analysis  McGraw Hill  
+1;van der Waerden, B L    Modern Algebra, Volume II  Springer  
+1;Definition of  Algebraic function  in the Encyclopedia of Math
+1;Weisstein, Eric W   Algebraic Function   MathWorld  
+1;Algebraic Function at PlanetMath org 
+1;Definition of  Algebraic function  in David J  Darling s Internet Encyclopedia of Science
+1;Analytic functions
+1;Functions and mappings
+1;Meromorphic functions
+1;Special functions
+1;Types of functions
+1;Not logged in
+1;Talk
+1;Contributions
+1;Create account
+1;Log in
+1;Article
+1;Talk
+1;Read
+1;Edit
+1;View history
+1;Main page
+1;Contents
+1;Featured content
+1;Current events
+1;Random article
+1;Donate to Wikipedia
+1;Wikipedia store
+1;Help
+1;About Wikipedia
+1;Community portal
+1;Recent changes
+1;Contact page
+1;What links here
+1;Related changes
+1;Upload file
+1;Special pages
+1;Permanent link
+1;Page information
+1;Wikidata item
+1;Cite this page
+1;Create a book
+1;Download as PDF
+1;Printable version
+1;Wikimedia Commons
+1;       
+1;Catal 
+1;Deutsch
+1;Espa ol
+1;Esperanto
+1;Fran ais
+1;       
+1;      
+1;Italiano
+1;       
+1;        
+1;Magyar
+1;Nederlands
+1;      
+1;   
+1;Norsk bokm l
+1;Norsk nynorsk
+1;Polski
+1;Portugu s
+1;       
+1;     
+1;          
+1;    
+1;  
+1;This page was last edited on 8 April 2017, at 03 37 
+1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+1;Privacy policy
+1;About Wikipedia
+1;Disclaimers
+1;Contact Wikipedia
+1;Developers
+1;Cookie statement
+1;Mobile view
+1; There is a large theory of special functions which developed out of statistics and mathematical physics
+1; A modern, abstract point of view contrasts large function spaces, which are infinite_dimensional and within which most functions are  anonymous , with special functions picked out by properties such as symmetry, or relationship to harmonic analysis and group representations
+1;See also List of types of functions
 1;g
-1;, type A is the owner of B
-1; At the same time another set may be defined where B is the owner of A
-1; Thus all the sets comprise a general directed graph , or network construct
-1; Access to records is either sequential or by navigation in the circular linked lists
-1;The network model is able to represent redundancy in data more efficiently than in the hierarchical model, and there can be more than one path from an ancestor node to a descendant
-1;The network model is able to represent redundancy in data more efficiently than in the hierarchical model, and there can be more than one path from an ancestor node to a descendant
-1; a program maintains a current position, and navigates from one record to another by following the relationships in which the record participates
-1; Records can also be located by supplying key values
-1;Although it is not an essential feature of the model, network databases generally implement the set relationships by means of pointers that directly address the location of a record on disk
-1; This gives excellent retrieval performance, at the expense of operations such as database loading and reorganization
-1;Popular DBMS products that utilized it were Cincom Systems  Total and Cullinet s IDMS
-1; IDMS gained a considerable customer base  in the 1980s, it adopted the relational model and SQL in addition to its original tools and languages
-1; IDMS gained a considerable customer base  in the 1980s, it adopted the relational model and SQL in addition to its original tools and languages
-1;Most object databases use the navigational concept to provide fast navigation across networks of objects, generally using object identifiers as  smart  pointers to related objects
-1;In an inverted file or inverted index, the contents of the data are used as keys in a lookup table, and the values in the table are pointers to the location of each instance of a given content item
-1;In an inverted file or inverted index, the contents of the data are used as keys in a lookup table, and the values in the table are pointers to the location of each instance of a given content item
-1; The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
-1; The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
-1; The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
-1; The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
-1;Notable for using this data model is the ADABAS DBMS of Software AG, introduced in 1970
-1;Notable for using this data model is the ADABAS DBMS of Software AG, introduced in 1970
-1; In the 1980s 
+1; addition, exponentials, logarithms
+1; 
+1;Algebraic functions are functions that can be expressed as the solution of a polynomial equation with integer coefficients
+1; Polynomials
+1; Constant function
+1; polynomial of degree zero, graph is a horizontal straight line Linear function
+1; First degree polynomial, graph is a straight line
+1; Quadratic function
+1; Second degree polynomial, graph is a parabola
+1; Cubic function
+1; Third degree polynomial
+1; Quartic function
+1; Fourth degree polynomial
+1; Quintic function
+1; Fifth degree polynomial
+1; Sextic function
+1; Sixth degree polynomial
+1; Rational functions
+1; A ratio of two polynomials
+1; nth root Square root
+1; Yields a number whose square is the given one
+1; Cube root
+1; Yields a number whose cube is the given one
+1;Transcendental functions are functions that are not algebraic
+1; Exponential function
+1; raises a fixed number to a variable power
+1; Hyperbolic functions
+1; formally similar to the trigonometric functions
+1; Logarithms
+1; the inverses of exponential functions  useful to solve equations involving exponentials
+1; Natural logarithm Common logarithm Binary logarithm
+1; Power functions
+1; if the power is a rational number it is not strictly a transcendental function
+1; Periodic functions Trigonometric functions
+1; sine, cosine, tangent, cotangent, secant, cosecant, exsecant, excosecant, versine, coversine, vercosine, covercosine, haversine, hacoversine, havercosine, hacovercosine, etc
+1;  used in geometry and to describe periodic phenomena
+1; See also Gudermannian function
+1;1 Elementary functions 1 1 Algebraic functions 1 2 Elementary transcendental functions
+1;2 Special functions 2 1 Basic special functions 2 2 Number theoretic functions 2 3 Antiderivatives of elementary functions 2 4 Gamma and related functions 2 5 Elliptic and related functions 2 6 Bessel and related functions 2 7 Riemann zeta and related functions 2 8 Hypergeometric and related functions 2 9 Iterated exponential and related functions 2 10 Other standard special functions 2 11 Miscellaneous functions
+1;3 See also
+1;4 External links
+1;1 1 Algebraic functions
+1;1 2 Elementary transcendental functions
+1;2 1 Basic special functions
+1;2 2 Number theoretic functions
+1;2 3 Antiderivatives of elementary functions
+1;2 4 Gamma and related functions
+1;2 5 Elliptic and related functions
+1;2 6 Bessel and related functions
+1;2 7 Riemann zeta and related functions
+1;2 8 Hypergeometric and related functions
+1;2 9 Iterated exponential and related functions
+1;2 10 Other standard special functions
+1;2 11 Miscellaneous functions
+1;Indicator function  maps x to either 1 or 0, depending on whether or not x belongs to some subset 
+1;Sawtooth wave
+1;Square wave
+1;Triangle wave
+1;Floor function  Largest integer less than or equal to a given number 
+1;Absolute value  distance to the origin 
+1;Heaviside step function  0 for negative arguments and 1 for positive arguments  The integral of the Dirac delta function 
+1;Sigma function  Sums of powers of divisors of a given natural number 
+1;Euler s totient function  Number of numbers coprime to a given one 
+1;Euler s totient function  Number of numbers coprime to a given one 
+1;Prime_counting function  Number of primes less than or equal to a given number 
+1;Exponential integral
+1;Trigonometric integral  Including Sine Integral and Cosine Integral
+1;Error function  An integral important for normal random variables  Fresnel integral  related to the error function  used in optics  Dawson function  occurs in probability 
+1;Fresnel integral  related to the error function  used in optics 
+1;Gamma function  A generalization of the factorial function 
+1;Barnes G_function
+1;Beta function  Corresponding binomial coefficient analogue 
+1;Digamma function, Polygamma function
+1;Incomplete beta function
+1;Incomplete gamma function
+1;K_function
+1;Multivariate gamma function  A generalization of the Gamma function useful in multivariate statistics 
+1;Student s t_distribution
+1;Elliptic integrals  Arising from the path length of ellipses  important in many applications  Related functions are the quarter period and the nome  Alternate notations include  Carlson symmetric form Legendre form
+1;Elliptic integrals  Arising from the path length of ellipses  important in many applications  Related functions are the quarter period and the nome  Alternate notations include  Carlson symmetric form Legendre form
+1;Elliptic functions  The inverses of elliptic integrals  used to model double_periodic phenomena  Particular types are Weierstrass s elliptic functions and Jacobi s elliptic functions and the sine lemniscate and cosine lemniscate functions 
+1;Elliptic functions  The inverses of elliptic integrals  used to model double_periodic phenomena  Particular types are Weierstrass s elliptic functions and Jacobi s elliptic functions and the sine lemniscate and cosine lemniscate functions 
+1;Theta function
+1;Closely related are the modular forms, which include J_invariant Dedekind eta function
+1;Carlson symmetric form
+1;Legendre form
+1;J_invariant
+1;Dedekind eta function
+1;Airy function
+1;Bessel Clifford function
+1;Legendre function  From the theory of spherical harmonics 
+1;Scorer s function
+1;Sinc function
+1;Hermite polynomials
+1;Laguerre polynomials
+1;Chebyshev polynomials
+1;Riemann zeta function  A special case of Dirichlet series 
+1;Riemann Xi function
+1;Dirichlet eta function  An allied function 
+1;Dirichlet L_function
+1;Hurwitz zeta function
+1;Legendre chi function
+1;Lerch transcendent
+1;Polylogarithm and related functions  Incomplete polylogarithm Clausen function Complete Fermi Dirac integral, an alternate form of the polylogarithm  Incomplete Fermi Dirac integral Kummer s function Spence s function
+1;Polylogarithm and related functions  Incomplete polylogarithm Clausen function Complete Fermi Dirac integral, an alternate form of the polylogarithm  Incomplete Fermi Dirac integral Kummer s function Spence s function
+1;Riesz function
+1;Incomplete polylogarithm
+1;Clausen function
+1;Complete Fermi Dirac integral, an alternate form of the polylogarithm 
+1;Incomplete Fermi Dirac integral
+1;Kummer s function
+1;Spence s function
+1;Hypergeometric functions  Versatile family of power series 
+1;Confluent hypergeometric function
+1;Associated Legendre functions
+1;Meijer G_function
+1;Hyper operators
+1;Iterated logarithm
+1;Pentation
+1;Super_logarithms
+1;Super_roots
+1;Tetration
+1;Lambert W function  Inverse of f  w exp 
+1;Lambda function
+1;Lam  function
+1;Mittag_Leffler function
+1;Painlev  transcendents
+1;Parabolic cylinder function
+1;Synchrotron function
+1;Ackermann function  in the theory of computation, a computable function that is not primitive recursive 
+1;Dirac delta function  everywhere zero except for x   0  total integral is 1  Not a function but a distribution, but sometimes informally referred to as a function, particularly by physicists and engineers 
+1;Dirichlet function  is an indicator function that matches 1 to rational numbers and 0 to irrationals  It is nowhere continuous 
+1;Thomae s function  is a function that is continuous at all irrational numbers and discontinuous at all rational numbers  It is also a modification of Dirichlet function and sometimes called Riemann function 
+1;Thomae s function  is a function that is continuous at all irrational numbers and discontinuous at all rational numbers  It is also a modification of Dirichlet function and sometimes called Riemann function 
+1;Kronecker delta function  is a function of two variables, usually integers, which is 1 if they are equal, and 0 otherwise 
+1;Minkowski s question mark function  Derivatives vanish on the rationals 
+1;Weierstrass function  is an example of continuous function that is nowhere differentiable
+1;List of mathematical abbreviations
+1;Special functions   A programmable special functions calculator 
+1;Special functions at EqWorld  The World of Mathematical Equations 
+1;Calculus
+1;Mathematics_related lists
+1;Number theory
+1;Not logged in
+1;Talk
+1;Contributions
+1;Create account
+1;Log in
+1;Article
+1;Talk
+1;Read
+1;Edit
+1;View history
+1;Main page
+1;Contents
+1;Featured content
+1;Current events
+1;Random article
+1;Donate to Wikipedia
+1;Wikipedia store
+1;Help
+1;About Wikipedia
+1;Community portal
+1;Recent changes
+1;Contact page
+1;What links here
+1;Related changes
+1;Upload file
+1;Special pages
+1;Permanent link
+1;Page information
+1;Wikidata item
+1;Cite this page
+1;Create a book
+1;Download as PDF
+1;Printable version
+1;       
+1;Catal 
+1;Espa ol
+1;     
+1;Fran ais
+1;Galego
+1;       
+1;Italiano
+1;   
+1;L tzebuergesch
+1;   
+1;         
+1;Polski
+1;Portugu s
+1;Rom n 
+1;       
+1;Sloven  ina
+1;T rk e
+1;    
+1;  
+1;This page was last edited on 25 January 2017, at 21 37 
+1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+1;Privacy policy
+1;About Wikipedia
+1;Disclaimers
+1;Contact Wikipedia
+1;Developers
+1;Cookie statement
+1;Mobile view
+1;Algebra is the branch of mathematics concerning the study of the rules of operations and relations, and the constructions and concepts arising from them
+1;Algebra is the branch of mathematics concerning the study of the rules of operations and relations, and the constructions and concepts arising from them
+1; Together with geometry, analysis, topology and number theory
+1; The elementary algebra is often part of the curriculum in secondary education and introduces the concept of variables representing numbers
+1; The elementary algebra is often part of the curriculum in secondary education and introduces the concept of variables representing numbers
+1; 
+1;There are various types of algebraic functions
+1;Given f  x   1 
+1;Find fand f
+1;Plug x   0 in 
+1;   f  0   1   1
+1;   f  1
+1;Again, plug x   2 in 
+1;   f  2   1   3
+1;   f  3
+1;Given 2x2   4x _ 12 Factor the GCD
+1;   2x2   4x _ 12   2
+1;Factor the quadratic, x2   2x _ 6
+1;x2   2x _ 6   x2   3x _ 2x _ 6
+1;  x_ 2
+1;  
+1;   Factors of 2x2   4x _ 12   2 
+1;About Us      Careers      Contact Us      Blog      Homework Help      Teaching Jobs      Search Lessons      Answers      Calculators      Worksheets      Formulas      Offers
+1;Copyright   2017 _ TutorVista
+1;com, All rights reserved
+1;Home
+1;How it works
+1;About Us
+1;MathAlgebraAlgebraic Functions
+1;Algebraic Functions Algebraic Function Definition Types of Algebraic Functions Rational Algebraic Functions Algebraic Functions Examples
+1;Algebraic Function Definition
+1;Types of Algebraic Functions
+1;Rational Algebraic Functions
+1;Algebraic Functions Examples
+1;An error occurred trying to load this video
+1;Try refreshing the page, or contact customer support
+1; Plus, get practice tests, quizzes, and personalized coaching to help you succeed
+1;Want to watch this again later 
+1;Log in or sign up to add this lesson to a Custom Course
+1;Login or Sign up
+1;An algebraic function is a function that involves only algebraic operations, like, addition, subtraction, multiplication, and division, as well as fractional or rational exponents
+1; Think of an algebraic function as a machine, where real numbers go in, mathematical operations occur, and other numbers come out
+1;We call the numbers going into an algebraic function the input, x, or the domain
+1;We call the numbers going into an algebraic function the input, x, or the domain
+1; We call the numbers coming out of a function the output, y, or the range
+1; Remember, one value in, one value out
+1;There are many different types of algebraic functions
+1; linear, quadratic, cubic, polynomial, rational, and radical equations
+1; In this next part of the lesson, we ll learn about a couple of different methods we can use to identify them
+1; Sometimes functions multiply the domain to get the range, like 3x
+1; Functions may also subtract or divide the domain or use a combination of operations to produce the range
+1; As long as the rule of  one in one out  is kept in place, the function exists
+1;If an algebraic function says to add two to the domain, we can create a table to show the function
+1;As you can see, for every domain, we have one range
+1; These pairs of x values_ and y_values are called ordered pairs because we put them in order 
+1; These pairs of x values_ and y_values are called ordered pairs because we put them in order 
+1;We can also turn our table into ordered pairs to show a function
+1; , , and where there is one x_value for every one y_value
+1;We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
+1;We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
+1;We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
+1;We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
+1;We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
+1; Where the ordered pairs meet is where the point is graphed
+1; If we plot the points, we end up with a straight line, so the function, x   2, is considered a linear function and can be written in functional notation as f  x   2
+1; If we plot the points, we end up with a straight line, so the function, x   2, is considered a linear function and can be written in functional notation as f  x   2
+1; If we plot the points, we end up with a straight line, so the function, x   2, is considered a linear function and can be written in functional notation as f  x   2
+1; The fis just another way to write y, which we call the f_function
+1; It is a way for us to identify the different functions, instead of calling them all y   
+1;We know a graph is a function if it can pass the vertical line test
+1;We know a graph is a function if it can pass the vertical line test
+1; If a vertical line crosses in two places on a graph, it is in conflict with the one in, one out rule
+1; So, it is not a function
+1;Here is an example of a graph that is not a function
+1;As we said at the beginning of the lesson, there are many types of functions, such as the quadratic function and the cubic function
+1;As we said at the beginning of the lesson, there are many types of functions, such as the quadratic function and the cubic function
+1;As we said at the beginning of the lesson, there are many types of functions, such as the quadratic function and the cubic function
+1; Let s start with a quadratic function
+1;The quadratic function
+1; g  x 2 _ 3
+1; First, let s create a table
+1;The domain can be any real number, this is why the x_value or domain is called the independent variable
+1;The range or y_value is called the dependent variable because it depends on what we use for the x_term
+1;Get FREE access for 5 days, just create an account
+1;No obligation, cancel anytime
+1;Select a subject to preview related courses
+1; Math
+1; History
+1; English
+1; ACT SAT
+1; Science
+1; Business
+1; Psychology
+1; AP
+1;Writing the numbers in our table as ordered pairs, we have
+1;Writing the numbers in our table as ordered pairs, we have
+1; , , , , 
+1; Did you notice how we repeated some of the range values  Is this acceptable  YES, because each ordered pair has one x_value and one y_value
+1; Did you notice how we repeated some of the range values  Is this acceptable  YES, because each ordered pair has one x_value and one y_value
+1; The y_values can be repeated as long as the x_values are not repeated
+1;Now let s graph this function and use the vertical line test to make sure we still have an algebraic function
+1;Now let s graph this function and use the vertical line test to make sure we still have an algebraic function
+1;Now let s graph this function and use the vertical line test to make sure we still have an algebraic function
+1;We call this function a quadratic function because it has a squared term, x 2
+1;Now let s take a look at a cubic function
+1; h  x 3   x _ 2 and use the following values for the domain
+1; _2, _1, 0, 1, and 2
+1;Writing these values as ordered pairs we have
+1; , , , , 
+1;On a graph our ordered pairs will look like this
+1;After applying the vertical line test, we can see this is truly a function 
+1;An algebraic function is an equation that allows one to input a domain, or x_value and perform mathematical calculations to get an output, which is the range, or y_value, that is specific for that particular x_value
+1;An algebraic function is an equation that allows one to input a domain, or x_value and perform mathematical calculations to get an output, which is the range, or y_value, that is specific for that particular x_value
+1;There is a one in one out relationship between the domain and range
+1;There are several ways to show a function
+1;To unlock this lesson you must be a Study
+1;com Member
+1; Create your account
+1;Already a member  Log In
+1;Did you know  We have over 95 college courses that prepare you to earn credit by exam that is accepted by over 2,000 colleges and universities
+1;Did you know  We have over 95 college courses that prepare you to earn credit by exam that is accepted by over 2,000 colleges and universities
+1;Did you know  We have over 95 college courses that prepare you to earn credit by exam that is accepted by over 2,000 colleges and universities
+1; You can test out of the first two years of college and save thousands off your degree
+1;To learn more, visit our Earning Credit Page
+1;Not sure what college you want to attend yet  Study
+1;com has thousands of articles about every imaginable degree, area of study and career path that can help you find the school that s right for you
+1;com has thousands of articles about every imaginable degree, area of study and career path that can help you find the school that s right for you
+1;com has thousands of articles about every imaginable degree, area of study and career path that can help you find the school that s right for you
+1;Browse an area of study or degree level
+1; Back To Course
+1;42 chapters   399 lessons
+1;Next Lesson
+1;Your Cart is Empty
+1; Please Choose a Product
+1;Study
+1; I learned more in 10 minutes than 1 month of chemistry classes 
+1;_ Ashlee P
+1; I aced the CLEP exam and earned 3 college credits  
+1; I aced the CLEP exam and earned 3 college credits  
+1;_ Clair S
+1;Study
+1;com video lessons have helped over half a million teachers engage their students
+1;The videos have changed the way I teach  The videos on Study
+1;com accomplish in 5 minutes what would take me an entire class
+1; 
+1;_ Chris F
+1;Students in online learning conditions performed better than those receiving face_to_face instruction
+1;U
+1;S
+1; Department of Education
+1;  copyright 2003_2017 Study
+1;com
+1; All rights reserved
+1;Plans
+1;Courses Courses Find Courses by Subject Science Math Business Psychology History English Social Science Humanities Spanish ACT   SAT Test Prep Teacher Certification Professional Development By Education Level College High School Middle School Explore over 3,700 video courses Browse All Courses
+1;Credit Credit Credit Options Online College Credit High School   GED Certificates of Completion How it Works Earn Transferable Credit   Get your Degree fast Learn more
+1;Degrees Degrees Find Degrees by Subject Agriculture Architecture Biological and Biomedical Sciences Business Communications and Journalism Computer Sciences Culinary Arts and Personal Services Education Engineering Legal Liberal Arts and Humanities Mechanic and Repair Technologies Medical and Health Professions Physical Sciences Psychology Transportation and Distribution Visual and Performing Arts By Level High School Diploma Associates Degrees Bachelor Degrees Master Degrees Online Degrees Find a degree that fits your goals Search degrees
+1;Degrees Degrees Find Degrees by Subject Agriculture Architecture Biological and Biomedical Sciences Business Communications and Journalism Computer Sciences Culinary Arts and Personal Services Education Engineering Legal Liberal Arts and Humanities Mechanic and Repair Technologies Medical and Health Professions Physical Sciences Psychology Transportation and Distribution Visual and Performing Arts By Level High School Diploma Associates Degrees Bachelor Degrees Master Degrees Online Degrees Find a degree that fits your goals Search degrees
+1;Schools Schools Browse Schools by Degree Level Graduate Degrees High School Diplomas Certificate Programs Post Degree Certificates Undergraduate Degrees Browse Schools Public Schools by State University Video Reviews Career Counseling   Job Center Job Interviewing Tip Videos Job Networking Videos R sum  How To Videos Job Search Tips Career Videos Career Research Researching Careers Videos Glossary of Careers Career Info by Degree Job Outlook by Region Degree   Career Research Articles
+1;Contact Support
+1;Science
+1;Math
+1;Business
+1;Psychology
+1;History
+1;English
+1;Social Science
+1;Humanities
+1;Spanish
+1;ACT   SAT Test Prep
+1;Teacher Certification
+1;Professional Development
+1;College
+1;High School
+1;Middle School
+1;Online College Credit
+1;High School   GED
+1;Certificates of Completion
+1;How it Works
+1;Agriculture
+1;Architecture
+1;Biological and Biomedical Sciences
+1;Business
+1;Communications and Journalism
+1;Computer Sciences
+1;Culinary Arts and Personal Services
+1;Education
+1;Engineering
+1;Legal
+1;Liberal Arts and Humanities
+1;Mechanic and Repair Technologies
+1;Medical and Health Professions
+1;Physical Sciences
+1;Psychology
+1;Transportation and Distribution
+1;Visual and Performing Arts
+1;High School Diploma
+1;Associates Degrees
+1;Bachelor Degrees
+1;Master Degrees
+1;Online Degrees
+1;Graduate Degrees
+1;High School Diplomas
+1;Certificate Programs
+1;Post Degree Certificates
+1;Undergraduate Degrees
+1;Public Schools by State
+1;University Video Reviews
+1;Job Interviewing Tip Videos
+1;Job Networking Videos
+1;R sum  How To Videos
+1;Job Search Tips
+1;Career Videos
+1;Researching Careers Videos
+1;Glossary of Careers
+1;Career Info by Degree
+1;Job Outlook by Region
+1;Degree   Career Research Articles
+1;Video
+1;Quiz   Worksheet _ Algebraic Functions Quiz
+1;Course
+1;0 02 Algebraic Functions
+1;1 14 Tables
+1;2 23 Graphs
+1;3 06 Vertical Line Test
+1;3 30 Examples of Functions
+1;5 26 Lesson Summary
+1;Related Lessons
+1;Related Courses
+1;Agriculture
+1;Architecture
+1;Biological and Biomedical Sciences
+1;Business
+1;Communications and Journalism
+1;Computer Sciences
+1;Culinary Arts and Personal Services
+1;Education
+1;Engineering
+1;Legal
+1;Liberal Arts and Humanities
+1;Mechanic and Repair Technologies
+1;Medical and Health Professions
+1;Physical Sciences
+1;Psychology
+1;Transportation and Distribution
+1;Visual and Performing Arts
+1;High School Diploma
+1;Associates Degrees
+1;Bachelor Degrees
+1;Master Degrees
+1;Online Degrees
+1;Related
+1;Recently Updated
+1;Popular
+1;Operations Clerk Jobs  Career Options and Requirements
+1;Operations Director  Job Description, Requirements   Career Info
+1;Operations Assistant  Job Description   Requirements
+1;Careers for Operations Management MBA Graduates
+1;Operations Management Courses and Classes Overview
+1;Business Operations  Coursework Summary
+1;Catering and Banquet Operations  Coursework Overview
+1;Top Schools for Operations Management
+1;How to Become an Operations Supervisor  Step_by_Step Career Guide
+1;How to Become an Operations Consultant
+1;Top Schools for Substance Abuse Counseling
+1;How to Become a Bioinformatics Professional
+1;Jobs for People Who Like to Write
+1;Learn to Be a Mechanic
+1;Master s Degree in Adult Nursing
+1;Ontario California City and Higher Education Information
+1;Berkeley CA City Facts and Higher Education Info
+1;Earn a Plumbing Degree
+1;Go to ACT _ About the Test  Help and Review
+1;Go to ACT English _ Section Overview  Help and Review
+1;Go to ACT English _ Punctuation  Help and Review
+1;Go to ACT English _ Grammar and Usage  Help and Review
+1;Go to ACT English _ Sentence Structure  Help and Review
+1;Go to ACT English _ Rhetorical Strategy  Help and Review
+1;Go to ACT English _ Organization  Help and Review
+1;Go to ACT English _ Style  Help and Review
+1;Go to ACT Math _ Overview  Help and Review
+1;Go to ACT Math _ Pre_Algebra  Help and Review
+1;Go to ACT Math _ Algebraic Expressions  Help and Review
+1;Go to ACT Math _ Radicals  Help and Review
+1;Go to ACT Math _ Linear Equations  Help and Review
+1;What is a Function  Basics and Key Terms 7 57
+1;Inverse Functions 6 05
+1;Applying Function Operations Practice Problems 5 17
+1;How to Compose Functions 6 52
+1;How to Add, Subtract, Multiply and Divide Functions 6 43
+1;What Is Domain and Range in a Function  8 32
+1;Functions  Identification, Notation   Practice Problems 9 24
+1;Compounding Functions and Graphing Functions of Functions 7 47
+1;Understanding and Graphing the Inverse Function 7 31
+1;Polynomials Functions  Properties and Factoring 7 45
+1;Polynomials Functions  Exponentials and Simplifying 7 45
+1;Algebraic Function  Definition   Examples 6 26
+1;Next Lesson Domain in Math  Definition   Overview
+1;Even Function  Definition   Examples
+1;Go to ACT Math _ Functions  Help and Review
+1;Go to ACT Math _ Absolute Value  Help and Review
+1;Go to ACT Math _ Matrices  Help and Review
+1;Go to ACT Math _ Inequalities  Help and Review
+1;Go to ACT Math _ Probability  Help and Review
+1;Go to ACT Math _ Data and Statistics  Help and Review
+1;Go to ACT Math _ Exponents  Help and Review
+1;Go to ACT Math _ Polynomials and Quadratics  Help and Review
+1;Go to ACT Math _ Rational Equations  Help and Review
+1;Go to ACT Math _ Sequences  Help and Review
+1;Go to ACT Math _ Complex Numbers  Help and Review
+1;Go to ACT Math _ Exponentials and Logarithms  Help and Review
+1;Go to ACT Math _ Coordinate Geometry  Help and Review
+1;Go to ACT Math _ Triangles  Help and Review
+1;Go to ACT Math _ Plane Geometry  Help and Review
+1;Go to ACT Math _ Logic in Mathematics  Help and Review
+1;Go to ACT Math _ Trigonometry  Help and Review
+1;Go to ACT Science Reasoning _ Overview  Help and Review
+1;Go to ACT Science Reasoning _ Fundamentals  Help and Review
+1;Go to ACT Reading _ Overview  Help and Review
+1;Go to ACT Reading _ Question Types  Help and Review
+1;Go to ACT Reading _ Understanding Passages  Help and Review
+1;Go to ACT Reading _ Literary Terms  Help and Review
+1;Go to ACT Reading _ Practice  Help and Review
+1;Go to ACT Writing _ Overview  Help and Review
+1;Go to ACT Writing _ Essay Skills  Help and Review
+1;Go to ACT Writing _ Essay Parts  Help and Review
+1;Go to ACT Writing _ Planning  Help and Review
+1;Go to ACT Writing _ Advanced Skills  Help and Review
+1;Related
+1;Recently Updated
+1;Popular
+1;Browse by Courses
+1;Math Courses
+1;Science Courses
+1;English Courses
+1;Standardized Tests Courses
+1;Test Prep Courses
+1;PLACE Mathematics  Practice   Study Guide
+1;ORELA Middle Grades Mathematics  Practice   Study Guide
+1;WEST Middle Grades Mathematics  Practice   Study Guide
+1;AEPA Middle Grades Mathematics  Practice   Study Guide
+1;AEPA Business Education  Practice   Study Guide
+1;MTEL Physics  Practice   Study Guide
+1;CEOE Physics  Practice   Study Guide
+1;GRE Math Subject Test Study Guide   Test Prep
+1;HiSET Social Studies  Prep and Practice
+1;TASC Writing  Prep and Practice
+1;Human Physiology Study Guide
+1;Division  Help   Review
+1;TASC Social Studies  Prep and Practice
+1;Browse by Lessons
+1;Static Equilibrium of Rigid Bodies
+1;Overview of Force   Free_Body Diagrams
+1;Linear Momentum, Impulse   Energy Conservation
+1;Overview of Work   Work by Variable Force
+1;Overview of Magnetic Forces   Poles
+1;Quiz   Worksheet _ Letters of Credit
+1;Quiz   Worksheet _ Personal Finance Overview
+1;Quiz   Worksheet _ How Productivity Affects Unemployment
+1;Quiz   Worksheet _ Legitimacy   Authority in Politics
+1;Quiz   Worksheet _ Semicircle Perimeter   Area Formulas
+1;NMTA Social Science  Hellenism   Athenian Achievement
+1;NMTA Social Science  The Rise of the Roman Republic
+1;NMTA Social Science  The Fall of the Roman Republic
+1;NMTA Social Science  The Dark Ages
+1;NMTA Social Science  The Early Middle Ages
+1;Latest Courses
+1;UExcel Introduction to Philosophy  Study Guide   Test Prep
+1;DSST History of the Soviet Union  Study Guide   Test Prep
+1;Famous Figures for Kids
+1;AQB National Uniform Licensing   Certification Exam  Study Guide
+1;Education 211  Teaching Elementary Math
+1;Studying for Accounting 303
+1;Studying for Math 103
+1;Basics of Metaphysics in Philosophy
+1;Dynasties of China
+1;Fundamentals of Epistemology
+1;SBEC Technology Application Standards for Teachers
+1;New Mexico State Standards for Science
+1;ELL Services in Massachusetts
+1;Publications for ESL Teachers
+1;WIDA Can Do Descriptors for Grades 9_12
+1;WV Next Generation Standards for Science
+1;Latest Lessons
+1;Fixed_Price   Cost_Reimbursement Contracts
+1;How Does Light Travel  _ Lesson for Kids
+1;Still Life Drawings  Definition   Examples
+1;Robin Hood Facts  Lesson for Kids
+1;Alimony   Social Security Benefits
+1;Legal Ethics Paper Topics
+1;Indicative Mood Activities
+1;Memorial Day  Origin, History   Meaning
+1;Quiz   Worksheet _ Individual Sports
+1;Quiz   Worksheet _ Peanut Gallery Etymology
+1;Quiz   Worksheet _ Making a Production Cost Report
+1;Quiz   Worksheet _ Physical Education Teaching Methods
+1;Seed Components  Quiz   Worksheet for Kids
+1;Statistical Calculations for Business Flashcards
+1;Understanding Inequalities Flashcards
+1;Popular Courses
+1;Prentice Hall Physical Science  Online Textbook Help
+1;Business Law Textbook
+1;Western Civilization I  Help and Review
+1;MEGA Elementary Education Science Subtest  Practice   Study Guide
+1;Accuplacer Elementary Algebra Test  Practice   Study Guide
+1;CEOE Advanced Math  Roots   Radical Expressions
+1;Union Structure, Organization   Management
+1;Quiz   Worksheet _ Synapsis   Crossing_Over Mechanisms
+1;Quiz   Worksheet _ Analytical Psychology
+1;Quiz   Worksheet _ Conscientiousness in Personality
+1;Quiz   Worksheet _ Content Validity
+1;Quiz   Worksheet _ Stratified Random Samples
+1;Popular Lessons
+1;What Are the Seven Elements of Art  _ Definition   Examples
+1;1984 Book 2 Chapter 10 Summary
+1;7th Grade Summer Reading List
+1;Renaissance Art Lesson Plan
+1;Jabberwocky Lesson Plan
+1;The Flipped Classroom With Study com
+1;Multiplying Fractions Lesson Plan
+1;DNA Structure Lesson Plan
+1;Romeo and Juliet Project Ideas
+1;Fun Math Games for 1st Grade
+1;Five Themes of Geography Lesson Plan
+1;Why Learn Spanish 
+1;College Courses Business English Foreign Language History Humanities Math Science Social Science See All College Courses
+1;High School Courses AP Common Core GED High School See All High School Courses
+1;Other Courses College   Career Guidance Courses College Placement Exams Entrance Exams General Test Prep K_8 Courses Skills Courses Teacher Certification Exams See All Other Courses
+1;Business
+1;English
+1;Foreign Language
+1;History
+1;Humanities
+1;Math
+1;Science
+1;Social Science
+1;See All College Courses
+1;AP
+1;Common Core
+1;GED
+1;High School
+1;See All High School Courses
+1;College   Career Guidance Courses
+1;College Placement Exams
+1;Entrance Exams
+1;General Test Prep
+1;K_8 Courses
+1;Skills Courses
+1;Teacher Certification Exams
+1;See All Other Courses
+1;Create a Study Trainer
+1;Create custom courses
+1;Get your questions answered
+1;Assign Lessons to Students
+1;Show Videos in Your Classroom
+1;K_12 Subjects Common Core Aligned
+1;Access to Instructors
+1;Create Custom Courses
+1;Unlimited access to all video lessons
+1;Lesson Transcripts
+1;Tech support
+1;Practice quizzes   tests
+1;Tools for tracking progress
+1;Personalized coaching
+1;Access to instructors
+1;Certificates of Completion
+1;Create Custom Courses
+1;Earn college credit
+1;Take two exams per month
+1;Finish official exams remotely
+1;Learn more
+1;Free Trial
+1;Student Solutions
+1;Teacher Solutions
+1;Corporate Solutions
+1;Study com for Schools
+1;About Us
+1;Blog
+1;Careers
+1;Get Your School Listed
+1;Teach For Us
+1;Press Center
+1;Contact Support
+1;Contact Us
+1;FAQ
+1;Site Feedback
+1;linear
+1;quadratic
+1;power
+1;polynomial
+1;rational
+1;exponential
+1;logarithmic
+1;sinusoidal
+1;Constant Function
+1; Let  A  and  B  be any two non empty sets, then a function     from  A  to  B  is called a constant function if and only if the range of     is a singleton
+1;Algebraic Function
+1; A function defined by an algebraic expression is called an algebraic function
+1; A function defined by an algebraic expression is called an algebraic function
+1; e
+1;g
+1;Polynomial Function
+1; A function of the form where  n  is a positive integer and are real numbers is called a polynomial function of degree  n 
+1; A function of the form where  n  is a positive integer and are real numbers is called a polynomial function of degree  n 
+1;Linear Function
+1; A polynomial function with degree     is called a linear function
+1; The most general form of a linear function is
+1;Quadratic Function
+1; A polynomial function with degree  2  is called a quadratic function
+1; The most general form of a quadratic equation is
+1;Cubic Function
+1; A polynomial function with degree  3  is called a cubic function
+1; The most general form of a cubic function is
+1;Identity Function
+1; Let be a function then     is called an identity function if 
+1;Rational Function
+1; A function defined by , where both and are polynomial functions is called a rational function
+1;Trigonometric Function
+1; A function , etc
+1;, then is called a trigonometric function
+1;Exponential Function
+1; A function in which the variable appears as an exponent is called an exponential function e
+1;g
+1; 
+1;Logarithmic Function
+1; A function in which the variable appears as an argument of a logarithm is called a logarithmic function
+1; e
+1;g
+1; 
+1;Instead of commenting  Thank you , do us more good by clicking on our Like or Share button 
+1;  Privacy policy
+1; Contact us
+1;Home
+1;Basic Mathematics Algebra Basic Algebra Basic Mathematics Basic Statistics Business Math Calculus Everyday Math Geometry Linear Programming Trigonometry
+1;Higher Mathematics General Topology Group Theory Real Analysis
+1;Other Math Links Math Results And Formulas
+1;Contact
+1;Algebra
+1;Basic Algebra
+1;Basic Mathematics
+1;Basic Statistics
+1;Business Math
+1;Calculus
+1;Everyday Math
+1;Geometry
+1;Linear Programming
+1;Trigonometry
+1;General Topology
+1;Group Theory
+1;Real Analysis
+1;Math Results And Formulas
+1;Home
+1;Basic Mathematics Algebra Basic Algebra Basic Mathematics Basic Statistics Business Math Calculus Everyday Math Geometry Linear Programming Trigonometry
+1;Higher Mathematics General Topology Group Theory Real Analysis
+1;Other Math Links Math Results And Formulas
+1;Contact
+1;Algebra
+1;Basic Algebra
+1;Basic Mathematics
+1;Basic Statistics
+1;Business Math
+1;Calculus
+1;Everyday Math
+1;Geometry
+1;Linear Programming
+1;Trigonometry
+1;General Topology
+1;Group Theory
+1;Real Analysis
+1;Math Results And Formulas
+1;www
+1;springer
+1;com The European Mathematical Society
+1;where are polynomials in , and with 
+1; The number is the degree of with respect to , and is called the degree of the algebraic function
+1; If , an algebraic function may be represented as a quotient
+1;of polynomials, and is called a rational function of 
+1; the function_theoretical point of view taken, in particular, by N
+1;H
+1; Abel, K
+1; Weierstrass and B
+1; Riemann  the arithmetic_algebraic point of view taken by R
+1; Dedekind, H
+1; Weber and K
+1; Clebsch, M
+1; Noether and others  cf
+1; Algebraic geometry 
+1; The first direction of the theory of algebraic functions of a single variable is connected with the study of algebraic functions over the field of complex numbers, in which they are regarded as meromorphic functions on Riemann surfaces and complex manifolds  the most important methods applied are the geometrical and topological methods of the theory of analytic functions
+1; The first direction of the theory of algebraic functions of a single variable is connected with the study of algebraic functions over the field of complex numbers, in which they are regarded as meromorphic functions on Riemann surfaces and complex manifolds  the most important methods applied are the geometrical and topological methods of the theory of analytic functions
+1; The arithmetic_algebraic approach involves the study of algebraic functions over arbitrary fields
+1; The methods employed are purely algebraic
+1; In the algebraic_geometrical approach algebraic functions are considered to be rational functions on an algebraic variety, and are studied by methods of algebraic geometry  cf
+1; In the algebraic_geometrical approach algebraic functions are considered to be rational functions on an algebraic variety, and are studied by methods of algebraic geometry  cf
+1; Rational function 
+1; This differentiation has by now become largely arbitrary, since function_theoretical studies involve the extensive use of algebraic methods, while many results obtained at first using function_theoretical and topological methods can be successfully applied to more general fields using algebraic analogues of these methods
+1; This differentiation has by now become largely arbitrary, since function_theoretical studies involve the extensive use of algebraic methods, while many results obtained at first using function_theoretical and topological methods can be successfully applied to more general fields using algebraic analogues of these methods
+1;Over the field of complex numbers, an algebraic function of one variable is a _valued analytic function
+1; If is the discriminant of the polynomial
+1; i
+1;e
+1; of the polynomial for which  , which is obtained by eliminating from the equations
+1;to yield the equation
+1; The complementary set is known as the non_critical set
+1; For any point equation has different roots and the condition
+1;is satisfied
+1; According to the implicit function theorem, in a neighbourhood of the point there exist single_valued analytic functions which satisfy the conditions
+1;and which can be decomposed into a convergent series
+1; If is a critical point of an algebraic function, then two cases are possible
+1; 1  is a root of the discriminant, i
+1; 1  is a root of the discriminant, i
+1;e
+1; , but   or 2  
+1;Case 1
+1; Let be a small disc with centre at which does not contain other critical points, and let be a system of regular elements with centre at , 
+1; These functions remain bounded as 
+1; The analytic continuation of some given element, e
+1;g
+1; This system consists of elements, and a minimum required finite number of such turns yields the initial element 
+1; One obtains a subsystem of elements with centre   each one of these elements may be obtained by analytic continuation of the other by a number of turns around the point   such a subsystem is known as a cycle
+1; One obtains a subsystem of elements with centre   each one of these elements may be obtained by analytic continuation of the other by a number of turns around the point   such a subsystem is known as a cycle
+1; One obtains a subsystem of elements with centre   each one of these elements may be obtained by analytic continuation of the other by a number of turns around the point   such a subsystem is known as a cycle
+1; If , then the element is not a single_valued function of in the disc , but is a single_valued analytic function of the parameter in a neighbourhood of 
+1; In a certain neighbourhood of this point the elements of the first cycle can be represented as convergent series
+1; In a certain neighbourhood of this point the elements of the first cycle can be represented as convergent series
+1;and similar expansions also take place for the elements of other cycles
+1; The transformation , , which corresponds to one turn around , converts the Puiseux series of elements in one cycle into each other in cyclic order, i
+1;e
+1; there is a cyclic permutation of the series and of the corresponding elements
+1; To turns around the critical point correspond permutations of the elements with centre at this point  these permutations consist of cycles of the orders , 
+1; The permutations defined in this way constitute the monodromy group of the algebraic function
+1; If at least one element is greater than 1, the critical point is called an algebraic branch point of the algebraic function  the numbers are called the branch indices of the algebraic function
+1; If at least one element is greater than 1, the critical point is called an algebraic branch point of the algebraic function  the numbers are called the branch indices of the algebraic function
+1;Case 2
+1; If is substituted for , one returns to case 1  one obtains expansions similar to , which may contain a finite number of terms with negative indices
+1;If , the point is a pole of order of the algebraic function
+1;If , the point is a pole of order of the algebraic function
+1;e
+1; on the complex plane completed by the point at infinity 
+1; The introduction of the variable reduces this case to the previous case  in a neighbourhood of the point one has the expansion
+1;If , then the point is called a pole of order 
+1;The parameter of the expansion in the series , , , is called the local uniformizing parameter for the algebraic function
+1; Algebraic functions have no singularities other than algebraic branch points and poles
+1; The converse proposition is also true
+1; A function which is analytic, is not more than _valued at all points of the Riemann sphere except for a finite number of points and , and has at such points only poles or algebraic branch points, is an algebraic function of degree 
+1; A function which is analytic, is not more than _valued at all points of the Riemann sphere except for a finite number of points and , and has at such points only poles or algebraic branch points, is an algebraic function of degree 
+1;The Riemann surface of a complete algebraic function is compact and is a _sheeted covering of the Riemann sphere, branch points can be the critical points and the point 
+1;The Riemann surface of a complete algebraic function is compact and is a _sheeted covering of the Riemann sphere, branch points can be the critical points and the point 
+1; The genus of the Riemann surface of an algebraic function is important  it is called the genus of the algebraic function
+1; The genus of the Riemann surface of an algebraic function is important  it is called the genus of the algebraic function
+1; The genus of a rational function is zero, and its Riemann surface is the Riemann sphere
+1; The genus of a rational function is zero, and its Riemann surface is the Riemann sphere
+1; The genus of a rational function is zero, and its Riemann surface is the Riemann sphere
+1; The Riemann surface of an elliptic function that satisfies a third_ or fourth_degree equation is a torus  the genus of such a function is one
+1; The Riemann surface of an elliptic function that satisfies a third_ or fourth_degree equation is a torus  the genus of such a function is one
+1; The Riemann surface of an elliptic function that satisfies a third_ or fourth_degree equation is a torus  the genus of such a function is one
+1;The universal covering Riemann surface of an algebraic function is a simply_connected two_dimensional manifold, i
+1;e
+1; it has a trivial fundamental group and is conformally equivalent either to the Riemann sphere, the complex plane or the interior of the unit disc
+1; In the first case the algebraic function is a rational, in the second case it is an elliptic, while in the third case it is a general function
+1; In the first case the algebraic function is a rational, in the second case it is an elliptic, while in the third case it is a general function
+1; In the first case the algebraic function is a rational, in the second case it is an elliptic, while in the third case it is a general function
+1;of a parameter , which identically satisfy equation 
+1; The uniformization problem is locally solved by a local uniformizing parameter  however, it is the solution  in the large  that is of interest
+1; The uniformization problem is locally solved by a local uniformizing parameter  however, it is the solution  in the large  that is of interest
+1; If , i
+1;e
+1; if is a rational function of , this parameter may be the variable   if , then uniformization is attained with the aid of a rational or a trigonometric function
+1; For instance, if satisfies the equation
+1;one can take
+1;If in the case of an algebraic function of genus one, uniformization is achieved using elliptic functions
+1; Finally, if and the genus of the algebraic function is higher than one, uniformization is realized using automorphic functions  cf
+1; Automorphic function 
+1;If is an algebraic function in the variables , then the set of all rational functions forms a field , coinciding with the field of rational functions on the algebraic hypersurface in _dimensional space defined by the equation 
+1;If is an algebraic function in the variables , then the set of all rational functions forms a field , coinciding with the field of rational functions on the algebraic hypersurface in _dimensional space defined by the equation 
+1; If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
+1; If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
+1; If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
+1; If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
+1; The field is an extension of finite type of the field of constants of transcendence degree  cf
+1; Extension of a field 
+1; In particular, any elements of this field are connected by an algebraic equation, so that each of them defines an algebraic function of the remaining elements
+1; In particular, any elements of this field are connected by an algebraic equation, so that each of them defines an algebraic function of the remaining elements
+1; Any extension of finite type of a field of transcendence degree is known as an algebraic function field in variables 
+1; Each such field contains a purely transcendence extension of the field 
+1; Each field of algebraic functions in variables is isomorphic to the field of rational functions on some algebraic variety of dimension , which is called a model of 
+1; If the field of constants is algebraically closed and of characteristic zero, then each algebraic function field has a non_singular projective model  cf
+1; If the field of constants is algebraically closed and of characteristic zero, then each algebraic function field has a non_singular projective model  cf
+1; Resolution of singularities 
+1; Let be the set of all non_trivial valuations  cf
+1; Valuation  of an algebraic function field which are non_negative on the field of constants
+1; If provided with the natural topology, it is known as the abstract Riemann surface of the field 
+1; Many concepts and results in algebraic geometry on the model of a field can be restated in the language of the theory of valuations of fields , 
+1; A particularly close analogy holds for algebraic functions in one variable, the theory of which is practically identical with the theory of algebraic curves
+1; A particularly close analogy holds for algebraic functions in one variable, the theory of which is practically identical with the theory of algebraic curves
+1;Each algebraic function field in one variable is the field of fractions of a Dedekind ring, so that many results and concepts of the theory of divisibility in algebraic number fields can be applied to function fields 
+1;Each algebraic function field in one variable is the field of fractions of a Dedekind ring, so that many results and concepts of the theory of divisibility in algebraic number fields can be applied to function fields 
+1; Many problems and constructions in algebraic number theory motivate similar problems and constructions in fields of algebraic functions and vice versa
+1; Zeta_function in algebraic geometry 
+1;Log in
+1;Main page
+1;Pages A_Z
+1;StatProb Collection
+1;Recent changes
+1;Current events
+1;Random page
+1;Help
+1;Project talk
+1;What links here
+1;Related changes
+1;Special pages
+1;Printable version
+1;Permanent link
+1;Page information
+1;Page
+1;Discussion
+1;View
+1;View source
+1;History
+1;This page was last modified on 30 March 2012, at 23 49 
+1;Privacy policy
+1;About Encyclopedia of Mathematics
+1;Disclaimers
+1;Copyrights
+1;Impressum Legal

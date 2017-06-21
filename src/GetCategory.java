@@ -6,6 +6,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import scala.util.parsing.combinator.testing.Str;
+import semantics.Compare;
 
 import java.io.*;
 import java.net.*;
@@ -176,6 +177,34 @@ public class GetCategory{
         String[] ans_ent_split = answer.split(" ");
         ArrayList<Category> c1 = getCats(answer);
         ArrayList<Category> c2 = getCats(head_phrase);
+
+        List<String> c_split_t = Arrays.asList(head.split(" "));
+
+        if( c_split_t.size() < ans_ent_split.length ){
+            int count = 0;
+            int score_compare = 0;
+            for(int i = 0 ; i < c_split_t.size() ; i++){
+                int k = 0;
+                for(String s : ans_ent_split){
+                    if( ( s.contains(c_split_t.get(i)) && (s.length()-c_split_t.get(i).length() <= s.length()/2) ) || ( c_split_t.get(i).contains(s) && (c_split_t.get(i).length() - s.length() <= c_split_t.get(i).length()/2) ) ){
+                        score_compare = score_compare + k - i;
+                        count++;
+                        break;
+                    }
+                    k++;
+                }
+            }
+            if(count == c_split_t.size()){
+                if(answer.contains(head)){
+                    System.out.println("Found typeof");
+                    sum = sum + 1;
+                    res.add("1suffix/prefix" + ";" + score_compare + ";" + answer + ";" + head);
+                }
+                else{
+                    res.add("1suffix/prefix/W" + ";" + score_compare + ";" + answer + ";" + head);
+                }
+            }
+        }
         for (Category c : c1){
             if(c.getName().matches(head_s) || c.getName().matches((head_es)) || c.getName().matches(head) || c.getName().matches(head_ies) ){
                 System.out.println("Found plural:: " + c.getName());
@@ -203,16 +232,16 @@ public class GetCategory{
 
             if( c_split.size() < ans_ent_split.length ){
                 int count = 0;
+                int score_compare = 0;
                 for(int i = 0 ; i < c_split.size() ; i++){
-//                    if(!c_split.contains(ans_ent_split[i])){
-//                        flag = 1;
-//                        break;
-//                    }
+                    int k = 0;
                     for(String s : ans_ent_split){
-                        if(s.matches(c_split.get(i))){
+                        if( ( s.contains(c_split.get(i)) && (s.length()-c_split.get(i).length() <= s.length()/2) ) || ( c_split.get(i).contains(s) && (c_split.get(i).length() - s.length() <= c_split.get(i).length()/2) ) ){
+                            score_compare = score_compare + k - i;
                             count++;
                             break;
                         }
+                        k++;
                     }
                 }
                 if(count == c_split.size()){
@@ -220,10 +249,10 @@ public class GetCategory{
                     if(answer.contains(c.getName())){
                         System.out.println("Found typeof");
                         sum = sum + 1;
-                        res.add("2suffix/prefix" + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
+                        res.add("2suffix/prefix" + ";" + score_compare + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                     }
                     else{
-                        res.add("2suffix/prefix/W" + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
+                        res.add("2suffix/prefix/W" + ";" + score_compare + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                     }
                 }
             }
@@ -271,27 +300,27 @@ public class GetCategory{
             List<String> c_split = Arrays.asList(c2_temp.getName().split(" "));
             if( c_split.size() < ans_ent_split.length ){
                 int count = 0;
+                int score_compare = 0;
                 for(int i = 0 ; i < c_split.size() ; i++){
-//                    if(!c_split.contains(ans_ent_split[i])){
-//                        flag = 1;
-//                        break;
-//                    }
+                    int k = 0;
                     for(String s : ans_ent_split){
-                        if(c_split.get(i).matches(s)){
+                        if( ( s.contains(c_split.get(i)) && (s.length()-c_split.get(i).length() <= s.length()/2) ) || ( c_split.get(i).contains(s) && (c_split.get(i).length() - s.length() <= c_split.get(i).length()/2) ) ){
+                            score_compare = score_compare + k - i;
                             count++;
                             break;
                         }
+                        k++;
                     }
                 }
-                if(count == ans_ent_split.length){
+                if(count == c_split.size()){
                     System.out.println("Found suffix_2 :: " + c2_temp.getName());
                     if(answer.contains(c2_temp.getName())){
                         System.out.println("Found typeof_2");
-                        res.add("suffix/prefix" + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
+                        res.add("suffix/prefix" + ";" + score_compare + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
                         sum = sum + 1;
                     }
                     else{
-                        res.add("suffix/prefix/W" + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
+                        res.add("suffix/prefix/W" + ";" + score_compare + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
                     }
                 }
             }
@@ -368,7 +397,7 @@ public class GetCategory{
                         bw1.write(t);
                         bw1.write("\n");
                     }
-                    else if(t.substring(0,6).contains("suffix")){
+                    else if(t.substring(0,7).contains("suffix")){
                         bw2.write(t);
                         bw2.write("\n");
                     }

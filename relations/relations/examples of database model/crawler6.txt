@@ -1,0 +1,53 @@
+0;An Entity can be any object, place, person or class.
+0; In E_R Diagram, an entity is represented using rectangles.
+0; Consider an example of an Organisation.
+0; Employee, Manager, Department, Product and many more can be taken as entities from an Organisation.
+0;C  .
+0;C  .
+0;     .
+0;7 March 2012.
+0;.
+0;.
+0;.
+0;ER diagram example with entity having attributes.
+0;.
+0;.
+0;.
+0;ER diagrams are visual tools that are used in the Entity_Relationship model initially proposed by Peter Chen in 1976 to create a uniform convention that considers both relational database and network views.
+0; Chen envisioned the ER model as a conceptual modeling approach that views real world data as systems of entities and relationships.
+0; Entities are data objects that maintain different relationships with each other.
+0; Additionally, entities are also described further using attributes.
+0; Since 1976, the ER model has been expanded and is sometimes used in business management, product development, and strategy formulations.
+0; However, database design remains its primary application.
+0;.
+0;.
+0;.
+0;The ER model defines the conceptual view of a database.
+0; It works around real_world entities and the associations among them.
+0; At view level, the ER model is considered a good option for designing databases.
+0;ER models are represented by ER diagrams.
+0;The example database.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;An entity relationship diagram shows the relationships of entity sets stored in a database.
+0; An entity in this context is a component of data.
+0; In other words, ER diagrams illustrate the logical structure of databases.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Here we are going to design an Entity Relationship model for a college database .
+0; Say we have the following statements.

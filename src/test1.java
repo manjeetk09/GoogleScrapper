@@ -9,6 +9,7 @@ public class test1 {
     public static void main(String args[]) throws IOException{
 
         try {
+//            String command = "python wikipedia.py";
             String command = "python mapWiki.py debugger";
             Process proc = Runtime.getRuntime().exec(command);
 

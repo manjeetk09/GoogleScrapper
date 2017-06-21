@@ -1,12 +1,14 @@
-print "entered" 
+print "entered"
 import sys
+
 try:
-	import wikipedia
+    import wikipedia
 except ImportError:
-	print ImportError
-# print "hello"
+    print ImportError
+
 argument = sys.argv[1]
-argument = argument.replace("_"," ")
-# print argument
+argument = argument.replace("_", " ")
+print argument
 ans = wikipedia.search(argument, results=1)
 print ans
+# print argument

@@ -1,0 +1,9 @@
+algorithms in mlpack;http://mlpack.org/docs/mlpack-git/man/kmeans.html; Other options include the Pelleg_Moore tree_based algorithm , Elkan s triangle_inequality based algorithm , and Hamerly s modification to Elkan s algorithm .;algorithm;0.733333333332;0.9230769230769231;1.0;2.656410256408923;1.0;0;Mon May 29 05:34:44 IST 2017
+algorithms in mlpack;http://www.mlpack.org/about.html; Nearest neighbor search with dual_tree algorithms .;nearest_neighbor_search;1.0;0.030000000000000002;1.0;2.0300000000000002;0.0;0;Mon May 29 05:34:44 IST 2017
+algorithms in mlpack;http://www.mlpack.org/about.html; Linear regression .;linear_regression;0.6;0.030000000000000002;1.0;1.63;0.0;0;Mon May 29 05:34:44 IST 2017
+algorithms in mlpack;http://www.mlpack.org/about.html; Hidden Markov models .;hidden_markov_model;1.0;0.030000000000000002;0.37499999999999994;1.405;0.0;0;Mon May 29 05:34:44 IST 2017
+algorithms in mlpack;http://www.mlpack.org/about.html; Naive Bayes classifier .;naive_bayes_classifier;1.0;0.030000000000000002;0.37499999999999994;1.405;0.0;0;Mon May 29 05:34:44 IST 2017
+algorithms in mlpack;http://www.mlpack.org/about.html; Principal components analysis .;principal_component_analysis;1.0;0.030000000000000002;0.37499999999999994;1.405;0.0;0;Mon May 29 05:34:44 IST 2017
+algorithms in mlpack;http://www.mlpack.org/about.html; k_Means clustering .;k-means_clustering;0.6;0.030000000000000002;0.37499999999999994;1.005;0.0;0;Mon May 29 05:34:44 IST 2017
+algorithms in mlpack;http://www.mlpack.org/about.html; Locality_sensitive hashing for approximate nearest neighbor search .;locality-sensitive_hashing;0.6;0.030000000000000002;0.37499999999999994;1.005;0.0;0;Mon May 29 05:34:44 IST 2017
+algorithms in mlpack;http://www.mlpack.org/about.html; Logistic regression .;logistic_regression;0.6;0.030000000000000002;0.37499999999999994;1.005;0.0;0;Mon May 29 05:34:44 IST 2017

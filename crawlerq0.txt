@@ -1,0 +1,824 @@
+A debugger or debugging tool is a computer program that is used to test and debug other programs 
+ The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered, but which will typically be somewhat slower than executing the code directly on the appropriate processor
+ Some debuggers offer two modes of operation, full or partial simulation, to limit this impact
+ For example, the program might have tried to use an instruction not available on the current version of the CPU or attempted to access unavailable or protected memory
+ When the program  traps  or reaches a preset condition, the debugger typically shows the location in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments
+ If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+ If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+ If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+ If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+ Debuggers also offer more sophisticated functions such as running a program step by step , stopping at some event or specified instruction by means of a breakpoint, and tracking the values of variables
+ Some debuggers have the ability to modify program state while it is running
+ It may also be possible to continue execution at a different location in the program to bypass a crash or logical error
+ It often also makes it useful as a general verification tool, fault coverage, and performance analyzer, especially if instruction path lengths are shown
+Most mainstream debugging engines, such as gdb and dbx, provide console_based command line interfaces
+ Debugger front_ends are popular extensions to debugger engines that provide IDE integration, program animation, and visualization features
+ These debuggers make it possible to step a program s execution backwards in time
+ Various debuggers include this feature
+NET, and some other languages, but not C  
+ Some are open source  some are proprietary commercial software
+ Some reverse debuggers slow down the target by orders of magnitude, but the best reverse debuggers cause a slowdown of 2  or less
+ Reverse debugging is very useful for certain types of problems, but is still not commonly used yet
+ For example, if the main target program is written in COBOL but calls assembly language subroutines and PL 1 subroutines, the debugger may have to dynamically switch modes to accommodate the changes in language as they occur
+Most modern microprocessors have at least one of these features in their CPU design to make debugging easier
+ Hardware support for single_stepping a program, such as the trap flag
+ An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+ An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+ An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+ An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+ In_system programming allows an external hardware debugger to reprogram a system under test 
+ Many systems with such ISP support also have other hardware debug support
+ 5 
+ JTAG access to hardware debug interfaces such as those on ARM architecture processors or using the Nexus command set
+ Processors used in embedded systems typically have extensive JTAG debug support
+ Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR
+ Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR
+ DebugWIRE, for example, uses bidirectional signaling on the RESET pin
+Some of the most capable and popular debuggers implement only a simple command line interface  often to maximize portability and minimize resource consumption
+Some widely used debuggers are
+ Firefox JavaScript debugger
+ GDB _ the GNU debugger
+ LLDB
+ Microsoft Visual Studio Debugger
+ Valgrind
+ WinDbg
+ Eclipse debugger API used in a range of IDEs
+ Eclipse IDE Nodeclipse 
+ WDW, the OpenWatcom debugger
+Earlier minicomputer debuggers include
+ Dynamic debugging technique 
+ On_line Debugging Tool 
+Earlier Mainframe debuggers include 
+ 1985 CA EZTEST
+ 1990 XPEDITER and Expediter CICS
+Current mainframe debuggers
+ Debug Tool for z OS  6 
+ XPEDITER and Expediter CICS
+ z XDC  7 
+1 Features 1 1 Reverse debugging
+2 Language dependency
+3 Memory protection
+4 Hardware support for debugging
+5 Debugger front_ends
+6 List of debuggers
+7 See also
+8 References
+9 External links
+1 1 Reverse debugging
+Software Testing portal
+Computer programming portal
+Comparison of debuggers
+Core dump
+Kernel debugger
+List of tools for static code analysis
+Memory debugger
+Packet analyzer
+Profiling
+Jonathan B  Rosenberg  How Debuggers Work  Algorithms, Data Structures, and Architecture  John Wiley   Sons  ISBN 0_471_14966_7  CS1 maint  Uses authors parameter 
+OpenRCE  Various Debugger Resources and Plug_ins
+IntelliTrace MSDN, Visual Studio 2015
+Debuggers
+Debugging
+Utility software types
+All articles lacking in_text citations
+Articles needing additional references from May 2015
+All articles needing additional references
+Articles needing additional references from April 2008
+Articles with too many examples
+CS1 maint  Uses authors parameter
+CS1 maint  Uses editors parameter
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Create a book
+Download as PDF
+Printable version
+       
+Az rbaycanca
+         
+Bosanski
+Catal 
+ e tina
+Dansk
+Deutsch
+        
+Espa ol
+Esperanto
+Euskara
+     
+Fran ais
+   
+Hrvatski
+Bahasa Indonesia
+ slenska
+Italiano
+     
+       
+      
+Bahasa Melayu
+Nederlands
+   
+Norsk bokm l
+Polski
+Portugu s
+       
+Simple English
+         srpski
+Srpskohrvatski                 
+Suomi
+Svenska
+   
+T rk e
+          
+Ti ng Vi t
+  
+This page was last edited on 12 June 2017, at 18 25 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+A debugger or debugging tool is a computer program that is used to test and debug other programs 
+ The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered, but which will typically be somewhat slower than executing the code directly on the appropriate processor
+ Some debuggers offer two modes of operation, full or partial simulation, to limit this impact
+ For example, the program might have tried to use an instruction not available on the current version of the CPU or attempted to access unavailable or protected memory
+ When the program  traps  or reaches a preset condition, the debugger typically shows the location in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments
+ If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+ If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+ If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+ If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+ Debuggers also offer more sophisticated functions such as running a program step by step , stopping at some event or specified instruction by means of a breakpoint, and tracking the values of variables
+ Some debuggers have the ability to modify program state while it is running
+ It may also be possible to continue execution at a different location in the program to bypass a crash or logical error
+ It often also makes it useful as a general verification tool, fault coverage, and performance analyzer, especially if instruction path lengths are shown
+Most mainstream debugging engines, such as gdb and dbx, provide console_based command line interfaces
+ Debugger front_ends are popular extensions to debugger engines that provide IDE integration, program animation, and visualization features
+ These debuggers make it possible to step a program s execution backwards in time
+ Various debuggers include this feature
+NET, and some other languages, but not C  
+ Some are open source  some are proprietary commercial software
+ Some reverse debuggers slow down the target by orders of magnitude, but the best reverse debuggers cause a slowdown of 2  or less
+ Reverse debugging is very useful for certain types of problems, but is still not commonly used yet
+ For example, if the main target program is written in COBOL but calls assembly language subroutines and PL 1 subroutines, the debugger may have to dynamically switch modes to accommodate the changes in language as they occur
+Most modern microprocessors have at least one of these features in their CPU design to make debugging easier
+ Hardware support for single_stepping a program, such as the trap flag
+ An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+ An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+ An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+ An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+ In_system programming allows an external hardware debugger to reprogram a system under test 
+ Many systems with such ISP support also have other hardware debug support
+ 5 
+ JTAG access to hardware debug interfaces such as those on ARM architecture processors or using the Nexus command set
+ Processors used in embedded systems typically have extensive JTAG debug support
+ Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR
+ Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR
+ DebugWIRE, for example, uses bidirectional signaling on the RESET pin
+Some of the most capable and popular debuggers implement only a simple command line interface  often to maximize portability and minimize resource consumption
+Some widely used debuggers are
+ Firefox JavaScript debugger
+ GDB _ the GNU debugger
+ LLDB
+ Microsoft Visual Studio Debugger
+ Valgrind
+ WinDbg
+ Eclipse debugger API used in a range of IDEs
+ Eclipse IDE Nodeclipse 
+ WDW, the OpenWatcom debugger
+Earlier minicomputer debuggers include
+ Dynamic debugging technique 
+ On_line Debugging Tool 
+Earlier Mainframe debuggers include 
+ 1985 CA EZTEST
+ 1990 XPEDITER and Expediter CICS
+Current mainframe debuggers
+ Debug Tool for z OS  6 
+ XPEDITER and Expediter CICS
+ z XDC  7 
+1 Features 1 1 Reverse debugging
+2 Language dependency
+3 Memory protection
+4 Hardware support for debugging
+5 Debugger front_ends
+6 List of debuggers
+7 See also
+8 References
+9 External links
+1 1 Reverse debugging
+Software Testing portal
+Computer programming portal
+Comparison of debuggers
+Core dump
+Kernel debugger
+List of tools for static code analysis
+Memory debugger
+Packet analyzer
+Profiling
+Jonathan B  Rosenberg  How Debuggers Work  Algorithms, Data Structures, and Architecture  John Wiley   Sons  ISBN 0_471_14966_7  CS1 maint  Uses authors parameter 
+OpenRCE  Various Debugger Resources and Plug_ins
+IntelliTrace MSDN, Visual Studio 2015
+Debuggers
+Debugging
+Utility software types
+All articles lacking in_text citations
+Articles needing additional references from May 2015
+All articles needing additional references
+Articles needing additional references from April 2008
+Articles with too many examples
+CS1 maint  Uses authors parameter
+CS1 maint  Uses editors parameter
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Create a book
+Download as PDF
+Printable version
+       
+Az rbaycanca
+         
+Bosanski
+Catal 
+ e tina
+Dansk
+Deutsch
+        
+Espa ol
+Esperanto
+Euskara
+     
+Fran ais
+   
+Hrvatski
+Bahasa Indonesia
+ slenska
+Italiano
+     
+       
+      
+Bahasa Melayu
+Nederlands
+   
+Norsk bokm l
+Polski
+Portugu s
+       
+Simple English
+         srpski
+Srpskohrvatski                 
+Suomi
+Svenska
+   
+T rk e
+          
+Ti ng Vi t
+  
+This page was last edited on 12 June 2017, at 18 25 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+This is a list of debuggers
+ computer programs that are used to test and debug other programs
+1 Debuggers
+2 Debugger front_ends
+3 See also
+4 References
+5 External links
+Advanced Debugger The standard UNIX debugger
+Allinea DDT _ graphical debugger for debugging multithreaded and multiprocess applications on Linux platforms
+AQtime   profiler and memory resource debugger for Windows
+ARM Development Studio 5 
+CA EZTEST   was a CICS interactive test debug software package
+CodeView   was a debugger for the DOS platform
+DBG   a PHP Debugger and Profiler
+dbx   a proprietary source_level debugger for Pascal Fortran C C   on UNIX platforms
+DEBUG   the built_in debugger of DOS and Microsoft Windows
+GNU Debugger
+Opera Dragonfly   JavaScript and HTML DOM debugger
+Dynamic debugging technique , and its octal counterpart Octal Debugging Technique
+XPEDITER a proprietary source_level debugger for Assembler,COBOL   PL 1 on IBM platforms
+FusionDebug   interactive debugger for Adobe ColdFusion, Railo, and Lucee CFML Engines
+Parasoft Insure     a multi_platform memory debugger
+Intel Debugger
+Interactive Disassembler 
+Java Platform Debugger Architecture
+JSwat   open_source Java debugger
+LLDB
+MacsBug   a debugger for ancient MacOS releases
+Modular Debugger a C C   source level debugger for Solaris and derivates
+OllyDbg   a disassembly_based debugger for Windows 
+Omniscient Debugger   Forward and backward debugger for Java
+Python debugger
+IBM Rational Purify   multi_platform memory debugger
+sdb   a symbolic debugger for C programs for ancient UNIX platforms
+SIMMON 
+SoftICE   kernel mode debugger for Windows
+Lauterbach TRACE32   in_circuit debugger for embedded Systems
+Turbo Debugger Pascal C assembly debugger for DOS
+Ups   C, Fortran source level debugger
+Valgrind
+VB Watch Debugger   debugger for Visual Basic 6 0
+Microsoft Visual Studio Debugger   debugger for  NET and native Windows applications
+Xdebug   PHP debugger and profiler
+XPEDITER  family of mainframe debuggers
+Many Eclipse perspectives, e g  the Java Development Tools , 1  provide a debugger front_end 
+Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 
+Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 
+Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 
+Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 
+DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  
+DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  
+DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  
+DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  
+GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend 
+KDbg   Part of the KDE development tools 
+Nemiver   A GDB frontend that integrates well in the GNOME desktop environment 
+xxgdb   X_window frontend for GDB and dbx debugger 
+Qt Creator   multi_platform frontend for GDB, CDB and LLDB 
+Allinea s DDT   a parallel and distributed front_end to a modified version of GDB 
+Xcode   contains a GDB front_end as well 
+SlickEdit   contains a GDB front_end as well 
+Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB 
+Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB 
+CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB 
+CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB 
+CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb 
+RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+Comparison of debuggers
+13 Linux Debuggers for C   Reviewed
+Debuggers
+Lists of software
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Create a book
+Download as PDF
+Printable version
+This page was last edited on 20 April 2017, at 15 03 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Go through the following examples to understand the procedure of debugging a program and core dumped
+ Debugging Example 2 This example demonstrates a program that can dump a core due to non_initialized memory
+Debugging Example 1
+Debugging Example 2
+  Copyright 2017
+ All Rights Reserved
+Jobs
+ SENDFiles
+ Whiteboard
+ Net Meeting
+Tools
+ Articles
+Facebook Google  Twitter Linkedin YouTube
+Facebook
+Google 
+Twitter
+Linkedin
+YouTube
+Home
+Tutorials Library
+Coding Ground
+Tutor Connect
+Videos
+Search
+GNU Debugger Tutorial
+GDB _ Home
+GDB _ What is GDB 
+GDB _ Installation
+GDB _ Debugging Symbols
+GDB _ Commands
+GDB _ Summary
+GNU Debugger Useful Resources
+GDB _ Quick Guide
+GDB _ Resources
+GDB _ Discussion
+Selected Reading
+Developer s Best Practices
+Questions and Answers
+Effective Resume Writing
+HR Interview Questions
+Computer Glossary
+Who is Who
+Write for us
+FAQ s
+Helping
+Contact
+The following sections describe debugger command programs
+The following example uses the 
+foreach token to search for WORD values of 5a4d
+The following example uses the 
+foreach token to search for WORD values of 5a4d
+ For each 5a4d value that is found, the debugger displays 8 DWORD values, starting 4 bytes prior to the address where the 5a4d DWORD was found
+Note If you want to operate on the variable name in the OutCommands portion of the command, you must add a space after the variable name
+Note If you want to operate on the variable name in the OutCommands portion of the command, you must add a space after the variable name
+ For example, in the preceeding example, there is a space between the variable place and the subtraction operator
+ For example, in the preceeding example, there is a space between the variable place and the subtraction operator
+The _ option together with the s command causes its output to include only the addresses it finds, not the values that are found at those addresses
+The 1m option together with the lm command causes its output to include only the addresses of the modules, not the full description of the modules
+The preceding example uses the      token to make sure aliases are replaced even if they are next to other text
+ Note that the     token works on the variables that are used in 
+ Note that the     token works on the variables that are used in 
+foreach and on true aliases
+ This command loads the whole file, replaces all carriage returns with semicolons, and executes the resulting block
+ This command enables you to write readable programs by using multiple lines and indentation, instead of having to squeeze the whole program onto a single line
+This example illustrates the following features
+ The  t0,  t1, and  t2 pseudo_registers are used as variables in this program
+ The program also uses aliases named Procc and  ImageName
+ This program uses the MASM expression evaluator
+ This token causes the program to use the C   expression evaluator to parse the expression within the parentheses
+ This usage enables the program to use the C   structure tokens directly
+ The   flag is used with the r command
+The  t0,  t1, and  t2 pseudo_registers are used as variables in this program
+ The program also uses aliases named Procc and  ImageName
+This program uses the MASM expression evaluator
+ This token causes the program to use the C   expression evaluator to parse the expression within the parentheses
+ This usage enables the program to use the C   structure tokens directly
+The   flag is used with the r command
+This example illustrates the following features
+ This program uses the MASM expression evaluator
+ However, in two places, the   c  token appears
+ This token causes the program to use the C   expression evaluator to parse the expression within the parentheses
+ This usage enables the program to use C   structure tokens directly
+ The   flag is used with the r command
+ In the body of the loop,  t1 has the type ntdll _LDR_DATA_TABLE_ENTRY  , so the program can make direct member references
+ In the body of the loop,  t1 has the type ntdll _LDR_DATA_TABLE_ENTRY  , so the program can make direct member references
+ The user_named aliases  Base and  Mod are used in this program
+ The dollar signs reduce the possibility that these aliases have been used previously in the current debugger session
+ The dollar signs are not necessary
+ The    v
+   token interprets the alias literally, preventing it from being replaced if it was defined before the script is run
+ The 
+block token is used to add an extra alias replacement step
+ Alias replacement occurs one time for the whole script when it is loaded and one time when each block is entered
+ Without the 
+block token and its braces, the 
+echo command does not receive the values of the  Mod and  Base aliases that are assigned in the previous lines
+This program uses the MASM expression evaluator
+ However, in two places, the   c  token appears
+ This token causes the program to use the C   expression evaluator to parse the expression within the parentheses
+ This usage enables the program to use C   structure tokens directly
+The   flag is used with the r command
+ In the body of the loop,  t1 has the type ntdll _LDR_DATA_TABLE_ENTRY  , so the program can make direct member references
+ In the body of the loop,  t1 has the type ntdll _LDR_DATA_TABLE_ENTRY  , so the program can make direct member references
+The user_named aliases  Base and  Mod are used in this program
+ The dollar signs reduce the possibility that these aliases have been used previously in the current debugger session
+ The dollar signs are not necessary
+ The    v
+   token interprets the alias literally, preventing it from being replaced if it was defined before the script is run
+The 
+block token is used to add an extra alias replacement step
+ Alias replacement occurs one time for the whole script when it is loaded and one time when each block is entered
+ Without the 
+block token and its braces, the 
+echo command does not receive the values of the  Mod and  Base aliases that are assigned in the previous lines
+Send comments about this topic to Microsoft
+Comments
+Edit
+Share Twitter Facebook
+ 
+Theme Light Dark
+Blog
+Privacy   Cookies
+Terms of Use
+Feedback
+Impressum
+Trademarks
+Errors can happen, every time you write some new computer code
+Many of these errors are difficult to diagnose
+Often, when programming code contains errors, nothing will happen
+ There are no error messages, and you will get no indications where to search for errors
+ There are no error messages, and you will get no indications where to search for errors
+ Searching for errors in programming code is called code debugging
+Debugging is not easy
+If your browser supports debugging, you can use console
+If your browser supports debugging, you can use console
+logto display JavaScript values in the debugger window
+In the debugger window, you can set breakpoints in the JavaScript code
+In the debugger window, you can set breakpoints in the JavaScript code
+In the debugger window, you can set breakpoints in the JavaScript code
+At each breakpoint, JavaScript will stop executing, and let you examine JavaScript values
+After examining values, you can resume the execution of code 
+The debugger keyword stops the execution of JavaScript, and calls the debugging function
+The debugger keyword stops the execution of JavaScript, and calls the debugging function
+This has the same function as setting a breakpoint in the debugger
+If no debugging is available, the debugger statement has no effect
+If no debugging is available, the debugger statement has no effect
+With the debugger turned on, this code will stop executing before it executes the third line
+Otherwise follow these steps
+Debugging is the process of testing, finding, and reducing bugs in computer programs
+Debugging is the process of testing, finding, and reducing bugs in computer programs
+ The first known computer bug was a real bug stuck in the electronics
+ The first known computer bug was a real bug stuck in the electronics
+Tabs Dropdowns Accordions Convert Weights Animated Buttons Side Navigation Top Navigation JS Animations Modal Boxes Progress Bars Parallax Login Form HTML Includes Google Maps Loaders Tooltips Slideshow Filter List Sort List
+HTML, CSS, JavaScript, PHP, jQuery, Bootstrap and XML
+Open the browser 
+From the menu, select tools 
+Finally, select Console 
+Open the browser 
+Go to the web page  http   www getfirebug com
+Follow the instructions how to  install Firebug
+Open the browser 
+From the menu, select tools 
+Finally, select Console 
+Open the browser 
+Go to the webpage  http   dev opera com
+Follow the instructions how to  add a Developer Console button to your toolbar 
+Open the browser 
+Go to the webpage  http   safari_extensions apple com
+Follow the instructions how to  install Firebug Lite 
+Go to Safari, Preferences, Advanced in the main menu 
+Check  Enable Show Develop menu in menu bar  
+Debugging, in computer programming and engineering, is a multistep process that involves identifying a problem, isolating the source of the problem, and then either correcting the problem or determining a way to work around it
+ The final step of debugging is to test the correction or workaround and make sure it works
+Understand respected criteria for quality assurance, tracking changes, and see a review of 5 great tools for developers
+Understand respected criteria for quality assurance, tracking changes, and see a review of 5 great tools for developers
+Understand respected criteria for quality assurance, tracking changes, and see a review of 5 great tools for developers
+Understand respected criteria for quality assurance, tracking changes, and see a review of 5 great tools for developers
+This email address doesn t appear to be valid
+This email address is already registered
+ Please login
+Please provide a Corporate E_mail Address
+By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent
+ Debugging is part of the software testing process and is an integral part of the entire software development lifecycle
+ Debugging is part of the software testing process and is an integral part of the entire software development lifecycle
+ Debugging is part of the software testing process and is an integral part of the entire software development lifecycle
+ The debugging process starts as soon as code is written and continues in successive stages as code is combined with other units of programming to form a software product
+ In a large program that has thousands and thousands of lines of code, the debugging process can be made easier by using strategies such as unit tests, code reviews and pair programming
+ In a large program that has thousands and thousands of lines of code, the debugging process can be made easier by using strategies such as unit tests, code reviews and pair programming
+ In a large program that has thousands and thousands of lines of code, the debugging process can be made easier by using strategies such as unit tests, code reviews and pair programming
+Once an error has been identified, it is necessary to actually find the error in the code
+ At this point, it can be useful to look at the code s logging and use a stand_alone debugger tool or the debugging component of an integrated development environment 
+ Invariably, the bugs in the functions that get most use are found and fixed first
+ In some cases, the module that presents the problem is obvious, while the line of code itself is not
+ In that case, unit tests __ such as JUnit and xUnit, which allow the programmer to run a specific function with specific inputs __ can be helpful in debugging
+ In that case, unit tests __ such as JUnit and xUnit, which allow the programmer to run a specific function with specific inputs __ can be helpful in debugging
+The standard practice is to set up a  breakpoint  and run the program until that breakpoint, at which time program execution stops
+The standard practice is to set up a  breakpoint  and run the program until that breakpoint, at which time program execution stops
+ The debugging component of an IDE typically provides the programmer with the capability to view memory and see variables, run the program to the next breakpoint, execute just the next line of code, and, in some cases, change the value of variables or even change the contents of the line of code about to be executed
+Source code analyzers, which include security, common code errors and complexity analyzers, can also be helpful in debugging
+ A complexity analyzer can find modules that are so intricate as to be hard to understand and test
+ Other debugging tools include advanced logging and simulators that allow the programmer to model how an app on a mobile device will display and behave
+Some tools, especially open source tools and scripting languages, do not run in an IDE and require a more manual approach to debugging
+The use of the word bug as a synonym for error originated in engineering
+ The term s application to computing and the inspiration for using the word debugging as a synonym for troubleshooting has been attributed to Admiral Grace Hopper, a pioneer in computer programming, who was also known for her dry sense of humor
+ The term s application to computing and the inspiration for using the word debugging as a synonym for troubleshooting has been attributed to Admiral Grace Hopper, a pioneer in computer programming, who was also known for her dry sense of humor
+S
+ Navy s first computer, Admiral Hopper and her team  debugged  the computer and saved the moth
+ Navy s first computer, Admiral Hopper and her team  debugged  the computer and saved the moth
+ Navy s first computer, Admiral Hopper and her team  debugged  the computer and saved the moth
+Find more PRO  content and other member only offers, here
+Agile automation techniques answer the need for development speed
+Data analytics metrics can be the answer to optimized app performance
+Margaret Rouse asks
+ Privacy
+Microsoft delivers Draft, a new tool that simplifies Kubernetes cluster management by easing the development and deployment of 
+Many organizations struggle to bring development and operations together, only to realize that effective DevOps means 
+Find out how Cure
+org improved application performance management to fine tune their website, increase donations, and make a 
+How is big data and IT helping the agriculture industry  By looking at information in new ways, technology is helping to improve 
+Red Hat adds to its OpenShift
+Techniques and tools abound for cloud app development
+The cloud was supposed to save us
+Mobile app users want a consistent experience for all apps __ on all devices
+ AWS Device Farm tests application features but 
+In this chapter excerpt from Serverless Architectures on AWS, author Peter Sbarski shares five tricks developers can use to 
+While much of the developer community turns to Kubernetes to schedule containers, open source AWS Blox could carve out a niche 
+Lenovo and Autodesk are two organizations that are increasing their use of the cloud for analytics applications, looking to lower
+When deploying deep learning models into production, experts say it s important to take care of the basics, like model design and
+After forming a new joint venture, LifeWorks, HCM vendor Ceridian uses LifeWorks  employee recognition, engagement and perks 
+Choose your talent management system wisely or risk irking your employees
+ Learn the criteria for evaluating software that 
+Retailers such as Walmart are beginning to offer self_service health kiosks that allow patients to check their vital signs while 
+For Brent Shafer, CEO of Philips North America, the name of the health IT game is connected care
+ Shafer explains that this is 
+Despite some health IT experts saying that certain challenges are keeping genomics in healthcare from happening, there are other 
+All Rights Reserved, Copyright 2006 _ 2017, TechTarget
+Techtarget Network
+News
+Features
+Tips
+Agile DevOps
+Answers
+Buyer s Guides
+Essential Guides
+Opinions
+Photo Stories
+Podcasts
+Quizzes
+Tutorials
+Sponsored Communities
+SearchSoftwareQuality
+Topic Software Testing ALM Models and Methodologies Project Management Requirements Security Testing and QA All Topics
+SubTopic Mobile Testing Automated Software Testing Cloud Application Testing Cloud Computing Testing and Development Exploratory Testing Mobile Testing Regression Testing Software Test Design Software Testing Methodologies Testing Tools and Frameworks User Acceptance Testing Software Performance Testing Functional Software Testing All Subtopics
+SubTopic Mobile Testing Automated Software Testing Cloud Application Testing Cloud Computing Testing and Development Exploratory Testing Mobile Testing Regression Testing Software Test Design Software Testing Methodologies Testing Tools and Frameworks User Acceptance Testing Software Performance Testing Functional Software Testing All Subtopics
+ALM
+Models and Methodologies
+Project Management
+Requirements
+Security Testing and QA
+All Topics
+Automated Software Testing
+Cloud Application Testing
+Cloud Computing Testing and Development
+Exploratory Testing
+Mobile Testing
+Regression Testing
+Software Test Design
+Software Testing Methodologies
+Testing Tools and Frameworks
+User Acceptance Testing
+Software Performance Testing
+Functional Software Testing
+All Subtopics
+Follow 
+Home
+Mobile Testing
+Programming
+debugging
+Share this item with your network 
+By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent 
+Debugging, tracing and profiling
+The Art of Debugging 
+Get expert advice on debugging a webpage
+Better software through debugging and unit testing
+How to use unit testing to debug programs
+All
+News
+Get Started
+Evaluate
+Manage
+Problem Solve
+What s the future of software testing  Start with data science
+Why mobile application emulator choices for test and QA can be tricky
+What s the future of software testing  Start with data science
+QUEST speakers confirm mobile test automation vital for performance
+Why continuous testing is gaining ground, but not enough
+Understand the importance of a mobile testing strategy
+device cloud
+A primer on automated API testing
+Consider these requirements when building B2B mobile apps
+Why mobile application emulator choices for test and QA can be tricky
+The future of software testing  It s a brave new world
+The future of software testing  It s a brave new world
+How can a virtualized network help with app testing 
+Find the right recipe for mobile business apps
+Should I get to know customer experience testing 
+A primer on automated API testing
+Find the right recipe for mobile business apps
+Tips for enterprise mobile app deployment
+Roundup of mobile emulator tools
+Reviewing open source Appium
+Mobile testing tutorial  Testers transition from Web to mobile apps
+ehandbook_cover Agile automation techniques answer the need for development speed
+E_Handbook Data analytics metrics can be the answer to optimized app performance
+Margaret Rouse asks  What debugging tips do you have that work well  Join the Discussion
+ 
+ 
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+ 
+Microservices
+Java
+Cloud Applications
+AWS
+Business Analytics
+Financial Applications
+Health IT
+Microsoft s Draft eases Kubernetes cluster management, app development Microsoft delivers Draft, a new tool that simplifies Kubernetes cluster management by easing the development and deployment of    
+Microsoft s Draft eases Kubernetes cluster management, app development Microsoft delivers Draft, a new tool that simplifies Kubernetes cluster management by easing the development and deployment of    
+Effective DevOps hinges on automating a continuous delivery pipeline Many organizations struggle to bring development and operations together, only to realize that effective DevOps means    
+Changing lives through improved application performance Find out how Cure org improved application performance management to fine tune their website, increase donations, and make a    
+Improving plant production performance with IT in the agriculture industry How is big data and IT helping the agriculture industry  By looking at information in new ways, technology is helping to improve    
+Red Hat expands its container strategy with Codenvy acquisition Red Hat adds to its OpenShift io cloud_based integrated development environment with its acquisition of Codenvy, a maker of    
+Beware the dreaded scourge of cloud sprawl  Act now or lose control The cloud was supposed to save us  So, why are we now suffering from dreaded cloud sprawl, and what should we do about it  Cloud    
+AWS Device Farm testing doesn t give full performance picture Mobile app users want a consistent experience for all apps __ on all devices  AWS Device Farm tests application features but    
+AWS Device Farm testing doesn t give full performance picture Mobile app users want a consistent experience for all apps __ on all devices  AWS Device Farm tests application features but    
+AWS Device 

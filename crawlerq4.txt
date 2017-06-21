@@ -1,8 +1,1324 @@
-Sentiment Analysis is an ongoing field of research in text mining field.
- SA is the computational treatment of opinions, sentiments and subjectivity of text.
- This survey paper tackles a comprehensive overview of the last update in this field.
- Many recently proposed algorithms  enhancements and various SA applications are investigated and presented briefly in this survey.
- These articles are categorized according to their contributions in the various SA techniques.
- The related fields to SA that attracted researchers recently are discussed.
- The main target of this survey is to give nearly full image of SA techniques and the related fields with brief details.
- The main contributions of this paper include the sophisticated categorizations of a large number of recent articles and the illustration of the recent trend of research in the sentiment analysis and its related areas.
+A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated
+A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated
+ The most popular example of a database model is the relational model, which uses a table_based format
+ The most popular example of a database model is the relational model, which uses a table_based format
+Common logical data models for databases include
+ Hierarchical database model
+ Network model
+ Relational model
+ Entity relationship model Enhanced entity relationship model
+ Object model
+ Document model
+ Entity attribute value model
+ Star schema
+An object_relational database combines the two related structures
+Physical data models include
+ Inverted index
+ Flat file
+Other models include
+ Associative model
+ Correlational model
+ Multidimensional model
+ Multivalue model
+ Semantic model
+ XML database
+ Named graph
+ Triplestore
+A given database management system may provide one or more models
+ The optimal structure depends on the natural organization of the application s data, and on the application s requirements, which include transaction rate , reliability, maintainability, scalability, and cost
+ Most database management systems are built around one particular data model, although it is possible for products to offer support for more than one model
+Various physical data models can implement any given logical model
+ Most database software will offer the user some level of control in tuning the physical implementation, since the choices that are made have a significant effect on performance
+A model is not just a way of structuring data
+ The relational model, for example, defines operations such as select and join
+ Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
+ Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
+ Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
+The flat model consists of a single, two_dimensional array of data elements, where all members of a given column are assumed to be similar values, and all members of a row are assumed to be related to one another
+The flat model consists of a single, two_dimensional array of data elements, where all members of a given column are assumed to be similar values, and all members of a row are assumed to be related to one another
+ For instance, columns for name and password that might be used as a part of a system security database
+ Each row would have the specific password associated with an individual user
+ This tabular format is a precursor to the relational model
+These models were popular in the 1960s, 1970s, but nowadays can be found primarily in old legacy systems
+ They are characterized primarily by being navigational with strong connections between their logical and physical representations, and deficiencies in data independence
+In a hierarchical model, data is organized into a tree_like structure, implying a single parent for each record
+In a hierarchical model, data is organized into a tree_like structure, implying a single parent for each record
+ A sort field keeps sibling records in a particular order
+ Hierarchical structures were widely used in the early mainframe database management systems, such as the Information Management System by IBM, and now describe the structure of XML documents
+ This structure allows one one_to_many relationship between two types of data
+ This structure is very efficient to describe many relationships in the real world  recipes, table of contents, ordering of paragraphs verses, any nested and sorted information
+ This structure is very efficient to describe many relationships in the real world  recipes, table of contents, ordering of paragraphs verses, any nested and sorted information
+This hierarchy is used as the physical order of records in storage
+ Such limitations have been compensated for in later IMS versions by additional logical hierarchies imposed on the base physical hierarchy
+The network model expands upon the hierarchical structure, allowing many_to_many relationships in a tree_like structure that allows multiple parents
+ It was most popular before being replaced by the relational model, and is defined by the CODASYL specification
+ It was most popular before being replaced by the relational model, and is defined by the CODASYL specification
+The network model organizes data using two fundamental concepts, called records and sets
+ Records contain fields 
+ Sets define one_to_many relationships between records
+ one owner, many members
+ A record may be an owner in any number of sets, and a member in any number of sets
+g
+, type A is the owner of B
+ At the same time another set may be defined where B is the owner of A
+ Thus all the sets comprise a general directed graph , or network construct
+ Access to records is either sequential or by navigation in the circular linked lists
+The network model is able to represent redundancy in data more efficiently than in the hierarchical model, and there can be more than one path from an ancestor node to a descendant
+The network model is able to represent redundancy in data more efficiently than in the hierarchical model, and there can be more than one path from an ancestor node to a descendant
+ a program maintains a current position, and navigates from one record to another by following the relationships in which the record participates
+ Records can also be located by supplying key values
+Although it is not an essential feature of the model, network databases generally implement the set relationships by means of pointers that directly address the location of a record on disk
+ This gives excellent retrieval performance, at the expense of operations such as database loading and reorganization
+Popular DBMS products that utilized it were Cincom Systems  Total and Cullinet s IDMS
+ IDMS gained a considerable customer base  in the 1980s, it adopted the relational model and SQL in addition to its original tools and languages
+ IDMS gained a considerable customer base  in the 1980s, it adopted the relational model and SQL in addition to its original tools and languages
+Most object databases use the navigational concept to provide fast navigation across networks of objects, generally using object identifiers as  smart  pointers to related objects
+In an inverted file or inverted index, the contents of the data are used as keys in a lookup table, and the values in the table are pointers to the location of each instance of a given content item
+In an inverted file or inverted index, the contents of the data are used as keys in a lookup table, and the values in the table are pointers to the location of each instance of a given content item
+ The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
+ The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
+ The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
+ The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
+Notable for using this data model is the ADABAS DBMS of Software AG, introduced in 1970
+Notable for using this data model is the ADABAS DBMS of Software AG, introduced in 1970
+ In the 1980s it has adopted the relational model and SQL in addition to its original tools and languages
+ Clusterpoint query language JS SQL blends together SQL and JavaScript syntax with full text search, where inverted index is being used to deliver milliseconds_range text search performance and relevant pagination in web and mobile applications
+The relational model was introduced by E
+F
+ It is a mathematical model defined in terms of predicate logic and set theory, and systems implementing it have been used by mainframe, midrange and microcomputer systems
+ It is a mathematical model defined in terms of predicate logic and set theory, and systems implementing it have been used by mainframe, midrange and microcomputer systems
+The products that are generally referred to as relational databases in fact implement a model that is only an approximation to the mathematical model defined by Codd
+The products that are generally referred to as relational databases in fact implement a model that is only an approximation to the mathematical model defined by Codd
+ relations, attributes, and domains
+ A relation is a table with columns and rows
+ The named columns of the relation are called attributes, and the domain is the set of values the attributes are allowed to take
+The basic data structure of the relational model is the table, where information about a particular entity is represented in rows and columns
+The basic data structure of the relational model is the table, where information about a particular entity is represented in rows and columns
+ Thus, the  relation  in  relational database  refers to the various tables in the database  a relation is a set of tuples
+ Thus, the  relation  in  relational database  refers to the various tables in the database  a relation is a set of tuples
+ The columns enumerate the various attributes of the entity , and a row is an actual instance of the entity that is represented by the relation
+ The columns enumerate the various attributes of the entity , and a row is an actual instance of the entity that is represented by the relation
+ The columns enumerate the various attributes of the entity , and a row is an actual instance of the entity that is represented by the relation
+ The columns enumerate the various attributes of the entity , and a row is an actual instance of the entity that is represented by the relation
+ As a result, each tuple of the employee table represents various attributes of a single employee
+ First, the ordering of columns is immaterial in a table
+ Second, there can t be identical tuples or rows in a table
+A relational database contains multiple tables, each similar to the one in the  flat  database model
+ One of the strengths of the relational model is that, in principle, any value occurring in two different records , implies a relationship among those two records
+ Yet, in order to enforce explicit integrity constraints, relationships between records in tables can also be defined explicitly, by identifying or non_identifying parent_child relationships characterized by assigning cardinality  1
+1, 1
+M, M
+M 
+ Tables can also have a designated single attribute or a set of attributes that can act as a  key , which can be used to uniquely identify each tuple in the table
+ For example, an Employee table may contain a column named Location which contains a value that matches the key of a Location table
+ Any column can be a key, or multiple columns can be grouped together into a compound key
+ It is not necessary to define all the keys in advance  a column can be used as a key even if it was not originally intended to be one
+ It is not necessary to define all the keys in advance  a column can be used as a key even if it was not originally intended to be one
+ It is not necessary to define all the keys in advance  a column can be used as a key even if it was not originally intended to be one
+ It is not necessary to define all the keys in advance  a column can be used as a key even if it was not originally intended to be one
+ If no natural key is suitable , an arbitrary or surrogate key can be assigned 
+ In practice, most databases have both generated and natural keys, because generated keys can be used internally to create links between rows that cannot break, while natural keys can be used, less reliably, for searches and for integration with other databases
+ In practice, most databases have both generated and natural keys, because generated keys can be used internally to create links between rows that cannot break, while natural keys can be used, less reliably, for searches and for integration with other databases
+ 
+The most common query language used with the relational model is the Structured Query Language 
+The most common query language used with the relational model is the Structured Query Language 
+The dimensional model is a specialized adaptation of the relational model used to represent data in data warehouses in a way that data can be easily summarized using online analytical processing, or OLAP queries
+The dimensional model is a specialized adaptation of the relational model used to represent data in data warehouses in a way that data can be easily summarized using online analytical processing, or OLAP queries
+ In the dimensional model, a database schema consists of a single large table of facts that are described using dimensions and measures
+ A dimension provides the context of a fact and is used in queries to group related facts together
+ A dimension provides the context of a fact and is used in queries to group related facts together
+ A measure is a quantity describing the fact, such as revenue
+ It is important that measures can be meaningfully aggregated for example, the revenue from different locations can be added together
+In an OLAP query, dimensions are chosen and the facts are grouped and aggregated together to create a summary
+In an OLAP query, dimensions are chosen and the facts are grouped and aggregated together to create a summary
+ An alternative physical implementation, called a snowflake schema, normalizes multi_level hierarchies within a dimension into multiple tables
+A data warehouse can contain multiple dimensional schemas that share dimension tables, allowing them to be used together
+ Coming up with a standard set of dimensions is an important part of dimensional modeling
+ Coming up with a standard set of dimensions is an important part of dimensional modeling
+ Alternate terms include  hybrid database ,  Object_enhanced RDBMS  and others
+F
+ Codd s Information Principle, which requires that
+ For example, they allow representation of a directed graph with trees on the nodes
+ The German company sones implements this concept in its GraphDB
+Some post_relational products extend relational systems with non_relational features
+ Others arrived in much the same place by adding relational features to pre_relational systems
+ Others arrived in much the same place by adding relational features to pre_relational systems
+ Paradoxically, this allows products that are historically pre_relational, such as PICK and MUMPS, to make a plausible claim to be post_relational
+The resource space model is a non_relational data model based on multi_dimensional classification
+The resource space model is a non_relational data model based on multi_dimensional classification
+Graph databases allow even more general structure than a network database  any node may be connected to any other node
+Multivalue databases are  lumpy  data, in that they can store exactly the same way as relational databases, but they also permit a level of depth which the relational model can only approximate using sub_tables
+ This is nearly identical to the way XML expresses data, where a given field attribute can have multiple right answers at the same time
+ Multivalue can be thought of as a compressed form of XML
+An example is an invoice, which in either multivalue or relational data could be seen as Invoice Header Table _ one entry per invoice, and Invoice Detail Table _ one entry per line item
+ In the multivalue model, we have the option of storing the data as on table, with an embedded table to represent the detail
+ Invoice Table _ one entry per invoice, no other tables needed
+ This also results in fewer reads, less referential integrity issues, and a dramatic decrease in the hardware needed to support a given transaction volume
+ This aims to avoid the object_relational impedance mismatch _ the overhead of converting information between its representation in the database and its representation in the application program 
+ Even further, the type system used in a particular application can be defined directly in the database, allowing the database to enforce the same data integrity invariants
+A variety of these ways have been triedfor storing objects in a database
+ This typically requires the addition of some kind of query language, since conventional programming languages do not have the ability to find objects based on their information content
+ This typically requires the addition of some kind of query language, since conventional programming languages do not have the ability to find objects based on their information content
+ Others have attacked the problem from the database end, by defining an object_oriented data model for the database, and defining a database programming language that allows full programming capabilities as well as traditional query facilities
+ usually specialized applications such as engineering databases or molecular biology databases rather than mainstream commercial data processing
+An alternative to translating between objects and relational databases is to use an object_relational mapping library
+1 Examples
+2 Relationships and functions
+3 Flat model
+4 Early data models 4 1 Hierarchical model 4 2 Network model 4 3 Inverted file model
+5 Relational model 5 1 Dimensional model
+6 Post_relational database models 6 1 Graph model 6 2 Multivalue model 6 3 Object_oriented database models
+7 References
+4 1 Hierarchical model
+4 2 Network model
+4 3 Inverted file model
+5 1 Dimensional model
+6 1 Graph model
+6 2 Multivalue model
+6 3 Object_oriented database models
+v
+t
+e
+Flat
+Hierarchical
+Dimensional
+Network
+Relational
+Entity relationship Enhanced
+Graph
+Object_oriented
+Entity attribute value
+Enhanced
+Associative
+Correlational
+Multidimensional
+Array
+Semantic
+Star schema
+XML database
+Flat file
+Column_oriented
+Document_oriented
+Object_relational
+Deductive
+Temporal
+XML data stores
+Triplestores
+v
+t
+e
+Architecture
+Modeling
+Structure
+Conceptual
+Logical
+Physical
+Database
+Data structure diagram
+Entity relationship model 
+Geographic
+Generic
+Semantic
+Data flow diagram
+Information model
+Object model
+Object_role modeling
+Unified Modeling Language
+Database design
+Business process modeling
+Core architecture data model
+Enterprise modelling
+Function model
+Process modeling
+XML schema
+Data Format Description Language
+v
+t
+e
+Requirements
+Theory
+Models
+Database management system
+Machine
+Server
+Application
+Connection datasource DSN
+Administrator
+Lock
+Types
+Tools
+datasource
+DSN
+Data definition
+Data manipulation
+Query information retrieval
+information retrieval
+Activity monitoring
+Audit
+Forensics
+Negative database
+Entities and relationships 
+Normalization
+Refactoring
+Abstraction layer
+Object_relational mapping
+Virtualization
+Tuning caching
+Migration
+Preservation
+Integrity
+caching
+Database_centric architecture
+Intelligent database
+Two_phase locking
+Locks with ordered sharing
+Load file
+Publishing
+Halloween Problem
+Log shipping
+Book
+Category
+WikiProject
+v
+t
+e
+Object_oriented comparison
+Relational comparison
+Document_oriented
+Graph
+NoSQL
+NewSQL
+comparison
+comparison
+Database
+ACID
+Armstrong s axioms
+CAP theorem
+CRUD
+Null
+Candidate key
+Foreign key
+Superkey
+Surrogate key
+Unique key
+Relation table column row
+View
+Transaction
+Transaction log
+Trigger
+Index
+Stored procedure
+Cursor
+Partition
+table
+column
+row
+Concurrency control
+Data dictionary
+JDBC
+XQJ
+ODBC
+Query language
+Query optimizer
+Query plan
+Administration and automation
+Query optimization
+Replication
+Database models
+Database normalization
+Database storage
+Distributed database
+Federated database system
+Referential integrity
+Relational algebra
+Relational calculus
+Relational database
+Relational DBMS
+Relational model
+Object_relational database
+Transaction processing
+v
+t
+e
+Computer programming
+Requirements engineering
+Software deployment
+Software design
+Software maintenance
+Software testing
+Systems analysis
+Formal methods
+Data modeling
+Enterprise architecture
+Functional specification
+Modeling language
+Orthogonality
+Programming paradigm
+Software
+Software archaeology
+Software architecture
+Software configuration management
+Software development methodology
+Software development process
+Software quality
+Software quality assurance
+Software verification and validation
+Structured analysis
+Agile
+Aspect_oriented
+Object orientation
+Ontology
+Service orientation
+SDLC
+Agile
+EUP
+Executable UML
+Incremental model
+Iterative model
+Prototype model
+RAD
+UP
+Scrum
+Spiral model
+V_Model
+Waterfall model
+XP
+SPICE
+CMMI
+Data model
+ER model
+Function model
+Information model
+Metamodeling
+Object model
+Systems model
+View model
+IDEF
+UML
+SysML
+Kathleen Antonelli
+Jean Bartik
+Victor Basili
+Kent Beck
+Grady Booch
+Fred Brooks
+Barry Boehm
+Danese Cooper
+Ward Cunningham
+Tom DeMarco
+Edsger W  Dijkstra
+Martin Fowler
+Adele Goldstine
+Margaret Hamilton
+C  A  R  Hoare
+Lois Haibt
+Betty Holberton
+Grace Hopper
+Watts Humphrey
+Michael A  Jackson
+Ivar Jacobson
+Alan Kay
+Stephen J  Mellor
+Marlyn Meltzer
+Bertrand Meyer
+David Parnas
+Winston W  Royce
+James Rumbaugh
+Mary Shaw
+Frances Spence
+Ruth Teitelbaum
+Klara Dan von Neumann
+Elaine Weyuker
+Niklaus Wirth
+Edward Yourdon
+Computer science
+Computer engineering
+Project management
+Risk management
+Systems engineering
+Category
+Commons
+Database management systems
+Database models
+All articles to be merged
+All articles lacking in_text citations
+Pages using more footnotes with unknown parameters
+Pages using more footnotes with unknown parameters
+Articles with specifically marked weasel_worded phrases from October 2009
+All articles with specifically marked weasel_worded phrases
+Articles with specifically marked weasel_worded phrases from June 2012
+Articles with specifically marked weasel_worded phrases from November 2009
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Create a book
+Download as PDF
+Printable version
+Wikimedia Commons
+       
+Deutsch
+Espa ol
+     
+   
+       
+Magyar
+      
+Nederlands
+Polski
+Shqip
+     
+This page was last edited on 10 June 2017, at 07 41 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+A database model shows the logical structure of a database, including the relationships and constraints that determine how data can be stored and accessed
+ Individual database models are designed based on the rules and concepts of whichever broader data model the designers adopt
+ Most data models can be represented by an accompanying database diagram
+There are many kinds of data models
+ Some of the most common ones include
+ Hierarchical database model
+ Relational model
+ Network model
+ Object_oriented database model
+ Entity_relationship model
+ Document model
+ Entity_attribute_value model
+ Star schema
+ The object_relational model, which combines the two that make up its name
+You may choose to describe a database with any one of these depending on several factors
+ The biggest factor is whether the database management system you are using supports a particular model
+ Most database management systems are built with a particular data model in mind and require their users to adopt that model, although some do support multiple models
+In addition, different models apply to different stages of the database design process
+ High_level conceptual data models are best for mapping out relationships between data in ways that people perceive that data
+ Record_based logical models, on the other hand, more closely reflect ways that the data is stored on the server
+Selecting a data model is also a matter of aligning your priorities for the database with the strengths of a particular model, whether those priorities include speed, cost reduction, usability, or something else
+Selecting a data model is also a matter of aligning your priorities for the database with the strengths of a particular model, whether those priorities include speed, cost reduction, usability, or something else
+Let s take a closer look at some of the most common database models
+The most common model, the relational model sorts data into tables, also known as relations, each of which consists of columns and rows
+ Each column lists an attribute of the entity in question, such as price, zip code, or birth date
+The model also accounts for the types of relationships between those tables, including one_to_one, one_to_many, and many_to_many relationships
+ Here s an example
+Within the database, tables can be normalized, or brought to comply with normalization rules that make the database flexible, adaptable, and scalable
+ When normalized, each piece of data is atomic, or broken into the smallest useful pieces
+ The model was introduced by E
+F
+ Codd in 1970
+The hierarchical model organizes data into a tree_like structure, where each record has a single parent or root
+The hierarchical model organizes data into a tree_like structure, where each record has a single parent or root
+ Sibling records are sorted in a particular order
+ That order is used as the physical order for storing the database
+ This model is good for describing many real_world relationships
+The network model builds on the hierarchical model by allowing many_to_many relationships between linked records, implying multiple parent records
+The network model builds on the hierarchical model by allowing many_to_many relationships between linked records, implying multiple parent records
+ Each set consists of one owner or parent record and one or more member or child records
+ A record can be a member or child in multiple sets, allowing this model to convey complex relationships
+ A record can be a member or child in multiple sets, allowing this model to convey complex relationships
+It was most popular in the 70s after it was formally defined by the Conference on Data Systems Languages 
+This model defines a database as a collection of objects, or reusable software elements, with associated features and methods
+ There are several kinds of object_oriented databases
+A hypertext database allows any object to link to any other object
+ It s useful for organizing lots of disparate data, but it s not ideal for numerical analysis
+The object_oriented database model is the best known post_relational database model, since it incorporates tables, but isn t limited to tables
+This hybrid database model combines the simplicity of the relational model with some of the advanced functionality of the object_oriented database model
+ In essence, it allows designers to incorporate objects into the familiar table structure
+Languages and call interfaces include SQL3, vendor languages, ODBC, JDBC, and proprietary call interfaces that are extensions of the languages and interfaces used by the relational model
+Languages and call interfaces include SQL3, vendor languages, ODBC, JDBC, and proprietary call interfaces that are extensions of the languages and interfaces used by the relational model
+This model captures the relationships between real_world entities much like the network model, but it isn t as directly tied to the physical structure of the database
+ Instead, it s often used for designing a database conceptually
+Here, the people, places, and things about which data points are stored are referred to as entities, each of which has certain attributes that together make up their domain
+Here, the people, places, and things about which data points are stored are referred to as entities, each of which has certain attributes that together make up their domain
+ The cardinality, or relationships between entities, are mapped as well
+A common form of the ER diagram is the star schema, in which a central fact table connects to multiple dimensional tables
+A common form of the ER diagram is the star schema, in which a central fact table connects to multiple dimensional tables
+A variety of other database models have been or are still used today
+A database built with the inverted file structure is designed to facilitate fast full text searches
+ In this model, data content is indexed as a series of keys in a lookup table, with the values pointing to the location of the associated files
+ In this model, data content is indexed as a series of keys in a lookup table, with the values pointing to the location of the associated files
+ This structure can provide nearly instantaneous reporting in big data and analytics, for instance
+ This structure can provide nearly instantaneous reporting in big data and analytics, for instance
+The flat model is the earliest, simplest data model
+ In order to access or manipulate the data, the computer has to read the entire flat file into memory, which makes this model inefficient for all but the smallest data sets
+ In order to access or manipulate the data, the computer has to read the entire flat file into memory, which makes this model inefficient for all but the smallest data sets
+ In order to access or manipulate the data, the computer has to read the entire flat file into memory, which makes this model inefficient for all but the smallest data sets
+ In order to access or manipulate the data, the computer has to read the entire flat file into memory, which makes this model inefficient for all but the smallest data sets
+This is a variation of the relational model designed to facilitate improved analytical processing
+Each cell in a dimensional database contains data about the dimensions tracked by the database
+ Here the distinction between data and schema is vague at best
+ This model is useful for describing systems, such as certain Web_based data sources, which we treat as databases but cannot constrain with a schema
+ It cobbles together elements from object_oriented, semistructured, and network models
+This model divides all the data points based on whether they describe an entity or an association
+This model divides all the data points based on whether they describe an entity or an association
+ In this model, an entity is anything that exists independently, whereas an association is something that only exists in relation to something else
+The associative model structures the data into two sets
+ A set of items, each with a unique identifier, a name, and a type
+ The stored fact has to do with the source, and each of the three identifiers may refer either to a link or an item
+Other, less common database models include
+ Named graph
+ Triplestore
+The multivalue model, which breaks from the relational model by allowing attributes to contain a list of data rather than a single data point
+The multivalue model, which breaks from the relational model by allowing attributes to contain a list of data rather than a single data point
+The multivalue model, which breaks from the relational model by allowing attributes to contain a list of data rather than a single data point
+The document model, which is designed for storing and managing documents or semi_structured data, rather than atomic data
+Most websites rely on some kind of database to organize and present data to users
+ Whenever someone uses the search functions on these sites, their search terms are converted into queries for a database server to process
+The broad presence of databases allows them to be used in almost any field, from online shopping to micro_targeting a voter segment as part of a political campaign
+The broad presence of databases allows them to be used in almost any field, from online shopping to micro_targeting a voter segment as part of a political campaign
+When you re ready to start modelling your database, try Lucidchart
+ It s the perfect tool for sketching out database systems quickly and easily
+ Start your free trial today 
+Contact sales
+ 210_9890
+  2017 Lucid Software Inc
+Enterprise
+Tour Features Online Visio Alternative Integrations
+Examples Flowchart Org Chart Network Diagram ER Diagram UML Mind Map
+Pricing
+Features
+Online Visio Alternative
+Integrations
+Flowchart
+Org Chart
+Network Diagram
+ER Diagram
+UML
+Mind Map
+User Settings
+Log Out
+User Settings
+Documents
+Log Out
+Tour
+Pricing
+Customers
+Sign Up Free
+Log In
+Examples
+Pricing
+Types of database models
+Relational model
+Hierarchical model
+Network model
+Object_oriented database model
+Object_relational model
+Entity_relationship model
+Other database models
+NoSQL database models
+Databases on the Web
+Database Design Tool
+Database Design and Structure Tutorial
+What is a database schema 
+English
+Fran ais
+Deutsch
+Portugu s
+Espa ol
+Nederlands
+A Database model defines the logical design of data
+ The model describes the relationships between different parts of the data
+ The model describes the relationships between different parts of the data
+ Historically, in database design, three models are commonly used
+ They are, Hierarchical Model
+ Network Model
+ Relational Model
+In this model each entity has only one parent but can have several children 
+ At the top of hierarchy there is only one entity which is called Root
+In the network model, entities are organised in a graph,in which some entities can be accessed through several path
+In the network model, entities are organised in a graph,in which some entities can be accessed through several path
+In the network model, entities are organised in a graph,in which some entities can be accessed through several path
+What is Studytonight 
+About Us
+How it Works
+Authors
+Collaborate
+Contact Us
+Suggest
+Blog
+Tutorials
+Core Java
+C  
+Data Structures
+Jenkins Server
+DBMS
+Servlet
+More
+Tests
+Core Java
+C  
+DBMS
+C Language
+More
+Learn to Code
+HTML
+     
+  2017 Studytonight
+Tutorials  JAVA MongoDB DBMS C C   Data Structure JSP MAVEN GITHUB Computer Network Operating System JENKINS Scrum Framework RUBY MIT AppInventor DROOLS SERVLET Computer Architecture
+Q   A Forum
+Tests
+HTML Course
+LogIn
+Suggest
+Database Concept
+Overview of DBMS
+Database Architecture
+Database Model
+Codd s rule
+RDBMS Concept
+Database key
+Normalization
+E_R Diagrams
+Generalization and Specialization
+SQL Concept
+SQL Introduction
+DDL Command
+Create query
+Alter query
+Truncate, Drop and Rename query
+DML Command
+All DML command
+TCL Command
+All TCL Command
+DCL Command
+All DCL Command
+WHERE clause
+SELECT query
+LIKE clause
+ORDER BY clause
+Group BY clause
+Having clause
+DISTINCT keyword
+AND   OR operator
+Advance SQL
+SQL Constraints
+SQL function
+SQL Join
+SQL Alias
+SQL SET operation
+SQL Sequences
+SQL Views
+  Prev
+Next  
+High_level Conceptual Data models
+Provide concepts that are close to the way people perceive data to present the data
+ A typical example of this type is the entity relationship model which uses main concepts like entities, attributes, relationships
+ A typical example of this type is the entity relationship model which uses main concepts like entities, attributes, relationships
+ An entity has some attributes which represents properties of entity such as employee s name, address, birthdate
+ An entity has some attributes which represents properties of entity such as employee s name, address, birthdate
+ An entity has some attributes which represents properties of entity such as employee s name, address, birthdate
+ A relationship represents an association among entities, for example an employee works on many projects
+ A relationship represents an association among entities, for example an employee works on many projects
+ A relationship represents an association among entities, for example an employee works on many projects
+Record_based Logical Data models
+Provide concepts that can be understood by the user but not too far from the way data is stored in the computer
+ The Relational model represents data as relations or tables
+ The Network model represents data as record types and also represents a limited type of one to many relationship, called set type
+http
+  cnx
+org content m28150 latest 
+The Hierarchical model represents data as a hierarchical tree structures
+ Each hierarchy represents a number of related records
+ Each hierarchy represents a number of related records
+ Here is the schema in hierarchical model notation
+http
+  cnx
+org content m28150 latest 
+This work, unless otherwise expressly stated, is licensed under a Creative Commons Attribution 2
+5 Canada License
+This textbook is available for free at open
+This textbook is available for free at open
+bccampus
+ca
+Share via Email
+Tweet
+Home
+Table of Contents
+Preface
+Main Body
+Chapter 1 Before the Advent of Database Systems Chapter 2 Fundamental Concepts Chapter 3 Characteristics and Benefits of a Database Chapter 4 Types of Database Models Chapter 5 Data Modelling Chapter 6 Classification of Database Systems Chapter 7 The Relational Data Model Chapter 8 Entity Relationship Model Chapter 9 Integrity Rules and Constraints Chapter 10 ER Modelling Chapter 11 Functional Dependencies Chapter 12 Normalization Chapter 13 Database Development Process Chapter 14 Database Users
+Appendix A University Registration Data Model example Appendix B ERD Exercises References and Permissions About the Author
+Preface
+Chapter 1 Before the Advent of Database Systems
+Chapter 2 Fundamental Concepts
+Chapter 3 Characteristics and Benefits of a Database
+Chapter 4 Types of Database Models
+Chapter 5 Data Modelling
+Chapter 6 Classification of Database Systems
+Chapter 7 The Relational Data Model
+Chapter 8 Entity Relationship Model
+Chapter 9 Integrity Rules and Constraints
+Chapter 10 ER Modelling
+Chapter 11 Functional Dependencies
+Chapter 12 Normalization
+Chapter 13 Database Development Process
+Chapter 14 Database Users
+Appendix A University Registration Data Model example
+Appendix B ERD Exercises
+References and Permissions
+About the Author
+Operation BugDrop is a type of malware program can eavesdrop on users by accessing computer components and recording audio or video
+Operation BugDrop is a type of malware program can eavesdrop on users by accessing computer components and recording audio or video
+ Operation BugDrop can also take screenshots, or sneak a look at documents through remote access
+ Read more
+ It helps in designing a database and serves as blueprint for application developers and database administrators in creating a database
+ Depending on the model in use, a database model can include entities, their relationships, data flow, tables and more
+ For example, within a hierarchal database mode, the data model organizes data in the form of a tree_like structure having parent and child segments
+Some of the popular database models include relational models, hierarchical models, flat file models, object oriented models, entity relationship models and network models
+Join thousands of others with our weekly newsletter
+Technology Terms
+      A    B    C    D    E    F    G    H    I    J    K    L    M    N    O    P    Q    R    S    T    U    V    W    X    Y    Z   
+Home   Advertising Info   Write for Us   About   Contact Us
+Copyright   2017 Techopedia Inc
+ _ Terms of Use _ Privacy Policy
+Partner Sites 
+ Divestopedia  Testopedia  Corrosionpedia  Securities Institute  Safeopedia  Justipedia  Insuranceopedia
+Home
+Dictionary
+Articles
+Tutorials
+Questions
+Newsletters
+Webinars
+Welcome,  
+Sign_out
+Sign_In
+Join Techopedia
+Menu
+Home
+Dictionary   Term of the Day Operation BugDrop Operation BugDrop is a type of malware program can eavesdrop on users by accessing computer components and recording audio or video  Operation BugDrop can also take screenshots, or sneak a look at documents through remote access  Read more Newest Terms Embedded Intelligence Memory_Resident Malware Deep Stubborn Network Intelligence Amplification Domain Authority Cyber Kill Chain Credential Stuffing Operation BugDrop Composable Infrastructure Machine Cycle View All     Top Categories Communication Data Development Enterprise Hardware Internet IT Business Networking Security Software View Tag Cloud    
+Dictionary   Term of the Day Operation BugDrop Operation BugDrop is a type of malware program can eavesdrop on users by accessing computer components and recording audio or video  Operation BugDrop can also take screenshots, or sneak a look at documents through remote access  Read more Newest Terms Embedded Intelligence Memory_Resident Malware Deep Stubborn Network Intelligence Amplification Domain Authority Cyber Kill Chain Credential Stuffing Operation BugDrop Composable Infrastructure Machine Cycle View All     Top Categories Communication Data Development Enterprise Hardware Internet IT Business Networking Security Software View Tag Cloud    
+Cloud Computing What Moving an Idea to the Cloud Actually Entails Questions About The Cloud That Every CIO Should Be Asking Change Is Hard  Talking Disruptive Technology With Bill Veghte, Executive Chairman at Turbonomic More Recent Content in Cloud Computing 3 Signs IoT Is the Killer App for Cloud Computing 3 Options That CIOs Have To Consider  Build, Colocation or Cloud Identity and Access Management Provides Cloud Security Boost View All     Cloud Computing Home Virtualization Buzzwords and Jargon Software_as_a_Service Distributed Computing Data Centers Open Source Big Data Data Center as a Service Intelligent Edge Cloud_Native Architecture Function as a Service Collaborative Computing AWS Lambda Serverless Computing Serverless Architecture Edge Computing Machine Learning as a Service
+Cloud Computing What Moving an Idea to the Cloud Actually Entails Questions About The Cloud That Every CIO Should Be Asking Change Is Hard  Talking Disruptive Technology With Bill Veghte, Executive Chairman at Turbonomic More Recent Content in Cloud Computing 3 Signs IoT Is the Killer App for Cloud Computing 3 Options That CIOs Have To Consider  Build, Colocation or Cloud Identity and Access Management Provides Cloud Security Boost View All     Cloud Computing Home Virtualization Buzzwords and Jargon Software_as_a_Service Distributed Computing Data Centers Open Source Big Data Data Center as a Service Intelligent Edge Cloud_Native Architecture Function as a Service Collaborative Computing AWS Lambda Serverless Computing Serverless Architecture Edge Computing Machine Learning as a Service
+Cloud Computing What Moving an Idea to the Cloud Actually Entails Questions About The Cloud That Every CIO Should Be Asking Change Is Hard  Talking Disruptive Technology With Bill Veghte, Executive Chairman at Turbonomic More Recent Content in Cloud Computing 3 Signs IoT Is the Killer App for Cloud Computing 3 Options That CIOs Have To Consider  Build, Colocation or Cloud Identity and Access Management Provides Cloud Security Boost View All     Cloud Computing Home Virtualization Buzzwords and Jargon Software_as_a_Service Distributed Computing Data Centers Open Source Big Data Data Center as a Service Intelligent Edge Cloud_Native Architecture Function as a Service Collaborative Computing AWS Lambda Serverless Computing Serverless Architecture Edge Computing Machine Learning as a Service
+Cloud Computing What Moving an Idea to the Cloud Actually Entails Questions About The Cloud That Every CIO Should Be Asking Change Is Hard  Talking Disruptive Technology With Bill Veghte, Executive Chairman at Turbonomic More Recent Content in Cloud Computing 3 Signs IoT Is the Killer App for Cloud Computing 3 Options That CIOs Have To Consider  Build, Colocation or Cloud Identity and Access Management Provides Cloud Security Boost View All     Cloud Computing Home Virtualization Buzzwords and Jargon Software_as_a_Service Distributed Computing Data Centers Open Source Big Data Data Center as a Service Intelligent Edge Cloud_Native Architecture Function as a Service Collaborative Computing AWS Lambda Serverless Computing Serverless Architecture Edge Computing Machine Learning as a Service
+Security Common Methods Hackers Are Using To Crack Your Cellular Phone 5 Reasons You Should Be Thankful For Hackers The 7 Basic Principles of IT Security More Recent Content in Security The Darker Side of SD_WAN Service Insertion 3 Situations Where You re Better Off Not Using a CDN 3 Signs IoT Is the Killer App for Cloud Computing View All     Security Home Hacking Data Centers Forensics Legal Viruses Software Memory_Resident Malware Cyber Kill Chain Credential Stuffing Operation BugDrop Passphrase Cyber Insurance XPath Injection Mumblehard Malware Replay Attack Mydoom
+Security Common Methods Hackers Are Using To Crack Your Cellular Phone 5 Reasons You Should Be Thankful For Hackers The 7 Basic Principles of IT Security More Recent Content in Security The Darker Side of SD_WAN Service Insertion 3 Situations Where You re Better Off Not Using a CDN 3 Signs IoT Is the Killer App for Cloud Computing View All     Security Home Hacking Data Centers Forensics Legal Viruses Software Memory_Resident Malware Cyber Kill Chain Credential Stuffing Operation BugDrop Passphrase Cyber Insurance XPath Injection Mumblehard Malware Replay Attack Mydoom
+Security Common Methods Hackers Are Using To Crack Your Cellular Phone 5 Reasons You Should Be Thankful For Hackers The 7 Basic Principles of IT Security More Recent Content in Security The Darker Side of SD_WAN Service Insertion 3 Situations Where You re Better Off Not Using a CDN 3 Signs IoT Is the Killer App for Cloud Computing View All     Security Home Hacking Data Centers Forensics Legal Viruses Software Memory_Resident Malware Cyber Kill Chain Credential Stuffing Operation BugDrop Passphrase Cyber Insurance XPath Injection Mumblehard Malware Replay Attack Mydoom
+Big Data Big Data  How It s Captured, Crunched and Used to Make Business Decisions 3 Signs IoT Is the Killer App for Cloud Computing How to Nurture a Data Scientist More Recent Content in Big Data Breaking Silos  How to Consolidate, Cleanse and Use Your Data for Good Data Warehousing 101 No, Data Analytics Bots Aren t Going to Steal Your Job in 2017 View All     Big Data Home Intelligence Amplification Sparse Matrix Overfitting Ground Truth Anamorphism Ensemble Learning Dimensionality Reduction Protocol Buffer Data Janitor Data Verification
+Big Data Big Data  How It s Captured, Crunched and Used to Make Business Decisions 3 Signs IoT Is the Killer App for Cloud Computing How to Nurture a Data Scientist More Recent Content in Big Data Breaking Silos  How to Consolidate, Cleanse and Use Your Data for Good Data Warehousing 101 No, Data Analytics Bots Aren t Going to Steal Your Job in 2017 View All     Big Data Home Intelligence Amplification Sparse Matrix Overfitting Ground Truth Anamorphism Ensemble Learning Dimensionality Reduction Protocol Buffer Data Janitor Data Verification
+Big Data Big Data  How It s Captured, Crunched and Used to Make Business Decisions 3 Signs IoT Is the Killer App for Cloud Computing How to Nurture a Data Scientist More Recent Content in Big Data Breaking Silos  How to Consolidate, Cleanse and Use Your Data for Good Data Warehousing 101 No, Data Analytics Bots Aren t Going to Steal Your Job in 2017 View All     Big Data Home Intelligence Amplification Sparse Matrix Overfitting Ground Truth Anamorphism Ensemble Learning Dimensionality Reduction Protocol Buffer Data Janitor Data Verification
+Big Data Big Data  How It s Captured, Crunched and Used to Make Business Decisions 3 Signs IoT Is the Killer App for Cloud Computing How to Nurture a Data Scientist More Recent Content in Big Data Breaking Silos  How to Consolidate, Cleanse and Use Your Data for Good Data Warehousing 101 No, Data Analytics Bots Aren t Going to Steal Your Job in 2017 View All     Big Data Home Intelligence Amplification Sparse Matrix Overfitting Ground Truth Anamorphism Ensemble Learning Dimensionality Reduction Protocol Buffer Data Janitor Data Verification
+Embedded Intelligence
+Memory_Resident Malware
+Deep Stubborn Network
+Intelligence Amplification
+Domain Authority
+Cyber Kill Chain
+Credential Stuffing
+Operation BugDrop
+Composable Infrastructure
+Machine Cycle
+Communication
+Data
+Development
+Enterprise
+Hardware
+Internet
+IT Business
+Networking
+Security
+Software
+What Moving an Idea to the Cloud Actually Entails
+Questions About The Cloud That Every CIO Should Be Asking
+Change Is Hard  Talking Disruptive Technology With Bill Veghte, Executive Chairman at Turbonomic
+3 Signs IoT Is the Killer App for Cloud Computing
+Identity and Access Management Provides Cloud Security Boost
+Virtualization
+Buzzwords and Jargon
+Software_as_a_Service 
+Distributed Computing
+Data Centers
+Open Source
+Big Data
+Data Center as a Service
+Intelligent Edge
+Cloud_Native Architecture
+Function as a Service
+Collaborative Computing
+AWS Lambda
+Serverless Computing
+Serverless Architecture
+Edge Computing
+Machine Learning as a Service
+Common Methods Hackers Are Using To Crack Your Cellular Phone
+Common Methods Hackers Are Using To Crack Your Cellular Phone
+The 7 Basic Principles of IT Security
+The Darker Side of SD_WAN Service Insertion
+3 Situations Where You re Better Off Not Using a CDN
+3 Signs IoT Is the Killer App for Cloud Computing
+Hacking
+Data Centers
+Forensics
+Legal
+Viruses
+Software
+Memory_Resident Malware
+Cyber Kill Chain
+Credential Stuffing
+Operation BugDrop
+Passphrase
+Cyber Insurance
+XPath Injection
+Mumblehard Malware
+Replay Attack
+Mydoom
+Big Data  How It s Captured, Crunched and Used to Make Business Decisions
+3 Signs IoT Is the Killer App for Cloud Computing
+How to Nurture a Data Scientist
+Data Warehousing 101
+No, Data Analytics Bots Aren t Going to Steal Your Job in 2017
+No, Data Analytics Bots Aren t Going to Steal Your Job in 2017
+Intelligence Amplification
+Sparse Matrix
+Overfitting
+Ground Truth
+Anamorphism
+Ensemble Learning
+Dimensionality Reduction
+Protocol Buffer
+Data Janitor
+Data Verification
+Techopedia Deals  Windscribe VPN  Lifetime Pro Subscription
+Techopedia Deals  VPN Unlimited  Lifetime Subscription, The Deep Learning   Artificial Intelligence Introductory Bundle
+Internet
+Technology Trends
+Social Media
+Security
+Passphrase
+Digital Footprint
+Screen Name
+Communications Assistance For Law Enforcement Act
+Darknet
+Safe Harbor
+Data Protection
+Private Browsing
+Platform For Privacy Preferences Project
+Cloud App Policy
+Data Centers
+Virtualization
+Storage
+Windows 8
+Internet
+CRM
+Green IT
+Hacking
+Personal Tech
+Buzzwords and Jargon
+IT Management
+Developers
+Network Admins
+Database Admins
+Tech Support
+Infographics
+Who To Follow
+Security
+Home
+Dictionary
+Tags
+Enterprise
+Databases
+Data Model
+Relational Data Model
+Entity Data Model 
+Conceptual Data Model
+Hierarchical Database
+Network Model
+3 FREE Network Management Tools _ Simplify everyday tasks and troubleshooting  100  Free   No Expiration   Download them All
+Data models define how the logical structure of a database is modeled
+ Data Models are fundamental entities to introduce abstraction in a DBMS
+ Data models define how data is connected to each other and how they are processed and stored inside the system
+ Data models define how data is connected to each other and how they are processed and stored inside the system
+ Data models define how data is connected to each other and how they are processed and stored inside the system
+ Data models define how data is connected to each other and how they are processed and stored inside the system
+The very first data model could be flat data_models, where all the data used are to be kept in the same plane
+ Earlier data models were not so scientific, hence they were prone to introduce lots of duplication and update anomalies
+Entity_Relationship Model is based on the notion of real_world entities and relationships among them
+ While formulating real_world scenario into the database model, the ER Model creates entity set, relationship set, general attributes and constraints
+ER Model is based on   Entities and their attributes
+ Relationships among entities
+Entities and their attributes
+Relationships among entities
+These concepts are explained below
+Entity   An entity in an ER Model is a real_world entity having properties called attributes
+Entity   An entity in an ER Model is a real_world entity having properties called attributes
+ Every attribute is defined by its set of values called domain
+ For example, in a school database, a student is considered as an entity
+ For example, in a school database, a student is considered as an entity
+ For example, in a school database, a student is considered as an entity
+ Student has various attributes like name, age, class, etc
+ Student has various attributes like name, age, class, etc
+Relationship   The logical association among entities is called relationship
+ Relationships are mapped with entities in various ways
+ Mapping cardinalities define the number of association between two entities
+ Mapping cardinalities define the number of association between two entities
+ Mapping cardinalities define the number of association between two entities
+Mapping cardinalities   one to one
+ one to many
+ many to one
+ many to many
+The most popular data model in DBMS is the Relational Model
+ It is more scientific a model than others
+ This model is based on first_order predicate logic and defines a table as an n_ary relation
+The main highlights of this model are   Data is stored in tables called relations
+ Relations can be normalized
+ Each row in a relation contains a unique value
+ Each column in a relation contains values from a same domain
+  Copyright 2017
+ All Rights Reserved
+Jobs
+ SENDFiles
+ Whiteboard
+ Net Meeting
+Tools
+ Articles
+Facebook Google  Twitter Linkedin YouTube
+Facebook
+Google 
+Twitter
+Linkedin
+YouTube
+Home
+Tutorials Library
+Coding Ground
+Tutor Connect
+Videos
+Search
+DBMS Tutorial
+DBMS _ Home
+DBMS _ Overview
+DBMS _ Architecture
+DBMS _ Data Models
+DBMS _ Data Schemas
+DBMS _ Data Independence
+Entity Relationship Model
+DBMS _ ER Model Basic Concepts
+DBMS _ ER Diagram Representation
+DBMS _ Generalization, Aggregation
+Relational Model
+DBMS _ Codd s Rules
+DBMS _ Relational Data Model
+DBMS _ Relational Algebra
+DBMS _ ER to Relational Model
+DBMS_ SQL Overview
+Relational Database Design
+DBMS _ Database Normalization
+DBMS _ Database Joins
+Storage and File Structure
+DBMS _ Storage System
+DBMS _ File Structure
+Indexing and Hashing
+DBMS _ Indexing
+DBMS _ Hashing
+Transaction And Concurrency
+DBMS _ Transaction
+DBMS _ Concurrency Control
+DBMS _ Deadlock
+Backup and Recovery
+DBMS _ Data Backup
+DBMS _ Data Recovery
+DBMS Useful Resources
+DBMS _ Quick Guide
+DBMS _ Useful Resources
+DBMS _ Discussion
+Selected Reading
+Developer s Best Practices
+Questions and Answers
+Effective Resume Writing
+HR Interview Questions
+Computer Glossary
+Who is Who
+Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc 
+Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc 
+Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc 
+Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc 
+Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities  
+Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities  
+Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities  
+Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities  
+Write for us
+FAQ s
+Helping
+Contact
+Hierarchical Database model is one of the oldest database models, dating from late 1950s
+ This model is like a structure of a tree with the records forming the nodes and fields forming the branches of the tree
+ This model is like a structure of a tree with the records forming the nodes and fields forming the branches of the tree
+                        
+In the hierarchical data model, records are linked with other superior records on which they are dependent and also on the records, which are dependent on them
+In the hierarchical data model, records are linked with other superior records on which they are dependent and also on the records, which are dependent on them
+ Figure illustrates the structure of a family
+ Great grandparent is the root of the structure
+ Great grandparent is the root of the structure
+ Parents can have many children exhibiting one to many relationships
+ The great grandparent record is known as the root of the tree
+ The great grandparent record is known as the root of the tree
+ The grandparents and children are the nodes or dependents of the root
+ In general, a root may have any number of dependents
+                            
+The different elements  e
+g
+Another example, of hierarchical  model is shown
+ It shows a database of Customer_Loan, here a customer can take multiple loans and there is also a provision of joint loan where more than one person can take a joint loan
+ It shows a database of Customer_Loan, here a customer can take multiple loans and there is also a provision of joint loan where more than one person can take a joint loan
+ It shows a database of Customer_Loan, here a customer can take multiple loans and there is also a provision of joint loan where more than one person can take a joint loan
+ It shows a database of Customer_Loan, here a customer can take multiple loans and there is also a provision of joint loan where more than one person can take a joint loan
+ Customer C3 takes two loans L2 of amount 15000 and L3 of amount 25000
+                
+Sample Database
+In order to understand the hierarchical data model better, let us take the example of the sample database consisting of supplier, parts and shipments
+In order to understand the hierarchical data model better, let us take the example of the sample database consisting of supplier, parts and shipments
+In order to understand the hierarchical data model better, let us take the example of the sample database consisting of supplier, parts and shipments
+ The record structure and some sample records for supplier, parts and shipments elements are as given in following tables
+                              
+                                
+ Also we assume that no more than one shipment exists for a given supplier part combination in the shipments table
+The tree structure has parts record superior to supplier record
+ That is parts form the parent and supplier forms the children
+ Each of the four trees figure, consists of one part record occurrence, together with a set of subordinate supplier record occurrences
+ There is one supplier record for each supplier of a particular part
+ Each supplier occurrence includes the corresponding shipment quantity
+                                
+For example, supplier S3 supplies 300 quantities of part P2
+There are four basic operations Insert, Update, Delete and Retrieve that can be performed on each model
+Insert Operation
+ It is not possible to insert the information of the supplier e
+g
+ S4 who does not supply any part
+ So, we can say that insert anomaly exists only for those children, which has no corresponding parents
+ So, we can say that insert anomaly exists only for those children, which has no corresponding parents
+Update Operation
+ So, we can say that update anomalies only exist for children not for parent because children may have multiple entries in the database
+Delete Operation
+ For example
+ In hierarchical model, deletion of parent causes the deletion of child records also and if the child occurrence is the only occurrence in the whole database, then the information of child records will also lost with the deletion of parent
+ For example
+Record Retrieval
+Query1
+ Find the supplier number for suppliers who supply part P2
+Solution
+ In order to get this information, first we search the information of parent P2 from database, since parent occurs only once in the whole database, so we obtain only a single record for P2
+Algorithm
+get  part where PNO P2 
+do until no more shipments under this part 
+print SNO 
+end 
+Query2
+Solution
+ If supplier S2, is found under a part then the corresponding part number is printed, otherwise we go to next part until all the parts are searched for supplier S2
+Algorithm
+do until no more parts 
+get next part 
+if found then print PNO 
+end 
+In above algorithms  next  is interpreted relative the current position 
+Since, both the queries involved different logic and are complex, so we can conclude that retrieval operation of this model is complex and asymmetric
+Conclusion
+ As explained earlier, we can conclude that hierarchical model suffers from the Insertion anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, and thus hierarchical model is not suitable for all the cases
+ As explained earlier, we can conclude that hierarchical model suffers from the Insertion anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, and thus hierarchical model is not suitable for all the cases
+A collection of field or data items values that provide information on an entity
+ Each field has a certain data type such as integer, real or string
+It is 1
+N relation between two record type
+ The record type 1 side is parent record type and one on the N side is called child record type of the PCR type
+1
+ Simplicity
+ Therefore, it is easier to view data arranged in manner
+ This makes this type of database more suitable for the purpose
+2
+ Security
+3
+ Database Integrity
+4
+ Efficiency
+ The hierarchical database model is a very efficient, one when the database contains a large number of I
+ The hierarchical database model is a very efficient, one when the database contains a large number of I
+ N relationships and when the users require large number of transactions, using data whose relationships are fixed
+ N relationships and when the users require large number of transactions, using data whose relationships are fixed
+1
+ Complexity of Implementation
+ The actual implementation of a hierarchical database depends on the physical storage of data
+ The actual implementation of a hierarchical database depends on the physical storage of data
+ This makes the implementation complicated
+2
+ Difficulty in Management
+ The movement of a data segment from one location to another cause all the accessing programs to be modified making database management a complex affair
+3
+ Complexity of Programming
+ Programming a hierarchical database is relatively complex because the programmers must know the physical path of the data items
+4
+ Poor Portability
+5
+ Database Management Problems
+ If you make any changes in the database structure of a hierarchical database, then you need to make the necessary changes in all the application programs that access the database
+ Thus, maintaining the database and the applications can become very difficult
+6
+ Lack of structural independence
+ Hierarchical database systems use physical storage paths to navigate to the different data segments
+ So, the application programs should have a good knowledge of the relevant access paths to access the data
+ So, if the physical structure is changed the applications will also have to be modified
+7
+ Programs Complexity
+8
+ Operational Anomalies
+ As discussed earlier, hierarchical model suffers from the Insert anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, thus hierarchical model is not suitable for all the cases
+ As discussed earlier, hierarchical model suffers from the Insert anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, thus hierarchical model is not suitable for all the cases
+ As discussed earlier, hierarchical model suffers from the Insert anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, thus hierarchical model is not suitable for all the cases
+ As discussed earlier, hierarchical model suffers from the Insert anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, thus hierarchical model is not suitable for all the cases
+9
+ Implementation Limitation
+N format required by the hierarchical model
+ The many_to_many  N
+N  relationships, which are more common in real life are very difficult to implement in a hierarchical model
+ Some data were more naturally modeled with more than one parent per child
+ A set consists of an owner record type, a set name, and a member record type
+ A member record type can have that role in more than one set  hence the multiparent concept is supported
+ A member record type can have that role in more than one set  hence the multiparent concept is supported
+An owner record type can also be a member or owner in another set
+ The data model is a simple network, and link and intersection record types may exist, as well as sets between them
+M relationship, although 1
+1 is permitted
+ The CODASYL network model is based on mathematical set theory
+Network model is a collection data in which records are physically linked through linked lists 
+A DBMS is said to be a Network DBMS if the relationships among data in the database are of type many_to_many
+A DBMS is said to be a Network DBMS if the relationships among data in the database are of type many_to_many
+ The relationship among many_to_many appears in the form of a network
+Thus the structure of a network database is extremely complicated because of these many_to_many relationships in which one record can be used as a key of the entire database
+Thus the structure of a network database is extremely complicated because of these many_to_many relationships in which one record can be used as a key of the entire database
+Thus the structure of a network database is extremely complicated because of these many_to_many relationships in which one record can be used as a key of the entire database
+The Relational Model was the first theoretically founded and well thought out Data Model, proposed by EfCodd in 1970, then a researcher at IBM
+The Relational Model is a depiction of how each piece of stored information relates to the other stored information
+ It shows how tables are linked, what type of links are between tables, what keys are used, what information is referenced between tables
+ It s an essential part of developing a normalized database structure to prevent repeat and redundant data storage
+The basic idea behind the relational model is that a database consists of a series of unordered tables that can be manipulated using non_procedural operations that return tables
+ This model was in vast contrast to the more traditional database theories of the time that were much more complicated, less flexible and dependent on the physical storage methods of the data
+ The RELATIONAL database model is based on the Relational Algebra, set theory and predicate logic
+ The RELATIONAL database model is based on the Relational Algebra, set theory and predicate logic
+It is commonly thought that the word relational in the relational model comes from the fact that you relate together tables in a relational database
+ Although this is a convenient way to think of the term, it s not accurate
+ Instead, the word relational has its roots in the terminology that Codd used to define the relational model
+ Instead, the word relational has its roots in the terminology that Codd used to define the relational model
+ The table in Codd s writings was actually referred to as a relation 
+In fact, Codd use the terms relations, attributes and tuples where most of us use the more common terms tables, columns and rows, respectively 
+ Still, it has a long way to go before it meets all twelve rules completely
+An object_oriented database management system is a DBMS that stores data in a logical model that is closely aligned with an application program s object model
+An object_oriented database management system is a DBMS that stores data in a logical model that is closely aligned with an application program s object model
+ Of course, an OODBMS will have a physical data model optimized for the kinds of logical data model it expects
+Object oriented database models have been around since the seventies when the concept of object oriented programming was first explored
+ It is only in the last ten or fifteen years that companies are utilizing object oriented DBMSs 
+OODBMS should be used when there is a business need, high performance required, and complex data is being used
+The result can be a performance increase of ten to one thousand times while writing as little as 40  of the code 
+Home
+Technology Motivation
+Article
+Discussion Forum
+About Us
+What is DBMS  Advantages and Disadvantages of DBMS 
+What are Strong and Weak Entity Sets in DBMS
+Database Normalization
+What are the Components of DBMS 
+What is ER_Model Advantages and Disadvantages of E_R Model 
+What is Data Independence of DBMS 
+Traditional File Processing System
+Advantages of Database
+What are Data Models  Type of Data Models 
+What are the Difference Between DDL, DML and DCL Commands 
+Type of Functional Dependence 
+What is a Database Instance
+Differentiate between DBMS and RDBMS Types of DBMS 
+What are INTANCES, SCHEMAS AND SUBSCHEMA in DBMS 
+Entity Relationship Diagram
+What is a Database Architecture
+Relational Model
+Database Approach
+Database Languages
+What is Difference Between Relation and Relational Schema 
+What is the role of DBA, Data Manager, File Manager, and Disk Manager 
+What are the Functions and Service of DBMS
+Network Model
+Database Model
+what is a Database Concurrency Control
+What is Metadata OR Data Dictionary 
+What is a Database Server
+Type of Database System
+What are the Problems with E_R Model 
+E_R NOTATION
+What is DBA 
+Database Management System
+Database System Structure
+What is a Database Users
+What is a Database Schema
+What is the Basic Construction of E_R Modeling 
+What is a Database View
+What is the Procedure for Database Access 
+What is a Database Object
+What is attributes 
+What is Database 
+What is Data Recovery 
+What is dBase 
+What is Database Engine 
+Website Developement
+Computer Fundamental Computer Intro  Information Tech  I O and Memory Number System Operating system DBMS Computer Terms
+Computer Networking
+Structured Query 
+Java Script
+HTML Language
+Cascading Style Sheet
+C Programming 
+C Programming 
+Visual Basic
+C   Programming
+Java Programming
+Java Servlet
+Java Server Pages
+Computer Graphics
+Electronic Commerce
+Management 
+Data Structures
+Software Engineering
+Digital Electronics
+C  Programming
+Database System
+Struts 2 Tutorial
+PHP 
+Troubleshooting
+How to
+python
+AngularJS Tutorial
+Compiler Design
+Computer Intro 
+Information Tech 
+I O and Memory
+Number System
+Operating system
+DBMS
+Computer Terms

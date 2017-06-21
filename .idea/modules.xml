@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GoogleScrapper.iml" filepath="$PROJECT_DIR$/GoogleScrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wikipedia/wikipedia.iml" filepath="$PROJECT_DIR$/wikipedia/wikipedia.iml" />
     </modules>
   </component>
 </project>

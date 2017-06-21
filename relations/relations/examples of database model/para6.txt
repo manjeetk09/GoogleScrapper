@@ -1,0 +1,53 @@
+An Entity can be any object, place, person or class. In E-R Diagram, an entity is represented using rectangles. Consider an example of an Organisation. Employee, Manager, Department, Product and many more can be taken as entities from an Organisation.
+An Entity can be any object, place, person or class. In E-R Diagram, an entity is represented using rectangles. Consider an example of an Organisation. Employee, Manager, Department, Product and many more can be taken as entities from an Organisation.
+An Entity can be any object, place, person or class. In E-R Diagram, an entity is represented using rectangles. Consider an example of an Organisation. Employee, Manager, Department, Product and many more can be taken as entities from an Organisation.
+An Entity can be any object, place, person or class. In E-R Diagram, an entity is represented using rectangles. Consider an example of an Organisation. Employee, Manager, Department, Product and many more can be taken as entities from an Organisation.
+C++
+C++
+     
+7 March 2012
+
+
+
+ER diagram example with entity having attributes
+
+
+
+ER diagrams are visual tools that are used in the Entity-Relationship model initially proposed by Peter Chen in 1976 to create a uniform convention that considers both relational database and network views. Chen envisioned the ER model as a conceptual modeling approach that views real world data as systems of entities and relationships. Entities are data objects that maintain different relationships with each other. Additionally, entities are also described further using attributes. Since 1976, the ER model has been expanded and is sometimes used in business management, product development, and strategy formulations. However, database design remains its primary application.
+ER diagrams are visual tools that are used in the Entity-Relationship model initially proposed by Peter Chen in 1976 to create a uniform convention that considers both relational database and network views. Chen envisioned the ER model as a conceptual modeling approach that views real world data as systems of entities and relationships. Entities are data objects that maintain different relationships with each other. Additionally, entities are also described further using attributes. Since 1976, the ER model has been expanded and is sometimes used in business management, product development, and strategy formulations. However, database design remains its primary application.
+ER diagrams are visual tools that are used in the Entity-Relationship model initially proposed by Peter Chen in 1976 to create a uniform convention that considers both relational database and network views. Chen envisioned the ER model as a conceptual modeling approach that views real world data as systems of entities and relationships. Entities are data objects that maintain different relationships with each other. Additionally, entities are also described further using attributes. Since 1976, the ER model has been expanded and is sometimes used in business management, product development, and strategy formulations. However, database design remains its primary application.
+ER diagrams are visual tools that are used in the Entity-Relationship model initially proposed by Peter Chen in 1976 to create a uniform convention that considers both relational database and network views. Chen envisioned the ER model as a conceptual modeling approach that views real world data as systems of entities and relationships. Entities are data objects that maintain different relationships with each other. Additionally, entities are also described further using attributes. Since 1976, the ER model has been expanded and is sometimes used in business management, product development, and strategy formulations. However, database design remains its primary application.
+ER diagrams are visual tools that are used in the Entity-Relationship model initially proposed by Peter Chen in 1976 to create a uniform convention that considers both relational database and network views. Chen envisioned the ER model as a conceptual modeling approach that views real world data as systems of entities and relationships. Entities are data objects that maintain different relationships with each other. Additionally, entities are also described further using attributes. Since 1976, the ER model has been expanded and is sometimes used in business management, product development, and strategy formulations. However, database design remains its primary application.
+ER diagrams are visual tools that are used in the Entity-Relationship model initially proposed by Peter Chen in 1976 to create a uniform convention that considers both relational database and network views. Chen envisioned the ER model as a conceptual modeling approach that views real world data as systems of entities and relationships. Entities are data objects that maintain different relationships with each other. Additionally, entities are also described further using attributes. Since 1976, the ER model has been expanded and is sometimes used in business management, product development, and strategy formulations. However, database design remains its primary application.
+
+
+
+The ER model defines the conceptual view of a database. It works around real-world entities and the associations among them. At view level, the ER model is considered a good option for designing databases.
+The ER model defines the conceptual view of a database. It works around real-world entities and the associations among them. At view level, the ER model is considered a good option for designing databases.
+The ER model defines the conceptual view of a database. It works around real-world entities and the associations among them. At view level, the ER model is considered a good option for designing databases.
+ER models (or ER schemas) are represented by ER diagrams.
+The example database
+
+
+
+
+
+
+
+
+
+
+
+
+
+An entity relationship diagram (ERD) shows the relationships of entity sets stored in a database. An entity in this context is a component of data. In other words, ER diagrams illustrate the logical structure of databases.
+An entity relationship diagram (ERD) shows the relationships of entity sets stored in a database. An entity in this context is a component of data. In other words, ER diagrams illustrate the logical structure of databases.
+An entity relationship diagram (ERD) shows the relationships of entity sets stored in a database. An entity in this context is a component of data. In other words, ER diagrams illustrate the logical structure of databases.
+
+
+
+
+
+
+Here we are going to design an Entity Relationship (ER) model for a college database . Say we have the following statements.
+Here we are going to design an Entity Relationship (ER) model for a college database . Say we have the following statements.

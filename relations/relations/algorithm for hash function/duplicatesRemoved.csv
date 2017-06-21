@@ -1,0 +1,372 @@
+2	41	https://en.wikipedia.org/wiki/Jenkins_hash_function	multi_byte_keys_designed	1	0.3333333333	1	2.3333333333	0	0	are_a_collection_of_hash_functions_for	are_a_collection_of	be_designed_by		
+2	41	https://en.wikipedia.org/wiki/Jenkins_hash_function	jenkins_hash_functions	0.8125	0.3333333333	1	2.1458333333	0	0	are_a_collection_of_hash_functions_for	are_a_collection_of	be_designed_by		
+2	1	http://www.drdobbs.com/database/algorithm-alley/184410284	bob_jenkins	0.625	1	0.44	2.065	0	0					
+2	1	http://www.drdobbs.com/database/algorithm-alley/184410284	september_01	0.0625	1	1	2.0625	0	0					
+0	35	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	fixed_length_binary_data	1	0.2222222222	0.84	2.0622222222	0	0	generates				
+2	27	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	bob_jenkins_presented	1	0.0555555556	1	2.0555555556	0	0	More_recently_presented	using_12_bytes_at	be_using_at		
+2	27	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	complex_mixing_operation	1	0.0555555556	1	2.0555555556	0	0	More_recently_presented	using_12_bytes_at	be_using_at		
+2	31	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	compute_hash_values	1	0.0555555556	1	2.0555555556	0	0					
+1	17	http://searchsecurity.techtarget.com/definition/MD5	one_way_cryptographic_function	1	0.1818181818	0.84	2.0218181818	0	0	is				
+1	17	http://searchsecurity.techtarget.com/definition/MD5	md5_hashing_algorithm	1	0.1818181818	0.84	2.0218181818	0	0	is				
+0	35	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	hash_function_generates	0.9375	0.2222222222	0.84	1.9997222222	0	0	generates				
+0	39	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	hash_table_based_searching	1	0.1538461538	0.84	1.9938461538	0	0					
+0	39	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	good_hashing_function	1	0.1538461538	0.84	1.9938461538	0	0					
+1	8	https://en.wikipedia.org/wiki/MD5	verify_data_integrity	1	0.1538461538	0.84	1.9938461538	0	0	can_still_be_used_as				
+2	52	http://burtleburtle.net/bob/hash/doobs.html	hash_table_lookup	0.9375	0.0425531915	1	1.9800531915	0	0	be_a_new_hash_function_for				
+2	60	http://burtleburtle.net/bob/hash/doobs.html	widely_separated_things	0.9375	0.0425531915	1	1.9800531915	0	0	can_cancel_out_as_easily_as_nearby_things				
+2	61	http://burtleburtle.net/bob/hash/doobs.html	affects_higher_bits	0.9375	0.0425531915	1	1.9800531915	0	0	are_never_affected_by	are_never_affected_by	only_affects		
+0	36	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	data_structures_courses	1	0.125	0.84	1.965	0	0	saw_a_lot_of_hash_function_in	saw	be_saw_in	saw_applications_in	
+2	42	https://en.wikipedia.org/wiki/Jenkins_hash_function	formally_published	0.625	0.3333333333	1	1.9583333333	0	0	was_formally_published_in				
+0	3	https://en.wikipedia.org/wiki/Hash_function	rapid_data_lookup	1	0.1052631579	0.84	1.9452631579	0	1	be_widely_used_in	be_widely_used_for	is		
+0	3	https://en.wikipedia.org/wiki/Hash_function	data_structure_called	1	0.1052631579	0.84	1.9452631579	0	1	be_widely_used_in	be_widely_used_for	is		
+0	4	https://en.wikipedia.org/wiki/Hash_function	detecting_duplicated_records	1	0.1052631579	0.84	1.9452631579	0	1	be_detecting_in				
+0	5	https://en.wikipedia.org/wiki/Hash_function	finding_similar_stretches	1	0.1052631579	0.84	1.9452631579	0	1	is_finding				
+0	8	https://en.wikipedia.org/wiki/Hash_function	provide_message_authentication	1	0.1052631579	0.84	1.9452631579	0	1					
+1	6	https://en.wikipedia.org/wiki/MD5	hash_function_producing	0.9375	0.1538461538	0.84	1.9313461538	0	0					
+1	41	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	hash_functions_md2	1	0.0909090909	0.84	1.9309090909	0	0	comprises_of				
+1	41	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	md_family_comprises	1	0.0909090909	0.84	1.9309090909	0	0	comprises_of				
+1	43	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	128_bit_hash_function	1	0.0909090909	0.84	1.9309090909	0	0	is				
+2	29	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	hash_function_suffers	0.875	0.0555555556	1	1.9305555556	0	0	is_truncated_to	Thus_suffers			
+1	4	http://www.iusmentis.com/technology/hashfunctions/md5/	potentially_long_message	1	0.0869565217	0.84	1.9269565217	0	0	is_used_in				
+1	48	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	collision_attack_resulted	1	0.0454545455	0.84	1.8854545455	0	0	resulted_in	hence_is_no_longer_recommended_for			
+0	36	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	good_hash_function	0.9166666667	0.125	0.84	1.8816666667	0	0	saw_a_lot_of_hash_function_in	saw	be_saw_in	saw_applications_in	
+1	23	https://www.quora.com/How-does-the-MD5-algorithm-work	one_way_compression_function	1	0.0350877193	0.84	1.8750877193	0	0	inputs_to	is_denoted_by	inputs_as	is_denoted_in	
+1	30	https://www.quora.com/How-does-the-MD5-algorithm-work	rainbow_table_attack	1	0.0350877193	0.84	1.8750877193	0	0	attacks_as				
+1	31	https://www.quora.com/How-does-the-MD5-algorithm-work	md5_hash_function	1	0.0350877193	0.84	1.8750877193	0	0					
+1	32	https://www.quora.com/How-does-the-MD5-algorithm-work	collision_attack_exists	1	0.0350877193	0.84	1.8750877193	0	0	can_be_find_on	can_be_find_within			
+1	35	https://www.quora.com/How-does-the-MD5-algorithm-work	off_the_shelf_computing_hardware	1	0.0350877193	0.84	1.8750877193	0	0	can_be_produce_for				
+0	7	https://en.wikipedia.org/wiki/Hash_function	cryptographic_hash_function	0.875	0.1052631579	0.84	1.8202631579	0	1	is_deliberately	is			
+0	7	https://en.wikipedia.org/wiki/Hash_function	input_data_maps	0.875	0.1052631579	0.84	1.8202631579	0	1	is_deliberately	is			
+0	2	https://en.wikipedia.org/wiki/Hash_function	called_hash_values	0.8541666667	0.1052631579	0.84	1.7994298246	0	1	are_called_hash	be_returned_by			
+1	53	https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work	binary_operations	0.625	0.3333333333	0.84	1.7983333333	0	0					
+1	53	https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work	md5_performs	0.625	0.3333333333	0.84	1.7983333333	0	0					
+0	35	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	hash_code	0.71875	0.2222222222	0.84	1.7809722222	0	0	generates				
+2	30	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	jenkins__hash_function	0.71875	0.0555555556	1	1.7743055556	0	0	was_far_greater_than				
+2	62	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	algorithm_alley__explores	0.71875	0.0465116279	1	1.7652616279	0	0	explores				
+2	60	http://burtleburtle.net/bob/hash/doobs.html	nearby_things	0.71875	0.0425531915	1	1.7613031915	0	0	can_cancel_out_as_easily_as_nearby_things				
+1	45	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	pre_computed_md5_checksum	0.875	0.0454545455	0.84	1.7604545455	0	0	can_compare	often_provide	can_compare_the_checksum_of_the_downloaded_file_to	can_be_compare_to	often_provide_a_pre_computed_MD5_checksum_for_the_files_for
+0	7	https://en.wikipedia.org/wiki/Hash_function	input_data	0.8125	0.1052631579	0.84	1.7577631579	0	1	is_deliberately	is			
+2	77	http://cmph.sourceforge.net/bdz.html	nivio_ziviani	0.625	0.1290322581	1	1.7540322581	0	0					
+1	23	https://www.quora.com/How-does-the-MD5-algorithm-work	fixed_length_inputs	0.875	0.0350877193	0.84	1.7500877193	0	0	inputs_to	is_denoted_by	inputs_as	is_denoted_in	
+1	35	https://www.quora.com/How-does-the-MD5-algorithm-work	chosen_prefix_collision_attack	0.875	0.0350877193	0.84	1.7500877193	0	0	can_be_produce_for				
+2	65	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	bloom_filters	0.625	0.0930232558	1	1.7180232558	0	0					
+2	67	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	record_doesn	0.625	0.0930232558	1	1.7180232558	0	0	might_want_to_check	to_check	might_want_for		
+2	56	http://burtleburtle.net/bob/hash/doobs.html	result_size	0.625	0.085106383	1	1.710106383	0	0	be_Increasing_by				
+2	71	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	short_introduction	0.625	0.0833333333	1	1.7083333333	0	0	ll_find_that	ll_find_after			
+2	71	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	ll_find	0.625	0.0833333333	1	1.7083333333	0	0	ll_find_that	ll_find_after			
+2	71	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	computer_programming	0.625	0.0833333333	1	1.7083333333	0	0	ll_find_that	ll_find_after			
+2	71	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	collision_resolution	0.625	0.0833333333	1	1.7083333333	0	0	ll_find_that	ll_find_after			
+2	76	http://cmph.sourceforge.net/bdz.html	bdz_algorithm	0.625	0.064516129	1	1.689516129	0	0	was_designed_by				
+2	77	http://cmph.sourceforge.net/bdz.html	djamal_belazzougui	0.625	0.064516129	1	1.689516129	0	0					
+2	77	http://cmph.sourceforge.net/bdz.html	rasmus_pagh	0.625	0.064516129	1	1.689516129	0	0					
+2	78	http://cmph.sourceforge.net/bdz.html	near_optimal_space	0.625	0.064516129	1	1.689516129	0	0	is				
+2	78	http://cmph.sourceforge.net/bdz.html	practical_algorithm	0.625	0.064516129	1	1.689516129	0	0	is				
+2	79	http://cmph.sourceforge.net/bdz.html	work_presented	0.625	0.064516129	1	1.689516129	0	0	is_also_referred_as	is_also_referred_because	be_presented_by		
+2	79	http://cmph.sourceforge.net/bdz.html	bpz_algorithm	0.625	0.064516129	1	1.689516129	0	0	is_also_referred_as	is_also_referred_because	be_presented_by		
+2	81	http://cmph.sourceforge.net/bdz.html	internal_memory	0.625	0.064516129	1	1.689516129	0	0	is_also_referred_as	is_suitable_for	is_also_referred_in	is	
+2	81	http://cmph.sourceforge.net/bdz.html	ram_algorithm	0.625	0.064516129	1	1.689516129	0	0	is_also_referred_as	is_suitable_for	is_also_referred_in	is	
+2	81	http://cmph.sourceforge.net/bdz.html	key_sets	0.625	0.064516129	1	1.689516129	0	0	is_also_referred_as	is_suitable_for	is_also_referred_in	is	
+0	34	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	algorithm_correctly	0.625	0.2222222222	0.84	1.6872222222	0	0					
+2	18	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	john_boyer	0.625	0.0555555556	1	1.6805555556	0	0					
+2	27	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	hashing_function	0.625	0.0555555556	1	1.6805555556	0	0	More_recently_presented	using_12_bytes_at	be_using_at		
+2	27	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	input_key	0.625	0.0555555556	1	1.6805555556	0	0	More_recently_presented	using_12_bytes_at	be_using_at		
+2	29	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	table_size	0.625	0.0555555556	1	1.6805555556	0	0	is_truncated_to	Thus_suffers			
+2	29	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	information_loss	0.625	0.0555555556	1	1.6805555556	0	0	is_truncated_to	Thus_suffers			
+2	31	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	cpu_time	0.625	0.0555555556	1	1.6805555556	0	0					
+2	31	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	run_time	0.625	0.0555555556	1	1.6805555556	0	0					
+2	31	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	hashjbis_equivalent	0.625	0.0555555556	1	1.6805555556	0	0					
+2	63	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	ll_present	0.625	0.0465116279	1	1.6715116279	0	0	ll_present				
+2	63	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	implement_today	0.625	0.0465116279	1	1.6715116279	0	0	ll_present				
+2	64	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	artificial_intelligence	0.625	0.0465116279	1	1.6715116279	0	0	will_cover_more	will_cover_a_variety_of_areas_computation_graphics_databases	be_a_variety_of	be_a_variety_of	will_cover_networking_artificial_intelligence_and_more_and_be_relevant_to_many_more_applications
+2	67	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	passport_number	0.625	0.0465116279	1	1.6715116279	0	0	might_want_to_check	to_check	might_want_for		
+2	67	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	credit_rating	0.625	0.0465116279	1	1.6715116279	0	0	might_want_to_check	to_check	might_want_for		
+2	68	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	erroneously_report	0.625	0.0465116279	1	1.6715116279	0	0	doesn				
+2	68	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	record_exists	0.625	0.0465116279	1	1.6715116279	0	0	doesn				
+2	68	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	occasionally_report	0.625	0.0465116279	1	1.6715116279	0	0	doesn				
+2	57	http://burtleburtle.net/bob/hash/doobs.html	bucket_maps	0.625	0.0425531915	1	1.6675531915	0	0	be_increasing_by	use			
+2	58	http://burtleburtle.net/bob/hash/doobs.html	sliding_pointer	0.625	0.0425531915	1	1.6675531915	0	0	has				
+2	61	http://burtleburtle.net/bob/hash/doobs.html	8th_bit	0.625	0.0425531915	1	1.6675531915	0	0	are_never_affected_by	are_never_affected_by	only_affects		
+2	61	http://burtleburtle.net/bob/hash/doobs.html	input_bytes	0.625	0.0425531915	1	1.6675531915	0	0	are_never_affected_by	are_never_affected_by	only_affects		
+0	2	https://en.wikipedia.org/wiki/Hash_function	values_returned	0.71875	0.1052631579	0.84	1.6640131579	0	1	are_called_hash	be_returned_by			
+1	17	http://searchsecurity.techtarget.com/definition/MD5	fixed_length_digest	0.625	0.1818181818	0.84	1.6468181818	0	0	is				
+0	2	https://en.wikipedia.org/wiki/Hash_function	hash_codes	0.6875	0.1052631579	0.84	1.6327631579	0	1	are_called_hash	be_returned_by			
+0	41	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	minimum_number	0.625	0.1538461538	0.84	1.6188461538	0	0					
+0	41	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	key_criterion	0.625	0.1538461538	0.84	1.6188461538	0	0					
+1	6	https://en.wikipedia.org/wiki/MD5	md5_algorithm	0.625	0.1538461538	0.84	1.6188461538	0	0					
+1	7	https://en.wikipedia.org/wiki/MD5	initially_designed	0.625	0.1538461538	0.84	1.6188461538	0	0					
+1	7	https://en.wikipedia.org/wiki/MD5	extensive_vulnerabilities	0.625	0.1538461538	0.84	1.6188461538	0	0					
+1	8	https://en.wikipedia.org/wiki/MD5	unintentional_corruption	0.625	0.1538461538	0.84	1.6188461538	0	0	can_still_be_used_as				
+0	36	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	pretty_hard	0.625	0.125	0.84	1.59	0	0	saw_a_lot_of_hash_function_in	saw	be_saw_in	saw_applications_in	
+0	37	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	avoid_collisions	0.625	0.125	0.84	1.59	0	0	be_a_rule_of				
+0	38	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	paul_hsieh	0.625	0.125	0.84	1.59	0	0	be_doing_on	be_doing_	be_doing_by		
+2	30	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	original_hashpjw	0.53125	0.0555555556	1	1.5868055556	0	0	was_far_greater_than				
+2	41	https://en.wikipedia.org/wiki/Jenkins_hash_function	hash_functions	0.8125	0.3333333333	0.44	1.5858333333	0	0	are_a_collection_of_hash_functions_for	are_a_collection_of	be_designed_by		
+2	41	https://en.wikipedia.org/wiki/Jenkins_hash_function	collection	0.25	0.3333333333	1	1.5833333333	0	0	are_a_collection_of_hash_functions_for	are_a_collection_of	be_designed_by		
+0	1	https://en.wikipedia.org/wiki/Hash_function	arbitrary_size	0.625	0.1052631579	0.84	1.5702631579	0	1	is				
+0	1	https://en.wikipedia.org/wiki/Hash_function	fixed_size	0.625	0.1052631579	0.84	1.5702631579	0	1	is				
+0	2	https://en.wikipedia.org/wiki/Hash_function	simply_hashes	0.625	0.1052631579	0.84	1.5702631579	0	1	are_called_hash	be_returned_by			
+0	3	https://en.wikipedia.org/wiki/Hash_function	computer_software	0.625	0.1052631579	0.84	1.5702631579	0	1	be_widely_used_in	be_widely_used_for	is		
+0	4	https://en.wikipedia.org/wiki/Hash_function	large_file	0.625	0.1052631579	0.84	1.5702631579	0	1	be_detecting_in				
+0	4	https://en.wikipedia.org/wiki/Hash_function	database_lookup	0.625	0.1052631579	0.84	1.5702631579	0	1	be_detecting_in				
+0	5	https://en.wikipedia.org/wiki/Hash_function	dna_sequences	0.625	0.1052631579	0.84	1.5702631579	0	1	is_finding				
+0	7	https://en.wikipedia.org/wiki/Hash_function	hash	0.625	0.1052631579	0.84	1.5702631579	0	1	is_deliberately	is			
+0	7	https://en.wikipedia.org/wiki/Hash_function	deliberately_difficult	0.625	0.1052631579	0.84	1.5702631579	0	1	is_deliberately	is			
+0	7	https://en.wikipedia.org/wiki/Hash_function	easily_verify	0.625	0.1052631579	0.84	1.5702631579	0	1	is_deliberately	is			
+0	7	https://en.wikipedia.org/wiki/Hash_function	stored_hash	0.625	0.1052631579	0.84	1.5702631579	0	1	is_deliberately	is			
+0	8	https://en.wikipedia.org/wiki/Hash_function	assuring_integrity	0.625	0.1052631579	0.84	1.5702631579	0	1					
+0	8	https://en.wikipedia.org/wiki/Hash_function	transmitted_data	0.625	0.1052631579	0.84	1.5702631579	0	1					
+0	8	https://en.wikipedia.org/wiki/Hash_function	building_block	0.625	0.1052631579	0.84	1.5702631579	0	1					
+1	17	http://searchsecurity.techtarget.com/definition/MD5	original_message	0.53125	0.1818181818	0.84	1.5530681818	0	0	is				
+1	2	http://www.iusmentis.com/technology/hashfunctions/md5/	cryptographic_algorithm	0.625	0.0869565217	0.84	1.5519565217	0	0	is	be_produces_by			
+1	2	http://www.iusmentis.com/technology/hashfunctions/md5/	md5_function	0.625	0.0869565217	0.84	1.5519565217	0	0	is	be_produces_by			
+1	2	http://www.iusmentis.com/technology/hashfunctions/md5/	message_digest	0.625	0.0869565217	0.84	1.5519565217	0	0	is	be_produces_by			
+1	2	http://www.iusmentis.com/technology/hashfunctions/md5/	arbitrary_length	0.625	0.0869565217	0.84	1.5519565217	0	0	is	be_produces_by			
+1	4	http://www.iusmentis.com/technology/hashfunctions/md5/	compared_quickly	0.625	0.0869565217	0.84	1.5519565217	0	0	is_used_in				
+1	5	http://www.iusmentis.com/technology/hashfunctions/md5/	digital_signatures	0.625	0.0869565217	0.84	1.5519565217	0	0	is_the_creation_of	is			
+1	5	http://www.iusmentis.com/technology/hashfunctions/md5/	common_application	0.625	0.0869565217	0.84	1.5519565217	0	0	is_the_creation_of	is			
+1	23	https://www.quora.com/How-does-the-MD5-algorithm-work	inputs	0.625	0.0701754386	0.84	1.5351754386	0	0	inputs_to	is_denoted_by	inputs_as	is_denoted_in	
+1	32	https://www.quora.com/How-does-the-MD5-algorithm-work	find_collisions	0.625	0.0701754386	0.84	1.5351754386	0	0	can_be_find_on	can_be_find_within			
+0	18	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	element_initialized	0.625	0.0555555556	0.84	1.5205555556	0	0	can_implement	be_using_with	be_initialized_to		
+0	18	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	special_python	0.625	0.0555555556	0.84	1.5205555556	0	0	can_implement	be_using_with	be_initialized_to		
+1	44	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	transferred_file	0.625	0.0454545455	0.84	1.5104545455	0	0					
+1	44	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	software_world	0.625	0.0454545455	0.84	1.5104545455	0	0					
+1	44	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	provide_assurance	0.625	0.0454545455	0.84	1.5104545455	0	0					
+1	44	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	md5_digests	0.625	0.0454545455	0.84	1.5104545455	0	0					
+1	45	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	downloaded_file	0.625	0.0454545455	0.84	1.5104545455	0	0	can_compare	often_provide	can_compare_the_checksum_of_the_downloaded_file_to	can_be_compare_to	often_provide_a_pre_computed_MD5_checksum_for_the_files_for
+1	45	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	file_servers	0.625	0.0454545455	0.84	1.5104545455	0	0	can_compare	often_provide	can_compare_the_checksum_of_the_downloaded_file_to	can_be_compare_to	often_provide_a_pre_computed_MD5_checksum_for_the_files_for
+1	47	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	analytical_attack	0.625	0.0454545455	0.84	1.5104545455	0	0	was_reported				
+1	47	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	computer_cluster	0.625	0.0454545455	0.84	1.5104545455	0	0	was_reported				
+1	48	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	longer_recommended	0.625	0.0454545455	0.84	1.5104545455	0	0	resulted_in	hence_is_no_longer_recommended_for			
+1	48	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	compromised_md5	0.625	0.0454545455	0.84	1.5104545455	0	0	resulted_in	hence_is_no_longer_recommended_for			
+1	24	https://www.quora.com/How-does-the-MD5-algorithm-work	initialization_vector	0.625	0.0350877193	0.84	1.5000877193	0	0	starts_with				
+1	24	https://www.quora.com/How-does-the-MD5-algorithm-work	algorithm_starts	0.625	0.0350877193	0.84	1.5000877193	0	0	starts_with				
+1	26	https://www.quora.com/How-does-the-MD5-algorithm-work	message_block	0.625	0.0350877193	0.84	1.5000877193	0	0	combines_it_with	combines	produces	takes_the_result_so_far_for	takes_so_far
+1	26	https://www.quora.com/How-does-the-MD5-algorithm-work	compression_function	0.625	0.0350877193	0.84	1.5000877193	0	0	combines_it_with	combines	produces	takes_the_result_so_far_for	takes_so_far
+1	27	https://www.quora.com/How-does-the-MD5-algorithm-work	entire_message	0.625	0.0350877193	0.84	1.5000877193	0	0	is_padded_with				
+1	27	https://www.quora.com/How-does-the-MD5-algorithm-work	bits_representing	0.625	0.0350877193	0.84	1.5000877193	0	0	is_padded_with				
+1	29	https://www.quora.com/How-does-the-MD5-algorithm-work	secure_hash	0.625	0.0350877193	0.84	1.5000877193	0	0	is				
+1	31	https://www.quora.com/How-does-the-MD5-algorithm-work	severely_compromised	0.625	0.0350877193	0.84	1.5000877193	0	0					
+1	35	https://www.quora.com/How-does-the-MD5-algorithm-work	collision	0.625	0.0350877193	0.84	1.5000877193	0	0	can_be_produce_for				
+1	36	https://www.quora.com/How-does-the-MD5-algorithm-work	off_the_shelf_gpus	0.625	0.0350877193	0.84	1.5000877193	0	0	has_been_greatly_aided_by				
+1	36	https://www.quora.com/How-does-the-MD5-algorithm-work	greatly_aided	0.625	0.0350877193	0.84	1.5000877193	0	0	has_been_greatly_aided_by				
+2	57	http://burtleburtle.net/bob/hash/doobs.html	table	0.4375	0.0425531915	1	1.4800531915	0	0	be_increasing_by	use			
+2	61	http://burtleburtle.net/bob/hash/doobs.html	lowest_7_bits	0.4375	0.0425531915	1	1.4800531915	0	0	are_never_affected_by	are_never_affected_by	only_affects		
+0	1	https://en.wikipedia.org/wiki/Hash_function	map_data	0.53125	0.1052631579	0.84	1.4765131579	0	1	is				
+0	38	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	data__	0.625	0	0.84	1.465	0	0	be_doing_on	be_doing_	be_doing_by		
+1	45	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	checksum	0.625	0	0.84	1.465	0	0	can_compare	often_provide	can_compare_the_checksum_of_the_downloaded_file_to	can_be_compare_to	often_provide_a_pre_computed_MD5_checksum_for_the_files_for
+2	30	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	hashpjw	0.4375	0	1	1.4375	0	0	was_far_greater_than				
+2	68	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	doesn	0.4375	0	1	1.4375	0	0	doesn				
+2	30	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	table_1_shows	0.375	0.0555555556	1	1.4305555556	0	0	was_far_greater_than				
+1	53	https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work	compute	0.25	0.3333333333	0.84	1.4233333333	0	0					
+2	65	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	false__hits	0.375	0.0465116279	1	1.4215116279	0	0					
+2	69	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	chapter	0.25	0.1666666667	1	1.4166666667	0	0	will_find	Open_will			
+2	69	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	searching	0.25	0.1666666667	1	1.4166666667	0	0	will_find	Open_will			
+1	26	https://www.quora.com/How-does-the-MD5-algorithm-work	intermediate_result	0.53125	0.0350877193	0.84	1.4063377193	0	0	combines_it_with	combines	produces	takes_the_result_so_far_for	takes_so_far
+0	1	https://en.wikipedia.org/wiki/Hash_function	function	0.4375	0.1052631579	0.84	1.3827631579	0	1	is				
+0	1	https://en.wikipedia.org/wiki/Hash_function	data	0.4375	0.1052631579	0.84	1.3827631579	0	1	is				
+2	79	http://cmph.sourceforge.net/bdz.html	referred	0.25	0.1290322581	1	1.3790322581	0	0	is_also_referred_as	is_also_referred_because	be_presented_by		
+2	30	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	slightly	0.25	0.1111111111	1	1.3611111111	0	0	was_far_greater_than				
+2	64	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	variety	0.25	0.0930232558	1	1.3430232558	0	0	will_cover_more	will_cover_a_variety_of_areas_computation_graphics_databases	be_a_variety_of	be_a_variety_of	will_cover_networking_artificial_intelligence_and_more_and_be_relevant_to_many_more_applications
+2	67	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	exist	0.25	0.0930232558	1	1.3430232558	0	0	might_want_to_check	to_check	might_want_for		
+2	56	http://burtleburtle.net/bob/hash/doobs.html	bit	0.25	0.085106383	1	1.335106383	0	0	be_Increasing_by				
+2	56	http://burtleburtle.net/bob/hash/doobs.html	increasing	0.25	0.085106383	1	1.335106383	0	0	be_Increasing_by				
+2	57	http://burtleburtle.net/bob/hash/doobs.html	buckets	0.25	0.085106383	1	1.335106383	0	0	be_increasing_by	use			
+2	69	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	book	0.25	0.0833333333	1	1.3333333333	0	0	will_find	Open_will			
+2	69	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	open	0.25	0.0833333333	1	1.3333333333	0	0	will_find	Open_will			
+2	69	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	find	0.25	0.0833333333	1	1.3333333333	0	0	will_find	Open_will			
+2	70	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	discussion	0.25	0.0833333333	1	1.3333333333	0	0					
+2	71	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	art	0.25	0.0833333333	1	1.3333333333	0	0	ll_find_that	ll_find_after			
+2	71	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	vol	0.25	0.0833333333	1	1.3333333333	0	0	ll_find_that	ll_find_after			
+2	71	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	material	0.25	0.0833333333	1	1.3333333333	0	0	ll_find_that	ll_find_after			
+2	71	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	bulk	0.25	0.0833333333	1	1.3333333333	0	0	ll_find_that	ll_find_after			
+2	71	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	instance	0.25	0.0833333333	1	1.3333333333	0	0	ll_find_that	ll_find_after			
+2	73	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	sorting	0.25	0.0833333333	1	1.3333333333	0	0					
+2	75	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	addison_wesley	0.25	0.0833333333	1	1.3333333333	0	0					
+2	76	http://cmph.sourceforge.net/bdz.html	designed	0.25	0.064516129	1	1.314516129	0	0	was_designed_by				
+2	78	http://cmph.sourceforge.net/bdz.html	family	0.25	0.064516129	1	1.314516129	0	0	is				
+2	78	http://cmph.sourceforge.net/bdz.html	simple	0.25	0.064516129	1	1.314516129	0	0	is				
+2	78	http://cmph.sourceforge.net/bdz.html	efficient	0.25	0.064516129	1	1.314516129	0	0	is				
+2	78	http://cmph.sourceforge.net/bdz.html	generate	0.25	0.064516129	1	1.314516129	0	0	is				
+2	81	http://cmph.sourceforge.net/bdz.html	handled	0.25	0.064516129	1	1.314516129	0	0	is_also_referred_as	is_suitable_for	is_also_referred_in	is	
+2	81	http://cmph.sourceforge.net/bdz.html	suitable	0.25	0.064516129	1	1.314516129	0	0	is_also_referred_as	is_suitable_for	is_also_referred_in	is	
+1	26	https://www.quora.com/How-does-the-MD5-algorithm-work	result	0.4375	0.0350877193	0.84	1.3125877193	0	0	combines_it_with	combines	produces	takes_the_result_so_far_for	takes_so_far
+0	34	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	difference	0.25	0.2222222222	0.84	1.3122222222	0	0					
+0	34	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	understand	0.25	0.2222222222	0.84	1.3122222222	0	0					
+0	35	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	blocks	0.25	0.2222222222	0.84	1.3122222222	0	0	generates				
+0	35	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	operating	0.25	0.2222222222	0.84	1.3122222222	0	0	generates				
+2	27	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	recently	0.25	0.0555555556	1	1.3055555556	0	0	More_recently_presented	using_12_bytes_at	be_using_at		
+2	27	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	performs	0.25	0.0555555556	1	1.3055555556	0	0	More_recently_presented	using_12_bytes_at	be_using_at		
+2	27	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	time	0.25	0.0555555556	1	1.3055555556	0	0	More_recently_presented	using_12_bytes_at	be_using_at		
+2	28	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	bytes	0.25	0.0555555556	1	1.3055555556	0	0	have_by				
+2	28	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	regions	0.25	0.0555555556	1	1.3055555556	0	0	have_by				
+2	28	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	affect	0.25	0.0555555556	1	1.3055555556	0	0	have_by				
+2	29	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	truncated	0.25	0.0555555556	1	1.3055555556	0	0	is_truncated_to	Thus_suffers			
+2	30	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	greater	0.25	0.0555555556	1	1.3055555556	0	0	was_far_greater_than				
+2	30	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	efficiency	0.25	0.0555555556	1	1.3055555556	0	0	was_far_greater_than				
+1	2	http://www.iusmentis.com/technology/hashfunctions/md5/	128_bits_long	0.375	0.0869565217	0.84	1.3019565217	0	0	is	be_produces_by			
+2	63	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	month	0.25	0.0465116279	1	1.2965116279	0	0	ll_present				
+2	64	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	relevant	0.25	0.0465116279	1	1.2965116279	0	0	will_cover_more	will_cover_a_variety_of_areas_computation_graphics_databases	be_a_variety_of	be_a_variety_of	will_cover_networking_artificial_intelligence_and_more_and_be_relevant_to_many_more_applications
+2	64	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	networking	0.25	0.0465116279	1	1.2965116279	0	0	will_cover_more	will_cover_a_variety_of_areas_computation_graphics_databases	be_a_variety_of	be_a_variety_of	will_cover_networking_artificial_intelligence_and_more_and_be_relevant_to_many_more_applications
+2	64	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	databases	0.25	0.0465116279	1	1.2965116279	0	0	will_cover_more	will_cover_a_variety_of_areas_computation_graphics_databases	be_a_variety_of	be_a_variety_of	will_cover_networking_artificial_intelligence_and_more_and_be_relevant_to_many_more_applications
+2	64	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	cover	0.25	0.0465116279	1	1.2965116279	0	0	will_cover_more	will_cover_a_variety_of_areas_computation_graphics_databases	be_a_variety_of	be_a_variety_of	will_cover_networking_artificial_intelligence_and_more_and_be_relevant_to_many_more_applications
+2	64	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	more__and	0.25	0.0465116279	1	1.2965116279	0	0	will_cover_more	will_cover_a_variety_of_areas_computation_graphics_databases	be_a_variety_of	be_a_variety_of	will_cover_networking_artificial_intelligence_and_more_and_be_relevant_to_many_more_applications
+2	64	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	graphics	0.25	0.0465116279	1	1.2965116279	0	0	will_cover_more	will_cover_a_variety_of_areas_computation_graphics_databases	be_a_variety_of	be_a_variety_of	will_cover_networking_artificial_intelligence_and_more_and_be_relevant_to_many_more_applications
+2	64	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	areas__computation	0.25	0.0465116279	1	1.2965116279	0	0	will_cover_more	will_cover_a_variety_of_areas_computation_graphics_databases	be_a_variety_of	be_a_variety_of	will_cover_networking_artificial_intelligence_and_more_and_be_relevant_to_many_more_applications
+2	65	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	column	0.25	0.0465116279	1	1.2965116279	0	0					
+2	65	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	method	0.25	0.0465116279	1	1.2965116279	0	0					
+2	65	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	expense	0.25	0.0465116279	1	1.2965116279	0	0					
+2	66	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	search	0.25	0.0465116279	1	1.2965116279	0	0	are_useful_in	is			
+2	66	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	required	0.25	0.0465116279	1	1.2965116279	0	0	are_useful_in	is			
+2	67	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	check	0.25	0.0465116279	1	1.2965116279	0	0	might_want_to_check	to_check	might_want_for		
+2	52	http://burtleburtle.net/bob/hash/doobs.html	faster	0.25	0.0425531915	1	1.2925531915	0	0	be_a_new_hash_function_for				
+2	52	http://burtleburtle.net/bob/hash/doobs.html	offer	0.25	0.0425531915	1	1.2925531915	0	0	be_a_new_hash_function_for				
+2	53	http://burtleburtle.net/bob/hash/doobs.html	verify	0.25	0.0425531915	1	1.2925531915	0	0	also_give_you	is			
+2	53	http://burtleburtle.net/bob/hash/doobs.html	give	0.25	0.0425531915	1	1.2925531915	0	0	also_give_you	is			
+2	54	http://burtleburtle.net/bob/hash/doobs.html	complaints	0.25	0.0425531915	1	1.2925531915	0	0	have				
+2	55	http://burtleburtle.net/bob/hash/doobs.html	don	0.25	0.0425531915	1	1.2925531915	0	0					
+2	55	http://burtleburtle.net/bob/hash/doobs.html	mask	0.25	0.0425531915	1	1.2925531915	0	0					
+2	55	http://burtleburtle.net/bob/hash/doobs.html	reduce	0.25	0.0425531915	1	1.2925531915	0	0					
+2	55	http://burtleburtle.net/bob/hash/doobs.html	specific	0.25	0.0425531915	1	1.2925531915	0	0					
+2	55	http://burtleburtle.net/bob/hash/doobs.html	bits	0.25	0.0425531915	1	1.2925531915	0	0					
+2	55	http://burtleburtle.net/bob/hash/doobs.html	size	0.25	0.0425531915	1	1.2925531915	0	0					
+2	56	http://burtleburtle.net/bob/hash/doobs.html	completely	0.25	0.0425531915	1	1.2925531915	0	0	be_Increasing_by				
+2	57	http://burtleburtle.net/bob/hash/doobs.html	entire	0.25	0.0425531915	1	1.2925531915	0	0	be_increasing_by	use			
+2	57	http://burtleburtle.net/bob/hash/doobs.html	grows	0.25	0.0425531915	1	1.2925531915	0	0	be_increasing_by	use			
+2	58	http://burtleburtle.net/bob/hash/doobs.html	algorithm	0.25	0.0425531915	1	1.2925531915	0	0	has				
+2	58	http://burtleburtle.net/bob/hash/doobs.html	work	0.25	0.0425531915	1	1.2925531915	0	0	has				
+2	58	http://burtleburtle.net/bob/hash/doobs.html	won	0.25	0.0425531915	1	1.2925531915	0	0	has				
+2	58	http://burtleburtle.net/bob/hash/doobs.html	split	0.25	0.0425531915	1	1.2925531915	0	0	has				
+2	60	http://burtleburtle.net/bob/hash/doobs.html	cancel	0.25	0.0425531915	1	1.2925531915	0	0	can_cancel_out_as_easily_as_nearby_things				
+2	60	http://burtleburtle.net/bob/hash/doobs.html	easily	0.25	0.0425531915	1	1.2925531915	0	0	can_cancel_out_as_easily_as_nearby_things				
+2	60	http://burtleburtle.net/bob/hash/doobs.html	means	0.25	0.0425531915	1	1.2925531915	0	0	can_cancel_out_as_easily_as_nearby_things				
+2	61	http://burtleburtle.net/bob/hash/doobs.html	affected	0.25	0.0425531915	1	1.2925531915	0	0	are_never_affected_by	are_never_affected_by	only_affects		
+2	61	http://burtleburtle.net/bob/hash/doobs.html	state	0.25	0.0425531915	1	1.2925531915	0	0	are_never_affected_by	are_never_affected_by	only_affects		
+1	17	http://searchsecurity.techtarget.com/definition/MD5	accepts	0.25	0.1818181818	0.84	1.2718181818	0	0	is				
+1	17	http://searchsecurity.techtarget.com/definition/MD5	returns	0.25	0.1818181818	0.84	1.2718181818	0	0	is				
+0	16	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	slot_named_2	0.375	0.0555555556	0.84	1.2705555556	0	0	be_named_0_	will_have	will_be_have_for	will_have_a_slot_named_0_a_slot_named_1_for	
+0	16	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	slot_named_1	0.375	0.0555555556	0.84	1.2705555556	0	0	be_named_0_	will_have	will_be_have_for	will_have_a_slot_named_0_a_slot_named_1_for	
+0	16	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	slot_named_0	0.375	0.0555555556	0.84	1.2705555556	0	0	be_named_0_	will_have	will_be_have_for	will_have_a_slot_named_0_a_slot_named_1_for	
+0	19	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	figure_4_shows	0.375	0.0555555556	0.84	1.2705555556	0	0	shows				
+1	38	https://www.quora.com/How-does-the-MD5-algorithm-work	200_million_hashes	0.375	0.0350877193	0.84	1.2500877193	0	0	can_calculate				
+2	28	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	key	0.25	0	1	1.25	0	0	have_by				
+2	30	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	hashjband	0.25	0	1	1.25	0	0	was_far_greater_than				
+2	31	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	hashjenkinsbecause	0.25	0	1	1.25	0	0					
+2	32	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	ddj	0.25	0	1	1.25	0	0					
+2	58	http://burtleburtle.net/bob/hash/doobs.html	fnv	0.25	0	1	1.25	0	0	has				
+2	59	http://burtleburtle.net/bob/hash/doobs.html	linear	0.25	0	1	1.25	0	0					
+2	61	http://burtleburtle.net/bob/hash/doobs.html	multiplication	0.25	0	1	1.25	0	0	are_never_affected_by	are_never_affected_by	only_affects		
+2	62	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	implementation	0.25	0	1	1.25	0	0	explores				
+2	64	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	applications	0.25	0	1	1.25	0	0	will_cover_more	will_cover_a_variety_of_areas_computation_graphics_databases	be_a_variety_of	be_a_variety_of	will_cover_networking_artificial_intelligence_and_more_and_be_relevant_to_many_more_applications
+2	66	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	calculation	0.25	0	1	1.25	0	0	are_useful_in	is			
+2	66	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	unsuccessful	0.25	0	1	1.25	0	0	are_useful_in	is			
+2	75	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	knuth	0.25	0	1	1.25	0	0					
+2	76	http://cmph.sourceforge.net/bdz.html	fabiano	0.25	0	1	1.25	0	0	was_designed_by				
+2	77	http://cmph.sourceforge.net/bdz.html	botelho	0.25	0	1	1.25	0	0					
+2	78	http://cmph.sourceforge.net/bdz.html	phfs	0.25	0	1	1.25	0	0	is				
+2	78	http://cmph.sourceforge.net/bdz.html	mphfs	0.25	0	1	1.25	0	0	is				
+2	79	http://cmph.sourceforge.net/bdz.html	ziviani	0.25	0	1	1.25	0	0	is_also_referred_as	is_also_referred_because	be_presented_by		
+2	79	http://cmph.sourceforge.net/bdz.html	pagh	0.25	0	1	1.25	0	0	is_also_referred_as	is_also_referred_because	be_presented_by		
+2	80	http://cmph.sourceforge.net/bdz.html	phd	0.25	0	1	1.25	0	0					
+2	81	http://cmph.sourceforge.net/bdz.html	dissertation	0.25	0	1	1.25	0	0	is_also_referred_as	is_suitable_for	is_also_referred_in	is	
+0	39	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	essential	0.25	0.1538461538	0.84	1.2438461538	0	0					
+0	39	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	choosing	0.25	0.1538461538	0.84	1.2438461538	0	0					
+0	40	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	elements	0.25	0.1538461538	0.84	1.2438461538	0	0	should_distribute				
+0	40	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	distribute	0.25	0.1538461538	0.84	1.2438461538	0	0	should_distribute				
+0	40	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	uniformly	0.25	0.1538461538	0.84	1.2438461538	0	0	should_distribute				
+0	41	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	collisions	0.25	0.1538461538	0.84	1.2438461538	0	0					
+1	7	https://en.wikipedia.org/wiki/MD5	suffer	0.25	0.1538461538	0.84	1.2438461538	0	0					
+1	6	https://en.wikipedia.org/wiki/MD5	128_bit_hash	0.71875	0.1538461538	0.36	1.2325961538	0	0					
+0	36	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	college	0.25	0.125	0.84	1.215	0	0	saw_a_lot_of_hash_function_in	saw	be_saw_in	saw_applications_in	
+0	37	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	professor	0.25	0.125	0.84	1.215	0	0	be_a_rule_of				
+0	37	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	thumb	0.25	0.125	0.84	1.215	0	0	be_a_rule_of				
+0	37	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	rule	0.25	0.125	0.84	1.215	0	0	be_a_rule_of				
+0	38	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	basically	0.25	0.125	0.84	1.215	0	0	be_doing_on	be_doing_	be_doing_by		
+0	14	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	items	0.25	0.1111111111	0.84	1.2011111111	0	0	is_a_collection_of	is	to_find_later		
+0	15	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	slot	0.25	0.1111111111	0.84	1.2011111111	0	0	can_is_named_by	can_hold	starting_at		
+0	2	https://en.wikipedia.org/wiki/Hash_function	digests	0.25	0.1052631579	0.84	1.1952631579	0	1	are_called_hash	be_returned_by			
+0	3	https://en.wikipedia.org/wiki/Hash_function	widely	0.25	0.1052631579	0.84	1.1952631579	0	1	be_widely_used_in	be_widely_used_for	is		
+0	7	https://en.wikipedia.org/wiki/Hash_function	unknown	0.25	0.1052631579	0.84	1.1952631579	0	1	is_deliberately	is			
+1	42	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	adopted	0.25	0.0909090909	0.84	1.1809090909	0	0	was_adopted_as				
+1	3	http://www.iusmentis.com/technology/hashfunctions/md5/	called	0.25	0.0869565217	0.84	1.1769565217	0	0	is_sometimes_also_called	be_the_hash_of			
+1	3	http://www.iusmentis.com/technology/hashfunctions/md5/	digest	0.25	0.0869565217	0.84	1.1769565217	0	0	is_sometimes_also_called	be_the_hash_of			
+1	4	http://www.iusmentis.com/technology/hashfunctions/md5/	situations	0.25	0.0869565217	0.84	1.1769565217	0	0	is_used_in				
+1	4	http://www.iusmentis.com/technology/hashfunctions/md5/	processed	0.25	0.0869565217	0.84	1.1769565217	0	0	is_used_in				
+1	5	http://www.iusmentis.com/technology/hashfunctions/md5/	creation	0.25	0.0869565217	0.84	1.1769565217	0	0	is_the_creation_of	is			
+0	14	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	easy	0.25	0.0555555556	0.84	1.1455555556	0	0	is_a_collection_of	is	to_find_later		
+0	14	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	stored	0.25	0.0555555556	0.84	1.1455555556	0	0	is_a_collection_of	is	to_find_later		
+0	15	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	named	0.25	0.0555555556	0.84	1.1455555556	0	0	can_is_named_by	can_hold	starting_at		
+0	15	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	item	0.25	0.0555555556	0.84	1.1455555556	0	0	can_is_named_by	can_hold	starting_at		
+0	15	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	integer	0.25	0.0555555556	0.84	1.1455555556	0	0	can_is_named_by	can_hold	starting_at		
+0	15	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	position	0.25	0.0555555556	0.84	1.1455555556	0	0	can_is_named_by	can_hold	starting_at		
+0	15	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	hold	0.25	0.0555555556	0.84	1.1455555556	0	0	can_is_named_by	can_hold	starting_at		
+0	15	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	starting	0.25	0.0555555556	0.84	1.1455555556	0	0	can_is_named_by	can_hold	starting_at		
+0	17	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	initially	0.25	0.0555555556	0.84	1.1455555556	0	0	Initially_contains	is			
+0	17	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	empty	0.25	0.0555555556	0.84	1.1455555556	0	0	Initially_contains	is			
+0	18	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	implement	0.25	0.0555555556	0.84	1.1455555556	0	0	can_implement	be_using_with	be_initialized_to		
+0	20	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	words	0.25	0.0555555556	0.84	1.1455555556	0	0	are_in				
+1	40	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	popular	0.25	0.0454545455	0.84	1.1354545455	0	0					
+1	40	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	years	0.25	0.0454545455	0.84	1.1354545455	0	0					
+1	44	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	integrity	0.25	0.0454545455	0.84	1.1354545455	0	0					
+1	45	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	files	0.25	0.0454545455	0.84	1.1354545455	0	0	can_compare	often_provide	can_compare_the_checksum_of_the_downloaded_file_to	can_be_compare_to	often_provide_a_pre_computed_MD5_checksum_for_the_files_for
+1	45	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	compare	0.25	0.0454545455	0.84	1.1354545455	0	0	can_compare	often_provide	can_compare_the_checksum_of_the_downloaded_file_to	can_be_compare_to	often_provide_a_pre_computed_MD5_checksum_for_the_files_for
+1	45	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	provide	0.25	0.0454545455	0.84	1.1354545455	0	0	can_compare	often_provide	can_compare_the_checksum_of_the_downloaded_file_to	can_be_compare_to	often_provide_a_pre_computed_MD5_checksum_for_the_files_for
+1	45	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	user	0.25	0.0454545455	0.84	1.1354545455	0	0	can_compare	often_provide	can_compare_the_checksum_of_the_downloaded_file_to	can_be_compare_to	often_provide_a_pre_computed_MD5_checksum_for_the_files_for
+1	47	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	successful	0.25	0.0454545455	0.84	1.1354545455	0	0	was_reported				
+1	47	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	reported	0.25	0.0454545455	0.84	1.1354545455	0	0	was_reported				
+1	47	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	hour	0.25	0.0454545455	0.84	1.1354545455	0	0	was_reported				
+1	23	https://www.quora.com/How-does-the-MD5-algorithm-work	diagram	0.25	0.0350877193	0.84	1.1250877193	0	0	inputs_to	is_denoted_by	inputs_as	is_denoted_in	
+1	23	https://www.quora.com/How-does-the-MD5-algorithm-work	transforms	0.25	0.0350877193	0.84	1.1250877193	0	0	inputs_to	is_denoted_by	inputs_as	is_denoted_in	
+1	23	https://www.quora.com/How-does-the-MD5-algorithm-work	denoted	0.25	0.0350877193	0.84	1.1250877193	0	0	inputs_to	is_denoted_by	inputs_as	is_denoted_in	
+1	24	https://www.quora.com/How-does-the-MD5-algorithm-work	initial	0.25	0.0350877193	0.84	1.1250877193	0	0	starts_with				
+1	25	https://www.quora.com/How-does-the-MD5-algorithm-work	fixed	0.25	0.0350877193	0.84	1.1250877193	0	0	is				
+1	26	https://www.quora.com/How-does-the-MD5-algorithm-work	combines	0.25	0.0350877193	0.84	1.1250877193	0	0	combines_it_with	combines	produces	takes_the_result_so_far_for	takes_so_far
+1	27	https://www.quora.com/How-does-the-MD5-algorithm-work	appended	0.25	0.0350877193	0.84	1.1250877193	0	0	is_padded_with				
+1	27	https://www.quora.com/How-does-the-MD5-algorithm-work	padded	0.25	0.0350877193	0.84	1.1250877193	0	0	is_padded_with				
+1	27	https://www.quora.com/How-does-the-MD5-algorithm-work	needed	0.25	0.0350877193	0.84	1.1250877193	0	0	is_padded_with				
+1	27	https://www.quora.com/How-does-the-MD5-algorithm-work	block	0.25	0.0350877193	0.84	1.1250877193	0	0	is_padded_with				
+1	28	https://www.quora.com/How-does-the-MD5-algorithm-work	note	0.25	0.0350877193	0.84	1.1250877193	0	0					
+1	30	https://www.quora.com/How-does-the-MD5-algorithm-work	attacks	0.25	0.0350877193	0.84	1.1250877193	0	0	attacks_as				
+1	30	https://www.quora.com/How-does-the-MD5-algorithm-work	exists	0.25	0.0350877193	0.84	1.1250877193	0	0	attacks_as				
+1	31	https://www.quora.com/How-does-the-MD5-algorithm-work	security	0.25	0.0350877193	0.84	1.1250877193	0	0					
+1	32	https://www.quora.com/How-does-the-MD5-algorithm-work	seconds	0.25	0.0350877193	0.84	1.1250877193	0	0	can_be_find_on	can_be_find_within			
+1	32	https://www.quora.com/How-does-the-MD5-algorithm-work	computer	0.25	0.0350877193	0.84	1.1250877193	0	0	can_be_find_on	can_be_find_within			
+1	35	https://www.quora.com/How-does-the-MD5-algorithm-work	hours	0.25	0.0350877193	0.84	1.1250877193	0	0	can_be_produce_for				
+1	35	https://www.quora.com/How-does-the-MD5-algorithm-work	prefixes	0.25	0.0350877193	0.84	1.1250877193	0	0	can_be_produce_for				
+1	35	https://www.quora.com/How-does-the-MD5-algorithm-work	produce	0.25	0.0350877193	0.84	1.1250877193	0	0	can_be_produce_for				
+1	36	https://www.quora.com/How-does-the-MD5-algorithm-work	ability	0.25	0.0350877193	0.84	1.1250877193	0	0	has_been_greatly_aided_by				
+1	37	https://www.quora.com/How-does-the-MD5-algorithm-work	computed	0.25	0.0350877193	0.84	1.1250877193	0	0	hashes_per				
+1	38	https://www.quora.com/How-does-the-MD5-algorithm-work	source	0.25	0.0350877193	0.84	1.1250877193	0	0	can_calculate				
+1	38	https://www.quora.com/How-does-the-MD5-algorithm-work	calculate	0.25	0.0350877193	0.84	1.1250877193	0	0	can_calculate				
+2	18	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	january_01	0.0625	0.0555555556	1	1.1180555556	0	0					
+2	27	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	12_bytes	0.0625	0.0555555556	1	1.1180555556	0	0	More_recently_presented	using_12_bytes_at	be_using_at		
+0	2	https://en.wikipedia.org/wiki/Hash_function	hash_function	0.6875	0.2105263158	0.2	1.0980263158	0	1	are_called_hash	be_returned_by			
+0	6	https://en.wikipedia.org/wiki/Hash_function	cryptography	0.25	0	0.84	1.09	0	1	are_also_useful_in				
+0	7	https://en.wikipedia.org/wiki/Hash_function	knowing	0.25	0	0.84	1.09	0	1	is_deliberately	is			
+0	7	https://en.wikipedia.org/wiki/Hash_function	reconstruct	0.25	0	0.84	1.09	0	1	is_deliberately	is			
+0	8	https://en.wikipedia.org/wiki/Hash_function	hmacs	0.25	0	0.84	1.09	0	1					
+0	18	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	list	0.25	0	0.84	1.09	0	0	can_implement	be_using_with	be_initialized_to		
+0	36	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	lot	0.25	0	0.84	1.09	0	0	saw_a_lot_of_hash_function_in	saw	be_saw_in	saw_applications_in	
+0	38	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	kind	0.25	0	0.84	1.09	0	0	be_doing_on	be_doing_	be_doing_by		
+1	3	http://www.iusmentis.com/technology/hashfunctions/md5/	fingerprint	0.25	0	0.84	1.09	0	0	is_sometimes_also_called	be_the_hash_of			
+1	4	http://www.iusmentis.com/technology/hashfunctions/md5/	md5	0.25	0	0.84	1.09	0	0	is_used_in				
+1	5	http://www.iusmentis.com/technology/hashfunctions/md5/	verification	0.25	0	0.84	1.09	0	0	is_the_creation_of	is			
+1	17	http://searchsecurity.techtarget.com/definition/MD5	length	0.25	0	0.84	1.09	0	0	is				
+1	17	http://searchsecurity.techtarget.com/definition/MD5	authenticating	0.25	0	0.84	1.09	0	0	is				
+1	27	https://www.quora.com/How-does-the-MD5-algorithm-work	zeros	0.25	0	0.84	1.09	0	0	is_padded_with				
+1	41	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	md6	0.25	0	0.84	1.09	0	0	comprises_of				
+1	41	https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm	md4	0.25	0	0.84	1.09	0	0	comprises_of				
+1	53	https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work	128_bit__hash	0.375	0.3333333333	0.36	1.0683333333	0	0					
+1	17	http://searchsecurity.techtarget.com/definition/MD5	message	0.4375	0.1818181818	0.36	0.9793181818	0	0	is				
+0	20	http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html	named_0	0.0625	0.0555555556	0.84	0.9580555556	0	0	are_in				
+1	1	http://www.iusmentis.com/technology/hashfunctions/md5/	01_october_2005	0	0.0869565217	0.84	0.9269565217	0	0					
+2	70	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/2001/0102/0102q/0102q.htm	hashing	0.25	0.1666666667	0.44	0.8566666667	0	0					
+2	62	http://collaboration.cmc.ec.gc.ca/science/rpn/biblio/ddj/Website/articles/DDJ/1994/9408/9408m/9408m.htm	algorithms	0.25	0.1395348837	0.44	0.8295348837	0	0	explores				
+1	17	http://searchsecurity.techtarget.com/definition/MD5	output	0.25	0.1818181818	0.36	0.7918181818	0	0	is				
+1	2	http://www.iusmentis.com/technology/hashfunctions/md5/	input	0.25	0.1739130435	0.36	0.7839130435	0	0	is	be_produces_by			
+0	40	https://www.cs.auckland.ac.nz/software/AlgAnim/hash_func.html	slots	0.25	0.1538461538	0.36	0.7638461538	0	0	should_distribute				
+1	7	https://en.wikipedia.org/wiki/MD5	found	0.25	0.1538461538	0.36	0.7638461538	0	0					
+0	3	https://en.wikipedia.org/wiki/Hash_function	hash_table	0.625	0.1052631579	0.0171428571	0.747406015	0	1	be_widely_used_in	be_widely_used_for	is		
+2	28	http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473	design	0.25	0.0555555556	0.44	0.7455555556	0	0	have_by				
+0	36	https://stackoverflow.com/questions/34595/what-is-a-good-hash-function	make	0.25	0.125	0.36	0.735	0	0	saw_a_lot_of_hash_function_in	saw	be_saw_in	saw_applications_in	
+1	2	http://www.iusmentis.com/technology/hashfunctions/md5/	takes	0.25	0.0869565217	0.36	0.6969565217	0	0	is	be_produces_by			
+1	2	http://www.iusmentis.com/technology/hashfunctions/md5/	produces	0.25	0.0869565217	0.36	0.6969565217	0	0	is	be_produces_by			

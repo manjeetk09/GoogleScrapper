@@ -1,0 +1,60 @@
+0;An idealized, very simple example of a description of some relvars and their attributes.
+0; Customer .
+0; Order .
+0; Order Line .
+0; Invoice .
+0; Invoice Line .
+0; Product .
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;A relational database is a collection of data items organized as a set of formally_described tables from which data can be accessed or reassembled in many different ways without having to reorganize the database tables.
+0; The relational database was invented by E.
+0; F.
+0; Codd at IBM in 1970.
+0;.
+0;.
+0;.
+0;.
+0; .
+0; .
+0; .
+0; .
+0;A relational database is a set of tables containing data fitted into predefined categories.
+0; Each table contains one or more data categories in columns.
+0; Each row contains a unique instance of data for the categories defined by the columns.
+0; For example, a typical business order entry database would include a table that described a customer with columns for name, address, phone number, and so forth.
+0; Another table would describe an order.
+0; product, customer, date, sales price, and so forth.
+0; A user of the database could obtain a view of the database that fitted the user s needs.
+0; For example, a branch office manager might like a view or report on all customers that had bought products after a certain date.
+0; A financial services manager in the same company could, from the same tables, obtain a report on accounts that needed to be paid.
+0;.
+0;.
+0;.
+0;.
+0; .
+0; .
+0; .
+0; .
+0;The relational data model describes the world as  a collection of inter_related relations  .
+0;.
+0;The principal storage units are called columns, or fields, or attributes.
+0; These will house the basic components of data that your content can be broken down into.
+0; When deciding which fields to create you need to think generically about your information.
+0;  For example, drawing out the common components of the information that you will store in the database, and avoiding the specifics that distinguish one item from another.
+0;.
+0;By Paul McFedries.
+0;Sep 10, 2004.
+0;The most common relational model is one where a single record in the parenttable relates to multiple records in the child table.
+0; This is called aone_to_many relationship.
+0; The sales leads example is a one_to_manyrelationship because one record in the Companies table can relate to manyrecords in the Contacts table .
+0; In these models, the  many  table is theone where you add the foreign key.
+0;Another example of a one_to_many relationship is an application that tracksaccounts_ receivable invoices.
+0; You need one table for the invoice dataand another for the customer data .
+0; In this case, onecustomer can place many orders, so Customers is the parent table, Invoices isthe child table, and the common field is the Customer table s primarykey.

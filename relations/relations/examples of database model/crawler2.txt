@@ -1,0 +1,83 @@
+1;Common logical data models for databases include.
+1; Hierarchical database model.
+1; Network model.
+1; Relational model.
+1; Entity relationship model Enhanced entity relationship model.
+1; Object model.
+1; Document model.
+1; Entity attribute value model.
+1; Star schema.
+1;v.
+1;t.
+1;e.
+1;Enhanced.
+1;v.
+1;t.
+1;e.
+1;v.
+1;t.
+1;e.
+1;v.
+1;t.
+1;e.
+1;v.
+1;t.
+1;e.
+1;.
+1;.
+0;There are many kinds of data models.
+0; Some of the most common ones include.
+0; Hierarchical database model.
+0; Relational model.
+0; Network model.
+0; Object_oriented database model.
+0; Entity_relationship model.
+0; Document model.
+0; Entity_attribute_value model.
+0; Star schema.
+0; The object_relational model, which combines the two that make up its name.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Database design is a process of modeling an enterprise in the real world.
+0; In fact, a database itself is a model of the real world that contains selected information needed by the enterprise.
+0; Many models and languages some formally and mathematically defined, some informal and intuitive are used by designers.
+0; Here are the ones that we present in this tutorial.
+0;Common logical data models for databases include.
+0; Hierarchical database model.
+0; Network model.
+0; Relational model.
+0; Entity relationship model Enhanced entity relationship model.
+0; Object model.
+0; Document model.
+0; Entity attribute value model.
+0; Star schema.
+0;v.
+0;t.
+0;e.
+0;Enhanced.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;High_level Conceptual Data models.
+0;.
+0;A Database model defines the logical design of data.
+0; The model describes the relationships between different parts of the data.
+0; Historically, in database design, three models are commonly used.
+0; They are, Hierarchical Model.
+0; Network Model.
+0; Relational Model.
+0;     .

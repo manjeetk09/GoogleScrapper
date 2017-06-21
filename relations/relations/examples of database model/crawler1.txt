@@ -1,0 +1,47 @@
+0;Types of database models.
+0;Relational model.
+0;Hierarchical model.
+0;Network model.
+0;Object_oriented database model.
+0;Object_relational model.
+0;Entity_relationship model.
+0;Other database models.
+0;NoSQL database models.
+0;Databases on the Web.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;A database model shows the logical structure of a database, including the relationships and constraints that determine how data can be stored and accessed.
+0; Individual database models are designed based on the rules and concepts of whichever broader data model the designers adopt.
+0; Most data models can be represented by an accompanying database diagram.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;The model also accounts for the types of relationships between those tables, including one_to_one, one_to_many, and many_to_many relationships.
+0; Here s an example.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Although the focus of this article is data modeling, there are often alternatives to data_oriented artifacts .
+0; For example, when it comes to conceptual modeling ORM diagrams aren t your only option   In addition to LDMs it is quite common for people to create UML class diagrams and even Class Responsibility Collaborator cards instead.
+0;  In fact, my experience is that CRC cards are superior to ORM diagrams because it is very easy to get project stakeholders actively involved in the creation of the model.
+0; Instead of a traditional, analyst_led drawing session you can instead facilitate stakeholders through the creation of CRC cards.
+0;UML.
+0;The following entity relationship diagram is showing a typical online or retail business ER database model diagram sample.
+0; The database model diagram consists of five tables and four parent_child relationships.
+0; Be sure you fully understand it.
+0;A data structure diagram is a diagram and data model used to describe conceptual data models by providing graphical notations which document entities and their relationships, and the constraints that bind them.
+0; The basic graphic elements of DSDs are boxes, representing entities, and arrows, representing relationships.
+0; Data structure diagrams are most useful for documenting complex data entities.
+0;.
+0;.
+0;.
+0;.
+0;Example.
+0;Example Data Model Diagram.

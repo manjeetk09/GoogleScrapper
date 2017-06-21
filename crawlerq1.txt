@@ -1,350 +1,1120 @@
-A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated
-A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated
- The most popular example of a database model is the relational model, which uses a table_based format
- The most popular example of a database model is the relational model, which uses a table_based format
- Entity attribute value model
-An object_relational database combines the two related structures
-A given database management system may provide one or more models
- The optimal structure depends on the natural organization of the application s data, and on the application s requirements, which include transaction rate , reliability, maintainability, scalability, and cost
- Most database management systems are built around one particular data model, although it is possible for products to offer support for more than one model
-Various physical data models can implement any given logical model
- Most database software will offer the user some level of control in tuning the physical implementation, since the choices that are made have a significant effect on performance
-A model is not just a way of structuring data
- Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
- Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
- Although these operations may not be explicit in a particular query language, they provide the foundation on which a query language is built
-The flat model consists of a single, two_dimensional array of data elements, where all members of a given column are assumed to be similar values, and all members of a row are assumed to be related to one another
-The flat model consists of a single, two_dimensional array of data elements, where all members of a given column are assumed to be similar values, and all members of a row are assumed to be related to one another
- Each row would have the specific password associated with an individual user
- This tabular format is a precursor to the relational model
-These models were popular in the 1960s, 1970s, but nowadays can be found primarily in old legacy systems
-In a hierarchical model, data is organized into a tree_like structure, implying a single parent for each record
-In a hierarchical model, data is organized into a tree_like structure, implying a single parent for each record
- A sort field keeps sibling records in a particular order
- Hierarchical structures were widely used in the early mainframe database management systems, such as the Information Management System by IBM, and now describe the structure of XML documents
- This structure allows one one_to_many relationship between two types of data
- This structure is very efficient to describe many relationships in the real world  recipes, table of contents, ordering of paragraphs verses, any nested and sorted information
- This structure is very efficient to describe many relationships in the real world  recipes, table of contents, ordering of paragraphs verses, any nested and sorted information
-This hierarchy is used as the physical order of records in storage
- Such limitations have been compensated for in later IMS versions by additional logical hierarchies imposed on the base physical hierarchy
-The network model expands upon the hierarchical structure, allowing many_to_many relationships in a tree_like structure that allows multiple parents
- It was most popular before being replaced by the relational model, and is defined by the CODASYL specification
- It was most popular before being replaced by the relational model, and is defined by the CODASYL specification
- Records contain fields 
- Sets define one_to_many relationships between records
- A record may be an owner in any number of sets, and a member in any number of sets
- At the same time another set may be defined where B is the owner of A
- Access to records is either sequential or by navigation in the circular linked lists
-The network model is able to represent redundancy in data more efficiently than in the hierarchical model, and there can be more than one path from an ancestor node to a descendant
-The network model is able to represent redundancy in data more efficiently than in the hierarchical model, and there can be more than one path from an ancestor node to a descendant
- a program maintains a current position, and navigates from one record to another by following the relationships in which the record participates
-Although it is not an essential feature of the model, network databases generally implement the set relationships by means of pointers that directly address the location of a record on disk
-Popular DBMS products that utilized it were Cincom Systems  Total and Cullinet s IDMS
- IDMS gained a considerable customer base  in the 1980s, it adopted the relational model and SQL in addition to its original tools and languages
- IDMS gained a considerable customer base  in the 1980s, it adopted the relational model and SQL in addition to its original tools and languages
-Most object databases use the navigational concept to provide fast navigation across networks of objects, generally using object identifiers as  smart  pointers to related objects
-In an inverted file or inverted index, the contents of the data are used as keys in a lookup table, and the values in the table are pointers to the location of each instance of a given content item
-In an inverted file or inverted index, the contents of the data are used as keys in a lookup table, and the values in the table are pointers to the location of each instance of a given content item
- The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
- The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
- The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
- The inverted file data model can put indexes in a second set of files next to existing flat database files, in order to efficiently directly access needed records in these files
-Notable for using this data model is the ADABAS DBMS of Software AG, introduced in 1970
-Notable for using this data model is the ADABAS DBMS of Software AG, introduced in 1970
- In the 1980s it has adopted the relational model and SQL in addition to its original tools and languages
- Clusterpoint query language JS SQL blends together SQL and JavaScript syntax with full text search, where inverted index is being used to deliver milliseconds_range text search performance and relevant pagination in web and mobile applications
-The relational model was introduced by E
- It is a mathematical model defined in terms of predicate logic and set theory, and systems implementing it have been used by mainframe, midrange and microcomputer systems
- It is a mathematical model defined in terms of predicate logic and set theory, and systems implementing it have been used by mainframe, midrange and microcomputer systems
-The products that are generally referred to as relational databases in fact implement a model that is only an approximation to the mathematical model defined by Codd
-The products that are generally referred to as relational databases in fact implement a model that is only an approximation to the mathematical model defined by Codd
- A relation is a table with columns and rows
-The basic data structure of the relational model is the table, where information about a particular entity is represented in rows and columns
-The basic data structure of the relational model is the table, where information about a particular entity is represented in rows and columns
- Thus, the  relation  in  relational database  refers to the various tables in the database  a relation is a set of tuples
- Thus, the  relation  in  relational database  refers to the various tables in the database  a relation is a set of tuples
- The columns enumerate the various attributes of the entity , and a row is an actual instance of the entity that is represented by the relation
- The columns enumerate the various attributes of the entity , and a row is an actual instance of the entity that is represented by the relation
- The columns enumerate the various attributes of the entity , and a row is an actual instance of the entity that is represented by the relation
- The columns enumerate the various attributes of the entity , and a row is an actual instance of the entity that is represented by the relation
- As a result, each tuple of the employee table represents various attributes of a single employee
- First, the ordering of columns is immaterial in a table
-A relational database contains multiple tables, each similar to the one in the  flat  database model
- One of the strengths of the relational model is that, in principle, any value occurring in two different records , implies a relationship among those two records
- Tables can also have a designated single attribute or a set of attributes that can act as a  key , which can be used to uniquely identify each tuple in the table
- For example, an Employee table may contain a column named Location which contains a value that matches the key of a Location table
- Any column can be a key, or multiple columns can be grouped together into a compound key
- It is not necessary to define all the keys in advance  a column can be used as a key even if it was not originally intended to be one
- It is not necessary to define all the keys in advance  a column can be used as a key even if it was not originally intended to be one
- It is not necessary to define all the keys in advance  a column can be used as a key even if it was not originally intended to be one
- It is not necessary to define all the keys in advance  a column can be used as a key even if it was not originally intended to be one
- If no natural key is suitable , an arbitrary or surrogate key can be assigned 
- In practice, most databases have both generated and natural keys, because generated keys can be used internally to create links between rows that cannot break, while natural keys can be used, less reliably, for searches and for integration with other databases
- In practice, most databases have both generated and natural keys, because generated keys can be used internally to create links between rows that cannot break, while natural keys can be used, less reliably, for searches and for integration with other databases
-The most common query language used with the relational model is the Structured Query Language 
-The most common query language used with the relational model is the Structured Query Language 
-The dimensional model is a specialized adaptation of the relational model used to represent data in data warehouses in a way that data can be easily summarized using online analytical processing, or OLAP queries
-The dimensional model is a specialized adaptation of the relational model used to represent data in data warehouses in a way that data can be easily summarized using online analytical processing, or OLAP queries
- In the dimensional model, a database schema consists of a single large table of facts that are described using dimensions and measures
- A dimension provides the context of a fact and is used in queries to group related facts together
- A dimension provides the context of a fact and is used in queries to group related facts together
- A measure is a quantity describing the fact, such as revenue
- It is important that measures can be meaningfully aggregated for example, the revenue from different locations can be added together
-In an OLAP query, dimensions are chosen and the facts are grouped and aggregated together to create a summary
-In an OLAP query, dimensions are chosen and the facts are grouped and aggregated together to create a summary
- An alternative physical implementation, called a snowflake schema, normalizes multi_level hierarchies within a dimension into multiple tables
-A data warehouse can contain multiple dimensional schemas that share dimension tables, allowing them to be used together
- Coming up with a standard set of dimensions is an important part of dimensional modeling
- Coming up with a standard set of dimensions is an important part of dimensional modeling
- Alternate terms include  hybrid database ,  Object_enhanced RDBMS  and others
- Codd s Information Principle, which requires that
- For example, they allow representation of a directed graph with trees on the nodes
- The German company sones implements this concept in its GraphDB
-Some post_relational products extend relational systems with non_relational features
- Others arrived in much the same place by adding relational features to pre_relational systems
- Others arrived in much the same place by adding relational features to pre_relational systems
- Paradoxically, this allows products that are historically pre_relational, such as PICK and MUMPS, to make a plausible claim to be post_relational
-The resource space model is a non_relational data model based on multi_dimensional classification
-The resource space model is a non_relational data model based on multi_dimensional classification
-Graph databases allow even more general structure than a network database  any node may be connected to any other node
-Multivalue databases are  lumpy  data, in that they can store exactly the same way as relational databases, but they also permit a level of depth which the relational model can only approximate using sub_tables
- This is nearly identical to the way XML expresses data, where a given field attribute can have multiple right answers at the same time
- Multivalue can be thought of as a compressed form of XML
-An example is an invoice, which in either multivalue or relational data could be seen as Invoice Header Table _ one entry per invoice, and Invoice Detail Table _ one entry per line item
- In the multivalue model, we have the option of storing the data as on table, with an embedded table to represent the detail
- This aims to avoid the object_relational impedance mismatch _ the overhead of converting information between its representation in the database and its representation in the application program 
- Even further, the type system used in a particular application can be defined directly in the database, allowing the database to enforce the same data integrity invariants
-A variety of these ways have been triedfor storing objects in a database
- This typically requires the addition of some kind of query language, since conventional programming languages do not have the ability to find objects based on their information content
- This typically requires the addition of some kind of query language, since conventional programming languages do not have the ability to find objects based on their information content
- Others have attacked the problem from the database end, by defining an object_oriented data model for the database, and defining a database programming language that allows full programming capabilities as well as traditional query facilities
-An alternative to translating between objects and relational databases is to use an object_relational mapping library
-Armstrong s axioms
-Pages using more footnotes with unknown parameters
-Pages using more footnotes with unknown parameters
-This page was last edited on 10 June 2017, at 07 41 
+linear
+quadratic
+power
+polynomial
+rational
+exponential
+logarithmic
+sinusoidal
+In mathematics, an algebraic function is a function that can be defined as the root of a polynomial equation
+ Quite often algebraic functions can be expressed using a finite number of terms, involving only the algebraic operations addition, subtraction, multiplication, division, and raising to a fractional power
+Examples of such functions are
+ f   1   x   displaystyle f 1 x 
+ f   x   displaystyle f   sqrt  x   
+ f   1   x 3 x 3   7   7 x 1   3   displaystyle f   frac   sqrt  1 x  3    x  3 7 _  sqrt  7  x  1 3    
+ This is the case, for example, of the Bring radical, which is the function implicitly defined by
+where the coefficients aiare polynomial functions of x, with coefficients belonging to a set S
+where the coefficients aiare polynomial functions of x, with coefficients belonging to a set S
+A function which is not algebraic is called a transcendental function, as it is for example the case of exp   , tan   , ln   ,     displaystyle  exp, tan, ln, Gamma   
+A function which is not algebraic is called a transcendental function, as it is for example the case of exp   , tan   , ln   ,     displaystyle  exp, tan, ln, Gamma   
+ A composition of transcendental functions can give an algebraic function
+ f   cos       1   x 2   displaystyle f  cos    sqrt  1_x  2     
+As an equation of degree n has n roots, a polynomial equation does not implicitly define a single function, but n functions, sometimes also called branches
+ Consider for example the equation of the unit circle
+ y 2   x 2   1
+   displaystyle y  2  x  2  1
+ ,  This determines y, except only up to an overall sign  accordingly, it has two branches
+ y     1   x 2 
+   displaystyle y  pm   sqrt  1_x  2   
+ , 
+An algebraic function in m variables is similarly defined as a function y which solves a polynomial equation in m   1 variables
+,xm 
+The informal definition of an algebraic function provides a number of clues about their properties
+The informal definition of an algebraic function provides a number of clues about their properties
+ To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations
+ To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations
+ addition, multiplication, division, and taking an nth root
+ This is something of an oversimplification  because of the fundamental theorem of Galois theory, algebraic functions need not be expressible by radicals
+First, note that any polynomial function y   p   displaystyle y p  is an algebraic function, since it is simply the solution y to the equation
+More generally, any rational function y   p q   displaystyle y   frac  p  q    is algebraic, being the solution to
+Moreover, the nth root of any polynomial y   p n   displaystyle y   sqrt p    is an algebraic function, solving the equation
+ For supposing that y is a solution to
+ Indeed, interchanging the roles of x and y and gathering terms,
+Writing x as a function of y gives the inverse function, also an algebraic function
+ For example, y   x2 fails the horizontal line test
+ it fails to be one_to_one
+ The inverse is the algebraic  function  x     y   displaystyle x  pm   sqrt  y    
+ Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve
+ Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve
+ Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve
+ Hence any polynomial relation p  0 is guaranteed to have at least one solution for y at each point x, provided we allow y to assume complex as well as real values
+ Thus, problems to do with the domain of an algebraic function can safely be minimized
+Furthermore, even if one is ultimately interested in real algebraic functions, there may be no means to express the function in terms of addition, multiplication, division and taking nth roots without resorting to complex numbers 
+Furthermore, even if one is ultimately interested in real algebraic functions, there may be no means to express the function in terms of addition, multiplication, division and taking nth roots without resorting to complex numbers 
+ For example, consider the algebraic function determined by the equation
+Using the cubic formula, we get
+For x   3 4 3 ,   displaystyle x leq   frac  3   sqrt 4   ,  the square root is real and the cubic root is thus well defined, providing the unique real root
+ On the other hand, for x   3 4 3 ,   displaystyle x   frac  3   sqrt 4   ,  the square root is not real, and one has to choose, for the square root, either non_real square root
+ On the other hand, for x   3 4 3 ,   displaystyle x   frac  3   sqrt 4   ,  the square root is not real, and one has to choose, for the square root, either non_real square root
+ Thus the cubic root has to be chosen among three non_real numbers
+ If the same choices are done in the two terms of the formula, the three choices for the cubic root provide the three branches shown, in the accompanying image
+ If the same choices are done in the two terms of the formula, the three choices for the cubic root provide the three branches shown, in the accompanying image
+On a more significant theoretical level, using complex numbers allows one to use the powerful techniques of complex analysis to discuss algebraic functions
+ In particular, the argument principle can be used to show that any algebraic function is in fact an analytic function, at least in the multiple_valued sense
+ In particular, the argument principle can be used to show that any algebraic function is in fact an analytic function, at least in the multiple_valued sense
+ In particular, the argument principle can be used to show that any algebraic function is in fact an analytic function, at least in the multiple_valued sense
+Formally, let pbe a complex polynomial in the complex variables x and y
+ Suppose that x0   C is such that the polynomial pof y has n distinct zeros
+ Suppose that x0   C is such that the polynomial pof y has n distinct zeros
+ Suppose that x0   C is such that the polynomial pof y has n distinct zeros
+ We shall show that the algebraic function is analytic in a neighborhood of x0
+ Choose a system of n non_overlapping discs  i containing each of these zeros
+ Then by the argument principle
+By continuity, this also holds for all x in a neighborhood of x0
+ In particular, phas only one root in  i, given by the residue theorem
+which is an analytic function
+Note that the foregoing proof of analyticity derived an expression for a system of n different function elements fi, provided that x is not a critical point of p
+Note that the foregoing proof of analyticity derived an expression for a system of n different function elements fi, provided that x is not a critical point of p
+ A critical point is a point where the number of distinct zeros is smaller than the degree of p, and this occurs only where the highest degree term of p vanishes, and where the discriminant vanishes
+ A critical point is a point where the number of distinct zeros is smaller than the degree of p, and this occurs only where the highest degree term of p vanishes, and where the discriminant vanishes
+ Hence there are only finitely many such points c1, 
+, cm
+Note that, away from the critical points, we have
+since the fi are by definition the distinct zeros of p
+since the fi are by definition the distinct zeros of p
+  The monodromy action on the universal covering space is related but different notion in the theory of Riemann surfaces
+ 
+The ideas surrounding algebraic functions go back at least as far as Ren  Descartes
+ The first discussion of algebraic functions appears to have been in Edward Waring s 1794 An Essay on the Principles of Human Knowledge in which he writes
+1 Algebraic functions in one variable 1 1 Introduction and overview 1 2 The role of complex numbers 1 3 Monodromy
+2 History
+3 See also
+4 References
+5 External links
+1 1 Introduction and overview
+1 2 The role of complex numbers
+1 3 Monodromy
+Algebraic expression
+Analytic function
+Complex function
+Elementary function
+Function 
+Generalized function
+List of special functions and eponyms
+List of types of functions
+Polynomial
+Rational function
+Special functions
+Transcendental function
+Ahlfors, Lars   Complex Analysis  McGraw Hill  
+van der Waerden, B L    Modern Algebra, Volume II  Springer  
+Definition of  Algebraic function  in the Encyclopedia of Math
+Weisstein, Eric W   Algebraic Function   MathWorld  
+Algebraic Function at PlanetMath org 
+Definition of  Algebraic function  in David J  Darling s Internet Encyclopedia of Science
+Analytic functions
+Functions and mappings
+Meromorphic functions
+Special functions
+Types of functions
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Create a book
+Download as PDF
+Printable version
+Wikimedia Commons
+       
+Catal 
+Deutsch
+Espa ol
+Esperanto
+Fran ais
+       
+      
+Italiano
+       
+        
+Magyar
+Nederlands
+      
+   
+Norsk bokm l
+Norsk nynorsk
+Polski
+Portugu s
+       
+     
+          
+    
+  
+This page was last edited on 8 April 2017, at 03 37 
 Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
 Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
-A database model shows the logical structure of a database, including the relationships and constraints that determine how data can be stored and accessed
- Most data models can be represented by an accompanying database diagram
-You may choose to describe a database with any one of these depending on several factors
- The biggest factor is whether the database management system you are using supports a particular model
- Most database management systems are built with a particular data model in mind and require their users to adopt that model, although some do support multiple models
-In addition, different models apply to different stages of the database design process
- Record_based logical models, on the other hand, more closely reflect ways that the data is stored on the server
-Selecting a data model is also a matter of aligning your priorities for the database with the strengths of a particular model, whether those priorities include speed, cost reduction, usability, or something else
-Selecting a data model is also a matter of aligning your priorities for the database with the strengths of a particular model, whether those priorities include speed, cost reduction, usability, or something else
-Let s take a closer look at some of the most common database models
-The most common model, the relational model sorts data into tables, also known as relations, each of which consists of columns and rows
- Each column lists an attribute of the entity in question, such as price, zip code, or birth date
-The model also accounts for the types of relationships between those tables, including one_to_one, one_to_many, and many_to_many relationships
-Within the database, tables can be normalized, or brought to comply with normalization rules that make the database flexible, adaptable, and scalable
- When normalized, each piece of data is atomic, or broken into the smallest useful pieces
- The model was introduced by E
-The hierarchical model organizes data into a tree_like structure, where each record has a single parent or root
-The hierarchical model organizes data into a tree_like structure, where each record has a single parent or root
- Sibling records are sorted in a particular order
- That order is used as the physical order for storing the database
- This model is good for describing many real_world relationships
-The network model builds on the hierarchical model by allowing many_to_many relationships between linked records, implying multiple parent records
-The network model builds on the hierarchical model by allowing many_to_many relationships between linked records, implying multiple parent records
- Each set consists of one owner or parent record and one or more member or child records
- A record can be a member or child in multiple sets, allowing this model to convey complex relationships
- A record can be a member or child in multiple sets, allowing this model to convey complex relationships
-It was most popular in the 70s after it was formally defined by the Conference on Data Systems Languages 
-This model defines a database as a collection of objects, or reusable software elements, with associated features and methods
-A hypertext database allows any object to link to any other object
- It s useful for organizing lots of disparate data, but it s not ideal for numerical analysis
-The object_oriented database model is the best known post_relational database model, since it incorporates tables, but isn t limited to tables
-This hybrid database model combines the simplicity of the relational model with some of the advanced functionality of the object_oriented database model
- In essence, it allows designers to incorporate objects into the familiar table structure
-Languages and call interfaces include SQL3, vendor languages, ODBC, JDBC, and proprietary call interfaces that are extensions of the languages and interfaces used by the relational model
-Languages and call interfaces include SQL3, vendor languages, ODBC, JDBC, and proprietary call interfaces that are extensions of the languages and interfaces used by the relational model
-This model captures the relationships between real_world entities much like the network model, but it isn t as directly tied to the physical structure of the database
-Here, the people, places, and things about which data points are stored are referred to as entities, each of which has certain attributes that together make up their domain
-Here, the people, places, and things about which data points are stored are referred to as entities, each of which has certain attributes that together make up their domain
-A common form of the ER diagram is the star schema, in which a central fact table connects to multiple dimensional tables
-A common form of the ER diagram is the star schema, in which a central fact table connects to multiple dimensional tables
-A variety of other database models have been or are still used today
-A database built with the inverted file structure is designed to facilitate fast full text searches
- In this model, data content is indexed as a series of keys in a lookup table, with the values pointing to the location of the associated files
- In this model, data content is indexed as a series of keys in a lookup table, with the values pointing to the location of the associated files
- This structure can provide nearly instantaneous reporting in big data and analytics, for instance
- This structure can provide nearly instantaneous reporting in big data and analytics, for instance
-The flat model is the earliest, simplest data model
- In order to access or manipulate the data, the computer has to read the entire flat file into memory, which makes this model inefficient for all but the smallest data sets
- In order to access or manipulate the data, the computer has to read the entire flat file into memory, which makes this model inefficient for all but the smallest data sets
- In order to access or manipulate the data, the computer has to read the entire flat file into memory, which makes this model inefficient for all but the smallest data sets
- In order to access or manipulate the data, the computer has to read the entire flat file into memory, which makes this model inefficient for all but the smallest data sets
-Each cell in a dimensional database contains data about the dimensions tracked by the database
- Here the distinction between data and schema is vague at best
- This model is useful for describing systems, such as certain Web_based data sources, which we treat as databases but cannot constrain with a schema
-This model divides all the data points based on whether they describe an entity or an association
-This model divides all the data points based on whether they describe an entity or an association
- In this model, an entity is anything that exists independently, whereas an association is something that only exists in relation to something else
- The stored fact has to do with the source, and each of the three identifiers may refer either to a link or an item
-The multivalue model, which breaks from the relational model by allowing attributes to contain a list of data rather than a single data point
-The multivalue model, which breaks from the relational model by allowing attributes to contain a list of data rather than a single data point
-The multivalue model, which breaks from the relational model by allowing attributes to contain a list of data rather than a single data point
-Most websites rely on some kind of database to organize and present data to users
- Whenever someone uses the search functions on these sites, their search terms are converted into queries for a database server to process
-The broad presence of databases allows them to be used in almost any field, from online shopping to micro_targeting a voter segment as part of a political campaign
-The broad presence of databases allows them to be used in almost any field, from online shopping to micro_targeting a voter segment as part of a political campaign
-When you re ready to start modelling your database, try Lucidchart
- It s the perfect tool for sketching out database systems quickly and easily
-A Database model defines the logical design of data
- The model describes the relationships between different parts of the data
- The model describes the relationships between different parts of the data
- Historically, in database design, three models are commonly used
-In this model each entity has only one parent but can have several children 
- At the top of hierarchy there is only one entity which is called Root
-In the network model, entities are organised in a graph,in which some entities can be accessed through several path
-In the network model, entities are organised in a graph,in which some entities can be accessed through several path
-In the network model, entities are organised in a graph,in which some entities can be accessed through several path
-Codd s rule
-Provide concepts that are close to the way people perceive data to present the data
- A typical example of this type is the entity relationship model which uses main concepts like entities, attributes, relationships
- A typical example of this type is the entity relationship model which uses main concepts like entities, attributes, relationships
- An entity has some attributes which represents properties of entity such as employee s name, address, birthdate
- An entity has some attributes which represents properties of entity such as employee s name, address, birthdate
- An entity has some attributes which represents properties of entity such as employee s name, address, birthdate
- A relationship represents an association among entities, for example an employee works on many projects
- A relationship represents an association among entities, for example an employee works on many projects
- A relationship represents an association among entities, for example an employee works on many projects
- The Relational model represents data as relations or tables
- The Network model represents data as record types and also represents a limited type of one to many relationship, called set type
-The Hierarchical model represents data as a hierarchical tree structures
- Each hierarchy represents a number of related records
- Each hierarchy represents a number of related records
-This work, unless otherwise expressly stated, is licensed under a Creative Commons Attribution 2
-This textbook is available for free at open
-This textbook is available for free at open
-Database systems can be based on different data models or database models respectively
- A data model is a collection of concepts and rules for the description of the structure of the database
- A data model is a collection of concepts and rules for the description of the structure of the database
- Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively
- Data Models are fundamental entities to introduce abstraction in a DBMS
- Data models define how data is connected to each other and how they are processed and stored inside the system
- Data models define how data is connected to each other and how they are processed and stored inside the system
- Data models define how data is connected to each other and how they are processed and stored inside the system
- Data models define how data is connected to each other and how they are processed and stored inside the system
-The very first data model could be flat data_models, where all the data used are to be kept in the same plane
- Earlier data models were not so scientific, hence they were prone to introduce lots of duplication and update anomalies
-Entity_Relationship Model is based on the notion of real_world entities and relationships among them
- While formulating real_world scenario into the database model, the ER Model creates entity set, relationship set, general attributes and constraints
-ER Model is based on   Entities and their attributes
-Entity   An entity in an ER Model is a real_world entity having properties called attributes
-Entity   An entity in an ER Model is a real_world entity having properties called attributes
- For example, in a school database, a student is considered as an entity
- For example, in a school database, a student is considered as an entity
- For example, in a school database, a student is considered as an entity
- Student has various attributes like name, age, class, etc
- Student has various attributes like name, age, class, etc
- Relationships are mapped with entities in various ways
- Mapping cardinalities define the number of association between two entities
- Mapping cardinalities define the number of association between two entities
- Mapping cardinalities define the number of association between two entities
-The most popular data model in DBMS is the Relational Model
- It is more scientific a model than others
- This model is based on first_order predicate logic and defines a table as an n_ary relation
-The main highlights of this model are   Data is stored in tables called relations
- Each row in a relation contains a unique value
- Each column in a relation contains values from a same domain
-DBMS _ Codd s Rules
-Developer s Best Practices
-Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc 
-Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc 
-Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc 
-Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc 
-Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities  
-Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities  
-Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities  
-Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities  
- We d love to meet you 
-Brio is an award_winning provider of cloud_based services and solutions tailored for middle market and high growth companies
- For more than 10 years, Brio has implemented custom and enterprise level solutions for local companies to Fortune 500 brands
-Hierarchical Database model is one of the oldest database models, dating from late 1950s
- This model is like a structure of a tree with the records forming the nodes and fields forming the branches of the tree
- This model is like a structure of a tree with the records forming the nodes and fields forming the branches of the tree
-In the hierarchical data model, records are linked with other superior records on which they are dependent and also on the records, which are dependent on them
-In the hierarchical data model, records are linked with other superior records on which they are dependent and also on the records, which are dependent on them
- Figure illustrates the structure of a family
- Great grandparent is the root of the structure
- Great grandparent is the root of the structure
- Parents can have many children exhibiting one to many relationships
- The great grandparent record is known as the root of the tree
- The great grandparent record is known as the root of the tree
- In general, a root may have any number of dependents
- It shows a database of Customer_Loan, here a customer can take multiple loans and there is also a provision of joint loan where more than one person can take a joint loan
- It shows a database of Customer_Loan, here a customer can take multiple loans and there is also a provision of joint loan where more than one person can take a joint loan
- It shows a database of Customer_Loan, here a customer can take multiple loans and there is also a provision of joint loan where more than one person can take a joint loan
- It shows a database of Customer_Loan, here a customer can take multiple loans and there is also a provision of joint loan where more than one person can take a joint loan
- Customer C3 takes two loans L2 of amount 15000 and L3 of amount 25000
-In order to understand the hierarchical data model better, let us take the example of the sample database consisting of supplier, parts and shipments
-In order to understand the hierarchical data model better, let us take the example of the sample database consisting of supplier, parts and shipments
-In order to understand the hierarchical data model better, let us take the example of the sample database consisting of supplier, parts and shipments
- Also we assume that no more than one shipment exists for a given supplier part combination in the shipments table
-The tree structure has parts record superior to supplier record
- Each supplier occurrence includes the corresponding shipment quantity
- It is not possible to insert the information of the supplier e
- So, we can say that insert anomaly exists only for those children, which has no corresponding parents
- So, we can say that insert anomaly exists only for those children, which has no corresponding parents
- So, we can say that update anomalies only exist for children not for parent because children may have multiple entries in the database
- In hierarchical model, deletion of parent causes the deletion of child records also and if the child occurrence is the only occurrence in the whole database, then the information of child records will also lost with the deletion of parent
- Find the supplier number for suppliers who supply part P2
- In order to get this information, first we search the information of parent P2 from database, since parent occurs only once in the whole database, so we obtain only a single record for P2
- If supplier S2, is found under a part then the corresponding part number is printed, otherwise we go to next part until all the parts are searched for supplier S2
-Since, both the queries involved different logic and are complex, so we can conclude that retrieval operation of this model is complex and asymmetric
- As explained earlier, we can conclude that hierarchical model suffers from the Insertion anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, and thus hierarchical model is not suitable for all the cases
- As explained earlier, we can conclude that hierarchical model suffers from the Insertion anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, and thus hierarchical model is not suitable for all the cases
- Each field has a certain data type such as integer, real or string
-It is 1
- The record type 1 side is parent record type and one on the N side is called child record type of the PCR type
- Therefore, it is easier to view data arranged in manner
- The hierarchical database model is a very efficient, one when the database contains a large number of I
- The hierarchical database model is a very efficient, one when the database contains a large number of I
- N relationships and when the users require large number of transactions, using data whose relationships are fixed
- N relationships and when the users require large number of transactions, using data whose relationships are fixed
- The actual implementation of a hierarchical database depends on the physical storage of data
- The actual implementation of a hierarchical database depends on the physical storage of data
- Programming a hierarchical database is relatively complex because the programmers must know the physical path of the data items
- If you make any changes in the database structure of a hierarchical database, then you need to make the necessary changes in all the application programs that access the database
- Hierarchical database systems use physical storage paths to navigate to the different data segments
- So, the application programs should have a good knowledge of the relevant access paths to access the data
- As discussed earlier, hierarchical model suffers from the Insert anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, thus hierarchical model is not suitable for all the cases
- As discussed earlier, hierarchical model suffers from the Insert anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, thus hierarchical model is not suitable for all the cases
- As discussed earlier, hierarchical model suffers from the Insert anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, thus hierarchical model is not suitable for all the cases
- As discussed earlier, hierarchical model suffers from the Insert anomalies, Update anomalies and Deletion anomalies, also the retrieval operation is complex and asymmetric, thus hierarchical model is not suitable for all the cases
-N format required by the hierarchical model
- A set consists of an owner record type, a set name, and a member record type
- A member record type can have that role in more than one set  hence the multiparent concept is supported
- A member record type can have that role in more than one set  hence the multiparent concept is supported
-An owner record type can also be a member or owner in another set
- The data model is a simple network, and link and intersection record types may exist, as well as sets between them
- The CODASYL network model is based on mathematical set theory
-Network model is a collection data in which records are physically linked through linked lists 
-A DBMS is said to be a Network DBMS if the relationships among data in the database are of type many_to_many
-A DBMS is said to be a Network DBMS if the relationships among data in the database are of type many_to_many
-Thus the structure of a network database is extremely complicated because of these many_to_many relationships in which one record can be used as a key of the entire database
-Thus the structure of a network database is extremely complicated because of these many_to_many relationships in which one record can be used as a key of the entire database
-Thus the structure of a network database is extremely complicated because of these many_to_many relationships in which one record can be used as a key of the entire database
-The Relational Model was the first theoretically founded and well thought out Data Model, proposed by EfCodd in 1970, then a researcher at IBM
-The Relational Model is a depiction of how each piece of stored information relates to the other stored information
- It shows how tables are linked, what type of links are between tables, what keys are used, what information is referenced between tables
- It s an essential part of developing a normalized database structure to prevent repeat and redundant data storage
-The basic idea behind the relational model is that a database consists of a series of unordered tables that can be manipulated using non_procedural operations that return tables
- This model was in vast contrast to the more traditional database theories of the time that were much more complicated, less flexible and dependent on the physical storage methods of the data
- The RELATIONAL database model is based on the Relational Algebra, set theory and predicate logic
- The RELATIONAL database model is based on the Relational Algebra, set theory and predicate logic
-It is commonly thought that the word relational in the relational model comes from the fact that you relate together tables in a relational database
- Instead, the word relational has its roots in the terminology that Codd used to define the relational model
- Instead, the word relational has its roots in the terminology that Codd used to define the relational model
- The table in Codd s writings was actually referred to as a relation 
-In fact, Codd use the terms relations, attributes and tuples where most of us use the more common terms tables, columns and rows, respectively 
- Still, it has a long way to go before it meets all twelve rules completely
-An object_oriented database management system is a DBMS that stores data in a logical model that is closely aligned with an application program s object model
-An object_oriented database management system is a DBMS that stores data in a logical model that is closely aligned with an application program s object model
- Of course, an OODBMS will have a physical data model optimized for the kinds of logical data model it expects
-Object oriented database models have been around since the seventies when the concept of object oriented programming was first explored
- It is only in the last ten or fifteen years that companies are utilizing object oriented DBMSs 
-The result can be a performance increase of ten to one thousand times while writing as little as 40  of the code 
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+ There is a large theory of special functions which developed out of statistics and mathematical physics
+ A modern, abstract point of view contrasts large function spaces, which are infinite_dimensional and within which most functions are  anonymous , with special functions picked out by properties such as symmetry, or relationship to harmonic analysis and group representations
+See also List of types of functions
+g
+ addition, exponentials, logarithms
+ 
+Algebraic functions are functions that can be expressed as the solution of a polynomial equation with integer coefficients
+ Polynomials
+ Constant function
+ polynomial of degree zero, graph is a horizontal straight line Linear function
+ First degree polynomial, graph is a straight line
+ Quadratic function
+ Second degree polynomial, graph is a parabola
+ Cubic function
+ Third degree polynomial
+ Quartic function
+ Fourth degree polynomial
+ Quintic function
+ Fifth degree polynomial
+ Sextic function
+ Sixth degree polynomial
+ Rational functions
+ A ratio of two polynomials
+ nth root Square root
+ Yields a number whose square is the given one
+ Cube root
+ Yields a number whose cube is the given one
+Transcendental functions are functions that are not algebraic
+ Exponential function
+ raises a fixed number to a variable power
+ Hyperbolic functions
+ formally similar to the trigonometric functions
+ Logarithms
+ the inverses of exponential functions  useful to solve equations involving exponentials
+ Natural logarithm Common logarithm Binary logarithm
+ Power functions
+ if the power is a rational number it is not strictly a transcendental function
+ Periodic functions Trigonometric functions
+ sine, cosine, tangent, cotangent, secant, cosecant, exsecant, excosecant, versine, coversine, vercosine, covercosine, haversine, hacoversine, havercosine, hacovercosine, etc
+  used in geometry and to describe periodic phenomena
+ See also Gudermannian function
+1 Elementary functions 1 1 Algebraic functions 1 2 Elementary transcendental functions
+2 Special functions 2 1 Basic special functions 2 2 Number theoretic functions 2 3 Antiderivatives of elementary functions 2 4 Gamma and related functions 2 5 Elliptic and related functions 2 6 Bessel and related functions 2 7 Riemann zeta and related functions 2 8 Hypergeometric and related functions 2 9 Iterated exponential and related functions 2 10 Other standard special functions 2 11 Miscellaneous functions
+3 See also
+4 External links
+1 1 Algebraic functions
+1 2 Elementary transcendental functions
+2 1 Basic special functions
+2 2 Number theoretic functions
+2 3 Antiderivatives of elementary functions
+2 4 Gamma and related functions
+2 5 Elliptic and related functions
+2 6 Bessel and related functions
+2 7 Riemann zeta and related functions
+2 8 Hypergeometric and related functions
+2 9 Iterated exponential and related functions
+2 10 Other standard special functions
+2 11 Miscellaneous functions
+Indicator function  maps x to either 1 or 0, depending on whether or not x belongs to some subset 
+Sawtooth wave
+Square wave
+Triangle wave
+Floor function  Largest integer less than or equal to a given number 
+Absolute value  distance to the origin 
+Heaviside step function  0 for negative arguments and 1 for positive arguments  The integral of the Dirac delta function 
+Sigma function  Sums of powers of divisors of a given natural number 
+Euler s totient function  Number of numbers coprime to a given one 
+Euler s totient function  Number of numbers coprime to a given one 
+Prime_counting function  Number of primes less than or equal to a given number 
+Exponential integral
+Trigonometric integral  Including Sine Integral and Cosine Integral
+Error function  An integral important for normal random variables  Fresnel integral  related to the error function  used in optics  Dawson function  occurs in probability 
+Fresnel integral  related to the error function  used in optics 
+Gamma function  A generalization of the factorial function 
+Barnes G_function
+Beta function  Corresponding binomial coefficient analogue 
+Digamma function, Polygamma function
+Incomplete beta function
+Incomplete gamma function
+K_function
+Multivariate gamma function  A generalization of the Gamma function useful in multivariate statistics 
+Student s t_distribution
+Elliptic integrals  Arising from the path length of ellipses  important in many applications  Related functions are the quarter period and the nome  Alternate notations include  Carlson symmetric form Legendre form
+Elliptic integrals  Arising from the path length of ellipses  important in many applications  Related functions are the quarter period and the nome  Alternate notations include  Carlson symmetric form Legendre form
+Elliptic functions  The inverses of elliptic integrals  used to model double_periodic phenomena  Particular types are Weierstrass s elliptic functions and Jacobi s elliptic functions and the sine lemniscate and cosine lemniscate functions 
+Elliptic functions  The inverses of elliptic integrals  used to model double_periodic phenomena  Particular types are Weierstrass s elliptic functions and Jacobi s elliptic functions and the sine lemniscate and cosine lemniscate functions 
+Theta function
+Closely related are the modular forms, which include J_invariant Dedekind eta function
+Carlson symmetric form
+Legendre form
+J_invariant
+Dedekind eta function
+Airy function
+Bessel Clifford function
+Legendre function  From the theory of spherical harmonics 
+Scorer s function
+Sinc function
+Hermite polynomials
+Laguerre polynomials
+Chebyshev polynomials
+Riemann zeta function  A special case of Dirichlet series 
+Riemann Xi function
+Dirichlet eta function  An allied function 
+Dirichlet L_function
+Hurwitz zeta function
+Legendre chi function
+Lerch transcendent
+Polylogarithm and related functions  Incomplete polylogarithm Clausen function Complete Fermi Dirac integral, an alternate form of the polylogarithm  Incomplete Fermi Dirac integral Kummer s function Spence s function
+Polylogarithm and related functions  Incomplete polylogarithm Clausen function Complete Fermi Dirac integral, an alternate form of the polylogarithm  Incomplete Fermi Dirac integral Kummer s function Spence s function
+Riesz function
+Incomplete polylogarithm
+Clausen function
+Complete Fermi Dirac integral, an alternate form of the polylogarithm 
+Incomplete Fermi Dirac integral
+Kummer s function
+Spence s function
+Hypergeometric functions  Versatile family of power series 
+Confluent hypergeometric function
+Associated Legendre functions
+Meijer G_function
+Hyper operators
+Iterated logarithm
+Pentation
+Super_logarithms
+Super_roots
+Tetration
+Lambert W function  Inverse of f  w exp 
+Lambda function
+Lam  function
+Mittag_Leffler function
+Painlev  transcendents
+Parabolic cylinder function
+Synchrotron function
+Ackermann function  in the theory of computation, a computable function that is not primitive recursive 
+Dirac delta function  everywhere zero except for x   0  total integral is 1  Not a function but a distribution, but sometimes informally referred to as a function, particularly by physicists and engineers 
+Dirichlet function  is an indicator function that matches 1 to rational numbers and 0 to irrationals  It is nowhere continuous 
+Thomae s function  is a function that is continuous at all irrational numbers and discontinuous at all rational numbers  It is also a modification of Dirichlet function and sometimes called Riemann function 
+Thomae s function  is a function that is continuous at all irrational numbers and discontinuous at all rational numbers  It is also a modification of Dirichlet function and sometimes called Riemann function 
+Kronecker delta function  is a function of two variables, usually integers, which is 1 if they are equal, and 0 otherwise 
+Minkowski s question mark function  Derivatives vanish on the rationals 
+Weierstrass function  is an example of continuous function that is nowhere differentiable
+List of mathematical abbreviations
+Special functions   A programmable special functions calculator 
+Special functions at EqWorld  The World of Mathematical Equations 
+Calculus
+Mathematics_related lists
+Number theory
+Not logged in
+Talk
+Contributions
+Create account
+Log in
+Article
+Talk
+Read
+Edit
+View history
+Main page
+Contents
+Featured content
+Current events
+Random article
+Donate to Wikipedia
+Wikipedia store
+Help
+About Wikipedia
+Community portal
+Recent changes
+Contact page
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+Create a book
+Download as PDF
+Printable version
+       
+Catal 
+Espa ol
+     
+Fran ais
+Galego
+       
+Italiano
+   
+L tzebuergesch
+   
+         
+Polski
+Portugu s
+Rom n 
+       
+Sloven  ina
+T rk e
+    
+  
+This page was last edited on 25 January 2017, at 21 37 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+Algebra is the branch of mathematics concerning the study of the rules of operations and relations, and the constructions and concepts arising from them
+Algebra is the branch of mathematics concerning the study of the rules of operations and relations, and the constructions and concepts arising from them
+ Together with geometry, analysis, topology and number theory
+ The elementary algebra is often part of the curriculum in secondary education and introduces the concept of variables representing numbers
+ The elementary algebra is often part of the curriculum in secondary education and introduces the concept of variables representing numbers
+ 
+There are various types of algebraic functions
+Given f  x   1 
+Find fand f
+Plug x   0 in 
+   f  0   1   1
+   f  1
+Again, plug x   2 in 
+   f  2   1   3
+   f  3
+Given 2x2   4x _ 12 Factor the GCD
+   2x2   4x _ 12   2
+Factor the quadratic, x2   2x _ 6
+x2   2x _ 6   x2   3x _ 2x _ 6
+  x_ 2
+  
+   Factors of 2x2   4x _ 12   2 
+About Us      Careers      Contact Us      Blog      Homework Help      Teaching Jobs      Search Lessons      Answers      Calculators      Worksheets      Formulas      Offers
+Copyright   2017 _ TutorVista
+com, All rights reserved
+Home
+How it works
+About Us
+MathAlgebraAlgebraic Functions
+Algebraic Functions Algebraic Function Definition Types of Algebraic Functions Rational Algebraic Functions Algebraic Functions Examples
+Algebraic Function Definition
+Types of Algebraic Functions
+Rational Algebraic Functions
+Algebraic Functions Examples
+An error occurred trying to load this video
+Try refreshing the page, or contact customer support
+ Plus, get practice tests, quizzes, and personalized coaching to help you succeed
+Want to watch this again later 
+Log in or sign up to add this lesson to a Custom Course
+Login or Sign up
+An algebraic function is a function that involves only algebraic operations, like, addition, subtraction, multiplication, and division, as well as fractional or rational exponents
+ Think of an algebraic function as a machine, where real numbers go in, mathematical operations occur, and other numbers come out
+We call the numbers going into an algebraic function the input, x, or the domain
+We call the numbers going into an algebraic function the input, x, or the domain
+ We call the numbers coming out of a function the output, y, or the range
+ Remember, one value in, one value out
+There are many different types of algebraic functions
+ linear, quadratic, cubic, polynomial, rational, and radical equations
+ In this next part of the lesson, we ll learn about a couple of different methods we can use to identify them
+ Sometimes functions multiply the domain to get the range, like 3x
+ Functions may also subtract or divide the domain or use a combination of operations to produce the range
+ As long as the rule of  one in one out  is kept in place, the function exists
+If an algebraic function says to add two to the domain, we can create a table to show the function
+As you can see, for every domain, we have one range
+ These pairs of x values_ and y_values are called ordered pairs because we put them in order 
+ These pairs of x values_ and y_values are called ordered pairs because we put them in order 
+We can also turn our table into ordered pairs to show a function
+ , , and where there is one x_value for every one y_value
+We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
+We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
+We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
+We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
+We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
+ Where the ordered pairs meet is where the point is graphed
+ If we plot the points, we end up with a straight line, so the function, x   2, is considered a linear function and can be written in functional notation as f  x   2
+ If we plot the points, we end up with a straight line, so the function, x   2, is considered a linear function and can be written in functional notation as f  x   2
+ If we plot the points, we end up with a straight line, so the function, x   2, is considered a linear function and can be written in functional notation as f  x   2
+ The fis just another way to write y, which we call the f_function
+ It is a way for us to identify the different functions, instead of calling them all y   
+We know a graph is a function if it can pass the vertical line test
+We know a graph is a function if it can pass the vertical line test
+ If a vertical line crosses in two places on a graph, it is in conflict with the one in, one out rule
+ So, it is not a function
+Here is an example of a graph that is not a function
+As we said at the beginning of the lesson, there are many types of functions, such as the quadratic function and the cubic function
+As we said at the beginning of the lesson, there are many types of functions, such as the quadratic function and the cubic function
+As we said at the beginning of the lesson, there are many types of functions, such as the quadratic function and the cubic function
+ Let s start with a quadratic function
+The quadratic function
+ g  x 2 _ 3
+ First, let s create a table
+The domain can be any real number, this is why the x_value or domain is called the independent variable
+The range or y_value is called the dependent variable because it depends on what we use for the x_term
+Get FREE access for 5 days, just create an account
+No obligation, cancel anytime
+Select a subject to preview related courses
+ Math
+ History
+ English
+ ACT SAT
+ Science
+ Business
+ Psychology
+ AP
+Writing the numbers in our table as ordered pairs, we have
+Writing the numbers in our table as ordered pairs, we have
+ , , , , 
+ Did you notice how we repeated some of the range values  Is this acceptable  YES, because each ordered pair has one x_value and one y_value
+ Did you notice how we repeated some of the range values  Is this acceptable  YES, because each ordered pair has one x_value and one y_value
+ The y_values can be repeated as long as the x_values are not repeated
+Now let s graph this function and use the vertical line test to make sure we still have an algebraic function
+Now let s graph this function and use the vertical line test to make sure we still have an algebraic function
+Now let s graph this function and use the vertical line test to make sure we still have an algebraic function
+We call this function a quadratic function because it has a squared term, x 2
+Now let s take a look at a cubic function
+ h  x 3   x _ 2 and use the following values for the domain
+ _2, _1, 0, 1, and 2
+Writing these values as ordered pairs we have
+ , , , , 
+On a graph our ordered pairs will look like this
+After applying the vertical line test, we can see this is truly a function 
+An algebraic function is an equation that allows one to input a domain, or x_value and perform mathematical calculations to get an output, which is the range, or y_value, that is specific for that particular x_value
+An algebraic function is an equation that allows one to input a domain, or x_value and perform mathematical calculations to get an output, which is the range, or y_value, that is specific for that particular x_value
+There is a one in one out relationship between the domain and range
+There are several ways to show a function
+To unlock this lesson you must be a Study
+com Member
+ Create your account
+Already a member  Log In
+Did you know  We have over 95 college courses that prepare you to earn credit by exam that is accepted by over 2,000 colleges and universities
+Did you know  We have over 95 college courses that prepare you to earn credit by exam that is accepted by over 2,000 colleges and universities
+Did you know  We have over 95 college courses that prepare you to earn credit by exam that is accepted by over 2,000 colleges and universities
+ You can test out of the first two years of college and save thousands off your degree
+To learn more, visit our Earning Credit Page
+Not sure what college you want to attend yet  Study
+com has thousands of articles about every imaginable degree, area of study and career path that can help you find the school that s right for you
+com has thousands of articles about every imaginable degree, area of study and career path that can help you find the school that s right for you
+com has thousands of articles about every imaginable degree, area of study and career path that can help you find the school that s right for you
+Browse an area of study or degree level
+ Back To Course
+42 chapters   399 lessons
+Next Lesson
+Your Cart is Empty
+ Please Choose a Product
+Study
+ I learned more in 10 minutes than 1 month of chemistry classes 
+_ Ashlee P
+ I aced the CLEP exam and earned 3 college credits  
+ I aced the CLEP exam and earned 3 college credits  
+_ Clair S
+Study
+com video lessons have helped over half a million teachers engage their students
+The videos have changed the way I teach  The videos on Study
+com accomplish in 5 minutes what would take me an entire class
+ 
+_ Chris F
+Students in online learning conditions performed better than those receiving face_to_face instruction
+U
+S
+ Department of Education
+  copyright 2003_2017 Study
+com
+ All rights reserved
+Plans
+Courses Courses Find Courses by Subject Science Math Business Psychology History English Social Science Humanities Spanish ACT   SAT Test Prep Teacher Certification Professional Development By Education Level College High School Middle School Explore over 3,700 video courses Browse All Courses
+Credit Credit Credit Options Online College Credit High School   GED Certificates of Completion How it Works Earn Transferable Credit   Get your Degree fast Learn more
+Degrees Degrees Find Degrees by Subject Agriculture Architecture Biological and Biomedical Sciences Business Communications and Journalism Computer Sciences Culinary Arts and Personal Services Education Engineering Legal Liberal Arts and Humanities Mechanic and Repair Technologies Medical and Health Professions Physical Sciences Psychology Transportation and Distribution Visual and Performing Arts By Level High School Diploma Associates Degrees Bachelor Degrees Master Degrees Online Degrees Find a degree that fits your goals Search degrees
+Degrees Degrees Find Degrees by Subject Agriculture Architecture Biological and Biomedical Sciences Business Communications and Journalism Computer Sciences Culinary Arts and Personal Services Education Engineering Legal Liberal Arts and Humanities Mechanic and Repair Technologies Medical and Health Professions Physical Sciences Psychology Transportation and Distribution Visual and Performing Arts By Level High School Diploma Associates Degrees Bachelor Degrees Master Degrees Online Degrees Find a degree that fits your goals Search degrees
+Schools Schools Browse Schools by Degree Level Graduate Degrees High School Diplomas Certificate Programs Post Degree Certificates Undergraduate Degrees Browse Schools Public Schools by State University Video Reviews Career Counseling   Job Center Job Interviewing Tip Videos Job Networking Videos R sum  How To Videos Job Search Tips Career Videos Career Research Researching Careers Videos Glossary of Careers Career Info by Degree Job Outlook by Region Degree   Career Research Articles
+Contact Support
+Science
+Math
+Business
+Psychology
+History
+English
+Social Science
+Humanities
+Spanish
+ACT   SAT Test Prep
+Teacher Certification
+Professional Development
+College
+High School
+Middle School
+Online College Credit
+High School   GED
+Certificates of Completion
+How it Works
+Agriculture
+Architecture
+Biological and Biomedical Sciences
+Business
+Communications and Journalism
+Computer Sciences
+Culinary Arts and Personal Services
+Education
+Engineering
+Legal
+Liberal Arts and Humanities
+Mechanic and Repair Technologies
+Medical and Health Professions
+Physical Sciences
+Psychology
+Transportation and Distribution
+Visual and Performing Arts
+High School Diploma
+Associates Degrees
+Bachelor Degrees
+Master Degrees
+Online Degrees
+Graduate Degrees
+High School Diplomas
+Certificate Programs
+Post Degree Certificates
+Undergraduate Degrees
+Public Schools by State
+University Video Reviews
+Job Interviewing Tip Videos
+Job Networking Videos
+R sum  How To Videos
+Job Search Tips
+Career Videos
+Researching Careers Videos
+Glossary of Careers
+Career Info by Degree
+Job Outlook by Region
+Degree   Career Research Articles
+Video
+Quiz   Worksheet _ Algebraic Functions Quiz
+Course
+0 02 Algebraic Functions
+1 14 Tables
+2 23 Graphs
+3 06 Vertical Line Test
+3 30 Examples of Functions
+5 26 Lesson Summary
+Related Lessons
+Related Courses
+Agriculture
+Architecture
+Biological and Biomedical Sciences
+Business
+Communications and Journalism
+Computer Sciences
+Culinary Arts and Personal Services
+Education
+Engineering
+Legal
+Liberal Arts and Humanities
+Mechanic and Repair Technologies
+Medical and Health Professions
+Physical Sciences
+Psychology
+Transportation and Distribution
+Visual and Performing Arts
+High School Diploma
+Associates Degrees
+Bachelor Degrees
+Master Degrees
+Online Degrees
+Related
+Recently Updated
+Popular
+Operations Clerk Jobs  Career Options and Requirements
+Operations Director  Job Description, Requirements   Career Info
+Operations Assistant  Job Description   Requirements
+Careers for Operations Management MBA Graduates
+Operations Management Courses and Classes Overview
+Business Operations  Coursework Summary
+Catering and Banquet Operations  Coursework Overview
+Top Schools for Operations Management
+How to Become an Operations Supervisor  Step_by_Step Career Guide
+How to Become an Operations Consultant
+Become a Molecular Biology Lab Technician  Career Guide
+Become an Agricultural Sales Representative  Career Roadmap
+Office Jobs for People Without a Degree
+Online Architectural Design Universities How to Choose
+Top Schools for Purchases Acquisitions Contracts Management
+Careers with a History Degree
+Schools with Health Administration Programs How to Choose
+Doctoral Programs in Education
+Go to ACT _ About the Test  Help and Review
+Go to ACT English _ Section Overview  Help and Review
+Go to ACT English _ Punctuation  Help and Review
+Go to ACT English _ Grammar and Usage  Help and Review
+Go to ACT English _ Sentence Structure  Help and Review
+Go to ACT English _ Rhetorical Strategy  Help and Review
+Go to ACT English _ Organization  Help and Review
+Go to ACT English _ Style  Help and Review
+Go to ACT Math _ Overview  Help and Review
+Go to ACT Math _ Pre_Algebra  Help and Review
+Go to ACT Math _ Algebraic Expressions  Help and Review
+Go to ACT Math _ Radicals  Help and Review
+Go to ACT Math _ Linear Equations  Help and Review
+What is a Function  Basics and Key Terms 7 57
+Inverse Functions 6 05
+Applying Function Operations Practice Problems 5 17
+How to Compose Functions 6 52
+How to Add, Subtract, Multiply and Divide Functions 6 43
+What Is Domain and Range in a Function  8 32
+Functions  Identification, Notation   Practice Problems 9 24
+Compounding Functions and Graphing Functions of Functions 7 47
+Understanding and Graphing the Inverse Function 7 31
+Polynomials Functions  Properties and Factoring 7 45
+Polynomials Functions  Exponentials and Simplifying 7 45
+Algebraic Function  Definition   Examples 6 26
+Next Lesson Domain in Math  Definition   Overview
+Even Function  Definition   Examples
+Go to ACT Math _ Functions  Help and Review
+Go to ACT Math _ Absolute Value  Help and Review
+Go to ACT Math _ Matrices  Help and Review
+Go to ACT Math _ Inequalities  Help and Review
+Go to ACT Math _ Probability  Help and Review
+Go to ACT Math _ Data and Statistics  Help and Review
+Go to ACT Math _ Exponents  Help and Review
+Go to ACT Math _ Polynomials and Quadratics  Help and Review
+Go to ACT Math _ Rational Equations  Help and Review
+Go to ACT Math _ Sequences  Help and Review
+Go to ACT Math _ Complex Numbers  Help and Review
+Go to ACT Math _ Exponentials and Logarithms  Help and Review
+Go to ACT Math _ Coordinate Geometry  Help and Review
+Go to ACT Math _ Triangles  Help and Review
+Go to ACT Math _ Plane Geometry  Help and Review
+Go to ACT Math _ Logic in Mathematics  Help and Review
+Go to ACT Math _ Trigonometry  Help and Review
+Go to ACT Science Reasoning _ Overview  Help and Review
+Go to ACT Science Reasoning _ Fundamentals  Help and Review
+Go to ACT Reading _ Overview  Help and Review
+Go to ACT Reading _ Question Types  Help and Review
+Go to ACT Reading _ Understanding Passages  Help and Review
+Go to ACT Reading _ Literary Terms  Help and Review
+Go to ACT Reading _ Practice  Help and Review
+Go to ACT Writing _ Overview  Help and Review
+Go to ACT Writing _ Essay Skills  Help and Review
+Go to ACT Writing _ Essay Parts  Help and Review
+Go to ACT Writing _ Planning  Help and Review
+Go to ACT Writing _ Advanced Skills  Help and Review
+Related
+Recently Updated
+Popular
+Browse by Courses
+Math Courses
+Science Courses
+English Courses
+Standardized Tests Courses
+Test Prep Courses
+PLACE Mathematics  Practice   Study Guide
+ORELA Middle Grades Mathematics  Practice   Study Guide
+WEST Middle Grades Mathematics  Practice   Study Guide
+AEPA Middle Grades Mathematics  Practice   Study Guide
+AEPA Business Education  Practice   Study Guide
+MTEL Physics  Practice   Study Guide
+CEOE Physics  Practice   Study Guide
+GRE Math Subject Test Study Guide   Test Prep
+HiSET Social Studies  Prep and Practice
+TASC Writing  Prep and Practice
+Human Physiology Study Guide
+Division  Help   Review
+TASC Social Studies  Prep and Practice
+Browse by Lessons
+Static Equilibrium of Rigid Bodies
+Overview of Force   Free_Body Diagrams
+Linear Momentum, Impulse   Energy Conservation
+Overview of Work   Work by Variable Force
+Overview of Magnetic Forces   Poles
+Quiz   Worksheet _ Letters of Credit
+Quiz   Worksheet _ Personal Finance Overview
+Quiz   Worksheet _ How Productivity Affects Unemployment
+Quiz   Worksheet _ Legitimacy   Authority in Politics
+Quiz   Worksheet _ Semicircle Perimeter   Area Formulas
+NMTA Social Science  Hellenism   Athenian Achievement
+NMTA Social Science  The Rise of the Roman Republic
+NMTA Social Science  The Fall of the Roman Republic
+NMTA Social Science  The Dark Ages
+NMTA Social Science  The Early Middle Ages
+Latest Courses
+UExcel Introduction to Philosophy  Study Guide   Test Prep
+DSST History of the Soviet Union  Study Guide   Test Prep
+Famous Figures for Kids
+AQB National Uniform Licensing   Certification Exam  Study Guide
+Education 211  Teaching Elementary Math
+Studying for Accounting 303
+Studying for Math 103
+Basics of Metaphysics in Philosophy
+Dynasties of China
+Fundamentals of Epistemology
+SBEC Technology Application Standards for Teachers
+New Mexico State Standards for Science
+ELL Services in Massachusetts
+Publications for ESL Teachers
+WIDA Can Do Descriptors for Grades 9_12
+WV Next Generation Standards for Science
+Latest Lessons
+Fixed_Price   Cost_Reimbursement Contracts
+How Does Light Travel  _ Lesson for Kids
+Still Life Drawings  Definition   Examples
+Robin Hood Facts  Lesson for Kids
+Alimony   Social Security Benefits
+Legal Ethics Paper Topics
+Indicative Mood Activities
+Memorial Day  Origin, History   Meaning
+Quiz   Worksheet _ Individual Sports
+Quiz   Worksheet _ Peanut Gallery Etymology
+Quiz   Worksheet _ Making a Production Cost Report
+Quiz   Worksheet _ Physical Education Teaching Methods
+Seed Components  Quiz   Worksheet for Kids
+Statistical Calculations for Business Flashcards
+Understanding Inequalities Flashcards
+Popular Courses
+Improving Team Performance   Motivation
+Introduction to Criminal Justice Syllabus Resource   Lesson Plans
+Algebra 2 and Trig Textbook
+The Crucible Study Guide
+Season   Climate Classifications
+PLACE English  Visual Communication
+Quiz   Worksheet _ Mary Parker Follett s Impact on Management Practices
+Quiz   Worksheet _ Characteristics of the Mystery Genre
+Quiz   Worksheet _ SARS   Other Coronaviridae Viruses
+Quiz   Worksheet _ The House on Mango Street
+Quiz   Worksheet _ The Hawthorne Effect   Employee Productivity
+Popular Lessons
+The Battle of Stones River  Summary   Outcome
+Essential Skills for First_Time Managers
+Community Helpers Lesson Plan
+Beatitudes Lesson Plan
+Fun Math Games for the Classroom
+Black History Bulletin Board Ideas
+How to Pass the Chemistry Regents Exam
+Coat of Arms Lesson Plan
+Is Spanish Hard to Learn 
+Five Themes of Geography Lesson Plan
+Division Math Games
+Can I Take the CLEP Test Online 
+College Courses Business English Foreign Language History Humanities Math Science Social Science See All College Courses
+High School Courses AP Common Core GED High School See All High School Courses
+Other Courses College   Career Guidance Courses College Placement Exams Entrance Exams General Test Prep K_8 Courses Skills Courses Teacher Certification Exams See All Other Courses
+Business
+English
+Foreign Language
+History
+Humanities
+Math
+Science
+Social Science
+See All College Courses
+AP
+Common Core
+GED
+High School
+See All High School Courses
+College   Career Guidance Courses
+College Placement Exams
+Entrance Exams
+General Test Prep
+K_8 Courses
+Skills Courses
+Teacher Certification Exams
+See All Other Courses
+Create a Study Trainer
+Create custom courses
+Get your questions answered
+Assign Lessons to Students
+Show Videos in Your Classroom
+K_12 Subjects Common Core Aligned
+Access to Instructors
+Create Custom Courses
+Unlimited access to all video lessons
+Lesson Transcripts
+Tech support
+Practice quizzes   tests
+Tools for tracking progress
+Personalized coaching
+Access to instructors
+Certificates of Completion
+Create Custom Courses
+Earn college credit
+Take two exams per month
+Finish official exams remotely
+Learn more
+Free Trial
+Student Solutions
+Teacher Solutions
+Corporate Solutions
+Study com for Schools
+About Us
+Blog
+Careers
+Get Your School Listed
+Teach For Us
+Press Center
+Contact Support
+Contact Us
+FAQ
+Site Feedback
+linear
+quadratic
+power
+polynomial
+rational
+exponential
+logarithmic
+sinusoidal
+Constant Function
+ Let  A  and  B  be any two non empty sets, then a function     from  A  to  B  is called a constant function if and only if the range of     is a singleton
+Algebraic Function
+ A function defined by an algebraic expression is called an algebraic function
+ A function defined by an algebraic expression is called an algebraic function
+ e
+g
+Polynomial Function
+ A function of the form where  n  is a positive integer and are real numbers is called a polynomial function of degree  n 
+ A function of the form where  n  is a positive integer and are real numbers is called a polynomial function of degree  n 
+Linear Function
+ A polynomial function with degree     is called a linear function
+ The most general form of a linear function is
+Quadratic Function
+ A polynomial function with degree  2  is called a quadratic function
+ The most general form of a quadratic equation is
+Cubic Function
+ A polynomial function with degree  3  is called a cubic function
+ The most general form of a cubic function is
+Identity Function
+ Let be a function then     is called an identity function if 
+Rational Function
+ A function defined by , where both and are polynomial functions is called a rational function
+Trigonometric Function
+ A function , etc
+, then is called a trigonometric function
+Exponential Function
+ A function in which the variable appears as an exponent is called an exponential function e
+g
+ 
+Logarithmic Function
+ A function in which the variable appears as an argument of a logarithm is called a logarithmic function
+ e
+g
+ 
+Instead of commenting  Thank you , do us more good by clicking on our Like or Share button 
+  Privacy policy
+ Contact us
+Home
+Basic Mathematics Algebra Basic Algebra Basic Mathematics Basic Statistics Business Math Calculus Everyday Math Geometry Linear Programming Trigonometry
+Higher Mathematics General Topology Group Theory Real Analysis
+Other Math Links Math Results And Formulas
+Contact
+Algebra
+Basic Algebra
+Basic Mathematics
+Basic Statistics
+Business Math
+Calculus
+Everyday Math
+Geometry
+Linear Programming
+Trigonometry
+General Topology
+Group Theory
+Real Analysis
+Math Results And Formulas
+Home
+Basic Mathematics Algebra Basic Algebra Basic Mathematics Basic Statistics Business Math Calculus Everyday Math Geometry Linear Programming Trigonometry
+Higher Mathematics General Topology Group Theory Real Analysis
+Other Math Links Math Results And Formulas
+Contact
+Algebra
+Basic Algebra
+Basic Mathematics
+Basic Statistics
+Business Math
+Calculus
+Everyday Math
+Geometry
+Linear Programming
+Trigonometry
+General Topology
+Group Theory
+Real Analysis
+Math Results And Formulas
+www
+springer
+com The European Mathematical Society
+where are polynomials in , and with 
+ The number is the degree of with respect to , and is called the degree of the algebraic function
+ If , an algebraic function may be represented as a quotient
+of polynomials, and is called a rational function of 
+ the function_theoretical point of view taken, in particular, by N
+H
+ Abel, K
+ Weierstrass and B
+ Riemann  the arithmetic_algebraic point of view taken by R
+ Dedekind, H
+ Weber and K
+ Clebsch, M
+ Noether and others  cf
+ Algebraic geometry 
+ The first direction of the theory of algebraic functions of a single variable is connected with the study of algebraic functions over the field of complex numbers, in which they are regarded as meromorphic functions on Riemann surfaces and complex manifolds  the most important methods applied are the geometrical and topological methods of the theory of analytic functions
+ The first direction of the theory of algebraic functions of a single variable is connected with the study of algebraic functions over the field of complex numbers, in which they are regarded as meromorphic functions on Riemann surfaces and complex manifolds  the most important methods applied are the geometrical and topological methods of the theory of analytic functions
+ The arithmetic_algebraic approach involves the study of algebraic functions over arbitrary fields
+ The methods employed are purely algebraic
+ In the algebraic_geometrical approach algebraic functions are considered to be rational functions on an algebraic variety, and are studied by methods of algebraic geometry  cf
+ In the algebraic_geometrical approach algebraic functions are considered to be rational functions on an algebraic variety, and are studied by methods of algebraic geometry  cf
+ Rational function 
+ This differentiation has by now become largely arbitrary, since function_theoretical studies involve the extensive use of algebraic methods, while many results obtained at first using function_theoretical and topological methods can be successfully applied to more general fields using algebraic analogues of these methods
+ This differentiation has by now become largely arbitrary, since function_theoretical studies involve the extensive use of algebraic methods, while many results obtained at first using function_theoretical and topological methods can be successfully applied to more general fields using algebraic analogues of these methods
+Over the field of complex numbers, an algebraic function of one variable is a _valued analytic function
+ If is the discriminant of the polynomial
+ i
+e
+ of the polynomial for which  , which is obtained by eliminating from the equations
+to yield the equation
+ The complementary set is known as the non_critical set
+ For any point equation has different roots and the condition
+is satisfied
+ According to the implicit function theorem, in a neighbourhood of the point there exist single_valued analytic functions which satisfy the conditions
+and which can be decomposed into a convergent series
+ If is a critical point of an algebraic function, then two cases are possible
+ 1  is a root of the discriminant, i
+ 1  is a root of the discriminant, i
+e
+ , but   or 2  
+Case 1
+ Let be a small disc with centre at which does not contain other critical points, and let be a system of regular elements with centre at , 
+ These functions remain bounded as 
+ The analytic continuation of some given element, e
+g
+ This system consists of elements, and a minimum required finite number of such turns yields the initial element 
+ One obtains a subsystem of elements with centre   each one of these elements may be obtained by analytic continuation of the other by a number of turns around the point   such a subsystem is known as a cycle
+ One obtains a subsystem of elements with centre   each one of these elements may be obtained by analytic continuation of the other by a number of turns around the point   such a subsystem is known as a cycle
+ One obtains a subsystem of elements with centre   each one of these elements may be obtained by analytic continuation of the other by a number of turns around the point   such a subsystem is known as a cycle
+ If , then the element is not a single_valued function of in the disc , but is a single_valued analytic function of the parameter in a neighbourhood of 
+ In a certain neighbourhood of this point the elements of the first cycle can be represented as convergent series
+ In a certain neighbourhood of this point the elements of the first cycle can be represented as convergent series
+and similar expansions also take place for the elements of other cycles
+ The transformation , , which corresponds to one turn around , converts the Puiseux series of elements in one cycle into each other in cyclic order, i
+e
+ there is a cyclic permutation of the series and of the corresponding elements
+ To turns around the critical point correspond permutations of the elements with centre at this point  these permutations consist of cycles of the orders , 
+ The permutations defined in this way constitute the monodromy group of the algebraic function
+ If at least one element is greater than 1, the critical point is called an algebraic branch point of the algebraic function  the numbers are called the branch indices of the algebraic function
+ If at least one element is greater than 1, the critical point is called an algebraic branch point of the algebraic function  the numbers are called the branch indices of the algebraic function
+Case 2
+ If is substituted for , one returns to case 1  one obtains expansions similar to , which may contain a finite number of terms with negative indices
+If , the point is a pole of order of the algebraic function
+If , the point is a pole of order of the algebraic function
+e
+ on the complex plane completed by the point at infinity 
+ The introduction of the variable reduces this case to the previous case  in a neighbourhood of the point one has the expansion
+If , then the point is called a pole of order 
+The parameter of the expansion in the series , , , is called the local uniformizing parameter for the algebraic function
+ Algebraic functions have no singularities other than algebraic branch points and poles
+ The converse proposition is also true
+ A function which is analytic, is not more than _valued at all points of the Riemann sphere except for a finite number of points and , and has at such points only poles or algebraic branch points, is an algebraic function of degree 
+ A function which is analytic, is not more than _valued at all points of the Riemann sphere except for a finite number of points and , and has at such points only poles or algebraic branch points, is an algebraic function of degree 
+The Riemann surface of a complete algebraic function is compact and is a _sheeted covering of the Riemann sphere, branch points can be the critical points and the point 
+The Riemann surface of a complete algebraic function is compact and is a _sheeted covering of the Riemann sphere, branch points can be the critical points and the point 
+ The genus of the Riemann surface of an algebraic function is important  it is called the genus of the algebraic function
+ The genus of the Riemann surface of an algebraic function is important  it is called the genus of the algebraic function
+ The genus of a rational function is zero, and its Riemann surface is the Riemann sphere
+ The genus of a rational function is zero, and its Riemann surface is the Riemann sphere
+ The genus of a rational function is zero, and its Riemann surface is the Riemann sphere
+ The Riemann surface of an elliptic function that satisfies a third_ or fourth_degree equation is a torus  the genus of such a function is one
+ The Riemann surface of an elliptic function that satisfies a third_ or fourth_degree equation is a torus  the genus of such a function is one
+ The Riemann surface of an elliptic function that satisfies a third_ or fourth_degree equation is a torus  the genus of such a function is one
+The universal covering Riemann surface of an algebraic function is a simply_connected two_dimensional manifold, i
+e
+ it has a trivial fundamental group and is conformally equivalent either to the Riemann sphere, the complex plane or the interior of the unit disc
+ In the first case the algebraic function is a rational, in the second case it is an elliptic, while in the third case it is a general function
+ In the first case the algebraic function is a rational, in the second case it is an elliptic, while in the third case it is a general function
+ In the first case the algebraic function is a rational, in the second case it is an elliptic, while in the third case it is a general function
+of a parameter , which identically satisfy equation 
+ The uniformization problem is locally solved by a local uniformizing parameter  however, it is the solution  in the large  that is of interest
+ The uniformization problem is locally solved by a local uniformizing parameter  however, it is the solution  in the large  that is of interest
+ If , i
+e
+ if is a rational function of , this parameter may be the variable   if , then uniformization is attained with the aid of a rational or a trigonometric function
+ For instance, if satisfies the equation
+one can take
+If in the case of an algebraic function of genus one, uniformization is achieved using elliptic functions
+ Finally, if and the genus of the algebraic function is higher than one, uniformization is realized using automorphic functions  cf
+ Automorphic function 
+If is an algebraic function in the variables , then the set of all rational functions forms a field , coinciding with the field of rational functions on the algebraic hypersurface in _dimensional space defined by the equation 
+If is an algebraic function in the variables , then the set of all rational functions forms a field , coinciding with the field of rational functions on the algebraic hypersurface in _dimensional space defined by the equation 
+ If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
+ If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
+ If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
+ If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
+ The field is an extension of finite type of the field of constants of transcendence degree  cf
+ Extension of a field 
+ In particular, any elements of this field are connected by an algebraic equation, so that each of them defines an algebraic function of the remaining elements
+ In particular, any elements of this field are connected by an algebraic equation, so that each of them defines an algebraic function of the remaining elements
+ Any extension of finite type of a field of transcendence degree is known as an algebraic function field in variables 
+ Each such field contains a purely transcendence extension of the field 
+ Each field of algebraic functions in variables is isomorphic to the field of rational functions on some algebraic variety of dimension , which is called a model of 
+ If the field of constants is algebraically closed and of characteristic zero, then each algebraic function field has a non_singular projective model  cf
+ If the field of constants is algebraically closed and of characteristic zero, then each algebraic function field has a non_singular projective model  cf
+ Resolution of singularities 
+ Let be the set of all non_trivial valuations  cf
+ Valuation  of an algebraic function field which are non_negative on the field of constants
+ If provided with the natural topology, it is known as the abstract Riemann surface of the field 
+ Many concepts and results in algebraic geometry on the model of a field can be restated in the language of the theory of valuations of fields , 
+ A particularly close analogy holds for algebraic functions in one variable, the theory of which is practically identical with the theory of algebraic curves
+ A particularly close analogy holds for algebraic functions in one variable, the theory of which is practically identical with the theory of algebraic curves
+Each algebraic function field in one variable is the field of fractions of a Dedekind ring, so that many results and concepts of the theory of divisibility in algebraic number fields can be applied to function fields 
+Each algebraic function field in one variable is the field of fractions of a Dedekind ring, so that many results and concepts of the theory of divisibility in algebraic number fields can be applied to function fields 
+ Many problems and constructions in algebraic number theory motivate similar problems and constructions in fields of algebraic functions and vice versa
+ Zeta_function in algebraic geometry 
+Log in
+Main page
+Pages A_Z
+StatProb Collection
+Recent changes
+Current events
+Random page
+Help
+Project talk
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+Page
+Discussion
+View
+View source
+History
+This page was last modified on 30 March 2012, at 23 49 
+Privacy policy
+About Encyclopedia of Mathematics
+Disclaimers
+Copyrights
+Impressum Legal
