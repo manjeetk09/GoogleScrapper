@@ -1,122 +1,423 @@
-1;linear
-1;quadratic
-1;power
-1;polynomial
-1;rational
-1;exponential
-1;logarithmic
-1;sinusoidal
-1;In mathematics, an algebraic function is a function that can be defined as the root of a polynomial equation
-1; Quite often algebraic functions can be expressed using a finite number of terms, involving only the algebraic operations addition, subtraction, multiplication, division, and raising to a fractional power
-1;Examples of such functions are
-1; f   1   x   displaystyle f 1 x 
-1; f   x   displaystyle f   sqrt  x   
-1; f   1   x 3 x 3   7   7 x 1   3   displaystyle f   frac   sqrt  1 x  3    x  3 7 _  sqrt  7  x  1 3    
-1; This is the case, for example, of the Bring radical, which is the function implicitly defined by
-1;where the coefficients aiare polynomial functions of x, with coefficients belonging to a set S
-1;where the coefficients aiare polynomial functions of x, with coefficients belonging to a set S
-1;A function which is not algebraic is called a transcendental function, as it is for example the case of exp   , tan   , ln   ,     displaystyle  exp, tan, ln, Gamma   
-1;A function which is not algebraic is called a transcendental function, as it is for example the case of exp   , tan   , ln   ,     displaystyle  exp, tan, ln, Gamma   
-1; A composition of transcendental functions can give an algebraic function
-1; f   cos       1   x 2   displaystyle f  cos    sqrt  1_x  2     
-1;As an equation of degree n has n roots, a polynomial equation does not implicitly define a single function, but n functions, sometimes also called branches
-1; Consider for example the equation of the unit circle
-1; y 2   x 2   1
-1;   displaystyle y  2  x  2  1
-1; ,  This determines y, except only up to an overall sign  accordingly, it has two branches
-1; y     1   x 2 
-1;   displaystyle y  pm   sqrt  1_x  2   
-1; , 
-1;An algebraic function in m variables is similarly defined as a function y which solves a polynomial equation in m   1 variables
-1;,xm 
-1;The informal definition of an algebraic function provides a number of clues about their properties
-1;The informal definition of an algebraic function provides a number of clues about their properties
-1; To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations
-1; To gain an intuitive understanding, it may be helpful to regard algebraic functions as functions which can be formed by the usual algebraic operations
-1; addition, multiplication, division, and taking an nth root
-1; This is something of an oversimplification  because of the fundamental theorem of Galois theory, algebraic functions need not be expressible by radicals
-1;First, note that any polynomial function y   p   displaystyle y p  is an algebraic function, since it is simply the solution y to the equation
-1;More generally, any rational function y   p q   displaystyle y   frac  p  q    is algebraic, being the solution to
-1;Moreover, the nth root of any polynomial y   p n   displaystyle y   sqrt p    is an algebraic function, solving the equation
-1; For supposing that y is a solution to
-1; Indeed, interchanging the roles of x and y and gathering terms,
-1;Writing x as a function of y gives the inverse function, also an algebraic function
-1; For example, y   x2 fails the horizontal line test
-1; it fails to be one_to_one
-1; The inverse is the algebraic  function  x     y   displaystyle x  pm   sqrt  y    
-1; Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve
-1; Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve
-1; Another way to understand this, is that the set of branches of the polynomial equation defining our algebraic function is the graph of an algebraic curve
-1; Hence any polynomial relation p  0 is guaranteed to have at least one solution for y at each point x, provided we allow y to assume complex as well as real values
-1; Thus, problems to do with the domain of an algebraic function can safely be minimized
-1;Furthermore, even if one is ultimately interested in real algebraic functions, there may be no means to express the function in terms of addition, multiplication, division and taking nth roots without resorting to complex numbers 
-1;Furthermore, even if one is ultimately interested in real algebraic functions, there may be no means to express the function in terms of addition, multiplication, division and taking nth roots without resorting to complex numbers 
-1; For example, consider the algebraic function determined by the equation
-1;Using the cubic formula, we get
-1;For x   3 4 3 ,   displaystyle x leq   frac  3   sqrt 4   ,  the square root is real and the cubic root is thus well defined, providing the unique real root
-1; On the other hand, for x   3 4 3 ,   displaystyle x   frac  3   sqrt 4   ,  the square root is not real, and one has to choose, for the square root, either non_real square root
-1; On the other hand, for x   3 4 3 ,   displaystyle x   frac  3   sqrt 4   ,  the square root is not real, and one has to choose, for the square root, either non_real square root
-1; Thus the cubic root has to be chosen among three non_real numbers
-1; If the same choices are done in the two terms of the formula, the three choices for the cubic root provide the three branches shown, in the accompanying image
-1; If the same choices are done in the two terms of the formula, the three choices for the cubic root provide the three branches shown, in the accompanying image
-1;On a more significant theoretical level, using complex numbers allows one to use the powerful techniques of complex analysis to discuss algebraic functions
-1; In particular, the argument principle can be used to show that any algebraic function is in fact an analytic function, at least in the multiple_valued sense
-1; In particular, the argument principle can be used to show that any algebraic function is in fact an analytic function, at least in the multiple_valued sense
-1; In particular, the argument principle can be used to show that any algebraic function is in fact an analytic function, at least in the multiple_valued sense
-1;Formally, let pbe a complex polynomial in the complex variables x and y
-1; Suppose that x0   C is such that the polynomial pof y has n distinct zeros
-1; Suppose that x0   C is such that the polynomial pof y has n distinct zeros
-1; Suppose that x0   C is such that the polynomial pof y has n distinct zeros
-1; We shall show that the algebraic function is analytic in a neighborhood of x0
-1; Choose a system of n non_overlapping discs  i containing each of these zeros
-1; Then by the argument principle
-1;By continuity, this also holds for all x in a neighborhood of x0
-1; In particular, phas only one root in  i, given by the residue theorem
-1;which is an analytic function
-1;Note that the foregoing proof of analyticity derived an expression for a system of n different function elements fi, provided that x is not a critical point of p
-1;Note that the foregoing proof of analyticity derived an expression for a system of n different function elements fi, provided that x is not a critical point of p
-1; A critical point is a point where the number of distinct zeros is smaller than the degree of p, and this occurs only where the highest degree term of p vanishes, and where the discriminant vanishes
-1; A critical point is a point where the number of distinct zeros is smaller than the degree of p, and this occurs only where the highest degree term of p vanishes, and where the discriminant vanishes
-1; Hence there are only finitely many such points c1, 
-1;, cm
-1;Note that, away from the critical points, we have
-1;since the fi are by definition the distinct zeros of p
-1;since the fi are by definition the distinct zeros of p
-1;  The monodromy action on the universal covering space is related but different notion in the theory of Riemann surfaces
-1; 
-1;The ideas surrounding algebraic functions go back at least as far as Ren  Descartes
-1; The first discussion of algebraic functions appears to have been in Edward Waring s 1794 An Essay on the Principles of Human Knowledge in which he writes
-1;1 Algebraic functions in one variable 1 1 Introduction and overview 1 2 The role of complex numbers 1 3 Monodromy
-1;2 History
+1;A debugger or debugging tool is a computer program that is used to test and debug other programs 
+1; The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered, but which will typically be somewhat slower than executing the code directly on the appropriate processor
+1; Some debuggers offer two modes of operation, full or partial simulation, to limit this impact
+1; For example, the program might have tried to use an instruction not available on the current version of the CPU or attempted to access unavailable or protected memory
+1; When the program  traps  or reaches a preset condition, the debugger typically shows the location in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments
+1; If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+1; If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+1; If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+1; If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+1; Debuggers also offer more sophisticated functions such as running a program step by step , stopping at some event or specified instruction by means of a breakpoint, and tracking the values of variables
+1; Some debuggers have the ability to modify program state while it is running
+1; It may also be possible to continue execution at a different location in the program to bypass a crash or logical error
+1; It often also makes it useful as a general verification tool, fault coverage, and performance analyzer, especially if instruction path lengths are shown
+1;Most mainstream debugging engines, such as gdb and dbx, provide console_based command line interfaces
+1; Debugger front_ends are popular extensions to debugger engines that provide IDE integration, program animation, and visualization features
+1; These debuggers make it possible to step a program s execution backwards in time
+1; Various debuggers include this feature
+1;NET, and some other languages, but not C  
+1; Some are open source  some are proprietary commercial software
+1; Some reverse debuggers slow down the target by orders of magnitude, but the best reverse debuggers cause a slowdown of 2  or less
+1; Reverse debugging is very useful for certain types of problems, but is still not commonly used yet
+1; For example, if the main target program is written in COBOL but calls assembly language subroutines and PL 1 subroutines, the debugger may have to dynamically switch modes to accommodate the changes in language as they occur
+1;Most modern microprocessors have at least one of these features in their CPU design to make debugging easier
+1; Hardware support for single_stepping a program, such as the trap flag
+1; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+1; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+1; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+1; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+1; In_system programming allows an external hardware debugger to reprogram a system under test 
+1; Many systems with such ISP support also have other hardware debug support
+1; 5 
+1; JTAG access to hardware debug interfaces such as those on ARM architecture processors or using the Nexus command set
+1; Processors used in embedded systems typically have extensive JTAG debug support
+1; Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR
+1; Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR
+1; DebugWIRE, for example, uses bidirectional signaling on the RESET pin
+1;Some of the most capable and popular debuggers implement only a simple command line interface  often to maximize portability and minimize resource consumption
+1;Some widely used debuggers are
+1; Firefox JavaScript debugger
+1; GDB _ the GNU debugger
+1; LLDB
+1; Microsoft Visual Studio Debugger
+1; Valgrind
+1; WinDbg
+1; Eclipse debugger API used in a range of IDEs
+1; Eclipse IDE Nodeclipse 
+1; WDW, the OpenWatcom debugger
+1;Earlier minicomputer debuggers include
+1; Dynamic debugging technique 
+1; On_line Debugging Tool 
+1;Earlier Mainframe debuggers include 
+1; 1985 CA EZTEST
+1; 1990 XPEDITER and Expediter CICS
+1;Current mainframe debuggers
+1; Debug Tool for z OS  6 
+1; XPEDITER and Expediter CICS
+1; z XDC  7 
+1;1 Features 1 1 Reverse debugging
+1;2 Language dependency
+1;3 Memory protection
+1;4 Hardware support for debugging
+1;5 Debugger front_ends
+1;6 List of debuggers
+1;7 See also
+1;8 References
+1;9 External links
+1;1 1 Reverse debugging
+1;Software Testing portal
+1;Computer programming portal
+1;Comparison of debuggers
+1;Core dump
+1;Kernel debugger
+1;List of tools for static code analysis
+1;Memory debugger
+1;Packet analyzer
+1;Profiling
+1;Jonathan B  Rosenberg  How Debuggers Work  Algorithms, Data Structures, and Architecture  John Wiley   Sons  ISBN 0_471_14966_7  CS1 maint  Uses authors parameter 
+1;OpenRCE  Various Debugger Resources and Plug_ins
+1;IntelliTrace MSDN, Visual Studio 2015
+1;Debuggers
+1;Debugging
+1;Utility software types
+1;All articles lacking in_text citations
+1;Articles needing additional references from May 2015
+1;All articles needing additional references
+1;Articles needing additional references from April 2008
+1;Articles with too many examples
+1;CS1 maint  Uses authors parameter
+1;CS1 maint  Uses editors parameter
+1;Not logged in
+1;Talk
+1;Contributions
+1;Create account
+1;Log in
+1;Article
+1;Talk
+1;Read
+1;Edit
+1;View history
+1;Main page
+1;Contents
+1;Featured content
+1;Current events
+1;Random article
+1;Donate to Wikipedia
+1;Wikipedia store
+1;Help
+1;About Wikipedia
+1;Community portal
+1;Recent changes
+1;Contact page
+1;What links here
+1;Related changes
+1;Upload file
+1;Special pages
+1;Permanent link
+1;Page information
+1;Wikidata item
+1;Cite this page
+1;Create a book
+1;Download as PDF
+1;Printable version
+1;       
+1;Az rbaycanca
+1;         
+1;Bosanski
+1;Catal 
+1; e tina
+1;Dansk
+1;Deutsch
+1;        
+1;Espa ol
+1;Esperanto
+1;Euskara
+1;     
+1;Fran ais
+1;   
+1;Hrvatski
+1;Bahasa Indonesia
+1; slenska
+1;Italiano
+1;     
+1;       
+1;      
+1;Bahasa Melayu
+1;Nederlands
+1;   
+1;Norsk bokm l
+1;Polski
+1;Portugu s
+1;       
+1;Simple English
+1;         srpski
+1;Srpskohrvatski                 
+1;Suomi
+1;Svenska
+1;   
+1;T rk e
+1;          
+1;Ti ng Vi t
+1;  
+1;This page was last edited on 12 June 2017, at 18 25 
+1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+1;Privacy policy
+1;About Wikipedia
+1;Disclaimers
+1;Contact Wikipedia
+1;Developers
+1;Cookie statement
+1;Mobile view
+1;A debugger or debugging tool is a computer program that is used to test and debug other programs 
+1; The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered, but which will typically be somewhat slower than executing the code directly on the appropriate processor
+1; Some debuggers offer two modes of operation, full or partial simulation, to limit this impact
+1; For example, the program might have tried to use an instruction not available on the current version of the CPU or attempted to access unavailable or protected memory
+1; When the program  traps  or reaches a preset condition, the debugger typically shows the location in the original code if it is a source_level debugger or symbolic debugger, commonly now seen in integrated development environments
+1; If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+1; If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+1; If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+1; If it is a low_level debugger or a machine_language debugger it shows the line in the disassembly 
+1; Debuggers also offer more sophisticated functions such as running a program step by step , stopping at some event or specified instruction by means of a breakpoint, and tracking the values of variables
+1; Some debuggers have the ability to modify program state while it is running
+1; It may also be possible to continue execution at a different location in the program to bypass a crash or logical error
+1; It often also makes it useful as a general verification tool, fault coverage, and performance analyzer, especially if instruction path lengths are shown
+1;Most mainstream debugging engines, such as gdb and dbx, provide console_based command line interfaces
+1; Debugger front_ends are popular extensions to debugger engines that provide IDE integration, program animation, and visualization features
+1; These debuggers make it possible to step a program s execution backwards in time
+1; Various debuggers include this feature
+1;NET, and some other languages, but not C  
+1; Some are open source  some are proprietary commercial software
+1; Some reverse debuggers slow down the target by orders of magnitude, but the best reverse debuggers cause a slowdown of 2  or less
+1; Reverse debugging is very useful for certain types of problems, but is still not commonly used yet
+1; For example, if the main target program is written in COBOL but calls assembly language subroutines and PL 1 subroutines, the debugger may have to dynamically switch modes to accommodate the changes in language as they occur
+1;Most modern microprocessors have at least one of these features in their CPU design to make debugging easier
+1; Hardware support for single_stepping a program, such as the trap flag
+1; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+1; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+1; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+1; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control
+1; In_system programming allows an external hardware debugger to reprogram a system under test 
+1; Many systems with such ISP support also have other hardware debug support
+1; 5 
+1; JTAG access to hardware debug interfaces such as those on ARM architecture processors or using the Nexus command set
+1; Processors used in embedded systems typically have extensive JTAG debug support
+1; Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR
+1; Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR
+1; DebugWIRE, for example, uses bidirectional signaling on the RESET pin
+1;Some of the most capable and popular debuggers implement only a simple command line interface  often to maximize portability and minimize resource consumption
+1;Some widely used debuggers are
+1; Firefox JavaScript debugger
+1; GDB _ the GNU debugger
+1; LLDB
+1; Microsoft Visual Studio Debugger
+1; Valgrind
+1; WinDbg
+1; Eclipse debugger API used in a range of IDEs
+1; Eclipse IDE Nodeclipse 
+1; WDW, the OpenWatcom debugger
+1;Earlier minicomputer debuggers include
+1; Dynamic debugging technique 
+1; On_line Debugging Tool 
+1;Earlier Mainframe debuggers include 
+1; 1985 CA EZTEST
+1; 1990 XPEDITER and Expediter CICS
+1;Current mainframe debuggers
+1; Debug Tool for z OS  6 
+1; XPEDITER and Expediter CICS
+1; z XDC  7 
+1;1 Features 1 1 Reverse debugging
+1;2 Language dependency
+1;3 Memory protection
+1;4 Hardware support for debugging
+1;5 Debugger front_ends
+1;6 List of debuggers
+1;7 See also
+1;8 References
+1;9 External links
+1;1 1 Reverse debugging
+1;Software Testing portal
+1;Computer programming portal
+1;Comparison of debuggers
+1;Core dump
+1;Kernel debugger
+1;List of tools for static code analysis
+1;Memory debugger
+1;Packet analyzer
+1;Profiling
+1;Jonathan B  Rosenberg  How Debuggers Work  Algorithms, Data Structures, and Architecture  John Wiley   Sons  ISBN 0_471_14966_7  CS1 maint  Uses authors parameter 
+1;OpenRCE  Various Debugger Resources and Plug_ins
+1;IntelliTrace MSDN, Visual Studio 2015
+1;Debuggers
+1;Debugging
+1;Utility software types
+1;All articles lacking in_text citations
+1;Articles needing additional references from May 2015
+1;All articles needing additional references
+1;Articles needing additional references from April 2008
+1;Articles with too many examples
+1;CS1 maint  Uses authors parameter
+1;CS1 maint  Uses editors parameter
+1;Not logged in
+1;Talk
+1;Contributions
+1;Create account
+1;Log in
+1;Article
+1;Talk
+1;Read
+1;Edit
+1;View history
+1;Main page
+1;Contents
+1;Featured content
+1;Current events
+1;Random article
+1;Donate to Wikipedia
+1;Wikipedia store
+1;Help
+1;About Wikipedia
+1;Community portal
+1;Recent changes
+1;Contact page
+1;What links here
+1;Related changes
+1;Upload file
+1;Special pages
+1;Permanent link
+1;Page information
+1;Wikidata item
+1;Cite this page
+1;Create a book
+1;Download as PDF
+1;Printable version
+1;       
+1;Az rbaycanca
+1;         
+1;Bosanski
+1;Catal 
+1; e tina
+1;Dansk
+1;Deutsch
+1;        
+1;Espa ol
+1;Esperanto
+1;Euskara
+1;     
+1;Fran ais
+1;   
+1;Hrvatski
+1;Bahasa Indonesia
+1; slenska
+1;Italiano
+1;     
+1;       
+1;      
+1;Bahasa Melayu
+1;Nederlands
+1;   
+1;Norsk bokm l
+1;Polski
+1;Portugu s
+1;       
+1;Simple English
+1;         srpski
+1;Srpskohrvatski                 
+1;Suomi
+1;Svenska
+1;   
+1;T rk e
+1;          
+1;Ti ng Vi t
+1;  
+1;This page was last edited on 12 June 2017, at 18 25 
+1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
+1;Privacy policy
+1;About Wikipedia
+1;Disclaimers
+1;Contact Wikipedia
+1;Developers
+1;Cookie statement
+1;Mobile view
+1;This is a list of debuggers
+1; computer programs that are used to test and debug other programs
+1;1 Debuggers
+1;2 Debugger front_ends
 1;3 See also
 1;4 References
 1;5 External links
-1;1 1 Introduction and overview
-1;1 2 The role of complex numbers
-1;1 3 Monodromy
-1;Algebraic expression
-1;Analytic function
-1;Complex function
-1;Elementary function
-1;Function 
-1;Generalized function
-1;List of special functions and eponyms
-1;List of types of functions
-1;Polynomial
-1;Rational function
-1;Special functions
-1;Transcendental function
-1;Ahlfors, Lars   Complex Analysis  McGraw Hill  
-1;van der Waerden, B L    Modern Algebra, Volume II  Springer  
-1;Definition of  Algebraic function  in the Encyclopedia of Math
-1;Weisstein, Eric W   Algebraic Function   MathWorld  
-1;Algebraic Function at PlanetMath org 
-1;Definition of  Algebraic function  in David J  Darling s Internet Encyclopedia of Science
-1;Analytic functions
-1;Functions and mappings
-1;Meromorphic functions
-1;Special functions
-1;Types of functions
+1;Advanced Debugger The standard UNIX debugger
+1;Allinea DDT _ graphical debugger for debugging multithreaded and multiprocess applications on Linux platforms
+1;AQtime   profiler and memory resource debugger for Windows
+1;ARM Development Studio 5 
+1;CA EZTEST   was a CICS interactive test debug software package
+1;CodeView   was a debugger for the DOS platform
+1;DBG   a PHP Debugger and Profiler
+1;dbx   a proprietary source_level debugger for Pascal Fortran C C   on UNIX platforms
+1;DEBUG   the built_in debugger of DOS and Microsoft Windows
+1;GNU Debugger
+1;Opera Dragonfly   JavaScript and HTML DOM debugger
+1;Dynamic debugging technique , and its octal counterpart Octal Debugging Technique
+1;XPEDITER a proprietary source_level debugger for Assembler,COBOL   PL 1 on IBM platforms
+1;FusionDebug   interactive debugger for Adobe ColdFusion, Railo, and Lucee CFML Engines
+1;Parasoft Insure     a multi_platform memory debugger
+1;Intel Debugger
+1;Interactive Disassembler 
+1;Java Platform Debugger Architecture
+1;JSwat   open_source Java debugger
+1;LLDB
+1;MacsBug   a debugger for ancient MacOS releases
+1;Modular Debugger a C C   source level debugger for Solaris and derivates
+1;OllyDbg   a disassembly_based debugger for Windows 
+1;Omniscient Debugger   Forward and backward debugger for Java
+1;Python debugger
+1;IBM Rational Purify   multi_platform memory debugger
+1;sdb   a symbolic debugger for C programs for ancient UNIX platforms
+1;SIMMON 
+1;SoftICE   kernel mode debugger for Windows
+1;Lauterbach TRACE32   in_circuit debugger for embedded Systems
+1;Turbo Debugger Pascal C assembly debugger for DOS
+1;Ups   C, Fortran source level debugger
+1;Valgrind
+1;VB Watch Debugger   debugger for Visual Basic 6 0
+1;Microsoft Visual Studio Debugger   debugger for  NET and native Windows applications
+1;Xdebug   PHP debugger and profiler
+1;XPEDITER  family of mainframe debuggers
+1;Many Eclipse perspectives, e g  the Java Development Tools , 1  provide a debugger front_end 
+1;Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 
+1;Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 
+1;Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 
+1;Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 
+1;DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  
+1;DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  
+1;DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  
+1;DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  
+1;GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+1;GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+1;GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+1;GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+1;GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+1;GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+1;GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+1;Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend 
+1;KDbg   Part of the KDE development tools 
+1;Nemiver   A GDB frontend that integrates well in the GNOME desktop environment 
+1;xxgdb   X_window frontend for GDB and dbx debugger 
+1;Qt Creator   multi_platform frontend for GDB, CDB and LLDB 
+1;Allinea s DDT   a parallel and distributed front_end to a modified version of GDB 
+1;Xcode   contains a GDB front_end as well 
+1;SlickEdit   contains a GDB front_end as well 
+1;Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB 
+1;Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB 
+1;CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB 
+1;CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB 
+1;CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb 
+1;RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution
+1;Comparison of debuggers
+1;13 Linux Debuggers for C   Reviewed
+1;Debuggers
+1;Lists of software
 1;Not logged in
 1;Talk
 1;Contributions
@@ -150,32 +451,7 @@
 1;Create a book
 1;Download as PDF
 1;Printable version
-1;Wikimedia Commons
-1;       
-1;Catal 
-1;Deutsch
-1;Espa ol
-1;Esperanto
-1;Fran ais
-1;       
-1;      
-1;Italiano
-1;       
-1;        
-1;Magyar
-1;Nederlands
-1;      
-1;   
-1;Norsk bokm l
-1;Norsk nynorsk
-1;Polski
-1;Portugu s
-1;       
-1;     
-1;          
-1;    
-1;  
-1;This page was last edited on 8 April 2017, at 03 37 
+1;This page was last edited on 20 April 2017, at 15 03 
 1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
 1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
 1;Privacy policy
@@ -185,936 +461,596 @@
 1;Developers
 1;Cookie statement
 1;Mobile view
-1; There is a large theory of special functions which developed out of statistics and mathematical physics
-1; A modern, abstract point of view contrasts large function spaces, which are infinite_dimensional and within which most functions are  anonymous , with special functions picked out by properties such as symmetry, or relationship to harmonic analysis and group representations
-1;See also List of types of functions
-1;g
-1; addition, exponentials, logarithms
-1; 
-1;Algebraic functions are functions that can be expressed as the solution of a polynomial equation with integer coefficients
-1; Polynomials
-1; Constant function
-1; polynomial of degree zero, graph is a horizontal straight line Linear function
-1; First degree polynomial, graph is a straight line
-1; Quadratic function
-1; Second degree polynomial, graph is a parabola
-1; Cubic function
-1; Third degree polynomial
-1; Quartic function
-1; Fourth degree polynomial
-1; Quintic function
-1; Fifth degree polynomial
-1; Sextic function
-1; Sixth degree polynomial
-1; Rational functions
-1; A ratio of two polynomials
-1; nth root Square root
-1; Yields a number whose square is the given one
-1; Cube root
-1; Yields a number whose cube is the given one
-1;Transcendental functions are functions that are not algebraic
-1; Exponential function
-1; raises a fixed number to a variable power
-1; Hyperbolic functions
-1; formally similar to the trigonometric functions
-1; Logarithms
-1; the inverses of exponential functions  useful to solve equations involving exponentials
-1; Natural logarithm Common logarithm Binary logarithm
-1; Power functions
-1; if the power is a rational number it is not strictly a transcendental function
-1; Periodic functions Trigonometric functions
-1; sine, cosine, tangent, cotangent, secant, cosecant, exsecant, excosecant, versine, coversine, vercosine, covercosine, haversine, hacoversine, havercosine, hacovercosine, etc
-1;  used in geometry and to describe periodic phenomena
-1; See also Gudermannian function
-1;1 Elementary functions 1 1 Algebraic functions 1 2 Elementary transcendental functions
-1;2 Special functions 2 1 Basic special functions 2 2 Number theoretic functions 2 3 Antiderivatives of elementary functions 2 4 Gamma and related functions 2 5 Elliptic and related functions 2 6 Bessel and related functions 2 7 Riemann zeta and related functions 2 8 Hypergeometric and related functions 2 9 Iterated exponential and related functions 2 10 Other standard special functions 2 11 Miscellaneous functions
-1;3 See also
-1;4 External links
-1;1 1 Algebraic functions
-1;1 2 Elementary transcendental functions
-1;2 1 Basic special functions
-1;2 2 Number theoretic functions
-1;2 3 Antiderivatives of elementary functions
-1;2 4 Gamma and related functions
-1;2 5 Elliptic and related functions
-1;2 6 Bessel and related functions
-1;2 7 Riemann zeta and related functions
-1;2 8 Hypergeometric and related functions
-1;2 9 Iterated exponential and related functions
-1;2 10 Other standard special functions
-1;2 11 Miscellaneous functions
-1;Indicator function  maps x to either 1 or 0, depending on whether or not x belongs to some subset 
-1;Sawtooth wave
-1;Square wave
-1;Triangle wave
-1;Floor function  Largest integer less than or equal to a given number 
-1;Absolute value  distance to the origin 
-1;Heaviside step function  0 for negative arguments and 1 for positive arguments  The integral of the Dirac delta function 
-1;Sigma function  Sums of powers of divisors of a given natural number 
-1;Euler s totient function  Number of numbers coprime to a given one 
-1;Euler s totient function  Number of numbers coprime to a given one 
-1;Prime_counting function  Number of primes less than or equal to a given number 
-1;Exponential integral
-1;Trigonometric integral  Including Sine Integral and Cosine Integral
-1;Error function  An integral important for normal random variables  Fresnel integral  related to the error function  used in optics  Dawson function  occurs in probability 
-1;Fresnel integral  related to the error function  used in optics 
-1;Gamma function  A generalization of the factorial function 
-1;Barnes G_function
-1;Beta function  Corresponding binomial coefficient analogue 
-1;Digamma function, Polygamma function
-1;Incomplete beta function
-1;Incomplete gamma function
-1;K_function
-1;Multivariate gamma function  A generalization of the Gamma function useful in multivariate statistics 
-1;Student s t_distribution
-1;Elliptic integrals  Arising from the path length of ellipses  important in many applications  Related functions are the quarter period and the nome  Alternate notations include  Carlson symmetric form Legendre form
-1;Elliptic integrals  Arising from the path length of ellipses  important in many applications  Related functions are the quarter period and the nome  Alternate notations include  Carlson symmetric form Legendre form
-1;Elliptic functions  The inverses of elliptic integrals  used to model double_periodic phenomena  Particular types are Weierstrass s elliptic functions and Jacobi s elliptic functions and the sine lemniscate and cosine lemniscate functions 
-1;Elliptic functions  The inverses of elliptic integrals  used to model double_periodic phenomena  Particular types are Weierstrass s elliptic functions and Jacobi s elliptic functions and the sine lemniscate and cosine lemniscate functions 
-1;Theta function
-1;Closely related are the modular forms, which include J_invariant Dedekind eta function
-1;Carlson symmetric form
-1;Legendre form
-1;J_invariant
-1;Dedekind eta function
-1;Airy function
-1;Bessel Clifford function
-1;Legendre function  From the theory of spherical harmonics 
-1;Scorer s function
-1;Sinc function
-1;Hermite polynomials
-1;Laguerre polynomials
-1;Chebyshev polynomials
-1;Riemann zeta function  A special case of Dirichlet series 
-1;Riemann Xi function
-1;Dirichlet eta function  An allied function 
-1;Dirichlet L_function
-1;Hurwitz zeta function
-1;Legendre chi function
-1;Lerch transcendent
-1;Polylogarithm and related functions  Incomplete polylogarithm Clausen function Complete Fermi Dirac integral, an alternate form of the polylogarithm  Incomplete Fermi Dirac integral Kummer s function Spence s function
-1;Polylogarithm and related functions  Incomplete polylogarithm Clausen function Complete Fermi Dirac integral, an alternate form of the polylogarithm  Incomplete Fermi Dirac integral Kummer s function Spence s function
-1;Riesz function
-1;Incomplete polylogarithm
-1;Clausen function
-1;Complete Fermi Dirac integral, an alternate form of the polylogarithm 
-1;Incomplete Fermi Dirac integral
-1;Kummer s function
-1;Spence s function
-1;Hypergeometric functions  Versatile family of power series 
-1;Confluent hypergeometric function
-1;Associated Legendre functions
-1;Meijer G_function
-1;Hyper operators
-1;Iterated logarithm
-1;Pentation
-1;Super_logarithms
-1;Super_roots
-1;Tetration
-1;Lambert W function  Inverse of f  w exp 
-1;Lambda function
-1;Lam  function
-1;Mittag_Leffler function
-1;Painlev  transcendents
-1;Parabolic cylinder function
-1;Synchrotron function
-1;Ackermann function  in the theory of computation, a computable function that is not primitive recursive 
-1;Dirac delta function  everywhere zero except for x   0  total integral is 1  Not a function but a distribution, but sometimes informally referred to as a function, particularly by physicists and engineers 
-1;Dirichlet function  is an indicator function that matches 1 to rational numbers and 0 to irrationals  It is nowhere continuous 
-1;Thomae s function  is a function that is continuous at all irrational numbers and discontinuous at all rational numbers  It is also a modification of Dirichlet function and sometimes called Riemann function 
-1;Thomae s function  is a function that is continuous at all irrational numbers and discontinuous at all rational numbers  It is also a modification of Dirichlet function and sometimes called Riemann function 
-1;Kronecker delta function  is a function of two variables, usually integers, which is 1 if they are equal, and 0 otherwise 
-1;Minkowski s question mark function  Derivatives vanish on the rationals 
-1;Weierstrass function  is an example of continuous function that is nowhere differentiable
-1;List of mathematical abbreviations
-1;Special functions   A programmable special functions calculator 
-1;Special functions at EqWorld  The World of Mathematical Equations 
-1;Calculus
-1;Mathematics_related lists
-1;Number theory
-1;Not logged in
-1;Talk
-1;Contributions
-1;Create account
-1;Log in
-1;Article
-1;Talk
-1;Read
-1;Edit
-1;View history
-1;Main page
-1;Contents
-1;Featured content
-1;Current events
-1;Random article
-1;Donate to Wikipedia
-1;Wikipedia store
-1;Help
-1;About Wikipedia
-1;Community portal
-1;Recent changes
-1;Contact page
-1;What links here
-1;Related changes
-1;Upload file
-1;Special pages
-1;Permanent link
-1;Page information
-1;Wikidata item
-1;Cite this page
-1;Create a book
-1;Download as PDF
-1;Printable version
-1;       
-1;Catal 
-1;Espa ol
-1;     
-1;Fran ais
-1;Galego
-1;       
-1;Italiano
-1;   
-1;L tzebuergesch
-1;   
-1;         
-1;Polski
-1;Portugu s
-1;Rom n 
-1;       
-1;Sloven  ina
-1;T rk e
-1;    
-1;  
-1;This page was last edited on 25 January 2017, at 21 37 
-1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
-1;Text is available under the Creative Commons Attribution_ShareAlike License  additional terms may apply  By using this site, you agree to the Terms of Use and Privacy Policy  Wikipedia  is a registered trademark of the Wikimedia Foundation, Inc , a non_profit organization 
-1;Privacy policy
-1;About Wikipedia
-1;Disclaimers
-1;Contact Wikipedia
-1;Developers
-1;Cookie statement
-1;Mobile view
-1;Algebra is the branch of mathematics concerning the study of the rules of operations and relations, and the constructions and concepts arising from them
-1;Algebra is the branch of mathematics concerning the study of the rules of operations and relations, and the constructions and concepts arising from them
-1; Together with geometry, analysis, topology and number theory
-1; The elementary algebra is often part of the curriculum in secondary education and introduces the concept of variables representing numbers
-1; The elementary algebra is often part of the curriculum in secondary education and introduces the concept of variables representing numbers
-1; 
-1;There are various types of algebraic functions
-1;Given f  x   1 
-1;Find fand f
-1;Plug x   0 in 
-1;   f  0   1   1
-1;   f  1
-1;Again, plug x   2 in 
-1;   f  2   1   3
-1;   f  3
-1;Given 2x2   4x _ 12 Factor the GCD
-1;   2x2   4x _ 12   2
-1;Factor the quadratic, x2   2x _ 6
-1;x2   2x _ 6   x2   3x _ 2x _ 6
-1;  x_ 2
-1;  
-1;   Factors of 2x2   4x _ 12   2 
-1;About Us      Careers      Contact Us      Blog      Homework Help      Teaching Jobs      Search Lessons      Answers      Calculators      Worksheets      Formulas      Offers
-1;Copyright   2017 _ TutorVista
-1;com, All rights reserved
+1;Go through the following examples to understand the procedure of debugging a program and core dumped
+1; Debugging Example 2 This example demonstrates a program that can dump a core due to non_initialized memory
+1;Debugging Example 1
+1;Debugging Example 2
+1;  Copyright 2017
+1; All Rights Reserved
+1;Jobs
+1; SENDFiles
+1; Whiteboard
+1; Net Meeting
+1;Tools
+1; Articles
+1;Facebook Google  Twitter Linkedin YouTube
+1;Facebook
+1;Google 
+1;Twitter
+1;Linkedin
+1;YouTube
 1;Home
-1;How it works
-1;About Us
-1;MathAlgebraAlgebraic Functions
-1;Algebraic Functions Algebraic Function Definition Types of Algebraic Functions Rational Algebraic Functions Algebraic Functions Examples
-1;Algebraic Function Definition
-1;Types of Algebraic Functions
-1;Rational Algebraic Functions
-1;Algebraic Functions Examples
-1;An error occurred trying to load this video
-1;Try refreshing the page, or contact customer support
-1; Plus, get practice tests, quizzes, and personalized coaching to help you succeed
-1;Want to watch this again later 
-1;Log in or sign up to add this lesson to a Custom Course
-1;Login or Sign up
-1;An algebraic function is a function that involves only algebraic operations, like, addition, subtraction, multiplication, and division, as well as fractional or rational exponents
-1; Think of an algebraic function as a machine, where real numbers go in, mathematical operations occur, and other numbers come out
-1;We call the numbers going into an algebraic function the input, x, or the domain
-1;We call the numbers going into an algebraic function the input, x, or the domain
-1; We call the numbers coming out of a function the output, y, or the range
-1; Remember, one value in, one value out
-1;There are many different types of algebraic functions
-1; linear, quadratic, cubic, polynomial, rational, and radical equations
-1; In this next part of the lesson, we ll learn about a couple of different methods we can use to identify them
-1; Sometimes functions multiply the domain to get the range, like 3x
-1; Functions may also subtract or divide the domain or use a combination of operations to produce the range
-1; As long as the rule of  one in one out  is kept in place, the function exists
-1;If an algebraic function says to add two to the domain, we can create a table to show the function
-1;As you can see, for every domain, we have one range
-1; These pairs of x values_ and y_values are called ordered pairs because we put them in order 
-1; These pairs of x values_ and y_values are called ordered pairs because we put them in order 
-1;We can also turn our table into ordered pairs to show a function
-1; , , and where there is one x_value for every one y_value
-1;We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
-1;We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
-1;We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
-1;We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
-1;We can also use graphs to identify functions by plotting ordered pairs onto a Cartesian Coordinate System, where the x_values are on the horizontal line and the y_values are on the vertical line
-1; Where the ordered pairs meet is where the point is graphed
-1; If we plot the points, we end up with a straight line, so the function, x   2, is considered a linear function and can be written in functional notation as f  x   2
-1; If we plot the points, we end up with a straight line, so the function, x   2, is considered a linear function and can be written in functional notation as f  x   2
-1; If we plot the points, we end up with a straight line, so the function, x   2, is considered a linear function and can be written in functional notation as f  x   2
-1; The fis just another way to write y, which we call the f_function
-1; It is a way for us to identify the different functions, instead of calling them all y   
-1;We know a graph is a function if it can pass the vertical line test
-1;We know a graph is a function if it can pass the vertical line test
-1; If a vertical line crosses in two places on a graph, it is in conflict with the one in, one out rule
-1; So, it is not a function
-1;Here is an example of a graph that is not a function
-1;As we said at the beginning of the lesson, there are many types of functions, such as the quadratic function and the cubic function
-1;As we said at the beginning of the lesson, there are many types of functions, such as the quadratic function and the cubic function
-1;As we said at the beginning of the lesson, there are many types of functions, such as the quadratic function and the cubic function
-1; Let s start with a quadratic function
-1;The quadratic function
-1; g  x 2 _ 3
-1; First, let s create a table
-1;The domain can be any real number, this is why the x_value or domain is called the independent variable
-1;The range or y_value is called the dependent variable because it depends on what we use for the x_term
-1;Get FREE access for 5 days, just create an account
-1;No obligation, cancel anytime
-1;Select a subject to preview related courses
-1; Math
-1; History
-1; English
-1; ACT SAT
-1; Science
-1; Business
-1; Psychology
-1; AP
-1;Writing the numbers in our table as ordered pairs, we have
-1;Writing the numbers in our table as ordered pairs, we have
-1; , , , , 
-1; Did you notice how we repeated some of the range values  Is this acceptable  YES, because each ordered pair has one x_value and one y_value
-1; Did you notice how we repeated some of the range values  Is this acceptable  YES, because each ordered pair has one x_value and one y_value
-1; The y_values can be repeated as long as the x_values are not repeated
-1;Now let s graph this function and use the vertical line test to make sure we still have an algebraic function
-1;Now let s graph this function and use the vertical line test to make sure we still have an algebraic function
-1;Now let s graph this function and use the vertical line test to make sure we still have an algebraic function
-1;We call this function a quadratic function because it has a squared term, x 2
-1;Now let s take a look at a cubic function
-1; h  x 3   x _ 2 and use the following values for the domain
-1; _2, _1, 0, 1, and 2
-1;Writing these values as ordered pairs we have
-1; , , , , 
-1;On a graph our ordered pairs will look like this
-1;After applying the vertical line test, we can see this is truly a function 
-1;An algebraic function is an equation that allows one to input a domain, or x_value and perform mathematical calculations to get an output, which is the range, or y_value, that is specific for that particular x_value
-1;An algebraic function is an equation that allows one to input a domain, or x_value and perform mathematical calculations to get an output, which is the range, or y_value, that is specific for that particular x_value
-1;There is a one in one out relationship between the domain and range
-1;There are several ways to show a function
-1;To unlock this lesson you must be a Study
-1;com Member
-1; Create your account
-1;Already a member  Log In
-1;Did you know  We have over 95 college courses that prepare you to earn credit by exam that is accepted by over 2,000 colleges and universities
-1;Did you know  We have over 95 college courses that prepare you to earn credit by exam that is accepted by over 2,000 colleges and universities
-1;Did you know  We have over 95 college courses that prepare you to earn credit by exam that is accepted by over 2,000 colleges and universities
-1; You can test out of the first two years of college and save thousands off your degree
-1;To learn more, visit our Earning Credit Page
-1;Not sure what college you want to attend yet  Study
-1;com has thousands of articles about every imaginable degree, area of study and career path that can help you find the school that s right for you
-1;com has thousands of articles about every imaginable degree, area of study and career path that can help you find the school that s right for you
-1;com has thousands of articles about every imaginable degree, area of study and career path that can help you find the school that s right for you
-1;Browse an area of study or degree level
-1; Back To Course
-1;42 chapters   399 lessons
-1;Next Lesson
-1;Your Cart is Empty
-1; Please Choose a Product
-1;Study
-1; I learned more in 10 minutes than 1 month of chemistry classes 
-1;_ Ashlee P
-1; I aced the CLEP exam and earned 3 college credits  
-1; I aced the CLEP exam and earned 3 college credits  
-1;_ Clair S
-1;Study
-1;com video lessons have helped over half a million teachers engage their students
-1;The videos have changed the way I teach  The videos on Study
-1;com accomplish in 5 minutes what would take me an entire class
+1;Tutorials Library
+1;Coding Ground
+1;Tutor Connect
+1;Videos
+1;Search
+1;GNU Debugger Tutorial
+1;GDB _ Home
+1;GDB _ What is GDB 
+1;GDB _ Installation
+1;GDB _ Debugging Symbols
+1;GDB _ Commands
+1;GDB _ Summary
+1;GNU Debugger Useful Resources
+1;GDB _ Quick Guide
+1;GDB _ Resources
+1;GDB _ Discussion
+1;Selected Reading
+1;Developer s Best Practices
+1;Questions and Answers
+1;Effective Resume Writing
+1;HR Interview Questions
+1;Computer Glossary
+1;Who is Who
+1;Write for us
+1;FAQ s
+1;Helping
+1;Contact
+1;The following sections describe debugger command programs
+1;The following example uses the 
+1;foreach token to search for WORD values of 5a4d
+1;The following example uses the 
+1;foreach token to search for WORD values of 5a4d
+1; For each 5a4d value that is found, the debugger displays 8 DWORD values, starting 4 bytes prior to the address where the 5a4d DWORD was found
+1;Note If you want to operate on the variable name in the OutCommands portion of the command, you must add a space after the variable name
+1;Note If you want to operate on the variable name in the OutCommands portion of the command, you must add a space after the variable name
+1; For example, in the preceeding example, there is a space between the variable place and the subtraction operator
+1; For example, in the preceeding example, there is a space between the variable place and the subtraction operator
+1;The _ option together with the s command causes its output to include only the addresses it finds, not the values that are found at those addresses
+1;The 1m option together with the lm command causes its output to include only the addresses of the modules, not the full description of the modules
+1;The preceding example uses the      token to make sure aliases are replaced even if they are next to other text
+1; Note that the     token works on the variables that are used in 
+1; Note that the     token works on the variables that are used in 
+1;foreach and on true aliases
+1; This command loads the whole file, replaces all carriage returns with semicolons, and executes the resulting block
+1; This command enables you to write readable programs by using multiple lines and indentation, instead of having to squeeze the whole program onto a single line
+1;This example illustrates the following features
+1; The  t0,  t1, and  t2 pseudo_registers are used as variables in this program
+1; The program also uses aliases named Procc and  ImageName
+1; This program uses the MASM expression evaluator
+1; This token causes the program to use the C   expression evaluator to parse the expression within the parentheses
+1; This usage enables the program to use the C   structure tokens directly
+1; The   flag is used with the r command
+1;The  t0,  t1, and  t2 pseudo_registers are used as variables in this program
+1; The program also uses aliases named Procc and  ImageName
+1;This program uses the MASM expression evaluator
+1; This token causes the program to use the C   expression evaluator to parse the expression within the parentheses
+1; This usage enables the program to use the C   structure tokens directly
+1;The   flag is used with the r command
+1;This example illustrates the following features
+1; This program uses the MASM expression evaluator
+1; However, in two places, the   c  token appears
+1; This token causes the program to use the C   expression evaluator to parse the expression within the parentheses
+1; This usage enables the program to use C   structure tokens directly
+1; The   flag is used with the r command
+1; In the body of the loop,  t1 has the type ntdll _LDR_DATA_TABLE_ENTRY  , so the program can make direct member references
+1; In the body of the loop,  t1 has the type ntdll _LDR_DATA_TABLE_ENTRY  , so the program can make direct member references
+1; The user_named aliases  Base and  Mod are used in this program
+1; The dollar signs reduce the possibility that these aliases have been used previously in the current debugger session
+1; The dollar signs are not necessary
+1; The    v
+1;   token interprets the alias literally, preventing it from being replaced if it was defined before the script is run
+1; The 
+1;block token is used to add an extra alias replacement step
+1; Alias replacement occurs one time for the whole script when it is loaded and one time when each block is entered
+1; Without the 
+1;block token and its braces, the 
+1;echo command does not receive the values of the  Mod and  Base aliases that are assigned in the previous lines
+1;This program uses the MASM expression evaluator
+1; However, in two places, the   c  token appears
+1; This token causes the program to use the C   expression evaluator to parse the expression within the parentheses
+1; This usage enables the program to use C   structure tokens directly
+1;The   flag is used with the r command
+1; In the body of the loop,  t1 has the type ntdll _LDR_DATA_TABLE_ENTRY  , so the program can make direct member references
+1; In the body of the loop,  t1 has the type ntdll _LDR_DATA_TABLE_ENTRY  , so the program can make direct member references
+1;The user_named aliases  Base and  Mod are used in this program
+1; The dollar signs reduce the possibility that these aliases have been used previously in the current debugger session
+1; The dollar signs are not necessary
+1; The    v
+1;   token interprets the alias literally, preventing it from being replaced if it was defined before the script is run
+1;The 
+1;block token is used to add an extra alias replacement step
+1; Alias replacement occurs one time for the whole script when it is loaded and one time when each block is entered
+1; Without the 
+1;block token and its braces, the 
+1;echo command does not receive the values of the  Mod and  Base aliases that are assigned in the previous lines
+1;Send comments about this topic to Microsoft
+1;Comments
+1;Edit
+1;Share Twitter Facebook
 1; 
-1;_ Chris F
-1;Students in online learning conditions performed better than those receiving face_to_face instruction
-1;U
-1;S
-1; Department of Education
-1;  copyright 2003_2017 Study
-1;com
-1; All rights reserved
-1;Plans
-1;Courses Courses Find Courses by Subject Science Math Business Psychology History English Social Science Humanities Spanish ACT   SAT Test Prep Teacher Certification Professional Development By Education Level College High School Middle School Explore over 3,700 video courses Browse All Courses
-1;Credit Credit Credit Options Online College Credit High School   GED Certificates of Completion How it Works Earn Transferable Credit   Get your Degree fast Learn more
-1;Degrees Degrees Find Degrees by Subject Agriculture Architecture Biological and Biomedical Sciences Business Communications and Journalism Computer Sciences Culinary Arts and Personal Services Education Engineering Legal Liberal Arts and Humanities Mechanic and Repair Technologies Medical and Health Professions Physical Sciences Psychology Transportation and Distribution Visual and Performing Arts By Level High School Diploma Associates Degrees Bachelor Degrees Master Degrees Online Degrees Find a degree that fits your goals Search degrees
-1;Degrees Degrees Find Degrees by Subject Agriculture Architecture Biological and Biomedical Sciences Business Communications and Journalism Computer Sciences Culinary Arts and Personal Services Education Engineering Legal Liberal Arts and Humanities Mechanic and Repair Technologies Medical and Health Professions Physical Sciences Psychology Transportation and Distribution Visual and Performing Arts By Level High School Diploma Associates Degrees Bachelor Degrees Master Degrees Online Degrees Find a degree that fits your goals Search degrees
-1;Schools Schools Browse Schools by Degree Level Graduate Degrees High School Diplomas Certificate Programs Post Degree Certificates Undergraduate Degrees Browse Schools Public Schools by State University Video Reviews Career Counseling   Job Center Job Interviewing Tip Videos Job Networking Videos R sum  How To Videos Job Search Tips Career Videos Career Research Researching Careers Videos Glossary of Careers Career Info by Degree Job Outlook by Region Degree   Career Research Articles
-1;Contact Support
-1;Science
-1;Math
-1;Business
-1;Psychology
-1;History
-1;English
-1;Social Science
-1;Humanities
-1;Spanish
-1;ACT   SAT Test Prep
-1;Teacher Certification
-1;Professional Development
-1;College
-1;High School
-1;Middle School
-1;Online College Credit
-1;High School   GED
-1;Certificates of Completion
-1;How it Works
-1;Agriculture
-1;Architecture
-1;Biological and Biomedical Sciences
-1;Business
-1;Communications and Journalism
-1;Computer Sciences
-1;Culinary Arts and Personal Services
-1;Education
-1;Engineering
-1;Legal
-1;Liberal Arts and Humanities
-1;Mechanic and Repair Technologies
-1;Medical and Health Professions
-1;Physical Sciences
-1;Psychology
-1;Transportation and Distribution
-1;Visual and Performing Arts
-1;High School Diploma
-1;Associates Degrees
-1;Bachelor Degrees
-1;Master Degrees
-1;Online Degrees
-1;Graduate Degrees
-1;High School Diplomas
-1;Certificate Programs
-1;Post Degree Certificates
-1;Undergraduate Degrees
-1;Public Schools by State
-1;University Video Reviews
-1;Job Interviewing Tip Videos
-1;Job Networking Videos
-1;R sum  How To Videos
-1;Job Search Tips
-1;Career Videos
-1;Researching Careers Videos
-1;Glossary of Careers
-1;Career Info by Degree
-1;Job Outlook by Region
-1;Degree   Career Research Articles
-1;Video
-1;Quiz   Worksheet _ Algebraic Functions Quiz
-1;Course
-1;0 02 Algebraic Functions
-1;1 14 Tables
-1;2 23 Graphs
-1;3 06 Vertical Line Test
-1;3 30 Examples of Functions
-1;5 26 Lesson Summary
-1;Related Lessons
-1;Related Courses
-1;Agriculture
-1;Architecture
-1;Biological and Biomedical Sciences
-1;Business
-1;Communications and Journalism
-1;Computer Sciences
-1;Culinary Arts and Personal Services
-1;Education
-1;Engineering
-1;Legal
-1;Liberal Arts and Humanities
-1;Mechanic and Repair Technologies
-1;Medical and Health Professions
-1;Physical Sciences
-1;Psychology
-1;Transportation and Distribution
-1;Visual and Performing Arts
-1;High School Diploma
-1;Associates Degrees
-1;Bachelor Degrees
-1;Master Degrees
-1;Online Degrees
-1;Related
-1;Recently Updated
-1;Popular
-1;Operations Clerk Jobs  Career Options and Requirements
-1;Operations Director  Job Description, Requirements   Career Info
-1;Operations Assistant  Job Description   Requirements
-1;Careers for Operations Management MBA Graduates
-1;Operations Management Courses and Classes Overview
-1;Business Operations  Coursework Summary
-1;Catering and Banquet Operations  Coursework Overview
-1;Top Schools for Operations Management
-1;How to Become an Operations Supervisor  Step_by_Step Career Guide
-1;How to Become an Operations Consultant
-1;Become a Molecular Biology Lab Technician  Career Guide
-1;Become an Agricultural Sales Representative  Career Roadmap
-1;Office Jobs for People Without a Degree
-1;Online Architectural Design Universities How to Choose
-1;Top Schools for Purchases Acquisitions Contracts Management
-1;Careers with a History Degree
-1;Schools with Health Administration Programs How to Choose
-1;Doctoral Programs in Education
-1;Go to ACT _ About the Test  Help and Review
-1;Go to ACT English _ Section Overview  Help and Review
-1;Go to ACT English _ Punctuation  Help and Review
-1;Go to ACT English _ Grammar and Usage  Help and Review
-1;Go to ACT English _ Sentence Structure  Help and Review
-1;Go to ACT English _ Rhetorical Strategy  Help and Review
-1;Go to ACT English _ Organization  Help and Review
-1;Go to ACT English _ Style  Help and Review
-1;Go to ACT Math _ Overview  Help and Review
-1;Go to ACT Math _ Pre_Algebra  Help and Review
-1;Go to ACT Math _ Algebraic Expressions  Help and Review
-1;Go to ACT Math _ Radicals  Help and Review
-1;Go to ACT Math _ Linear Equations  Help and Review
-1;What is a Function  Basics and Key Terms 7 57
-1;Inverse Functions 6 05
-1;Applying Function Operations Practice Problems 5 17
-1;How to Compose Functions 6 52
-1;How to Add, Subtract, Multiply and Divide Functions 6 43
-1;What Is Domain and Range in a Function  8 32
-1;Functions  Identification, Notation   Practice Problems 9 24
-1;Compounding Functions and Graphing Functions of Functions 7 47
-1;Understanding and Graphing the Inverse Function 7 31
-1;Polynomials Functions  Properties and Factoring 7 45
-1;Polynomials Functions  Exponentials and Simplifying 7 45
-1;Algebraic Function  Definition   Examples 6 26
-1;Next Lesson Domain in Math  Definition   Overview
-1;Even Function  Definition   Examples
-1;Go to ACT Math _ Functions  Help and Review
-1;Go to ACT Math _ Absolute Value  Help and Review
-1;Go to ACT Math _ Matrices  Help and Review
-1;Go to ACT Math _ Inequalities  Help and Review
-1;Go to ACT Math _ Probability  Help and Review
-1;Go to ACT Math _ Data and Statistics  Help and Review
-1;Go to ACT Math _ Exponents  Help and Review
-1;Go to ACT Math _ Polynomials and Quadratics  Help and Review
-1;Go to ACT Math _ Rational Equations  Help and Review
-1;Go to ACT Math _ Sequences  Help and Review
-1;Go to ACT Math _ Complex Numbers  Help and Review
-1;Go to ACT Math _ Exponentials and Logarithms  Help and Review
-1;Go to ACT Math _ Coordinate Geometry  Help and Review
-1;Go to ACT Math _ Triangles  Help and Review
-1;Go to ACT Math _ Plane Geometry  Help and Review
-1;Go to ACT Math _ Logic in Mathematics  Help and Review
-1;Go to ACT Math _ Trigonometry  Help and Review
-1;Go to ACT Science Reasoning _ Overview  Help and Review
-1;Go to ACT Science Reasoning _ Fundamentals  Help and Review
-1;Go to ACT Reading _ Overview  Help and Review
-1;Go to ACT Reading _ Question Types  Help and Review
-1;Go to ACT Reading _ Understanding Passages  Help and Review
-1;Go to ACT Reading _ Literary Terms  Help and Review
-1;Go to ACT Reading _ Practice  Help and Review
-1;Go to ACT Writing _ Overview  Help and Review
-1;Go to ACT Writing _ Essay Skills  Help and Review
-1;Go to ACT Writing _ Essay Parts  Help and Review
-1;Go to ACT Writing _ Planning  Help and Review
-1;Go to ACT Writing _ Advanced Skills  Help and Review
-1;Related
-1;Recently Updated
-1;Popular
-1;Browse by Courses
-1;Math Courses
-1;Science Courses
-1;English Courses
-1;Standardized Tests Courses
-1;Test Prep Courses
-1;PLACE Mathematics  Practice   Study Guide
-1;ORELA Middle Grades Mathematics  Practice   Study Guide
-1;WEST Middle Grades Mathematics  Practice   Study Guide
-1;AEPA Middle Grades Mathematics  Practice   Study Guide
-1;AEPA Business Education  Practice   Study Guide
-1;MTEL Physics  Practice   Study Guide
-1;CEOE Physics  Practice   Study Guide
-1;GRE Math Subject Test Study Guide   Test Prep
-1;HiSET Social Studies  Prep and Practice
-1;TASC Writing  Prep and Practice
-1;Human Physiology Study Guide
-1;Division  Help   Review
-1;TASC Social Studies  Prep and Practice
-1;Browse by Lessons
-1;Static Equilibrium of Rigid Bodies
-1;Overview of Force   Free_Body Diagrams
-1;Linear Momentum, Impulse   Energy Conservation
-1;Overview of Work   Work by Variable Force
-1;Overview of Magnetic Forces   Poles
-1;Quiz   Worksheet _ Letters of Credit
-1;Quiz   Worksheet _ Personal Finance Overview
-1;Quiz   Worksheet _ How Productivity Affects Unemployment
-1;Quiz   Worksheet _ Legitimacy   Authority in Politics
-1;Quiz   Worksheet _ Semicircle Perimeter   Area Formulas
-1;NMTA Social Science  Hellenism   Athenian Achievement
-1;NMTA Social Science  The Rise of the Roman Republic
-1;NMTA Social Science  The Fall of the Roman Republic
-1;NMTA Social Science  The Dark Ages
-1;NMTA Social Science  The Early Middle Ages
-1;Latest Courses
-1;UExcel Introduction to Philosophy  Study Guide   Test Prep
-1;DSST History of the Soviet Union  Study Guide   Test Prep
-1;Famous Figures for Kids
-1;AQB National Uniform Licensing   Certification Exam  Study Guide
-1;Education 211  Teaching Elementary Math
-1;Studying for Accounting 303
-1;Studying for Math 103
-1;Basics of Metaphysics in Philosophy
-1;Dynasties of China
-1;Fundamentals of Epistemology
-1;SBEC Technology Application Standards for Teachers
-1;New Mexico State Standards for Science
-1;ELL Services in Massachusetts
-1;Publications for ESL Teachers
-1;WIDA Can Do Descriptors for Grades 9_12
-1;WV Next Generation Standards for Science
-1;Latest Lessons
-1;Fixed_Price   Cost_Reimbursement Contracts
-1;How Does Light Travel  _ Lesson for Kids
-1;Still Life Drawings  Definition   Examples
-1;Robin Hood Facts  Lesson for Kids
-1;Alimony   Social Security Benefits
-1;Legal Ethics Paper Topics
-1;Indicative Mood Activities
-1;Memorial Day  Origin, History   Meaning
-1;Quiz   Worksheet _ Individual Sports
-1;Quiz   Worksheet _ Peanut Gallery Etymology
-1;Quiz   Worksheet _ Making a Production Cost Report
-1;Quiz   Worksheet _ Physical Education Teaching Methods
-1;Seed Components  Quiz   Worksheet for Kids
-1;Statistical Calculations for Business Flashcards
-1;Understanding Inequalities Flashcards
-1;Popular Courses
-1;Improving Team Performance   Motivation
-1;Introduction to Criminal Justice Syllabus Resource   Lesson Plans
-1;Algebra 2 and Trig Textbook
-1;The Crucible Study Guide
-1;Season   Climate Classifications
-1;PLACE English  Visual Communication
-1;Quiz   Worksheet _ Mary Parker Follett s Impact on Management Practices
-1;Quiz   Worksheet _ Characteristics of the Mystery Genre
-1;Quiz   Worksheet _ SARS   Other Coronaviridae Viruses
-1;Quiz   Worksheet _ The House on Mango Street
-1;Quiz   Worksheet _ The Hawthorne Effect   Employee Productivity
-1;Popular Lessons
-1;The Battle of Stones River  Summary   Outcome
-1;Essential Skills for First_Time Managers
-1;Community Helpers Lesson Plan
-1;Beatitudes Lesson Plan
-1;Fun Math Games for the Classroom
-1;Black History Bulletin Board Ideas
-1;How to Pass the Chemistry Regents Exam
-1;Coat of Arms Lesson Plan
-1;Is Spanish Hard to Learn 
-1;Five Themes of Geography Lesson Plan
-1;Division Math Games
-1;Can I Take the CLEP Test Online 
-1;College Courses Business English Foreign Language History Humanities Math Science Social Science See All College Courses
-1;High School Courses AP Common Core GED High School See All High School Courses
-1;Other Courses College   Career Guidance Courses College Placement Exams Entrance Exams General Test Prep K_8 Courses Skills Courses Teacher Certification Exams See All Other Courses
-1;Business
-1;English
-1;Foreign Language
-1;History
-1;Humanities
-1;Math
-1;Science
-1;Social Science
-1;See All College Courses
-1;AP
-1;Common Core
-1;GED
-1;High School
-1;See All High School Courses
-1;College   Career Guidance Courses
-1;College Placement Exams
-1;Entrance Exams
-1;General Test Prep
-1;K_8 Courses
-1;Skills Courses
-1;Teacher Certification Exams
-1;See All Other Courses
-1;Create a Study Trainer
-1;Create custom courses
-1;Get your questions answered
-1;Assign Lessons to Students
-1;Show Videos in Your Classroom
-1;K_12 Subjects Common Core Aligned
-1;Access to Instructors
-1;Create Custom Courses
-1;Unlimited access to all video lessons
-1;Lesson Transcripts
-1;Tech support
-1;Practice quizzes   tests
-1;Tools for tracking progress
-1;Personalized coaching
-1;Access to instructors
-1;Certificates of Completion
-1;Create Custom Courses
-1;Earn college credit
-1;Take two exams per month
-1;Finish official exams remotely
-1;Learn more
-1;Free Trial
-1;Student Solutions
-1;Teacher Solutions
-1;Corporate Solutions
-1;Study com for Schools
-1;About Us
+1;Theme Light Dark
 1;Blog
-1;Careers
-1;Get Your School Listed
-1;Teach For Us
-1;Press Center
-1;Contact Support
-1;Contact Us
-1;FAQ
-1;Site Feedback
-1;linear
-1;quadratic
-1;power
-1;polynomial
-1;rational
-1;exponential
-1;logarithmic
-1;sinusoidal
-1;Constant Function
-1; Let  A  and  B  be any two non empty sets, then a function     from  A  to  B  is called a constant function if and only if the range of     is a singleton
-1;Algebraic Function
-1; A function defined by an algebraic expression is called an algebraic function
-1; A function defined by an algebraic expression is called an algebraic function
-1; e
-1;g
-1;Polynomial Function
-1; A function of the form where  n  is a positive integer and are real numbers is called a polynomial function of degree  n 
-1; A function of the form where  n  is a positive integer and are real numbers is called a polynomial function of degree  n 
-1;Linear Function
-1; A polynomial function with degree     is called a linear function
-1; The most general form of a linear function is
-1;Quadratic Function
-1; A polynomial function with degree  2  is called a quadratic function
-1; The most general form of a quadratic equation is
-1;Cubic Function
-1; A polynomial function with degree  3  is called a cubic function
-1; The most general form of a cubic function is
-1;Identity Function
-1; Let be a function then     is called an identity function if 
-1;Rational Function
-1; A function defined by , where both and are polynomial functions is called a rational function
-1;Trigonometric Function
-1; A function , etc
-1;, then is called a trigonometric function
-1;Exponential Function
-1; A function in which the variable appears as an exponent is called an exponential function e
-1;g
-1; 
-1;Logarithmic Function
-1; A function in which the variable appears as an argument of a logarithm is called a logarithmic function
-1; e
-1;g
-1; 
-1;Instead of commenting  Thank you , do us more good by clicking on our Like or Share button 
-1;  Privacy policy
-1; Contact us
+1;Privacy   Cookies
+1;Terms of Use
+1;Feedback
+1;Impressum
+1;Trademarks
+1;Errors can happen, every time you write some new computer code
+1;Many of these errors are difficult to diagnose
+1;Often, when programming code contains errors, nothing will happen
+1; There are no error messages, and you will get no indications where to search for errors
+1; There are no error messages, and you will get no indications where to search for errors
+1; Searching for errors in programming code is called code debugging
+1;Debugging is not easy
+1;If your browser supports debugging, you can use console
+1;If your browser supports debugging, you can use console
+1;logto display JavaScript values in the debugger window
+1;In the debugger window, you can set breakpoints in the JavaScript code
+1;In the debugger window, you can set breakpoints in the JavaScript code
+1;In the debugger window, you can set breakpoints in the JavaScript code
+1;At each breakpoint, JavaScript will stop executing, and let you examine JavaScript values
+1;After examining values, you can resume the execution of code 
+1;The debugger keyword stops the execution of JavaScript, and calls the debugging function
+1;The debugger keyword stops the execution of JavaScript, and calls the debugging function
+1;This has the same function as setting a breakpoint in the debugger
+1;If no debugging is available, the debugger statement has no effect
+1;If no debugging is available, the debugger statement has no effect
+1;With the debugger turned on, this code will stop executing before it executes the third line
+1;Otherwise follow these steps
+1;Debugging is the process of testing, finding, and reducing bugs in computer programs
+1;Debugging is the process of testing, finding, and reducing bugs in computer programs
+1; The first known computer bug was a real bug stuck in the electronics
+1; The first known computer bug was a real bug stuck in the electronics
+1;Tabs Dropdowns Accordions Convert Weights Animated Buttons Side Navigation Top Navigation JS Animations Modal Boxes Progress Bars Parallax Login Form HTML Includes Google Maps Loaders Tooltips Slideshow Filter List Sort List
+1;HTML, CSS, JavaScript, PHP, jQuery, Bootstrap and XML
+1;Open the browser 
+1;From the menu, select tools 
+1;Finally, select Console 
+1;Open the browser 
+1;Go to the web page  http   www getfirebug com
+1;Follow the instructions how to  install Firebug
+1;Open the browser 
+1;From the menu, select tools 
+1;Finally, select Console 
+1;Open the browser 
+1;Go to the webpage  http   dev opera com
+1;Follow the instructions how to  add a Developer Console button to your toolbar 
+1;Open the browser 
+1;Go to the webpage  http   safari_extensions apple com
+1;Follow the instructions how to  install Firebug Lite 
+1;Go to Safari, Preferences, Advanced in the main menu 
+1;Check  Enable Show Develop menu in menu bar  
+1;Debugging, in computer programming and engineering, is a multistep process that involves identifying a problem, isolating the source of the problem, and then either correcting the problem or determining a way to work around it
+1; The final step of debugging is to test the correction or workaround and make sure it works
+1;Understand respected criteria for quality assurance, tracking changes, and see a review of 5 great tools for developers
+1;Understand respected criteria for quality assurance, tracking changes, and see a review of 5 great tools for developers
+1;Understand respected criteria for quality assurance, tracking changes, and see a review of 5 great tools for developers
+1;Understand respected criteria for quality assurance, tracking changes, and see a review of 5 great tools for developers
+1;This email address doesn t appear to be valid
+1;This email address is already registered
+1; Please login
+1;Please provide a Corporate E_mail Address
+1;By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent
+1; Debugging is part of the software testing process and is an integral part of the entire software development lifecycle
+1; Debugging is part of the software testing process and is an integral part of the entire software development lifecycle
+1; Debugging is part of the software testing process and is an integral part of the entire software development lifecycle
+1; The debugging process starts as soon as code is written and continues in successive stages as code is combined with other units of programming to form a software product
+1; In a large program that has thousands and thousands of lines of code, the debugging process can be made easier by using strategies such as unit tests, code reviews and pair programming
+1; In a large program that has thousands and thousands of lines of code, the debugging process can be made easier by using strategies such as unit tests, code reviews and pair programming
+1; In a large program that has thousands and thousands of lines of code, the debugging process can be made easier by using strategies such as unit tests, code reviews and pair programming
+1;Once an error has been identified, it is necessary to actually find the error in the code
+1; At this point, it can be useful to look at the code s logging and use a stand_alone debugger tool or the debugging component of an integrated development environment 
+1; Invariably, the bugs in the functions that get most use are found and fixed first
+1; In some cases, the module that presents the problem is obvious, while the line of code itself is not
+1; In that case, unit tests __ such as JUnit and xUnit, which allow the programmer to run a specific function with specific inputs __ can be helpful in debugging
+1; In that case, unit tests __ such as JUnit and xUnit, which allow the programmer to run a specific function with specific inputs __ can be helpful in debugging
+1;The standard practice is to set up a  breakpoint  and run the program until that breakpoint, at which time program execution stops
+1;The standard practice is to set up a  breakpoint  and run the program until that breakpoint, at which time program execution stops
+1; The debugging component of an IDE typically provides the programmer with the capability to view memory and see variables, run the program to the next breakpoint, execute just the next line of code, and, in some cases, change the value of variables or even change the contents of the line of code about to be executed
+1;Source code analyzers, which include security, common code errors and complexity analyzers, can also be helpful in debugging
+1; A complexity analyzer can find modules that are so intricate as to be hard to understand and test
+1; Other debugging tools include advanced logging and simulators that allow the programmer to model how an app on a mobile device will display and behave
+1;Some tools, especially open source tools and scripting languages, do not run in an IDE and require a more manual approach to debugging
+1;The use of the word bug as a synonym for error originated in engineering
+1; The term s application to computing and the inspiration for using the word debugging as a synonym for troubleshooting has been attributed to Admiral Grace Hopper, a pioneer in computer programming, who was also known for her dry sense of humor
+1; The term s application to computing and the inspiration for using the word debugging as a synonym for troubleshooting has been attributed to Admiral Grace Hopper, a pioneer in computer programming, who was also known for her dry sense of humor
+1;S
+1; Navy s first computer, Admiral Hopper and her team  debugged  the computer and saved the moth
+1; Navy s first computer, Admiral Hopper and her team  debugged  the computer and saved the moth
+1; Navy s first computer, Admiral Hopper and her team  debugged  the computer and saved the moth
+1;Find more PRO  content and other member only offers, here
+1;Agile automation techniques answer the need for development speed
+1;Data analytics metrics can be the answer to optimized app performance
+1;Margaret Rouse asks
+1; Privacy
+1;Microsoft delivers Draft, a new tool that simplifies Kubernetes cluster management by easing the development and deployment of 
+1;Many organizations struggle to bring development and operations together, only to realize that effective DevOps means 
+1;Find out how Cure
+1;org improved application performance management to fine tune their website, increase donations, and make a 
+1;How is big data and IT helping the agriculture industry  By looking at information in new ways, technology is helping to improve 
+1;Red Hat adds to its OpenShift
+1;Techniques and tools abound for cloud app development
+1;The cloud was supposed to save us
+1;Mobile app users want a consistent experience for all apps __ on all devices
+1; AWS Device Farm tests application features but 
+1;In this chapter excerpt from Serverless Architectures on AWS, author Peter Sbarski shares five tricks developers can use to 
+1;While much of the developer community turns to Kubernetes to schedule containers, open source AWS Blox could carve out a niche 
+1;Lenovo and Autodesk are two organizations that are increasing their use of the cloud for analytics applications, looking to lower
+1;When deploying deep learning models into production, experts say it s important to take care of the basics, like model design and
+1;After forming a new joint venture, LifeWorks, HCM vendor Ceridian uses LifeWorks  employee recognition, engagement and perks 
+1;Choose your talent management system wisely or risk irking your employees
+1; Learn the criteria for evaluating software that 
+1;Retailers such as Walmart are beginning to offer self_service health kiosks that allow patients to check their vital signs while 
+1;For Brent Shafer, CEO of Philips North America, the name of the health IT game is connected care
+1; Shafer explains that this is 
+1;Despite some health IT experts saying that certain challenges are keeping genomics in healthcare from happening, there are other 
+1;All Rights Reserved, Copyright 2006 _ 2017, TechTarget
+1;Techtarget Network
+1;News
+1;Features
+1;Tips
+1;Agile DevOps
+1;Answers
+1;Buyer s Guides
+1;Essential Guides
+1;Opinions
+1;Photo Stories
+1;Podcasts
+1;Quizzes
+1;Tutorials
+1;Sponsored Communities
+1;SearchSoftwareQuality
+1;Topic Software Testing ALM Models and Methodologies Project Management Requirements Security Testing and QA All Topics
+1;SubTopic Mobile Testing Automated Software Testing Cloud Application Testing Cloud Computing Testing and Development Exploratory Testing Mobile Testing Regression Testing Software Test Design Software Testing Methodologies Testing Tools and Frameworks User Acceptance Testing Software Performance Testing Functional Software Testing All Subtopics
+1;SubTopic Mobile Testing Automated Software Testing Cloud Application Testing Cloud Computing Testing and Development Exploratory Testing Mobile Testing Regression Testing Software Test Design Software Testing Methodologies Testing Tools and Frameworks User Acceptance Testing Software Performance Testing Functional Software Testing All Subtopics
+1;ALM
+1;Models and Methodologies
+1;Project Management
+1;Requirements
+1;Security Testing and QA
+1;All Topics
+1;Automated Software Testing
+1;Cloud Application Testing
+1;Cloud Computing Testing and Development
+1;Exploratory Testing
+1;Mobile Testing
+1;Regression Testing
+1;Software Test Design
+1;Software Testing Methodologies
+1;Testing Tools and Frameworks
+1;User Acceptance Testing
+1;Software Performance Testing
+1;Functional Software Testing
+1;All Subtopics
+1;Follow 
 1;Home
-1;Basic Mathematics Algebra Basic Algebra Basic Mathematics Basic Statistics Business Math Calculus Everyday Math Geometry Linear Programming Trigonometry
-1;Higher Mathematics General Topology Group Theory Real Analysis
-1;Other Math Links Math Results And Formulas
-1;Contact
-1;Algebra
-1;Basic Algebra
-1;Basic Mathematics
-1;Basic Statistics
-1;Business Math
-1;Calculus
-1;Everyday Math
-1;Geometry
-1;Linear Programming
-1;Trigonometry
-1;General Topology
-1;Group Theory
-1;Real Analysis
-1;Math Results And Formulas
-1;Home
-1;Basic Mathematics Algebra Basic Algebra Basic Mathematics Basic Statistics Business Math Calculus Everyday Math Geometry Linear Programming Trigonometry
-1;Higher Mathematics General Topology Group Theory Real Analysis
-1;Other Math Links Math Results And Formulas
-1;Contact
-1;Algebra
-1;Basic Algebra
-1;Basic Mathematics
-1;Basic Statistics
-1;Business Math
-1;Calculus
-1;Everyday Math
-1;Geometry
-1;Linear Programming
-1;Trigonometry
-1;General Topology
-1;Group Theory
-1;Real Analysis
-1;Math Results And Formulas
-1;www
-1;springer
-1;com The European Mathematical Society
-1;where are polynomials in , and with 
-1; The number is the degree of with respect to , and is called the degree of the algebraic function
-1; If , an algebraic function may be represented as a quotient
-1;of polynomials, and is called a rational function of 
-1; the function_theoretical point of view taken, in particular, by N
+1;Mobile Testing
+1;Programming
+1;debugging
+1;Share this item with your network 
+1;By submitting my Email address I confirm that I have read and accepted the Terms of Use and Declaration of Consent 
+1;Debugging, tracing and profiling
+1;The Art of Debugging 
+1;Get expert advice on debugging a webpage
+1;Better software through debugging and unit testing
+1;How to use unit testing to debug programs
+1;All
+1;News
+1;Get Started
+1;Evaluate
+1;Manage
+1;Problem Solve
+1;What s the future of software testing  Start with data science
+1;Why mobile application emulator choices for test and QA can be tricky
+1;What s the future of software testing  Start with data science
+1;QUEST speakers confirm mobile test automation vital for performance
+1;Why continuous testing is gaining ground, but not enough
+1;Understand the importance of a mobile testing strategy
+1;device cloud
+1;A primer on automated API testing
+1;Consider these requirements when building B2B mobile apps
+1;Why mobile application emulator choices for test and QA can be tricky
+1;The future of software testing  It s a brave new world
+1;The future of software testing  It s a brave new world
+1;How can a virtualized network help with app testing 
+1;Find the right recipe for mobile business apps
+1;Should I get to know customer experience testing 
+1;A primer on automated API testing
+1;Find the right recipe for mobile business apps
+1;Tips for enterprise mobile app deployment
+1;Roundup of mobile emulator tools
+1;Reviewing open source Appium
+1;Mobile testing tutorial  Testers transition from Web to mobile apps
+1;ehandbook_cover Agile automation techniques answer the need for development speed
+1;E_Handbook Data analytics metrics can be the answer to optimized app performance
+1;Margaret Rouse asks  What debugging tips do you have that work well  Join the Discussion
+1; 
+1; 
+1;A
+1;B
+1;C
+1;D
+1;E
+1;F
+1;G
 1;H
-1; Abel, K
-1; Weierstrass and B
-1; Riemann  the arithmetic_algebraic point of view taken by R
-1; Dedekind, H
-1; Weber and K
-1; Clebsch, M
-1; Noether and others  cf
-1; Algebraic geometry 
-1; The first direction of the theory of algebraic functions of a single variable is connected with the study of algebraic functions over the field of complex numbers, in which they are regarded as meromorphic functions on Riemann surfaces and complex manifolds  the most important methods applied are the geometrical and topological methods of the theory of analytic functions
-1; The first direction of the theory of algebraic functions of a single variable is connected with the study of algebraic functions over the field of complex numbers, in which they are regarded as meromorphic functions on Riemann surfaces and complex manifolds  the most important methods applied are the geometrical and topological methods of the theory of analytic functions
-1; The arithmetic_algebraic approach involves the study of algebraic functions over arbitrary fields
-1; The methods employed are purely algebraic
-1; In the algebraic_geometrical approach algebraic functions are considered to be rational functions on an algebraic variety, and are studied by methods of algebraic geometry  cf
-1; In the algebraic_geometrical approach algebraic functions are considered to be rational functions on an algebraic variety, and are studied by methods of algebraic geometry  cf
-1; Rational function 
-1; This differentiation has by now become largely arbitrary, since function_theoretical studies involve the extensive use of algebraic methods, while many results obtained at first using function_theoretical and topological methods can be successfully applied to more general fields using algebraic analogues of these methods
-1; This differentiation has by now become largely arbitrary, since function_theoretical studies involve the extensive use of algebraic methods, while many results obtained at first using function_theoretical and topological methods can be successfully applied to more general fields using algebraic analogues of these methods
-1;Over the field of complex numbers, an algebraic function of one variable is a _valued analytic function
-1; If is the discriminant of the polynomial
-1; i
-1;e
-1; of the polynomial for which  , which is obtained by eliminating from the equations
-1;to yield the equation
-1; The complementary set is known as the non_critical set
-1; For any point equation has different roots and the condition
-1;is satisfied
-1; According to the implicit function theorem, in a neighbourhood of the point there exist single_valued analytic functions which satisfy the conditions
-1;and which can be decomposed into a convergent series
-1; If is a critical point of an algebraic function, then two cases are possible
-1; 1  is a root of the discriminant, i
-1; 1  is a root of the discriminant, i
-1;e
-1; , but   or 2  
-1;Case 1
-1; Let be a small disc with centre at which does not contain other critical points, and let be a system of regular elements with centre at , 
-1; These functions remain bounded as 
-1; The analytic continuation of some given element, e
-1;g
-1; This system consists of elements, and a minimum required finite number of such turns yields the initial element 
-1; One obtains a subsystem of elements with centre   each one of these elements may be obtained by analytic continuation of the other by a number of turns around the point   such a subsystem is known as a cycle
-1; One obtains a subsystem of elements with centre   each one of these elements may be obtained by analytic continuation of the other by a number of turns around the point   such a subsystem is known as a cycle
-1; One obtains a subsystem of elements with centre   each one of these elements may be obtained by analytic continuation of the other by a number of turns around the point   such a subsystem is known as a cycle
-1; If , then the element is not a single_valued function of in the disc , but is a single_valued analytic function of the parameter in a neighbourhood of 
-1; In a certain neighbourhood of this point the elements of the first cycle can be represented as convergent series
-1; In a certain neighbourhood of this point the elements of the first cycle can be represented as convergent series
-1;and similar expansions also take place for the elements of other cycles
-1; The transformation , , which corresponds to one turn around , converts the Puiseux series of elements in one cycle into each other in cyclic order, i
-1;e
-1; there is a cyclic permutation of the series and of the corresponding elements
-1; To turns around the critical point correspond permutations of the elements with centre at this point  these permutations consist of cycles of the orders , 
-1; The permutations defined in this way constitute the monodromy group of the algebraic function
-1; If at least one element is greater than 1, the critical point is called an algebraic branch point of the algebraic function  the numbers are called the branch indices of the algebraic function
-1; If at least one element is greater than 1, the critical point is called an algebraic branch point of the algebraic function  the numbers are called the branch indices of the algebraic function
-1;Case 2
-1; If is substituted for , one returns to case 1  one obtains expansions similar to , which may contain a finite number of terms with negative indices
-1;If , the point is a pole of order of the algebraic function
-1;If , the point is a pole of order of the algebraic function
-1;e
-1; on the complex plane completed by the point at infinity 
-1; The introduction of the variable reduces this case to the previous case  in a neighbourhood of the point one has the expansion
-1;If , then the point is called a pole of order 
-1;The parameter of the expansion in the series , , , is called the local uniformizing parameter for the algebraic function
-1; Algebraic functions have no singularities other than algebraic branch points and poles
-1; The converse proposition is also true
-1; A function which is analytic, is not more than _valued at all points of the Riemann sphere except for a finite number of points and , and has at such points only poles or algebraic branch points, is an algebraic function of degree 
-1; A function which is analytic, is not more than _valued at all points of the Riemann sphere except for a finite number of points and , and has at such points only poles or algebraic branch points, is an algebraic function of degree 
-1;The Riemann surface of a complete algebraic function is compact and is a _sheeted covering of the Riemann sphere, branch points can be the critical points and the point 
-1;The Riemann surface of a complete algebraic function is compact and is a _sheeted covering of the Riemann sphere, branch points can be the critical points and the point 
-1; The genus of the Riemann surface of an algebraic function is important  it is called the genus of the algebraic function
-1; The genus of the Riemann surface of an algebraic function is important  it is called the genus of the algebraic function
-1; The genus of a rational function is zero, and its Riemann surface is the Riemann sphere
-1; The genus of a rational function is zero, and its Riemann surface is the Riemann sphere
-1; The genus of a rational function is zero, and its Riemann surface is the Riemann sphere
-1; The Riemann surface of an elliptic function that satisfies a third_ or fourth_degree equation is a torus  the genus of such a function is one
-1; The Riemann surface of an elliptic function that satisfies a third_ or fourth_degree equation is a torus  the genus of such a function is one
-1; The Riemann surface of an elliptic function that satisfies a third_ or fourth_degree equation is a torus  the genus of such a function is one
-1;The universal covering Riemann surface of an algebraic function is a simply_connected two_dimensional manifold, i
-1;e
-1; it has a trivial fundamental group and is conformally equivalent either to the Riemann sphere, the complex plane or the interior of the unit disc
-1; In the first case the algebraic function is a rational, in the second case it is an elliptic, while in the third case it is a general function
-1; In the first case the algebraic function is a rational, in the second case it is an elliptic, while in the third case it is a general function
-1; In the first case the algebraic function is a rational, in the second case it is an elliptic, while in the third case it is a general function
-1;of a parameter , which identically satisfy equation 
-1; The uniformization problem is locally solved by a local uniformizing parameter  however, it is the solution  in the large  that is of interest
-1; The uniformization problem is locally solved by a local uniformizing parameter  however, it is the solution  in the large  that is of interest
-1; If , i
-1;e
-1; if is a rational function of , this parameter may be the variable   if , then uniformization is attained with the aid of a rational or a trigonometric function
-1; For instance, if satisfies the equation
-1;one can take
-1;If in the case of an algebraic function of genus one, uniformization is achieved using elliptic functions
-1; Finally, if and the genus of the algebraic function is higher than one, uniformization is realized using automorphic functions  cf
-1; Automorphic function 
-1;If is an algebraic function in the variables , then the set of all rational functions forms a field , coinciding with the field of rational functions on the algebraic hypersurface in _dimensional space defined by the equation 
-1;If is an algebraic function in the variables , then the set of all rational functions forms a field , coinciding with the field of rational functions on the algebraic hypersurface in _dimensional space defined by the equation 
-1; If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
-1; If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
-1; If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
-1; If the field of constants is the field of complex numbers and if , then is identical with the field of meromorphic functions on the Riemann surface of the algebraic function
-1; The field is an extension of finite type of the field of constants of transcendence degree  cf
-1; Extension of a field 
-1; In particular, any elements of this field are connected by an algebraic equation, so that each of them defines an algebraic function of the remaining elements
-1; In particular, any elements of this field are connected by an algebraic equation, so that each of them defines an algebraic function of the remaining elements
-1; Any extension of finite type of a field of transcendence degree is known as an algebraic function field in variables 
-1; Each such field contains a purely transcendence extension of the field 
-1; Each field of algebraic functions in variables is isomorphic to the field of rational functions on some algebraic variety of dimension , which is called a model of 
-1; If the field of constants is algebraically closed and of characteristic zero, then each algebraic function field has a non_singular projective model  cf
-1; If the field of constants is algebraically closed and of characteristic zero, then each algebraic function field has a non_singular projective model  cf
-1; Resolution of singularities 
-1; Let be the set of all non_trivial valuations  cf
-1; Valuation  of an algebraic function field which are non_negative on the field of constants
-1; If provided with the natural topology, it is known as the abstract Riemann surface of the field 
-1; Many concepts and results in algebraic geometry on the model of a field can be restated in the language of the theory of valuations of fields , 
-1; A particularly close analogy holds for algebraic functions in one variable, the theory of which is practically identical with the theory of algebraic curves
-1; A particularly close analogy holds for algebraic functions in one variable, the theory of which is practically identical with the theory of algebraic curves
-1;Each algebraic function field in one variable is the field of fractions of a Dedekind ring, so that many results and concepts of the theory of divisibility in algebraic number fields can be applied to function fields 
-1;Each algebraic function field in one variable is the field of fractions of a Dedekind ring, so that many results and concepts of the theory of divisibility in algebraic number fields can be applied to function fields 
-1; Many problems and constructions in algebraic number theory motivate similar problems and constructions in fields of algebraic functions and vice versa
-1; Zeta_function in algebraic geometry 
-1;Log in
-1;Main page
-1;Pages A_Z
-1;StatProb Collection
-1;Recent changes
-1;Current events
-1;Random page
-1;Help
-1;Project talk
-1;What links here
-1;Related changes
-1;Special pages
-1;Printable version
-1;Permanent link
-1;Page information
-1;Page
-1;Discussion
-1;View
-1;View source
-1;History
-1;This page was last modified on 30 March 2012, at 23 49 
-1;Privacy policy
-1;About Encyclopedia of Mathematics
-1;Disclaimers
-1;Copyrights
-1;Impressum Legal
+1;I
+1;J
+1;K
+1;L
+1;M
+1;N
+1;O
+1;P
+1;Q
+1;R
+1;S
+1;T
+1;U
+1;V
+1;W
+1;X
+1;Y
+1;Z
+1; 
+1;Microservices
+1;Java
+1;Cloud Applications
+1;AWS
+1;Business Analytics
+1;Financial Applications
+1;Health IT
+1;Microsoft s Draft eases Kubernetes cluster management, app development Microsoft delivers Draft, a new tool that simplifies Kubernetes cluster management by easing the development and deployment of    
+1;Microsoft s Draft eases Kubernetes cluster management, app development Microsoft delivers Draft, a new tool that simplifies Kubernetes cluster management by easing the development and deployment of    
+1;Effective DevOps hinges on automating a continuous delivery pipeline Many organizations struggle to bring development and operations together, only to realize that effective DevOps means    
+1;Changing lives through improved application performance Find out how Cure org improved application performance management to fine tune their website, increase donations, and make a    
+1;Improving plant production performance with IT in the agriculture industry How is big data and IT helping the agriculture industry  By looking at information in new ways, technology is helping to improve    
+1;Red Hat expands its container strategy with Codenvy acquisition Red Hat adds to its OpenShift io cloud_based integrated development environment with its acquisition of Codenvy, a maker of    
+1;Beware the dreaded scourge of cloud sprawl  Act now or lose control The cloud was supposed to save us  So, why are we now suffering from dreaded cloud sprawl, and what should we do about it  Cloud    
+1;AWS Device Farm testing doesn t give full performance picture Mobile app users want a consistent experience for all apps __ on all devices  AWS Device Farm tests application features but    
+1;AWS Device Farm testing doesn t give full performance picture Mobile app users want a consistent experience for all apps __ on all devices  AWS Device Farm tests application features but    
+1;AWS Device Farm testing doesn t give full performance picture Mobile app users want a consistent experience for all apps __ on all devices  AWS Device Farm tests application features but    
+1;Strategies to accelerate AWS Lambda functions In this chapter excerpt from Serverless Architectures on AWS, author Peter Sbarski shares five tricks developers can use to    
+1;AWS Blox enters crowded open source container market amid skepticism While much of the developer community turns to Kubernetes to schedule containers, open source AWS Blox could carve out a niche    
+1;How enterprises can find the right deep learning use cases The world s top tech companies are currently the biggest users of deep learning applications, but more typical enterprises may be   
+1;Experts explain how to deploy deep learning in production When deploying deep learning models into production, experts say it s important to take care of the basics, like model design and   
+1;Ceridian uses employee engagement tool from its own joint venture After forming a new joint venture, LifeWorks, HCM vendor Ceridian uses LifeWorks  employee recognition, engagement and perks    
+1;Evaluate HR technology to fit your talent management processes Choose your talent management system wisely or risk irking your employees  Learn the criteria for evaluating software that    
+1;Rise of retail health kiosks enables greater patient engagement Retailers such as Walmart are beginning to offer self_service health kiosks that allow patients to check their vital signs while    
+1;Connected care a focus for CEO of Philips North America For Brent Shafer, CEO of Philips North America, the name of the health IT game is connected care  Shafer explains that this is    
+1;Genomics in healthcare is ready now, experts say Despite some health IT experts saying that certain challenges are keeping genomics in healthcare from happening, there are other    
+1;Genomics in healthcare is ready now, experts say Despite some health IT experts saying that certain challenges are keeping genomics in healthcare from happening, there are other    
+1;About Us
+1;Meet The Editors
+1;Contact Us
+1;Privacy Policy
+1;Advertisers
+1;Business Partners
+1;Media Kit
+1;Corporate Site
+1;Contributors
+1;Reprints
+1;Archive
+1;Site Map
+1;Answers
+1;E_Products
+1;Events
+1;Features
+1;Guides
+1;Opinions
+1;Photo Stories
+1;Quizzes
+1;Tips
+1;Tutorials
+1;Videos
+1;This example shows how to debug a DATA step when output is missing
+1;This program creates information about a travel tour group
+1; The data files contain two types of records
+1; One type contains the tour code, and the other type contains customer information
+1; One type contains the tour code, and the other type contains customer information
+1; One type contains the tour code, and the other type contains customer information
+1; One type contains the tour code, and the other type contains customer information
+1; The program creates a report listing tour number, name, age, and sex for each customer
+1;The program executes without error, but the output is unexpected
+1; The output does not contain values for the variable Tour
+1; Viewing the SAS log will not help you debug the program because the data are valid and no errors appear in the log
+1; Viewing the SAS log will not help you debug the program because the data are valid and no errors appear in the log
+1; Viewing the SAS log will not help you debug the program because the data are valid and no errors appear in the log
+1; To help identify the logic error, run the DATA step again using the DATA step debugger
+1;The following display shows the resulting two debugger windows
+1;The upper window is the DEBUGGER LOG window
+1; Issue debugger commands in this window by typing commands on the debugger command line 
+1; The debugger displays the command and results in the upper part of the window
+1;The lower window is the DEBUGGER SOURCE window
+1; Each line in the DATA step is numbered with the same line number used in the SAS log
+1; This means that SAS has compiled the step and will begin to execute the step at the top of the DATA step loop
+1;To debug a DATA step, create a hypothesis about the logic error and test it by examining the values of variables at various points in the program
+1;Note
+1;   Most debugger commands have abbreviations, and you can assign commands to function keys
+1;   Most debugger commands have abbreviations, and you can assign commands to function keys
+1; The examples in this section, however, show the full command name to help you find the commands in Debugger Commands by Category
+1; The examples in this section, however, show the full command name to help you find the commands in Debugger Commands by Category
+1; The examples in this section, however, show the full command name to help you find the commands in Debugger Commands by Category
+1;   When you press ENTER, the following display appears
+1;The values of all variables appear in the DEBUGGER LOG window
+1; SAS has compiled, but not yet executed, the INPUT statement
+1;Use the STEP command to execute the DATA step statements one at a time
+1; By default, the STEP command is assigned to the ENTER key
+1;Because Tour information was missing in the program output, enter the EXAMINE command to view the value of the variable Tour for the first iteration of the DATA step
+1;The following display shows the results
+1;The variable Tour contains the value Tour 101, showing you that Tour was read
+1; The first iteration of the DATA step worked as intended
+1; Press ENTER to reach the top of the DATA step
+1;You can use the BREAK command to suspend DATA step execution at a particular line you designate
+1;Execute the GO command to continue DATA step execution until it reaches the breakpoint 
+1;Execute the GO command to continue DATA step execution until it reaches the breakpoint 
+1;The following display shows the result
+1; Examine the values of all the variables to see their status at this point
+1;The following display shows the values
+1; The program data vector gets reset to missing values at the beginning of each iteration and therefore does not retain the value of Tour
+1;To end the debugging session, issue the QUIT command on the debugger command line
+1;The debugging windows disappear, and the original SAS session resumes
+1;Correct the original program by adding the RETAIN statement
+1; Delete the DEBUG option from the DATA step, and resubmit the program
+1;This example shows how to debug a program when you use format statements to format dates
+1; The following program creates a report that lists travel tour dates for specific countries
+1; The following program creates a report that lists travel tour dates for specific countries
+1;The value of Duration for the tour to Venezuela shows a negative number, _290 days
+1; To help identify the error, run the DATA step again using the DATA step debugger
+1;At the DEBUGGER LOG command line, issue the EXAMINE command to display the values of all variables in the program data vector before execution begins
+1;Initial values of all variables appear in the DEBUGGER LOG window
+1;Press ENTER to issue the STEP command
+1; SAS executes the INPUT statement, and the assignment statement is now highlighted
+1;Issue the EXAMINE command to display the current value of all variables
+1;The following display shows the results
+1;Because a problem exists with the Venezuela tour, suspend execution before the assignment statement when the value of Country equals Venezuela
+1; Set a breakpoint to do this
+1;Execute the GO command to resume program execution
+1;SAS stops execution when the country name is Venezuela
+1;SAS stops execution when the country name is Venezuela
+1; You can examine Start and End tour dates for the Venezuela trip
+1; Because the assignment statement is highlighted , there will be no value for Duration
+1;The following display shows the results
+1;To view formatted SAS dates, issue the EXAMINE command using the DATEw
+1; format
+1;The following display shows the results
+1;Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+1;Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+1;Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+1;Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+1;Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+1;Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+1; Examine the source data in the program and notice that the value for End has a typographical error
+1; By using the SET command, you can temporarily set the value of End to November 18 to see if you get the anticipated result
+1; Issue the SET command using the DDMMMYYw
+1; format
+1;Press ENTER to issue the STEP command and execute the assignment statement
+1;Press ENTER to issue the STEP command and execute the assignment statement
+1;Issue the EXAMINE command to view the tour date and Duration fields
+1;The following display shows the results
+1;The Start, End, and Duration fields contain correct data
+1;End the debugging session by issuing the QUIT command on the DEBUGGER LOG command line
+1; Correct the original data in the SAS program, delete the DEBUG option, and resubmit the program
+1;An iterative DO, DO WHILE, or DO UNTIL statement can iterate many times during a single iteration of the DATA step
+1; When you debug DO loops, you can examine several iterations of the loop by using the AFTER option in the BREAK command
+1; When you debug DO loops, you can examine several iterations of the loop by using the AFTER option in the BREAK command
+1; The AFTER option requires a number that indicates how many times the loop will iterate before it reaches the breakpoint
+1; The AFTER option requires a number that indicates how many times the loop will iterate before it reaches the breakpoint
+1; The AFTER option requires a number that indicates how many times the loop will iterate before it reaches the breakpoint
+1; For example, consider this data set
+1;When you issue the GO commands, the debugger suspends execution when I has the values of 5, 10, 15, and 20 in the DO loop iteration
+1;When you issue the GO commands, the debugger suspends execution when I has the values of 5, 10, 15, and 20 in the DO loop iteration
+1;When you issue the GO commands, the debugger suspends execution when I has the values of 5, 10, 15, and 20 in the DO loop iteration
+1;When you issue the GO commands, the debugger suspends execution when I has the values of 5, 10, 15, and 20 in the DO loop iteration
+1;In an iterative DO loop, select a value for the AFTER option that can be divided evenly into the number of iterations of the loop
+1;If you do not select a value that can be evenly divided , the AFTER option causes the debugger to suspend execution when I has the values of 3, 6, 9, 12, 15, and 18
+1;If you do not select a value that can be evenly divided , the AFTER option causes the debugger to suspend execution when I has the values of 3, 6, 9, 12, 15, and 18
+1; When the DO loop iterates the second time, I has the values of 1, 4, 7, 10, 13, and 16
+1; When the DO loop iterates the second time, I has the values of 1, 4, 7, 10, 13, and 16
+1;You can use a SAS format or a user_created format when you display a value with the EXAMINE command
+1; For example, assume the variable BEGIN contains a SAS date value
+1; To display the day of the week and date, use the SAS WEEKDATEw
+1; format with EXAMINE
+1;When the value of BEGIN is 033001, the debugger displays
+1;When the value of BEGIN is 033001, the debugger displays
+1;As another example, you can create a format named SIZE
+1;As another example, you can create a format named SIZE
+1; to the variable STOCKNUM, use the format with EXAMINE
+1;When the value of STOCKNUM is 7, for example, the debugger displays
+1;When the value of STOCKNUM is 7, for example, the debugger displays
+1;Copyright 1999 by SAS Institute Inc
+1;, Cary, NC, USA
+1; All rights reserved
+1;Starting out
+1;Get the Ebook Get Started with C or C   Getting a Compiler Book Recommendations
+1;Tutorials
+1;C Tutorial C   Tutorial Java Tutorial Game Programming Graphics Programming Algorithms   Data Structures Debugging All Tutorials
+1;Practice
+1;Practice Problems Quizzes
+1;Resources
+1;Source Code Source Code Snippets C and C   Tips Finding a Job
+1;References
+1;Function Reference Syntax Reference Programming FAQ
+1;Getting Help
+1;Message Board Email About Us
+1;A good debugger is one of the most important tools in a programmer s toolkit
+1;A good debugger is one of the most important tools in a programmer s toolkit
+1; On a UNIX or Linux system, GDB is a powerful and popular debugging tool  it lets you do whatever you like with your program running under GDB
+1;Should you read this  You have a general idea of programming with C or C  
+1; You put a lot of cout or printf statements in the code if something goes wrong
+1; You put a lot of cout or printf statements in the code if something goes wrong
+1; You have used a debugger with an IDE, and are curious about how the command line works
+1;Gcc is the de facto compiler in Linux or any other  nix system
+1; It also has Windows ports but on Windows, you ll probably find the debugger in Visual Studio  easier 
+1;Suppose you have a file called main
+1;cpp containing your c   code
+1;So the final command turns into
+1; If you re wondering what _Wall and _Werror are, you may find this page on GCC a useful read
+1; 
+1;Don t worry if it looks cumbersome, you ll get used to it   If you ve got multiple source files you should use a good build system like make or Scons
+1; 
+1;Provided you ve compiled your program with the debugging symbols enabled, you re ready to start debugging
+1; Any time there is text you should replace, I ve put it in  angle brackets 
+1; The line at which you want the program to temporarily stop is called the breakpoint
+1;When the program is stopped, you can do a number of important things, but most importantly you need to see which part of the code you ve stopped
+1;When the program is stopped, you can do a number of important things, but most importantly you need to see which part of the code you ve stopped
+1; The command for this purpose is  list 
+1;Just starting and stopping isn t much of a control
+1; GDB also lets you to run the program line_by_line by the commands  next  and  step 
+1; GDB also lets you to run the program line_by_line by the commands  next  and  step 
+1; There is a little difference between the two, though
+1; Next keeps the control strictly in the current scope whereas step follows the execution through function calls
+1;Look at this example carefully 
+1;Suppose you have a line in the code like
+1;Suppose you have a line in the code like
+1;If you use the next command, the line gets executed and the control advances to the next line, readinput, where you can perhaps examine  value  to get an idea of how displayworked
+1;But if you use the step command, you get to follow what displaydoes directly, and the control advances to the first line of display, wherever it is
+1; To examine a variable, just use
+1;Note
+1;You can modify variables to see if an issue is resolved if the variable has another value or to force the program to follow a particular path to see if the reason for a bug was due to a variable having the wrong value
+1;Setting watchpoints is like asking the debugger to provide you with a running commentary of any changes that happen to the variables
+1;Setting watchpoints is like asking the debugger to provide you with a running commentary of any changes that happen to the variables
+1; Whenever a change occurs, the program pauses and provides you with the details of the change
+1;The command to set a simple watchpoint  a write watchpoint, i
+1;Note
+1; You can only set watchpoints for a variable when it is in scope
+1;Now follow the commands and the outputs carefully, especially the watchpoints
+1; What I m doing is basically
+1; Setting a breakpoint just in the line of the function call
+1; Stepping into the function from that line
+1; Setting watchpoints for both the result of the calculation and the input number as it changes
+1;You have now seen enough to try GBD out on your own
+1; Some important topics have not been touched upon here for the sake of simplicity, such as dealing with segmentation faults and other kinds of crashes or using tools like Valgrind to find memory leaks
+1;Remember that GDB comes built in with an excellent help system
+1; Just type help in the prompt and you will be presented with options of what you could need help with
+1; For details about a specific command, use the syntax
+1;After learning about GDB, you do not have to panic the next time your program goes crazy
+1; You have an excellent weapon in your arsenal now
+1;Exactly how to get started with C   today
+1;C Tutorial
+1;C   Tutorial
+1;5 ways you can learn to program faster
+1;The 5 Most Common Problems New Programmers Face
+1;How to set up a compiler
+1;8 Common programming Mistakes
+1;What is C  11 
+1;How to make a game in 48 hours
+1;How to create a shared library on Linux with GCC _ December 30, 2011
+1;Enum classes and nullptr in C  11 _ November 27, 2011
+1;Learn about The Hash Table _ November 20, 2011
+1;Rvalue References and Move Semantics in C  11 _ November 13, 2011
+1;Rvalue References and Move Semantics in C  11 _ November 13, 2011
+1;C and C   for Java Programmers _ November 5, 2011
+1;A Gentle Introduction to C   IO Streams _ October 10, 2011

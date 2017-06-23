@@ -821,4 +821,236 @@ Red Hat expands its container strategy with Codenvy acquisition Red Hat adds to 
 Beware the dreaded scourge of cloud sprawl  Act now or lose control The cloud was supposed to save us  So, why are we now suffering from dreaded cloud sprawl, and what should we do about it  Cloud    
 AWS Device Farm testing doesn t give full performance picture Mobile app users want a consistent experience for all apps __ on all devices  AWS Device Farm tests application features but    
 AWS Device Farm testing doesn t give full performance picture Mobile app users want a consistent experience for all apps __ on all devices  AWS Device Farm tests application features but    
-AWS Device 
+AWS Device Farm testing doesn t give full performance picture Mobile app users want a consistent experience for all apps __ on all devices  AWS Device Farm tests application features but    
+Strategies to accelerate AWS Lambda functions In this chapter excerpt from Serverless Architectures on AWS, author Peter Sbarski shares five tricks developers can use to    
+AWS Blox enters crowded open source container market amid skepticism While much of the developer community turns to Kubernetes to schedule containers, open source AWS Blox could carve out a niche    
+How enterprises can find the right deep learning use cases The world s top tech companies are currently the biggest users of deep learning applications, but more typical enterprises may be   
+Experts explain how to deploy deep learning in production When deploying deep learning models into production, experts say it s important to take care of the basics, like model design and   
+Ceridian uses employee engagement tool from its own joint venture After forming a new joint venture, LifeWorks, HCM vendor Ceridian uses LifeWorks  employee recognition, engagement and perks    
+Evaluate HR technology to fit your talent management processes Choose your talent management system wisely or risk irking your employees  Learn the criteria for evaluating software that    
+Rise of retail health kiosks enables greater patient engagement Retailers such as Walmart are beginning to offer self_service health kiosks that allow patients to check their vital signs while    
+Connected care a focus for CEO of Philips North America For Brent Shafer, CEO of Philips North America, the name of the health IT game is connected care  Shafer explains that this is    
+Genomics in healthcare is ready now, experts say Despite some health IT experts saying that certain challenges are keeping genomics in healthcare from happening, there are other    
+Genomics in healthcare is ready now, experts say Despite some health IT experts saying that certain challenges are keeping genomics in healthcare from happening, there are other    
+About Us
+Meet The Editors
+Contact Us
+Privacy Policy
+Advertisers
+Business Partners
+Media Kit
+Corporate Site
+Contributors
+Reprints
+Archive
+Site Map
+Answers
+E_Products
+Events
+Features
+Guides
+Opinions
+Photo Stories
+Quizzes
+Tips
+Tutorials
+Videos
+This example shows how to debug a DATA step when output is missing
+This program creates information about a travel tour group
+ The data files contain two types of records
+ One type contains the tour code, and the other type contains customer information
+ One type contains the tour code, and the other type contains customer information
+ One type contains the tour code, and the other type contains customer information
+ One type contains the tour code, and the other type contains customer information
+ The program creates a report listing tour number, name, age, and sex for each customer
+The program executes without error, but the output is unexpected
+ The output does not contain values for the variable Tour
+ Viewing the SAS log will not help you debug the program because the data are valid and no errors appear in the log
+ Viewing the SAS log will not help you debug the program because the data are valid and no errors appear in the log
+ Viewing the SAS log will not help you debug the program because the data are valid and no errors appear in the log
+ To help identify the logic error, run the DATA step again using the DATA step debugger
+The following display shows the resulting two debugger windows
+The upper window is the DEBUGGER LOG window
+ Issue debugger commands in this window by typing commands on the debugger command line 
+ The debugger displays the command and results in the upper part of the window
+The lower window is the DEBUGGER SOURCE window
+ Each line in the DATA step is numbered with the same line number used in the SAS log
+ This means that SAS has compiled the step and will begin to execute the step at the top of the DATA step loop
+To debug a DATA step, create a hypothesis about the logic error and test it by examining the values of variables at various points in the program
+Note
+   Most debugger commands have abbreviations, and you can assign commands to function keys
+   Most debugger commands have abbreviations, and you can assign commands to function keys
+ The examples in this section, however, show the full command name to help you find the commands in Debugger Commands by Category
+ The examples in this section, however, show the full command name to help you find the commands in Debugger Commands by Category
+ The examples in this section, however, show the full command name to help you find the commands in Debugger Commands by Category
+   When you press ENTER, the following display appears
+The values of all variables appear in the DEBUGGER LOG window
+ SAS has compiled, but not yet executed, the INPUT statement
+Use the STEP command to execute the DATA step statements one at a time
+ By default, the STEP command is assigned to the ENTER key
+Because Tour information was missing in the program output, enter the EXAMINE command to view the value of the variable Tour for the first iteration of the DATA step
+The following display shows the results
+The variable Tour contains the value Tour 101, showing you that Tour was read
+ The first iteration of the DATA step worked as intended
+ Press ENTER to reach the top of the DATA step
+You can use the BREAK command to suspend DATA step execution at a particular line you designate
+Execute the GO command to continue DATA step execution until it reaches the breakpoint 
+Execute the GO command to continue DATA step execution until it reaches the breakpoint 
+The following display shows the result
+ Examine the values of all the variables to see their status at this point
+The following display shows the values
+ The program data vector gets reset to missing values at the beginning of each iteration and therefore does not retain the value of Tour
+To end the debugging session, issue the QUIT command on the debugger command line
+The debugging windows disappear, and the original SAS session resumes
+Correct the original program by adding the RETAIN statement
+ Delete the DEBUG option from the DATA step, and resubmit the program
+This example shows how to debug a program when you use format statements to format dates
+ The following program creates a report that lists travel tour dates for specific countries
+ The following program creates a report that lists travel tour dates for specific countries
+The value of Duration for the tour to Venezuela shows a negative number, _290 days
+ To help identify the error, run the DATA step again using the DATA step debugger
+At the DEBUGGER LOG command line, issue the EXAMINE command to display the values of all variables in the program data vector before execution begins
+Initial values of all variables appear in the DEBUGGER LOG window
+Press ENTER to issue the STEP command
+ SAS executes the INPUT statement, and the assignment statement is now highlighted
+Issue the EXAMINE command to display the current value of all variables
+The following display shows the results
+Because a problem exists with the Venezuela tour, suspend execution before the assignment statement when the value of Country equals Venezuela
+ Set a breakpoint to do this
+Execute the GO command to resume program execution
+SAS stops execution when the country name is Venezuela
+SAS stops execution when the country name is Venezuela
+ You can examine Start and End tour dates for the Venezuela trip
+ Because the assignment statement is highlighted , there will be no value for Duration
+The following display shows the results
+To view formatted SAS dates, issue the EXAMINE command using the DATEw
+ format
+The following display shows the results
+Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+Because the tour ends on November 18, 2000, and not on January 18, 2000, there is an error in the variable End
+ Examine the source data in the program and notice that the value for End has a typographical error
+ By using the SET command, you can temporarily set the value of End to November 18 to see if you get the anticipated result
+ Issue the SET command using the DDMMMYYw
+ format
+Press ENTER to issue the STEP command and execute the assignment statement
+Press ENTER to issue the STEP command and execute the assignment statement
+Issue the EXAMINE command to view the tour date and Duration fields
+The following display shows the results
+The Start, End, and Duration fields contain correct data
+End the debugging session by issuing the QUIT command on the DEBUGGER LOG command line
+ Correct the original data in the SAS program, delete the DEBUG option, and resubmit the program
+An iterative DO, DO WHILE, or DO UNTIL statement can iterate many times during a single iteration of the DATA step
+ When you debug DO loops, you can examine several iterations of the loop by using the AFTER option in the BREAK command
+ When you debug DO loops, you can examine several iterations of the loop by using the AFTER option in the BREAK command
+ The AFTER option requires a number that indicates how many times the loop will iterate before it reaches the breakpoint
+ The AFTER option requires a number that indicates how many times the loop will iterate before it reaches the breakpoint
+ The AFTER option requires a number that indicates how many times the loop will iterate before it reaches the breakpoint
+ For example, consider this data set
+When you issue the GO commands, the debugger suspends execution when I has the values of 5, 10, 15, and 20 in the DO loop iteration
+When you issue the GO commands, the debugger suspends execution when I has the values of 5, 10, 15, and 20 in the DO loop iteration
+When you issue the GO commands, the debugger suspends execution when I has the values of 5, 10, 15, and 20 in the DO loop iteration
+When you issue the GO commands, the debugger suspends execution when I has the values of 5, 10, 15, and 20 in the DO loop iteration
+In an iterative DO loop, select a value for the AFTER option that can be divided evenly into the number of iterations of the loop
+If you do not select a value that can be evenly divided , the AFTER option causes the debugger to suspend execution when I has the values of 3, 6, 9, 12, 15, and 18
+If you do not select a value that can be evenly divided , the AFTER option causes the debugger to suspend execution when I has the values of 3, 6, 9, 12, 15, and 18
+ When the DO loop iterates the second time, I has the values of 1, 4, 7, 10, 13, and 16
+ When the DO loop iterates the second time, I has the values of 1, 4, 7, 10, 13, and 16
+You can use a SAS format or a user_created format when you display a value with the EXAMINE command
+ For example, assume the variable BEGIN contains a SAS date value
+ To display the day of the week and date, use the SAS WEEKDATEw
+ format with EXAMINE
+When the value of BEGIN is 033001, the debugger displays
+When the value of BEGIN is 033001, the debugger displays
+As another example, you can create a format named SIZE
+As another example, you can create a format named SIZE
+ to the variable STOCKNUM, use the format with EXAMINE
+When the value of STOCKNUM is 7, for example, the debugger displays
+When the value of STOCKNUM is 7, for example, the debugger displays
+Copyright 1999 by SAS Institute Inc
+, Cary, NC, USA
+ All rights reserved
+Starting out
+Get the Ebook Get Started with C or C   Getting a Compiler Book Recommendations
+Tutorials
+C Tutorial C   Tutorial Java Tutorial Game Programming Graphics Programming Algorithms   Data Structures Debugging All Tutorials
+Practice
+Practice Problems Quizzes
+Resources
+Source Code Source Code Snippets C and C   Tips Finding a Job
+References
+Function Reference Syntax Reference Programming FAQ
+Getting Help
+Message Board Email About Us
+A good debugger is one of the most important tools in a programmer s toolkit
+A good debugger is one of the most important tools in a programmer s toolkit
+ On a UNIX or Linux system, GDB is a powerful and popular debugging tool  it lets you do whatever you like with your program running under GDB
+Should you read this  You have a general idea of programming with C or C  
+ You put a lot of cout or printf statements in the code if something goes wrong
+ You put a lot of cout or printf statements in the code if something goes wrong
+ You have used a debugger with an IDE, and are curious about how the command line works
+Gcc is the de facto compiler in Linux or any other  nix system
+ It also has Windows ports but on Windows, you ll probably find the debugger in Visual Studio  easier 
+Suppose you have a file called main
+cpp containing your c   code
+So the final command turns into
+ If you re wondering what _Wall and _Werror are, you may find this page on GCC a useful read
+ 
+Don t worry if it looks cumbersome, you ll get used to it   If you ve got multiple source files you should use a good build system like make or Scons
+ 
+Provided you ve compiled your program with the debugging symbols enabled, you re ready to start debugging
+ Any time there is text you should replace, I ve put it in  angle brackets 
+ The line at which you want the program to temporarily stop is called the breakpoint
+When the program is stopped, you can do a number of important things, but most importantly you need to see which part of the code you ve stopped
+When the program is stopped, you can do a number of important things, but most importantly you need to see which part of the code you ve stopped
+ The command for this purpose is  list 
+Just starting and stopping isn t much of a control
+ GDB also lets you to run the program line_by_line by the commands  next  and  step 
+ GDB also lets you to run the program line_by_line by the commands  next  and  step 
+ There is a little difference between the two, though
+ Next keeps the control strictly in the current scope whereas step follows the execution through function calls
+Look at this example carefully 
+Suppose you have a line in the code like
+Suppose you have a line in the code like
+If you use the next command, the line gets executed and the control advances to the next line, readinput, where you can perhaps examine  value  to get an idea of how displayworked
+But if you use the step command, you get to follow what displaydoes directly, and the control advances to the first line of display, wherever it is
+ To examine a variable, just use
+Note
+You can modify variables to see if an issue is resolved if the variable has another value or to force the program to follow a particular path to see if the reason for a bug was due to a variable having the wrong value
+Setting watchpoints is like asking the debugger to provide you with a running commentary of any changes that happen to the variables
+Setting watchpoints is like asking the debugger to provide you with a running commentary of any changes that happen to the variables
+ Whenever a change occurs, the program pauses and provides you with the details of the change
+The command to set a simple watchpoint  a write watchpoint, i
+Note
+ You can only set watchpoints for a variable when it is in scope
+Now follow the commands and the outputs carefully, especially the watchpoints
+ What I m doing is basically
+ Setting a breakpoint just in the line of the function call
+ Stepping into the function from that line
+ Setting watchpoints for both the result of the calculation and the input number as it changes
+You have now seen enough to try GBD out on your own
+ Some important topics have not been touched upon here for the sake of simplicity, such as dealing with segmentation faults and other kinds of crashes or using tools like Valgrind to find memory leaks
+Remember that GDB comes built in with an excellent help system
+ Just type help in the prompt and you will be presented with options of what you could need help with
+ For details about a specific command, use the syntax
+After learning about GDB, you do not have to panic the next time your program goes crazy
+ You have an excellent weapon in your arsenal now
+Exactly how to get started with C   today
+C Tutorial
+C   Tutorial
+5 ways you can learn to program faster
+The 5 Most Common Problems New Programmers Face
+How to set up a compiler
+8 Common programming Mistakes
+What is C  11 
+How to make a game in 48 hours
+How to create a shared library on Linux with GCC _ December 30, 2011
+Enum classes and nullptr in C  11 _ November 27, 2011
+Learn about The Hash Table _ November 20, 2011
+Rvalue References and Move Semantics in C  11 _ November 13, 2011
+Rvalue References and Move Semantics in C  11 _ November 13, 2011
+C and C   for Java Programmers _ November 5, 2011
+A Gentle Introduction to C   IO Streams _ October 10, 2011
