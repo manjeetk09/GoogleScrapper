@@ -389,7 +389,7 @@ public class RelationScrapper {
                                     if(line.contains("No extractions found."))
                                     {
                                         Date date = new Date();
-                                        bw.write("1;" + lines_itr + "\n");
+                                        bw.write("0;" + lines_itr + "\n");
                                         bw1.write(lines_itr+"\n");
                                         bw2.write(link_data.get(i) + "\n");
                                         bw4.write(date.toString() + "\n");
@@ -402,7 +402,7 @@ public class RelationScrapper {
                                         {
                                             Date date = new Date();
                                             bw1.write(lines_itr + "\n");
-                                            bw.write("1;" + lines_itr + "\n");
+                                            bw.write("0;" + lines_itr + "\n");
                                             bw2.write(link_data.get(i) + "\n");
                                             bw4.write(date.toString() + "\n");
 
@@ -473,7 +473,7 @@ public class RelationScrapper {
                                 if(line.contains("No extractions found."))
                                 {
                                     Date date = new Date();
-                                    bw.write("1;" + line_li + "\n");
+                                    bw.write("0;" + line_li + "\n");
                                     bw1.write(line_li+"\n");
                                     bw2.write(link_data.get(i) + "\n");
                                     bw4.write(date.toString() + "\n");
@@ -486,7 +486,7 @@ public class RelationScrapper {
                                     {
                                         Date date = new Date();
                                         bw1.write(line_li + "\n");
-                                        bw.write("1;" + line_li + "\n");
+                                        bw.write("0;" + line_li + "\n");
                                         bw2.write(link_data.get(i) + "\n");
                                         bw4.write(date.toString() + "\n");
 

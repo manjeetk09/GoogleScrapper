@@ -14,15 +14,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
-/**
- * Created by manjeet on 6/6/17.
- */
-
-
 public class GetCategory{
 
-    private static Document sendRequest(String url) {
+    private Document sendRequest(String url) {
         Document doc = null;
         try {
             Connection connect = Jsoup.connect(url);
@@ -42,7 +36,7 @@ public class GetCategory{
         return doc;
     }
 
-    private static String getUrlSource(String url) throws IOException {
+    private String getUrlSource(String url) throws IOException {
         URL yahoo = new URL(url);
         URLConnection yc = yahoo.openConnection();
         BufferedReader in = new BufferedReader(new InputStreamReader(yc.getInputStream(), "UTF-8"));
@@ -55,7 +49,7 @@ public class GetCategory{
         return a.toString();
     }
 
-    public static ArrayList<Category> getCategories(String url) throws Exception{
+    public ArrayList<Category> getCategories(String url) throws Exception{
         //System.out.println("Start:: " + url);
         org.jsoup.nodes.Document doc = new Document("");
 
@@ -128,7 +122,7 @@ public class GetCategory{
 
     }
 
-    public static ArrayList<Category> getCats (String title) throws Exception
+    public ArrayList<Category> getCats (String title) throws Exception
     {
         String page_name = title;
         page_name = page_name.replaceAll(" ","_");
@@ -330,24 +324,39 @@ public class GetCategory{
 
     }
 
-    public void runCat(int i) throws IOException {
+//    public void runCat(int i) throws IOException {
 
+    public void runCat() throws IOException {
         System.setProperty("http.proxyHost", "10.10.78.22");
         System.setProperty("http.proxyPort", "3128");
         System.setProperty("https.proxyHost", "10.10.78.22");
         System.setProperty("https.proxyPort", "3128");
 
-        FileWriter fw = new FileWriter("Category/category_intersection" + i + ".csv");
+//        FileWriter fw = new FileWriter("Category/category_intersection" + i + ".csv");
+//        BufferedWriter bw = new BufferedWriter(fw);
+//        FileWriter fw1 = new FileWriter("Category/category_plural" + i + ".csv");
+//        BufferedWriter bw1 = new BufferedWriter(fw1);
+//        FileWriter fw2 = new FileWriter("Category/category_suffix_prefix" + i + ".csv");
+//        BufferedWriter bw2 = new BufferedWriter(fw2);
+//        FileWriter fw3 = new FileWriter("Category/final_intersection" + i + ".csv");
+//        BufferedWriter bw3 = new BufferedWriter(fw3);
+//
+//        FileReader fr = new FileReader("Category/catInput" + i + ".csv");
+//        BufferedReader br = new BufferedReader(fr);
+
+        FileWriter fw = new FileWriter("Category/category_intersection.csv");
         BufferedWriter bw = new BufferedWriter(fw);
-        FileWriter fw1 = new FileWriter("Category/category_plural" + i + ".csv");
+        FileWriter fw1 = new FileWriter("Category/category_plural.csv");
         BufferedWriter bw1 = new BufferedWriter(fw1);
-        FileWriter fw2 = new FileWriter("Category/category_suffix_prefix" + i + ".csv");
+        FileWriter fw2 = new FileWriter("Category/category_suffix_prefix.csv");
         BufferedWriter bw2 = new BufferedWriter(fw2);
-        FileWriter fw3 = new FileWriter("Category/final_intersection" + i + ".csv");
+        FileWriter fw3 = new FileWriter("Category/final_intersection.csv");
         BufferedWriter bw3 = new BufferedWriter(fw3);
 
-        FileReader fr = new FileReader("Category/catInput" + i + ".csv");
+        FileReader fr = new FileReader("Category/catInput.csv");
         BufferedReader br = new BufferedReader(fr);
+
+
         ArrayList<String> head_ent_pair = new ArrayList<String>();
         String line_url = "";
         while((line_url = br.readLine()) != null)

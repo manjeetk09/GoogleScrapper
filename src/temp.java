@@ -220,6 +220,19 @@ public class temp
         Path path = new Path();
         path.pathFunc(head_entity);
 
+        wikiSegregate obj1 = new wikiSegregate();
+        try
+        {
+            obj1.wikiFunc(head_entity);
+        }
+        catch(Exception e)
+        {
+            e.printStackTrace();
+        }
+
+        testCategory testCat = new testCategory();
+        testCat.testCatFunc(head_entity);
+
         System.out.println("num of templates:: " + temp_num);
     }
 }
