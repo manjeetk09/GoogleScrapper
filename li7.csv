@@ -13,10 +13,3 @@ e
 
 
 
-Objects don t require assembly and disassembly saving coding time and execution time to assemble or disassemble objects 
-Reduced paging
-Easier navigation
-Better concurrency control _ A hierarchy of objects may be locked 
-Data model is based on the real world 
-Works well for distributed architectures 
-Less code required when applications are object oriented 

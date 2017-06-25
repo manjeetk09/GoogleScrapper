@@ -181,45 +181,22 @@ No extractions found.
 .
 No extractions found.
 
+This is a comparison of debuggers.
+No extractions found.
+
+ computer programs that are used to test and debug other programs.
+No extractions found.
+
+.
+No extractions found.
+
 .
 No extractions found.
 
 .
 No extractions found.
 
-The same mode is also used by KGDB for debugging a running Linux kernel on the source level with gdb.
-0.917: (The same mode; is also used by; KGDB)
-
- With KGDB, kernel developers can debug a kernel in much the same way as they debug application programs.
-0.798: (kernel developers; can debug; a kernel)[enabler=as they debug application programs]
-0.669: (they; debug; application programs)
-0.55: (kernel developers; can debug a kernel in much the same way with; KGDB)[enabler=as they debug application programs]
-0.431: (a kernel; can be debug with; KGDB)[enabler=as they debug application programs]
-
- It makes it possible to place breakpoints in kernel code, step through the code and observe variables.
-0.758: (it; to place breakpoints in; kernel code)
-0.757: (it; to place; breakpoints)
-0.709: (breakpoints; to be place in; kernel code)
-0.627: (it; to step through; the code)
-0.419: (it; to observe; variables)
-
- On architectures where hardware debugging registers are available, watchpoints can be set which trigger breakpoints when specified memory addresses are executed or accessed.
-0.754: (watchpoints; can be set on; architectures where hardware debugging registers are available)
-
- KGDB requires an additional machine which is connected to the machine to be debugged using a serial cable or Ethernet.
-0.74: (KGDB; requires; an additional machine which is connected to the machine to be debugged using a serial cable or Ethernet)
-
- On FreeBSD, it is also possible to debug using Firewire direct memory access .
-0.685: (it; is also; possible)
-0.433: (it; is also possible on; FreeBSD)
-
-v.
-No extractions found.
-
-t.
-No extractions found.
-
-e.
+.
 No extractions found.
 
 .

@@ -162,3 +162,65 @@ No extractions found.
                           .
 No extractions found.
 
+By admin.
+No extractions found.
+
+July 29, 2015.
+No extractions found.
+
+Data Models,Database.
+No extractions found.
+
+The network database or network model uses the plex structure as its basic data structure.
+0.808: (The network database or network model; uses the plex structure as; its basic data structure)
+0.807: (The network database or network model; uses; the plex structure)
+
+ A network is a directed graph consisting of nodes connected by links or directed arcs.
+0.841: (a directed graph; consisting of; nodes connected by links or directed arcs)
+0.763: (A network; is; a directed graph consisting of nodes)
+0.734: (nodes; be connected by; links or directed arcs)
+
+ The nodes corresponds to record types and the links to pointers or relationships.
+No extractions found.
+
+ All the relationship are hardwired or pre_computed and build into structure of database itself because they are very efficient in space utilization and query execution time.
+0.847: (the relationship; build into; structure of database)[enabler=because they are very efficient in space utilization and query execution time]
+0.802: (they; are very efficient in; space utilization and query execution time)
+
+ The network data structure looks like a tree structure except that a dependent node which is  called a child or member, may have more than one parent or owner node.
+0.872: (The network data structure; looks like; a tree structure)
+0.735: (a dependent node which is called a child or member; may have; than one parent or owner node)
+
+All figure shows the network model  .
+0.74: (All figure; shows; the network model)
+
+network model in dbms.
+No extractions found.
+
+network model examples.
+No extractions found.
+
+network data model in dbms.
+No extractions found.
+
+network model in dbms with examples.
+No extractions found.
+
+example of network model.
+No extractions found.
+
+network data model in dbms with example.
+No extractions found.
+
+network model.
+No extractions found.
+
+network data model.
+No extractions found.
+
+network database model advantages and disadvantages.
+No extractions found.
+
+network database.
+No extractions found.
+

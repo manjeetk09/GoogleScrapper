@@ -29,3 +29,13 @@
 44;we;which_will_call_as;the_connector;0.626
 45;A_connector_occurrence;specifies;the_association;0.807
 46;It;contains;data_describing_the_association_between_supplier_and_part_records;0.782
+54;The_network_database_or_network_model;uses_the_plex_structure_as;its_basic_data_structure;0.808
+54;The_network_database_or_network_model;uses;the_plex_structure;0.807
+55;a_directed_graph;consisting_of;nodes_connected_by_links_or_directed_arcs;0.841
+55;A_network;is;a_directed_graph_consisting_of_nodes;0.763
+55;nodes;be_connected_by;links_or_directed_arcs;0.734
+57;the_relationship;build_into;structure_of_database)[enabler=because_they_are_very_efficient_in_space_utilization_and_query_execution_time;0.847
+57;they;are_very_efficient_in;space_utilization_and_query_execution_time;0.802
+58;The_network_data_structure;looks_like;a_tree_structure;0.872
+58;a_dependent_node_which_is_called_a_child_or_member;may_have;than_one_parent_or_owner_node;0.735
+59;All_figure;shows;the_network_model;0.74

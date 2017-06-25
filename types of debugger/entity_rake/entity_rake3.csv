@@ -1,144 +1,172 @@
-1;https://en.wikipedia.org/wiki/Debugger;debuggers;1.0;0.14285714285714285;7.0;1
-1;https://en.wikipedia.org/wiki/Debugger;widely;1.0;0.14285714285714285;7.0;1
-2;https://en.wikipedia.org/wiki/Debugger;firefox javascript debugger;3.0;0.14285714285714285;7.0;1
-3;https://en.wikipedia.org/wiki/Debugger;gdb _;2.0;0.0;7.0;1
-3;https://en.wikipedia.org/wiki/Debugger;gnu debugger;2.0;0.14285714285714285;7.0;1
-4;https://en.wikipedia.org/wiki/Debugger;lldb;1.0;0.0;7.0;1
-6;https://en.wikipedia.org/wiki/Debugger;valgrind;1.0;0.0;7.0;1
-7;https://en.wikipedia.org/wiki/Debugger;windbg;1.0;0.0;7.0;1
-8;https://en.wikipedia.org/wiki/Debugger;eclipse debugger api;3.0;0.14285714285714285;7.0;1
-8;https://en.wikipedia.org/wiki/Debugger;range;1.0;0.14285714285714285;7.0;1
-8;https://en.wikipedia.org/wiki/Debugger;ides;1.0;0.14285714285714285;7.0;1
-9;https://en.wikipedia.org/wiki/Debugger;eclipse ide nodeclipse;3.0;0.14285714285714285;7.0;1
-10;https://en.wikipedia.org/wiki/Debugger;openwatcom debugger;2.0;0.14285714285714285;7.0;1
-10;https://en.wikipedia.org/wiki/Debugger;wdw;1.0;0.0;7.0;1
-13;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;technical information;2.0;0.030303030303030304;7.0;0
-13;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;debugging provide;2.0;0.030303030303030304;7.0;0
-13;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;types;1.0;0.030303030303030304;2.3333333333333335;0
-14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;opening;1.0;0.030303030303030304;7.0;0
-14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;online search;2.0;0.030303030303030304;7.0;0
-14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;solution;1.0;0.030303030303030304;7.0;0
-14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;provide additional information;3.0;0.030303030303030304;7.0;0
-14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;customer support;2.0;0.030303030303030304;7.0;0
-14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;problem;1.0;0.030303030303030304;7.0;0
-14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;ticket;1.0;0.030303030303030304;7.0;0
-15;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;javascript console;2.0;0.06060606060606061;7.0;0
-15;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;javascript debugging;2.0;0.030303030303030304;7.0;0
-15;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;built_in developer tools;3.0;0.030303030303030304;7.0;0
-15;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;specifically;1.0;0.0;7.0;0
-15;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;browser;1.0;0.030303030303030304;7.0;0
-16;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;javascript console;2.0;0.06060606060606061;7.0;0
-16;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;today;1.0;0.030303030303030304;7.0;0
-17;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;chrome;1.0;0.030303030303030304;7.0;0
-17;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;tools_ developer tools;3.0;0.030303030303030304;7.0;0
-17;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;main menu button_;3.0;0.030303030303030304;7.0;0
-17;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;7.0;0
-18;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;console tab;2.0;0.09090909090909091;7.0;0
-18;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;select;1.0;0.09090909090909091;7.0;0
-19;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;firefox;1.0;0.0;7.0;0
-19;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;7.0;0
-20;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;internet explorer;2.0;0.030303030303030304;7.0;0
-20;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;7.0;0
-21;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;console tab;2.0;0.09090909090909091;7.0;0
-21;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;select;1.0;0.09090909090909091;7.0;0
-22;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;edge;1.0;0.030303030303030304;7.0;0
-22;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;7.0;0
-23;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;console tab;2.0;0.09090909090909091;7.0;0
-23;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;select;1.0;0.09090909090909091;7.0;0
-24;https://en.wikipedia.org/wiki/Debugger;debuggers;1.0;0.14285714285714285;7.0;0
-24;https://en.wikipedia.org/wiki/Debugger;widely;1.0;0.14285714285714285;7.0;0
-25;https://en.wikipedia.org/wiki/Debugger;firefox javascript debugger;3.0;0.14285714285714285;7.0;0
-26;https://en.wikipedia.org/wiki/Debugger;gdb _;2.0;0.0;7.0;0
-26;https://en.wikipedia.org/wiki/Debugger;gnu debugger;2.0;0.14285714285714285;7.0;0
-27;https://en.wikipedia.org/wiki/Debugger;lldb;1.0;0.0;7.0;0
-29;https://en.wikipedia.org/wiki/Debugger;valgrind;1.0;0.0;7.0;0
-30;https://en.wikipedia.org/wiki/Debugger;windbg;1.0;0.0;7.0;0
-31;https://en.wikipedia.org/wiki/Debugger;eclipse debugger api;3.0;0.14285714285714285;7.0;0
-31;https://en.wikipedia.org/wiki/Debugger;range;1.0;0.14285714285714285;7.0;0
-31;https://en.wikipedia.org/wiki/Debugger;ides;1.0;0.14285714285714285;7.0;0
-32;https://en.wikipedia.org/wiki/Debugger;eclipse ide nodeclipse;3.0;0.14285714285714285;7.0;0
-33;https://en.wikipedia.org/wiki/Debugger;openwatcom debugger;2.0;0.14285714285714285;7.0;0
-33;https://en.wikipedia.org/wiki/Debugger;wdw;1.0;0.0;7.0;0
-36;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sound;1.0;0.08823529411764706;7.0;0
-36;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;emerging field;2.0;0.029411764705882353;7.0;0
-36;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;auditory display;2.0;0.029411764705882353;7.0;0
-36;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;convey;1.0;0.029411764705882353;7.0;0
-36;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;detailed information;2.0;0.029411764705882353;7.0;0
-37;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sound;1.0;0.08823529411764706;7.0;0
-37;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;audification;1.0;0.0;7.0;0
-37;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;process called  sonification;2.25;0.029411764705882353;7.0;0
-37;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;debugging purposes;2.0;0.029411764705882353;7.0;0
-38;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;process;1.0;0.029411764705882353;7.0;0
-38;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sound;1.0;0.08823529411764706;7.0;0
-38;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;language;1.0;0.0;7.0;0
-38;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;created;1.0;0.029411764705882353;7.0;0
-39;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;variable   5;0.25;0.029411764705882353;7.0;0
-39;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;generating;1.0;0.029411764705882353;7.0;0
-39;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;bidirectional communications;2.0;0.029411764705882353;7.0;0
-39;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;notes;1.0;0.029411764705882353;7.0;0
-39;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;programs;1.0;0.029411764705882353;7.0;0
-40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;notes conveys;2.0;0.029411764705882353;7.0;0
-40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;relative sizes;2.0;0.029411764705882353;7.0;0
-40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;payloads;1.0;0.0;7.0;0
-40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;rhythm;1.0;0.058823529411764705;7.0;0
-40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;message;1.0;0.029411764705882353;7.0;0
-40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;communications occur;2.0;0.029411764705882353;7.0;0
-41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;case;1.0;0.029411764705882353;7.0;0
-41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;music;1.0;0.029411764705882353;7.0;0
-41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;rhythm;1.0;0.058823529411764705;7.0;0
-41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;innate tools;2.0;0.029411764705882353;7.0;0
-41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;avoid sifting;2.0;0.029411764705882353;7.0;0
-41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;pages;1.0;0.029411764705882353;7.0;0
-41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;interprocessor messaging;2.0;0.029411764705882353;7.0;0
-42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sonic grammar;2.0;0.029411764705882353;7.0;0
-42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;termed  earcons;1.3333333333333333;0.029411764705882353;7.0;0
-42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;detailed examples;2.0;0.029411764705882353;7.0;0
-44;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging;1.0;0.10526315789473684;7.0;0
-44;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;tools;1.0;0.05263157894736842;3.5;0
-45;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;supplemented;1.0;0.0;7.0;0
-45;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging approaches;2.0;0.05263157894736842;7.0;0
-45;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging tools;2.0;0.10526315789473684;7.0;0
-46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging;2.0;0.10526315789473684;7.0;0
-46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;apply wide variety;3.0;0.05263157894736842;7.0;0
-46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;memory dumps;2.0;0.05263157894736842;7.0;0
-46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging compilers;2.0;0.05263157894736842;7.0;0
-46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;dynamic debugging aids;2.6666666666666665;0.05263157894736842;7.0;0
-46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;cross reference maps;3.0;0.05263157894736842;7.0;0
-46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging tools;2.0;0.10526315789473684;7.0;0
-47;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;market;1.0;0.05263157894736842;7.0;0
-47;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;main debugging tools;3.0;0.05263157894736842;7.0;0
-48;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;information;1.0;0.0;7.0;0
-48;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;tool vendors;2.0;0.05263157894736842;7.0;0
-48;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;based;1.0;0.05263157894736842;7.0;0
-48;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;details;1.0;0.05263157894736842;7.0;0
-48;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;respective web_sites;2.0;0.05263157894736842;7.0;0
-51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;test process activities;2.8333333333333335;0.038461538461538464;7.0;0
-51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;types;1.0;0.038461538461538464;2.3333333333333335;0
-51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;classification;1.0;0.0;7.0;0
-51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;test tools;2.25;0.038461538461538464;7.0;0
-52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;support management activities;2.8333333333333335;0.038461538461538464;7.0;0
-52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;set;1.0;0.038461538461538464;7.0;0
-52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;support static testing;2.8333333333333335;0.038461538461538464;7.0;0
-52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;supported;1.0;0.038461538461538464;7.0;0
-52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;testing activities;2.5;0.038461538461538464;7.0;0
-52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;grouped;1.0;0.038461538461538464;7.0;0
-52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;tools;1.0;0.038461538461538464;3.5;0
-52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;areas;1.0;0.038461538461538464;7.0;0
-53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;debugging tool;2.0;0.038461538461538464;7.0;0
-53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;defect;1.0;0.038461538461538464;7.0;0
-53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;probe effect;2.0;0.038461538461538464;7.0;0
-53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;find;1.0;0.07692307692307693;7.0;0
-54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;code;1.0;0.038461538461538464;7.0;0
-54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;run;1.0;0.038461538461538464;7.0;0
-54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;debugger;1.0;0.038461538461538464;7.0;0
-54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;re_appears;1.0;0.038461538461538464;7.0;0
-54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;turned;1.0;0.038461538461538464;7.0;0
-54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;bug disappears;2.0;0.038461538461538464;7.0;0
-54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;making;1.0;0.038461538461538464;7.0;0
-54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;find;1.0;0.07692307692307693;7.0;0
-54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;difficult;1.0;0.038461538461538464;7.0;0
-55;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;heizenbugs;1.0;0.0;7.0;0
-57;https://archive.sap.com/discussions/thread/695711;abap;1.0;0.0;7.0;0
-57;https://archive.sap.com/discussions/thread/695711;debugging modes avaiable;3.0;0.25;7.0;0
-57;https://archive.sap.com/discussions/thread/695711;types;1.0;0.25;2.3333333333333335;0
-59;https://archive.sap.com/discussions/thread/695711;abap;1.0;0.0;7.0;0
+1;https://en.wikipedia.org/wiki/Debugger;debuggers;1.0;0.07142857142857142;6.0;1
+1;https://en.wikipedia.org/wiki/Debugger;widely;1.0;0.07142857142857142;6.0;1
+2;https://en.wikipedia.org/wiki/Debugger;firefox javascript debugger;3.0;0.07142857142857142;6.0;1
+3;https://en.wikipedia.org/wiki/Debugger;gdb _;2.0;0.0;6.0;1
+3;https://en.wikipedia.org/wiki/Debugger;gnu debugger;2.0;0.07142857142857142;6.0;1
+4;https://en.wikipedia.org/wiki/Debugger;lldb;1.0;0.0;6.0;1
+6;https://en.wikipedia.org/wiki/Debugger;valgrind;1.0;0.0;6.0;1
+7;https://en.wikipedia.org/wiki/Debugger;windbg;1.0;0.0;6.0;1
+8;https://en.wikipedia.org/wiki/Debugger;eclipse debugger api;3.0;0.07142857142857142;6.0;1
+8;https://en.wikipedia.org/wiki/Debugger;range;1.0;0.07142857142857142;6.0;1
+8;https://en.wikipedia.org/wiki/Debugger;ides;1.0;0.07142857142857142;6.0;1
+9;https://en.wikipedia.org/wiki/Debugger;eclipse ide nodeclipse;3.0;0.07142857142857142;6.0;1
+10;https://en.wikipedia.org/wiki/Debugger;openwatcom debugger;2.0;0.07142857142857142;6.0;1
+10;https://en.wikipedia.org/wiki/Debugger;wdw;1.0;0.0;6.0;1
+13;https://en.wikipedia.org/wiki/Debugger;debuggers;1.0;0.07142857142857142;6.0;0
+13;https://en.wikipedia.org/wiki/Debugger;widely;1.0;0.07142857142857142;6.0;0
+14;https://en.wikipedia.org/wiki/Debugger;firefox javascript debugger;3.0;0.07142857142857142;6.0;0
+15;https://en.wikipedia.org/wiki/Debugger;gdb _;2.0;0.0;6.0;0
+15;https://en.wikipedia.org/wiki/Debugger;gnu debugger;2.0;0.07142857142857142;6.0;0
+16;https://en.wikipedia.org/wiki/Debugger;lldb;1.0;0.0;6.0;0
+18;https://en.wikipedia.org/wiki/Debugger;valgrind;1.0;0.0;6.0;0
+19;https://en.wikipedia.org/wiki/Debugger;windbg;1.0;0.0;6.0;0
+20;https://en.wikipedia.org/wiki/Debugger;eclipse debugger api;3.0;0.07142857142857142;6.0;0
+20;https://en.wikipedia.org/wiki/Debugger;range;1.0;0.07142857142857142;6.0;0
+20;https://en.wikipedia.org/wiki/Debugger;ides;1.0;0.07142857142857142;6.0;0
+21;https://en.wikipedia.org/wiki/Debugger;eclipse ide nodeclipse;3.0;0.07142857142857142;6.0;0
+22;https://en.wikipedia.org/wiki/Debugger;openwatcom debugger;2.0;0.07142857142857142;6.0;0
+22;https://en.wikipedia.org/wiki/Debugger;wdw;1.0;0.0;6.0;0
+25;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;technical information;2.0;0.030303030303030304;6.0;0
+25;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;debugging provide;2.0;0.030303030303030304;6.0;0
+25;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;types;1.0;0.030303030303030304;3.0;0
+26;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;opening;1.0;0.030303030303030304;6.0;0
+26;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;online search;2.0;0.030303030303030304;6.0;0
+26;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;solution;1.0;0.030303030303030304;6.0;0
+26;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;provide additional information;3.0;0.030303030303030304;6.0;0
+26;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;customer support;2.0;0.030303030303030304;6.0;0
+26;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;problem;1.0;0.030303030303030304;3.0;0
+26;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;ticket;1.0;0.030303030303030304;6.0;0
+27;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;javascript console;2.0;0.06060606060606061;6.0;0
+27;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;javascript debugging;2.0;0.030303030303030304;6.0;0
+27;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;built_in developer tools;3.0;0.030303030303030304;6.0;0
+27;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;specifically;1.0;0.0;6.0;0
+27;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;browser;1.0;0.030303030303030304;6.0;0
+28;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;javascript console;2.0;0.06060606060606061;6.0;0
+28;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;today;1.0;0.030303030303030304;6.0;0
+29;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;chrome;1.0;0.030303030303030304;6.0;0
+29;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;tools_ developer tools;3.0;0.030303030303030304;6.0;0
+29;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;main menu button_;3.0;0.030303030303030304;6.0;0
+29;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;6.0;0
+30;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;console tab;2.0;0.09090909090909091;6.0;0
+30;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;select;1.0;0.09090909090909091;6.0;0
+31;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;firefox;1.0;0.0;6.0;0
+31;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;6.0;0
+32;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;internet explorer;2.0;0.030303030303030304;6.0;0
+32;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;6.0;0
+33;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;console tab;2.0;0.09090909090909091;6.0;0
+33;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;select;1.0;0.09090909090909091;6.0;0
+34;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;edge;1.0;0.030303030303030304;6.0;0
+34;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;6.0;0
+35;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;console tab;2.0;0.09090909090909091;6.0;0
+35;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;select;1.0;0.09090909090909091;6.0;0
+36;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sound;1.0;0.08823529411764706;6.0;0
+36;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;emerging field;2.0;0.029411764705882353;6.0;0
+36;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;auditory display;2.0;0.029411764705882353;6.0;0
+36;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;convey;1.0;0.029411764705882353;6.0;0
+36;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;detailed information;2.0;0.029411764705882353;6.0;0
+37;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sound;1.0;0.08823529411764706;6.0;0
+37;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;audification;1.0;0.0;6.0;0
+37;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;process called  sonification;2.25;0.029411764705882353;6.0;0
+37;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;debugging purposes;2.0;0.029411764705882353;6.0;0
+38;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;process;1.0;0.029411764705882353;6.0;0
+38;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sound;1.0;0.08823529411764706;6.0;0
+38;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;language;1.0;0.0;6.0;0
+38;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;created;1.0;0.029411764705882353;6.0;0
+39;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;variable   5;0.25;0.029411764705882353;6.0;0
+39;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;generating;1.0;0.029411764705882353;6.0;0
+39;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;bidirectional communications;2.0;0.029411764705882353;6.0;0
+39;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;notes;1.0;0.029411764705882353;6.0;0
+39;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;programs;1.0;0.029411764705882353;6.0;0
+40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;notes conveys;2.0;0.029411764705882353;6.0;0
+40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;relative sizes;2.0;0.029411764705882353;6.0;0
+40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;payloads;1.0;0.0;6.0;0
+40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;rhythm;1.0;0.058823529411764705;6.0;0
+40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;message;1.0;0.029411764705882353;6.0;0
+40;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;communications occur;2.0;0.029411764705882353;6.0;0
+41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;case;1.0;0.029411764705882353;3.0;0
+41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;music;1.0;0.029411764705882353;6.0;0
+41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;rhythm;1.0;0.058823529411764705;6.0;0
+41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;innate tools;2.0;0.029411764705882353;6.0;0
+41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;avoid sifting;2.0;0.029411764705882353;6.0;0
+41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;pages;1.0;0.029411764705882353;6.0;0
+41;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;interprocessor messaging;2.0;0.029411764705882353;6.0;0
+42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sonic grammar;2.0;0.029411764705882353;6.0;0
+42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;termed  earcons;1.3333333333333333;0.029411764705882353;6.0;0
+42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;detailed examples;2.0;0.029411764705882353;6.0;0
+44;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging;1.0;0.10526315789473684;3.0;0
+44;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;tools;1.0;0.05263157894736842;3.0;0
+45;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;supplemented;1.0;0.0;6.0;0
+45;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging approaches;2.0;0.05263157894736842;6.0;0
+45;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging tools;2.0;0.10526315789473684;6.0;0
+46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging;2.0;0.10526315789473684;3.0;0
+46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;apply wide variety;3.0;0.05263157894736842;6.0;0
+46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;memory dumps;2.0;0.05263157894736842;6.0;0
+46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging compilers;2.0;0.05263157894736842;6.0;0
+46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;dynamic debugging aids;2.6666666666666665;0.05263157894736842;6.0;0
+46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;cross reference maps;3.0;0.05263157894736842;6.0;0
+46;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging tools;2.0;0.10526315789473684;6.0;0
+47;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;market;1.0;0.05263157894736842;6.0;0
+47;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;main debugging tools;3.0;0.05263157894736842;6.0;0
+48;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;information;1.0;0.0;6.0;0
+48;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;tool vendors;2.0;0.05263157894736842;6.0;0
+48;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;based;1.0;0.05263157894736842;6.0;0
+48;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;details;1.0;0.05263157894736842;6.0;0
+48;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;respective web_sites;2.0;0.05263157894736842;6.0;0
+51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;test process activities;2.8333333333333335;0.038461538461538464;6.0;0
+51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;types;1.0;0.038461538461538464;3.0;0
+51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;classification;1.0;0.0;6.0;0
+51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;test tools;2.25;0.038461538461538464;6.0;0
+52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;support management activities;2.8333333333333335;0.038461538461538464;6.0;0
+52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;set;1.0;0.038461538461538464;6.0;0
+52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;support static testing;2.8333333333333335;0.038461538461538464;6.0;0
+52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;supported;1.0;0.038461538461538464;6.0;0
+52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;testing activities;2.5;0.038461538461538464;6.0;0
+52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;grouped;1.0;0.038461538461538464;6.0;0
+52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;tools;1.0;0.038461538461538464;3.0;0
+52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;areas;1.0;0.038461538461538464;6.0;0
+53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;debugging tool;2.0;0.038461538461538464;6.0;0
+53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;defect;1.0;0.038461538461538464;6.0;0
+53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;probe effect;2.0;0.038461538461538464;6.0;0
+53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;find;1.0;0.07692307692307693;3.0;0
+54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;code;1.0;0.038461538461538464;1.5;0
+54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;run;1.0;0.038461538461538464;3.0;0
+54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;debugger;1.0;0.038461538461538464;6.0;0
+54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;re_appears;1.0;0.038461538461538464;6.0;0
+54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;turned;1.0;0.038461538461538464;6.0;0
+54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;bug disappears;2.0;0.038461538461538464;6.0;0
+54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;making;1.0;0.038461538461538464;6.0;0
+54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;find;1.0;0.07692307692307693;3.0;0
+54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;difficult;1.0;0.038461538461538464;6.0;0
+55;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;heizenbugs;1.0;0.0;6.0;0
+62;http://searchsoftwarequality.techtarget.com/definition/debugging;code;1.0;0.09375;3.0;0
+62;http://searchsoftwarequality.techtarget.com/definition/debugging;find;1.0;0.03125;2.0;0
+62;http://searchsoftwarequality.techtarget.com/definition/debugging;identified;1.0;0.03125;6.0;0
+62;http://searchsoftwarequality.techtarget.com/definition/debugging;error;1.0;0.03125;6.0;0
+63;http://searchsoftwarequality.techtarget.com/definition/debugging;code;1.0;0.09375;3.0;0
+63;http://searchsoftwarequality.techtarget.com/definition/debugging;logging;1.0;0.0;6.0;0
+63;http://searchsoftwarequality.techtarget.com/definition/debugging;point;1.0;0.03125;6.0;0
+63;http://searchsoftwarequality.techtarget.com/definition/debugging;stand_alone debugger tool;3.0;0.03125;6.0;0
+63;http://searchsoftwarequality.techtarget.com/definition/debugging;debugging component;2.0;0.03125;6.0;0
+63;http://searchsoftwarequality.techtarget.com/definition/debugging;integrated development environment;3.0;0.03125;6.0;0
+64;http://searchsoftwarequality.techtarget.com/definition/debugging;found;1.0;0.03125;6.0;0
+64;http://searchsoftwarequality.techtarget.com/definition/debugging;functions;1.0;0.03125;6.0;0
+64;http://searchsoftwarequality.techtarget.com/definition/debugging;fixed;1.0;0.03125;6.0;0
+64;http://searchsoftwarequality.techtarget.com/definition/debugging;bugs;1.0;0.03125;6.0;0
+64;http://searchsoftwarequality.techtarget.com/definition/debugging;invariably;1.0;0.03125;6.0;0
+65;http://searchsoftwarequality.techtarget.com/definition/debugging;code;1.0;0.09375;3.0;0
+65;http://searchsoftwarequality.techtarget.com/definition/debugging;problem;1.0;0.03125;3.0;0
+65;http://searchsoftwarequality.techtarget.com/definition/debugging;module;1.0;0.03125;6.0;0
+65;http://searchsoftwarequality.techtarget.com/definition/debugging;presents;1.0;0.03125;6.0;0
+65;http://searchsoftwarequality.techtarget.com/definition/debugging;obvious;1.0;0.03125;6.0;0
+65;http://searchsoftwarequality.techtarget.com/definition/debugging;line;1.0;0.0;6.0;0
+65;http://searchsoftwarequality.techtarget.com/definition/debugging;cases;1.0;0.03125;6.0;0
+66;http://searchsoftwarequality.techtarget.com/definition/debugging;case;1.0;0.03125;3.0;0
+66;http://searchsoftwarequality.techtarget.com/definition/debugging;specific function;2.25;0.03125;6.0;0
+66;http://searchsoftwarequality.techtarget.com/definition/debugging;run;1.0;0.03125;3.0;0
+66;http://searchsoftwarequality.techtarget.com/definition/debugging;specific inputs __;2.8333333333333335;0.03125;6.0;0
+66;http://searchsoftwarequality.techtarget.com/definition/debugging;debugging;1.0;0.03125;2.0;0
+66;http://searchsoftwarequality.techtarget.com/definition/debugging;xunit;1.0;0.0;6.0;0
+66;http://searchsoftwarequality.techtarget.com/definition/debugging;unit tests __;3.0;0.03125;6.0;0
+66;http://searchsoftwarequality.techtarget.com/definition/debugging;programmer;1.0;0.03125;6.0;0
+66;http://searchsoftwarequality.techtarget.com/definition/debugging;junit;1.0;0.0;6.0;0
+66;http://searchsoftwarequality.techtarget.com/definition/debugging;helpful;1.0;0.0;6.0;0

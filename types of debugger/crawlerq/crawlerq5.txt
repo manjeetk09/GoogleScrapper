@@ -53,17 +53,12 @@ CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for g
 RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution.
 .
 .
+This is a comparison of debuggers.
+ computer programs that are used to test and debug other programs.
 .
 .
-The same mode is also used by KGDB for debugging a running Linux kernel on the source level with gdb.
- With KGDB, kernel developers can debug a kernel in much the same way as they debug application programs.
- It makes it possible to place breakpoints in kernel code, step through the code and observe variables.
- On architectures where hardware debugging registers are available, watchpoints can be set which trigger breakpoints when specified memory addresses are executed or accessed.
- KGDB requires an additional machine which is connected to the machine to be debugged using a serial cable or Ethernet.
- On FreeBSD, it is also possible to debug using Firewire direct memory access .
-v.
-t.
-e.
+.
+.
 .
 .
 This article examines three different types of debuggers.

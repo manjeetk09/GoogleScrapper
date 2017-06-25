@@ -113,15 +113,6 @@ Although the focus of this article is data modeling, there are often alternative
 UML.
 No extractions found.
 
-The following entity relationship diagram is showing a typical online or retail business ER database model diagram sample.
-0.658: (The following entity relationship diagram; is showing; a typical online or retail business ER database model diagram sample)
-
- The database model diagram consists of five tables and four parent_child relationships.
-0.878: (The database model diagram; consists of; five tables and four parent_child relationships)
-
- Be sure you fully understand it.
-0.818: (you; fully understand; it)
-
 A data structure diagram is a diagram and data model used to describe conceptual data models by providing graphical notations which document entities and their relationships, and the constraints that bind them.
 0.829: (a diagram and data model; used to describe; conceptual data models)
 0.78: (a diagram and data model; to describe; conceptual data models)
@@ -145,20 +136,14 @@ No extractions found.
 .
 No extractions found.
 
-A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated.
-0.957: (A database model; is a type of; data model that determines the logical structure of a database and fundamentally determines)
-0.725: (A database model; is; a type of data model)
+The following entity relationship diagram is showing a typical online or retail business ER database model diagram sample.
+0.658: (The following entity relationship diagram; is showing; a typical online or retail business ER database model diagram sample)
 
- The most popular example of a database model is the relational model, which uses a table_based format.
-0.745: (The most popular example of a database model; is; the relational model which uses a table_based format)
-0.564: (a table_based format; be uses by; the relational model)
-0.492: (the relational model which uses a table_based format; be The most popular example of; a database model)
+ The database model diagram consists of five tables and four parent_child relationships.
+0.878: (The database model diagram; consists of; five tables and four parent_child relationships)
 
-.
-No extractions found.
-
-.
-No extractions found.
+ Be sure you fully understand it.
+0.818: (you; fully understand; it)
 
 Conceptual data model includes all major entities and relationships and does not contain much detailed level of information about attributes and is often used in the INITIAL PLANNING PHASE.
 0.696: (Conceptual data model; is often used in; the INITIAL PLANNING)

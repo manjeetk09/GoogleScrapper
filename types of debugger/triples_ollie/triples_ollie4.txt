@@ -9,6 +9,31 @@ Application code can contain various types of errors, or bugs.
 0.809: (you; debug; your code that is , that you examine the code)[enabler=while it is running to validate that the execution path and data is as it should be]
 0.758: (you; examine; the code)
 
+Application code can contain various types of errors, or bugs.
+0.789: (Application code; can contain; various types of errors)
+0.552: (Application code; be various types of; errors , or bugs)
+
+ Most syntax errors are caught during compilation.
+0.919: (Most syntax errors; are caught during; compilation)
+
+ However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+0.809: (you; debug; your code that is , that you examine the code)[enabler=while it is running to validate that the execution path and data is as it should be]
+0.758: (you; examine; the code)
+
+Application code can contain various types of errors, or bugs.
+0.789: (Application code; can contain; various types of errors)
+0.552: (Application code; be various types of; errors , or bugs)
+
+ Most syntax errors are caught during compilation.
+0.919: (Most syntax errors; are caught during; compilation)
+
+ However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+0.809: (you; debug; your code that is , that you examine the code)[enabler=while it is running to validate that the execution path and data is as it should be]
+0.758: (you; examine; the code)
+
+ For more information, see Debugging, Tracing, and Profiling.
+0.541: (Debugging , Tracing , and Profiling; be see for; more information)
+
 Summary.
 No extractions found.
 
@@ -95,29 +120,4 @@ No extractions found.
 
  Setting Mixed allows a developer to directly control the debugging options.
 0.811: (a developer; to directly control; the debugging options)
-
-Application code can contain various types of errors, or bugs.
-0.789: (Application code; can contain; various types of errors)
-0.552: (Application code; be various types of; errors , or bugs)
-
- Most syntax errors are caught during compilation.
-0.919: (Most syntax errors; are caught during; compilation)
-
- However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
-0.809: (you; debug; your code that is , that you examine the code)[enabler=while it is running to validate that the execution path and data is as it should be]
-0.758: (you; examine; the code)
-
-Application code can contain various types of errors, or bugs.
-0.789: (Application code; can contain; various types of errors)
-0.552: (Application code; be various types of; errors , or bugs)
-
- Most syntax errors are caught during compilation.
-0.919: (Most syntax errors; are caught during; compilation)
-
- However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
-0.809: (you; debug; your code that is , that you examine the code)[enabler=while it is running to validate that the execution path and data is as it should be]
-0.758: (you; examine; the code)
-
- For more information, see Debugging, Tracing, and Profiling.
-0.541: (Debugging , Tracing , and Profiling; be see for; more information)
 

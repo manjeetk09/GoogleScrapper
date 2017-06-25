@@ -1,177 +1,123 @@
-1;http://www.drdobbs.com/database/algorithm-alley/184410284;bob jenkins;2.0;0.5;3.0;0
-1;http://www.drdobbs.com/database/algorithm-alley/184410284;september 01;0.5;0.5;6.0;0
-18;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;january 01;0.5;0.027777777777777776;6.0;0
-18;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;john boyer;2.0;0.027777777777777776;6.0;0
-27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;bob jenkins presented;3.0;0.027777777777777776;6.0;0
-27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashing function;2.0;0.027777777777777776;6.0;0
-27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;recently;1.0;0.027777777777777776;6.0;0
-27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;complex mixing operation;3.0;0.027777777777777776;6.0;0
-27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;12 bytes;0.5;0.027777777777777776;6.0;0
-27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;input key;2.0;0.027777777777777776;6.0;0
-27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;performs;1.0;0.027777777777777776;6.0;0
-27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;time;1.0;0.027777777777777776;6.0;0
-28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hash;1.0;0.05555555555555555;3.0;0
-28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;bytes;1.0;0.027777777777777776;6.0;0
-28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;regions;1.0;0.027777777777777776;6.0;0
-28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;design;1.0;0.027777777777777776;6.0;0
-28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;key;1.0;0.0;6.0;0
-28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;affect;1.0;0.027777777777777776;6.0;0
-29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hash function suffers;2.6666666666666665;0.027777777777777776;6.0;0
-29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;truncated;1.0;0.027777777777777776;6.0;0
-29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hash;2.0;0.05555555555555555;3.0;0
-29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;table size;2.0;0.027777777777777776;6.0;0
-29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;information loss;2.0;0.027777777777777776;6.0;0
-30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;table 1 shows;1.3333333333333333;0.027777777777777776;6.0;0
-30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;greater;1.0;0.027777777777777776;6.0;0
-30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;jenkins  hash function;2.25;0.027777777777777776;6.0;0
-30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;efficiency;1.0;0.027777777777777776;6.0;0
-30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;original hashpjw;1.75;0.027777777777777776;6.0;0
-30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashpjw;1.5;0.0;6.0;0
-30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;slightly;1.0;0.05555555555555555;6.0;0
-30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashjband;1.0;0.0;6.0;0
-31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;cpu time;2.0;0.027777777777777776;6.0;0
-31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;compute hash values;3.0;0.027777777777777776;6.0;0
-31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;run time;2.0;0.027777777777777776;6.0;0
-31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashjbis equivalent;2.0;0.027777777777777776;6.0;0
-31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashjenkinsbecause;1.0;0.0;6.0;0
-31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;slightly;1.0;0.05555555555555555;6.0;0
-32;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;ddj;1.0;0.0;6.0;0
-41;https://en.wikipedia.org/wiki/Jenkins_hash_function;bob jenkins;2.25;0.16666666666666666;3.0;0
-41;https://en.wikipedia.org/wiki/Jenkins_hash_function;multi_byte keys designed;3.0;0.16666666666666666;6.0;0
-41;https://en.wikipedia.org/wiki/Jenkins_hash_function;hash functions;2.5;0.16666666666666666;6.0;0
-41;https://en.wikipedia.org/wiki/Jenkins_hash_function;collection;1.0;0.16666666666666666;6.0;0
-41;https://en.wikipedia.org/wiki/Jenkins_hash_function;jenkins hash functions;2.5;0.16666666666666666;6.0;0
-42;https://en.wikipedia.org/wiki/Jenkins_hash_function;formally published;2.0;0.16666666666666666;6.0;0
-52;http://burtleburtle.net/bob/hash/doobs.html;faster;1.0;0.02127659574468085;6.0;0
-52;http://burtleburtle.net/bob/hash/doobs.html;hash table lookup;2.8333333333333335;0.02127659574468085;6.0;0
-52;http://burtleburtle.net/bob/hash/doobs.html;hash function;2.25;0.02127659574468085;6.0;0
-52;http://burtleburtle.net/bob/hash/doobs.html;offer;1.0;0.02127659574468085;6.0;0
-53;http://burtleburtle.net/bob/hash/doobs.html;verify;1.0;0.02127659574468085;6.0;0
-53;http://burtleburtle.net/bob/hash/doobs.html;give;1.0;0.02127659574468085;6.0;0
-54;http://burtleburtle.net/bob/hash/doobs.html;complaints;1.0;0.02127659574468085;6.0;0
-55;http://burtleburtle.net/bob/hash/doobs.html;don;1.0;0.02127659574468085;6.0;0
-55;http://burtleburtle.net/bob/hash/doobs.html;mask;1.0;0.02127659574468085;6.0;0
-55;http://burtleburtle.net/bob/hash/doobs.html;reduce;1.0;0.02127659574468085;6.0;0
-55;http://burtleburtle.net/bob/hash/doobs.html;specific;1.0;0.02127659574468085;6.0;0
-55;http://burtleburtle.net/bob/hash/doobs.html;bits;1.0;0.02127659574468085;6.0;0
-55;http://burtleburtle.net/bob/hash/doobs.html;size;1.0;0.02127659574468085;6.0;0
-56;http://burtleburtle.net/bob/hash/doobs.html;completely;1.0;0.02127659574468085;6.0;0
-56;http://burtleburtle.net/bob/hash/doobs.html;bit;1.0;0.0425531914893617;6.0;0
-56;http://burtleburtle.net/bob/hash/doobs.html;increasing;1.0;0.0425531914893617;6.0;0
-56;http://burtleburtle.net/bob/hash/doobs.html;hash;1.0;0.02127659574468085;2.0;0
-56;http://burtleburtle.net/bob/hash/doobs.html;result size;2.0;0.0425531914893617;6.0;0
-57;http://burtleburtle.net/bob/hash/doobs.html;entire;1.0;0.02127659574468085;6.0;0
-57;http://burtleburtle.net/bob/hash/doobs.html;result size;2.0;0.0425531914893617;6.0;0
-57;http://burtleburtle.net/bob/hash/doobs.html;buckets;1.0;0.0425531914893617;6.0;0
-57;http://burtleburtle.net/bob/hash/doobs.html;bucket maps;2.0;0.02127659574468085;6.0;0
-57;http://burtleburtle.net/bob/hash/doobs.html;hash table;1.75;0.02127659574468085;6.0;0
-57;http://burtleburtle.net/bob/hash/doobs.html;table;1.5;0.02127659574468085;2.0;0
-57;http://burtleburtle.net/bob/hash/doobs.html;bit;1.0;0.0425531914893617;6.0;0
-57;http://burtleburtle.net/bob/hash/doobs.html;increasing;1.0;0.0425531914893617;6.0;0
-57;http://burtleburtle.net/bob/hash/doobs.html;grows;1.0;0.02127659574468085;6.0;0
-58;http://burtleburtle.net/bob/hash/doobs.html;fnv;1.0;0.0;6.0;0
-58;http://burtleburtle.net/bob/hash/doobs.html;algorithm;1.0;0.02127659574468085;6.0;0
-58;http://burtleburtle.net/bob/hash/doobs.html;sliding pointer;2.0;0.02127659574468085;6.0;0
-58;http://burtleburtle.net/bob/hash/doobs.html;buckets;1.0;0.0425531914893617;6.0;0
-58;http://burtleburtle.net/bob/hash/doobs.html;work;1.0;0.02127659574468085;6.0;0
-58;http://burtleburtle.net/bob/hash/doobs.html;won;1.0;0.02127659574468085;6.0;0
-58;http://burtleburtle.net/bob/hash/doobs.html;split;1.0;0.02127659574468085;6.0;0
-59;http://burtleburtle.net/bob/hash/doobs.html;linear;1.0;0.0;6.0;0
-60;http://burtleburtle.net/bob/hash/doobs.html;cancel;1.0;0.02127659574468085;6.0;0
-60;http://burtleburtle.net/bob/hash/doobs.html;easily;1.0;0.02127659574468085;6.0;0
-60;http://burtleburtle.net/bob/hash/doobs.html;widely separated things;2.8333333333333335;0.02127659574468085;6.0;0
-60;http://burtleburtle.net/bob/hash/doobs.html;nearby things;2.25;0.02127659574468085;6.0;0
-60;http://burtleburtle.net/bob/hash/doobs.html;means;1.0;0.02127659574468085;6.0;0
-61;http://burtleburtle.net/bob/hash/doobs.html;affected;1.0;0.02127659574468085;6.0;0
-61;http://burtleburtle.net/bob/hash/doobs.html;affects higher bits;2.8333333333333335;0.02127659574468085;6.0;0
-61;http://burtleburtle.net/bob/hash/doobs.html;8th bit;2.0;0.02127659574468085;6.0;0
-61;http://burtleburtle.net/bob/hash/doobs.html;input bytes;2.0;0.02127659574468085;6.0;0
-61;http://burtleburtle.net/bob/hash/doobs.html;state;1.0;0.02127659574468085;6.0;0
-61;http://burtleburtle.net/bob/hash/doobs.html;multiplication;1.0;0.0;6.0;0
-61;http://burtleburtle.net/bob/hash/doobs.html;lowest 7 bits;1.5;0.02127659574468085;6.0;0
-62;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;simple technique;2.0;0.018518518518518517;6.0;0
-62;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;accessing information;2.0;0.018518518518518517;6.0;0
-62;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;powerful;1.0;0.018518518518518517;6.0;0
-62;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;hashing;1.0;0.018518518518518517;6.0;0
-63;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;index;1.0;0.037037037037037035;6.0;0
-63;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;table;1.0;0.037037037037037035;3.0;0
-63;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;number;1.0;0.018518518518518517;6.0;0
-63;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;key;1.0;0.0;6.0;0
-63;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;mathematically converted;2.0;0.018518518518518517;6.0;0
-64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;typical applications;2.0;0.018518518518518517;6.0;0
-64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;index;1.0;0.037037037037037035;6.0;0
-64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;keys;1.0;0.0;6.0;0
-64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;requiring;1.0;0.018518518518518517;6.0;0
-64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;strategy;1.0;0.018518518518518517;6.0;0
-64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;map;1.0;0.018518518518518517;6.0;0
-64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;common;1.0;0.018518518518518517;6.0;0
-64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;collision resolution;2.0;0.018518518518518517;6.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;file;1.0;0.018518518518518517;6.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;dictionary;1.0;0.018518518518518517;6.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;instance;1.0;0.018518518518518517;6.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;topics;1.0;0.018518518518518517;6.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;applications;1.0;0.0;6.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;records;1.0;0.018518518518518517;6.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;keywords;1.0;0.0;6.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;table;1.0;0.037037037037037035;3.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;static set;2.0;0.037037037037037035;6.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;contents;1.0;0.018518518518518517;6.0;0
-65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;compiler;1.0;0.018518518518518517;6.0;0
-66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;perfect hashing function;3.0;0.018518518518518517;6.0;0
-66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;keys;1.0;0.0;6.0;0
-66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;maps;1.0;0.018518518518518517;6.0;0
-66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;numbers;1.0;0.018518518518518517;6.0;0
-66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;cases;1.0;0.018518518518518517;6.0;0
-66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;nice;1.0;0.018518518518518517;6.0;0
-67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;retrieve;1.0;0.018518518518518517;6.0;0
-67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;record;1.0;0.018518518518518517;6.0;0
-67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;probe;1.0;0.018518518518518517;6.0;0
-67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;collisions;1.0;0.018518518518518517;6.0;0
-67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;perfect function;2.0;0.018518518518518517;6.0;0
-67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;worrying;1.0;0.018518518518518517;6.0;0
-68;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;empty locations;2.0;0.018518518518518517;6.0;0
-68;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;special case;2.0;0.018518518518518517;6.0;0
-68;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;perfect hashing;2.5;0.018518518518518517;6.0;0
-68;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;minimal perfect hashing;2.6666666666666665;0.018518518518518517;6.0;0
-68;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;table exist;2.0;0.018518518518518517;6.0;0
-69;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;ideal;1.0;0.018518518518518517;6.0;0
-69;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;fast performance;2.0;0.018518518518518517;6.0;0
-69;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;low memory usage;3.0;0.018518518518518517;6.0;0
-70;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;difficult;1.0;0.018518518518518517;6.0;0
-71;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;article;1.0;0.018518518518518517;6.0;0
-71;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;ll present;2.0;0.018518518518518517;6.0;0
-71;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;static set;2.0;0.037037037037037035;6.0;0
-71;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;data;1.0;0.018518518518518517;6.0;0
-71;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;simple algorithm;2.0;0.018518518518518517;6.0;0
-72;http://cmph.sourceforge.net/bdz.html;input key set;3.0;0.03125;6.0;0
-72;http://cmph.sourceforge.net/bdz.html;function values;2.0;0.03125;6.0;0
-72;http://cmph.sourceforge.net/bdz.html;require obits;2.0;0.03125;6.0;0
-72;http://cmph.sourceforge.net/bdz.html;generating phfs;2.0;0.03125;6.0;0
-72;http://cmph.sourceforge.net/bdz.html;stored;1.0;0.03125;6.0;0
-72;http://cmph.sourceforge.net/bdz.html;mphfs;1.0;0.0;6.0;0
-72;http://cmph.sourceforge.net/bdz.html;bdz algorithm;2.0;0.03125;6.0;0
-72;http://cmph.sourceforge.net/bdz.html;r_uniform random hypergraphs;3.0;0.03125;6.0;0
-73;http://cmph.sourceforge.net/bdz.html;edge connects vertices;3.0;0.03125;6.0;0
-73;http://cmph.sourceforge.net/bdz.html;hypergraph;1.0;0.0;6.0;0
-73;http://cmph.sourceforge.net/bdz.html;standard undirected graph;3.0;0.03125;6.0;0
-73;http://cmph.sourceforge.net/bdz.html;generalization;1.0;0.0;6.0;0
-74;http://cmph.sourceforge.net/bdz.html;idea;1.0;0.03125;6.0;0
-76;http://cmph.sourceforge.net/bdz.html;obits;1.0;0.0;6.0;0
-76;http://cmph.sourceforge.net/bdz.html;space usage;2.0;0.09375;6.0;0
-76;http://cmph.sourceforge.net/bdz.html;achieve;1.0;0.03125;6.0;0
-76;http://cmph.sourceforge.net/bdz.html;proceeded differently;2.0;0.03125;6.0;0
-77;http://cmph.sourceforge.net/bdz.html;constant;1.0;0.03125;6.0;0
-77;http://cmph.sourceforge.net/bdz.html;evaluation time;2.0;0.03125;6.0;0
-77;http://cmph.sourceforge.net/bdz.html;schemes considered;2.0;0.03125;6.0;0
-78;http://cmph.sourceforge.net/bdz.html;space usage;2.0;0.09375;6.0;0
-78;http://cmph.sourceforge.net/bdz.html;obtain;1.0;0.03125;6.0;0
-78;http://cmph.sourceforge.net/bdz.html;approximately 2;0.5;0.03125;6.0;0
-79;http://cmph.sourceforge.net/bdz.html;6n bits;2.0;0.03125;6.0;0
-79;http://cmph.sourceforge.net/bdz.html;mphf;1.0;0.0;6.0;0
-80;http://cmph.sourceforge.net/bdz.html;compact;1.0;0.03125;6.0;0
-80;http://cmph.sourceforge.net/bdz.html;representations;1.0;0.0;6.0;0
-80;http://cmph.sourceforge.net/bdz.html;larger;1.0;0.0;6.0;0
-80;http://cmph.sourceforge.net/bdz.html;achieved;1.0;0.03125;6.0;0
-80;http://cmph.sourceforge.net/bdz.html;simpler;1.0;0.03125;6.0;0
-82;http://cmph.sourceforge.net/bdz.html;space usage;2.0;0.09375;6.0;0
-83;http://cmph.sourceforge.net/bdz.html;95n bits;2.0;0.03125;6.0;0
+1;http://www.drdobbs.com/database/algorithm-alley/184410284;bob jenkins;2.0;0.5;2.5;0
+1;http://www.drdobbs.com/database/algorithm-alley/184410284;september 01;0.5;0.5;5.0;0
+18;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;january 01;0.5;0.027777777777777776;5.0;0
+18;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;john boyer;2.0;0.027777777777777776;5.0;0
+27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;bob jenkins presented;3.0;0.027777777777777776;5.0;0
+27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashing function;2.0;0.027777777777777776;5.0;0
+27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;recently;1.0;0.027777777777777776;5.0;0
+27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;complex mixing operation;3.0;0.027777777777777776;5.0;0
+27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;12 bytes;0.5;0.027777777777777776;5.0;0
+27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;input key;2.0;0.027777777777777776;5.0;0
+27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;performs;1.0;0.027777777777777776;5.0;0
+27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;time;1.0;0.027777777777777776;5.0;0
+28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hash;1.0;0.05555555555555555;2.5;0
+28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;bytes;1.0;0.027777777777777776;5.0;0
+28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;regions;1.0;0.027777777777777776;5.0;0
+28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;design;1.0;0.027777777777777776;5.0;0
+28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;key;1.0;0.0;5.0;0
+28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;affect;1.0;0.027777777777777776;5.0;0
+29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hash function suffers;2.6666666666666665;0.027777777777777776;5.0;0
+29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;truncated;1.0;0.027777777777777776;5.0;0
+29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hash;2.0;0.05555555555555555;2.5;0
+29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;table size;2.0;0.027777777777777776;5.0;0
+29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;information loss;2.0;0.027777777777777776;5.0;0
+30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;table 1 shows;1.3333333333333333;0.027777777777777776;5.0;0
+30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;greater;1.0;0.027777777777777776;5.0;0
+30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;jenkins  hash function;2.25;0.027777777777777776;5.0;0
+30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;efficiency;1.0;0.027777777777777776;5.0;0
+30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;original hashpjw;1.75;0.027777777777777776;5.0;0
+30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashpjw;1.5;0.0;5.0;0
+30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;slightly;1.0;0.05555555555555555;5.0;0
+30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashjband;1.0;0.0;5.0;0
+31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;cpu time;2.0;0.027777777777777776;5.0;0
+31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;compute hash values;3.0;0.027777777777777776;5.0;0
+31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;run time;2.0;0.027777777777777776;5.0;0
+31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashjbis equivalent;2.0;0.027777777777777776;5.0;0
+31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashjenkinsbecause;1.0;0.0;5.0;0
+31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;slightly;1.0;0.05555555555555555;5.0;0
+32;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;ddj;1.0;0.0;5.0;0
+41;https://en.wikipedia.org/wiki/Jenkins_hash_function;bob jenkins;2.25;0.16666666666666666;2.5;0
+41;https://en.wikipedia.org/wiki/Jenkins_hash_function;multi_byte keys designed;3.0;0.16666666666666666;5.0;0
+41;https://en.wikipedia.org/wiki/Jenkins_hash_function;hash functions;2.5;0.16666666666666666;5.0;0
+41;https://en.wikipedia.org/wiki/Jenkins_hash_function;collection;1.0;0.16666666666666666;5.0;0
+41;https://en.wikipedia.org/wiki/Jenkins_hash_function;jenkins hash functions;2.5;0.16666666666666666;5.0;0
+42;https://en.wikipedia.org/wiki/Jenkins_hash_function;formally published;2.0;0.16666666666666666;5.0;0
+52;http://burtleburtle.net/bob/hash/doobs.html;faster;1.0;0.02127659574468085;5.0;0
+52;http://burtleburtle.net/bob/hash/doobs.html;hash table lookup;2.8333333333333335;0.02127659574468085;5.0;0
+52;http://burtleburtle.net/bob/hash/doobs.html;hash function;2.25;0.02127659574468085;5.0;0
+52;http://burtleburtle.net/bob/hash/doobs.html;offer;1.0;0.02127659574468085;5.0;0
+53;http://burtleburtle.net/bob/hash/doobs.html;verify;1.0;0.02127659574468085;5.0;0
+53;http://burtleburtle.net/bob/hash/doobs.html;give;1.0;0.02127659574468085;5.0;0
+54;http://burtleburtle.net/bob/hash/doobs.html;complaints;1.0;0.02127659574468085;5.0;0
+55;http://burtleburtle.net/bob/hash/doobs.html;don;1.0;0.02127659574468085;5.0;0
+55;http://burtleburtle.net/bob/hash/doobs.html;mask;1.0;0.02127659574468085;5.0;0
+55;http://burtleburtle.net/bob/hash/doobs.html;reduce;1.0;0.02127659574468085;5.0;0
+55;http://burtleburtle.net/bob/hash/doobs.html;specific;1.0;0.02127659574468085;5.0;0
+55;http://burtleburtle.net/bob/hash/doobs.html;bits;1.0;0.02127659574468085;5.0;0
+55;http://burtleburtle.net/bob/hash/doobs.html;size;1.0;0.02127659574468085;5.0;0
+56;http://burtleburtle.net/bob/hash/doobs.html;completely;1.0;0.02127659574468085;5.0;0
+56;http://burtleburtle.net/bob/hash/doobs.html;bit;1.0;0.0425531914893617;5.0;0
+56;http://burtleburtle.net/bob/hash/doobs.html;increasing;1.0;0.0425531914893617;5.0;0
+56;http://burtleburtle.net/bob/hash/doobs.html;hash;1.0;0.02127659574468085;1.6666666666666667;0
+56;http://burtleburtle.net/bob/hash/doobs.html;result size;2.0;0.0425531914893617;5.0;0
+57;http://burtleburtle.net/bob/hash/doobs.html;entire;1.0;0.02127659574468085;5.0;0
+57;http://burtleburtle.net/bob/hash/doobs.html;result size;2.0;0.0425531914893617;5.0;0
+57;http://burtleburtle.net/bob/hash/doobs.html;buckets;1.0;0.0425531914893617;5.0;0
+57;http://burtleburtle.net/bob/hash/doobs.html;bucket maps;2.0;0.02127659574468085;5.0;0
+57;http://burtleburtle.net/bob/hash/doobs.html;hash table;1.75;0.02127659574468085;5.0;0
+57;http://burtleburtle.net/bob/hash/doobs.html;table;1.5;0.02127659574468085;5.0;0
+57;http://burtleburtle.net/bob/hash/doobs.html;bit;1.0;0.0425531914893617;5.0;0
+57;http://burtleburtle.net/bob/hash/doobs.html;increasing;1.0;0.0425531914893617;5.0;0
+57;http://burtleburtle.net/bob/hash/doobs.html;grows;1.0;0.02127659574468085;5.0;0
+58;http://burtleburtle.net/bob/hash/doobs.html;fnv;1.0;0.0;5.0;0
+58;http://burtleburtle.net/bob/hash/doobs.html;algorithm;1.0;0.02127659574468085;5.0;0
+58;http://burtleburtle.net/bob/hash/doobs.html;sliding pointer;2.0;0.02127659574468085;5.0;0
+58;http://burtleburtle.net/bob/hash/doobs.html;buckets;1.0;0.0425531914893617;5.0;0
+58;http://burtleburtle.net/bob/hash/doobs.html;work;1.0;0.02127659574468085;5.0;0
+58;http://burtleburtle.net/bob/hash/doobs.html;won;1.0;0.02127659574468085;5.0;0
+58;http://burtleburtle.net/bob/hash/doobs.html;split;1.0;0.02127659574468085;5.0;0
+59;http://burtleburtle.net/bob/hash/doobs.html;linear;1.0;0.0;5.0;0
+60;http://burtleburtle.net/bob/hash/doobs.html;cancel;1.0;0.02127659574468085;5.0;0
+60;http://burtleburtle.net/bob/hash/doobs.html;easily;1.0;0.02127659574468085;5.0;0
+60;http://burtleburtle.net/bob/hash/doobs.html;widely separated things;2.8333333333333335;0.02127659574468085;5.0;0
+60;http://burtleburtle.net/bob/hash/doobs.html;nearby things;2.25;0.02127659574468085;5.0;0
+60;http://burtleburtle.net/bob/hash/doobs.html;means;1.0;0.02127659574468085;5.0;0
+61;http://burtleburtle.net/bob/hash/doobs.html;affected;1.0;0.02127659574468085;5.0;0
+61;http://burtleburtle.net/bob/hash/doobs.html;affects higher bits;2.8333333333333335;0.02127659574468085;5.0;0
+61;http://burtleburtle.net/bob/hash/doobs.html;8th bit;2.0;0.02127659574468085;5.0;0
+61;http://burtleburtle.net/bob/hash/doobs.html;input bytes;2.0;0.02127659574468085;5.0;0
+61;http://burtleburtle.net/bob/hash/doobs.html;state;1.0;0.02127659574468085;5.0;0
+61;http://burtleburtle.net/bob/hash/doobs.html;multiplication;1.0;0.0;5.0;0
+61;http://burtleburtle.net/bob/hash/doobs.html;lowest 7 bits;1.5;0.02127659574468085;5.0;0
+62;http://cmph.sourceforge.net/bdz.html;input key set;3.0;0.03125;5.0;0
+62;http://cmph.sourceforge.net/bdz.html;function values;2.0;0.03125;5.0;0
+62;http://cmph.sourceforge.net/bdz.html;require obits;2.0;0.03125;5.0;0
+62;http://cmph.sourceforge.net/bdz.html;generating phfs;2.0;0.03125;5.0;0
+62;http://cmph.sourceforge.net/bdz.html;stored;1.0;0.03125;5.0;0
+62;http://cmph.sourceforge.net/bdz.html;mphfs;1.0;0.0;5.0;0
+62;http://cmph.sourceforge.net/bdz.html;bdz algorithm;2.0;0.03125;5.0;0
+62;http://cmph.sourceforge.net/bdz.html;r_uniform random hypergraphs;3.0;0.03125;5.0;0
+63;http://cmph.sourceforge.net/bdz.html;edge connects vertices;3.0;0.03125;5.0;0
+63;http://cmph.sourceforge.net/bdz.html;hypergraph;1.0;0.0;5.0;0
+63;http://cmph.sourceforge.net/bdz.html;standard undirected graph;3.0;0.03125;5.0;0
+63;http://cmph.sourceforge.net/bdz.html;generalization;1.0;0.0;5.0;0
+64;http://cmph.sourceforge.net/bdz.html;idea;1.0;0.03125;5.0;0
+66;http://cmph.sourceforge.net/bdz.html;obits;1.0;0.0;5.0;0
+66;http://cmph.sourceforge.net/bdz.html;space usage;2.0;0.09375;5.0;0
+66;http://cmph.sourceforge.net/bdz.html;achieve;1.0;0.03125;5.0;0
+66;http://cmph.sourceforge.net/bdz.html;proceeded differently;2.0;0.03125;5.0;0
+67;http://cmph.sourceforge.net/bdz.html;constant;1.0;0.03125;5.0;0
+67;http://cmph.sourceforge.net/bdz.html;evaluation time;2.0;0.03125;5.0;0
+67;http://cmph.sourceforge.net/bdz.html;schemes considered;2.0;0.03125;5.0;0
+68;http://cmph.sourceforge.net/bdz.html;space usage;2.0;0.09375;5.0;0
+68;http://cmph.sourceforge.net/bdz.html;obtain;1.0;0.03125;5.0;0
+68;http://cmph.sourceforge.net/bdz.html;approximately 2;0.5;0.03125;5.0;0
+69;http://cmph.sourceforge.net/bdz.html;6n bits;2.0;0.03125;5.0;0
+69;http://cmph.sourceforge.net/bdz.html;mphf;1.0;0.0;5.0;0
+70;http://cmph.sourceforge.net/bdz.html;compact;1.0;0.03125;5.0;0
+70;http://cmph.sourceforge.net/bdz.html;representations;1.0;0.0;5.0;0
+70;http://cmph.sourceforge.net/bdz.html;larger;1.0;0.0;5.0;0
+70;http://cmph.sourceforge.net/bdz.html;achieved;1.0;0.03125;5.0;0
+70;http://cmph.sourceforge.net/bdz.html;simpler;1.0;0.03125;5.0;0
+72;http://cmph.sourceforge.net/bdz.html;space usage;2.0;0.09375;5.0;0
+73;http://cmph.sourceforge.net/bdz.html;95n bits;2.0;0.03125;5.0;0

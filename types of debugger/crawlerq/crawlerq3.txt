@@ -10,17 +10,6 @@ Some widely used debuggers are.
  WDW, the OpenWatcom debugger.
 .
 .
-These two types of debugging provide you with some very technical information.
- You can use it to do an online search for a possible solution or cause to the problem, or to provide additional information to our Customer Support when opening a ticket.
-JavaScript debugging is done using the browser s built_in Developer Tools, more specifically, using a JavaScript Console.
- Today, all major browsers feature Developer Tools and a JavaScript Console.
- In Chrome, click the Main menu button_ More Tools_ Developer Tools.
- Select the Console tab.
- In Firefox, click the Main menu button_ Developer_ Web Console.
- In Internet Explorer, click the Tools button_ F12 Developer Tools.
- Select the Console tab.
- In Edge, click the More button_ F12 Developer Tools.
- Select the Console tab.
 Some widely used debuggers are.
  Firefox JavaScript debugger.
  GDB _ the GNU debugger.
@@ -33,6 +22,17 @@ Some widely used debuggers are.
  WDW, the OpenWatcom debugger.
 .
 .
+These two types of debugging provide you with some very technical information.
+ You can use it to do an online search for a possible solution or cause to the problem, or to provide additional information to our Customer Support when opening a ticket.
+JavaScript debugging is done using the browser s built_in Developer Tools, more specifically, using a JavaScript Console.
+ Today, all major browsers feature Developer Tools and a JavaScript Console.
+ In Chrome, click the Main menu button_ More Tools_ Developer Tools.
+ Select the Console tab.
+ In Firefox, click the Main menu button_ Developer_ Web Console.
+ In Internet Explorer, click the Tools button_ F12 Developer Tools.
+ Select the Console tab.
+ In Edge, click the More button_ F12 Developer Tools.
+ Select the Console tab.
 The emerging field of  auditory display  uses sound to convey more detailed information.
  For debugging purposes, this requires translating arbitrary data into sound through a process called  sonification  or  audification.
   Through this process, a language of sound is created.
@@ -53,24 +53,20 @@ Classification of different types of test tools according to the test process ac
 Other example of the probe effect is when a debugging tool tries to find a particular defect.
  If the code is run with the debugger, then the bug disappears  it only re_appears when the debugger is turned off, hence making it very difficult to find.
  These are sometimes known as  Heizenbugs  .
-Hi,.
-how many types of debugging modes avaiable in abap.
-.
-abap.
 .
 .
 .
 .
+ .
+ .
+Once an error has been identified, it is necessary to actually find the error in the code.
+ At this point, it can be useful to look at the code s logging and use a stand_alone debugger tool or the debugging component of an integrated development environment .
+ Invariably, the bugs in the functions that get most use are found and fixed first.
+ In some cases, the module that presents the problem is obvious, while the line of code itself is not.
+ In that case, unit tests __ such as JUnit and xUnit, which allow the programmer to run a specific function with specific inputs __ can be helpful in debugging.
 .
 .
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
+ .
+ .

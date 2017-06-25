@@ -48,17 +48,3 @@
 0; But all these employees belong to Person group.
 0; Person can have different attributes like name, address, age and phone.
 0; What do we do if we want to get a person s address and phone number  We write two separate procedure sp_getAddress and sp_getPhone.
-0;Object oriented databases are also called Object Database Management Systems .
-0; Object databases store objects rather than data such as integers, strings or real numbers.
-0; Objects are used in object oriented languages such as Smalltalk, C  , Java, and others.
-0; Objects basically consist of the following.
-0; Attributes _ Attributes are data which defines the characteristics of an object.
-0; This data may be simple such as integers, strings, and real numbers or it may be a reference to a complex object.
-0; Methods _ Methods define the behavior of an object and are what was formally called procedures or functions.
-0;Objects don t require assembly and disassembly saving coding time and execution time to assemble or disassemble objects .
-0;Reduced paging.
-0;Easier navigation.
-0;Better concurrency control _ A hierarchy of objects may be locked .
-0;Data model is based on the real world .
-0;Works well for distributed architectures .
-0;Less code required when applications are object oriented .

@@ -59,16 +59,6 @@ I have three complaints against it.
  Second, it s linear.
  That means that widely separated things can cancel each other out at least as easily as nearby things.
  Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
-Hashing is a powerful and simple technique for accessing information.
- Each key is mathematically converted into a number, which is then used as an index into a table.
- In typical applications, it s common for two different keys to map to the same index, requiring some strategy for collision resolution.
- However, many applications use a static set of records  for instance, the table of keywords for a compiler, the contents of a dictionary, or the topics in a help file.
- In these cases, it s nice to have a perfect hashing function, one that maps different keys into different numbers.
- With a perfect function, you could retrieve the record in exactly one probe, without worrying about collisions.
- A special case of perfect hashing is minimal perfect hashing, where no empty locations in the table exist.
- Minimal perfect hashing satisfies the ideal of fast performance and low memory usage.
- However, finding perfect hashing functions is difficult.
- In this article, I ll present a simple algorithm to find perfect hashing functions for a static set of data.
 The BDZ algorithm uses r_uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require Obits to be stored.
  A hypergraph is the generalization of a standard undirected graph where each edge connects vertices.
  This idea is not new, see e.

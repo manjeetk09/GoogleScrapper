@@ -1,0 +1,11 @@
+1suffix/prefix/W;1;hierarchical database model;database_model
+Category Match;0.8888888888888888;entity–relationship model;database_model;Database models;1;Database models;0
+Category Match;1.0;ibm information management system;database_model;Database management systems;2;Database management systems;0
+Category Match;1.0;relational model;database_model;Database management systems;2;Database management systems;0
+1suffix/prefix/W;0;database design;database_model
+1suffix/prefix/W;0;database;database_model
+Category Match;1.0;relational algebra;database_model;Database management systems;2;Database management systems;0
+Category Match;0.8888888888888888;sql;database_model;Database management systems;1;Database management systems;0
+1suffix/prefix/W;1;relational database;database_model
+Category Match;0.8888888888888888;foreign key;database_model;Database management systems;1;Database management systems;0
+1suffix/prefix/W;2;flat file database;database_model

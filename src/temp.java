@@ -13,7 +13,7 @@ public class temp
 {
     public final String GOOGLE_SEARCH_URL = "http://suggestqueries.google.com/complete/search?client=firefox&hl=en&q=";
 
-    public void tempFunc(String searchTerm, String head_entity, int search) throws IOException{
+    public void tempFunc(String searchTerm, String head_entity, int search, String head_wiki) throws IOException{
 //    public static void main (String args[]) throws IOException
 //    {
 
@@ -38,6 +38,8 @@ public class temp
 //        String head_entity = scanner1.nextLine();
 //        System.out.println("Please enter the number of searches.");
 //        int search = scanner.nextInt();
+//        System.out.println("Enter the head entity name as in Wikipedia:");
+//        String head_wiki = scanner.nextLine();
 
 //        int num_query_terms = scanner.nextInt();
 //        System.out.println("Please enter the list of query terms (one in each line)");
@@ -238,7 +240,7 @@ public class temp
         wikiSegregate obj1 = new wikiSegregate();
         try
         {
-            obj1.wikiFunc(head_entity);
+            obj1.wikiFunc(head_entity, head_wiki);
         }
         catch(Exception e)
         {

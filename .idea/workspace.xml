@@ -60,75 +60,163 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/combinedOllie.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/combinedPOS.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/output/crawler1.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/category_plural.csv" afterPath="$PROJECT_DIR$/Category/category_plural.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/duplicates.dat" afterPath="$PROJECT_DIR$/algorithm for hash function/duplicates.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/duplicates.dat" afterPath="$PROJECT_DIR$/algorithms for supervised learning/duplicates.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/duplicates.dat" afterPath="$PROJECT_DIR$/algorithms in mlpack/duplicates.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicates.dat" afterPath="$PROJECT_DIR$/duplicates.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/duplicates.dat" afterPath="$PROJECT_DIR$/examples of database model/duplicates.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/duplicates.dat" afterPath="$PROJECT_DIR$/types of algebraic function/duplicates.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/duplicates.dat" afterPath="$PROJECT_DIR$/types of debugger/duplicates.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/catInput.csv" afterPath="$PROJECT_DIR$/Category/catInput.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/catOutput.csv" afterPath="$PROJECT_DIR$/Category/catOutput.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/category_intersection.csv" afterPath="$PROJECT_DIR$/Category/category_intersection.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/category_suffix_prefix.csv" afterPath="$PROJECT_DIR$/Category/category_suffix_prefix.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/final_intersection.csv" afterPath="$PROJECT_DIR$/Category/final_intersection.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/crawler/crawler2.txt" afterPath="$PROJECT_DIR$/algorithm for hash function/crawler/crawler2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/crawlerq/crawlerq2.txt" afterPath="$PROJECT_DIR$/algorithm for hash function/crawlerq/crawlerq2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/csv_triples_ollie/csv_triples_ollie2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/duplicatesRemoved.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/entity_rake/entity_rake2.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/entity_rake/entity_rake2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/final.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/final.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/final_normalize.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/final_normalize.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/mappedInTKB.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/mappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/mergeCatNonCat.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/notMappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/para/para2.txt" afterPath="$PROJECT_DIR$/algorithm for hash function/para/para2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMapped.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/processedMapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMappedPath.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/processedMappedPath.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/processedMappedPathRelationMin.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMappedUpdated.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/processedMappedUpdated.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMappedWiki.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/processedMappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMergedWiki.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/processedMergedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/processedUnmapped.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/processedUnmapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/processedUnmappedWiki.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/processedUnmappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/removedListing.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/removedListing.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/result/result2.csv" afterPath="$PROJECT_DIR$/algorithm for hash function/result/result2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/timeDate/timeDate0.txt" afterPath="$PROJECT_DIR$/algorithm for hash function/timeDate/timeDate0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/timeDate/timeDate1.txt" afterPath="$PROJECT_DIR$/algorithm for hash function/timeDate/timeDate1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/timeDate/timeDate2.txt" afterPath="$PROJECT_DIR$/algorithm for hash function/timeDate/timeDate2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/triples_ollie/triples_ollie2.txt" afterPath="$PROJECT_DIR$/algorithm for hash function/triples_ollie/triples_ollie2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm for hash function/urls/urls2.txt" afterPath="$PROJECT_DIR$/algorithm for hash function/urls/urls2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/algorithms for supervised learning/mergeCatNonCat.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMapped.csv" afterPath="$PROJECT_DIR$/algorithms for supervised learning/processedMapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedPath.csv" afterPath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedPath.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedPathRelationMin.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedUpdated.csv" afterPath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedUpdated.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedWiki.csv" afterPath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMergedWiki.csv" afterPath="$PROJECT_DIR$/algorithms for supervised learning/processedMergedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedUnmapped.csv" afterPath="$PROJECT_DIR$/algorithms for supervised learning/processedUnmapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedUnmappedWiki.csv" afterPath="$PROJECT_DIR$/algorithms for supervised learning/processedUnmappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/removedListing.csv" afterPath="$PROJECT_DIR$/algorithms for supervised learning/removedListing.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate0.txt" afterPath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate1.txt" afterPath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate2.txt" afterPath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate3.txt" afterPath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate4.txt" afterPath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/algorithms in mlpack/mergeCatNonCat.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMapped.csv" afterPath="$PROJECT_DIR$/algorithms in mlpack/processedMapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMappedPath.csv" afterPath="$PROJECT_DIR$/algorithms in mlpack/processedMappedPath.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/algorithms in mlpack/processedMappedPathRelationMin.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMappedUpdated.csv" afterPath="$PROJECT_DIR$/algorithms in mlpack/processedMappedUpdated.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMappedWiki.csv" afterPath="$PROJECT_DIR$/algorithms in mlpack/processedMappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMergedWiki.csv" afterPath="$PROJECT_DIR$/algorithms in mlpack/processedMergedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedUnmapped.csv" afterPath="$PROJECT_DIR$/algorithms in mlpack/processedUnmapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedUnmappedWiki.csv" afterPath="$PROJECT_DIR$/algorithms in mlpack/processedUnmappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/removedListing.csv" afterPath="$PROJECT_DIR$/algorithms in mlpack/removedListing.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithms in mlpack/timeDate/timeDate0.txt" afterPath="$PROJECT_DIR$/algorithms in mlpack/timeDate/timeDate0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler0.txt" afterPath="$PROJECT_DIR$/crawler0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler1.txt" afterPath="$PROJECT_DIR$/crawler1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler2.txt" afterPath="$PROJECT_DIR$/crawler2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler3.txt" afterPath="$PROJECT_DIR$/crawler3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler4.txt" afterPath="$PROJECT_DIR$/crawler4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler5.txt" afterPath="$PROJECT_DIR$/crawler5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler6.txt" afterPath="$PROJECT_DIR$/crawler6.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler7.txt" afterPath="$PROJECT_DIR$/crawler7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler8.txt" afterPath="$PROJECT_DIR$/crawler8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq0.txt" afterPath="$PROJECT_DIR$/crawlerq0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq1.txt" afterPath="$PROJECT_DIR$/crawlerq1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq2.txt" afterPath="$PROJECT_DIR$/crawlerq2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq3.txt" afterPath="$PROJECT_DIR$/crawlerq3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq4.txt" afterPath="$PROJECT_DIR$/crawlerq4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq5.txt" afterPath="$PROJECT_DIR$/crawlerq5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq6.txt" afterPath="$PROJECT_DIR$/crawlerq6.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq7.txt" afterPath="$PROJECT_DIR$/crawlerq7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq8.txt" afterPath="$PROJECT_DIR$/crawlerq8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie0.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie1.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie3.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie4.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie4.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie5.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie5.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie6.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie6.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie7.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie7.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie8.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie8.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/duplicatesRemoved.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity.txt" afterPath="$PROJECT_DIR$/entity.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake0.csv" afterPath="$PROJECT_DIR$/entity_rake0.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake1.csv" afterPath="$PROJECT_DIR$/entity_rake1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake2.csv" afterPath="$PROJECT_DIR$/entity_rake2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake3.csv" afterPath="$PROJECT_DIR$/entity_rake3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake4.csv" afterPath="$PROJECT_DIR$/entity_rake4.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake5.csv" afterPath="$PROJECT_DIR$/entity_rake5.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake6.csv" afterPath="$PROJECT_DIR$/entity_rake6.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake7.csv" afterPath="$PROJECT_DIR$/entity_rake7.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake8.csv" afterPath="$PROJECT_DIR$/entity_rake8.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler0.txt" afterPath="$PROJECT_DIR$/examples of database model/crawler/crawler0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler1.txt" afterPath="$PROJECT_DIR$/examples of database model/crawler/crawler1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler2.txt" afterPath="$PROJECT_DIR$/examples of database model/crawler/crawler2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler5.txt" afterPath="$PROJECT_DIR$/examples of database model/crawler/crawler5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler7.txt" afterPath="$PROJECT_DIR$/examples of database model/crawler/crawler7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq0.txt" afterPath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq1.txt" afterPath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq2.txt" afterPath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq5.txt" afterPath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq7.txt" afterPath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie5.csv" afterPath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie7.csv" afterPath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/examples of database model/duplicatesRemoved.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake0.csv" afterPath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake1.csv" afterPath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake2.csv" afterPath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake5.csv" afterPath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake7.csv" afterPath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/final.csv" afterPath="$PROJECT_DIR$/examples of database model/final.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/final_normalize.csv" afterPath="$PROJECT_DIR$/examples of database model/final_normalize.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/li/li0.csv" afterPath="$PROJECT_DIR$/examples of database model/li/li0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/li/li1.csv" afterPath="$PROJECT_DIR$/examples of database model/li/li1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/li/li5.csv" afterPath="$PROJECT_DIR$/examples of database model/li/li5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/li/li7.csv" afterPath="$PROJECT_DIR$/examples of database model/li/li7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/mappedInTKB.csv" afterPath="$PROJECT_DIR$/examples of database model/mappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/examples of database model/mergeCatNonCat.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/examples of database model/notMappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/para/para0.txt" afterPath="$PROJECT_DIR$/examples of database model/para/para0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/para/para1.txt" afterPath="$PROJECT_DIR$/examples of database model/para/para1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/para/para2.txt" afterPath="$PROJECT_DIR$/examples of database model/para/para2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/para/para5.txt" afterPath="$PROJECT_DIR$/examples of database model/para/para5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/para/para7.txt" afterPath="$PROJECT_DIR$/examples of database model/para/para7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/processedMapped.csv" afterPath="$PROJECT_DIR$/examples of database model/processedMapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/processedMappedPath.csv" afterPath="$PROJECT_DIR$/examples of database model/processedMappedPath.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/examples of database model/processedMappedPathRelationMin.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/processedMappedUpdated.csv" afterPath="$PROJECT_DIR$/examples of database model/processedMappedUpdated.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/processedMappedWiki.csv" afterPath="$PROJECT_DIR$/examples of database model/processedMappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/processedMergedWiki.csv" afterPath="$PROJECT_DIR$/examples of database model/processedMergedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/processedUnmapped.csv" afterPath="$PROJECT_DIR$/examples of database model/processedUnmapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/processedUnmappedWiki.csv" afterPath="$PROJECT_DIR$/examples of database model/processedUnmappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/removedListing.csv" afterPath="$PROJECT_DIR$/examples of database model/removedListing.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/result/result0.csv" afterPath="$PROJECT_DIR$/examples of database model/result/result0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/result/result1.csv" afterPath="$PROJECT_DIR$/examples of database model/result/result1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/result/result2.csv" afterPath="$PROJECT_DIR$/examples of database model/result/result2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/result/result5.csv" afterPath="$PROJECT_DIR$/examples of database model/result/result5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/result/result7.csv" afterPath="$PROJECT_DIR$/examples of database model/result/result7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate0.txt" afterPath="$PROJECT_DIR$/examples of database model/timeDate/timeDate0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate1.txt" afterPath="$PROJECT_DIR$/examples of database model/timeDate/timeDate1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate2.txt" afterPath="$PROJECT_DIR$/examples of database model/timeDate/timeDate2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate3.txt" afterPath="$PROJECT_DIR$/examples of database model/timeDate/timeDate3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate4.txt" afterPath="$PROJECT_DIR$/examples of database model/timeDate/timeDate4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate5.txt" afterPath="$PROJECT_DIR$/examples of database model/timeDate/timeDate5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate6.txt" afterPath="$PROJECT_DIR$/examples of database model/timeDate/timeDate6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate7.txt" afterPath="$PROJECT_DIR$/examples of database model/timeDate/timeDate7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate8.txt" afterPath="$PROJECT_DIR$/examples of database model/timeDate/timeDate8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie0.txt" afterPath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie1.txt" afterPath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie2.txt" afterPath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie5.txt" afterPath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie7.txt" afterPath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/urls/urls0.txt" afterPath="$PROJECT_DIR$/examples of database model/urls/urls0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/urls/urls1.txt" afterPath="$PROJECT_DIR$/examples of database model/urls/urls1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/urls/urls2.txt" afterPath="$PROJECT_DIR$/examples of database model/urls/urls2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/urls/urls5.txt" afterPath="$PROJECT_DIR$/examples of database model/urls/urls5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples of database model/urls/urls7.txt" afterPath="$PROJECT_DIR$/examples of database model/urls/urls7.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final.csv" afterPath="$PROJECT_DIR$/final.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_normalize.csv" afterPath="$PROJECT_DIR$/final_normalize.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li0.csv" afterPath="$PROJECT_DIR$/li0.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li1.csv" afterPath="$PROJECT_DIR$/li1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li2.csv" afterPath="$PROJECT_DIR$/li2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li3.csv" afterPath="$PROJECT_DIR$/li3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li4.csv" afterPath="$PROJECT_DIR$/li4.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li5.csv" afterPath="$PROJECT_DIR$/li5.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li6.csv" afterPath="$PROJECT_DIR$/li6.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li8.csv" afterPath="$PROJECT_DIR$/li8.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li7.csv" afterPath="$PROJECT_DIR$/li7.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mappedInTKB.csv" afterPath="$PROJECT_DIR$/mappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/mergeCatNonCat.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/notMappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para0.txt" afterPath="$PROJECT_DIR$/para0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para1.txt" afterPath="$PROJECT_DIR$/para1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para2.txt" afterPath="$PROJECT_DIR$/para2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para3.txt" afterPath="$PROJECT_DIR$/para3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para4.txt" afterPath="$PROJECT_DIR$/para4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para5.txt" afterPath="$PROJECT_DIR$/para5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para6.txt" afterPath="$PROJECT_DIR$/para6.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para8.txt" afterPath="$PROJECT_DIR$/para8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para7.txt" afterPath="$PROJECT_DIR$/para7.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMapped.csv" afterPath="$PROJECT_DIR$/processedMapped.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMappedPath.csv" afterPath="$PROJECT_DIR$/processedMappedPath.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/processedMappedPathRelationMin.csv" />
@@ -137,19 +225,15 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMergedWiki.csv" afterPath="$PROJECT_DIR$/processedMergedWiki.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedUnmapped.csv" afterPath="$PROJECT_DIR$/processedUnmapped.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedUnmappedWiki.csv" afterPath="$PROJECT_DIR$/processedUnmappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queryList.txt" afterPath="$PROJECT_DIR$/queryList.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/removedListing.csv" afterPath="$PROJECT_DIR$/removedListing.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result0.csv" afterPath="$PROJECT_DIR$/result0.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result1.csv" afterPath="$PROJECT_DIR$/result1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result2.csv" afterPath="$PROJECT_DIR$/result2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result3.csv" afterPath="$PROJECT_DIR$/result3.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result4.csv" afterPath="$PROJECT_DIR$/result4.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result5.csv" afterPath="$PROJECT_DIR$/result5.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result6.csv" afterPath="$PROJECT_DIR$/result6.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result7.csv" afterPath="$PROJECT_DIR$/result7.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result8.csv" afterPath="$PROJECT_DIR$/result8.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CopyFIle.java" afterPath="$PROJECT_DIR$/src/CopyFIle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test1.java" afterPath="$PROJECT_DIR$/src/test1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.txt" afterPath="$PROJECT_DIR$/temp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GoogleSearchJava.java" afterPath="$PROJECT_DIR$/src/GoogleSearchJava.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/QueryFeed.java" afterPath="$PROJECT_DIR$/src/QueryFeed.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/temp.java" afterPath="$PROJECT_DIR$/src/temp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/wikiSegregate.java" afterPath="$PROJECT_DIR$/src/wikiSegregate.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates.txt" afterPath="$PROJECT_DIR$/templates.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate0.txt" afterPath="$PROJECT_DIR$/timeDate0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate1.txt" afterPath="$PROJECT_DIR$/timeDate1.txt" />
@@ -161,26 +245,64 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate7.txt" afterPath="$PROJECT_DIR$/timeDate7.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate8.txt" afterPath="$PROJECT_DIR$/timeDate8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie0.txt" afterPath="$PROJECT_DIR$/triples_ollie0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie1.txt" afterPath="$PROJECT_DIR$/triples_ollie1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie2.txt" afterPath="$PROJECT_DIR$/triples_ollie2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie3.txt" afterPath="$PROJECT_DIR$/triples_ollie3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie4.txt" afterPath="$PROJECT_DIR$/triples_ollie4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie5.txt" afterPath="$PROJECT_DIR$/triples_ollie5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie6.txt" afterPath="$PROJECT_DIR$/triples_ollie6.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie7.txt" afterPath="$PROJECT_DIR$/triples_ollie7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie8.txt" afterPath="$PROJECT_DIR$/triples_ollie8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/crawler/crawler0.txt" afterPath="$PROJECT_DIR$/types of algebraic function/crawler/crawler0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/crawlerq/crawlerq0.txt" afterPath="$PROJECT_DIR$/types of algebraic function/crawlerq/crawlerq0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/types of algebraic function/csv_triples_ollie/csv_triples_ollie0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/types of algebraic function/duplicatesRemoved.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/entity_rake/entity_rake0.csv" afterPath="$PROJECT_DIR$/types of algebraic function/entity_rake/entity_rake0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/final.csv" afterPath="$PROJECT_DIR$/types of algebraic function/final.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/final_normalize.csv" afterPath="$PROJECT_DIR$/types of algebraic function/final_normalize.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/li/li0.csv" afterPath="$PROJECT_DIR$/types of algebraic function/li/li0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/mappedInTKB.csv" afterPath="$PROJECT_DIR$/types of algebraic function/mappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/types of algebraic function/mergeCatNonCat.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/types of algebraic function/notMappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/para/para0.txt" afterPath="$PROJECT_DIR$/types of algebraic function/para/para0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/processedMapped.csv" afterPath="$PROJECT_DIR$/types of algebraic function/processedMapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/processedMappedPath.csv" afterPath="$PROJECT_DIR$/types of algebraic function/processedMappedPath.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/types of algebraic function/processedMappedPathRelationMin.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/processedMappedUpdated.csv" afterPath="$PROJECT_DIR$/types of algebraic function/processedMappedUpdated.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/processedMappedWiki.csv" afterPath="$PROJECT_DIR$/types of algebraic function/processedMappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/processedMergedWiki.csv" afterPath="$PROJECT_DIR$/types of algebraic function/processedMergedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/processedUnmapped.csv" afterPath="$PROJECT_DIR$/types of algebraic function/processedUnmapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/processedUnmappedWiki.csv" afterPath="$PROJECT_DIR$/types of algebraic function/processedUnmappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/removedListing.csv" afterPath="$PROJECT_DIR$/types of algebraic function/removedListing.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/result/result0.csv" afterPath="$PROJECT_DIR$/types of algebraic function/result/result0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/timeDate/timeDate0.txt" afterPath="$PROJECT_DIR$/types of algebraic function/timeDate/timeDate0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/timeDate/timeDate1.txt" afterPath="$PROJECT_DIR$/types of algebraic function/timeDate/timeDate1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/timeDate/timeDate2.txt" afterPath="$PROJECT_DIR$/types of algebraic function/timeDate/timeDate2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/triples_ollie/triples_ollie0.txt" afterPath="$PROJECT_DIR$/types of algebraic function/triples_ollie/triples_ollie0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of algebraic function/urls/urls0.txt" afterPath="$PROJECT_DIR$/types of algebraic function/urls/urls0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler2.txt" afterPath="$PROJECT_DIR$/types of debugger/crawler/crawler2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler3.txt" afterPath="$PROJECT_DIR$/types of debugger/crawler/crawler3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler4.txt" afterPath="$PROJECT_DIR$/types of debugger/crawler/crawler4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler5.txt" afterPath="$PROJECT_DIR$/types of debugger/crawler/crawler5.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq2.txt" afterPath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq3.txt" afterPath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq4.txt" afterPath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq5.txt" afterPath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq5.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie3.csv" afterPath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie4.csv" afterPath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie5.csv" afterPath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie5.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/types of debugger/duplicatesRemoved.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake2.csv" afterPath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake3.csv" afterPath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake4.csv" afterPath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake5.csv" afterPath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake5.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/final.csv" afterPath="$PROJECT_DIR$/types of debugger/final.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/final_normalize.csv" afterPath="$PROJECT_DIR$/types of debugger/final_normalize.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/li/li2.csv" afterPath="$PROJECT_DIR$/types of debugger/li/li2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/li/li3.csv" afterPath="$PROJECT_DIR$/types of debugger/li/li3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/li/li5.csv" afterPath="$PROJECT_DIR$/types of debugger/li/li5.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/mappedInTKB.csv" afterPath="$PROJECT_DIR$/types of debugger/mappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/types of debugger/mergeCatNonCat.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/types of debugger/notMappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/para/para2.txt" afterPath="$PROJECT_DIR$/types of debugger/para/para2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/para/para3.txt" afterPath="$PROJECT_DIR$/types of debugger/para/para3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/para/para4.txt" afterPath="$PROJECT_DIR$/types of debugger/para/para4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/para/para5.txt" afterPath="$PROJECT_DIR$/types of debugger/para/para5.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/processedMapped.csv" afterPath="$PROJECT_DIR$/types of debugger/processedMapped.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/processedMappedPath.csv" afterPath="$PROJECT_DIR$/types of debugger/processedMappedPath.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/types of debugger/processedMappedPathRelationMin.csv" />
@@ -191,6 +313,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/processedUnmappedWiki.csv" afterPath="$PROJECT_DIR$/types of debugger/processedUnmappedWiki.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/removedListing.csv" afterPath="$PROJECT_DIR$/types of debugger/removedListing.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/result/result2.csv" afterPath="$PROJECT_DIR$/types of debugger/result/result2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/result/result3.csv" afterPath="$PROJECT_DIR$/types of debugger/result/result3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/result/result4.csv" afterPath="$PROJECT_DIR$/types of debugger/result/result4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/result/result5.csv" afterPath="$PROJECT_DIR$/types of debugger/result/result5.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate0.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate1.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate1.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate2.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate2.txt" />
@@ -199,16 +324,16 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate5.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate5.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate6.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate6.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie2.txt" afterPath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie3.txt" afterPath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie4.txt" afterPath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie5.txt" afterPath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie5.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/urls/urls2.txt" afterPath="$PROJECT_DIR$/types of debugger/urls/urls2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/urls/urls3.txt" afterPath="$PROJECT_DIR$/types of debugger/urls/urls3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/urls/urls4.txt" afterPath="$PROJECT_DIR$/types of debugger/urls/urls4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/urls/urls5.txt" afterPath="$PROJECT_DIR$/types of debugger/urls/urls5.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls0.txt" afterPath="$PROJECT_DIR$/urls0.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls1.txt" afterPath="$PROJECT_DIR$/urls1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls2.txt" afterPath="$PROJECT_DIR$/urls2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls3.txt" afterPath="$PROJECT_DIR$/urls3.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls4.txt" afterPath="$PROJECT_DIR$/urls4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls5.txt" afterPath="$PROJECT_DIR$/urls5.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls6.txt" afterPath="$PROJECT_DIR$/urls6.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls7.txt" afterPath="$PROJECT_DIR$/urls7.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls8.txt" afterPath="$PROJECT_DIR$/urls8.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -230,10 +355,10 @@
       <file leaf-file-name="GoogleSearchJava.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="221" column="28" lean-forward="false" selection-start-line="221" selection-start-column="28" selection-end-line="221" selection-end-column="28" />
+            <state relative-caret-position="409">
+              <caret line="225" column="25" lean-forward="false" selection-start-line="225" selection-start-column="25" selection-end-line="225" selection-end-column="25" />
               <folding>
-                <marker date="1498394852937" expanded="false" signature="2546:2554" ph="&lt;~&gt;" />
+                <marker date="1498425853212" expanded="false" signature="2546:2554" ph="&lt;~&gt;" />
               </folding>
             </state>
           </provider>
@@ -243,20 +368,10 @@
         <entry file="file://$PROJECT_DIR$/src/test1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="relationSim.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/relationSim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="50" column="54" lean-forward="false" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -293,6 +408,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="wikiSegregate.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wikiSegregate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-319">
+              <caret line="89" column="62" lean-forward="false" selection-start-line="89" selection-start-column="62" selection-end-line="89" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="RelationScrapper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RelationScrapper.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -306,20 +431,20 @@
       <file leaf-file-name="temp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/temp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+            <state relative-caret-position="-80">
+              <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
               <folding>
-                <element signature="e#3035#3043#0" expanded="true" />
+                <element signature="e#3179#3187#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueryFeed.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="QueryFeed.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/QueryFeed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+            <state relative-caret-position="440">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -348,8 +473,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>compa</find>
-      <find>main</find>
       <find>wiki</find>
       <find>quick_ans</find>
       <find>bw.write</find>
@@ -378,6 +501,8 @@
       <find>heads</find>
       <find>head_phrase_list</find>
       <find>para</find>
+      <find>head_wiki</find>
+      <find>head_temp</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src</dir>
@@ -427,7 +552,6 @@
         <option value="$PROJECT_DIR$/src/Path.java" />
         <option value="$PROJECT_DIR$/src/RelationsScrapperFast.java" />
         <option value="$PROJECT_DIR$/src/RelationScrapperFast.java" />
-        <option value="$PROJECT_DIR$/src/wikiSegregate.java" />
         <option value="$PROJECT_DIR$/src/mergeMappedUnmappedWiki.java" />
         <option value="$PROJECT_DIR$/src/testCategory.java" />
         <option value="$PROJECT_DIR$/src/MergeMappedUnmappedWiki.java" />
@@ -435,11 +559,12 @@
         <option value="$PROJECT_DIR$/src/MergeCatNoncat.java" />
         <option value="$PROJECT_DIR$/src/relationSim.java" />
         <option value="$PROJECT_DIR$/src/PathMin.java" />
-        <option value="$PROJECT_DIR$/src/temp.java" />
-        <option value="$PROJECT_DIR$/src/QueryFeed.java" />
-        <option value="$PROJECT_DIR$/src/GoogleSearchJava.java" />
         <option value="$PROJECT_DIR$/src/test1.java" />
         <option value="$PROJECT_DIR$/src/CopyFIle.java" />
+        <option value="$PROJECT_DIR$/src/GoogleSearchJava.java" />
+        <option value="$PROJECT_DIR$/src/wikiSegregate.java" />
+        <option value="$PROJECT_DIR$/src/QueryFeed.java" />
+        <option value="$PROJECT_DIR$/src/temp.java" />
       </list>
     </option>
   </component>
@@ -1285,11 +1410,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="414576000" />
+    <option name="totallyTimeSpent" value="420514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1310,8 +1434,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6617954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5584551" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6617954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5584551" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24546425" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1706,14 +1830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/wikiSegregate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1611">
-          <caret line="227" column="78" lean-forward="false" selection-start-line="227" selection-start-column="78" selection-end-line="227" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MergeMappedUnmappedWiki.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
@@ -1750,7 +1866,7 @@
         <state relative-caret-position="238">
           <caret line="373" column="40" lean-forward="false" selection-start-line="373" selection-start-column="40" selection-end-line="373" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1795,30 +1911,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="221" column="28" lean-forward="false" selection-start-line="221" selection-start-column="28" selection-end-line="221" selection-end-column="28" />
-          <folding>
-            <marker date="1498394852937" expanded="false" signature="2546:2554" ph="&lt;~&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/temp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-          <folding>
-            <element signature="e#3035#3043#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <caret line="20" column="34" lean-forward="false" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1835,13 +1931,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="225" column="25" lean-forward="false" selection-start-line="225" selection-start-column="25" selection-end-line="225" selection-end-column="25" />
+          <folding>
+            <marker date="1498425853212" expanded="false" signature="2546:2554" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/QueryFeed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        <state relative-caret-position="440">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+          <folding>
+            <element signature="e#3179#3187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wikiSegregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="89" column="62" lean-forward="false" selection-start-line="89" selection-start-column="62" selection-end-line="89" selection-end-column="62" />
+          <folding />
         </state>
       </provider>
     </entry>

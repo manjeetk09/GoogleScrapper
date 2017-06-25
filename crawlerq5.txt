@@ -48,3 +48,22 @@ Considering again the sample supplier_part database, its network view is shown.
                        .
                .
                           .
+By admin.
+July 29, 2015.
+Data Models,Database.
+The network database or network model uses the plex structure as its basic data structure.
+ A network is a directed graph consisting of nodes connected by links or directed arcs.
+ The nodes corresponds to record types and the links to pointers or relationships.
+ All the relationship are hardwired or pre_computed and build into structure of database itself because they are very efficient in space utilization and query execution time.
+ The network data structure looks like a tree structure except that a dependent node which is  called a child or member, may have more than one parent or owner node.
+All figure shows the network model  .
+network model in dbms.
+network model examples.
+network data model in dbms.
+network model in dbms with examples.
+example of network model.
+network data model in dbms with example.
+network model.
+network data model.
+network database model advantages and disadvantages.
+network database.

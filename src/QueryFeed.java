@@ -18,6 +18,8 @@ public class QueryFeed
 //        int search = scanner.nextInt();
 //        temp obj = new temp();
 //        obj.tempFunc(searchTerm, head_entity, search);
+//        System.out.println("Enter the head entity name as in Wikipedia:");
+//        String head_wiki = scanner.nextLine();
 
         FileReader fr = new FileReader("queryInput.csv");
         BufferedReader br = new BufferedReader(fr);
@@ -28,7 +30,7 @@ public class QueryFeed
         {
             String []comp = line.split(";");
             temp obj = new temp();
-            obj.tempFunc(comp[0],comp[1],Integer.parseInt(comp[2]));
+            obj.tempFunc(comp[0],comp[1],Integer.parseInt(comp[2]), comp[3]);
         }
 
         try

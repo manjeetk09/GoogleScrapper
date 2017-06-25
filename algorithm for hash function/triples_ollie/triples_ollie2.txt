@@ -190,46 +190,6 @@ No extractions found.
 0.796: (Third; are never affected by; the 8th bit of all the input bytes)
 0.612: (multiplication; only affects; higher bits)
 
-Hashing is a powerful and simple technique for accessing information.
-0.764: (Hashing; is; a powerful and simple technique)
-
- Each key is mathematically converted into a number, which is then used as an index into a table.
-0.948: (Each key; is mathematically converted into; a number which is then used as an index into a table)
-
- In typical applications, it s common for two different keys to map to the same index, requiring some strategy for collision resolution.
-0.561: (it; be common for; two different keys)
-0.466: (it; be common to; the same index)
-0.289: (it; be common in; typical applications)
-
- However, many applications use a static set of records  for instance, the table of keywords for a compiler, the contents of a dictionary, or the topics in a help file.
-0.797: (many applications; However use; a static set of records)
-0.51: (static; set of; records)
-
- In these cases, it s nice to have a perfect hashing function, one that maps different keys into different numbers.
-0.243: (it; be nice in; these cases)
-
- With a perfect function, you could retrieve the record in exactly one probe, without worrying about collisions.
-0.846: (you; could retrieve; the record)
-0.668: (you; could retrieve the record in exactly one probe with; a perfect function)
-0.473: (the record; could be retrieve with; a perfect function)
-
- A special case of perfect hashing is minimal perfect hashing, where no empty locations in the table exist.
-0.667: (A special case of perfect hashing; is; minimal)
-0.492: (minimal; be A special case of; perfect hashing)
-
- Minimal perfect hashing satisfies the ideal of fast performance and low memory usage.
-0.789: (Minimal perfect hashing; satisfies; the ideal of fast performance)
-
- However, finding perfect hashing functions is difficult.
-No extractions found.
-
- In this article, I ll present a simple algorithm to find perfect hashing functions for a static set of data.
-0.711: (I; ll present a simple algorithm to find; perfect hashing functions)
-0.711: (I; ll present; a simple algorithm)
-0.473: (a simple algorithm; ll be present in; this article)
-0.473: (I; ll present a simple algorithm in; this article)
-0.472: (static; set of; data)
-
 The BDZ algorithm uses r_uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require Obits to be stored.
 0.861: (r_uniform random hypergraphs; be given by; function values of r uniform random hash functions)
 0.809: (The BDZ algorithm; uses; r_uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs)

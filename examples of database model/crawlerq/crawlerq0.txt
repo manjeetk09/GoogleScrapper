@@ -81,27 +81,6 @@ Database systems can be based on different data models or database models respec
  The most often used data models are.
 High_level Conceptual Data models.
 .
-  .
-.
-.
-.
-.
-.
-.
-  .
-.
-.
-.
-.
-.
-.
-  .
-.
-.
-.
-.
-.
-.
 Data models define how the logical structure of a database is modeled.
  Data Models are fundamental entities to introduce abstraction in a DBMS.
  Data models define how data is connected to each other and how they are processed and stored inside the system.
@@ -111,6 +90,27 @@ Entity   An entity in an ER Model is a real_world entity having properties calle
  Student has various attributes like name, age, class, etc.
 Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc .
 Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities   one to one one to many many to one many to many.
+  .
+.
+.
+.
+.
+.
+.
+  .
+.
+.
+.
+.
+.
+.
+  .
+.
+.
+.
+.
+.
+.
                         .
                             .
                 .

@@ -87,49 +87,47 @@ public class wikiSegregate
         return cats_matches;
     }
 
-    public void wikiFunc (String head_entity) throws Exception
+    public void wikiFunc (String head_entity, String head_wiki) throws Exception
     {
 //        System.out.println("Please enter the main entity terms (as given in TKB).");
 //        Scanner scanner1 = new Scanner(System.in);
 //        String head_entity = scanner1.nextLine();
-        String head_wiki = "";
-
-
-
-        try
-        {
-            // String t = "singular_point";
-            String command = "mapWikiNew.py";
-            ProcessBuilder pb = new ProcessBuilder(Arrays.asList("/home/manjeet/anaconda2/bin/python2.7", command, head_entity));
-//            Process proc = Runtime.getRuntime().exec(command);
-            Process proc = pb.start();
-            BufferedReader reader = new BufferedReader(new InputStreamReader(proc.getInputStream()));
-
-            String line = "";
-
-            while((line = reader.readLine()) != null) {
-                if(line.length() > 4)
-                {
-                    // System.out.println(line);
-                    String temp = line.replaceAll("<WikipediaPage \'","");
-                    String temp1 = temp.replaceAll("\'>","");
-                    // System.out.println(temp1);
-                    head_wiki = temp1;
-                }
-                else
-                {
-//                    System.out.println("there does not exist Wikipedia page for the entity");
-                    System.exit(0);
-                }
-            }
-
-            proc.waitFor();
-
-        }
-        catch(Exception e)
-        {
-            e.printStackTrace();
-        }
+//        String head_wiki = "";
+//
+//        try
+//        {
+//            // String t = "singular_point";
+//            String command = "mapWikiNew.py";
+//            ProcessBuilder pb = new ProcessBuilder(Arrays.asList("/home/manjeet/anaconda2/bin/python2.7", command, head_entity));
+////            Process proc = Runtime.getRuntime().exec(command);
+//            Process proc = pb.start();
+//            BufferedReader reader = new BufferedReader(new InputStreamReader(proc.getInputStream()));
+//
+//            String line = "";
+//
+//            while((line = reader.readLine()) != null) {
+//                if(line.length() > 4)
+//                {
+//                    // System.out.println(line);
+//                    String temp = line.replaceAll("<WikipediaPage \'","");
+//                    String temp1 = temp.replaceAll("\'>","");
+//                    // System.out.println(temp1);
+//                    head_wiki = temp1;
+//                }
+//                else
+//                {
+////                    System.out.println("there does not exist Wikipedia page for the entity");
+//                    System.exit(0);
+//                }
+//            }
+//
+//            proc.waitFor();
+//
+//        }
+//        catch(Exception e)
+//        {
+//            e.printStackTrace();
+//        }
         String head_temp = head_wiki.replaceAll(" " , "_");
         ArrayList<String> head_cat = get_categories(get_cats(head_temp));
 

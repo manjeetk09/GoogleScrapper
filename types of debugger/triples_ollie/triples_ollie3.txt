@@ -34,6 +34,42 @@ No extractions found.
 .
 No extractions found.
 
+Some widely used debuggers are.
+No extractions found.
+
+ Firefox JavaScript debugger.
+No extractions found.
+
+ GDB _ the GNU debugger.
+0.631: (GDB;  ; the GNU debugger)
+
+ LLDB.
+No extractions found.
+
+ Microsoft Visual Studio Debugger.
+No extractions found.
+
+ Valgrind.
+No extractions found.
+
+ WinDbg.
+No extractions found.
+
+ Eclipse debugger API used in a range of IDEs.
+0.921: (Eclipse debugger API; used in; a range of IDEs)
+
+ Eclipse IDE Nodeclipse .
+No extractions found.
+
+ WDW, the OpenWatcom debugger.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
 These two types of debugging provide you with some very technical information.
 0.83: (These two types of debugging; provide you with; some very technical information)
 0.734: (These two types of debugging; provide; you)
@@ -70,42 +106,6 @@ No extractions found.
 No extractions found.
 
  Select the Console tab.
-No extractions found.
-
-Some widely used debuggers are.
-No extractions found.
-
- Firefox JavaScript debugger.
-No extractions found.
-
- GDB _ the GNU debugger.
-0.631: (GDB;  ; the GNU debugger)
-
- LLDB.
-No extractions found.
-
- Microsoft Visual Studio Debugger.
-No extractions found.
-
- Valgrind.
-No extractions found.
-
- WinDbg.
-No extractions found.
-
- Eclipse debugger API used in a range of IDEs.
-0.921: (Eclipse debugger API; used in; a range of IDEs)
-
- Eclipse IDE Nodeclipse .
-No extractions found.
-
- WDW, the OpenWatcom debugger.
-No extractions found.
-
-.
-No extractions found.
-
-.
 No extractions found.
 
 The emerging field of  auditory display  uses sound to convey more detailed information.
@@ -175,18 +175,6 @@ Other example of the probe effect is when a debugging tool tries to find a parti
  These are sometimes known as  Heizenbugs  .
 No extractions found.
 
-Hi,.
-No extractions found.
-
-how many types of debugging modes avaiable in abap.
-No extractions found.
-
-.
-No extractions found.
-
-abap.
-No extractions found.
-
 .
 No extractions found.
 
@@ -199,26 +187,32 @@ No extractions found.
 .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+Once an error has been identified, it is necessary to actually find the error in the code.
+0.708: (the error; to be actually find in; the code)
+0.685: (it; to actually find; the error)
+0.632: (it; is; necessary)
+
+ At this point, it can be useful to look at the code s logging and use a stand_alone debugger tool or the debugging component of an integrated development environment .
+0.685: (it; can be; useful)
+0.454: (it; can be useful at; this point)
+
+ Invariably, the bugs in the functions that get most use are found and fixed first.
 No extractions found.
 
-.
-No extractions found.
+ In some cases, the module that presents the problem is obvious, while the line of code itself is not.
+0.653: (the problem; is; obvious)
 
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
+ In that case, unit tests __ such as JUnit and xUnit, which allow the programmer to run a specific function with specific inputs __ can be helpful in debugging.
+0.814: (the programmer; to run a specific function with; specific inputs)
+0.747: (the programmer; to run; a specific function)
+0.679: (a specific function; to be run with; specific inputs)
+0.251: (unit tests;     such as JUnit x Unit , which allow the programmer to run a specific function specific inputs   in; that case)
 
 .
 No extractions found.
@@ -232,9 +226,9 @@ No extractions found.
 .
 No extractions found.
 
-.
+ .
 No extractions found.
 
-.
+ .
 No extractions found.
 

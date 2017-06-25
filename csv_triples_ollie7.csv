@@ -47,15 +47,3 @@
 49;Person;be_different_attributes_like;name_address_age_and_phone;0.541
 50;a_person;s;address_and_phone_number_We_write_two_separate_procedure_sp_getAddress_and_sp_getPhone;0.703
 50;We;write;two_separate_procedure_sp_getAddress_and_sp_getPhone;0.658
-51;Object_oriented_databases;are_also_called;Object_Database_Management_Systems;0.736
-52;Object_databases;store_objects_than;data;0.75
-52;Object_databases;store;objects;0.723
-53;Objects;are_used_in;object_oriented_languages;0.9
-53;oriented;be_languages_as;Smalltalk_C_Java_and_others;0.348
-55;the_characteristics_of_an_object;be_defines_by;data;0.564
-56;it;may_be_a_reference_to;a_complex_object;0.864
-56;This_data;may_be;simple_such_as_integers_strings_and_real_numbers_or_it_may_be_a_reference;0.821
-56;This_data;may_be_simple_as;integers;0.753
-57;Methods;define;the_behavior_of_an_object;0.789
-61;Better_concurrency_control;be_A_hierarchy_of;objects;0.673
-62;Data_model;is_based_on;the_real_world;0.914

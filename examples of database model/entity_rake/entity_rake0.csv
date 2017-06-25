@@ -67,59 +67,59 @@
 80;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;6.0;0
 80;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;constraints;1.0;0.0;6.0;0
 81;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.0;0
-105;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;3.0;0.03773584905660377;6.0;0
-105;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;database;1.0;0.018867924528301886;3.0;0
-105;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;modeled;1.0;0.018867924528301886;6.0;0
-105;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;logical structure;2.0;0.018867924528301886;6.0;0
-106;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;fundamental entities;2.0;0.018867924528301886;6.0;0
-106;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;introduce abstraction;2.0;0.018867924528301886;6.0;0
-106;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models;2.0;0.018867924528301886;1.5;0
-106;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;dbms;1.0;0.0;6.0;0
-107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;2.6666666666666665;0.03773584905660377;6.0;0
-107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;stored inside;2.0;0.018867924528301886;6.0;0
-107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;system;1.0;0.018867924528301886;6.0;0
-107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;connected;1.0;0.018867924528301886;6.0;0
-107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;processed;1.0;0.018867924528301886;6.0;0
-107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data;2.0;0.018867924528301886;1.5;0
-108;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;properties called attributes;3.0;0.03773584905660377;6.0;0
-108;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;real_world entity;1.666666666665;0.03773584905660377;6.0;0
-108;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;er model;2.0;0.03773584905660377;6.0;0
-108;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity;1.33333333333;0.05660377358490566;6.0;0
-109;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;defined;1.0;0.03773584905660377;6.0;0
-109;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attribute;1.0;0.03773584905660377;6.0;0
-109;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;set;1.0;0.03773584905660377;6.0;0
-109;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;values called domain;3.0;0.03773584905660377;6.0;0
-110;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;considered;1.0;0.03773584905660377;6.0;0
-110;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;school database;2.0;0.03773584905660377;6.0;0
-110;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;student;1.0;0.05660377358490566;6.0;0
-110;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity;1.0;0.05660377358490566;6.0;0
-111;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attributes;1.0;0.03773584905660377;6.0;0
-111;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;age;1.0;0.03773584905660377;6.0;0
-111;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;class;1.0;0.03773584905660377;6.0;0
-111;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;student;1.0;0.05660377358490566;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;set;1.0;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;student;1.5;0.05660377358490566;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;real_world entity;1.75;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;defined;1.0;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attribute;1.0;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;age;1.0;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity;1.5;0.05660377358490566;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;considered;1.0;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;er model;2.0;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity  student;1.0;0.018867924528301886;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;properties called attributes;2.6666666666666665;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;values called domain;3.0;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;school database;2.0;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;class;1.0;0.03773584905660377;6.0;0
-112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attributes;2.0;0.03773584905660377;6.0;0
-113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entities  mapping cardinalities;1.9166666666675;0.018867924528301886;6.0;0
-113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;relationship;2.0;0.0;6.0;0
-113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;called relationship  relationships;2.0;0.018867924528301886;6.0;0
-113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;number;1.0;0.018867924528301886;6.0;0
-113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entities;1.66666666667;0.018867924528301886;6.0;0
-113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;logical association;1.75;0.018867924528301886;6.0;0
-113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;mapped;1.0;0.018867924528301886;6.0;0
-113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;association;1.5;0.0;6.0;0
+84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;3.0;0.03773584905660377;6.0;0
+84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;database;1.0;0.018867924528301886;3.0;0
+84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;modeled;1.0;0.018867924528301886;6.0;0
+84;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;logical structure;2.0;0.018867924528301886;6.0;0
+85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;fundamental entities;2.0;0.018867924528301886;6.0;0
+85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;introduce abstraction;2.0;0.018867924528301886;6.0;0
+85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models;2.0;0.018867924528301886;1.5;0
+85;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;dbms;1.0;0.0;6.0;0
+86;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;2.6666666666666665;0.03773584905660377;6.0;0
+86;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;stored inside;2.0;0.018867924528301886;6.0;0
+86;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;system;1.0;0.018867924528301886;6.0;0
+86;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;connected;1.0;0.018867924528301886;6.0;0
+86;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;processed;1.0;0.018867924528301886;6.0;0
+86;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data;2.0;0.018867924528301886;1.5;0
+87;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;properties called attributes;3.0;0.03773584905660377;6.0;0
+87;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;real_world entity;1.666666666665;0.03773584905660377;6.0;0
+87;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;er model;2.0;0.03773584905660377;6.0;0
+87;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity;1.33333333333;0.05660377358490566;6.0;0
+88;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;defined;1.0;0.03773584905660377;6.0;0
+88;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attribute;1.0;0.03773584905660377;6.0;0
+88;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;set;1.0;0.03773584905660377;6.0;0
+88;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;values called domain;3.0;0.03773584905660377;6.0;0
+89;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;considered;1.0;0.03773584905660377;6.0;0
+89;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;school database;2.0;0.03773584905660377;6.0;0
+89;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;student;1.0;0.05660377358490566;6.0;0
+89;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity;1.0;0.05660377358490566;6.0;0
+90;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attributes;1.0;0.03773584905660377;6.0;0
+90;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;age;1.0;0.03773584905660377;6.0;0
+90;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;class;1.0;0.03773584905660377;6.0;0
+90;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;student;1.0;0.05660377358490566;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;set;1.0;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;student;1.5;0.05660377358490566;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;real_world entity;1.75;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;defined;1.0;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attribute;1.0;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;age;1.0;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity;1.5;0.05660377358490566;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;considered;1.0;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;er model;2.0;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity  student;1.0;0.018867924528301886;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;properties called attributes;2.6666666666666665;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;values called domain;3.0;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;school database;2.0;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;class;1.0;0.03773584905660377;6.0;0
+91;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attributes;2.0;0.03773584905660377;6.0;0
+92;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entities  mapping cardinalities;1.9166666666675;0.018867924528301886;6.0;0
+92;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;relationship;2.0;0.0;6.0;0
+92;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;called relationship  relationships;2.0;0.018867924528301886;6.0;0
+92;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;number;1.0;0.018867924528301886;6.0;0
+92;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entities;1.66666666667;0.018867924528301886;6.0;0
+92;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;logical association;1.75;0.018867924528301886;6.0;0
+92;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;mapped;1.0;0.018867924528301886;6.0;0
+92;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;association;1.5;0.0;6.0;0
 117;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;shipments;1.0;0.07692307692307693;6.0;0
 117;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;sample database consisting;3.0;0.07692307692307693;6.0;0
 117;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;hierarchical data model;3.0;0.07692307692307693;6.0;0

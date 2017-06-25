@@ -1,6 +1,13 @@
 Application code can contain various types of errors, or bugs.
  Most syntax errors are caught during compilation.
  However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+Application code can contain various types of errors, or bugs.
+ Most syntax errors are caught during compilation.
+ However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+Application code can contain various types of errors, or bugs.
+ Most syntax errors are caught during compilation.
+ However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+ For more information, see Debugging, Tracing, and Profiling.
 Summary.
  This paper describes some of the new and improved features of the Microsoft  Visual Studio  .
 NET debugger, such as cross_language debugging, debugging multiple processes across machines, and the generation of minidumps for C   applications.
@@ -27,10 +34,3 @@ NET or Visual C   projects.
  Based on the results of the analysis, the appropriate debuggers are used during debugging.
  A disadvantage of this approach is that if a project was written with managed extensions to C   and dynamically loaded native code, this will not be detected and you will not be able to debug the native code.
  Setting Mixed allows a developer to directly control the debugging options.
-Application code can contain various types of errors, or bugs.
- Most syntax errors are caught during compilation.
- However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
-Application code can contain various types of errors, or bugs.
- Most syntax errors are caught during compilation.
- However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
- For more information, see Debugging, Tracing, and Profiling.

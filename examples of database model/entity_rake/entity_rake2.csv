@@ -1,69 +1,93 @@
-1;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;5.0;1
-2;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;2.5;1
-3;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;1.6666666666666667;1
-4;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;1.6666666666666667;1
-6;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;5.0;1
-7;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;2.5;1
-8;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;5.0;1
-8;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;2.5;1
-9;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;2.5;1
-13;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;5.0;1
-28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;database design;2.0;0.05;2.5;0
-28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;process;1.0;0.05;5.0;0
-28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;real world;2.0;0.1;5.0;0
-28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;enterprise;1.0;0.1;5.0;0
-28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;modeling;1.0;0.05;5.0;0
-29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;database;1.0;0.05;5.0;0
-29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;enterprise;1.0;0.1;5.0;0
-29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;model;1.0;0.05;1.6666666666666667;0
-29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;real world;2.0;0.1;5.0;0
-29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;fact;1.0;0.05;5.0;0
-29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;selected information needed;3.0;0.05;5.0;0
-30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;formally;1.0;0.05;5.0;0
-30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;intuitive;1.0;0.05;5.0;0
-30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;models;1.0;0.05;2.5;0
-30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;languages;1.0;0.0;5.0;0
-30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;informal;1.0;0.05;5.0;0
-30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;designers;1.0;0.05;5.0;0
-30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;mathematically defined;2.0;0.05;5.0;0
-31;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;tutorial;1.0;0.05;5.0;0
-31;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;present;1.0;0.05;5.0;0
-32;https://www.lucidchart.com/pages/database-diagram/database-models;kinds;1.0;0.0;5.0;0
-32;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.06666666666666667;5.0;0
-33;https://www.lucidchart.com/pages/database-diagram/database-models;include;1.0;0.06666666666666667;5.0;0
-33;https://www.lucidchart.com/pages/database-diagram/database-models;common;1.0;0.06666666666666667;5.0;0
-34;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical database model;3.0;0.06666666666666667;1.6666666666666667;0
-35;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.06666666666666667;1.25;0
-36;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.06666666666666667;1.25;0
-37;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.06666666666666667;5.0;0
-38;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.06666666666666667;5.0;0
-39;https://www.lucidchart.com/pages/database-diagram/database-models;document model;2.0;0.06666666666666667;1.6666666666666667;0
-40;https://www.lucidchart.com/pages/database-diagram/database-models;entity_attribute_value model;2.0;0.06666666666666667;5.0;0
-41;https://www.lucidchart.com/pages/database-diagram/database-models;star schema;2.0;0.06666666666666667;1.6666666666666667;0
-42;https://www.lucidchart.com/pages/database-diagram/database-models;combines;1.0;0.06666666666666667;5.0;0
-42;https://www.lucidchart.com/pages/database-diagram/database-models;make;1.0;0.06666666666666667;5.0;0
-42;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.06666666666666667;5.0;0
-48;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;5.0;0
-49;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;2.5;0
-50;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;1.6666666666666667;0
-51;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;1.6666666666666667;0
-53;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;5.0;0
-54;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;2.5;0
-55;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;5.0;0
-55;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;2.5;0
-56;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;2.5;0
-60;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;5.0;0
-77;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.07142857142857142;5.0;0
-77;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;5.0;0
-77;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.07142857142857142;5.0;0
-78;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;5.0;0
-78;http://www.studytonight.com/dbms/database-model;parts;1.0;0.07142857142857142;5.0;0
-78;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;5.0;0
-78;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.07142857142857142;5.0;0
-79;http://www.studytonight.com/dbms/database-model;database design;2.0;0.07142857142857142;2.5;0
-79;http://www.studytonight.com/dbms/database-model;models;1.0;0.07142857142857142;2.5;0
-79;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;5.0;0
-79;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.07142857142857142;5.0;0
-80;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.07142857142857142;5.0;0
-81;http://www.studytonight.com/dbms/database-model;network model;2.0;0.07142857142857142;1.25;0
-82;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.07142857142857142;1.25;0
+1;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;6.0;1
+2;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;3.0;1
+3;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;2.0;1
+4;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;2.0;1
+6;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;6.0;1
+7;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;3.0;1
+8;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;6.0;1
+8;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;3.0;1
+9;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;3.0;1
+13;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;6.0;1
+28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;database design;2.0;0.05;3.0;0
+28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;process;1.0;0.05;6.0;0
+28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;real world;2.0;0.1;6.0;0
+28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;enterprise;1.0;0.1;6.0;0
+28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;modeling;1.0;0.05;6.0;0
+29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;database;1.0;0.05;3.0;0
+29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;enterprise;1.0;0.1;6.0;0
+29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;model;1.0;0.05;2.0;0
+29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;real world;2.0;0.1;6.0;0
+29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;fact;1.0;0.05;6.0;0
+29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;selected information needed;3.0;0.05;6.0;0
+30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;formally;1.0;0.05;6.0;0
+30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;intuitive;1.0;0.05;6.0;0
+30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;models;1.0;0.05;3.0;0
+30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;languages;1.0;0.0;6.0;0
+30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;informal;1.0;0.05;6.0;0
+30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;designers;1.0;0.05;6.0;0
+30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;mathematically defined;2.0;0.05;6.0;0
+31;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;tutorial;1.0;0.05;6.0;0
+31;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;present;1.0;0.05;6.0;0
+32;https://www.lucidchart.com/pages/database-diagram/database-models;kinds;1.0;0.0;6.0;0
+32;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.06666666666666667;6.0;0
+33;https://www.lucidchart.com/pages/database-diagram/database-models;include;1.0;0.06666666666666667;6.0;0
+33;https://www.lucidchart.com/pages/database-diagram/database-models;common;1.0;0.06666666666666667;6.0;0
+34;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical database model;3.0;0.06666666666666667;2.0;0
+35;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.06666666666666667;1.5;0
+36;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.06666666666666667;1.5;0
+37;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.06666666666666667;6.0;0
+38;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.06666666666666667;6.0;0
+39;https://www.lucidchart.com/pages/database-diagram/database-models;document model;2.0;0.06666666666666667;2.0;0
+40;https://www.lucidchart.com/pages/database-diagram/database-models;entity_attribute_value model;2.0;0.06666666666666667;6.0;0
+41;https://www.lucidchart.com/pages/database-diagram/database-models;star schema;2.0;0.06666666666666667;2.0;0
+42;https://www.lucidchart.com/pages/database-diagram/database-models;combines;1.0;0.06666666666666667;6.0;0
+42;https://www.lucidchart.com/pages/database-diagram/database-models;make;1.0;0.06666666666666667;6.0;0
+42;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.06666666666666667;6.0;0
+48;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;6.0;0
+49;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;3.0;0
+50;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;2.0;0
+51;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;2.0;0
+53;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;6.0;0
+54;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;3.0;0
+55;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;6.0;0
+55;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;3.0;0
+56;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;3.0;0
+60;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;6.0;0
+77;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.07142857142857142;6.0;0
+77;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;6.0;0
+77;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.07142857142857142;6.0;0
+78;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;6.0;0
+78;http://www.studytonight.com/dbms/database-model;parts;1.0;0.07142857142857142;6.0;0
+78;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;6.0;0
+78;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.07142857142857142;6.0;0
+79;http://www.studytonight.com/dbms/database-model;database design;2.0;0.07142857142857142;3.0;0
+79;http://www.studytonight.com/dbms/database-model;models;1.0;0.07142857142857142;3.0;0
+79;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;6.0;0
+79;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.07142857142857142;6.0;0
+80;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.07142857142857142;6.0;0
+81;http://www.studytonight.com/dbms/database-model;network model;2.0;0.07142857142857142;1.5;0
+82;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.07142857142857142;1.5;0
+84;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;start read;2.0;0.041666666666666664;6.0;0
+84;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;questions;1.0;0.041666666666666664;6.0;0
+84;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;normalization;1.0;0.0;6.0;0
+85;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;design;1.0;0.08333333333333333;6.0;0
+85;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;school;1.0;0.041666666666666664;6.0;0
+85;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;don;1.0;0.08333333333333333;6.0;0
+86;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;information;1.0;0.0;6.0;0
+86;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;task;1.0;0.08333333333333333;6.0;0
+86;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;database;1.0;0.041666666666666664;3.0;0
+86;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;company;1.0;0.041666666666666664;6.0;0
+86;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;design;1.0;0.08333333333333333;6.0;0
+86;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;lot;1.0;0.0;6.0;0
+86;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;store;1.0;0.041666666666666664;6.0;0
+87;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;good data model;3.0;0.041666666666666664;6.0;0
+87;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;task;1.0;0.08333333333333333;6.0;0
+87;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;users;1.0;0.041666666666666664;6.0;0
+87;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;big;1.0;0.041666666666666664;6.0;0
+87;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;designing;1.0;0.041666666666666664;6.0;0
+87;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;worried;1.0;0.041666666666666664;6.0;0
+87;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;stuff;1.0;0.041666666666666664;6.0;0
+87;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;multiple modules;2.0;0.041666666666666664;6.0;0
+88;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;end;1.0;0.041666666666666664;6.0;0
+88;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;badly designed database;3.0;0.041666666666666664;6.0;0
+88;https://stackoverflow.com/questions/2408120/good-place-to-look-for-example-database-designs-best-practices;don;1.0;0.08333333333333333;6.0;0

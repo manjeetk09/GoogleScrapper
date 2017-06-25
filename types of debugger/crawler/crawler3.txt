@@ -10,17 +10,6 @@
 1; WDW, the OpenWatcom debugger.
 1;.
 1;.
-0;These two types of debugging provide you with some very technical information.
-0; You can use it to do an online search for a possible solution or cause to the problem, or to provide additional information to our Customer Support when opening a ticket.
-0;JavaScript debugging is done using the browser s built_in Developer Tools, more specifically, using a JavaScript Console.
-0; Today, all major browsers feature Developer Tools and a JavaScript Console.
-0; In Chrome, click the Main menu button_ More Tools_ Developer Tools.
-0; Select the Console tab.
-0; In Firefox, click the Main menu button_ Developer_ Web Console.
-0; In Internet Explorer, click the Tools button_ F12 Developer Tools.
-0; Select the Console tab.
-0; In Edge, click the More button_ F12 Developer Tools.
-0; Select the Console tab.
 0;Some widely used debuggers are.
 0; Firefox JavaScript debugger.
 0; GDB _ the GNU debugger.
@@ -33,6 +22,17 @@
 0; WDW, the OpenWatcom debugger.
 0;.
 0;.
+0;These two types of debugging provide you with some very technical information.
+0; You can use it to do an online search for a possible solution or cause to the problem, or to provide additional information to our Customer Support when opening a ticket.
+0;JavaScript debugging is done using the browser s built_in Developer Tools, more specifically, using a JavaScript Console.
+0; Today, all major browsers feature Developer Tools and a JavaScript Console.
+0; In Chrome, click the Main menu button_ More Tools_ Developer Tools.
+0; Select the Console tab.
+0; In Firefox, click the Main menu button_ Developer_ Web Console.
+0; In Internet Explorer, click the Tools button_ F12 Developer Tools.
+0; Select the Console tab.
+0; In Edge, click the More button_ F12 Developer Tools.
+0; Select the Console tab.
 0;The emerging field of  auditory display  uses sound to convey more detailed information.
 0; For debugging purposes, this requires translating arbitrary data into sound through a process called  sonification  or  audification.
 0;  Through this process, a language of sound is created.
@@ -53,24 +53,20 @@
 0;Other example of the probe effect is when a debugging tool tries to find a particular defect.
 0; If the code is run with the debugger, then the bug disappears  it only re_appears when the debugger is turned off, hence making it very difficult to find.
 0; These are sometimes known as  Heizenbugs  .
-0;Hi,.
-0;how many types of debugging modes avaiable in abap.
-0;.
-0;abap.
 0;.
 0;.
 0;.
 0;.
+0; .
+0; .
+0;Once an error has been identified, it is necessary to actually find the error in the code.
+0; At this point, it can be useful to look at the code s logging and use a stand_alone debugger tool or the debugging component of an integrated development environment .
+0; Invariably, the bugs in the functions that get most use are found and fixed first.
+0; In some cases, the module that presents the problem is obvious, while the line of code itself is not.
+0; In that case, unit tests __ such as JUnit and xUnit, which allow the programmer to run a specific function with specific inputs __ can be helpful in debugging.
 0;.
 0;.
 0;.
 0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
+0; .
+0; .
