@@ -477,7 +477,7 @@ public class GetCategory{
                     System.out.println(indexOfMaxScore + " :: " + output.get(indexOfMaxScore));
                     bw3.write(output.get(indexOfMaxScore));
                     bw3.write("\n");
-                    if(flag_done_plural == false && flag_done_suffix == false && flag_done_catMatch == true && max_score_intersection > 7/9){
+                    if(flag_done_plural == false && flag_done_suffix == false && flag_done_catMatch == true && max_score_intersection > 7.0/9.0){
                         bw5.write(output.get(indexOfMaxScore));
                         bw5.write("\n");
                     }

@@ -84,7 +84,7 @@ public class PathMin
                             {
                                 if(temp.size() < (path.size() - index - 2))
                                 {
-                                    for(int i = path.size(); i>=index; i--)
+                                    for(int i = path.size()-1; i>=index; i--)
                                     {
                                         path.remove(i);
                                     }

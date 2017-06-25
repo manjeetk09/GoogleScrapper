@@ -1,11 +1,12 @@
 import semantics.Compare;
 
 import java.io.*;
+import java.nio.Buffer;
 import java.util.ArrayList;
 
 public class relationSim
 {
-    public void relationSimilarity (int temp_index, ArrayList<String> input_phrase) throws IOException
+    public void relationSimilarity (int temp_index) throws IOException
     //public static void main (String args[]) throws  IOException
     {
 
@@ -21,13 +22,13 @@ public class relationSim
             PrintWriter f = new PrintWriter(new BufferedWriter(new FileWriter("result"+temp_index+".csv")));
             //PrintWriter f = new PrintWriter(new BufferedWriter(new FileWriter("result0.csv")));
 
-            ArrayList<String> head_phrase = input_phrase;
-            System.out.println("------------------------------------------");
-            for(int i = 0; i < head_phrase.size(); i++)
-            {
-                System.out.println(head_phrase.get(i));
-            }
-            System.out.println("------------------------------------------");
+//            ArrayList<String> head_phrase = input_phrase;
+//            System.out.println("------------------------------------------");
+//            for(int i = 0; i < head_phrase.size(); i++)
+//            {
+//                System.out.println(head_phrase.get(i));
+//            }
+//            System.out.println("------------------------------------------");
             //String head_phrase = "algorithm";
 
             String line = "";
@@ -36,9 +37,18 @@ public class relationSim
             {
                 String []info = line.split(";");
                 double max_sim = 0.0;
-                for(int i = 0 ; i < head_phrase.size() ; i++){
-                    Compare c = new Compare(info[2], head_phrase.get(i));
-                    Compare d = new Compare(head_phrase.get(i), info[2]);
+
+                //reading from relationSimMatch.txt for relation similarity
+                FileReader fr1 = new FileReader("relationSimMatch.txt");
+                BufferedReader br1 = new BufferedReader(fr1);
+                String headPhrase = "";
+
+                while((headPhrase = br1.readLine()) != null){
+//                for(int i = 0 ; i < head_phrase.size() ; i++){
+//                    Compare c = new Compare(info[2], head_phrase.get(i));
+//                    Compare d = new Compare(head_phrase.get(i), info[2]);
+                    Compare c = new Compare(info[2], headPhrase);
+                    Compare d = new Compare(headPhrase, info[2]);
                     double sim;
                     if(c.getResult() > d.getResult()){
                         sim = c.getResult();
@@ -62,10 +72,24 @@ public class relationSim
                         //System.out.println("similarity:" + sim);
 
                 }
+
+
                 //System.out.println(line);
 //                f.println(info[0]+";"+info[1]+";"+info[4]+";"+max_sim);
 //                f.println(info[0]+";"+info[3]+";"+info[4]+";"+max_sim);
                     f.println(info[0] + ";" + info[2] + ";" + max_sim);
+
+                try
+                {
+                    if(br1 != null)
+                        br1.close();
+                    if(fr1!= null)
+                        fr1.close();
+                }
+                catch (Exception e)
+                {
+                    e.printStackTrace();
+                }
             }
 
             f.close();

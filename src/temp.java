@@ -24,8 +24,8 @@ public class temp
 
         //number of templates
         int temp_num = 0;
-        ArrayList<String> head_phrase_list = new ArrayList<String>();
-        ArrayList<String> query_term_list = new ArrayList<String>();
+//        ArrayList<String> head_phrase_list = new ArrayList<String>();
+//        ArrayList<String> query_term_list = new ArrayList<String>();
         //ArrayList<String>
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter the search term.");
@@ -42,15 +42,15 @@ public class temp
 ////            System.out.println(new_head + " " + query_term_list.size());
 //        }
 
-        System.out.println("Please enter the number of head phrase.");
-        int num_head = scanner.nextInt();
-        System.out.println("Please enter the list of head phrase (one in each line)");
-        Scanner scanner2 = new Scanner(System.in);
-        for(int i = 0 ; i < num_head ;i++){
-            String new_head = scanner2.nextLine();
-            head_phrase_list.add(new_head);
-            //System.out.println(new_head + " " + head_phrase_list.size());
-        }
+//        System.out.println("Please enter the number of head phrase.");
+//        int num_head = scanner.nextInt();
+//        System.out.println("Please enter the list of head phrase (one in each line)");
+//        Scanner scanner2 = new Scanner(System.in);
+//        for(int i = 0 ; i < num_head ;i++){
+//            String new_head = scanner2.nextLine();
+//            head_phrase_list.add(new_head);
+//            //System.out.println(new_head + " " + head_phrase_list.size());
+//        }
         //System.out.println(head_phrase_list);
         System.out.println("Please enter the number of searches.");
         int search = scanner.nextInt();
@@ -108,7 +108,7 @@ public class temp
             //to run via GoogleSearchJava
             boolean is_quick_ans_present = false;
             GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-            is_quick_ans_present = googleSearchJava.googleSearch(searchTerm, search, 0, head_phrase_list);
+            is_quick_ans_present = googleSearchJava.googleSearch(searchTerm, search, 0);
             System.out.println("found quick answer:: " + is_quick_ans_present);
             System.out.println("google scrapper over");
 
@@ -121,7 +121,7 @@ public class temp
             parseOllie parseollie = new parseOllie();
             parseollie.parserOllie(0);
             relationSim relationsim = new relationSim();
-            relationsim.relationSimilarity(0, head_phrase_list);
+            relationsim.relationSimilarity(0);
 //            SimilarityOllie similarityOllie = new SimilarityOllie();
 //            similarityOllie.similarityollie(0, search);
             //System.out.println("i is:: " + 0);
@@ -149,7 +149,7 @@ public class temp
                 //to run via GoogleSearchJava
                 boolean is_quick_ans_present = false;
                 GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-                is_quick_ans_present = googleSearchJava.googleSearch(templates_final.get(i), search, i, head_phrase_list);
+                is_quick_ans_present = googleSearchJava.googleSearch(templates_final.get(i), search, i);
                 System.out.println("found quick answer:: " + is_quick_ans_present);
                 System.out.println("google scrapper over");
 
@@ -162,7 +162,7 @@ public class temp
                 parseOllie parseollie = new parseOllie();
                 parseollie.parserOllie(i);
                 relationSim relationsim = new relationSim();
-                relationsim.relationSimilarity(i, head_phrase_list);
+                relationsim.relationSimilarity(i);
 //                SimilarityOllie similarityOllie = new SimilarityOllie();
 //                similarityOllie.similarityollie(i, search);
                 //System.out.println("i is:: " + i);
@@ -238,8 +238,17 @@ public class temp
             e.printStackTrace();
         }
 
+        MergeMappedUnmappedWiki mergeMappedUnmappedWiki = new MergeMappedUnmappedWiki();
+        mergeMappedUnmappedWiki.mergeFunc(head_entity);
+
         testCategory testCat = new testCategory();
         testCat.testCatFunc(head_entity);
+
+        MergeCatNoncat mergeCatNoncat = new MergeCatNoncat();
+        mergeCatNoncat.mergeCatsNoncats();
+
+        CopyFIle copyFIle = new CopyFIle();
+        copyFIle.copyFunc(searchTerm, temp_num);
 
         System.out.println("num of templates:: " + temp_num);
     }

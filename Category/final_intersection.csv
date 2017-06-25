@@ -1,32 +1,24 @@
-Category Match;0.7777777777777778;Rational number;algebraic_function;Real analysis;2;Real analysis;1
-Category Match;1.0;Constant function;algebraic_function;Functions and mappings;2;Functions and mappings;0
-Category Match;1.0;Quadratic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
-Category Match;1.0;Cubic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
-Category Match;1.0;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
-Category Match;1.0;Quintic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
-Category Match;1.0;Cube root;algebraic_function;Types of functions;2;Types of functions;0
-Category Match;0.1111111111111111;Quantity;algebraic_function;Mathematical concepts;1;Mathematical concepts;2
-Category Match;0.7777777777777778;Real number;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
-Category Match;0.1111111111111111;Calibration curve;algebraic_function;Analysis;1;Analysis;2
-Category Match;0.8888888888888888;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;0
-Category Match;1.0;Sine wave;algebraic_function;Special functions;2;Special functions;0
-Category Match;1.0;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
-Category Match;0.7777777777777778;Algebraic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
-Category Match;0.4444444444444444;Line (geometry);algebraic_function;Abstraction;2;Abstraction;2
-Category Match;0.7777777777777778;Sextic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
-Category Match;1.0;Smoothness;algebraic_function;Functions and mappings;2;Functions and mappings;0
-Category Match;0.7777777777777778;Bathtub curve;algebraic_function;Mathematical objects;2;Mathematical objects;1
-Category Match;1.0;Normal distribution;algebraic_function;Types of functions;2;Types of functions;0
-Category Match;0.7777777777777778;Fish curve;algebraic_function;Mathematical objects;2;Mathematical objects;1
-Category Match;0.7777777777777778;Gompertz function;algebraic_function;Mathematical objects;2;Mathematical objects;1
-Category Match;0.5555555555555556;Hubbert curve;algebraic_function;Mathematical objects;1;Mathematical objects;1
-Category Match;0.7777777777777778;Learning curve;algebraic_function;Mathematical objects;2;Mathematical objects;1
-Category Match;1.0;Logistic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
-Category Match;0.4444444444444444;Algebraic curve;algebraic_function;Manifolds;2;Manifolds;2
-Category Match;0.4444444444444444;Projective variety;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
-Category Match;0.4444444444444444;Algebraic variety;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
-Category Match;0.4444444444444444;Two-dimensional space;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
-Category Match;0.7777777777777778;Interval (mathematics);algebraic_function;Mathematical objects;2;Mathematical objects;1
-Category Match;0.7777777777777778;Cartesian coordinate system;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
-Category Match;0.4444444444444444;Projective variety;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
-Category Match;0.7777777777777778;Curve;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.7777777777777778;microsoft visual studio;debugger;Computer programming tools;2;Computer programming tools;1
+Category Match;0.7777777777777778;syntax error;debugger;Computer programming tools;2;Computer programming tools;1
+Category Match;0.7777777777777778;executable;debugger;Computer programming;2;Computer programming;1
+Category Match;0.4444444444444444;graphical user interface;debugger;Software engineering;2;Software engineering;2
+Category Match;0.7777777777777778;integrated development environment;debugger;Computer programming;2;Computer programming;1
+Category Match;0.4444444444444444;unit testing;debugger;Software engineering;2;Software engineering;2
+Category Match;0.4444444444444444;gnome;debugger;System software;2;System software;2
+Category Match;0.8888888888888888;instruction set simulator;debugger;Debugging;1;Debugging;0
+Category Match;0.7777777777777778;visual basic;debugger;Computer programming;2;Computer programming;1
+Category Match;0.8888888888888888;debugging;debugger;Debugging;1;Debugging;0
+Category Match;0.4444444444444444;open-source model;debugger;Software;2;Software;2
+Category Match;0.6666666666666666;probe effect;debugger;Debugging;0;Debugging;0
+Category Match;0.4444444444444444;internet explorer;debugger;Software;2;Software;2
+Category Match;0.4444444444444444;auditory display;debugger;System software;2;System software;2
+Category Match;0.7777777777777778;tree structure;debugger;Computer programming;2;Computer programming;1
+Category Match;0.8888888888888888;dbx (debugger);debugger;Debugging;1;Debugging;0
+Category Match;0.7777777777777778;web server;debugger;Utility software;2;Utility software;1
+Category Match;0.8888888888888888;gnu debugger;debugger;Debugging;1;Debugging;0
+Category Match;0.2222222222222222;software;debugger;Software;0;Software;2
+Category Match;0.4444444444444444;microcontroller;debugger;Computers;2;Computers;2
+Category Match;0.4444444444444444;computer program;debugger;Software;2;Software;2
+Category Match;0.6666666666666666;trap flag;debugger;Debugging;0;Debugging;0
+Category Match;1.0;valgrind;debugger;Debugging;2;Debugging;0
+Category Match;0.8888888888888888;windbg;debugger;Debugging;1;Debugging;0

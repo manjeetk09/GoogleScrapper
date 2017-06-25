@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * Created by ashutosh on 25/6/17.
  */
-public class mergeMappedUnmappedWiki {
+public class MergeMappedUnmappedWiki {
 
     public static class LineSortScore implements Comparator<LineScore> {
 
@@ -25,7 +25,7 @@ public class mergeMappedUnmappedWiki {
         }
     }
 
-    public static void main(String args[]) throws IOException{
+    public void mergeFunc(String head) throws IOException{
         FileReader fr = new FileReader("processedMappedWiki.csv");
         BufferedReader br = new BufferedReader(fr);
         FileReader fr1 = new FileReader("processedUnmappedWiki.csv");
@@ -66,6 +66,7 @@ public class mergeMappedUnmappedWiki {
             lineScore.line = temp;
             String[] s_split = s.split(";");
             Double score = Double.parseDouble(s_split[8]);
+            lineScore.entity = s_split[3];
             lineScore.score = score;
             all.add(lineScore);
         }
@@ -75,13 +76,40 @@ public class mergeMappedUnmappedWiki {
             lineScore.line = temp;
             String[] s_split = s.split(";");
             Double score = Double.parseDouble(s_split[8]);
+            lineScore.entity = s_split[3];
             lineScore.score = score;
             all.add(lineScore);
         }
-        LineSortScore lineSortScore = new LineSortScore();
-        Collections.sort(all,lineSortScore);
+        LineScore []arr_all = new LineScore[all.size()];
+        all.toArray(arr_all);
+        for(int i = 0 ; i < arr_all.length ; i++){
+            for( int j = i + 1 ; j < arr_all.length ; j++){
+                if(arr_all[j].entity.matches(arr_all[i].entity)){
+                    if(arr_all[j].score > arr_all[i].score){
+                        arr_all[i].line = arr_all[j].line;
+                        arr_all[i].score = arr_all[j].score;
+                        arr_all[j].score = -1;
+                    }
+                    else{
+                        arr_all[j].score = -1;
+                    }
+                }
+            }
+        }
+        ArrayList<LineScore> all_new = new ArrayList<>();
+        for(int i = 0 ; i < arr_all.length ; i++){
+            if(arr_all[i].score != -1){
+                all_new.add(arr_all[i]);
+            }
+        }
 
-        for(LineScore lineScore : all){
+        LineSortScore lineSortScore = new LineSortScore();
+        Collections.sort(all_new,lineSortScore);
+
+        for(LineScore lineScore : all_new){
+            if(lineScore.entity.toLowerCase().matches(head.toLowerCase())){
+                continue;
+            }
             bw.write(lineScore.line);
             bw.write("\n");
         }
@@ -100,6 +128,13 @@ public class mergeMappedUnmappedWiki {
 }
 
 class LineScore {
+    public LineScore() {
+        this.description = "x";
+    }
+
     public String line;
     public double score;
+    public String entity;
+    public String description;
+    public double catScore;
 }

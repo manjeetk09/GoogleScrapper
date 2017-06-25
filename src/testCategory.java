@@ -26,30 +26,18 @@ public class testCategory {
         FileWriter fw = new FileWriter("Category/catInput.csv");
         BufferedWriter bw = new BufferedWriter(fw);
 
-        FileReader fr1 = new FileReader("processedMappedWiki.csv");
+        FileReader fr1 = new FileReader("processedMergedWiki.csv");
         BufferedReader br1 = new BufferedReader(fr1);
-
-        FileReader fr2 = new FileReader("processedUnmappedWiki.csv");
-        BufferedReader br2 = new BufferedReader(fr2);
 
         String line = "";
         while((line = br1.readLine()) != null)
         {
             String []comp = line.split(";");
-            bw.write(comp[3]+";"+head_entity+"\n");
-        }
-        while((line = br2.readLine()) != null)
-        {
-            String []comp = line.split(";");
-            bw.write(comp[3]+";"+head_entity+"\n");
+            bw.write(comp[4]+";"+head_entity+"\n");
         }
 
         try
         {
-            if(br2 != null)
-                br2.close();
-            if(fr2 != null)
-                fr2.close();
             if(br1 != null)
                 br1.close();
             if(fr1 != null)
