@@ -1,960 +1,698 @@
-Category Match;0.5555555555555556;Integrated development environment;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Integrated development environment;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Integrated development environment;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Integrated development environment;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Integrated development environment;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Integrated development environment;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Static program analysis;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Static program analysis;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Static program analysis;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Static program analysis;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Static program analysis;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Acceptance testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Acceptance testing;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Acceptance testing;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Software performance testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Software performance testing;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Software performance testing;debugger;Software;2;Software;2
-Category Match;0.1111111111111111;Software performance testing;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Software performance testing;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Software performance testing;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Software performance testing;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Software performance testing;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Software performance testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.5555555555555556;Software bug;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Software bug;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Software bug;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Software bug;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Software bug;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Instruction set architecture;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Instruction set architecture;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Instruction set architecture;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Instruction set architecture;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Instruction set architecture;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Microcontroller;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Microcontroller;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Microcontroller;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Microcontroller;debugger;Computers;2;Computers;2
-Category Match;0.2222222222222222;Computer programming;debugger;Computer programming;0;Computer programming;2
-Category Match;0.2222222222222222;Computer programming;debugger;Computer programming;0;Computer programming;2
-Category Match;0.3333333333333333;Computer programming;debugger;Computer programming;0;Computer programming;1
-Category Match;0.1111111111111111;Computer programming;debugger;Computers;1;Computers;2
-Category Match;0.1111111111111111;Computer programming;debugger;Software development;1;Software development;2
-Category Match;0.4444444444444444;Computer programming;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Computer programming;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Computer programming;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Computer programming;debugger;Software;2;Software;2
-Category Match;0.2222222222222222;Computer programming;debugger;Computers;0;Computers;2
-Category Match;0.7777777777777778;Segmentation fault;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Big data;debugger;Utility software;2;Utility software;1
-Category Match;0.4444444444444444;Software testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Software testing;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Software testing;debugger;Software;2;Software;2
-Category Match;0.1111111111111111;Data structure;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Data structure;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Data structure;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Data structure;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Data structure;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Data structure;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Microsoft Windows;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;Microsoft Windows;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Embedded system;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Embedded system;debugger;Computers;2;Computers;2
-Category Match;0.6666666666666666;Dbx (debugger);debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Dbx (debugger);debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Dbx (debugger);debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Dbx (debugger);debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Dbx (debugger);debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Dbx (debugger);debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Dbx (debugger);debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Dbx (debugger);debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Dbx (debugger);debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Dbx (debugger);debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Dbx (debugger);debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Dbx (debugger);debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;Dbx (debugger);debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Dbx (debugger);debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Dbx (debugger);debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Dbx (debugger);debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Dbx (debugger);debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Dbx (debugger);debugger;Application software;2;Application software;2
-Category Match;0.1111111111111111;Scripting language;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Scripting language;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Scripting language;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Scripting language;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Scripting language;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Scripting language;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Scripting language;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Regression testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Regression testing;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Regression testing;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Continuous testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Continuous testing;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Continuous testing;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Sitemaps;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Sitemaps;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;JavaScript;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;JavaScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JavaScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JavaScript;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;JavaScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JavaScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JavaScript;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;JavaScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JavaScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JavaScript;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;JavaScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JavaScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JavaScript;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;JavaScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JavaScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JavaScript;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;JavaScript;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;JavaScript;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Google+;debugger;Computers;2;Computers;2
-Category Match;0.5555555555555556;JDeveloper;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;JDeveloper;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JDeveloper;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JDeveloper;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;JDeveloper;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;JDeveloper;debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;JDeveloper;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;JDeveloper;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JDeveloper;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JDeveloper;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;JDeveloper;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;JDeveloper;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;JDeveloper;debugger;Software;2;Software;2
-Category Match;0.7777777777777778;JDeveloper;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.4444444444444444;JScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JScript;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;JScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JScript;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JScript;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;List of toolkits;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;List of toolkits;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;List of toolkits;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;List of toolkits;debugger;Computer programming;2;Computer programming;1
-Category Match;0.2222222222222222;Computer;debugger;Computers;0;Computers;2
-Category Match;0.4444444444444444;Microsoft Windows;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;Microsoft Windows;debugger;Computers;2;Computers;2
-Category Match;0.7777777777777778;Compiler;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.5555555555555556;Compiler;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Compiler;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Compiler;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Compiler;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Compiler;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Compiler;debugger;Application software;2;Application software;2
-Category Match;0.7777777777777778;Compiler;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Compiler;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.1111111111111111;Compiler;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Compiler;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Compiler;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Compiler;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Compiler;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Compiler;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Compiler;debugger;Software engineering;2;Software engineering;2
-Category Match;0.5555555555555556;Compiler;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Compiler;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Compiler;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Compiler;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Compiler;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Compiler;debugger;Application software;2;Application software;2
-Category Match;0.6666666666666666;Compiler;debugger;Utility software types;0;Utility software types;0
-Category Match;0.5555555555555556;Compiler;debugger;Utility software;1;Utility software;1
-Category Match;0.4444444444444444;Compiler;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;ProvideX;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;ProvideX;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;ProvideX;debugger;Computer programming;2;Computer programming;1
-Category Match;0.1111111111111111;Xarchiver;debugger;Software;1;Software;2
-Category Match;0.7777777777777778;Xarchiver;debugger;Utility software;2;Utility software;1
-Category Match;0.4444444444444444;Xarchiver;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Central processing unit;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Central processing unit;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Central processing unit;debugger;Computers;2;Computers;2
-Category Match;0.1111111111111111;Central processing unit;debugger;Computers;1;Computers;2
-Category Match;0.5555555555555556;Disassembler;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Disassembler;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Disassembler;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Disassembler;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Disassembler;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Disassembler;debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;Disassembler;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Disassembler;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Disassembler;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Disassembler;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Disassembler;debugger;Computer programming;2;Computer programming;1
-Category Match;0.3333333333333333;Disassembler;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Disassembler;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Disassembler;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Disassembler;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Disassembler;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Disassembler;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Disassembler;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Disassembler;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;COBOL;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;COBOL;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;COBOL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;COBOL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;COBOL;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;COBOL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;COBOL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;COBOL;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;COBOL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;COBOL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;COBOL;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;COBOL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;COBOL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;COBOL;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;JTAG;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;JTAG;debugger;Computers;2;Computers;2
-Category Match;0.7777777777777778;Wikipedia;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.4444444444444444;JQuery;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;JQuery;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;JQuery;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JQuery;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JQuery;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;XML;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;HTML;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;HTML;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;PHP;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;PHP;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;PHP;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;PHP;debugger;Computer programming;2;Computer programming;1
-Category Match;0.7777777777777778;PHP;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;PHP;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.4444444444444444;PHP;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;PHP;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;PHP;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;PHP;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;PHP;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;PHP;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;PHP;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;PHP;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;PHP;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;PHP;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Cascading Style Sheets;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Cascading Style Sheets;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;OpenShift;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;OpenShift;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;OpenShift;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Unix;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;Unix;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;Unix;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;Linux;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Open-source model;debugger;Software;2;Software;2
-Category Match;0.2222222222222222;Software;debugger;Software;0;Software;2
-Category Match;0.7777777777777778;Download;debugger;Utility software;2;Utility software;1
-Category Match;0.4444444444444444;Download;debugger;Computers;2;Computers;2
-Category Match;0.1111111111111111;Display device;debugger;Software;1;Software;2
-Category Match;0.4444444444444444;Code;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Code;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Code;debugger;Computer programming;2;Computer programming;1
-Category Match;0.1111111111111111;Programmer;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Programmer;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Programmer;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Programmer;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Programmer;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Programmer;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Programmer;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;SETL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;SETL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;SETL;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;SETL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;SETL;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;SETL;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Unit testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Unit testing;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Unit testing;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Unit testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Instruction set simulator;debugger;Application software;1;Application software;2
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Software;2;Software;2
-Category Match;0.6666666666666666;Instruction set simulator;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Instruction set simulator;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Instruction set simulator;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Instruction set simulator;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Instruction set simulator;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Instruction set simulator;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Software engineering;2;Software engineering;2
-Category Match;0.5555555555555556;Instruction set simulator;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Instruction set simulator;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Instruction set simulator;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;GNOME;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;Test automation;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Test automation;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Test automation;debugger;Software;2;Software;2
-Category Match;0.1111111111111111;Source code;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Source code;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Source code;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Source code;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Source code;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Source code;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;State (computer science);debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;State (computer science);debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Assignment (computer science);debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Unit testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Unit testing;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Unit testing;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Unit testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Source code;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Source code;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Source code;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Source code;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Source code;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Source code;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Pair programming;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Pair programming;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Pair programming;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Logic error;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Logic error;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Logic error;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Logic error;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Logic error;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Logic error;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Logic error;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Logic error;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Subroutine;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Subroutine;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Subroutine;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Subroutine;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Subroutine;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Subroutine;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Subroutine;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Subroutine;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Subroutine;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Subroutine;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Subroutine;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Subroutine;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Subroutine;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Subroutine;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Subroutine;debugger;Computer programming;2;Computer programming;1
-Category Match;0.1111111111111111;Library (computing);debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Library (computing);debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Library (computing);debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Library (computing);debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Library (computing);debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Library (computing);debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Library (computing);debugger;System software;2;System software;2
-Category Match;0.1111111111111111;Development speed;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Development speed;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Development speed;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Development speed;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Development speed;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Development speed;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Development speed;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Development speed;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Unit testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Unit testing;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Unit testing;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Unit testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.2222222222222222;Computer program;debugger;Computer programming;0;Computer programming;2
-Category Match;0.2222222222222222;Computer program;debugger;Computer programming;0;Computer programming;2
-Category Match;0.3333333333333333;Computer program;debugger;Computer programming;0;Computer programming;1
-Category Match;0.1111111111111111;Computer program;debugger;Computers;1;Computers;2
-Category Match;0.1111111111111111;Computer program;debugger;Software development;1;Software development;2
-Category Match;0.4444444444444444;Computer program;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Computer program;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Computer program;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Computer program;debugger;Software;2;Software;2
-Category Match;0.2222222222222222;Computer program;debugger;Software;0;Software;2
-Category Match;0.6666666666666666;Debugger;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Debugger;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Debugger;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Debugger;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Debugger;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Debugger;debugger;Application software;2;Application software;2
-Category Match;0.3333333333333333;Debugger;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Debugger;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Debugger;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Debugger;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Debugger;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Debugger;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Debugger;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Debugger;debugger;Software engineering;2;Software engineering;2
-Category Match;0.6666666666666666;Debugger;debugger;Utility software types;0;Utility software types;0
-Category Match;0.5555555555555556;Debugger;debugger;Utility software;1;Utility software;1
-Category Match;0.4444444444444444;Debugger;debugger;System software;2;System software;2
-Category Match;0.7777777777777778;Memory protection;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.3333333333333333;Program animation;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Program animation;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Program animation;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Program animation;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Program animation;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Program animation;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Program animation;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Program animation;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Program animation;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Program animation;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Program animation;debugger;Software;2;Software;2
-Category Match;0.6666666666666666;Debugger;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Debugger;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Debugger;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Debugger;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Debugger;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Debugger;debugger;Application software;2;Application software;2
-Category Match;0.3333333333333333;Debugger;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Debugger;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Debugger;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Debugger;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Debugger;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Debugger;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Debugger;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Debugger;debugger;Software engineering;2;Software engineering;2
-Category Match;0.6666666666666666;Debugger;debugger;Utility software types;0;Utility software types;0
-Category Match;0.5555555555555556;Debugger;debugger;Utility software;1;Utility software;1
-Category Match;0.4444444444444444;Debugger;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;Trap flag;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Trap flag;debugger;Computers;2;Computers;2
-Category Match;0.3333333333333333;Trap flag;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Trap flag;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Trap flag;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Trap flag;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Trap flag;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Trap flag;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Trap flag;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Trap flag;debugger;Software engineering;2;Software engineering;2
-Category Match;0.3333333333333333;Core dump;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Core dump;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Core dump;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Core dump;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Core dump;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Core dump;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Core dump;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Core dump;debugger;Software engineering;2;Software engineering;2
-Category Match;0.6666666666666666;Kernel debugger;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Kernel debugger;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Kernel debugger;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Kernel debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Kernel debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Kernel debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Kernel debugger;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Kernel debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Kernel debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Kernel debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Kernel debugger;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Kernel debugger;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Kernel debugger;debugger;Computers;2;Computers;2
-Category Match;0.3333333333333333;Memory debugger;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Memory debugger;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Memory debugger;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Memory debugger;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Memory debugger;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Memory debugger;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Memory debugger;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Memory debugger;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Data file;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Data file;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Data file;debugger;Computer programming;2;Computer programming;1
-Category Match;0.6666666666666666;Debugger;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Debugger;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Debugger;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Debugger;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Debugger;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Debugger;debugger;Application software;2;Application software;2
-Category Match;0.3333333333333333;Debugger;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Debugger;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Debugger;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Debugger;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Debugger;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Debugger;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Debugger;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Debugger;debugger;Software engineering;2;Software engineering;2
-Category Match;0.6666666666666666;Debugger;debugger;Utility software types;0;Utility software types;0
-Category Match;0.5555555555555556;Debugger;debugger;Utility software;1;Utility software;1
-Category Match;0.4444444444444444;Debugger;debugger;System software;2;System software;2
-Category Match;0.2222222222222222;Software;debugger;Software;0;Software;2
-Category Match;0.1111111111111111;Mobile device;debugger;Computers;1;Computers;2
-Category Match;0.4444444444444444;Mobile device;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Mobile device;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Mobile device;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Mobile device;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Security testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Security testing;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Security testing;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Exploratory testing;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Exploratory testing;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Exploratory testing;debugger;Software;2;Software;2
-Category Match;0.1111111111111111;Mobile app;debugger;Software;1;Software;2
-Category Match;0.4444444444444444;Mobile app;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;Mobile app;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Mobile app;debugger;System software;2;System software;2
-Category Match;0.1111111111111111;Mobile app;debugger;Application software;1;Application software;2
-Category Match;0.4444444444444444;Mobile app;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Mobile app;debugger;Software;2;Software;2
-Category Match;0.6666666666666666;GNU Debugger;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;GNU Debugger;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;GNU Debugger;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;GNU Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;GNU Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;GNU Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;GNU Debugger;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;GNU Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;GNU Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;GNU Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;GNU Debugger;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;GNU Debugger;debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;GNU Debugger;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;GNU Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;GNU Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;GNU Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;GNU Debugger;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;GNU Debugger;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Ceridian;debugger;Application software;2;Application software;2
-Category Match;0.1111111111111111;Code review;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Code review;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Code review;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Code review;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Code review;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Code review;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Code review;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Line number;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Line number;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Line number;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Line number;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Line number;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Line number;debugger;Software engineering;2;Software engineering;2
-Category Match;0.7777777777777778;Line number;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.6666666666666666;Dynamic debugging technique;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Dynamic debugging technique;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Dynamic debugging technique;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Dynamic debugging technique;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Dynamic debugging technique;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Dynamic debugging technique;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Dynamic debugging technique;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Dynamic debugging technique;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Dynamic debugging technique;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Dynamic debugging technique;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Dynamic debugging technique;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Dynamic debugging technique;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Twitter;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Twitter;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Twitter;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Twitter;debugger;Software;2;Software;2
-Category Match;0.1111111111111111;Iteration;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Iteration;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Iteration;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Iteration;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Iteration;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Iteration;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Iteration;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Iteration;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Iteration;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Toolbar;debugger;System software;2;System software;2
-Category Match;0.1111111111111111;Iteration;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Iteration;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Iteration;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Iteration;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Iteration;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Iteration;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Iteration;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Iteration;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Iteration;debugger;Computer programming;2;Computer programming;1
-Category Match;0.1111111111111111;Iteration;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Iteration;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Iteration;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Iteration;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Iteration;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Iteration;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Iteration;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Iteration;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Iteration;debugger;Computer programming;2;Computer programming;1
-Category Match;0.1111111111111111;Iteration;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Iteration;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Iteration;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Iteration;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Iteration;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Iteration;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Iteration;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Iteration;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Iteration;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Central processing unit;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Central processing unit;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Central processing unit;debugger;Computers;2;Computers;2
-Category Match;0.1111111111111111;Central processing unit;debugger;Computers;1;Computers;2
-Category Match;0.2222222222222222;Computer program;debugger;Computer programming;0;Computer programming;2
-Category Match;0.2222222222222222;Computer program;debugger;Computer programming;0;Computer programming;2
-Category Match;0.3333333333333333;Computer program;debugger;Computer programming;0;Computer programming;1
-Category Match;0.1111111111111111;Computer program;debugger;Computers;1;Computers;2
-Category Match;0.1111111111111111;Computer program;debugger;Software development;1;Software development;2
-Category Match;0.4444444444444444;Computer program;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Computer program;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Computer program;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Computer program;debugger;Software;2;Software;2
-Category Match;0.2222222222222222;Computer program;debugger;Software;0;Software;2
-Category Match;0.6666666666666666;Valgrind;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Valgrind;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Valgrind;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Valgrind;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Valgrind;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Valgrind;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Valgrind;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Valgrind;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Valgrind;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Valgrind;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Valgrind;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Valgrind;debugger;Application software;2;Application software;2
-Category Match;0.8888888888888888;Valgrind;debugger;Debuggers;1;Debuggers;0
-Category Match;0.7777777777777778;Valgrind;debugger;Debugging;2;Debugging;1
-Category Match;1.0;Valgrind;debugger;Debugging;2;Debugging;0
-Category Match;0.7777777777777778;Valgrind;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Valgrind;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Valgrind;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.5555555555555556;Valgrind;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Valgrind;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Valgrind;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Valgrind;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Valgrind;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Valgrind;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Valgrind;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Valgrind;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Valgrind;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Valgrind;debugger;Software engineering;2;Software engineering;2
-Category Match;0.5555555555555556;Valgrind;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Valgrind;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Valgrind;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Valgrind;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Valgrind;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Valgrind;debugger;Application software;2;Application software;2
-Category Match;0.6666666666666666;WinDbg;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;WinDbg;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;WinDbg;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;WinDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;WinDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;WinDbg;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;WinDbg;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;WinDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;WinDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;WinDbg;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;WinDbg;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;WinDbg;debugger;Application software;2;Application software;2
-Category Match;0.6666666666666666;DBG;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;DBG;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;DBG;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;DBG;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;DBG;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;DBG;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;DBG;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;DBG;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;DBG;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;DBG;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;DBG;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;DBG;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;DBG;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;MacsBug;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;MacsBug;debugger;Software;2;Software;2
-Category Match;0.6666666666666666;MacsBug;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;MacsBug;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;MacsBug;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;MacsBug;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;MacsBug;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;MacsBug;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;MacsBug;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;MacsBug;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;MacsBug;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;MacsBug;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;MacsBug;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;MacsBug;debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;MacsBug;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;MacsBug;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;MacsBug;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;MacsBug;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;MacsBug;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;MacsBug;debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;MacsBug;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;MacsBug;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;MacsBug;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;MacsBug;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;MacsBug;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;MacsBug;debugger;Application software;2;Application software;2
-Category Match;0.6666666666666666;OllyDbg;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;OllyDbg;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;OllyDbg;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;OllyDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;OllyDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;OllyDbg;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;OllyDbg;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;OllyDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;OllyDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;OllyDbg;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;OllyDbg;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;OllyDbg;debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;OllyDbg;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;OllyDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;OllyDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;OllyDbg;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;OllyDbg;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;OllyDbg;debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;OllyDbg;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;OllyDbg;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;OllyDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;OllyDbg;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;OllyDbg;debugger;Computer programming;2;Computer programming;1
-Category Match;0.6666666666666666;Nemiver;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Nemiver;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Nemiver;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Nemiver;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Nemiver;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Nemiver;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Nemiver;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Nemiver;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Nemiver;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Nemiver;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Nemiver;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Nemiver;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Nemiver;debugger;Software;2;Software;2
-Category Match;0.7777777777777778;Code::Blocks;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Code::Blocks;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Code::Blocks;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Code::Blocks;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.4444444444444444;Code::Blocks;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Code::Blocks;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Facebook;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Facebook;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Facebook;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Facebook;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Facebook;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Facebook;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Facebook;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Facebook;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Facebook;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;YouTube;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;YouTube;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;YouTube;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;YouTube;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Foreach loop;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Foreach loop;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Foreach loop;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Foreach loop;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Microsoft;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Microsoft;debugger;Computers;2;Computers;2
-Category Match;0.1111111111111111;Microsoft;debugger;Computers;1;Computers;2
-Category Match;0.1111111111111111;Workaround;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Workaround;debugger;Software;2;Software;2
-Category Match;0.1111111111111111;Workaround;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Workaround;debugger;Software;2;Software;2
-Category Match;0.1111111111111111;Workaround;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Workaround;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Workaround;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Workaround;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Workaround;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Workaround;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Workaround;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Login;debugger;Software;1;Software;2
-Category Match;0.4444444444444444;JUnit;debugger;Software;2;Software;2
-Category Match;0.5555555555555556;JUnit;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;JUnit;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JUnit;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JUnit;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;JUnit;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;JUnit;debugger;Application software;2;Application software;2
-Category Match;0.7777777777777778;JUnit;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.4444444444444444;JUnit;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;JUnit;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;JUnit;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Lenovo;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Lenovo;debugger;Computers;2;Computers;2
-Category Match;0.1111111111111111;Lenovo;debugger;Computers;1;Computers;2
-Category Match;0.4444444444444444;Autodesk;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Podcast;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Podcast;debugger;Software engineering;2;Software engineering;2
-Category Match;0.1111111111111111;Requirement;debugger;Software engineering;1;Software engineering;2
-Category Match;0.4444444444444444;Requirement;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Web page;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Web page;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Web page;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Web page;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Microservices;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Microservices;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Microservices;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Microservices;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Microservices;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Microservices;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Microservices;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Eclipse Che;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Application software;2;Application software;2
-Category Match;0.6666666666666666;Eclipse Che;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Eclipse Che;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Eclipse Che;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Eclipse Che;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Application software;2;Application software;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Software;2;Software;2
-Category Match;0.5555555555555556;Eclipse Che;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;Eclipse Che;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Application software;2;Application software;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.5555555555555556;Eclipse Che;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Software;2;Software;2
-Category Match;0.5555555555555556;Eclipse Che;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;Eclipse Che;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Application software;2;Application software;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Eclipse Che;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Eclipse Che;debugger;Computer programming;2;Computer programming;1
-Category Match;0.7777777777777778;SCons;debugger;Computer programming tools;2;Computer programming tools;1
-Category Match;0.5555555555555556;SCons;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;SCons;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;SCons;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;SCons;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;SCons;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;SCons;debugger;Application software;2;Application software;2
-Category Match;0.5555555555555556;SCons;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;SCons;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;SCons;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;SCons;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;SCons;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;SCons;debugger;Application software;2;Application software;2
-Category Match;0.6666666666666666;Debugger;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Debugger;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Debugger;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Debugger;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugger;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugger;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Debugger;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Debugger;debugger;Application software;2;Application software;2
-Category Match;0.3333333333333333;Debugger;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Debugger;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Debugger;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Debugger;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Debugger;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Debugger;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Debugger;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Debugger;debugger;Software engineering;2;Software engineering;2
-Category Match;0.6666666666666666;Debugger;debugger;Utility software types;0;Utility software types;0
-Category Match;0.5555555555555556;Debugger;debugger;Utility software;1;Utility software;1
-Category Match;0.4444444444444444;Debugger;debugger;System software;2;System software;2
-Category Match;0.4444444444444444;Contact page;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Contact page;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;MediaWiki;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;MediaWiki;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;MediaWiki;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;MediaWiki;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;MediaWiki;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;MediaWiki;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;MediaWiki;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;MediaWiki;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;MediaWiki;debugger;Application software;2;Application software;2
-Category Match;0.4444444444444444;MediaWiki;debugger;Software engineering;2;Software engineering;2
-Category Match;0.4444444444444444;Printer-friendly;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Printer-friendly;debugger;Software engineering;2;Software engineering;2
-Category Match;0.6666666666666666;Debugging;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Debugging;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Debugging;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Debugging;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugging;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugging;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Debugging;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Debugging;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugging;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugging;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Debugging;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Debugging;debugger;Application software;2;Application software;2
-Category Match;0.3333333333333333;Debugging;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Debugging;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Debugging;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Debugging;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Debugging;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Debugging;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Debugging;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Debugging;debugger;Software engineering;2;Software engineering;2
-Category Match;0.6666666666666666;Debugging;debugger;Debuggers;0;Debuggers;0
-Category Match;0.5555555555555556;Debugging;debugger;Debugging;1;Debugging;1
-Category Match;0.8888888888888888;Debugging;debugger;Debugging;1;Debugging;0
-Category Match;0.4444444444444444;Debugging;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugging;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugging;debugger;Computer programming;2;Computer programming;1
-Category Match;0.5555555555555556;Debugging;debugger;Computer programming tools;1;Computer programming tools;1
-Category Match;0.4444444444444444;Debugging;debugger;Computer programming;2;Computer programming;2
-Category Match;0.4444444444444444;Debugging;debugger;Computer programming;2;Computer programming;2
-Category Match;0.7777777777777778;Debugging;debugger;Computer programming;2;Computer programming;1
-Category Match;0.4444444444444444;Debugging;debugger;Software;2;Software;2
-Category Match;0.4444444444444444;Debugging;debugger;Application software;2;Application software;2
-Category Match;0.3333333333333333;Debugging;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Debugging;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Debugging;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Debugging;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Debugging;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Debugging;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Debugging;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Debugging;debugger;Software engineering;2;Software engineering;2
-Category Match;0.3333333333333333;Breakpoint;debugger;Debugging;0;Debugging;1
-Category Match;0.6666666666666666;Breakpoint;debugger;Debugging;0;Debugging;0
-Category Match;0.1111111111111111;Breakpoint;debugger;Computer programming;1;Computer programming;2
-Category Match;0.1111111111111111;Breakpoint;debugger;Computer programming;1;Computer programming;2
-Category Match;0.5555555555555556;Breakpoint;debugger;Computer programming;1;Computer programming;1
-Category Match;0.4444444444444444;Breakpoint;debugger;Computers;2;Computers;2
-Category Match;0.4444444444444444;Breakpoint;debugger;Software development;2;Software development;2
-Category Match;0.4444444444444444;Breakpoint;debugger;Software engineering;2;Software engineering;2
+Category Match;0.1111111111111111;Rational number;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.1111111111111111;Rational number;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.4444444444444444;Rational number;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Rational number;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.7777777777777778;Rational number;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Rational number;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.7777777777777778;Rational number;algebraic_function;Real analysis;2;Real analysis;1
+Category Match;0.4444444444444444;Rational number;algebraic_function;Real analysis;2;Real analysis;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Constant function;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.1111111111111111;Constant function;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.8888888888888888;Constant function;algebraic_function;Special functions;1;Special functions;0
+Category Match;0.7777777777777778;Constant function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.4444444444444444;Constant function;algebraic_function;Types of functions;2;Types of functions;2
+Category Match;0.7777777777777778;Constant function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.7777777777777778;Constant function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;1.0;Constant function;algebraic_function;Types of functions;2;Types of functions;0
+Category Match;0.7777777777777778;Constant function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Constant function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Constant function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Constant function;algebraic_function;Combinatorics;2;Combinatorics;1
+Category Match;0.7777777777777778;Constant function;algebraic_function;Lie groups;2;Lie groups;1
+Category Match;0.1111111111111111;Constant function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.8888888888888888;Constant function;algebraic_function;Functions and mappings;1;Functions and mappings;0
+Category Match;0.1111111111111111;Constant function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.1111111111111111;Constant function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.5555555555555556;Constant function;algebraic_function;Functions and mappings;1;Functions and mappings;1
+Category Match;0.7777777777777778;Constant function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Constant function;algebraic_function;Mathematical relations;2;Mathematical relations;1
+Category Match;0.4444444444444444;Constant function;algebraic_function;Mathematical relations;2;Mathematical relations;2
+Category Match;0.8888888888888888;Constant function;algebraic_function;Analytic functions;1;Analytic functions;0
+Category Match;0.7777777777777778;Constant function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.4444444444444444;Constant function;algebraic_function;Types of functions;2;Types of functions;2
+Category Match;0.7777777777777778;Constant function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.7777777777777778;Constant function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;1.0;Constant function;algebraic_function;Types of functions;2;Types of functions;0
+Category Match;0.7777777777777778;Constant function;algebraic_function;Real analysis;2;Real analysis;1
+Category Match;0.4444444444444444;Constant function;algebraic_function;Real analysis;2;Real analysis;2
+Category Match;0.7777777777777778;Constant function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Constant function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Constant function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Constant function;algebraic_function;Smooth functions;2;Smooth functions;1
+Category Match;0.5555555555555556;Constant function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.1111111111111111;Constant function;algebraic_function;Types of functions;1;Types of functions;2
+Category Match;0.5555555555555556;Constant function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.5555555555555556;Constant function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.8888888888888888;Constant function;algebraic_function;Types of functions;1;Types of functions;0
+Category Match;0.4444444444444444;Constant function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;1.0;Constant function;algebraic_function;Functions and mappings;2;Functions and mappings;0
+Category Match;0.4444444444444444;Constant function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.4444444444444444;Constant function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.7777777777777778;Constant function;algebraic_function;Functions and mappings;2;Functions and mappings;1
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Quadratic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.8888888888888888;Quadratic function;algebraic_function;Functions and mappings;1;Functions and mappings;0
+Category Match;0.1111111111111111;Quadratic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.1111111111111111;Quadratic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.5555555555555556;Quadratic function;algebraic_function;Functions and mappings;1;Functions and mappings;1
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Mathematical relations;2;Mathematical relations;1
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Mathematical relations;2;Mathematical relations;2
+Category Match;0.8888888888888888;Quadratic function;algebraic_function;Analytic functions;1;Analytic functions;0
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Types of functions;2;Types of functions;2
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;1.0;Quadratic function;algebraic_function;Types of functions;2;Types of functions;0
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Real analysis;2;Real analysis;1
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Real analysis;2;Real analysis;2
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Smooth functions;2;Smooth functions;1
+Category Match;0.5555555555555556;Quadratic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.1111111111111111;Quadratic function;algebraic_function;Types of functions;1;Types of functions;2
+Category Match;0.5555555555555556;Quadratic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.5555555555555556;Quadratic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.8888888888888888;Quadratic function;algebraic_function;Types of functions;1;Types of functions;0
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;1.0;Quadratic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.7777777777777778;Quadratic function;algebraic_function;Functions and mappings;2;Functions and mappings;1
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Algebraic curves;2;Algebraic curves;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Quadratic function;algebraic_function;Manifolds;2;Manifolds;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.5555555555555556;Cubic function;algebraic_function;Mathematical objects;1;Mathematical objects;1
+Category Match;0.1111111111111111;Cubic function;algebraic_function;Mathematical objects;1;Mathematical objects;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Philosophy of mathematics;2;Philosophy of mathematics;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.1111111111111111;Cubic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.8888888888888888;Cubic function;algebraic_function;Functions and mappings;1;Functions and mappings;0
+Category Match;0.1111111111111111;Cubic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.1111111111111111;Cubic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.5555555555555556;Cubic function;algebraic_function;Functions and mappings;1;Functions and mappings;1
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Mathematical relations;2;Mathematical relations;1
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Mathematical relations;2;Mathematical relations;2
+Category Match;0.8888888888888888;Cubic function;algebraic_function;Analytic functions;1;Analytic functions;0
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Types of functions;2;Types of functions;2
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;1.0;Cubic function;algebraic_function;Types of functions;2;Types of functions;0
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Real analysis;2;Real analysis;1
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Real analysis;2;Real analysis;2
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Smooth functions;2;Smooth functions;1
+Category Match;0.5555555555555556;Cubic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.1111111111111111;Cubic function;algebraic_function;Types of functions;1;Types of functions;2
+Category Match;0.5555555555555556;Cubic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.5555555555555556;Cubic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.8888888888888888;Cubic function;algebraic_function;Types of functions;1;Types of functions;0
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;1.0;Cubic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.4444444444444444;Cubic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.7777777777777778;Cubic function;algebraic_function;Functions and mappings;2;Functions and mappings;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.5555555555555556;Quartic function;algebraic_function;Mathematical objects;1;Mathematical objects;1
+Category Match;0.1111111111111111;Quartic function;algebraic_function;Mathematical objects;1;Mathematical objects;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Philosophy of mathematics;2;Philosophy of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.1111111111111111;Quartic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.8888888888888888;Quartic function;algebraic_function;Functions and mappings;1;Functions and mappings;0
+Category Match;0.1111111111111111;Quartic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.1111111111111111;Quartic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.5555555555555556;Quartic function;algebraic_function;Functions and mappings;1;Functions and mappings;1
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Mathematical relations;2;Mathematical relations;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical relations;2;Mathematical relations;2
+Category Match;0.8888888888888888;Quartic function;algebraic_function;Analytic functions;1;Analytic functions;0
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Types of functions;2;Types of functions;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;1.0;Quartic function;algebraic_function;Types of functions;2;Types of functions;0
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Real analysis;2;Real analysis;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Real analysis;2;Real analysis;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Smooth functions;2;Smooth functions;1
+Category Match;0.5555555555555556;Quartic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.1111111111111111;Quartic function;algebraic_function;Types of functions;1;Types of functions;2
+Category Match;0.5555555555555556;Quartic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.5555555555555556;Quartic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.8888888888888888;Quartic function;algebraic_function;Types of functions;1;Types of functions;0
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;1.0;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;1
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.5555555555555556;Quintic function;algebraic_function;Mathematical objects;1;Mathematical objects;1
+Category Match;0.1111111111111111;Quintic function;algebraic_function;Mathematical objects;1;Mathematical objects;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Philosophy of mathematics;2;Philosophy of mathematics;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.1111111111111111;Quintic function;algebraic_function;Group theory;1;Group theory;2
+Category Match;0.1111111111111111;Quintic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.8888888888888888;Quintic function;algebraic_function;Functions and mappings;1;Functions and mappings;0
+Category Match;0.1111111111111111;Quintic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.1111111111111111;Quintic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.5555555555555556;Quintic function;algebraic_function;Functions and mappings;1;Functions and mappings;1
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Mathematical relations;2;Mathematical relations;1
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Mathematical relations;2;Mathematical relations;2
+Category Match;0.8888888888888888;Quintic function;algebraic_function;Analytic functions;1;Analytic functions;0
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Types of functions;2;Types of functions;2
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;1.0;Quintic function;algebraic_function;Types of functions;2;Types of functions;0
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Real analysis;2;Real analysis;1
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Real analysis;2;Real analysis;2
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Smooth functions;2;Smooth functions;1
+Category Match;0.5555555555555556;Quintic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.1111111111111111;Quintic function;algebraic_function;Types of functions;1;Types of functions;2
+Category Match;0.5555555555555556;Quintic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.5555555555555556;Quintic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.8888888888888888;Quintic function;algebraic_function;Types of functions;1;Types of functions;0
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;1.0;Quintic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.4444444444444444;Quintic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.7777777777777778;Quintic function;algebraic_function;Functions and mappings;2;Functions and mappings;1
+Category Match;0.8888888888888888;Cube root;algebraic_function;Special functions;1;Special functions;0
+Category Match;0.7777777777777778;Cube root;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.4444444444444444;Cube root;algebraic_function;Types of functions;2;Types of functions;2
+Category Match;0.7777777777777778;Cube root;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.7777777777777778;Cube root;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;1.0;Cube root;algebraic_function;Types of functions;2;Types of functions;0
+Category Match;0.7777777777777778;Cube root;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Cube root;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Cube root;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Cube root;algebraic_function;Combinatorics;2;Combinatorics;1
+Category Match;0.7777777777777778;Cube root;algebraic_function;Lie groups;2;Lie groups;1
+Category Match;0.4444444444444444;Cube root;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Cube root;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Cube root;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Cube root;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.1111111111111111;Quantity;algebraic_function;Mathematical concepts;1;Mathematical concepts;2
+Category Match;0.1111111111111111;Quantity;algebraic_function;Mathematical concepts;1;Mathematical concepts;2
+Category Match;0.7777777777777778;Real number;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Real number;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.7777777777777778;Real number;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Real number;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Real number;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.5555555555555556;Real number;algebraic_function;Real analysis;1;Real analysis;1
+Category Match;0.1111111111111111;Real number;algebraic_function;Real analysis;1;Real analysis;2
+Category Match;0.4444444444444444;Real number;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Real number;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Real number;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Real number;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Real number;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Real number;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Real number;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Real number;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.1111111111111111;Real number;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.1111111111111111;Calibration curve;algebraic_function;Analysis;1;Analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.5555555555555556;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;1
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Analysis;2;Analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.8888888888888888;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;0
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.5555555555555556;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;1
+Category Match;0.7777777777777778;Monotonic function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Monotonic function;algebraic_function;Mathematical relations;2;Mathematical relations;1
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical relations;2;Mathematical relations;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.3333333333333333;Monotonic function;algebraic_function;Real analysis;0;Real analysis;1
+Category Match;0.2222222222222222;Monotonic function;algebraic_function;Real analysis;0;Real analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.5555555555555556;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;1
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Mathematical analysis;1;Mathematical analysis;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Analysis;2;Analysis;2
+Category Match;0.3333333333333333;Monotonic function;algebraic_function;Types of functions;0;Types of functions;1
+Category Match;0.2222222222222222;Monotonic function;algebraic_function;Types of functions;0;Types of functions;2
+Category Match;0.3333333333333333;Monotonic function;algebraic_function;Types of functions;0;Types of functions;1
+Category Match;0.3333333333333333;Monotonic function;algebraic_function;Types of functions;0;Types of functions;1
+Category Match;0.6666666666666666;Monotonic function;algebraic_function;Types of functions;0;Types of functions;0
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.8888888888888888;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;0
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.1111111111111111;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.5555555555555556;Monotonic function;algebraic_function;Functions and mappings;1;Functions and mappings;1
+Category Match;0.7777777777777778;Monotonic function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Monotonic function;algebraic_function;Mathematical relations;2;Mathematical relations;1
+Category Match;0.4444444444444444;Monotonic function;algebraic_function;Mathematical relations;2;Mathematical relations;2
+Category Match;0.4444444444444444;Sine wave;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Sine wave;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;1.0;Sine wave;algebraic_function;Special functions;2;Special functions;0
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.5555555555555556;Quartic function;algebraic_function;Mathematical objects;1;Mathematical objects;1
+Category Match;0.1111111111111111;Quartic function;algebraic_function;Mathematical objects;1;Mathematical objects;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Philosophy of mathematics;2;Philosophy of mathematics;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.1111111111111111;Quartic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.8888888888888888;Quartic function;algebraic_function;Functions and mappings;1;Functions and mappings;0
+Category Match;0.1111111111111111;Quartic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.1111111111111111;Quartic function;algebraic_function;Functions and mappings;1;Functions and mappings;2
+Category Match;0.5555555555555556;Quartic function;algebraic_function;Functions and mappings;1;Functions and mappings;1
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Mathematical relations;2;Mathematical relations;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Mathematical relations;2;Mathematical relations;2
+Category Match;0.8888888888888888;Quartic function;algebraic_function;Analytic functions;1;Analytic functions;0
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Types of functions;2;Types of functions;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;1.0;Quartic function;algebraic_function;Types of functions;2;Types of functions;0
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Real analysis;2;Real analysis;1
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Real analysis;2;Real analysis;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Complex analysis;2;Complex analysis;1
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Smooth functions;2;Smooth functions;1
+Category Match;0.5555555555555556;Quartic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.1111111111111111;Quartic function;algebraic_function;Types of functions;1;Types of functions;2
+Category Match;0.5555555555555556;Quartic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.5555555555555556;Quartic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.8888888888888888;Quartic function;algebraic_function;Types of functions;1;Types of functions;0
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;1.0;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.4444444444444444;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.7777777777777778;Quartic function;algebraic_function;Functions and mappings;2;Functions and mappings;1
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Algebraic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.5555555555555556;Algebraic equation;algebraic_function;Mathematical objects;1;Mathematical objects;1
+Category Match;0.1111111111111111;Algebraic equation;algebraic_function;Mathematical objects;1;Mathematical objects;2
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Philosophy of mathematics;2;Philosophy of mathematics;2
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Algebraic equation;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Line (geometry);algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Line (geometry);algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Line (geometry);algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Line (geometry);algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Line (geometry);algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Line (geometry);algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.2222222222222222;Line (geometry);algebraic_function;Mathematical concepts;0;Mathematical concepts;2
+Category Match;0.2222222222222222;Line (geometry);algebraic_function;Mathematical concepts;0;Mathematical concepts;2
+Category Match;0.4444444444444444;Line (geometry);algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Sextic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.5555555555555556;Sextic equation;algebraic_function;Mathematical objects;1;Mathematical objects;1
+Category Match;0.1111111111111111;Sextic equation;algebraic_function;Mathematical objects;1;Mathematical objects;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Philosophy of mathematics;2;Philosophy of mathematics;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Sextic equation;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.1111111111111111;Sextic equation;algebraic_function;Group theory;1;Group theory;2
+Category Match;0.3333333333333333;Smoothness;algebraic_function;Smooth functions;0;Smooth functions;1
+Category Match;0.5555555555555556;Smoothness;algebraic_function;Real analysis;1;Real analysis;1
+Category Match;0.1111111111111111;Smoothness;algebraic_function;Real analysis;1;Real analysis;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Smoothness;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.1111111111111111;Smoothness;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.5555555555555556;Smoothness;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.1111111111111111;Smoothness;algebraic_function;Types of functions;1;Types of functions;2
+Category Match;0.5555555555555556;Smoothness;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.5555555555555556;Smoothness;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.8888888888888888;Smoothness;algebraic_function;Types of functions;1;Types of functions;0
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;1.0;Smoothness;algebraic_function;Functions and mappings;2;Functions and mappings;0
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.4444444444444444;Smoothness;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.7777777777777778;Smoothness;algebraic_function;Functions and mappings;2;Functions and mappings;1
+Category Match;0.1111111111111111;Smoothness;algebraic_function;Differential structures;1;Differential structures;2
+Category Match;0.1111111111111111;Smoothness;algebraic_function;Differential calculus;1;Differential calculus;2
+Category Match;0.1111111111111111;Bathtub curve;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.1111111111111111;Bathtub curve;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.4444444444444444;Bathtub curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Bathtub curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Bathtub curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Bathtub curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Bathtub curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Bathtub curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Bathtub curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Bathtub curve;algebraic_function;Manifolds;1;Manifolds;2
+Category Match;0.4444444444444444;Bathtub curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Bathtub curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.7777777777777778;Bathtub curve;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Bathtub curve;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.7777777777777778;Normal distribution;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.4444444444444444;Normal distribution;algebraic_function;Types of functions;2;Types of functions;2
+Category Match;0.7777777777777778;Normal distribution;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;0.7777777777777778;Normal distribution;algebraic_function;Types of functions;2;Types of functions;1
+Category Match;1.0;Normal distribution;algebraic_function;Types of functions;2;Types of functions;0
+Category Match;0.1111111111111111;Fish curve;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.1111111111111111;Fish curve;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.4444444444444444;Fish curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Fish curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Fish curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Fish curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Fish curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Fish curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Fish curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Fish curve;algebraic_function;Manifolds;1;Manifolds;2
+Category Match;0.4444444444444444;Fish curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Fish curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.7777777777777778;Fish curve;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Fish curve;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.1111111111111111;Gompertz function;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.1111111111111111;Gompertz function;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.4444444444444444;Gompertz function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Gompertz function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Gompertz function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Gompertz function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Gompertz function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Gompertz function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Gompertz function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Gompertz function;algebraic_function;Manifolds;1;Manifolds;2
+Category Match;0.4444444444444444;Gompertz function;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Gompertz function;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.7777777777777778;Gompertz function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Gompertz function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.5555555555555556;Hubbert curve;algebraic_function;Mathematical objects;1;Mathematical objects;1
+Category Match;0.1111111111111111;Hubbert curve;algebraic_function;Mathematical objects;1;Mathematical objects;2
+Category Match;0.4444444444444444;Hubbert curve;algebraic_function;Philosophy of mathematics;2;Philosophy of mathematics;2
+Category Match;0.4444444444444444;Hubbert curve;algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.4444444444444444;Hubbert curve;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Hubbert curve;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Hubbert curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Hubbert curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Hubbert curve;algebraic_function;Manifolds;2;Manifolds;2
+Category Match;0.1111111111111111;Learning curve;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.1111111111111111;Learning curve;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.4444444444444444;Learning curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Learning curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Learning curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Learning curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Learning curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Learning curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Learning curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Learning curve;algebraic_function;Manifolds;1;Manifolds;2
+Category Match;0.4444444444444444;Learning curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Learning curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.7777777777777778;Learning curve;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Learning curve;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.6666666666666666;Logistic function;algebraic_function;Special functions;0;Special functions;0
+Category Match;0.5555555555555556;Logistic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.1111111111111111;Logistic function;algebraic_function;Types of functions;1;Types of functions;2
+Category Match;0.5555555555555556;Logistic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.5555555555555556;Logistic function;algebraic_function;Types of functions;1;Types of functions;1
+Category Match;0.8888888888888888;Logistic function;algebraic_function;Types of functions;1;Types of functions;0
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;1.0;Logistic function;algebraic_function;Functions and mappings;2;Functions and mappings;0
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Functions and mappings;2;Functions and mappings;2
+Category Match;0.7777777777777778;Logistic function;algebraic_function;Functions and mappings;2;Functions and mappings;1
+Category Match;0.5555555555555556;Logistic function;algebraic_function;Complex analysis;1;Complex analysis;1
+Category Match;0.5555555555555556;Logistic function;algebraic_function;Complex analysis;1;Complex analysis;1
+Category Match;0.5555555555555556;Logistic function;algebraic_function;Complex analysis;1;Complex analysis;1
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.5555555555555556;Logistic function;algebraic_function;Combinatorics;1;Combinatorics;1
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Discrete mathematics;2;Discrete mathematics;2
+Category Match;0.5555555555555556;Logistic function;algebraic_function;Lie groups;1;Lie groups;1
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Topological groups;2;Topological groups;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Manifolds;2;Manifolds;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Group theory;2;Group theory;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Algebraic structures;2;Algebraic structures;2
+Category Match;0.7777777777777778;Logistic function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.1111111111111111;Logistic function;algebraic_function;Differential calculus;1;Differential calculus;2
+Category Match;0.1111111111111111;Logistic function;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.1111111111111111;Logistic function;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Logistic function;algebraic_function;Manifolds;1;Manifolds;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.7777777777777778;Logistic function;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Logistic function;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.2222222222222222;Algebraic curve;algebraic_function;Algebraic curves;0;Algebraic curves;2
+Category Match;0.4444444444444444;Algebraic curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Algebraic curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Algebraic curve;algebraic_function;Manifolds;2;Manifolds;2
+Category Match;0.4444444444444444;Projective variety;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Projective variety;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Algebraic variety;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Algebraic variety;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Two-dimensional space;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Two-dimensional space;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.7777777777777778;Interval (mathematics);algebraic_function;Real analysis;2;Real analysis;1
+Category Match;0.4444444444444444;Interval (mathematics);algebraic_function;Real analysis;2;Real analysis;2
+Category Match;0.1111111111111111;Interval (mathematics);algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.1111111111111111;Interval (mathematics);algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.4444444444444444;Interval (mathematics);algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.1111111111111111;Interval (mathematics);algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.1111111111111111;Interval (mathematics);algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.7777777777777778;Interval (mathematics);algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Interval (mathematics);algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Interval (mathematics);algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Interval (mathematics);algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Interval (mathematics);algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Interval (mathematics);algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Cartesian coordinate system;algebraic_function;Abstraction;2;Abstraction;2
+Category Match;0.1111111111111111;Cartesian coordinate system;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.1111111111111111;Cartesian coordinate system;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.4444444444444444;Cartesian coordinate system;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cartesian coordinate system;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Cartesian coordinate system;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Cartesian coordinate system;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cartesian coordinate system;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cartesian coordinate system;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Cartesian coordinate system;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Cartesian coordinate system;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.1111111111111111;Cartesian coordinate system;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.4444444444444444;Cartesian coordinate system;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Cartesian coordinate system;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Projective variety;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Projective variety;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.1111111111111111;Curve;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.1111111111111111;Curve;algebraic_function;Differential geometry;1;Differential geometry;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.7777777777777778;Curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;1
+Category Match;0.4444444444444444;Curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Mathematical analysis;2;Mathematical analysis;2
+Category Match;0.1111111111111111;Curve;algebraic_function;Manifolds;1;Manifolds;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Differential geometry;2;Differential geometry;2
+Category Match;0.7777777777777778;Curve;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Curve;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.1111111111111111;Curve;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.1111111111111111;Curve;algebraic_function;Fields of mathematics;1;Fields of mathematics;2
+Category Match;0.7777777777777778;Curve;algebraic_function;Mathematical objects;2;Mathematical objects;1
+Category Match;0.4444444444444444;Curve;algebraic_function;Mathematical objects;2;Mathematical objects;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Mathematical concepts;2;Mathematical concepts;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Fields of mathematics;2;Fields of mathematics;2
+Category Match;0.4444444444444444;Curve;algebraic_function;Fields of mathematics;2;Fields of mathematics;2

@@ -133,7 +133,7 @@ public class wikiSegregate
         String head_temp = head_wiki.replaceAll(" " , "_");
         ArrayList<String> head_cat = get_categories(get_cats(head_temp));
 
-        FileReader fr = new FileReader("processedMapped.csv");
+        FileReader fr = new FileReader("processedMappedUpdated.csv");
         BufferedReader br = new BufferedReader(fr);
 
         FileReader fr1 = new FileReader("processedUnmapped.csv");

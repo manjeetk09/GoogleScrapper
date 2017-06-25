@@ -5,7 +5,7 @@ public class testRelationMin
 {
 	public static String getEntity(String startEnt, String entity) throws IOException
 	{
-		FileReader fr = new FileReader("TeKnowbase.tsv");
+		FileReader fr = new FileReader("processedTeKnowbase.tsv");
 		BufferedReader br = new BufferedReader(fr);
 
 		String line = "";
@@ -52,7 +52,7 @@ public class testRelationMin
 			}
 			else
 			{
-				FileReader fr1 = new FileReader("TeKnowbase.tsv");
+				FileReader fr1 = new FileReader("processedTeKnowbase.tsv");
 				BufferedReader br1 = new BufferedReader(fr1);
 
 				boolean flag1 = false;

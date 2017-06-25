@@ -61,6 +61,10 @@ public class TKBProcess
             {
                 fw.write(line1 + "\n");
             }
+            else if(compo[1].contains("relatedTo"))
+            {
+                fw.write(line1 + "\n");
+            }
             else if(compo[1].contains("is "))
             {
                 fw.write(line1 + "\n");

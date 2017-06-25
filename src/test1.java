@@ -1,16 +1,28 @@
 import net.didion.jwnl.data.Exc;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.StandardCopyOption;
 import java.util.Arrays;
 
-/**
- * Created by manjeet on 6/6/17.
- */
 public class test1 {
-    public static void main(String args[]) throws IOException{
+    public static void main(String args[]) throws IOException
+    {
+        String source = "crawler1.txt";
+        String dest = "output/crawler1.txt";
+        File sourceF = new File(source);
+        File destF = new File(dest);
+        if(!destF.exists()){
+            destF.mkdirs();
+        }
+        try {
+            boolean bool = destF.createNewFile();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        Files.copy(sourceF.toPath(), destF.toPath(), StandardCopyOption.REPLACE_EXISTING);
+
+
         //code for running wikipedia api from this project
 //        try {
 //            String command = "mapWiki.py";
@@ -39,8 +51,8 @@ public class test1 {
 //            e.printStackTrace();
 //        }
 
-        testCategory testCat = new testCategory();
-        testCat.testCatFunc("debugger");
+//        testCategory testCat = new testCategory();
+//        testCat.testCatFunc("debugger");
 
 
     }

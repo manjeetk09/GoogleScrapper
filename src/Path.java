@@ -3,9 +3,9 @@ import java.util.*;
 
 public class Path
 {
-    public Boolean getEntity(String startEnt, String entity) throws IOException
+    public String getEntity(String startEnt, String entity) throws IOException
     {
-        FileReader fr = new FileReader("TeKnowbase.tsv");
+        FileReader fr = new FileReader("processedTeKnowbase.tsv");
         BufferedReader br = new BufferedReader(fr);
 
         String line = "";
@@ -16,7 +16,7 @@ public class Path
             {
                 if(compo[2].matches(entity))
                 {
-                    return true;
+                    return compo[1];
                     // System.out.println(line);
                     // break;
                 }
@@ -34,7 +34,7 @@ public class Path
         {
             e.printStackTrace();
         }
-        return false;
+        return null;
     }
 
     public ArrayList<String> getPath(String begin, String end, int c) throws IOException
@@ -42,15 +42,17 @@ public class Path
         ArrayList<String> path = new ArrayList<String>();
         if(c > 0)
         {
-            if(getEntity(begin,end))
+            String resu = getEntity(begin, end);
+            if(resu != null)
             {
                 path.add(begin);
+                path.add(resu);
                 path.add(end);
                 return path;
             }
             else
             {
-                FileReader fr1 = new FileReader("TeKnowbase.tsv");
+                FileReader fr1 = new FileReader("processedTeKnowbase.tsv");
                 BufferedReader br1 = new BufferedReader(fr1);
 
                 String line1 = "";
@@ -65,6 +67,7 @@ public class Path
                         if(temp.size() > 1)
                         {
                             path.add(begin);
+                            path.add(compos[1]);
                             for(int i=0; i<temp.size();i++)
                             {
                                 path.add(temp.get(i));

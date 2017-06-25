@@ -106,15 +106,16 @@ public class temp
 
             //run only one of them: GoogleSearchJava (or) RelationScrapper
             //to run via GoogleSearchJava
-//            boolean is_quick_ans_present = false;
-//            GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-//            is_quick_ans_present = googleSearchJava.googleSearch(searchTerm, search, 0, head_phrase_list);
-//            System.out.println("found quick answer:: " + is_quick_ans_present);
+            boolean is_quick_ans_present = false;
+            GoogleSearchJava googleSearchJava = new GoogleSearchJava();
+            is_quick_ans_present = googleSearchJava.googleSearch(searchTerm, search, 0, head_phrase_list);
+            System.out.println("found quick answer:: " + is_quick_ans_present);
+            System.out.println("google scrapper over");
 
             //to run via RelationScrapper
-            RelationScrapper relationScrapper = new RelationScrapper();
-            relationScrapper.relationFunc(searchTerm, 0, search);
-            System.out.println("relation scrapper over");
+//            RelationScrapper relationScrapper = new RelationScrapper();
+//            relationScrapper.relationFunc(searchTerm, 0, search);
+//            System.out.println("relation scrapper over");
 
             //via Ollie
             parseOllie parseollie = new parseOllie();
@@ -146,15 +147,16 @@ public class temp
 
                 //run only one of them: GoogleSearchJava (or) RelationScrapper
                 //to run via GoogleSearchJava
-//                boolean is_quick_ans_present = false;
-//                GoogleSearchJava googleSearchJava = new GoogleSearchJava();
-//                is_quick_ans_present = googleSearchJava.googleSearch(templates_final.get(i), search, i, head_phrase_list);
-//                System.out.println("found quick answer:: " + is_quick_ans_present);
+                boolean is_quick_ans_present = false;
+                GoogleSearchJava googleSearchJava = new GoogleSearchJava();
+                is_quick_ans_present = googleSearchJava.googleSearch(templates_final.get(i), search, i, head_phrase_list);
+                System.out.println("found quick answer:: " + is_quick_ans_present);
+                System.out.println("google scrapper over");
 
                 //to run via RelationScrapper
-                RelationScrapper relationScrapper = new RelationScrapper();
-                relationScrapper.relationFunc(searchTerm, i, search);
-                System.out.println("relation scrapper over");
+//                RelationScrapper relationScrapper = new RelationScrapper();
+//                relationScrapper.relationFunc(searchTerm, i, search);
+//                System.out.println("relation scrapper over");
 
                 //via Ollie
                 parseOllie parseollie = new parseOllie();
@@ -219,6 +221,12 @@ public class temp
 
         Path path = new Path();
         path.pathFunc(head_entity);
+
+        PathMin pathMin = new PathMin();
+        pathMin.pathMinFunc(head_entity);
+
+        System.out.println("work done");
+        System.out.println("-------------------------------------------------");
 
         wikiSegregate obj1 = new wikiSegregate();
         try

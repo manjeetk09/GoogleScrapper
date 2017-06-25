@@ -16,6 +16,8 @@ import java.util.List;
 
 public class GetCategory{
 
+    ArrayList<String> res1 = new ArrayList<String>();
+
     private Document sendRequest(String url) {
         Document doc = null;
         try {
@@ -158,7 +160,9 @@ public class GetCategory{
         return allCats;
     }
 
-    public ArrayList<String> catgoryScore (String head_phrase, String answer) throws Exception{
+    public ArrayList<String> catgoryScore (String head_phrase1, String answer1) throws Exception{
+        String head_phrase = head_phrase1.toLowerCase();
+        String answer = answer1.toLowerCase();
         String head = head_phrase;
         String head_s = head + "s";
         String head_es = head + "es";
@@ -169,12 +173,12 @@ public class GetCategory{
 //        String stemmed = p.stem(head);
 //        System.out.println("stem: " +
         String[] ans_ent_split = answer.split(" ");
-        ArrayList<Category> c1 = getCats(answer);
-        ArrayList<Category> c2 = getCats(head_phrase);
+        ArrayList<Category> c1 = getCats(answer1);
+        ArrayList<Category> c2 = getCats(head_phrase1);
 
         List<String> c_split_t = Arrays.asList(head.split(" "));
 
-        if( c_split_t.size() < ans_ent_split.length ){
+        if( c_split_t.size() < ans_ent_split.length || true ){
             int count = 0;
             int score_compare = 0;
             for(int i = 0 ; i < c_split_t.size() ; i++){
@@ -198,13 +202,17 @@ public class GetCategory{
                     res.add("1suffix/prefix/W" + ";" + score_compare + ";" + answer + ";" + head);
                 }
             }
+            else if(count >= ans_ent_split.length/2 && count > 0){
+                double score_t = count/ans_ent_split.length;
+                res.add("1suffix/prefix/W2" + ";" + score_t + ";" + answer + ";" + head);
+            }
         }
         for (Category c : c1){
-            if(c.getName().matches(head_s) || c.getName().matches((head_es)) || c.getName().matches(head) || c.getName().matches(head_ies) ){
+            if(c.getName().toLowerCase().matches(head_s) || c.getName().toLowerCase().matches((head_es)) || c.getName().toLowerCase().matches(head) || c.getName().toLowerCase().matches(head_ies) ){
                 System.out.println("Found plural:: " + c.getName());
                 if(c.getLevel() == 0){
                     System.out.println("plural at level 0");
-                    if(c.getName().contains(head)){
+                    if(c.getName().toLowerCase().contains(head_phrase)){
                         System.out.println("Found typeof");
                         res.add("plural" + ";" + 1 + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                         sum++;
@@ -212,7 +220,7 @@ public class GetCategory{
                 }
                 else{
                     System.out.println("plural at level " + c.getLevel());
-                    if(c.getName().contains(head)){
+                    if(c.getName().toLowerCase().contains(head_phrase)){
                         System.out.println("Found typeof");
                         double score = 1.0/(2*c.getLevel());
                         res.add("plural" + ";" + score + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
@@ -243,11 +251,15 @@ public class GetCategory{
                     if(answer.contains(c.getName())){
                         System.out.println("Found typeof");
                         sum = sum + 1;
-                        res.add("2suffix/prefix" + ";" + score_compare + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
+                        res1.add("2suffix/prefix" + ";" + score_compare + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                     }
                     else{
-                        res.add("2suffix/prefix/W" + ";" + score_compare + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
+                        res1.add("2suffix/prefix/W" + ";" + score_compare + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                     }
+                }
+                else if(count >= ans_ent_split.length/2 && count > 0){
+                    double score_t = count/ans_ent_split.length;
+                    res1.add("2suffix/prefix/W2" + ";" + score_t + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                 }
             }
             for(Category c2_temp : c2){
@@ -310,12 +322,16 @@ public class GetCategory{
                     System.out.println("Found suffix_2 :: " + c2_temp.getName());
                     if(answer.contains(c2_temp.getName())){
                         System.out.println("Found typeof_2");
-                        res.add("suffix/prefix" + ";" + score_compare + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
+                        res1.add("suffix/prefix" + ";" + score_compare + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
                         sum = sum + 1;
                     }
                     else{
-                        res.add("suffix/prefix/W" + ";" + score_compare + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
+                        res1.add("suffix/prefix/W" + ";" + score_compare + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
                     }
+                }
+                else if(count >= ans_ent_split.length/2 && count > 0){
+                    double score_t = count/ans_ent_split.length;
+                    res1.add("suffix/prefix/W2" + ";" + score_t + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
                 }
             }
         }
@@ -352,6 +368,10 @@ public class GetCategory{
         BufferedWriter bw2 = new BufferedWriter(fw2);
         FileWriter fw3 = new FileWriter("Category/final_intersection.csv");
         BufferedWriter bw3 = new BufferedWriter(fw3);
+        FileWriter fw4 = new FileWriter("Category/new_triples.csv");
+        BufferedWriter bw4 = new BufferedWriter(fw4);
+        FileWriter fw5 = new FileWriter("Category/catOutput.csv");
+        BufferedWriter bw5 = new BufferedWriter(fw5);
 
         FileReader fr = new FileReader("Category/catInput.csv");
         BufferedReader br = new BufferedReader(fr);
@@ -378,8 +398,6 @@ public class GetCategory{
         GetCategory getCategory = new GetCategory();
 
         for(String s : head_ent_pair){
-            double max_score_intersection = 0;
-            int indexOfMaxScore = -1;
             String[] pairList = s.split(";");
             String head = pairList[1];
             String answer = pairList[0];
@@ -388,6 +406,56 @@ public class GetCategory{
                 Thread.sleep(3000);
                 //System.out.println(score);
                 int k = 0;
+                boolean flag_done_plural = false;
+                double best_score = 0;
+                //int index_of_best_score = -1;
+                String write_best = new String();
+                for(String t : output){
+                    if(t.substring(0,6).contains("plural")){
+                        bw1.write(t);
+                        bw1.write("\n");
+                        String[] line_split = t.split(";");
+                        Double score = Double.parseDouble(line_split[1]);
+                        if(score >= best_score){
+                            best_score = score;
+                            write_best = t;
+                        }
+                        flag_done_plural = true;
+                    }
+                    k++;
+                }
+                if(flag_done_plural == true){
+                    bw5.write(write_best);
+                    bw5.write("\n");
+                }
+                k = 0;
+                best_score = 0;
+                write_best = "";
+                boolean flag_done_suffix = false;
+                for(String t : output) {
+                    if (t.substring(0, 7).contains("suffix")) {
+                        bw2.write(t);
+                        bw2.write("\n");
+                        String[] line_split = t.split(";");
+                        Double score = Double.parseDouble(line_split[1]);
+                        if(score >= best_score){
+                            best_score = score;
+                            write_best = t;
+                        }
+                        flag_done_suffix = true;
+                    }
+                    k++;
+                }
+                if(flag_done_plural == false && flag_done_suffix == true){
+                    bw5.write(write_best);
+                    bw5.write("\n");
+                }
+                k = 0;
+                best_score = 0;
+                write_best = "";
+                boolean flag_done_catMatch = false;
+                double max_score_intersection = 0;
+                int indexOfMaxScore = -1;
                 for(String t : output){
                     if(t.substring(0,14).contains("Category Match")){
                         //System.out.println(t);
@@ -401,14 +469,7 @@ public class GetCategory{
                         }
                         bw.write(t);
                         bw.write("\n");
-                    }
-                    else if(t.substring(0,6).contains("plural")){
-                        bw1.write(t);
-                        bw1.write("\n");
-                    }
-                    else if(t.substring(0,7).contains("suffix")){
-                        bw2.write(t);
-                        bw2.write("\n");
+                        flag_done_catMatch = true;
                     }
                     k++;
                 }
@@ -416,6 +477,13 @@ public class GetCategory{
                     System.out.println(indexOfMaxScore + " :: " + output.get(indexOfMaxScore));
                     bw3.write(output.get(indexOfMaxScore));
                     bw3.write("\n");
+                    if(flag_done_plural == false && flag_done_suffix == false && flag_done_catMatch == true && max_score_intersection > 7/9){
+                        bw5.write(output.get(indexOfMaxScore));
+                        bw5.write("\n");
+                    }
+                }
+                for(String new_triple : res1){
+                    bw4.write(new_triple);
                 }
             }
             catch (Exception e){
@@ -441,6 +509,14 @@ public class GetCategory{
                 bw3.close();
             if(fw3 != null)
                 fw3.close();
+            if(bw4 != null)
+                bw4.close();
+            if(fw4 != null)
+                fw4.close();
+            if(bw5 != null)
+                bw5.close();
+            if(fw5 != null)
+                fw5.close();
         }
         catch (Exception e){
             e.printStackTrace();
