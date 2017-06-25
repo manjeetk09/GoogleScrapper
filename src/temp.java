@@ -11,10 +11,11 @@ import java.util.Scanner;
 
 public class temp
 {
-    public static final String GOOGLE_SEARCH_URL = "http://suggestqueries.google.com/complete/search?client=firefox&hl=en&q=";
+    public final String GOOGLE_SEARCH_URL = "http://suggestqueries.google.com/complete/search?client=firefox&hl=en&q=";
 
-    public static void main (String args[]) throws IOException
-    {
+    public void tempFunc(String searchTerm, String head_entity, int search) throws IOException{
+//    public static void main (String args[]) throws IOException
+//    {
 
         String filename = "templates.txt";
         BufferedWriter bw = null;
@@ -27,15 +28,20 @@ public class temp
 //        ArrayList<String> head_phrase_list = new ArrayList<String>();
 //        ArrayList<String> query_term_list = new ArrayList<String>();
         //ArrayList<String>
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Please enter the search term.");
-        String searchTerm = scanner.nextLine();
+
+        //this was what existed earlier
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.println("Please enter the search term.");
+//        String searchTerm = scanner.nextLine();
+//        System.out.println("Please enter the main entity terms (as given in TKB).");
+//        Scanner scanner1 = new Scanner(System.in);
+//        String head_entity = scanner1.nextLine();
+//        System.out.println("Please enter the number of searches.");
+//        int search = scanner.nextInt();
 
 //        int num_query_terms = scanner.nextInt();
 //        System.out.println("Please enter the list of query terms (one in each line)");
-        System.out.println("Please enter the main entity terms (as given in TKB).");
-        Scanner scanner1 = new Scanner(System.in);
-        String head_entity = scanner1.nextLine();
+
 //        for(int i = 0 ; i < num_query_terms ;i++){
 //            String new_head = scanner1.nextLine();
 //            query_term_list.add(new_head);
@@ -52,8 +58,9 @@ public class temp
 //            //System.out.println(new_head + " " + head_phrase_list.size());
 //        }
         //System.out.println(head_phrase_list);
-        System.out.println("Please enter the number of searches.");
-        int search = scanner.nextInt();
+
+
+
         JSONObject obj = new JSONObject();
         String searchURL = GOOGLE_SEARCH_URL +searchTerm;
         //System.out.println(searchURL);
