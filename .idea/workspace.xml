@@ -4,6 +4,7 @@
     <list default="true" id="a2dfaf8d-a7ae-4776-9a48-eeee4d48dff8" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.combinedOllie.csv#" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.processedMappedPath.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.~lock.queryInput.csv#" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Category/Category/catInput0.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Category/Category/catInput1.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Category/Category/catInput2.csv" afterPath="" />
@@ -59,37 +60,75 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/combinedOllie.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/combinedPOS.csv" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/output/crawler1.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/category_plural.csv" afterPath="$PROJECT_DIR$/Category/category_plural.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicates.dat" afterPath="$PROJECT_DIR$/duplicates.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li2.csv" afterPath="$PROJECT_DIR$/li2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/QueryFeed.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/QueryFeed.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/duplicates.dat" afterPath="$PROJECT_DIR$/types of debugger/duplicates.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/catInput.csv" afterPath="$PROJECT_DIR$/Category/catInput.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/catOutput.csv" afterPath="$PROJECT_DIR$/Category/catOutput.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/category_intersection.csv" afterPath="$PROJECT_DIR$/Category/category_intersection.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/category_suffix_prefix.csv" afterPath="$PROJECT_DIR$/Category/category_suffix_prefix.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/final_intersection.csv" afterPath="$PROJECT_DIR$/Category/final_intersection.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler0.txt" afterPath="$PROJECT_DIR$/crawler0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler1.txt" afterPath="$PROJECT_DIR$/crawler1.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler2.txt" afterPath="$PROJECT_DIR$/crawler2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler3.txt" afterPath="$PROJECT_DIR$/crawler3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler4.txt" afterPath="$PROJECT_DIR$/crawler4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler5.txt" afterPath="$PROJECT_DIR$/crawler5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler6.txt" afterPath="$PROJECT_DIR$/crawler6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler7.txt" afterPath="$PROJECT_DIR$/crawler7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler8.txt" afterPath="$PROJECT_DIR$/crawler8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq0.txt" afterPath="$PROJECT_DIR$/crawlerq0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq1.txt" afterPath="$PROJECT_DIR$/crawlerq1.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq2.txt" afterPath="$PROJECT_DIR$/crawlerq2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq3.txt" afterPath="$PROJECT_DIR$/crawlerq3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq4.txt" afterPath="$PROJECT_DIR$/crawlerq4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq5.txt" afterPath="$PROJECT_DIR$/crawlerq5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq6.txt" afterPath="$PROJECT_DIR$/crawlerq6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq7.txt" afterPath="$PROJECT_DIR$/crawlerq7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq8.txt" afterPath="$PROJECT_DIR$/crawlerq8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie1.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie3.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie4.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie5.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie6.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie7.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie8.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie8.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/duplicatesRemoved.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity.txt" afterPath="$PROJECT_DIR$/entity.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake0.csv" afterPath="$PROJECT_DIR$/entity_rake0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake1.csv" afterPath="$PROJECT_DIR$/entity_rake1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake2.csv" afterPath="$PROJECT_DIR$/entity_rake2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake3.csv" afterPath="$PROJECT_DIR$/entity_rake3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake4.csv" afterPath="$PROJECT_DIR$/entity_rake4.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake5.csv" afterPath="$PROJECT_DIR$/entity_rake5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake6.csv" afterPath="$PROJECT_DIR$/entity_rake6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake7.csv" afterPath="$PROJECT_DIR$/entity_rake7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake8.csv" afterPath="$PROJECT_DIR$/entity_rake8.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final.csv" afterPath="$PROJECT_DIR$/final.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_normalize.csv" afterPath="$PROJECT_DIR$/final_normalize.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li0.csv" afterPath="$PROJECT_DIR$/li0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li1.csv" afterPath="$PROJECT_DIR$/li1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li2.csv" afterPath="$PROJECT_DIR$/li2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li3.csv" afterPath="$PROJECT_DIR$/li3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li4.csv" afterPath="$PROJECT_DIR$/li4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li5.csv" afterPath="$PROJECT_DIR$/li5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li6.csv" afterPath="$PROJECT_DIR$/li6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li8.csv" afterPath="$PROJECT_DIR$/li8.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mappedInTKB.csv" afterPath="$PROJECT_DIR$/mappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/mergeCatNonCat.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/notMappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para0.txt" afterPath="$PROJECT_DIR$/para0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para1.txt" afterPath="$PROJECT_DIR$/para1.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para2.txt" afterPath="$PROJECT_DIR$/para2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para3.txt" afterPath="$PROJECT_DIR$/para3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para4.txt" afterPath="$PROJECT_DIR$/para4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para5.txt" afterPath="$PROJECT_DIR$/para5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para6.txt" afterPath="$PROJECT_DIR$/para6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para8.txt" afterPath="$PROJECT_DIR$/para8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMapped.csv" afterPath="$PROJECT_DIR$/processedMapped.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMappedPath.csv" afterPath="$PROJECT_DIR$/processedMappedPath.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/processedMappedPathRelationMin.csv" />
@@ -101,8 +140,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/removedListing.csv" afterPath="$PROJECT_DIR$/removedListing.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result0.csv" afterPath="$PROJECT_DIR$/result0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result1.csv" afterPath="$PROJECT_DIR$/result1.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GoogleSearchJava.java" afterPath="$PROJECT_DIR$/src/GoogleSearchJava.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result2.csv" afterPath="$PROJECT_DIR$/result2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result3.csv" afterPath="$PROJECT_DIR$/result3.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result4.csv" afterPath="$PROJECT_DIR$/result4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result5.csv" afterPath="$PROJECT_DIR$/result5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result6.csv" afterPath="$PROJECT_DIR$/result6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result7.csv" afterPath="$PROJECT_DIR$/result7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result8.csv" afterPath="$PROJECT_DIR$/result8.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CopyFIle.java" afterPath="$PROJECT_DIR$/src/CopyFIle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test1.java" afterPath="$PROJECT_DIR$/src/test1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.txt" afterPath="$PROJECT_DIR$/temp.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates.txt" afterPath="$PROJECT_DIR$/templates.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate0.txt" afterPath="$PROJECT_DIR$/timeDate0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate1.txt" afterPath="$PROJECT_DIR$/timeDate1.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate2.txt" afterPath="$PROJECT_DIR$/timeDate2.txt" />
@@ -110,15 +158,29 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate4.txt" afterPath="$PROJECT_DIR$/timeDate4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate5.txt" afterPath="$PROJECT_DIR$/timeDate5.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate6.txt" afterPath="$PROJECT_DIR$/timeDate6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate7.txt" afterPath="$PROJECT_DIR$/timeDate7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate8.txt" afterPath="$PROJECT_DIR$/timeDate8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie0.txt" afterPath="$PROJECT_DIR$/triples_ollie0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie1.txt" afterPath="$PROJECT_DIR$/triples_ollie1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie2.txt" afterPath="$PROJECT_DIR$/triples_ollie2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie3.txt" afterPath="$PROJECT_DIR$/triples_ollie3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie4.txt" afterPath="$PROJECT_DIR$/triples_ollie4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie5.txt" afterPath="$PROJECT_DIR$/triples_ollie5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie6.txt" afterPath="$PROJECT_DIR$/triples_ollie6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie7.txt" afterPath="$PROJECT_DIR$/triples_ollie7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie8.txt" afterPath="$PROJECT_DIR$/triples_ollie8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler2.txt" afterPath="$PROJECT_DIR$/types of debugger/crawler/crawler2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq2.txt" afterPath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/types of debugger/duplicatesRemoved.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake2.csv" afterPath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/final.csv" afterPath="$PROJECT_DIR$/types of debugger/final.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/final_normalize.csv" afterPath="$PROJECT_DIR$/types of debugger/final_normalize.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/li/li2.csv" afterPath="$PROJECT_DIR$/types of debugger/li/li2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/mappedInTKB.csv" afterPath="$PROJECT_DIR$/types of debugger/mappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/types of debugger/mergeCatNonCat.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/types of debugger/notMappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/para/para2.txt" afterPath="$PROJECT_DIR$/types of debugger/para/para2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/processedMapped.csv" afterPath="$PROJECT_DIR$/types of debugger/processedMapped.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/processedMappedPath.csv" afterPath="$PROJECT_DIR$/types of debugger/processedMappedPath.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/types of debugger/processedMappedPathRelationMin.csv" />
@@ -128,12 +190,25 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/processedUnmapped.csv" afterPath="$PROJECT_DIR$/types of debugger/processedUnmapped.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/processedUnmappedWiki.csv" afterPath="$PROJECT_DIR$/types of debugger/processedUnmappedWiki.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/removedListing.csv" afterPath="$PROJECT_DIR$/types of debugger/removedListing.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/result/result2.csv" afterPath="$PROJECT_DIR$/types of debugger/result/result2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate0.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate1.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate2.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate3.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate4.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate5.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate6.txt" afterPath="$PROJECT_DIR$/types of debugger/timeDate/timeDate6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie2.txt" afterPath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/types of debugger/urls/urls2.txt" afterPath="$PROJECT_DIR$/types of debugger/urls/urls2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls0.txt" afterPath="$PROJECT_DIR$/urls0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls1.txt" afterPath="$PROJECT_DIR$/urls1.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls2.txt" afterPath="$PROJECT_DIR$/urls2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls3.txt" afterPath="$PROJECT_DIR$/urls3.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls4.txt" afterPath="$PROJECT_DIR$/urls4.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls5.txt" afterPath="$PROJECT_DIR$/urls5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls6.txt" afterPath="$PROJECT_DIR$/urls6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls7.txt" afterPath="$PROJECT_DIR$/urls7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls8.txt" afterPath="$PROJECT_DIR$/urls8.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -152,7 +227,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GoogleSearchJava.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GoogleSearchJava.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="329">
@@ -167,9 +242,11 @@
       <file leaf-file-name="test1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="400">
+              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,8 +274,8 @@
       <file leaf-file-name="CopyFIle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CopyFIle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+            <state relative-caret-position="662">
+              <caret line="106" column="49" lean-forward="false" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -229,8 +306,8 @@
       <file leaf-file-name="temp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/temp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+            <state relative-caret-position="400">
+              <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
               <folding>
                 <element signature="e#3035#3043#0" expanded="true" />
               </folding>
@@ -238,7 +315,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueryFeed.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="QueryFeed.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/QueryFeed.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="502">
@@ -351,7 +428,6 @@
         <option value="$PROJECT_DIR$/src/RelationsScrapperFast.java" />
         <option value="$PROJECT_DIR$/src/RelationScrapperFast.java" />
         <option value="$PROJECT_DIR$/src/wikiSegregate.java" />
-        <option value="$PROJECT_DIR$/src/test1.java" />
         <option value="$PROJECT_DIR$/src/mergeMappedUnmappedWiki.java" />
         <option value="$PROJECT_DIR$/src/testCategory.java" />
         <option value="$PROJECT_DIR$/src/MergeMappedUnmappedWiki.java" />
@@ -359,10 +435,11 @@
         <option value="$PROJECT_DIR$/src/MergeCatNoncat.java" />
         <option value="$PROJECT_DIR$/src/relationSim.java" />
         <option value="$PROJECT_DIR$/src/PathMin.java" />
-        <option value="$PROJECT_DIR$/src/CopyFIle.java" />
         <option value="$PROJECT_DIR$/src/temp.java" />
         <option value="$PROJECT_DIR$/src/QueryFeed.java" />
         <option value="$PROJECT_DIR$/src/GoogleSearchJava.java" />
+        <option value="$PROJECT_DIR$/src/test1.java" />
+        <option value="$PROJECT_DIR$/src/CopyFIle.java" />
       </list>
     </option>
   </component>
@@ -588,21 +665,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="mergeMappedUnmappedWiki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="mergeMappedUnmappedWiki" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="GoogleScrapper" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="false" name="MergeCatNoncat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="MergeCatNoncat" />
@@ -636,6 +698,21 @@
     <configuration default="false" name="QueryFeed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="QueryFeed" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="GoogleScrapper" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="test1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1153,18 +1230,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.temp" />
-      <item index="1" class="java.lang.String" itemvalue="Application.mergeMappedUnmappedWiki" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MergeCatNoncat" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CopyFIle" />
-      <item index="4" class="java.lang.String" itemvalue="Application.QueryFeed" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MergeCatNoncat" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CopyFIle" />
+      <item index="3" class="java.lang.String" itemvalue="Application.QueryFeed" />
+      <item index="4" class="java.lang.String" itemvalue="Application.test1" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.QueryFeed" />
-        <item index="1" class="java.lang.String" itemvalue="Application.temp" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CopyFIle" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MergeCatNoncat" />
-        <item index="4" class="java.lang.String" itemvalue="Application.mergeMappedUnmappedWiki" />
+        <item index="1" class="java.lang.String" itemvalue="Application.test1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.temp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CopyFIle" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MergeCatNoncat" />
       </list>
     </recent_temporary>
   </component>
@@ -1208,10 +1285,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="410574000" />
+    <option name="totallyTimeSpent" value="414576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1232,8 +1310,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6617954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5584551" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6617954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5584551" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24546425" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1701,14 +1779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TriplePOS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -1725,22 +1795,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CopyFIle.java">
+    <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="329">
+          <caret line="221" column="28" lean-forward="false" selection-start-line="221" selection-start-column="28" selection-end-line="221" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1498394852937" expanded="false" signature="2546:2554" ph="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/temp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        <state relative-caret-position="400">
+          <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
           <folding>
             <element signature="e#3035#3043#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CopyFIle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="106" column="49" lean-forward="false" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1751,16 +1841,6 @@
           <caret line="29" column="32" lean-forward="false" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="221" column="28" lean-forward="false" selection-start-line="221" selection-start-column="28" selection-end-line="221" selection-end-column="28" />
-          <folding>
-            <marker date="1498394852937" expanded="false" signature="2546:2554" ph="&lt;~&gt;" />
           </folding>
         </state>
       </provider>

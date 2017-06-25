@@ -1,0 +1,553 @@
+mlpack is a C   machine learning library with emphasis on scalability, speed, and ease_of_use.
+0.707: (library; be learning with; emphasis)
+0.644: (mlpack; is; a C machine learning library with emphasis on scalability , speed , and ease_of_use)
+0.594: (mlpack; learning library with; emphasis)
+0.343: (speed; be emphasis on; scalability)
+
+ Its aim is to make machine learning possible for novice users by means of a simple, consistent API, while simultaneously exploiting C   language features to provide maximum performance and maximum flexibility for expert users.
+0.9: (Its aim; is to make machine learning possible for novice users by; means of a simple)
+0.88: (Its aim; to make machine learning possible for novice users by; means of a simple)
+0.854: (Its aim; is to make; machine learning possible)
+0.728: (machine learning possible; to be make by; means of a simple)
+0.708: (maximum performance and maximum flexibility; to be provide for; expert users)
+
+ This is done by providing a set of command_line executables which can be used as black boxes, and a modular C   API for expert users and researchers to easily make changes to the internals of the algorithms.
+0.831: (a modular C API; to easily make changes to; the internals of the algorithms)
+0.736: (a modular C API; to easily make; changes)
+0.717: (changes; to easily make to be; the internals of the algorithms)
+
+As a result of this approach, mlpack outperforms competing machine learning libraries by large margins  see the BigLearning workshop paper and the benchmarks for details.
+0.783: (mlpack outperforms; see; the BigLearning workshop paper and the benchmarks)
+0.647: (mlpack outperforms; see the BigLearning workshop paper as; a result of this approach)
+0.559: (mlpack outperforms; see the benchmarks for details as; a result of this approach)
+
+mlpack is developed by contributors from around the world.
+0.854: (mlpack; is developed by; contributors)
+
+ It is released free of charge, under the 3_clause BSD License .
+0.812: (It; is released under; the 3_clause)
+
+  Versions older than 1.
+No extractions found.
+
+0.
+No extractions found.
+
+12 were released under the GNU Lesser General Public License.
+0.912: (12; were released under; the GNU Lesser General Public License)
+
+ LGPL, version 3.
+No extractions found.
+
+ .
+No extractions found.
+
+mlpack was originally presented at the BigLearning workshop of NIPS 2011  and later published in the Journal of Machine Learning Research .
+0.845: (mlpack; was originally presented at; the BigLearning workshop of NIPS 2011)
+0.721: (mlpack; be later published in; the Journal of Machine Learning Research)
+0.437: (mlpack; was originally presented in; the BigLearning workshop of NIPS 2011)
+
+ Please cite mlpack in your work using this citation.
+0.531: (mlpack; be cite in; your work)
+
+mlpack bindings for R are provided by the RcppMLPACK project.
+0.917: (mlpack bindings; are provided by; the RcppMLPACK project)
+
+Below is a high_level list of the available functionality contained within mlpack, along with relevant links to papers, API documentation, tutorials, or other references.
+0.868: (a high_level list of the available functionality; contained within; mlpack)
+
+ Collaborative filtering .
+No extractions found.
+
+ Decision stumps .
+No extractions found.
+
+ Density estimation trees .
+No extractions found.
+
+ Euclidean minimum spanning tree calculation .
+No extractions found.
+
+ Gaussian mixture models .
+No extractions found.
+
+ Hidden Markov models .
+No extractions found.
+
+ Kernel Principal Components Analysis .
+No extractions found.
+
+ k_Means clustering .
+No extractions found.
+
+ Least_angle regression .
+No extractions found.
+
+ Linear regression .
+No extractions found.
+
+ Local coordinate coding .
+0.799: (Local; coordinate; coding)
+
+ Locality_sensitive hashing for approximate nearest neighbor search .
+No extractions found.
+
+ Logistic regression .
+No extractions found.
+
+ Max_kernel search .
+No extractions found.
+
+ Naive Bayes classifier .
+No extractions found.
+
+ Nearest neighbor search with dual_tree algorithms .
+No extractions found.
+
+ Neighborhood components analysis .
+No extractions found.
+
+ Non_negative matrix factorization .
+No extractions found.
+
+ Perceptrons .
+No extractions found.
+
+ Principal components analysis .
+No extractions found.
+
+ RADICAL .
+No extractions found.
+
+ Range search with dual_tree algorithms .
+No extractions found.
+
+ Rank_approximate nearest neighbor search .
+No extractions found.
+
+ Sparse coding with dictionary learning .
+No extractions found.
+
+mlpack is developed by a team of machine learning researchers around the world.
+0.891: (mlpack; is developed by; a team of machine learning researchers)
+
+ Originally, it was produced by the FASTLab at Georgia Tech, but it has since grown into a much larger effort.
+0.858: (it; Originally was produced by; the FASTLab)
+0.608: (it; has grown into; a much larger effort)
+
+ Below is a list of contributors .
+No extractions found.
+
+ Ryan Curtin1.
+No extractions found.
+
+ James Cline.
+No extractions found.
+
+ Neil Slagle.
+No extractions found.
+
+ Matthew Amidon.
+No extractions found.
+
+ Sterling Peet.
+No extractions found.
+
+ Vlad Grantcharov.
+No extractions found.
+
+ Ajinkya Kale.
+No extractions found.
+
+ Bill March.
+No extractions found.
+
+ Dongryeol Lee.
+No extractions found.
+
+ Nishant Mehta.
+No extractions found.
+
+ Parikshit Ram.
+No extractions found.
+
+ Rajendran Mohan.
+No extractions found.
+
+ Trironk Kiatkungwanglai.
+No extractions found.
+
+ Patrick Mason.
+No extractions found.
+
+ Chip Mappus.
+No extractions found.
+
+ Hua Ouyang.
+No extractions found.
+
+ Tran Quoc Long.
+No extractions found.
+
+ Noah Kauffman.
+No extractions found.
+
+ Guillermo Colon.
+No extractions found.
+
+ Wei Guan.
+No extractions found.
+
+ Ryan Riegel.
+No extractions found.
+
+ Nikolaos Vasiloglou.
+No extractions found.
+
+ Garry Boyer.
+No extractions found.
+
+ Andreas L f.
+No extractions found.
+
+ Marcus Edel.
+No extractions found.
+
+ Mudit Raj Gupta.
+No extractions found.
+
+ Sumedh Ghaisas.
+No extractions found.
+
+ Michael Fox.
+No extractions found.
+
+ Ryan Birmingham.
+No extractions found.
+
+ Siddharth Agrawal.
+No extractions found.
+
+ Saheb Motiani.
+No extractions found.
+
+ Yash Vadalia.
+No extractions found.
+
+ Abhishek Laddha.
+No extractions found.
+
+ Vahab Akbarzadeh.
+No extractions found.
+
+ Andrew Wells.
+No extractions found.
+
+ Zhihao Lou.
+No extractions found.
+
+ Udit Saxena.
+No extractions found.
+
+ Stephen Tu.
+No extractions found.
+
+ Jaskaran Singh.
+No extractions found.
+
+ Shangtong Zhang.
+No extractions found.
+
+ Hritik Jain.
+No extractions found.
+
+ Vladimir Glazachev.
+No extractions found.
+
+ QiaoAn Chen.
+No extractions found.
+
+ Janzen Brewer.
+No extractions found.
+
+ Trung Dinh.
+No extractions found.
+
+ Tham Ngap Wei.
+No extractions found.
+
+ Grzegorz Krajewski.
+No extractions found.
+
+ Joseph Mariadassou.
+No extractions found.
+
+ Pavel Zhigulin.
+No extractions found.
+
+ Dhawal Arora.
+No extractions found.
+
+ Alexander Leinoff.
+No extractions found.
+
+ Palash Ahuja.
+No extractions found.
+
+ Yannis Mentekidis.
+No extractions found.
+
+ Ranjan Mondal.
+No extractions found.
+
+ Mikhail Lozhnikov.
+No extractions found.
+
+ Marcos Pividori.
+No extractions found.
+
+ Keon Kim.
+No extractions found.
+
+ Nilay Jain.
+No extractions found.
+
+ Peter Lehner.
+No extractions found.
+
+ Anuraj Kanodia.
+No extractions found.
+
+ Ivan Georgiev.
+No extractions found.
+
+ Shikhar Bhardwaj.
+No extractions found.
+
+ Mike Izbicki.
+No extractions found.
+
+ Sudanshu Ranjan.
+No extractions found.
+
+ Piyush Jaiswal.
+No extractions found.
+
+ Dinesh Raj.
+No extractions found.
+
+ Vivek Pal.
+No extractions found.
+
+ Prasanna Patil.
+No extractions found.
+
+ Lakshya Agrawal.
+No extractions found.
+
+ Praveen Ch.
+No extractions found.
+
+ Kirill Mishchenko.
+No extractions found.
+
+ Abhinav Moudgil.
+No extractions found.
+
+ Thyrix Yang.
+No extractions found.
+
+ Sagar B.
+No extractions found.
+
+ Hathwar.
+No extractions found.
+
+ Nishanth Hegde.
+No extractions found.
+
+ Parminder Singh.
+No extractions found.
+
+ CodeAi .
+No extractions found.
+
+Interested in contributing  See this page for information on how to get involved.
+0.838: (this page; be See for; information)
+
+1.
+No extractions found.
+
+ Developer Ryan Curtin received partial support to work on mlpack in 2015 from the US National Science Foundation under Award 1339745  SI2_SSI.
+0.919: (Developer Ryan Curtin; received partial support to work on; mlpack)
+0.899: (Developer Ryan Curtin; received partial support to work from; the US National Science Foundation)
+0.899: (Developer Ryan Curtin; received partial support to work in; 2015)
+0.858: (Developer Ryan Curtin; to work on; mlpack)
+0.85: (Developer Ryan Curtin; received; partial support)
+0.828: (Developer Ryan Curtin; to work from; the US National Science Foundation)
+0.828: (Developer Ryan Curtin; to work in; 2015)
+0.795: (Developer Ryan Curtin; received partial support to work under; Award 1339745)
+0.675: (Developer Ryan Curtin; to work under; Award 1339745)
+
+ The XScala Project .
+No extractions found.
+
+ Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the NSF.
+0.825: (Any opinions , findings , and conclusions or recommendations expressed in this material; do not necessarily reflect; the views of the NSF.)
+0.763: (Any opinions , findings , and conclusions or recommendations; be expressed in; this material)
+
+Currently mlpack supports the following algorithms.
+No extractions found.
+
+ Collaborative Filtering.
+No extractions found.
+
+ Density Estimation Trees.
+No extractions found.
+
+ Euclidean Minimum Spanning Trees.
+No extractions found.
+
+ Fast Exact Max_Kernel Search .
+No extractions found.
+
+ Gaussian Mixture Models .
+No extractions found.
+
+ Hidden Markov Models .
+No extractions found.
+
+ Kernel Principal Component Analysis .
+No extractions found.
+
+ K_Means Clustering.
+No extractions found.
+
+ Least_Angle Regression .
+No extractions found.
+
+ Local Coordinate Coding.
+No extractions found.
+
+ Locality_Sensitive Hashing .
+No extractions found.
+
+ Logistic regression.
+No extractions found.
+
+ Naive Bayes Classifier.
+No extractions found.
+
+ Neighbourhood Components Analysis .
+No extractions found.
+
+ Non_negative Matrix Factorization .
+No extractions found.
+
+ Principal Components Analysis .
+No extractions found.
+
+ Independent component analysis .
+No extractions found.
+
+ Rank_Approximate Nearest Neighbor .
+No extractions found.
+
+ Simple Least_Squares Linear Regression .
+No extractions found.
+
+ Sparse Coding.
+No extractions found.
+
+ Tree_based Neighbor Search , using either kd_trees or cover trees.
+No extractions found.
+
+ Tree_based Range Search.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+These are a list of ideas compiled by mlpack developers  they range from simpler code maintenance tasks to difficult machine learning algorithm implementation, which means that there are suitable ideas for a wide range of student abilities and interests.
+0.881: (they; range from; simpler code maintenance tasks)
+0.797: (they; range to; difficult machine)
+0.687: (ideas; be compiled by; mlpack developers they range from simpler code maintenance tasks to difficult machine learning algorithm implementation ,)
+
+ The  necessary knowledge  sections can often be replaced with  willing to learn  for the easier projects, and for some of the more difficult problems, a full understanding of the description statement and some coding knowledge is sufficient.
+0.929: (The necessary knowledge sections; can often be replaced with; willing)
+0.449: (a full understanding of the description statement; can is; sufficient)
+0.332: (sufficient; be a full understanding of; the description statement and some coding knowledge)
+
+This last goal is somewhat in contrast to the scikit_learn project, which generally only implements stable, well_known algorithms.
+0.872: (This last goal; is somewhat in; contrast)
+
+ mlpack can fill a niche by providing high_quality implementations of algorithms that just appeared in conferences or journals.
+0.68: (algorithms; just appeared in; conferences or journals)
+0.652: (mlpack; can fill; a niche)
+
+ In those cases where mlpack is implementing well_known algorithms  i.
+0.391: (mlpack; is implementing; well_known algorithms)
+
+e.
+No extractions found.
+
+ SVMs or other standard techniques , we should strive to ensure that our implementation is faster than other implementations.
+0.797: (our implementation; is faster than; other implementations)
+
+ To ensure that, we may use the automatic benchmarking system  see https.
+0.626: (we; may use; the automatic benchmarking system)
+
+  www.
+No extractions found.
+
+github.
+No extractions found.
+
+com zoq benchmarks .
+No extractions found.
+
+mlpack is a C   machine learning library with emphasis on scalability, speed, and ease_of_use.
+0.707: (library; be learning with; emphasis)
+0.644: (mlpack; is; a C machine learning library with emphasis on scalability , speed , and ease_of_use)
+0.594: (mlpack; learning library with; emphasis)
+0.343: (speed; be emphasis on; scalability)
+
+ Its aim is to make machine learning possible for novice users by means of a simple, consistent API, while simultaneously exploiting C   language features to provide maximum performance and maximum flexibility for expert users.
+0.9: (Its aim; is to make machine learning possible for novice users by; means of a simple)
+0.88: (Its aim; to make machine learning possible for novice users by; means of a simple)
+0.854: (Its aim; is to make; machine learning possible)
+0.728: (machine learning possible; to be make by; means of a simple)
+0.708: (maximum performance and maximum flexibility; to be provide for; expert users)
+
+ This is done by providing a set of command_line executables which can be used as black boxes, and a modular C   API for expert users and researchers to easily make changes to the internals of the algorithms.
+0.831: (a modular C API; to easily make changes to; the internals of the algorithms)
+0.736: (a modular C API; to easily make; changes)
+0.717: (changes; to easily make to be; the internals of the algorithms)
+
+c  .
+No extractions found.
+
+mlpack is a C   machine learning library with emphasis on scalability, speed, and ease_of_use.
+0.707: (library; be learning with; emphasis)
+0.644: (mlpack; is; a C machine learning library with emphasis on scalability , speed , and ease_of_use)
+0.594: (mlpack; learning library with; emphasis)
+0.343: (speed; be emphasis on; scalability)
+
+ Its aim is to make machine learning possible for novice users by means of a simple, consistent API, while simultaneously exploiting C   language features to provide maximum performance and maximum flexibility for expert users.
+0.9: (Its aim; is to make machine learning possible for novice users by; means of a simple)
+0.88: (Its aim; to make machine learning possible for novice users by; means of a simple)
+0.854: (Its aim; is to make; machine learning possible)
+0.728: (machine learning possible; to be make by; means of a simple)
+0.708: (maximum performance and maximum flexibility; to be provide for; expert users)
+
+ This is done by providing a set of command_line executables which can be used as black boxes, and a modular C   API for expert users and researchers to easily make changes to the internals of the algorithms.
+0.831: (a modular C API; to easily make changes to; the internals of the algorithms)
+0.736: (a modular C API; to easily make; changes)
+0.717: (changes; to easily make to be; the internals of the algorithms)
+
+c  .
+No extractions found.
+

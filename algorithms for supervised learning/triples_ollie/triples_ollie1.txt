@@ -1,0 +1,27 @@
+.
+No extractions found.
+
+.
+No extractions found.
+
+We will then continue to cover canonical correlation analysis .
+0.691: (We; will then continue to cover; canonical correlation analysis)
+0.664: (We; to cover; canonical correlation analysis)
+
+ CCA is an early method from statistics for dimensionality reduction.
+0.862: (CCA; is an early method from; statistics)
+0.591: (CCA; is; an early method)
+
+ With CCA, two or more views of the data are created, and they are all projected into a lower dimensional space which maximizes the correlation between the views.
+0.928: (they; are projected into; a lower dimensional space which maximizes the correlation between the views)
+0.896: (more views of the data; are projected into; a lower dimensional space which maximizes the correlation between the views)
+0.564: (the correlation; be maximizes by; a lower dimensional space)
+
+ We will review the basic algorithms underlying CCA, give some formal results giving guarantees for latent_variable models and also describe how they have been applied recently to learning lexical representations from large quantities of unlabeled data.
+0.785: (lexical representations; be learning from; large quantities of unlabeled data)
+0.722: (We; will review; the basic algorithms underlying CCA)
+0.66: (We; will give; some formal results giving guarantees for latent_variable models)
+
+ This idea of learning lexical representations can be extended further, where unlabeled data is used to learn underlying representations which are subsequently used as additional information for supervised training.
+No extractions found.
+

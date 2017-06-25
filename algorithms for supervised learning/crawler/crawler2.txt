@@ -1,0 +1,30 @@
+0;Genetic Algorithms can be used for both supervised and unsupervised learning, e.
+0;g.
+0;Supervised learning in attribute_based spaces is one of the most popular machine learning problems studied and, consequently, has attracted considerable attention of the genetic algorithm community.
+0; The full_memory approach developed here uses the same high_level descriptive language that is used in rule_based systems.
+0; This allows for an easy utilization of inference rules of the well_known inductive learning methodology, which replace the traditional domain_independent operators and make the search task_specific.
+0; Moreover, a closer relationship between the underlying task and the processing mechanisms provides a setting for an application of more powerful task_specific heuristics.
+0; Initial results obtained with a prototype implementation for the simplest case of single concepts indicate that genetic algorithms can be effectively used to process high_level concepts and incorporate task_specific knowledge.
+0; The method of abstracting the genetic algorithm to the problem level, described here for the supervised inductive learning, can be also extended to other domains and tasks, since it provides a framework for combining recently popular genetic algorithm methods with traditional problem_solving methodologies.
+0; Moreover, in this particular case, it provides a very powerful tool enabling study of the widely accepted but not so well understood inductive learning methodology.
+0;Supervised learning algorithms are ones for which we have some known labels on our inputs , whereas in unsupervised learning we don t have any known outputs.
+0; Regardless, in both cases we need to learn the parameters that relate the input to the output.
+0;Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras July 21, 2016.
+0;Your First Machine Learning Project in Python Step_By_Step June 10, 2016.
+0;Develop Your First Neural Network in Python With Keras Step_By_Step May 24, 2016.
+0;Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras July 26, 2016.
+0;Multi_Class Classification Tutorial with the Keras Deep Learning Library June 2, 2016.
+0;How to Run Your First Classifier in Weka February 17, 2014.
+0;Regression Tutorial with the Keras Deep Learning Library in Python June 9, 2016.
+0;A Tour of Machine Learning Algorithms November 25, 2013.
+0;Tutorial To Implement k_Nearest Neighbors in Python From Scratch September 12, 2014.
+0;How to Implement the Backpropagation Algorithm From Scratch In Python November 7, 2016.
+0;I also did not cover algorithms from specialty subfields of machine learning, such as.
+0; Computational intelligence  evolutionary algorithms, etc.
+0; .
+0; Computer Vision .
+0; Natural Language Processing .
+0; Recommender Systems.
+0; Reinforcement Learning.
+0; Graphical Models.
+0; And more .

@@ -1,0 +1,140 @@
+1;https://en.wikipedia.org/wiki/Hash_function;function;1.5;0.05263157894736842;6.0;1
+1;https://en.wikipedia.org/wiki/Hash_function;hash function;1.75;0.10526315789473684;2.0;1
+1;https://en.wikipedia.org/wiki/Hash_function;arbitrary size;2.0;0.05263157894736842;6.0;1
+1;https://en.wikipedia.org/wiki/Hash_function;fixed size;2.0;0.05263157894736842;6.0;1
+1;https://en.wikipedia.org/wiki/Hash_function;data;1.5;0.05263157894736842;6.0;1
+1;https://en.wikipedia.org/wiki/Hash_function;map data;1.75;0.05263157894736842;6.0;1
+2;https://en.wikipedia.org/wiki/Hash_function;hash function;2.166666666665;0.10526315789473684;2.0;1
+2;https://en.wikipedia.org/wiki/Hash_function;called hash values;2.61111111111;0.05263157894736842;6.0;1
+2;https://en.wikipedia.org/wiki/Hash_function;hash codes;2.166666666665;0.05263157894736842;6.0;1
+2;https://en.wikipedia.org/wiki/Hash_function;values returned;2.25;0.05263157894736842;6.0;1
+2;https://en.wikipedia.org/wiki/Hash_function;simply hashes;2.0;0.05263157894736842;6.0;1
+2;https://en.wikipedia.org/wiki/Hash_function;digests;1.0;0.05263157894736842;6.0;1
+3;https://en.wikipedia.org/wiki/Hash_function;rapid data lookup;3.0;0.05263157894736842;6.0;1
+3;https://en.wikipedia.org/wiki/Hash_function;computer software;2.0;0.05263157894736842;6.0;1
+3;https://en.wikipedia.org/wiki/Hash_function;widely;1.0;0.05263157894736842;6.0;1
+3;https://en.wikipedia.org/wiki/Hash_function;hash table;2.0;0.05263157894736842;1.0;1
+3;https://en.wikipedia.org/wiki/Hash_function;data structure called;3.0;0.05263157894736842;6.0;1
+4;https://en.wikipedia.org/wiki/Hash_function;detecting duplicated records;3.0;0.05263157894736842;6.0;1
+4;https://en.wikipedia.org/wiki/Hash_function;large file;2.0;0.05263157894736842;6.0;1
+4;https://en.wikipedia.org/wiki/Hash_function;database lookup;2.0;0.05263157894736842;6.0;1
+5;https://en.wikipedia.org/wiki/Hash_function;dna sequences;2.0;0.05263157894736842;6.0;1
+5;https://en.wikipedia.org/wiki/Hash_function;finding similar stretches;3.0;0.05263157894736842;6.0;1
+6;https://en.wikipedia.org/wiki/Hash_function;cryptography;1.0;0.0;6.0;1
+7;https://en.wikipedia.org/wiki/Hash_function;knowing;1.0;0.0;6.0;1
+7;https://en.wikipedia.org/wiki/Hash_function;hash;2.0;0.05263157894736842;6.0;1
+7;https://en.wikipedia.org/wiki/Hash_function;input data;2.5;0.05263157894736842;6.0;1
+7;https://en.wikipedia.org/wiki/Hash_function;deliberately difficult;2.0;0.05263157894736842;6.0;1
+7;https://en.wikipedia.org/wiki/Hash_function;unknown;1.0;0.05263157894736842;6.0;1
+7;https://en.wikipedia.org/wiki/Hash_function;easily verify;2.0;0.05263157894736842;6.0;1
+7;https://en.wikipedia.org/wiki/Hash_function;stored hash;2.0;0.05263157894736842;6.0;1
+7;https://en.wikipedia.org/wiki/Hash_function;reconstruct;1.0;0.0;6.0;1
+7;https://en.wikipedia.org/wiki/Hash_function;cryptographic hash function;2.6666666666666665;0.05263157894736842;6.0;1
+7;https://en.wikipedia.org/wiki/Hash_function;input data maps;2.6666666666666665;0.05263157894736842;6.0;1
+8;https://en.wikipedia.org/wiki/Hash_function;assuring integrity;2.0;0.05263157894736842;6.0;1
+8;https://en.wikipedia.org/wiki/Hash_function;provide message authentication;3.0;0.05263157894736842;6.0;1
+8;https://en.wikipedia.org/wiki/Hash_function;transmitted data;2.0;0.05263157894736842;6.0;1
+8;https://en.wikipedia.org/wiki/Hash_function;hmacs;1.0;0.0;6.0;1
+8;https://en.wikipedia.org/wiki/Hash_function;building block;2.0;0.05263157894736842;6.0;1
+14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;easy;1.0;0.027777777777777776;6.0;0
+14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;items;1.0;0.05555555555555555;6.0;0
+14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;make;1.0;0.027777777777777776;3.0;0
+14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;collection;1.0;0.027777777777777776;6.0;0
+14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;stored;1.0;0.027777777777777776;6.0;0
+14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hash table;2.0;0.1388888888888889;2.0;0
+14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;find;1.0;0.027777777777777776;6.0;0
+15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slot;1.0;0.05555555555555555;6.0;0
+15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;named;1.0;0.027777777777777776;6.0;0
+15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;item;1.0;0.027777777777777776;6.0;0
+15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hash table;2.0;0.1388888888888889;2.0;0
+15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;integer;1.0;0.027777777777777776;6.0;0
+15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;position;1.0;0.027777777777777776;6.0;0
+15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hold;1.0;0.027777777777777776;6.0;0
+15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;starting;1.0;0.027777777777777776;6.0;0
+15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;called;1.0;0.027777777777777776;6.0;0
+16;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slot named 2;1.3333333333333333;0.027777777777777776;6.0;0
+16;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slot named 1;1.3333333333333333;0.027777777777777776;6.0;0
+16;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slot named 0;1.3333333333333333;0.027777777777777776;6.0;0
+17;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;initially;1.0;0.027777777777777776;6.0;0
+17;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;items;1.0;0.05555555555555555;6.0;0
+17;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;empty;1.0;0.027777777777777776;6.0;0
+17;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hash table;2.0;0.1388888888888889;2.0;0
+17;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slot;1.0;0.05555555555555555;6.0;0
+18;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;element initialized;2.0;0.027777777777777776;6.0;0
+18;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;implement;1.0;0.027777777777777776;6.0;0
+18;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;list;1.0;0.0;6.0;0
+18;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hash table;2.0;0.1388888888888889;2.0;0
+18;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;special python;2.0;0.027777777777777776;6.0;0
+19;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;figure 4 shows;1.3333333333333333;0.027777777777777776;6.0;0
+19;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hash table;2.0;0.1388888888888889;2.0;0
+19;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;size;1.0;0.027777777777777776;6.0;0
+20;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;named 0;0.5;0.027777777777777776;6.0;0
+20;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;table;1.0;0.027777777777777776;6.0;0
+20;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slots;1.0;0.027777777777777776;6.0;0
+20;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;words;1.0;0.027777777777777776;3.0;0
+21;https://en.wikipedia.org/wiki/Hash_function;function;1.5;0.05263157894736842;6.0;0
+21;https://en.wikipedia.org/wiki/Hash_function;hash function;1.75;0.10526315789473684;2.0;0
+21;https://en.wikipedia.org/wiki/Hash_function;arbitrary size;2.0;0.05263157894736842;6.0;0
+21;https://en.wikipedia.org/wiki/Hash_function;fixed size;2.0;0.05263157894736842;6.0;0
+21;https://en.wikipedia.org/wiki/Hash_function;data;1.5;0.05263157894736842;6.0;0
+21;https://en.wikipedia.org/wiki/Hash_function;map data;1.75;0.05263157894736842;6.0;0
+22;https://en.wikipedia.org/wiki/Hash_function;hash function;2.166666666665;0.10526315789473684;2.0;0
+22;https://en.wikipedia.org/wiki/Hash_function;called hash values;2.61111111111;0.05263157894736842;6.0;0
+22;https://en.wikipedia.org/wiki/Hash_function;hash codes;2.166666666665;0.05263157894736842;6.0;0
+22;https://en.wikipedia.org/wiki/Hash_function;values returned;2.25;0.05263157894736842;6.0;0
+22;https://en.wikipedia.org/wiki/Hash_function;simply hashes;2.0;0.05263157894736842;6.0;0
+22;https://en.wikipedia.org/wiki/Hash_function;digests;1.0;0.05263157894736842;6.0;0
+23;https://en.wikipedia.org/wiki/Hash_function;rapid data lookup;3.0;0.05263157894736842;6.0;0
+23;https://en.wikipedia.org/wiki/Hash_function;computer software;2.0;0.05263157894736842;6.0;0
+23;https://en.wikipedia.org/wiki/Hash_function;widely;1.0;0.05263157894736842;6.0;0
+23;https://en.wikipedia.org/wiki/Hash_function;hash table;2.0;0.05263157894736842;1.0;0
+23;https://en.wikipedia.org/wiki/Hash_function;data structure called;3.0;0.05263157894736842;6.0;0
+24;https://en.wikipedia.org/wiki/Hash_function;detecting duplicated records;3.0;0.05263157894736842;6.0;0
+24;https://en.wikipedia.org/wiki/Hash_function;large file;2.0;0.05263157894736842;6.0;0
+24;https://en.wikipedia.org/wiki/Hash_function;database lookup;2.0;0.05263157894736842;6.0;0
+25;https://en.wikipedia.org/wiki/Hash_function;dna sequences;2.0;0.05263157894736842;6.0;0
+25;https://en.wikipedia.org/wiki/Hash_function;finding similar stretches;3.0;0.05263157894736842;6.0;0
+26;https://en.wikipedia.org/wiki/Hash_function;cryptography;1.0;0.0;6.0;0
+27;https://en.wikipedia.org/wiki/Hash_function;knowing;1.0;0.0;6.0;0
+27;https://en.wikipedia.org/wiki/Hash_function;hash;2.0;0.05263157894736842;6.0;0
+27;https://en.wikipedia.org/wiki/Hash_function;input data;2.5;0.05263157894736842;6.0;0
+27;https://en.wikipedia.org/wiki/Hash_function;deliberately difficult;2.0;0.05263157894736842;6.0;0
+27;https://en.wikipedia.org/wiki/Hash_function;unknown;1.0;0.05263157894736842;6.0;0
+27;https://en.wikipedia.org/wiki/Hash_function;easily verify;2.0;0.05263157894736842;6.0;0
+27;https://en.wikipedia.org/wiki/Hash_function;stored hash;2.0;0.05263157894736842;6.0;0
+27;https://en.wikipedia.org/wiki/Hash_function;reconstruct;1.0;0.0;6.0;0
+27;https://en.wikipedia.org/wiki/Hash_function;cryptographic hash function;2.6666666666666665;0.05263157894736842;6.0;0
+27;https://en.wikipedia.org/wiki/Hash_function;input data maps;2.6666666666666665;0.05263157894736842;6.0;0
+28;https://en.wikipedia.org/wiki/Hash_function;assuring integrity;2.0;0.05263157894736842;6.0;0
+28;https://en.wikipedia.org/wiki/Hash_function;provide message authentication;3.0;0.05263157894736842;6.0;0
+28;https://en.wikipedia.org/wiki/Hash_function;transmitted data;2.0;0.05263157894736842;6.0;0
+28;https://en.wikipedia.org/wiki/Hash_function;hmacs;1.0;0.0;6.0;0
+28;https://en.wikipedia.org/wiki/Hash_function;building block;2.0;0.05263157894736842;6.0;0
+34;https://en.wikibooks.org/wiki/Algorithm_Implementation/Hashing;fixme;1.0;0.0;6.0;0
+35;https://en.wikibooks.org/wiki/Algorithm_Implementation/Hashing;universal hash function;3.0;0.3333333333333333;6.0;0
+35;https://en.wikibooks.org/wiki/Algorithm_Implementation/Hashing;words;1.0;0.3333333333333333;3.0;0
+38;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;difference;1.0;0.1111111111111111;6.0;0
+38;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;understand;1.0;0.1111111111111111;6.0;0
+38;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash function;2.0;0.1111111111111111;1.0;0
+38;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;algorithm correctly;2.0;0.1111111111111111;6.0;0
+39;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;blocks;1.0;0.1111111111111111;6.0;0
+39;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash function generates;2.8333333333333335;0.1111111111111111;6.0;0
+39;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;operating;1.0;0.1111111111111111;6.0;0
+39;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;fixed_length binary data;3.0;0.1111111111111111;6.0;0
+39;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash code;2.25;0.1111111111111111;6.0;0
+40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;hash function;2.666666666665;0.0625;1.0;0
+40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;data structures courses;3.0;0.0625;6.0;0
+40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;good hash function;2.7777777777766666;0.0625;6.0;0
+40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;make;1.0;0.0625;3.0;0
+40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;applications;1.0;0.0;6.0;0
+40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;college;1.0;0.0625;6.0;0
+40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;lot;1.0;0.0;6.0;0
+40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;pretty hard;2.0;0.0625;6.0;0
+41;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;professor;1.0;0.0625;6.0;0
+41;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;avoid collisions;2.0;0.0625;6.0;0
+41;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;thumb;1.0;0.0625;6.0;0
+41;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;rule;1.0;0.0625;6.0;0
+42;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;data _;2.0;0.0;6.0;0
+42;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;kind;1.0;0.0;6.0;0
+42;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;paul hsieh;2.0;0.0625;6.0;0
+42;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;basically;1.0;0.0625;6.0;0

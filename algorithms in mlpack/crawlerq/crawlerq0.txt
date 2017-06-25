@@ -1,0 +1,169 @@
+mlpack is a C   machine learning library with emphasis on scalability, speed, and ease_of_use.
+ Its aim is to make machine learning possible for novice users by means of a simple, consistent API, while simultaneously exploiting C   language features to provide maximum performance and maximum flexibility for expert users.
+ This is done by providing a set of command_line executables which can be used as black boxes, and a modular C   API for expert users and researchers to easily make changes to the internals of the algorithms.
+As a result of this approach, mlpack outperforms competing machine learning libraries by large margins  see the BigLearning workshop paper and the benchmarks for details.
+mlpack is developed by contributors from around the world.
+ It is released free of charge, under the 3_clause BSD License .
+  Versions older than 1.
+0.
+12 were released under the GNU Lesser General Public License.
+ LGPL, version 3.
+ .
+mlpack was originally presented at the BigLearning workshop of NIPS 2011  and later published in the Journal of Machine Learning Research .
+ Please cite mlpack in your work using this citation.
+mlpack bindings for R are provided by the RcppMLPACK project.
+Below is a high_level list of the available functionality contained within mlpack, along with relevant links to papers, API documentation, tutorials, or other references.
+ Collaborative filtering .
+ Decision stumps .
+ Density estimation trees .
+ Euclidean minimum spanning tree calculation .
+ Gaussian mixture models .
+ Hidden Markov models .
+ Kernel Principal Components Analysis .
+ k_Means clustering .
+ Least_angle regression .
+ Linear regression .
+ Local coordinate coding .
+ Locality_sensitive hashing for approximate nearest neighbor search .
+ Logistic regression .
+ Max_kernel search .
+ Naive Bayes classifier .
+ Nearest neighbor search with dual_tree algorithms .
+ Neighborhood components analysis .
+ Non_negative matrix factorization .
+ Perceptrons .
+ Principal components analysis .
+ RADICAL .
+ Range search with dual_tree algorithms .
+ Rank_approximate nearest neighbor search .
+ Sparse coding with dictionary learning .
+mlpack is developed by a team of machine learning researchers around the world.
+ Originally, it was produced by the FASTLab at Georgia Tech, but it has since grown into a much larger effort.
+ Below is a list of contributors .
+ Ryan Curtin1.
+ James Cline.
+ Neil Slagle.
+ Matthew Amidon.
+ Sterling Peet.
+ Vlad Grantcharov.
+ Ajinkya Kale.
+ Bill March.
+ Dongryeol Lee.
+ Nishant Mehta.
+ Parikshit Ram.
+ Rajendran Mohan.
+ Trironk Kiatkungwanglai.
+ Patrick Mason.
+ Chip Mappus.
+ Hua Ouyang.
+ Tran Quoc Long.
+ Noah Kauffman.
+ Guillermo Colon.
+ Wei Guan.
+ Ryan Riegel.
+ Nikolaos Vasiloglou.
+ Garry Boyer.
+ Andreas L f.
+ Marcus Edel.
+ Mudit Raj Gupta.
+ Sumedh Ghaisas.
+ Michael Fox.
+ Ryan Birmingham.
+ Siddharth Agrawal.
+ Saheb Motiani.
+ Yash Vadalia.
+ Abhishek Laddha.
+ Vahab Akbarzadeh.
+ Andrew Wells.
+ Zhihao Lou.
+ Udit Saxena.
+ Stephen Tu.
+ Jaskaran Singh.
+ Shangtong Zhang.
+ Hritik Jain.
+ Vladimir Glazachev.
+ QiaoAn Chen.
+ Janzen Brewer.
+ Trung Dinh.
+ Tham Ngap Wei.
+ Grzegorz Krajewski.
+ Joseph Mariadassou.
+ Pavel Zhigulin.
+ Dhawal Arora.
+ Alexander Leinoff.
+ Palash Ahuja.
+ Yannis Mentekidis.
+ Ranjan Mondal.
+ Mikhail Lozhnikov.
+ Marcos Pividori.
+ Keon Kim.
+ Nilay Jain.
+ Peter Lehner.
+ Anuraj Kanodia.
+ Ivan Georgiev.
+ Shikhar Bhardwaj.
+ Mike Izbicki.
+ Sudanshu Ranjan.
+ Piyush Jaiswal.
+ Dinesh Raj.
+ Vivek Pal.
+ Prasanna Patil.
+ Lakshya Agrawal.
+ Praveen Ch.
+ Kirill Mishchenko.
+ Abhinav Moudgil.
+ Thyrix Yang.
+ Sagar B.
+ Hathwar.
+ Nishanth Hegde.
+ Parminder Singh.
+ CodeAi .
+Interested in contributing  See this page for information on how to get involved.
+1.
+ Developer Ryan Curtin received partial support to work on mlpack in 2015 from the US National Science Foundation under Award 1339745  SI2_SSI.
+ The XScala Project .
+ Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the NSF.
+Currently mlpack supports the following algorithms.
+ Collaborative Filtering.
+ Density Estimation Trees.
+ Euclidean Minimum Spanning Trees.
+ Fast Exact Max_Kernel Search .
+ Gaussian Mixture Models .
+ Hidden Markov Models .
+ Kernel Principal Component Analysis .
+ K_Means Clustering.
+ Least_Angle Regression .
+ Local Coordinate Coding.
+ Locality_Sensitive Hashing .
+ Logistic regression.
+ Naive Bayes Classifier.
+ Neighbourhood Components Analysis .
+ Non_negative Matrix Factorization .
+ Principal Components Analysis .
+ Independent component analysis .
+ Rank_Approximate Nearest Neighbor .
+ Simple Least_Squares Linear Regression .
+ Sparse Coding.
+ Tree_based Neighbor Search , using either kd_trees or cover trees.
+ Tree_based Range Search.
+.
+.
+These are a list of ideas compiled by mlpack developers  they range from simpler code maintenance tasks to difficult machine learning algorithm implementation, which means that there are suitable ideas for a wide range of student abilities and interests.
+ The  necessary knowledge  sections can often be replaced with  willing to learn  for the easier projects, and for some of the more difficult problems, a full understanding of the description statement and some coding knowledge is sufficient.
+This last goal is somewhat in contrast to the scikit_learn project, which generally only implements stable, well_known algorithms.
+ mlpack can fill a niche by providing high_quality implementations of algorithms that just appeared in conferences or journals.
+ In those cases where mlpack is implementing well_known algorithms  i.
+e.
+ SVMs or other standard techniques , we should strive to ensure that our implementation is faster than other implementations.
+ To ensure that, we may use the automatic benchmarking system  see https.
+  www.
+github.
+com zoq benchmarks .
+mlpack is a C   machine learning library with emphasis on scalability, speed, and ease_of_use.
+ Its aim is to make machine learning possible for novice users by means of a simple, consistent API, while simultaneously exploiting C   language features to provide maximum performance and maximum flexibility for expert users.
+ This is done by providing a set of command_line executables which can be used as black boxes, and a modular C   API for expert users and researchers to easily make changes to the internals of the algorithms.
+c  .
+mlpack is a C   machine learning library with emphasis on scalability, speed, and ease_of_use.
+ Its aim is to make machine learning possible for novice users by means of a simple, consistent API, while simultaneously exploiting C   language features to provide maximum performance and maximum flexibility for expert users.
+ This is done by providing a set of command_line executables which can be used as black boxes, and a modular C   API for expert users and researchers to easily make changes to the internals of the algorithms.
+c  .

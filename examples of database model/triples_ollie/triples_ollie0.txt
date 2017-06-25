@@ -1,0 +1,381 @@
+Common logical data models for databases include.
+No extractions found.
+
+ Hierarchical database model.
+No extractions found.
+
+ Network model.
+No extractions found.
+
+ Relational model.
+No extractions found.
+
+ Entity relationship model Enhanced entity relationship model.
+No extractions found.
+
+ Object model.
+No extractions found.
+
+ Document model.
+No extractions found.
+
+ Entity attribute value model.
+0.767: (Entity; attribute; value model)
+
+ Star schema.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+Enhanced.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Common logical data models for databases include.
+No extractions found.
+
+ Hierarchical database model.
+No extractions found.
+
+ Network model.
+No extractions found.
+
+ Relational model.
+No extractions found.
+
+ Entity relationship model Enhanced entity relationship model.
+No extractions found.
+
+ Object model.
+No extractions found.
+
+ Document model.
+No extractions found.
+
+ Entity attribute value model.
+0.767: (Entity; attribute; value model)
+
+ Star schema.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+Enhanced.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+There are many kinds of data models.
+No extractions found.
+
+ Some of the most common ones include.
+No extractions found.
+
+ Hierarchical database model.
+No extractions found.
+
+ Relational model.
+No extractions found.
+
+ Network model.
+No extractions found.
+
+ Object_oriented database model.
+No extractions found.
+
+ Entity_relationship model.
+No extractions found.
+
+ Document model.
+No extractions found.
+
+ Entity_attribute_value model.
+No extractions found.
+
+ Star schema.
+No extractions found.
+
+ The object_relational model, which combines the two that make up its name.
+0.736: (two that make up its name; be combines by; The object_relational model)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A Database model defines the logical design of data.
+0.833: (A Database model; defines; the logical design of data)
+
+ The model describes the relationships between different parts of the data.
+0.807: (The model; describes; the relationships)
+0.303: (different; be parts of; the data)
+
+ Historically, in database design, three models are commonly used.
+0.764: (three models; Historically are commonly used in; database design)
+
+ They are, Hierarchical Model.
+No extractions found.
+
+ Network Model.
+No extractions found.
+
+ Relational Model.
+No extractions found.
+
+     .
+No extractions found.
+
+Database systems can be based on different data models or database models respectively.
+0.9: (Database systems; can be based on; different data models or database models)
+
+ A data model is a collection of concepts and rules for the description of the structure of the database.
+0.939: (A data model; is a collection of; concepts and rules)
+0.922: (A data model; is a collection of concepts for; the description of the structure of the database)
+0.736: (A data model; is; a collection of concepts)
+
+ Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
+0.74: (Structure of the database; means; the data types)
+
+ The most often used data models are.
+No extractions found.
+
+High_level Conceptual Data models.
+No extractions found.
+
+.
+No extractions found.
+
+  .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+  .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+  .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Data models define how the logical structure of a database is modeled.
+No extractions found.
+
+ Data Models are fundamental entities to introduce abstraction in a DBMS.
+0.691: (abstraction; to be introduce in; a DBMS.)
+
+ Data models define how data is connected to each other and how they are processed and stored inside the system.
+0.92: (they; be stored inside; the system)[attrib=Data models define]
+0.894: (data; is connected to; each other)[attrib=Data models define]
+0.852: (they; is connected to; each other)[attrib=Data models define]
+0.807: (data; be stored inside; the system)[attrib=Data models define]
+
+Entity   An entity in an ER Model is a real_world entity having properties called attributes.
+0.718: (Entity; is; a real_world entity having properties)
+0.561: (Entity; be An entity in; an ER Model)
+
+ Every attribute is defined by its set of values called domain.
+No extractions found.
+
+ For example, in a school database, a student is considered as an entity.
+0.914: (a student; is considered as; an entity)
+0.754: (a student; is considered in; a school database)
+0.46: (a student; is considered for; example)
+
+ Student has various attributes like name, age, class, etc.
+0.768: (Student; has; various attributes)
+0.343: (age; be various attributes like; name)
+
+Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc .
+0.718: (Entity; is; a real_world entity having properties)
+0.661: (an entity Student; has; various attributes)
+0.561: (Entity; be An entity in; an ER Model)
+0.343: (age; be various attributes like; name)
+
+Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities   one to one one to many many to one many to many.
+0.94: (relationship Relationships; are mapped with; entities)
+0.911: (cardinalities; define the number of association between; two entities Mapping cardinalities one to one one to many many to one many to many)
+0.877: (the number of association; be define between; two entities Mapping cardinalities one to one one to many many to one many to many)
+0.874: (cardinalities; define; the number of association)
+
+                        .
+No extractions found.
+
+                            .
+No extractions found.
+
+                .
+No extractions found.
+
+In order to understand the hierarchical data model better, let us take the example of the sample database consisting of supplier, parts and shipments.
+0.747: (us; take; the example of the sample database)
+0.723: (the sample database; consisting of; supplier , parts and shipments)
+0.676: (us; be the example of; the sample database consisting of supplier , parts and shipments)
+
+ The record structure and some sample records for supplier, parts and shipments elements are as given in following tables.
+No extractions found.
+
+                              .
+No extractions found.
+
+                                .
+No extractions found.
+
+                                .
+No extractions found.
+

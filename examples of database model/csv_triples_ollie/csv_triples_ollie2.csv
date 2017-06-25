@@ -1,0 +1,15 @@
+8;Entity;attribute;value_model;0.767
+28;Database_design;is;a_process_modeling_an_enterprise_in_the_real_world;0.792
+28;an_enterprise;be_modeling_in;the_real_world;0.674
+29;a_database;is_a_model_of;the_real_world;0.909
+29;selected_information;be_needed_by;the_enterprise;0.782
+29;a_database;is;a_model_of_the_real_world_that_contains_selected_information;0.752
+29;selected_information_needed_by_the_enterprise;be_contains_by;a_model_of_the_real_world;0.628
+29;a_database;is_a_model_of_the_real_world_in;fact;0.446
+31;we;that_present_in;this_tutorial;0.489
+42;two_that_make_up_its_name;be_combines_by;The_object_relational_model;0.736
+55;Entity;attribute;value_model;0.767
+77;A_Database_model;defines;the_logical_design_of_data;0.833
+78;The_model;describes;the_relationships;0.807
+78;different;be_parts_of;the_data;0.303
+79;three_models;Historically_are_commonly_used_in;database_design;0.764

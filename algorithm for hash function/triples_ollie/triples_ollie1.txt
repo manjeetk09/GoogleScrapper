@@ -1,0 +1,157 @@
+01 October 2005.
+No extractions found.
+
+The MD5 function is a cryptographic algorithm that takes an input of arbitrary length and produces a message digest that is 128 bits long.
+0.752: (The MD5 function; is; a cryptographic algorithm that takes an input of arbitrary length and produces a message digest)
+0.661: (a message that is 128 bits long; be produces by; a cryptographic algorithm that takes an input of arbitrary length)
+
+ The digest is sometimes also called the  hash  or  fingerprint  of the input.
+0.818: (The digest; is sometimes also called; the hash or fingerprint of the input)
+0.558: (The digest; be the hash of; the input)
+
+ MD5 is used in many situations where a potentially long message needs to be processed and or compared quickly.
+0.868: (MD5; is used in; many situations where a potentially long message needs to be processed and or compared quickly)
+
+ The most common application is the creation and verification of digital signatures.
+0.912: (The most common application; is the creation of; digital signatures)
+0.778: (The most common application; is; the creation and verification of digital signatures)
+
+The MD5 algorithm is a widely used hash function producing a 128_bit hash value.
+No extractions found.
+
+ Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities.
+No extractions found.
+
+ It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
+0.899: (It; can still be used as; a checksum to verify data integrity)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The MD5 hashing algorithm is a one_way cryptographic function that accepts a message of any length as input and returns as output a fixed_length digest value to be used for authenticating the original message.
+0.825: (The MD5 hashing algorithm; is; a one_way cryptographic function that accepts a message of any length as input and returns as output a fixed_length digest value)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+MD5 was most popular and widely used hash function for quite some years.
+No extractions found.
+
+ The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
+0.851: (The MD family; comprises of; hash functions)
+
+ It was adopted as Internet Standard RFC 1321.
+0.875: (It; was adopted as; Internet Standard RFC 1321)
+
+ It is a 128_bit hash function.
+0.611: (It; is; a 128_bit hash function)
+
+ MD5 digests have been widely used in the software world to provide assurance about integrity of transferred file.
+No extractions found.
+
+ For example, file servers often provide a pre_computed MD5 checksum for the files, so that a user can compare the checksum of the downloaded file to it.
+0.775: (a user; can compare; the checksum of the downloaded file)
+0.73: (file servers; often provide; a pre_computed MD5 checksum)
+0.689: (a user; can compare the checksum of the downloaded file to; it)
+0.631: (the checksum of the downloaded file; can be compare to; it)
+0.085: (file servers; often provide a pre computed MD5 checksum for the files for; example)
+
+ In 2004, collisions were found in MD5.
+0.913: (collisions; were found in; MD5)
+0.797: (collisions; were found in; 2004)
+
+ An analytical attack was reported to be successful only in an hour by using computer cluster.
+0.717: (An analytical attack; was reported; successful)
+
+ This collision attack resulted in compromised MD5 and hence it is no longer recommended for use.
+0.87: (This collision attack; resulted in; compromised MD5)
+0.497: (it; hence is no longer recommended for; use)
+
+The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
+0.851: (The MD family; comprises of; hash functions)
+
+ It was adopted as Internet Standard RFC 1321.
+0.875: (It; was adopted as; Internet Standard RFC 1321)
+
+ It is a 128_bit hash function.
+0.611: (It; is; a 128_bit hash function)
+
+Thanks for A2A.
+No extractions found.
+
+Note.
+No extractions found.
+
+  Though MD5 is widely known, it is not a very secure hash.
+0.596: (it; is; not a very secure hash)
+
+ There exists many attacks such as rainbow table attack.
+0.362: (many; attacks as; rainbow table attack)
+
+  The security of the MD5 hash function is severely compromised.
+No extractions found.
+
+ A collision attack exists that can find collisions within seconds on a computer with a 2.
+0.739: (collisions; can be find on; a computer)
+0.739: (collisions; can be find within; seconds)
+
+6 GHz Pentium 4 processor  complexity of 224.
+No extractions found.
+
+1 .
+No extractions found.
+
+ Further, there is also a chosen_prefix collision attack that can produce a collision for two inputs with specified prefixes within hours, using off_the_shelf computing hardware .
+0.78: (a collision; can be produce for; two inputs using off_the_shelf computing hardware)
+
+ The ability to find collisions has been greatly aided by the use of off_the_shelf GPUs.
+0.937: (The ability to find collisions; has been greatly aided by; the use of off_the_shelf GPUs)
+
+ On an NVIDIA GeForce 8400GS graphics processor, 16 18 million hashes per second can be computed.
+0.766: (16 18 million; hashes per; second)
+
+ An NVIDIA GeForce 8800 Ultra can calculate more than 200 million hashes per second   Source.
+0.625: (An NVIDIA GeForce 8800 Ultra; can calculate; than 200 million)
+
+MD5   .
+No extractions found.
+
+The algorithm Message Digest 5 or MD5, it is a one_way cryptographic hash function.
+0.632: (it; is; a one_way cryptographic)
+
+ MD5 performs many binary operations on the  message  to compute a 128_bit  hash .
+No extractions found.
+

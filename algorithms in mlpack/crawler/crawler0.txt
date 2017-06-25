@@ -1,0 +1,169 @@
+0;mlpack is a C   machine learning library with emphasis on scalability, speed, and ease_of_use.
+0; Its aim is to make machine learning possible for novice users by means of a simple, consistent API, while simultaneously exploiting C   language features to provide maximum performance and maximum flexibility for expert users.
+0; This is done by providing a set of command_line executables which can be used as black boxes, and a modular C   API for expert users and researchers to easily make changes to the internals of the algorithms.
+0;As a result of this approach, mlpack outperforms competing machine learning libraries by large margins  see the BigLearning workshop paper and the benchmarks for details.
+0;mlpack is developed by contributors from around the world.
+0; It is released free of charge, under the 3_clause BSD License .
+0;  Versions older than 1.
+0;0.
+0;12 were released under the GNU Lesser General Public License.
+0; LGPL, version 3.
+0; .
+0;mlpack was originally presented at the BigLearning workshop of NIPS 2011  and later published in the Journal of Machine Learning Research .
+0; Please cite mlpack in your work using this citation.
+0;mlpack bindings for R are provided by the RcppMLPACK project.
+0;Below is a high_level list of the available functionality contained within mlpack, along with relevant links to papers, API documentation, tutorials, or other references.
+0; Collaborative filtering .
+0; Decision stumps .
+0; Density estimation trees .
+0; Euclidean minimum spanning tree calculation .
+0; Gaussian mixture models .
+0; Hidden Markov models .
+0; Kernel Principal Components Analysis .
+0; k_Means clustering .
+0; Least_angle regression .
+0; Linear regression .
+0; Local coordinate coding .
+0; Locality_sensitive hashing for approximate nearest neighbor search .
+0; Logistic regression .
+0; Max_kernel search .
+0; Naive Bayes classifier .
+0; Nearest neighbor search with dual_tree algorithms .
+0; Neighborhood components analysis .
+0; Non_negative matrix factorization .
+0; Perceptrons .
+0; Principal components analysis .
+0; RADICAL .
+0; Range search with dual_tree algorithms .
+0; Rank_approximate nearest neighbor search .
+0; Sparse coding with dictionary learning .
+0;mlpack is developed by a team of machine learning researchers around the world.
+0; Originally, it was produced by the FASTLab at Georgia Tech, but it has since grown into a much larger effort.
+0; Below is a list of contributors .
+0; Ryan Curtin1.
+0; James Cline.
+0; Neil Slagle.
+0; Matthew Amidon.
+0; Sterling Peet.
+0; Vlad Grantcharov.
+0; Ajinkya Kale.
+0; Bill March.
+0; Dongryeol Lee.
+0; Nishant Mehta.
+0; Parikshit Ram.
+0; Rajendran Mohan.
+0; Trironk Kiatkungwanglai.
+0; Patrick Mason.
+0; Chip Mappus.
+0; Hua Ouyang.
+0; Tran Quoc Long.
+0; Noah Kauffman.
+0; Guillermo Colon.
+0; Wei Guan.
+0; Ryan Riegel.
+0; Nikolaos Vasiloglou.
+0; Garry Boyer.
+0; Andreas L f.
+0; Marcus Edel.
+0; Mudit Raj Gupta.
+0; Sumedh Ghaisas.
+0; Michael Fox.
+0; Ryan Birmingham.
+0; Siddharth Agrawal.
+0; Saheb Motiani.
+0; Yash Vadalia.
+0; Abhishek Laddha.
+0; Vahab Akbarzadeh.
+0; Andrew Wells.
+0; Zhihao Lou.
+0; Udit Saxena.
+0; Stephen Tu.
+0; Jaskaran Singh.
+0; Shangtong Zhang.
+0; Hritik Jain.
+0; Vladimir Glazachev.
+0; QiaoAn Chen.
+0; Janzen Brewer.
+0; Trung Dinh.
+0; Tham Ngap Wei.
+0; Grzegorz Krajewski.
+0; Joseph Mariadassou.
+0; Pavel Zhigulin.
+0; Dhawal Arora.
+0; Alexander Leinoff.
+0; Palash Ahuja.
+0; Yannis Mentekidis.
+0; Ranjan Mondal.
+0; Mikhail Lozhnikov.
+0; Marcos Pividori.
+0; Keon Kim.
+0; Nilay Jain.
+0; Peter Lehner.
+0; Anuraj Kanodia.
+0; Ivan Georgiev.
+0; Shikhar Bhardwaj.
+0; Mike Izbicki.
+0; Sudanshu Ranjan.
+0; Piyush Jaiswal.
+0; Dinesh Raj.
+0; Vivek Pal.
+0; Prasanna Patil.
+0; Lakshya Agrawal.
+0; Praveen Ch.
+0; Kirill Mishchenko.
+0; Abhinav Moudgil.
+0; Thyrix Yang.
+0; Sagar B.
+0; Hathwar.
+0; Nishanth Hegde.
+0; Parminder Singh.
+0; CodeAi .
+0;Interested in contributing  See this page for information on how to get involved.
+0;1.
+0; Developer Ryan Curtin received partial support to work on mlpack in 2015 from the US National Science Foundation under Award 1339745  SI2_SSI.
+0; The XScala Project .
+0; Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the NSF.
+0;Currently mlpack supports the following algorithms.
+0; Collaborative Filtering.
+0; Density Estimation Trees.
+0; Euclidean Minimum Spanning Trees.
+0; Fast Exact Max_Kernel Search .
+0; Gaussian Mixture Models .
+0; Hidden Markov Models .
+0; Kernel Principal Component Analysis .
+0; K_Means Clustering.
+0; Least_Angle Regression .
+0; Local Coordinate Coding.
+0; Locality_Sensitive Hashing .
+0; Logistic regression.
+0; Naive Bayes Classifier.
+0; Neighbourhood Components Analysis .
+0; Non_negative Matrix Factorization .
+0; Principal Components Analysis .
+0; Independent component analysis .
+0; Rank_Approximate Nearest Neighbor .
+0; Simple Least_Squares Linear Regression .
+0; Sparse Coding.
+0; Tree_based Neighbor Search , using either kd_trees or cover trees.
+0; Tree_based Range Search.
+0;.
+0;.
+0;These are a list of ideas compiled by mlpack developers  they range from simpler code maintenance tasks to difficult machine learning algorithm implementation, which means that there are suitable ideas for a wide range of student abilities and interests.
+0; The  necessary knowledge  sections can often be replaced with  willing to learn  for the easier projects, and for some of the more difficult problems, a full understanding of the description statement and some coding knowledge is sufficient.
+0;This last goal is somewhat in contrast to the scikit_learn project, which generally only implements stable, well_known algorithms.
+0; mlpack can fill a niche by providing high_quality implementations of algorithms that just appeared in conferences or journals.
+0; In those cases where mlpack is implementing well_known algorithms  i.
+0;e.
+0; SVMs or other standard techniques , we should strive to ensure that our implementation is faster than other implementations.
+0; To ensure that, we may use the automatic benchmarking system  see https.
+0;  www.
+0;github.
+0;com zoq benchmarks .
+0;mlpack is a C   machine learning library with emphasis on scalability, speed, and ease_of_use.
+0; Its aim is to make machine learning possible for novice users by means of a simple, consistent API, while simultaneously exploiting C   language features to provide maximum performance and maximum flexibility for expert users.
+0; This is done by providing a set of command_line executables which can be used as black boxes, and a modular C   API for expert users and researchers to easily make changes to the internals of the algorithms.
+0;c  .
+0;mlpack is a C   machine learning library with emphasis on scalability, speed, and ease_of_use.
+0; Its aim is to make machine learning possible for novice users by means of a simple, consistent API, while simultaneously exploiting C   language features to provide maximum performance and maximum flexibility for expert users.
+0; This is done by providing a set of command_line executables which can be used as black boxes, and a modular C   API for expert users and researchers to easily make changes to the internals of the algorithms.
+0;c  .

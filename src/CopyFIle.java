@@ -93,5 +93,20 @@ public class CopyFIle
 
         copyFunc(temp_num, template, "urls", "txt");
 
+        String source = "Category";
+        String dest = template + "/Category";
+        File sourceF = new File(source);
+        File destF = new File(dest);
+        if(!destF.exists()){
+            destF.mkdirs();
+        }
+        String files[] = sourceF.list();
+        for (String file : files)
+        {
+            File srcFile = new File(source, file);
+            File destFile = new File(dest, file);
+            Files.copy(srcFile.toPath(), destFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
+        }
+
     }
 }

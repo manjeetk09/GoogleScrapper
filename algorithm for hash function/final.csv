@@ -1,0 +1,445 @@
+0;1;https://en.wikipedia.org/wiki/Hash_function;function;1.5;0.05263157894736842;6.0;0.0;1
+0;1;https://en.wikipedia.org/wiki/Hash_function;hash function;1.75;0.10526315789473684;2.0;0.0;1
+0;1;https://en.wikipedia.org/wiki/Hash_function;arbitrary size;2.0;0.05263157894736842;6.0;0.0;1
+0;1;https://en.wikipedia.org/wiki/Hash_function;fixed size;2.0;0.05263157894736842;6.0;0.0;1
+0;1;https://en.wikipedia.org/wiki/Hash_function;data;1.5;0.05263157894736842;6.0;0.0;1
+0;1;https://en.wikipedia.org/wiki/Hash_function;map data;1.75;0.05263157894736842;6.0;0.0;1
+0;2;https://en.wikipedia.org/wiki/Hash_function;hash function;2.166666666665;0.10526315789473684;2.0;0.7071067811865475;1
+0;2;https://en.wikipedia.org/wiki/Hash_function;called hash values;2.61111111111;0.05263157894736842;6.0;0.7071067811865475;1
+0;2;https://en.wikipedia.org/wiki/Hash_function;hash codes;2.166666666665;0.05263157894736842;6.0;0.7071067811865475;1
+0;2;https://en.wikipedia.org/wiki/Hash_function;values returned;2.25;0.05263157894736842;6.0;0.7071067811865475;1
+0;2;https://en.wikipedia.org/wiki/Hash_function;simply hashes;2.0;0.05263157894736842;6.0;0.7071067811865475;1
+0;2;https://en.wikipedia.org/wiki/Hash_function;digests;1.0;0.05263157894736842;6.0;0.7071067811865475;1
+0;3;https://en.wikipedia.org/wiki/Hash_function;rapid data lookup;3.0;0.05263157894736842;6.0;1.0;1
+0;3;https://en.wikipedia.org/wiki/Hash_function;computer software;2.0;0.05263157894736842;6.0;1.0;1
+0;3;https://en.wikipedia.org/wiki/Hash_function;widely;1.0;0.05263157894736842;6.0;1.0;1
+0;3;https://en.wikipedia.org/wiki/Hash_function;hash table;2.0;0.05263157894736842;1.0;1.0;1
+0;3;https://en.wikipedia.org/wiki/Hash_function;data structure called;3.0;0.05263157894736842;6.0;1.0;1
+0;4;https://en.wikipedia.org/wiki/Hash_function;detecting duplicated records;3.0;0.05263157894736842;6.0;0.0;1
+0;4;https://en.wikipedia.org/wiki/Hash_function;large file;2.0;0.05263157894736842;6.0;0.0;1
+0;4;https://en.wikipedia.org/wiki/Hash_function;database lookup;2.0;0.05263157894736842;6.0;0.0;1
+0;5;https://en.wikipedia.org/wiki/Hash_function;dna sequences;2.0;0.05263157894736842;6.0;0.0;1
+0;5;https://en.wikipedia.org/wiki/Hash_function;finding similar stretches;3.0;0.05263157894736842;6.0;0.0;1
+0;6;https://en.wikipedia.org/wiki/Hash_function;cryptography;1.0;0.0;6.0;0.7071067811865475;1
+0;7;https://en.wikipedia.org/wiki/Hash_function;knowing;1.0;0.0;6.0;0.0;1
+0;7;https://en.wikipedia.org/wiki/Hash_function;hash;2.0;0.05263157894736842;6.0;0.0;1
+0;7;https://en.wikipedia.org/wiki/Hash_function;input data;2.5;0.05263157894736842;6.0;0.0;1
+0;7;https://en.wikipedia.org/wiki/Hash_function;deliberately difficult;2.0;0.05263157894736842;6.0;0.0;1
+0;7;https://en.wikipedia.org/wiki/Hash_function;unknown;1.0;0.05263157894736842;6.0;0.0;1
+0;7;https://en.wikipedia.org/wiki/Hash_function;easily verify;2.0;0.05263157894736842;6.0;0.0;1
+0;7;https://en.wikipedia.org/wiki/Hash_function;stored hash;2.0;0.05263157894736842;6.0;0.0;1
+0;7;https://en.wikipedia.org/wiki/Hash_function;reconstruct;1.0;0.0;6.0;0.0;1
+0;7;https://en.wikipedia.org/wiki/Hash_function;cryptographic hash function;2.6666666666666665;0.05263157894736842;6.0;0.0;1
+0;7;https://en.wikipedia.org/wiki/Hash_function;input data maps;2.6666666666666665;0.05263157894736842;6.0;0.0;1
+0;8;https://en.wikipedia.org/wiki/Hash_function;assuring integrity;2.0;0.05263157894736842;6.0;0;1
+0;8;https://en.wikipedia.org/wiki/Hash_function;provide message authentication;3.0;0.05263157894736842;6.0;0;1
+0;8;https://en.wikipedia.org/wiki/Hash_function;transmitted data;2.0;0.05263157894736842;6.0;0;1
+0;8;https://en.wikipedia.org/wiki/Hash_function;hmacs;1.0;0.0;6.0;0;1
+0;8;https://en.wikipedia.org/wiki/Hash_function;building block;2.0;0.05263157894736842;6.0;0;1
+0;14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;easy;1.0;0.027777777777777776;6.0;1.0;0
+0;14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;items;1.0;0.05555555555555555;6.0;1.0;0
+0;14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;make;1.0;0.027777777777777776;3.0;1.0;0
+0;14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;collection;1.0;0.027777777777777776;6.0;1.0;0
+0;14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;stored;1.0;0.027777777777777776;6.0;1.0;0
+0;14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hash table;2.0;0.1388888888888889;2.0;1.0;0
+0;14;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;find;1.0;0.027777777777777776;6.0;1.0;0
+0;15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slot;1.0;0.05555555555555555;6.0;0.7071067811865475;0
+0;15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;named;1.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;item;1.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hash table;2.0;0.1388888888888889;2.0;0.7071067811865475;0
+0;15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;integer;1.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;position;1.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hold;1.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;starting;1.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;15;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;called;1.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;16;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slot named 2;1.3333333333333333;0.027777777777777776;6.0;1.0;0
+0;16;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slot named 1;1.3333333333333333;0.027777777777777776;6.0;1.0;0
+0;16;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slot named 0;1.3333333333333333;0.027777777777777776;6.0;1.0;0
+0;17;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;initially;1.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;17;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;items;1.0;0.05555555555555555;6.0;0.7071067811865475;0
+0;17;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;empty;1.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;17;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hash table;2.0;0.1388888888888889;2.0;0.7071067811865475;0
+0;17;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slot;1.0;0.05555555555555555;6.0;0.7071067811865475;0
+0;18;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;element initialized;2.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;18;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;implement;1.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;18;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;list;1.0;0.0;6.0;0.7071067811865475;0
+0;18;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hash table;2.0;0.1388888888888889;2.0;0.7071067811865475;0
+0;18;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;special python;2.0;0.027777777777777776;6.0;0.7071067811865475;0
+0;19;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;figure 4 shows;1.3333333333333333;0.027777777777777776;6.0;0.0;0
+0;19;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;hash table;2.0;0.1388888888888889;2.0;0.0;0
+0;19;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;size;1.0;0.027777777777777776;6.0;0.0;0
+0;20;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;named 0;0.5;0.027777777777777776;6.0;0.0;0
+0;20;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;table;1.0;0.027777777777777776;6.0;0.0;0
+0;20;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;slots;1.0;0.027777777777777776;6.0;0.0;0
+0;20;http://interactivepython.org/runestone/static/pythonds/SortSearch/Hashing.html;words;1.0;0.027777777777777776;3.0;0.0;0
+0;21;https://en.wikipedia.org/wiki/Hash_function;function;1.5;0.05263157894736842;6.0;0.0;0
+0;21;https://en.wikipedia.org/wiki/Hash_function;hash function;1.75;0.10526315789473684;2.0;0.0;0
+0;21;https://en.wikipedia.org/wiki/Hash_function;arbitrary size;2.0;0.05263157894736842;6.0;0.0;0
+0;21;https://en.wikipedia.org/wiki/Hash_function;fixed size;2.0;0.05263157894736842;6.0;0.0;0
+0;21;https://en.wikipedia.org/wiki/Hash_function;data;1.5;0.05263157894736842;6.0;0.0;0
+0;21;https://en.wikipedia.org/wiki/Hash_function;map data;1.75;0.05263157894736842;6.0;0.0;0
+0;22;https://en.wikipedia.org/wiki/Hash_function;hash function;2.166666666665;0.10526315789473684;2.0;0.7071067811865475;0
+0;22;https://en.wikipedia.org/wiki/Hash_function;called hash values;2.61111111111;0.05263157894736842;6.0;0.7071067811865475;0
+0;22;https://en.wikipedia.org/wiki/Hash_function;hash codes;2.166666666665;0.05263157894736842;6.0;0.7071067811865475;0
+0;22;https://en.wikipedia.org/wiki/Hash_function;values returned;2.25;0.05263157894736842;6.0;0.7071067811865475;0
+0;22;https://en.wikipedia.org/wiki/Hash_function;simply hashes;2.0;0.05263157894736842;6.0;0.7071067811865475;0
+0;22;https://en.wikipedia.org/wiki/Hash_function;digests;1.0;0.05263157894736842;6.0;0.7071067811865475;0
+0;23;https://en.wikipedia.org/wiki/Hash_function;rapid data lookup;3.0;0.05263157894736842;6.0;1.0;0
+0;23;https://en.wikipedia.org/wiki/Hash_function;computer software;2.0;0.05263157894736842;6.0;1.0;0
+0;23;https://en.wikipedia.org/wiki/Hash_function;widely;1.0;0.05263157894736842;6.0;1.0;0
+0;23;https://en.wikipedia.org/wiki/Hash_function;hash table;2.0;0.05263157894736842;1.0;1.0;0
+0;23;https://en.wikipedia.org/wiki/Hash_function;data structure called;3.0;0.05263157894736842;6.0;1.0;0
+0;24;https://en.wikipedia.org/wiki/Hash_function;detecting duplicated records;3.0;0.05263157894736842;6.0;0.0;0
+0;24;https://en.wikipedia.org/wiki/Hash_function;large file;2.0;0.05263157894736842;6.0;0.0;0
+0;24;https://en.wikipedia.org/wiki/Hash_function;database lookup;2.0;0.05263157894736842;6.0;0.0;0
+0;25;https://en.wikipedia.org/wiki/Hash_function;dna sequences;2.0;0.05263157894736842;6.0;0.0;0
+0;25;https://en.wikipedia.org/wiki/Hash_function;finding similar stretches;3.0;0.05263157894736842;6.0;0.0;0
+0;26;https://en.wikipedia.org/wiki/Hash_function;cryptography;1.0;0.0;6.0;0.7071067811865475;0
+0;27;https://en.wikipedia.org/wiki/Hash_function;knowing;1.0;0.0;6.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Hash_function;hash;2.0;0.05263157894736842;6.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Hash_function;input data;2.5;0.05263157894736842;6.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Hash_function;deliberately difficult;2.0;0.05263157894736842;6.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Hash_function;unknown;1.0;0.05263157894736842;6.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Hash_function;easily verify;2.0;0.05263157894736842;6.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Hash_function;stored hash;2.0;0.05263157894736842;6.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Hash_function;reconstruct;1.0;0.0;6.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Hash_function;cryptographic hash function;2.6666666666666665;0.05263157894736842;6.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Hash_function;input data maps;2.6666666666666665;0.05263157894736842;6.0;0.0;0
+0;28;https://en.wikipedia.org/wiki/Hash_function;assuring integrity;2.0;0.05263157894736842;6.0;0;0
+0;28;https://en.wikipedia.org/wiki/Hash_function;provide message authentication;3.0;0.05263157894736842;6.0;0;0
+0;28;https://en.wikipedia.org/wiki/Hash_function;transmitted data;2.0;0.05263157894736842;6.0;0;0
+0;28;https://en.wikipedia.org/wiki/Hash_function;hmacs;1.0;0.0;6.0;0;0
+0;28;https://en.wikipedia.org/wiki/Hash_function;building block;2.0;0.05263157894736842;6.0;0;0
+0;34;https://en.wikibooks.org/wiki/Algorithm_Implementation/Hashing;fixme;1.0;0.0;6.0;0;0
+0;35;https://en.wikibooks.org/wiki/Algorithm_Implementation/Hashing;universal hash function;3.0;0.3333333333333333;6.0;0.0;0
+0;35;https://en.wikibooks.org/wiki/Algorithm_Implementation/Hashing;words;1.0;0.3333333333333333;3.0;0.0;0
+0;38;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;difference;1.0;0.1111111111111111;6.0;0;0
+0;38;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;understand;1.0;0.1111111111111111;6.0;0;0
+0;38;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash function;2.0;0.1111111111111111;1.0;0;0
+0;38;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;algorithm correctly;2.0;0.1111111111111111;6.0;0;0
+0;39;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;blocks;1.0;0.1111111111111111;6.0;0.0;0
+0;39;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash function generates;2.8333333333333335;0.1111111111111111;6.0;0.0;0
+0;39;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;operating;1.0;0.1111111111111111;6.0;0.0;0
+0;39;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;fixed_length binary data;3.0;0.1111111111111111;6.0;0.0;0
+0;39;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash code;2.25;0.1111111111111111;6.0;0.0;0
+0;40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;hash function;2.666666666665;0.0625;1.0;0.0;0
+0;40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;data structures courses;3.0;0.0625;6.0;0.0;0
+0;40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;good hash function;2.7777777777766666;0.0625;6.0;0.0;0
+0;40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;make;1.0;0.0625;3.0;0.0;0
+0;40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;applications;1.0;0.0;6.0;0.0;0
+0;40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;college;1.0;0.0625;6.0;0.0;0
+0;40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;lot;1.0;0.0;6.0;0.0;0
+0;40;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;pretty hard;2.0;0.0625;6.0;0.0;0
+0;41;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;professor;1.0;0.0625;6.0;0.0;0
+0;41;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;avoid collisions;2.0;0.0625;6.0;0.0;0
+0;41;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;thumb;1.0;0.0625;6.0;0.0;0
+0;41;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;rule;1.0;0.0625;6.0;0.0;0
+0;42;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;data _;2.0;0.0;6.0;0.7071067811865475;0
+0;42;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;kind;1.0;0.0;6.0;0.7071067811865475;0
+0;42;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;paul hsieh;2.0;0.0625;6.0;0.7071067811865475;0
+0;42;https://stackoverflow.com/questions/34595/what-is-a-good-hash-function;basically;1.0;0.0625;6.0;0.7071067811865475;0
+1;1;http://www.iusmentis.com/technology/hashfunctions/md5/;01 october 2005;0.3333333333333333;0.043478260869565216;6.0;0;0
+1;2;http://www.iusmentis.com/technology/hashfunctions/md5/;takes;1.0;0.043478260869565216;6.0;0.7071067811865475;0
+1;2;http://www.iusmentis.com/technology/hashfunctions/md5/;produces;1.0;0.043478260869565216;6.0;0.7071067811865475;0
+1;2;http://www.iusmentis.com/technology/hashfunctions/md5/;cryptographic algorithm;2.0;0.043478260869565216;6.0;0.7071067811865475;0
+1;2;http://www.iusmentis.com/technology/hashfunctions/md5/;md5 function;2.0;0.043478260869565216;6.0;0.7071067811865475;0
+1;2;http://www.iusmentis.com/technology/hashfunctions/md5/;message digest;2.0;0.043478260869565216;6.0;0.7071067811865475;0
+1;2;http://www.iusmentis.com/technology/hashfunctions/md5/;input;1.0;0.08695652173913043;3.0;0.7071067811865475;0
+1;2;http://www.iusmentis.com/technology/hashfunctions/md5/;128 bits long;1.3333333333333333;0.043478260869565216;6.0;0.7071067811865475;0
+1;2;http://www.iusmentis.com/technology/hashfunctions/md5/;arbitrary length;2.0;0.043478260869565216;6.0;0.7071067811865475;0
+1;3;http://www.iusmentis.com/technology/hashfunctions/md5/;input;1.0;0.08695652173913043;3.0;0.7071067811865475;0
+1;3;http://www.iusmentis.com/technology/hashfunctions/md5/;hash;1.0;0.043478260869565216;6.0;0.7071067811865475;0
+1;3;http://www.iusmentis.com/technology/hashfunctions/md5/;called;1.0;0.043478260869565216;6.0;0.7071067811865475;0
+1;3;http://www.iusmentis.com/technology/hashfunctions/md5/;digest;1.0;0.043478260869565216;6.0;0.7071067811865475;0
+1;3;http://www.iusmentis.com/technology/hashfunctions/md5/;fingerprint;1.0;0.0;6.0;0.7071067811865475;0
+1;4;http://www.iusmentis.com/technology/hashfunctions/md5/;situations;1.0;0.043478260869565216;6.0;1.0;0
+1;4;http://www.iusmentis.com/technology/hashfunctions/md5/;compared quickly;2.0;0.043478260869565216;6.0;1.0;0
+1;4;http://www.iusmentis.com/technology/hashfunctions/md5/;processed;1.0;0.043478260869565216;6.0;1.0;0
+1;4;http://www.iusmentis.com/technology/hashfunctions/md5/;potentially long message;3.0;0.043478260869565216;6.0;1.0;0
+1;4;http://www.iusmentis.com/technology/hashfunctions/md5/;md5;1.0;0.0;6.0;1.0;0
+1;5;http://www.iusmentis.com/technology/hashfunctions/md5/;digital signatures;2.0;0.043478260869565216;6.0;0.0;0
+1;5;http://www.iusmentis.com/technology/hashfunctions/md5/;common application;2.0;0.043478260869565216;6.0;0.0;0
+1;5;http://www.iusmentis.com/technology/hashfunctions/md5/;creation;1.0;0.043478260869565216;6.0;0.0;0
+1;5;http://www.iusmentis.com/technology/hashfunctions/md5/;verification;1.0;0.0;6.0;0.0;0
+1;6;https://en.wikipedia.org/wiki/MD5;128_bit hash;2.25;0.07692307692307693;3.0;0;0
+1;6;https://en.wikipedia.org/wiki/MD5;hash function producing;2.8333333333333335;0.07692307692307693;6.0;0;0
+1;6;https://en.wikipedia.org/wiki/MD5;widely;1.0;0.07692307692307693;1.5;0;0
+1;6;https://en.wikipedia.org/wiki/MD5;md5 algorithm;2.0;0.07692307692307693;6.0;0;0
+1;7;https://en.wikipedia.org/wiki/MD5;initially designed;2.0;0.07692307692307693;6.0;0;0
+1;7;https://en.wikipedia.org/wiki/MD5;extensive vulnerabilities;2.0;0.07692307692307693;6.0;0;0
+1;7;https://en.wikipedia.org/wiki/MD5;found;1.0;0.07692307692307693;3.0;0;0
+1;7;https://en.wikipedia.org/wiki/MD5;cryptographic hash function;3.0;0.07692307692307693;6.0;0;0
+1;7;https://en.wikipedia.org/wiki/MD5;suffer;1.0;0.07692307692307693;6.0;0;0
+1;7;https://en.wikipedia.org/wiki/MD5;md5;1.0;0.0;6.0;0;0
+1;8;https://en.wikipedia.org/wiki/MD5;checksum;1.0;0.0;6.0;1.0;0
+1;8;https://en.wikipedia.org/wiki/MD5;unintentional corruption;2.0;0.07692307692307693;6.0;1.0;0
+1;8;https://en.wikipedia.org/wiki/MD5;verify data integrity;3.0;0.07692307692307693;6.0;1.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;fixed_length digest;2.0;0.09090909090909091;6.0;0.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;accepts;1.0;0.09090909090909091;6.0;0.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;returns;1.0;0.09090909090909091;6.0;0.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;length;1.0;0.0;6.0;0.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;original message;1.75;0.09090909090909091;6.0;0.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;output;1.0;0.09090909090909091;6.0;0.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;input;1.0;0.09090909090909091;2.0;0.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;message;1.5;0.09090909090909091;3.0;0.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;authenticating;1.0;0.0;6.0;0.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;one_way cryptographic function;3.0;0.09090909090909091;6.0;0.0;0
+1;17;http://searchsecurity.techtarget.com/definition/MD5;md5 hashing algorithm;3.0;0.09090909090909091;6.0;0.0;0
+1;23;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;popular;1.0;0.022727272727272728;6.0;0;0
+1;23;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;years;1.0;0.022727272727272728;6.0;0;0
+1;23;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash function;2.0;0.022727272727272728;6.0;0;0
+1;23;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;widely;1.0;0.045454545454545456;2.0;0;0
+1;23;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md5;1.0;0.0;6.0;0;0
+1;24;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash functions md2;3.0;0.045454545454545456;6.0;1.0;0
+1;24;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md family comprises;3.0;0.045454545454545456;6.0;1.0;0
+1;24;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md6;1.0;0.0;6.0;1.0;0
+1;24;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md4;1.0;0.0;6.0;1.0;0
+1;24;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md5;1.0;0.0;6.0;1.0;0
+1;25;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;adopted;1.0;0.045454545454545456;6.0;0.0;0
+1;26;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;128_bit hash function;3.0;0.045454545454545456;6.0;0.0;0
+1;27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;transferred file;2.0;0.022727272727272728;6.0;0;0
+1;27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;software world;2.0;0.022727272727272728;6.0;0;0
+1;27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;provide assurance;2.0;0.022727272727272728;6.0;0;0
+1;27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;integrity;1.0;0.022727272727272728;6.0;0;0
+1;27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;widely;1.0;0.045454545454545456;2.0;0;0
+1;27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md5 digests;2.0;0.022727272727272728;6.0;0;0
+1;28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;files;1.0;0.022727272727272728;6.0;0.7071067811865475;0
+1;28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;downloaded file;2.0;0.022727272727272728;6.0;0.7071067811865475;0
+1;28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;compare;1.0;0.022727272727272728;6.0;0.7071067811865475;0
+1;28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;provide;1.0;0.022727272727272728;6.0;0.7071067811865475;0
+1;28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;checksum;2.0;0.0;6.0;0.7071067811865475;0
+1;28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;user;1.0;0.022727272727272728;6.0;0.7071067811865475;0
+1;28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;file servers;2.0;0.022727272727272728;6.0;0.7071067811865475;0
+1;28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;pre_computed md5 checksum;2.6666666666666665;0.022727272727272728;6.0;0.7071067811865475;0
+1;29;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;collisions;1.0;0.022727272727272728;6.0;0.0;0
+1;29;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md5;1.0;0.0;6.0;0.0;0
+1;29;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;found;1.0;0.022727272727272728;3.0;0.0;0
+1;30;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;successful;1.0;0.022727272727272728;6.0;0.0;0
+1;30;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;reported;1.0;0.022727272727272728;6.0;0.0;0
+1;30;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;analytical attack;2.0;0.022727272727272728;6.0;0.0;0
+1;30;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hour;1.0;0.022727272727272728;6.0;0.0;0
+1;30;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;computer cluster;2.0;0.022727272727272728;6.0;0.0;0
+1;31;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;longer recommended;2.0;0.022727272727272728;6.0;0.0;0
+1;31;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;collision attack resulted;3.0;0.022727272727272728;6.0;0.0;0
+1;31;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;compromised md5;2.0;0.022727272727272728;6.0;0.0;0
+1;32;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash functions md2;3.0;0.045454545454545456;6.0;1.0;0
+1;32;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md family comprises;3.0;0.045454545454545456;6.0;1.0;0
+1;32;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md6;1.0;0.0;6.0;1.0;0
+1;32;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md4;1.0;0.0;6.0;1.0;0
+1;32;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md5;1.0;0.0;6.0;1.0;0
+1;33;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;adopted;1.0;0.045454545454545456;6.0;0.0;0
+1;34;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;128_bit hash function;3.0;0.045454545454545456;6.0;0.0;0
+1;35;https://www.quora.com/How-does-the-MD5-algorithm-work;a2a;1.0;0.0;6.0;0;0
+1;36;https://www.quora.com/How-does-the-MD5-algorithm-work;note;1.0;0.03225806451612903;6.0;0;0
+1;37;https://www.quora.com/How-does-the-MD5-algorithm-work;secure hash;2.0;0.03225806451612903;6.0;0.0;0
+1;37;https://www.quora.com/How-does-the-MD5-algorithm-work;widely;1.0;0.03225806451612903;1.5;0.0;0
+1;37;https://www.quora.com/How-does-the-MD5-algorithm-work;md5;1.0;0.0;6.0;0.0;0
+1;38;https://www.quora.com/How-does-the-MD5-algorithm-work;attacks;1.0;0.03225806451612903;6.0;0.0;0
+1;38;https://www.quora.com/How-does-the-MD5-algorithm-work;rainbow table attack;3.0;0.03225806451612903;6.0;0.0;0
+1;38;https://www.quora.com/How-does-the-MD5-algorithm-work;exists;1.0;0.03225806451612903;6.0;0.0;0
+1;39;https://www.quora.com/How-does-the-MD5-algorithm-work;security;1.0;0.03225806451612903;6.0;0;0
+1;39;https://www.quora.com/How-does-the-MD5-algorithm-work;severely compromised;2.0;0.03225806451612903;6.0;0;0
+1;39;https://www.quora.com/How-does-the-MD5-algorithm-work;md5 hash function;3.0;0.03225806451612903;6.0;0;0
+1;40;https://www.quora.com/How-does-the-MD5-algorithm-work;seconds;1.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;40;https://www.quora.com/How-does-the-MD5-algorithm-work;collision attack exists;3.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;40;https://www.quora.com/How-does-the-MD5-algorithm-work;computer;1.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;40;https://www.quora.com/How-does-the-MD5-algorithm-work;find collisions;2.0;0.06451612903225806;6.0;0.7071067811865475;0
+1;43;https://www.quora.com/How-does-the-MD5-algorithm-work;hours;1.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;43;https://www.quora.com/How-does-the-MD5-algorithm-work;chosen_prefix collision attack;2.6666666666666665;0.03225806451612903;6.0;0.7071067811865475;0
+1;43;https://www.quora.com/How-does-the-MD5-algorithm-work;inputs;1.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;43;https://www.quora.com/How-does-the-MD5-algorithm-work;off_the_shelf computing hardware;3.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;43;https://www.quora.com/How-does-the-MD5-algorithm-work;prefixes;1.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;43;https://www.quora.com/How-does-the-MD5-algorithm-work;collision;2.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;43;https://www.quora.com/How-does-the-MD5-algorithm-work;produce;1.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;44;https://www.quora.com/How-does-the-MD5-algorithm-work;off_the_shelf gpus;2.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;44;https://www.quora.com/How-does-the-MD5-algorithm-work;greatly aided;2.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;44;https://www.quora.com/How-does-the-MD5-algorithm-work;ability;1.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;44;https://www.quora.com/How-does-the-MD5-algorithm-work;find collisions;2.0;0.06451612903225806;6.0;0.7071067811865475;0
+1;45;https://www.quora.com/How-does-the-MD5-algorithm-work;computed;1.0;0.03225806451612903;6.0;0.0;0
+1;46;https://www.quora.com/How-does-the-MD5-algorithm-work;source;1.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;46;https://www.quora.com/How-does-the-MD5-algorithm-work;200 million hashes;1.3333333333333333;0.03225806451612903;6.0;0.7071067811865475;0
+1;46;https://www.quora.com/How-does-the-MD5-algorithm-work;calculate;1.0;0.03225806451612903;6.0;0.7071067811865475;0
+1;47;https://www.quora.com/How-does-the-MD5-algorithm-work;md5;1.0;0.0;6.0;0;0
+1;48;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;md5;1.0;0.0;6.0;0.0;0
+1;49;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;message;1.0;0.16666666666666666;3.0;0;0
+1;49;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;compute;1.0;0.16666666666666666;6.0;0;0
+1;49;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;binary operations;2.0;0.16666666666666666;6.0;0;0
+1;49;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;md5 performs;2.0;0.16666666666666666;6.0;0;0
+1;49;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;128_bit  hash;1.3333333333333333;0.16666666666666666;3.0;0;0
+2;1;http://www.drdobbs.com/database/algorithm-alley/184410284;bob jenkins;2.0;0.5;3.0;0;0
+2;1;http://www.drdobbs.com/database/algorithm-alley/184410284;september 01;0.5;0.5;6.0;0;0
+2;18;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;january 01;0.5;0.027777777777777776;6.0;0;0
+2;18;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;john boyer;2.0;0.027777777777777776;6.0;0;0
+2;27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;bob jenkins presented;3.0;0.027777777777777776;6.0;0.0;0
+2;27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashing function;2.0;0.027777777777777776;6.0;0.0;0
+2;27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;recently;1.0;0.027777777777777776;6.0;0.0;0
+2;27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;complex mixing operation;3.0;0.027777777777777776;6.0;0.0;0
+2;27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;12 bytes;0.5;0.027777777777777776;6.0;0.0;0
+2;27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;input key;2.0;0.027777777777777776;6.0;0.0;0
+2;27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;performs;1.0;0.027777777777777776;6.0;0.0;0
+2;27;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;time;1.0;0.027777777777777776;6.0;0.0;0
+2;28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hash;1.0;0.05555555555555555;3.0;1.0;0
+2;28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;bytes;1.0;0.027777777777777776;6.0;1.0;0
+2;28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;regions;1.0;0.027777777777777776;6.0;1.0;0
+2;28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;design;1.0;0.027777777777777776;6.0;1.0;0
+2;28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;key;1.0;0.0;6.0;1.0;0
+2;28;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;affect;1.0;0.027777777777777776;6.0;1.0;0
+2;29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hash function suffers;2.6666666666666665;0.027777777777777776;6.0;0.0;0
+2;29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;truncated;1.0;0.027777777777777776;6.0;0.0;0
+2;29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hash;2.0;0.05555555555555555;3.0;0.0;0
+2;29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;table size;2.0;0.027777777777777776;6.0;0.0;0
+2;29;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;information loss;2.0;0.027777777777777776;6.0;0.0;0
+2;30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;table 1 shows;1.3333333333333333;0.027777777777777776;6.0;0.0;0
+2;30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;greater;1.0;0.027777777777777776;6.0;0.0;0
+2;30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;jenkins  hash function;2.25;0.027777777777777776;6.0;0.0;0
+2;30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;efficiency;1.0;0.027777777777777776;6.0;0.0;0
+2;30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;original hashpjw;1.75;0.027777777777777776;6.0;0.0;0
+2;30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashpjw;1.5;0.0;6.0;0.0;0
+2;30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;slightly;1.0;0.05555555555555555;6.0;0.0;0
+2;30;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashjband;1.0;0.0;6.0;0.0;0
+2;31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;cpu time;2.0;0.027777777777777776;6.0;0;0
+2;31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;compute hash values;3.0;0.027777777777777776;6.0;0;0
+2;31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;run time;2.0;0.027777777777777776;6.0;0;0
+2;31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashjbis equivalent;2.0;0.027777777777777776;6.0;0;0
+2;31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;hashjenkinsbecause;1.0;0.0;6.0;0;0
+2;31;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;slightly;1.0;0.05555555555555555;6.0;0;0
+2;32;http://www.drdobbs.com/architecture-and-design/algorithm-alley/184410473;ddj;1.0;0.0;6.0;0;0
+2;41;https://en.wikipedia.org/wiki/Jenkins_hash_function;bob jenkins;2.25;0.16666666666666666;3.0;1.0;0
+2;41;https://en.wikipedia.org/wiki/Jenkins_hash_function;multi_byte keys designed;3.0;0.16666666666666666;6.0;1.0;0
+2;41;https://en.wikipedia.org/wiki/Jenkins_hash_function;hash functions;2.5;0.16666666666666666;6.0;1.0;0
+2;41;https://en.wikipedia.org/wiki/Jenkins_hash_function;collection;1.0;0.16666666666666666;6.0;1.0;0
+2;41;https://en.wikipedia.org/wiki/Jenkins_hash_function;jenkins hash functions;2.5;0.16666666666666666;6.0;1.0;0
+2;42;https://en.wikipedia.org/wiki/Jenkins_hash_function;formally published;2.0;0.16666666666666666;6.0;0.0;0
+2;52;http://burtleburtle.net/bob/hash/doobs.html;faster;1.0;0.02127659574468085;6.0;0.0;0
+2;52;http://burtleburtle.net/bob/hash/doobs.html;hash table lookup;2.8333333333333335;0.02127659574468085;6.0;0.0;0
+2;52;http://burtleburtle.net/bob/hash/doobs.html;hash function;2.25;0.02127659574468085;6.0;0.0;0
+2;52;http://burtleburtle.net/bob/hash/doobs.html;offer;1.0;0.02127659574468085;6.0;0.0;0
+2;53;http://burtleburtle.net/bob/hash/doobs.html;verify;1.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;53;http://burtleburtle.net/bob/hash/doobs.html;give;1.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;54;http://burtleburtle.net/bob/hash/doobs.html;complaints;1.0;0.02127659574468085;6.0;0.0;0
+2;55;http://burtleburtle.net/bob/hash/doobs.html;don;1.0;0.02127659574468085;6.0;0;0
+2;55;http://burtleburtle.net/bob/hash/doobs.html;mask;1.0;0.02127659574468085;6.0;0;0
+2;55;http://burtleburtle.net/bob/hash/doobs.html;reduce;1.0;0.02127659574468085;6.0;0;0
+2;55;http://burtleburtle.net/bob/hash/doobs.html;specific;1.0;0.02127659574468085;6.0;0;0
+2;55;http://burtleburtle.net/bob/hash/doobs.html;bits;1.0;0.02127659574468085;6.0;0;0
+2;55;http://burtleburtle.net/bob/hash/doobs.html;size;1.0;0.02127659574468085;6.0;0;0
+2;56;http://burtleburtle.net/bob/hash/doobs.html;completely;1.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;56;http://burtleburtle.net/bob/hash/doobs.html;bit;1.0;0.0425531914893617;6.0;0.7071067811865475;0
+2;56;http://burtleburtle.net/bob/hash/doobs.html;increasing;1.0;0.0425531914893617;6.0;0.7071067811865475;0
+2;56;http://burtleburtle.net/bob/hash/doobs.html;hash;1.0;0.02127659574468085;2.0;0.7071067811865475;0
+2;56;http://burtleburtle.net/bob/hash/doobs.html;result size;2.0;0.0425531914893617;6.0;0.7071067811865475;0
+2;57;http://burtleburtle.net/bob/hash/doobs.html;entire;1.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;57;http://burtleburtle.net/bob/hash/doobs.html;result size;2.0;0.0425531914893617;6.0;0.7071067811865475;0
+2;57;http://burtleburtle.net/bob/hash/doobs.html;buckets;1.0;0.0425531914893617;6.0;0.7071067811865475;0
+2;57;http://burtleburtle.net/bob/hash/doobs.html;bucket maps;2.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;57;http://burtleburtle.net/bob/hash/doobs.html;hash table;1.75;0.02127659574468085;6.0;0.7071067811865475;0
+2;57;http://burtleburtle.net/bob/hash/doobs.html;table;1.5;0.02127659574468085;2.0;0.7071067811865475;0
+2;57;http://burtleburtle.net/bob/hash/doobs.html;bit;1.0;0.0425531914893617;6.0;0.7071067811865475;0
+2;57;http://burtleburtle.net/bob/hash/doobs.html;increasing;1.0;0.0425531914893617;6.0;0.7071067811865475;0
+2;57;http://burtleburtle.net/bob/hash/doobs.html;grows;1.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;58;http://burtleburtle.net/bob/hash/doobs.html;fnv;1.0;0.0;6.0;0.0;0
+2;58;http://burtleburtle.net/bob/hash/doobs.html;algorithm;1.0;0.02127659574468085;6.0;0.0;0
+2;58;http://burtleburtle.net/bob/hash/doobs.html;sliding pointer;2.0;0.02127659574468085;6.0;0.0;0
+2;58;http://burtleburtle.net/bob/hash/doobs.html;buckets;1.0;0.0425531914893617;6.0;0.0;0
+2;58;http://burtleburtle.net/bob/hash/doobs.html;work;1.0;0.02127659574468085;6.0;0.0;0
+2;58;http://burtleburtle.net/bob/hash/doobs.html;won;1.0;0.02127659574468085;6.0;0.0;0
+2;58;http://burtleburtle.net/bob/hash/doobs.html;split;1.0;0.02127659574468085;6.0;0.0;0
+2;59;http://burtleburtle.net/bob/hash/doobs.html;linear;1.0;0.0;6.0;0;0
+2;60;http://burtleburtle.net/bob/hash/doobs.html;cancel;1.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;60;http://burtleburtle.net/bob/hash/doobs.html;easily;1.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;60;http://burtleburtle.net/bob/hash/doobs.html;widely separated things;2.8333333333333335;0.02127659574468085;6.0;0.7071067811865475;0
+2;60;http://burtleburtle.net/bob/hash/doobs.html;nearby things;2.25;0.02127659574468085;6.0;0.7071067811865475;0
+2;60;http://burtleburtle.net/bob/hash/doobs.html;means;1.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;61;http://burtleburtle.net/bob/hash/doobs.html;affected;1.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;61;http://burtleburtle.net/bob/hash/doobs.html;affects higher bits;2.8333333333333335;0.02127659574468085;6.0;0.7071067811865475;0
+2;61;http://burtleburtle.net/bob/hash/doobs.html;8th bit;2.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;61;http://burtleburtle.net/bob/hash/doobs.html;input bytes;2.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;61;http://burtleburtle.net/bob/hash/doobs.html;state;1.0;0.02127659574468085;6.0;0.7071067811865475;0
+2;61;http://burtleburtle.net/bob/hash/doobs.html;multiplication;1.0;0.0;6.0;0.7071067811865475;0
+2;61;http://burtleburtle.net/bob/hash/doobs.html;lowest 7 bits;1.5;0.02127659574468085;6.0;0.7071067811865475;0
+2;62;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;simple technique;2.0;0.018518518518518517;6.0;0.0;0
+2;62;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;accessing information;2.0;0.018518518518518517;6.0;0.0;0
+2;62;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;powerful;1.0;0.018518518518518517;6.0;0.0;0
+2;62;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;hashing;1.0;0.018518518518518517;6.0;0.0;0
+2;63;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;index;1.0;0.037037037037037035;6.0;0.0;0
+2;63;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;table;1.0;0.037037037037037035;3.0;0.0;0
+2;63;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;number;1.0;0.018518518518518517;6.0;0.0;0
+2;63;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;key;1.0;0.0;6.0;0.0;0
+2;63;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;mathematically converted;2.0;0.018518518518518517;6.0;0.0;0
+2;64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;typical applications;2.0;0.018518518518518517;6.0;0.0;0
+2;64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;index;1.0;0.037037037037037035;6.0;0.0;0
+2;64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;keys;1.0;0.0;6.0;0.0;0
+2;64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;requiring;1.0;0.018518518518518517;6.0;0.0;0
+2;64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;strategy;1.0;0.018518518518518517;6.0;0.0;0
+2;64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;map;1.0;0.018518518518518517;6.0;0.0;0
+2;64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;common;1.0;0.018518518518518517;6.0;0.0;0
+2;64;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;collision resolution;2.0;0.018518518518518517;6.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;file;1.0;0.018518518518518517;6.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;dictionary;1.0;0.018518518518518517;6.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;instance;1.0;0.018518518518518517;6.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;topics;1.0;0.018518518518518517;6.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;applications;1.0;0.0;6.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;records;1.0;0.018518518518518517;6.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;keywords;1.0;0.0;6.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;table;1.0;0.037037037037037035;3.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;static set;2.0;0.037037037037037035;6.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;contents;1.0;0.018518518518518517;6.0;0.0;0
+2;65;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;compiler;1.0;0.018518518518518517;6.0;0.0;0
+2;66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;perfect hashing function;3.0;0.018518518518518517;6.0;0.0;0
+2;66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;keys;1.0;0.0;6.0;0.0;0
+2;66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;maps;1.0;0.018518518518518517;6.0;0.0;0
+2;66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;numbers;1.0;0.018518518518518517;6.0;0.0;0
+2;66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;cases;1.0;0.018518518518518517;6.0;0.0;0
+2;66;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;nice;1.0;0.018518518518518517;6.0;0.0;0
+2;67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;retrieve;1.0;0.018518518518518517;6.0;0.0;0
+2;67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;record;1.0;0.018518518518518517;6.0;0.0;0
+2;67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;probe;1.0;0.018518518518518517;6.0;0.0;0
+2;67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;collisions;1.0;0.018518518518518517;6.0;0.0;0
+2;67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;perfect function;2.0;0.018518518518518517;6.0;0.0;0
+2;67;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;worrying;1.0;0.018518518518518517;6.0;0.0;0
+2;68;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;empty locations;2.0;0.018518518518518517;6.0;0.0;0
+2;68;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;special case;2.0;0.018518518518518517;6.0;0.0;0
+2;68;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;perfect hashing;2.5;0.018518518518518517;6.0;0.0;0
+2;68;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;minimal perfect hashing;2.6666666666666665;0.018518518518518517;6.0;0.0;0
+2;68;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;table exist;2.0;0.018518518518518517;6.0;0.0;0
+2;69;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;ideal;1.0;0.018518518518518517;6.0;0.0;0
+2;69;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;fast performance;2.0;0.018518518518518517;6.0;0.0;0
+2;69;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;low memory usage;3.0;0.018518518518518517;6.0;0.0;0
+2;70;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;difficult;1.0;0.018518518518518517;6.0;0;0
+2;71;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;article;1.0;0.018518518518518517;6.0;1.0;0
+2;71;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;ll present;2.0;0.018518518518518517;6.0;1.0;0
+2;71;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;static set;2.0;0.037037037037037035;6.0;1.0;0
+2;71;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;data;1.0;0.018518518518518517;6.0;1.0;0
+2;71;http://www.icodeguru.com/vC/10book/books/book10/9607l/9607l.htm;simple algorithm;2.0;0.018518518518518517;6.0;1.0;0
+2;72;http://cmph.sourceforge.net/bdz.html;input key set;3.0;0.03125;6.0;0.7071067811865475;0
+2;72;http://cmph.sourceforge.net/bdz.html;function values;2.0;0.03125;6.0;0.7071067811865475;0
+2;72;http://cmph.sourceforge.net/bdz.html;require obits;2.0;0.03125;6.0;0.7071067811865475;0
+2;72;http://cmph.sourceforge.net/bdz.html;generating phfs;2.0;0.03125;6.0;0.7071067811865475;0
+2;72;http://cmph.sourceforge.net/bdz.html;stored;1.0;0.03125;6.0;0.7071067811865475;0
+2;72;http://cmph.sourceforge.net/bdz.html;mphfs;1.0;0.0;6.0;0.7071067811865475;0
+2;72;http://cmph.sourceforge.net/bdz.html;bdz algorithm;2.0;0.03125;6.0;0.7071067811865475;0
+2;72;http://cmph.sourceforge.net/bdz.html;r_uniform random hypergraphs;3.0;0.03125;6.0;0.7071067811865475;0
+2;73;http://cmph.sourceforge.net/bdz.html;edge connects vertices;3.0;0.03125;6.0;0.7071067811865475;0
+2;73;http://cmph.sourceforge.net/bdz.html;hypergraph;1.0;0.0;6.0;0.7071067811865475;0
+2;73;http://cmph.sourceforge.net/bdz.html;standard undirected graph;3.0;0.03125;6.0;0.7071067811865475;0
+2;73;http://cmph.sourceforge.net/bdz.html;generalization;1.0;0.0;6.0;0.7071067811865475;0
+2;74;http://cmph.sourceforge.net/bdz.html;idea;1.0;0.03125;6.0;0.0;0
+2;76;http://cmph.sourceforge.net/bdz.html;obits;1.0;0.0;6.0;0.0;0
+2;76;http://cmph.sourceforge.net/bdz.html;space usage;2.0;0.09375;6.0;0.0;0
+2;76;http://cmph.sourceforge.net/bdz.html;achieve;1.0;0.03125;6.0;0.0;0
+2;76;http://cmph.sourceforge.net/bdz.html;proceeded differently;2.0;0.03125;6.0;0.0;0
+2;77;http://cmph.sourceforge.net/bdz.html;constant;1.0;0.03125;6.0;0.0;0
+2;77;http://cmph.sourceforge.net/bdz.html;evaluation time;2.0;0.03125;6.0;0.0;0
+2;77;http://cmph.sourceforge.net/bdz.html;schemes considered;2.0;0.03125;6.0;0.0;0
+2;78;http://cmph.sourceforge.net/bdz.html;space usage;2.0;0.09375;6.0;0.0;0
+2;78;http://cmph.sourceforge.net/bdz.html;obtain;1.0;0.03125;6.0;0.0;0
+2;78;http://cmph.sourceforge.net/bdz.html;approximately 2;0.5;0.03125;6.0;0.0;0
+2;79;http://cmph.sourceforge.net/bdz.html;6n bits;2.0;0.03125;6.0;0;0
+2;79;http://cmph.sourceforge.net/bdz.html;mphf;1.0;0.0;6.0;0;0
+2;80;http://cmph.sourceforge.net/bdz.html;compact;1.0;0.03125;6.0;0.7071067811865475;0
+2;80;http://cmph.sourceforge.net/bdz.html;representations;1.0;0.0;6.0;0.7071067811865475;0
+2;80;http://cmph.sourceforge.net/bdz.html;larger;1.0;0.0;6.0;0.7071067811865475;0
+2;80;http://cmph.sourceforge.net/bdz.html;achieved;1.0;0.03125;6.0;0.7071067811865475;0
+2;80;http://cmph.sourceforge.net/bdz.html;simpler;1.0;0.03125;6.0;0.7071067811865475;0
+2;82;http://cmph.sourceforge.net/bdz.html;space usage;2.0;0.09375;6.0;0.7071067811865475;0
+2;83;http://cmph.sourceforge.net/bdz.html;95n bits;2.0;0.03125;6.0;0;0

@@ -1,0 +1,7 @@
+0;.
+0;.
+0;We will then continue to cover canonical correlation analysis .
+0; CCA is an early method from statistics for dimensionality reduction.
+0; With CCA, two or more views of the data are created, and they are all projected into a lower dimensional space which maximizes the correlation between the views.
+0; We will review the basic algorithms underlying CCA, give some formal results giving guarantees for latent_variable models and also describe how they have been applied recently to learning lexical representations from large quantities of unlabeled data.
+0; This idea of learning lexical representations can be extended further, where unlabeled data is used to learn underlying representations which are subsequently used as additional information for supervised training.

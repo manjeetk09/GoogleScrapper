@@ -1,0 +1,128 @@
+1;http://www.iusmentis.com/technology/hashfunctions/md5/;01 october 2005;0.3333333333333333;0.043478260869565216;6.0;0
+2;http://www.iusmentis.com/technology/hashfunctions/md5/;takes;1.0;0.043478260869565216;6.0;0
+2;http://www.iusmentis.com/technology/hashfunctions/md5/;produces;1.0;0.043478260869565216;6.0;0
+2;http://www.iusmentis.com/technology/hashfunctions/md5/;cryptographic algorithm;2.0;0.043478260869565216;6.0;0
+2;http://www.iusmentis.com/technology/hashfunctions/md5/;md5 function;2.0;0.043478260869565216;6.0;0
+2;http://www.iusmentis.com/technology/hashfunctions/md5/;message digest;2.0;0.043478260869565216;6.0;0
+2;http://www.iusmentis.com/technology/hashfunctions/md5/;input;1.0;0.08695652173913043;3.0;0
+2;http://www.iusmentis.com/technology/hashfunctions/md5/;128 bits long;1.3333333333333333;0.043478260869565216;6.0;0
+2;http://www.iusmentis.com/technology/hashfunctions/md5/;arbitrary length;2.0;0.043478260869565216;6.0;0
+3;http://www.iusmentis.com/technology/hashfunctions/md5/;input;1.0;0.08695652173913043;3.0;0
+3;http://www.iusmentis.com/technology/hashfunctions/md5/;hash;1.0;0.043478260869565216;6.0;0
+3;http://www.iusmentis.com/technology/hashfunctions/md5/;called;1.0;0.043478260869565216;6.0;0
+3;http://www.iusmentis.com/technology/hashfunctions/md5/;digest;1.0;0.043478260869565216;6.0;0
+3;http://www.iusmentis.com/technology/hashfunctions/md5/;fingerprint;1.0;0.0;6.0;0
+4;http://www.iusmentis.com/technology/hashfunctions/md5/;situations;1.0;0.043478260869565216;6.0;0
+4;http://www.iusmentis.com/technology/hashfunctions/md5/;compared quickly;2.0;0.043478260869565216;6.0;0
+4;http://www.iusmentis.com/technology/hashfunctions/md5/;processed;1.0;0.043478260869565216;6.0;0
+4;http://www.iusmentis.com/technology/hashfunctions/md5/;potentially long message;3.0;0.043478260869565216;6.0;0
+4;http://www.iusmentis.com/technology/hashfunctions/md5/;md5;1.0;0.0;6.0;0
+5;http://www.iusmentis.com/technology/hashfunctions/md5/;digital signatures;2.0;0.043478260869565216;6.0;0
+5;http://www.iusmentis.com/technology/hashfunctions/md5/;common application;2.0;0.043478260869565216;6.0;0
+5;http://www.iusmentis.com/technology/hashfunctions/md5/;creation;1.0;0.043478260869565216;6.0;0
+5;http://www.iusmentis.com/technology/hashfunctions/md5/;verification;1.0;0.0;6.0;0
+6;https://en.wikipedia.org/wiki/MD5;128_bit hash;2.25;0.07692307692307693;3.0;0
+6;https://en.wikipedia.org/wiki/MD5;hash function producing;2.8333333333333335;0.07692307692307693;6.0;0
+6;https://en.wikipedia.org/wiki/MD5;widely;1.0;0.07692307692307693;1.5;0
+6;https://en.wikipedia.org/wiki/MD5;md5 algorithm;2.0;0.07692307692307693;6.0;0
+7;https://en.wikipedia.org/wiki/MD5;initially designed;2.0;0.07692307692307693;6.0;0
+7;https://en.wikipedia.org/wiki/MD5;extensive vulnerabilities;2.0;0.07692307692307693;6.0;0
+7;https://en.wikipedia.org/wiki/MD5;found;1.0;0.07692307692307693;3.0;0
+7;https://en.wikipedia.org/wiki/MD5;cryptographic hash function;3.0;0.07692307692307693;6.0;0
+7;https://en.wikipedia.org/wiki/MD5;suffer;1.0;0.07692307692307693;6.0;0
+7;https://en.wikipedia.org/wiki/MD5;md5;1.0;0.0;6.0;0
+8;https://en.wikipedia.org/wiki/MD5;checksum;1.0;0.0;6.0;0
+8;https://en.wikipedia.org/wiki/MD5;unintentional corruption;2.0;0.07692307692307693;6.0;0
+8;https://en.wikipedia.org/wiki/MD5;verify data integrity;3.0;0.07692307692307693;6.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;fixed_length digest;2.0;0.09090909090909091;6.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;accepts;1.0;0.09090909090909091;6.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;returns;1.0;0.09090909090909091;6.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;length;1.0;0.0;6.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;original message;1.75;0.09090909090909091;6.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;output;1.0;0.09090909090909091;6.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;input;1.0;0.09090909090909091;2.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;message;1.5;0.09090909090909091;3.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;authenticating;1.0;0.0;6.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;one_way cryptographic function;3.0;0.09090909090909091;6.0;0
+17;http://searchsecurity.techtarget.com/definition/MD5;md5 hashing algorithm;3.0;0.09090909090909091;6.0;0
+23;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;popular;1.0;0.022727272727272728;6.0;0
+23;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;years;1.0;0.022727272727272728;6.0;0
+23;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash function;2.0;0.022727272727272728;6.0;0
+23;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;widely;1.0;0.045454545454545456;2.0;0
+23;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md5;1.0;0.0;6.0;0
+24;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash functions md2;3.0;0.045454545454545456;6.0;0
+24;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md family comprises;3.0;0.045454545454545456;6.0;0
+24;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md6;1.0;0.0;6.0;0
+24;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md4;1.0;0.0;6.0;0
+24;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md5;1.0;0.0;6.0;0
+25;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;adopted;1.0;0.045454545454545456;6.0;0
+26;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;128_bit hash function;3.0;0.045454545454545456;6.0;0
+27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;transferred file;2.0;0.022727272727272728;6.0;0
+27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;software world;2.0;0.022727272727272728;6.0;0
+27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;provide assurance;2.0;0.022727272727272728;6.0;0
+27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;integrity;1.0;0.022727272727272728;6.0;0
+27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;widely;1.0;0.045454545454545456;2.0;0
+27;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md5 digests;2.0;0.022727272727272728;6.0;0
+28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;files;1.0;0.022727272727272728;6.0;0
+28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;downloaded file;2.0;0.022727272727272728;6.0;0
+28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;compare;1.0;0.022727272727272728;6.0;0
+28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;provide;1.0;0.022727272727272728;6.0;0
+28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;checksum;2.0;0.0;6.0;0
+28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;user;1.0;0.022727272727272728;6.0;0
+28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;file servers;2.0;0.022727272727272728;6.0;0
+28;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;pre_computed md5 checksum;2.6666666666666665;0.022727272727272728;6.0;0
+29;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;collisions;1.0;0.022727272727272728;6.0;0
+29;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md5;1.0;0.0;6.0;0
+29;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;found;1.0;0.022727272727272728;3.0;0
+30;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;successful;1.0;0.022727272727272728;6.0;0
+30;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;reported;1.0;0.022727272727272728;6.0;0
+30;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;analytical attack;2.0;0.022727272727272728;6.0;0
+30;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hour;1.0;0.022727272727272728;6.0;0
+30;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;computer cluster;2.0;0.022727272727272728;6.0;0
+31;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;longer recommended;2.0;0.022727272727272728;6.0;0
+31;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;collision attack resulted;3.0;0.022727272727272728;6.0;0
+31;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;compromised md5;2.0;0.022727272727272728;6.0;0
+32;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;hash functions md2;3.0;0.045454545454545456;6.0;0
+32;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md family comprises;3.0;0.045454545454545456;6.0;0
+32;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md6;1.0;0.0;6.0;0
+32;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md4;1.0;0.0;6.0;0
+32;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;md5;1.0;0.0;6.0;0
+33;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;adopted;1.0;0.045454545454545456;6.0;0
+34;https://www.tutorialspoint.com/cryptography/cryptography_hash_functions.htm;128_bit hash function;3.0;0.045454545454545456;6.0;0
+35;https://www.quora.com/How-does-the-MD5-algorithm-work;a2a;1.0;0.0;6.0;0
+36;https://www.quora.com/How-does-the-MD5-algorithm-work;note;1.0;0.03225806451612903;6.0;0
+37;https://www.quora.com/How-does-the-MD5-algorithm-work;secure hash;2.0;0.03225806451612903;6.0;0
+37;https://www.quora.com/How-does-the-MD5-algorithm-work;widely;1.0;0.03225806451612903;1.5;0
+37;https://www.quora.com/How-does-the-MD5-algorithm-work;md5;1.0;0.0;6.0;0
+38;https://www.quora.com/How-does-the-MD5-algorithm-work;attacks;1.0;0.03225806451612903;6.0;0
+38;https://www.quora.com/How-does-the-MD5-algorithm-work;rainbow table attack;3.0;0.03225806451612903;6.0;0
+38;https://www.quora.com/How-does-the-MD5-algorithm-work;exists;1.0;0.03225806451612903;6.0;0
+39;https://www.quora.com/How-does-the-MD5-algorithm-work;security;1.0;0.03225806451612903;6.0;0
+39;https://www.quora.com/How-does-the-MD5-algorithm-work;severely compromised;2.0;0.03225806451612903;6.0;0
+39;https://www.quora.com/How-does-the-MD5-algorithm-work;md5 hash function;3.0;0.03225806451612903;6.0;0
+40;https://www.quora.com/How-does-the-MD5-algorithm-work;seconds;1.0;0.03225806451612903;6.0;0
+40;https://www.quora.com/How-does-the-MD5-algorithm-work;collision attack exists;3.0;0.03225806451612903;6.0;0
+40;https://www.quora.com/How-does-the-MD5-algorithm-work;computer;1.0;0.03225806451612903;6.0;0
+40;https://www.quora.com/How-does-the-MD5-algorithm-work;find collisions;2.0;0.06451612903225806;6.0;0
+43;https://www.quora.com/How-does-the-MD5-algorithm-work;hours;1.0;0.03225806451612903;6.0;0
+43;https://www.quora.com/How-does-the-MD5-algorithm-work;chosen_prefix collision attack;2.6666666666666665;0.03225806451612903;6.0;0
+43;https://www.quora.com/How-does-the-MD5-algorithm-work;inputs;1.0;0.03225806451612903;6.0;0
+43;https://www.quora.com/How-does-the-MD5-algorithm-work;off_the_shelf computing hardware;3.0;0.03225806451612903;6.0;0
+43;https://www.quora.com/How-does-the-MD5-algorithm-work;prefixes;1.0;0.03225806451612903;6.0;0
+43;https://www.quora.com/How-does-the-MD5-algorithm-work;collision;2.0;0.03225806451612903;6.0;0
+43;https://www.quora.com/How-does-the-MD5-algorithm-work;produce;1.0;0.03225806451612903;6.0;0
+44;https://www.quora.com/How-does-the-MD5-algorithm-work;off_the_shelf gpus;2.0;0.03225806451612903;6.0;0
+44;https://www.quora.com/How-does-the-MD5-algorithm-work;greatly aided;2.0;0.03225806451612903;6.0;0
+44;https://www.quora.com/How-does-the-MD5-algorithm-work;ability;1.0;0.03225806451612903;6.0;0
+44;https://www.quora.com/How-does-the-MD5-algorithm-work;find collisions;2.0;0.06451612903225806;6.0;0
+45;https://www.quora.com/How-does-the-MD5-algorithm-work;computed;1.0;0.03225806451612903;6.0;0
+46;https://www.quora.com/How-does-the-MD5-algorithm-work;source;1.0;0.03225806451612903;6.0;0
+46;https://www.quora.com/How-does-the-MD5-algorithm-work;200 million hashes;1.3333333333333333;0.03225806451612903;6.0;0
+46;https://www.quora.com/How-does-the-MD5-algorithm-work;calculate;1.0;0.03225806451612903;6.0;0
+47;https://www.quora.com/How-does-the-MD5-algorithm-work;md5;1.0;0.0;6.0;0
+48;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;md5;1.0;0.0;6.0;0
+49;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;message;1.0;0.16666666666666666;3.0;0
+49;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;compute;1.0;0.16666666666666666;6.0;0
+49;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;binary operations;2.0;0.16666666666666666;6.0;0
+49;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;md5 performs;2.0;0.16666666666666666;6.0;0
+49;https://stackoverflow.com/questions/997284/how-does-md5sum-algorithm-work;128_bit  hash;1.3333333333333333;0.16666666666666666;3.0;0

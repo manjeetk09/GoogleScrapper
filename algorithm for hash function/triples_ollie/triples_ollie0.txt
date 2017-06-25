@@ -1,0 +1,149 @@
+A hash function is any function that can be used to map data of arbitrary size to data of fixed size.
+0.752: (A hash function; is; any function that can be used to map data of arbitrary size to data of fixed size)
+
+ The values returned by a hash function are called hash values, hash codes, digests, or simply hashes.
+0.9: (The values returned by a hash function; are called hash; values)
+0.763: (The values; be returned by; a hash function)
+
+ One use is a data structure called a hash table, widely used in computer software for rapid data lookup.
+0.817: (a hash table; be widely used in; computer software)
+0.793: (a hash table; be widely used for; rapid data lookup)
+0.667: (One use; is; a data structure)
+
+ Hash functions accelerate table or database lookup by detecting duplicated records in a large file.
+0.661: (duplicated records; be detecting in; a large file)
+
+ An example is finding similar stretches in DNA sequences.
+0.692: (An example; is finding; similar stretches)
+
+ They are also useful in cryptography.
+0.873: (They; are also useful in; cryptography)
+
+ A cryptographic hash function allows one to easily verify that some input data maps to a given hash value, but if the input data is unknown, it is deliberately difficult to reconstruct it by knowing the stored hash value.
+0.685: (it; is deliberately; difficult)
+0.093: (the input data; is; unknown)
+
+ This is used for assuring integrity of transmitted data, and is the building block for HMACs, which provide message authentication.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A hash table is a collection of items which are stored in such a way as to make it easy to find them later.
+0.939: (A hash table; is a collection of; items which are stored in such a way as to make it easy to find them later)
+0.736: (A hash table; is; a collection of items)
+0.403: (it; to find later; them)
+
+ Each position of the hash table, often called a slot, can hold an item and is named by an integer value starting at 0.
+0.787: (Each position of the hash table often called a slot; can is named by; an integer value starting at 0.)
+0.741: (Each position of the hash table often called a slot; can hold; an item)
+0.552: (an integer value; starting at; 0.)
+
+ For example, we will have a slot named 0, a slot named 1, a slot named 2, and so on.
+0.752: (a slot; be named 0,; a slot named 1)
+0.729: (we; will have; a slot named 0, a slot)
+0.2: (a slot named 0, a slot; will be have for; example)
+0.109: (we; will have a slot named 0, a slot named 1 for; example)
+
+ Initially, the hash table contains no items so every slot is empty.
+0.755: (the hash table; Initially contains; no items)[enabler=so every slot is empty]
+0.598: (every slot; is; empty)
+
+ We can implement a hash table by using a list with each element initialized to the special Python value None.
+0.723: (We; can implement; a hash table)
+0.714: (a list; be using with; each element initialized to the special Python value None)
+0.641: (each element; be initialized to; the special Python value None)
+
+ Figure 4 shows a hash table of size  .
+0.798: (Figure 4; shows; a hash table of size)
+
+ In other words, there are m slots in the table, named 0 through 10.
+0.625: (m slots named 0 through 10; are in; other words)
+
+A hash function is any function that can be used to map data of arbitrary size to data of fixed size.
+0.752: (A hash function; is; any function that can be used to map data of arbitrary size to data of fixed size)
+
+ The values returned by a hash function are called hash values, hash codes, digests, or simply hashes.
+0.9: (The values returned by a hash function; are called hash; values)
+0.763: (The values; be returned by; a hash function)
+
+ One use is a data structure called a hash table, widely used in computer software for rapid data lookup.
+0.817: (a hash table; be widely used in; computer software)
+0.793: (a hash table; be widely used for; rapid data lookup)
+0.667: (One use; is; a data structure)
+
+ Hash functions accelerate table or database lookup by detecting duplicated records in a large file.
+0.661: (duplicated records; be detecting in; a large file)
+
+ An example is finding similar stretches in DNA sequences.
+0.692: (An example; is finding; similar stretches)
+
+ They are also useful in cryptography.
+0.873: (They; are also useful in; cryptography)
+
+ A cryptographic hash function allows one to easily verify that some input data maps to a given hash value, but if the input data is unknown, it is deliberately difficult to reconstruct it by knowing the stored hash value.
+0.685: (it; is deliberately; difficult)
+0.093: (the input data; is; unknown)
+
+ This is used for assuring integrity of transmitted data, and is the building block for HMACs, which provide message authentication.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ FIXME.
+No extractions found.
+
+ say a few words about   universal hash function  .
+0.242: (few; be words about; universal hash function)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Understand the difference between hash function and algorithm correctly.
+No extractions found.
+
+ The hash function generates a hash code by operating on two blocks of fixed_length binary data.
+0.807: (The hash function; generates; a hash code)
+
+What is a good Hash function  I saw a lot of hash function and applications in my data structures courses in college, but I mostly got that it s pretty hard to make a good hash function.
+0.785: (I; saw a lot of hash function in; my data structures courses)
+0.768: (I; saw; a lot of hash function and applications)
+0.747: (a lot of hash function and applications; be saw in; my data structures courses)
+0.716: (I; saw applications in; my data structures courses)
+
+ As a rule of thumb to avoid collisions my professor said that.
+0.562: (my professor; be a rule of; thumb)
+
+For doing  normal  hash table lookups on basically any kind of data _ this one by Paul Hsieh is the best I ve ever used.
+0.771: (normal hash table lookups; be doing on; any kind of data)
+0.707: (normal hash table lookups; be doing  ; one)
+0.416: (normal hash table lookups; be doing by; Paul Hsieh)
+

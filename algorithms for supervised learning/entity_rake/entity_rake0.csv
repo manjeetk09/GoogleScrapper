@@ -1,0 +1,618 @@
+2;https://www.mathworks.com/discovery/supervised-learning.html;support vector machines;3.0;0.2;2.6666666666666665;1
+3;https://www.mathworks.com/discovery/supervised-learning.html;neural networks;2.0;0.2;4.0;1
+5;https://www.mathworks.com/discovery/supervised-learning.html;decision trees;2.0;0.2;4.0;1
+6;https://www.mathworks.com/discovery/supervised-learning.html;discriminant analysis;2.0;0.2;8.0;1
+7;https://www.mathworks.com/discovery/supervised-learning.html;nearest neighbors;2.0;0.2;8.0;1
+13;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;popular examples;2.0;0.125;8.0;0
+14;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;regression problems;2.0;0.25;8.0;0
+14;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;linear regression;2.0;0.125;2.6666666666666665;0
+15;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;regression problems;2.0;0.25;8.0;0
+15;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;random forest;2.0;0.125;8.0;0
+15;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;classification;1.0;0.0;8.0;0
+16;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;classification problems;2.0;0.125;8.0;0
+16;http://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/;support vector machines;3.0;0.125;2.6666666666666665;0
+17;https://en.wikipedia.org/wiki/Supervised_learning;decision trees;2.0;0.09090909090909091;4.0;0
+17;https://en.wikipedia.org/wiki/Supervised_learning;widely;1.0;0.09090909090909091;8.0;0
+17;https://en.wikipedia.org/wiki/Supervised_learning;linear discriminant analysis;2.8333333333333335;0.09090909090909091;8.0;0
+17;https://en.wikipedia.org/wiki/Supervised_learning;learning algorithms;2.0;0.09090909090909091;8.0;0
+17;https://en.wikipedia.org/wiki/Supervised_learning;naive bayes;2.0;0.09090909090909091;8.0;0
+17;https://en.wikipedia.org/wiki/Supervised_learning;linear regression;2.25;0.09090909090909091;2.6666666666666665;0
+17;https://en.wikipedia.org/wiki/Supervised_learning;k_nearest neighbor algorithm;3.0;0.09090909090909091;8.0;0
+17;https://en.wikipedia.org/wiki/Supervised_learning;logistic regression;2.0;0.09090909090909091;2.6666666666666665;0
+17;https://en.wikipedia.org/wiki/Supervised_learning;support vector machines;3.0;0.09090909090909091;2.6666666666666665;0
+17;https://en.wikipedia.org/wiki/Supervised_learning;neural networks;2.0;0.09090909090909091;4.0;0
+21;https://en.wikipedia.org/wiki/Supervised_learning;machine learning;2.0;0.09090909090909091;1.1428571428571428;0
+24;https://www.mathworks.com/discovery/supervised-learning.html;make predictions;2.0;0.10526315789473684;8.0;0
+24;https://www.mathworks.com/discovery/supervised-learning.html;supervised learning;2.25;0.05263157894736842;2.6666666666666665;0
+24;https://www.mathworks.com/discovery/supervised-learning.html;type;1.0;0.05263157894736842;8.0;0
+24;https://www.mathworks.com/discovery/supervised-learning.html;machine learning algorithm;2.8333333333333335;0.05263157894736842;8.0;0
+24;https://www.mathworks.com/discovery/supervised-learning.html;dataset;1.0;0.0;8.0;0
+25;https://www.mathworks.com/discovery/supervised-learning.html;response values;2.0;0.10526315789473684;8.0;0
+26;https://www.mathworks.com/discovery/supervised-learning.html;make predictions;2.0;0.10526315789473684;8.0;0
+26;https://www.mathworks.com/discovery/supervised-learning.html;model;1.0;0.10526315789473684;2.6666666666666665;0
+26;https://www.mathworks.com/discovery/supervised-learning.html;build;1.0;0.05263157894736842;8.0;0
+26;https://www.mathworks.com/discovery/supervised-learning.html;response values;2.0;0.10526315789473684;8.0;0
+26;https://www.mathworks.com/discovery/supervised-learning.html;dataset;1.0;0.0;8.0;0
+27;https://www.mathworks.com/discovery/supervised-learning.html;test dataset;2.0;0.05263157894736842;8.0;0
+27;https://www.mathworks.com/discovery/supervised-learning.html;validate;1.0;0.05263157894736842;8.0;0
+27;https://www.mathworks.com/discovery/supervised-learning.html;model;1.0;0.10526315789473684;2.6666666666666665;0
+28;https://www.mathworks.com/discovery/supervised-learning.html;larger training datasets;2.6666666666666665;0.05263157894736842;8.0;0
+28;https://www.mathworks.com/discovery/supervised-learning.html;higher predictive power;3.0;0.05263157894736842;8.0;0
+28;https://www.mathworks.com/discovery/supervised-learning.html;datasets;2.0;0.0;8.0;0
+28;https://www.mathworks.com/discovery/supervised-learning.html;generalize;1.0;0.05263157894736842;8.0;0
+28;https://www.mathworks.com/discovery/supervised-learning.html;yield models;2.0;0.05263157894736842;8.0;0
+39;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;kuber;1.0;0.0;8.0;0
+39;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 10;0.5;0.0018867924528301887;8.0;0
+40;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;bookmarked;1.0;0.0;8.0;0
+40;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;excellent compilation;2.0;0.0037735849056603774;8.0;0
+40;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 11;0.5;0.018867924528301886;8.0;0
+40;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;karthikeyan;1.0;0.0;8.0;0
+40;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;page;1.0;0.0018867924528301887;8.0;0
+41;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;hemanth;1.0;0.0;8.0;0
+41;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;informative;1.0;0.0;8.0;0
+41;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;straight;1.0;0.0018867924528301887;8.0;0
+41;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;effective;1.0;0.0018867924528301887;8.0;0
+41;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 11;0.5;0.018867924528301886;8.0;0
+42;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;venugopal;1.0;0.0;8.0;0
+42;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;good summary airticle;3.0;0.0018867924528301887;8.0;0
+42;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 11;0.5;0.018867924528301886;8.0;0
+43;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;super compilation;2.0;0.0018867924528301887;8.0;0
+43;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 11;0.5;0.018867924528301886;8.0;0
+43;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;dr venugopala rao;3.0;0.0018867924528301887;8.0;0
+44;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;wonderful;1.0;0.0018867924528301887;8.0;0
+44;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;kishor basyal;2.0;0.0018867924528301887;8.0;0
+44;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;helpful;1.0;0.0;8.0;0
+44;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 11;0.5;0.018867924528301886;8.0;0
+45;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;nicely;1.0;0.0018867924528301887;8.0;0
+45;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;brian thomas;2.0;0.0018867924528301887;8.0;0
+45;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 11;0.5;0.018867924528301886;8.0;0
+46;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;tesfaye;1.0;0.0;8.0;0
+46;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;presented article;2.0;0.0018867924528301887;8.0;0
+46;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 11;0.5;0.018867924528301886;8.0;0
+47;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;tesfaye;1.0;0.0;8.0;0
+47;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 11;0.5;0.018867924528301886;8.0;0
+47;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;presented;1.0;0.0018867924528301887;8.0;0
+48;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;codes;1.0;0.005660377358490566;8.0;0
+48;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;run;1.0;0.0037735849056603774;8.0;0
+48;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 11;0.5;0.018867924528301886;8.0;0
+48;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;superb information;2.0;0.0037735849056603774;8.0;0
+48;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;symbol;1.0;0.0037735849056603774;8.0;0
+48;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;blog;1.0;0.0;8.0;0
+48;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;replaced;1.0;0.0037735849056603774;8.0;0
+48;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;huzefa;1.0;0.0;8.0;0
+48;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;appreciated;1.0;0.0;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;model   label;0.875;0.0018867924528301887;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;codes;1.0;0.005660377358490566;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;run;1.0;0.0037735849056603774;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;appreciated   ashuthoshgowda;1.0;0.0018867924528301887;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 11;0.5;0.018867924528301886;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;superb information;2.0;0.0037735849056603774;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;symbol;1.0;0.0037735849056603774;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;blog;1.0;0.0;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;october 29;0.5;0.0018867924528301887;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;att1;1.0;0.0;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;replaced;1.0;0.0037735849056603774;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;huzefa;1.0;0.0;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;model;1.5;0.0037735849056603774;2.6666666666666665;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;create;1.0;0.0018867924528301887;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;variables;1.0;0.0037735849056603774;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;select;1.0;0.0018867924528301887;8.0;0
+49;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;att2;1.0;0.0;8.0;0
+50;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sudipta basak;2.0;0.0018867924528301887;8.0;0
+50;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;simplicity;1.0;0.0018867924528301887;8.0;0
+50;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;effort;1.0;0.0037735849056603774;8.0;0
+50;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 12;0.5;0.0037735849056603774;8.0;0
+50;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;enjoyed;1.0;0.0018867924528301887;8.0;0
+51;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;naive;1.0;0.0018867924528301887;8.0;0
+51;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;machine learning;2.0;0.009433962264150943;2.6666666666666665;0
+51;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;im_utm;1.0;0.0018867924528301887;8.0;0
+51;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;lot;1.0;0.0;8.0;0
+51;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 12;0.5;0.0037735849056603774;8.0;0
+52;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sunil ray;2.0;0.0018867924528301887;8.0;0
+52;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;comment;1.0;0.0037735849056603774;8.0;0
+52;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 14;0.5;0.005660377358490566;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;max likelihoods;2.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;solve  sunil ray;2.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;step function;2.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;square method;2.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;probability;1.0;0.0;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;point;1.5;0.005660377358490566;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;attribute;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;distributions;1.0;0.0;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;linearity;1.0;0.0;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;argument;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;bernoulli random variable;3.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;linear relationship;1.916666666665;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;exp;1.0;0.0;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;deep;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;bias;1.5;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;normal distribution;2.5;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;dalila    borun chowdhury;1.3333333333333333;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;good summary;2.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;satisfied;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;convention  basically;1.3333333333333333;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 14;0.5;0.005660377358490566;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;log;1.0;0.0;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;introduces bias;1.75;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;linear regression;1.916666666665;0.0018867924528301887;2.6666666666666665;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;normal distribution amounts;2.6666666666666665;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;make;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;distributed;1.0;0.0;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;fsuch;1.0;0.0;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;parametric model;1.833333333335;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;assumption;1.33333333333;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;choose;1.0;0.0037735849056603774;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;easy;1.0;0.009433962264150943;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;residuals;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;linear model;1.75;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;linear;1.83333333333;0.0;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;simple point;1.75;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;choice;1.0;0.0037735849056603774;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;reason;1.2;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;true  function;1.3333333333333333;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;coming;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;re_written;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;estimate;2.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;inevitable;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;case;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 21;0.5;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;don;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;maximum likelihood estimate;2.6666666666666665;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;taking;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;april 21;0.5;0.0037735849056603774;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;governed;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;underlying assumption;1.666666666665;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;maximum likelihood estimates;3.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;good reason;1.6;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;decided;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;solve;2.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;talk;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;logistic regression;2.0;0.0037735849056603774;4.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;attributes;1.0;0.0018867924528301887;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;model;1.66666666667;0.0037735849056603774;2.6666666666666665;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;dalila;2.0;0.0;8.0;0
+53;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;equation linear;1.916666666665;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;code;1.0;0.005660377358490566;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;statis;1.0;0.0;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;variables;1.0;0.0037735849056603774;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;remove;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;replace;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;dataset provided;2.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;names;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;nice summary   huzefa;1.8;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;adds;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;stands;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 19;0.5;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;write;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;helps;1.0;0.0;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;columns;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;function;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;interactions;1.0;0.0;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;formula specification;2.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;basically means;2.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;equivalent;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;shouldn;1.0;0.0;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;intercept;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;data frame;2.0;0.0037735849056603774;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;x1   x2;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;default;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;explicit;1.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;data table;2.0;0.0018867924528301887;8.0;0
+54;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;note;1.0;0.0037735849056603774;8.0;0
+55;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;chris;1.0;0.0;8.0;0
+55;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;wonderful job;2.0;0.0018867924528301887;8.0;0
+55;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 26;0.5;0.0018867924528301887;8.0;0
+55;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;helpful;1.0;0.0;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;stanford_coursera ml class;3.0;0.0018867924528301887;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;code snips;2.0;0.0018867924528301887;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;jezzball;1.0;0.0;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;showing;1.0;0.0018867924528301887;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;real_world analogues;2.0;0.0018867924528301887;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;glenn nelson;2.0;0.0018867924528301887;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;summary;1.0;0.005660377358490566;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;terrific;1.0;0.0018867924528301887;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;mention;1.0;0.0037735849056603774;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;september 10;0.5;0.0018867924528301887;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;found;1.0;0.0018867924528301887;8.0;0
+56;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;incredibly;1.0;0.0018867924528301887;8.0;0
+57;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;shankar pandala;2.0;0.0018867924528301887;8.0;0
+57;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;helpful;1.0;0.0;8.0;0
+57;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;courses;1.0;0.0018867924528301887;8.0;0
+57;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;point;1.0;0.005660377358490566;8.0;0
+57;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;september 15;0.5;0.0018867924528301887;8.0;0
+57;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;completed  simple  clear;1.8;0.0018867924528301887;8.0;0
+57;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;easy;1.0;0.009433962264150943;8.0;0
+58;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;september 26;0.5;0.0018867924528301887;8.0;0
+58;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;markpratley;1.0;0.0;8.0;0
+58;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;gentleman;1.0;0.0018867924528301887;8.0;0
+58;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;scholar;1.0;0.0018867924528301887;8.0;0
+58;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sir;1.0;0.0018867924528301887;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;code;1.0;0.005660377358490566;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;whystatistics;1.0;0.0;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;codes;1.0;0.005660377358490566;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;september 29;0.5;0.0018867924528301887;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;helpful;1.0;0.0;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sunil;1.0;0.0;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;superb tutorial;2.0;0.0018867924528301887;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;simple terms;2.0;0.0018867924528301887;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;surely;1.0;0.0037735849056603774;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;add neural network;3.0;0.0018867924528301887;8.0;0
+59;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;good examples;2.0;0.0018867924528301887;8.0;0
+60;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;november 1;0.5;0.0018867924528301887;8.0;0
+60;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;3 cluster solution;1.3333333333333333;0.0018867924528301887;8.0;0
+60;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sayan putatunda;2.0;0.0018867924528301887;8.0;0
+61;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;baha;1.0;0.0;8.0;0
+61;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;november 27;0.5;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;comment;1.0;0.0037735849056603774;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;code;1.0;0.005660377358490566;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;forget;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;probability;1.0;0.0;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;threshold;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;umbrella;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;makes classification easy;3.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;regression;2.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;fact wrong;1.75;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;interesting;1.0;0.0;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;note;1.0;0.0037735849056603774;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;lot;1.0;0.0;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;great resource;2.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;benjamin;1.0;0.0;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;product;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;maps outputs;2.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;main aim;2.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;great article;2.0;0.0037735849056603774;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;continuous variable bound;3.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;regard;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;choice;1.0;0.0037735849056603774;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;surely;1.0;0.0037735849056603774;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;december 5;0.5;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;package hints;2.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;falls;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;logistic regression output;2.444444444443333;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;glm;1.0;0.0;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;generalized libear models;3.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;work;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;richer;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;thought;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;matter;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;logistic regression;2.166666666665;0.0037735849056603774;4.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;extra step;2.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;requires;1.0;0.0018867924528301887;8.0;0
+62;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;fact;1.5;0.0018867924528301887;8.0;0
+63;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;ashish yelkar;2.0;0.0018867924528301887;8.0;0
+63;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;nice;1.0;0.0037735849056603774;8.0;0
+63;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;january 6;0.5;0.0018867924528301887;8.0;0
+64;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;january 14;0.5;0.0018867924528301887;8.0;0
+64;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;bansari shah;2.0;0.0018867924528301887;8.0;0
+64;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;reallu helpful article;3.0;0.0018867924528301887;8.0;0
+65;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;rattle;1.0;0.0018867924528301887;8.0;0
+65;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;code explicitly;2.0;0.0018867924528301887;8.0;0
+65;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;ayushgg92;1.0;0.0;8.0;0
+65;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;writing;1.0;0.0018867924528301887;8.0;0
+65;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;wanted;1.0;0.0018867924528301887;8.0;0
+65;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;january 22;0.5;0.0037735849056603774;8.0;0
+66;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;article;1.0;0.009433962264150943;8.0;0
+66;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;january 22;0.5;0.0037735849056603774;8.0;0
+66;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;debasis;1.0;0.0;8.0;0
+66;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;nice;1.0;0.0037735849056603774;8.0;0
+67;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;wonderful article;2.0;0.0037735849056603774;8.0;0
+67;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;february 16;0.5;0.0037735849056603774;8.0;0
+67;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;debashis;1.0;0.0;8.0;0
+68;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;ve recently started;3.0;0.0018867924528301887;8.0;0
+68;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;material ive;2.0;0.0018867924528301887;8.0;0
+68;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;anthony;1.0;0.0;8.0;0
+68;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;informative;1.0;0.0;8.0;0
+68;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;easy;1.0;0.009433962264150943;8.0;0
+68;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;follow;1.0;0.0018867924528301887;8.0;0
+68;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;february 16;0.5;0.0037735849056603774;8.0;0
+68;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;pages;1.0;0.0018867924528301887;8.0;0
+69;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;content;1.0;0.0018867924528301887;8.0;0
+69;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;read;1.0;0.0018867924528301887;8.0;0
+69;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;akhil;1.0;0.0;8.0;0
+69;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;algorithms;1.0;0.0037735849056603774;4.0;0
+69;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;february 17;0.5;0.0037735849056603774;8.0;0
+70;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;article;1.0;0.009433962264150943;8.0;0
+70;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;swathi;1.0;0.0;8.0;0
+70;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;february 17;0.5;0.0037735849056603774;8.0;0
+71;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;libraries;1.0;0.0;8.0;0
+71;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;february 18;0.5;0.0018867924528301887;8.0;0
+71;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;cool stuff;2.0;0.0018867924528301887;8.0;0
+71;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;colas robles;2.0;0.0018867924528301887;8.0;0
+72;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;examples;1.0;0.0018867924528301887;8.0;0
+72;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;data;1.0;0.005660377358490566;8.0;0
+72;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;wizzerd;1.0;0.0;8.0;0
+72;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;february 26;0.5;0.0018867924528301887;8.0;0
+72;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sgood article;2.0;0.0018867924528301887;8.0;0
+73;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;good article;2.0;0.005660377358490566;8.0;0
+73;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;col  dan sulzinger;2.25;0.0018867924528301887;8.0;0
+73;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;march 1;0.5;0.0018867924528301887;8.0;0
+74;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;pansy;1.0;0.0018867924528301887;8.0;0
+74;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;informative summary;2.0;0.0018867924528301887;8.0;0
+74;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;march 8;0.5;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;brave;1.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;proper statistical background;2.8333333333333335;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;place people;2.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;highly recommend;2.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;wishing;1.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;jump;1.0;0.0;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;google;1.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;big flops;2.25;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;measure;1.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;march 10;0.5;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;stats;1.0;0.0;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;big data   george;1.7;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;performance;1.0;0.0;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;statistical learning;2.25;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;share;1.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;end;1.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;understanding;1.0;0.0;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;mention;1.0;0.0037735849056603774;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;world;1.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;article;1.5;0.009433962264150943;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;target;1.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;drew conway;2.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;cooking recipes;2.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;algorithm;1.0;0.0037735849056603774;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;danger zone;2.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;worst data analysts;3.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;irresponsible article;1.75;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;poster boy;2.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;telefonica;1.0;0.0;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;enter;1.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;making programmers;2.0;0.0018867924528301887;8.0;0
+75;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;june 17;0.5;0.005660377358490566;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;community;1.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;ends;1.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;good;1.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sense;1.0;0.0037735849056603774;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;great professors;2.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;company;1.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;present thedevmasters;2.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;continue learning;2.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;important topics;2.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;machine learning;2.0;0.009433962264150943;2.6666666666666665;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;helping;1.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;depth;1.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;march 15;0.5;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;learn;1.0;0.0;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;summarize;1.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;robin white;2.0;0.0018867924528301887;8.0;0
+76;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;asked;1.0;0.0018867924528301887;8.0;0
+77;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;salman ahmed;2.0;0.0018867924528301887;8.0;0
+77;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;awesome;1.0;0.0018867924528301887;8.0;0
+77;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;recommended;1.0;0.0;8.0;0
+77;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;article;1.0;0.009433962264150943;8.0;0
+77;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;march 19;0.5;0.0018867924528301887;8.0;0
+77;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;friends;1.0;0.0037735849056603774;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;succinct description;2.0;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;features;1.0;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;svm section;2.0;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;point;1.0;0.005660377358490566;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;support;1.5;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;co_ordinates;1.0;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;points lying;1.75;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;april 21;0.5;0.0037735849056603774;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;coordinates;1.0;0.0;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;called;1.0;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;important algorithms;2.0;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;points;1.5;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;borun chowdhury;2.0;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;define;1.0;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;margin;1.0;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;correct;1.0;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;support vectors;1.75;0.0018867924528301887;8.0;0
+78;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;mistake;1.0;0.0018867924528301887;8.0;0
+79;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;isaac;1.0;0.0;8.0;0
+79;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;wonderful article;2.0;0.0037735849056603774;8.0;0
+79;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;proven helpful;2.0;0.0018867924528301887;8.0;0
+80;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;excellent compilation;2.0;0.0037735849056603774;8.0;0
+80;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;june 11;0.5;0.0018867924528301887;8.0;0
+80;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;payal gour;2.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;plot;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;assumptions validity;2.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;good information interms;3.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;methods;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;initial knowledge note;3.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;summary;1.0;0.005660377358490566;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;prediction;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;understand residuals profile;3.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;ending;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;warning;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;result;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;predicts;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sense;1.0;0.0037735849056603774;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;analysis;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;problem;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;june 17;0.5;0.005660377358490566;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;data;1.0;0.005660377358490566;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;check;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;fitted;1.0;0.0018867924528301887;8.0;0
+81;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;compare models;2.0;0.0018867924528301887;8.0;0
+82;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;data analysis;2.0;0.0018867924528301887;8.0;0
+82;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;amazing article;2.0;0.0037735849056603774;8.0;0
+82;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;understand;1.0;0.0018867924528301887;8.0;0
+82;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;easy;1.0;0.009433962264150943;8.0;0
+82;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;dung dinh;2.0;0.0018867924528301887;8.0;0
+82;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;june 17;0.5;0.005660377358490566;8.0;0
+83;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;helpful;1.0;0.0;8.0;0
+83;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;june 30;0.5;0.0018867924528301887;8.0;0
+83;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;good article;2.0;0.005660377358490566;8.0;0
+83;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;explain;1.0;0.0018867924528301887;8.0;0
+83;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;machine learning;2.0;0.009433962264150943;2.6666666666666665;0
+83;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;anomaly dection algorithm;3.0;0.0018867924528301887;8.0;0
+83;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;apply;1.0;0.0018867924528301887;8.0;0
+83;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sabarikannan;1.0;0.0;8.0;0
+84;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;ankita srivastava;2.0;0.0018867924528301887;8.0;0
+84;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;helpful tutorial;2.0;0.0018867924528301887;8.0;0
+84;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;july 5;0.5;0.0018867924528301887;8.0;0
+84;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;lot;1.0;0.0;8.0;0
+84;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;guys;1.0;0.0018867924528301887;8.0;0
+85;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;amazing article;2.0;0.0037735849056603774;8.0;0
+85;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;haiyan;1.0;0.0;8.0;0
+85;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;july 7;0.5;0.0018867924528301887;8.0;0
+86;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;loving;1.0;0.0;8.0;0
+86;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;namala santosh kumar;3.0;0.0018867924528301887;8.0;0
+86;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;analytics vidhya;2.0;0.0037735849056603774;8.0;0
+86;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;july 15;0.5;0.0018867924528301887;8.0;0
+87;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;python;1.0;0.005660377358490566;8.0;0
+87;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;good article;2.0;0.005660377358490566;8.0;0
+87;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;mohammed abdul kaleem;3.0;0.0018867924528301887;8.0;0
+87;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;july 16;0.5;0.0018867924528301887;8.0;0
+87;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;explaining;1.0;0.005660377358490566;8.0;0
+88;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;jacques gouimenou;2.0;0.0018867924528301887;8.0;0
+88;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;compilation;1.0;0.0;8.0;0
+88;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 14;0.5;0.005660377358490566;8.0;0
+89;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;gain insight;2.0;0.0018867924528301887;8.0;0
+89;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;machine learning;2.0;0.009433962264150943;2.6666666666666665;0
+89;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;baseer;1.0;0.0;8.0;0
+89;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;precise quick tutorial;3.0;0.0018867924528301887;8.0;0
+89;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 18;0.5;0.0018867924528301887;8.0;0
+90;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 24;0.5;0.0018867924528301887;8.0;0
+90;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;vishwas;1.0;0.0;8.0;0
+91;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;informative;1.0;0.0;8.0;0
+91;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;august 28;0.5;0.0018867924528301887;8.0;0
+91;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sharing;1.0;0.0037735849056603774;8.0;0
+91;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;ali kazim;2.0;0.0018867924528301887;8.0;0
+92;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;september 3;0.5;0.0018867924528301887;8.0;0
+93;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;denis;1.0;0.0;8.0;0
+93;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;great summary;2.0;0.0018867924528301887;8.0;0
+93;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;september 4;0.5;0.0018867924528301887;8.0;0
+94;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;hyper parameter tunning;3.0;0.0018867924528301887;8.0;0
+94;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;test data;2.0;0.0018867924528301887;8.0;0
+94;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;great article;2.0;0.0037735849056603774;8.0;0
+94;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;models;1.0;0.0018867924528301887;8.0;0
+94;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sanjiv;1.0;0.0;8.0;0
+94;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;september 8;0.5;0.0018867924528301887;8.0;0
+95;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;jezzball;1.0;0.0;8.0;0
+95;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;made;1.0;0.0018867924528301887;8.0;0
+95;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;faizan;1.0;0.0;8.0;0
+95;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;day;1.0;0.0018867924528301887;8.0;0
+95;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;september 13;0.5;0.0018867924528301887;8.0;0
+96;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sharing knowledge;2.0;0.0018867924528301887;8.0;0
+96;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;nicely complied;2.0;0.0018867924528301887;8.0;0
+96;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;explanation;1.0;0.0;8.0;0
+96;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;crystal clear;2.0;0.0018867924528301887;8.0;0
+96;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;satya swarup dani;3.0;0.0018867924528301887;8.0;0
+96;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;easy;1.0;0.009433962264150943;8.0;0
+96;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;september 27;0.5;0.0018867924528301887;8.0;0
+96;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;digest;1.0;0.0018867924528301887;8.0;0
+97;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;perfect;1.0;0.0018867924528301887;8.0;0
+97;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;sharing;1.0;0.0037735849056603774;8.0;0
+97;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;knowledge;1.0;0.0;8.0;0
+97;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;explanation;1.0;0.0;8.0;0
+97;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;october 5;0.5;0.0018867924528301887;8.0;0
+97;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;emerson moizes;2.0;0.0018867924528301887;8.0;0
+98;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;valery;1.0;0.0;8.0;0
+98;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;october 11;0.5;0.0018867924528301887;8.0;0
+98;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;summary;1.0;0.005660377358490566;8.0;0
+99;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;october 14;0.5;0.0018867924528301887;8.0;0
+99;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;good starting point;3.0;0.0018867924528301887;8.0;0
+99;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;machine learning;2.0;0.009433962264150943;2.6666666666666665;0
+99;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;person;1.0;0.0037735849056603774;8.0;0
+99;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;informative article;1.75;0.0018867924528301887;8.0;0
+99;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;article;1.5;0.009433962264150943;8.0;0
+99;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;malini ramamurthy;2.0;0.0018867924528301887;8.0;0
+100;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;python;1.0;0.005660377358490566;8.0;0
+100;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;shubham;1.0;0.0;8.0;0
+100;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;explaining;1.0;0.005660377358490566;8.0;0
+100;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;october 21;0.5;0.0037735849056603774;8.0;0
+101;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;october 21;0.5;0.0037735849056603774;8.0;0
+101;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;python    kareermatrix;0.8;0.0018867924528301887;8.0;0
+101;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;anand rai;2.0;0.0018867924528301887;8.0;0
+101;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;explaining;1.0;0.005660377358490566;8.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;ramesh;1.0;0.0;8.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;suitable;1.0;0.0018867924528301887;8.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;data set  2;1.0;0.0018867924528301887;8.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;machine learning algorithms;2.6;0.0018867924528301887;4.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;algorithms works   3;0.76;0.0018867924528301887;8.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;person;1.0;0.0037735849056603774;8.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;questions   1;0.25;0.0018867924528301887;8.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;algorithms;1.8;0.0037735849056603774;4.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;choose;1.0;0.0037735849056603774;8.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;october 23;0.5;0.0018867924528301887;8.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;friends;1.0;0.0037735849056603774;8.0;0
+102;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;ml algorithms;1.9;0.0018867924528301887;8.0;0
+103;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;november 3;0.5;0.0018867924528301887;8.0;0
+103;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;effort;1.0;0.0037735849056603774;8.0;0
+103;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;indra;1.0;0.0;8.0;0
+104;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;ravi rathore;2.0;0.0018867924528301887;8.0;0
+104;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;algorithm;1.0;0.0037735849056603774;8.0;0
+104;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;python;1.0;0.005660377358490566;8.0;0
+104;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;body provide;2.0;0.0018867924528301887;8.0;0
+104;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;november 8;0.5;0.0018867924528301887;8.0;0
+104;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;proper code;2.0;0.0018867924528301887;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;november 10;0.5;0.0018867924528301887;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;works;1.0;0.0018867924528301887;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;list  command;1.0833333333333333;0.0018867924528301887;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;programe;1.0;0.0;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;list;1.25;0.0;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;converted directly;2.0;0.0018867924528301887;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;model frame default;2.8333333333333335;0.0018867924528301887;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;raghav;1.0;0.0;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;y_train  _;1.1666666666666667;0.0037735849056603774;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;y_train;1.5;0.0037735849056603774;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;variable;1.0;0.0018867924528301887;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;error named error;3.0;0.0018867924528301887;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;december 8;0.5;0.0018867924528301887;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;data;1.5;0.005660377358490566;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;data frame;2.0;0.0037735849056603774;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;gaurav;1.0;0.0;8.0;0
+105;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;invalid type;2.0;0.0018867924528301887;8.0;0
+106;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;enjoy;1.0;0.0018867924528301887;8.0;0
+106;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;machine learning problems;3.0;0.0018867924528301887;8.0;0
+106;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;suman;1.0;0.0;8.0;0
+106;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;analytics vidhya;2.0;0.0037735849056603774;8.0;0
+106;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;nice summary;2.0;0.0018867924528301887;8.0;0
+106;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;practice  nss;1.3333333333333333;0.0018867924528301887;8.0;0
+106;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;january 3;0.5;0.0037735849056603774;8.0;0
+106;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;december 9;0.5;0.0018867924528301887;8.0;0
+106;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;phenomenal place  google;2.25;0.0018867924528301887;8.0;0
+107;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;codes based;2.0;0.0018867924528301887;8.0;0
+107;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;december 26;0.5;0.0018867924528301887;8.0;0
+107;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;january 3;0.5;0.0037735849056603774;8.0;0
+107;https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/;caret  nss;1.3333333333333333;0.0018867924528301887;8.0;0
+113;https://www.quora.com/What-is-the-difference-between-supervised-and-unsupervised-learning-algorithms;common terms;2.0;1.0;8.0;0
+114;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;divided;1.0;0.030303030303030304;8.0;0
+114;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;machine learning algorithms;2.7777777777766666;0.030303030303030304;4.0;0
+114;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;reinforcement learning;2.166666666665;0.06060606060606061;8.0;0
+114;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;unsupervised learning;2.166666666665;0.09090909090909091;8.0;0
+115;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;supervised learning;2.0;0.030303030303030304;2.6666666666666665;0
+115;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;missing;1.0;0.030303030303030304;8.0;0
+115;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;dataset;1.0;0.0;8.0;0
+115;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;instances;1.0;0.030303030303030304;8.0;0
+115;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;predicted;1.0;0.030303030303030304;8.0;0
+115;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;cases;1.0;0.06060606060606061;8.0;0
+115;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;property;1.0;0.030303030303030304;8.0;0
+116;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;cases;1.0;0.06060606060606061;8.0;0
+116;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;unlabeled dataset;2.0;0.030303030303030304;8.0;0
+116;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;discover implicit relationships;3.0;0.030303030303030304;8.0;0
+116;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;challenge;1.0;0.030303030303030304;8.0;0
+116;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;unsupervised learning;2.0;0.09090909090909091;8.0;0
+117;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;predictive step;2.0;0.030303030303030304;8.0;0
+117;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;reinforcement learning falls;3.0;0.030303030303030304;8.0;0
+117;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;form;1.0;0.030303030303030304;8.0;0
+117;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;2 extremes;0.5;0.030303030303030304;8.0;0
+117;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;error message;2.0;0.030303030303030304;8.0;0
+117;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;precise label;2.0;0.030303030303030304;8.0;0
+117;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;action;1.0;0.030303030303030304;8.0;0
+117;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;feedback;1.0;0.0;8.0;0
+118;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;unsupervised learning;2.0;0.09090909090909091;8.0;0
+118;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;10 algorithms;0.5;0.030303030303030304;8.0;0
+118;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;didn;1.0;0.0;8.0;0
+118;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;reinforcement learning;2.0;0.06060606060606061;8.0;0
+118;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;interested;1.0;0.030303030303030304;8.0;0
+118;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;supervised;1.0;0.030303030303030304;8.0;0
+118;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;learn;1.0;0.0;8.0;0
+118;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;intro class;2.0;0.030303030303030304;8.0;0
+118;http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html;hope;1.0;0.030303030303030304;8.0;0
+119;http://www.dataschool.io/comparing-supervised-learning-algorithms/;data science;2.5;0.09090909090909091;8.0;0
+119;http://www.dataschool.io/comparing-supervised-learning-algorithms/;cover;1.0;0.09090909090909091;8.0;0
+119;http://www.dataschool.io/comparing-supervised-learning-algorithms/;focus;1.0;0.09090909090909091;8.0;0
+119;http://www.dataschool.io/comparing-supervised-learning-algorithms/;machine learning;2.0;0.09090909090909091;1.1428571428571428;0
+119;http://www.dataschool.io/comparing-supervised-learning-algorithms/;instruct;1.0;0.09090909090909091;8.0;0
+119;http://www.dataschool.io/comparing-supervised-learning-algorithms/;data science pipeline;2.6666666666666665;0.09090909090909091;8.0;0
+120;http://www.dataschool.io/comparing-supervised-learning-algorithms/;metrics;1.0;0.09090909090909091;8.0;0
+120;http://www.dataschool.io/comparing-supervised-learning-algorithms/;teach;1.0;0.09090909090909091;8.0;0
+120;http://www.dataschool.io/comparing-supervised-learning-algorithms/;supervised learning;2.0;0.09090909090909091;2.6666666666666665;0
+120;http://www.dataschool.io/comparing-supervised-learning-algorithms/;algorithms;1.0;0.09090909090909091;2.6666666666666665;0
+120;http://www.dataschool.io/comparing-supervised-learning-algorithms/;primarily;1.0;0.09090909090909091;8.0;0

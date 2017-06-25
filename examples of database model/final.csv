@@ -1,0 +1,1566 @@
+0;1;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.1;6.0;0;1
+0;2;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.1;3.0;0;1
+0;3;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.1;2.0;0;1
+0;4;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.1;2.0;0;1
+0;6;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.1;6.0;0;1
+0;7;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.1;3.0;0;1
+0;8;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.1;6.0;0.0;1
+0;8;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.1;6.0;0.0;1
+0;9;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.1;3.0;0;1
+0;13;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.1;6.0;0;1
+0;28;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.1;6.0;0;0
+0;29;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.1;3.0;0;0
+0;30;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.1;2.0;0;0
+0;31;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.1;2.0;0;0
+0;33;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.1;6.0;0;0
+0;34;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.1;3.0;0;0
+0;35;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.1;6.0;0.0;0
+0;35;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.1;6.0;0.0;0
+0;36;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.1;3.0;0;0
+0;40;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.1;6.0;0;0
+0;55;https://www.lucidchart.com/pages/database-diagram/database-models;kinds;1.0;0.0;6.0;0;0
+0;55;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.06666666666666667;1.5;0;0
+0;56;https://www.lucidchart.com/pages/database-diagram/database-models;include;1.0;0.06666666666666667;6.0;0;0
+0;56;https://www.lucidchart.com/pages/database-diagram/database-models;common;1.0;0.06666666666666667;6.0;0;0
+0;57;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical database model;3.0;0.06666666666666667;2.0;0;0
+0;58;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.06666666666666667;1.5;0;0
+0;59;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.06666666666666667;1.5;0;0
+0;60;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.06666666666666667;6.0;0;0
+0;61;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.06666666666666667;6.0;0;0
+0;62;https://www.lucidchart.com/pages/database-diagram/database-models;document model;2.0;0.06666666666666667;2.0;0;0
+0;63;https://www.lucidchart.com/pages/database-diagram/database-models;entity_attribute_value model;2.0;0.06666666666666667;6.0;0;0
+0;64;https://www.lucidchart.com/pages/database-diagram/database-models;star schema;2.0;0.06666666666666667;2.0;0;0
+0;65;https://www.lucidchart.com/pages/database-diagram/database-models;combines;1.0;0.06666666666666667;6.0;0.7071067811865475;0
+0;65;https://www.lucidchart.com/pages/database-diagram/database-models;make;1.0;0.06666666666666667;6.0;0.7071067811865475;0
+0;65;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.06666666666666667;6.0;0.7071067811865475;0
+0;71;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.07142857142857142;6.0;1.0;0
+0;71;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;2.0;1.0;0
+0;71;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.07142857142857142;6.0;1.0;0
+0;72;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;6.0;0.0;0
+0;72;http://www.studytonight.com/dbms/database-model;parts;1.0;0.07142857142857142;2.0;0.0;0
+0;72;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;2.0;0.0;0
+0;72;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.07142857142857142;6.0;0.0;0
+0;73;http://www.studytonight.com/dbms/database-model;database design;2.0;0.07142857142857142;6.0;1.0;0
+0;73;http://www.studytonight.com/dbms/database-model;models;1.0;0.07142857142857142;6.0;1.0;0
+0;73;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;6.0;1.0;0
+0;73;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.07142857142857142;6.0;1.0;0
+0;74;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.07142857142857142;6.0;0;0
+0;75;http://www.studytonight.com/dbms/database-model;network model;2.0;0.07142857142857142;1.5;0;0
+0;76;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.07142857142857142;1.5;0;0
+0;78;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database models;2.0;0.05;6.0;1.0;0
+0;78;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;based;1.0;0.05;6.0;1.0;0
+0;78;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database systems;2.0;0.05;6.0;1.0;0
+0;78;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.0;1.0;0
+0;79;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;6.0;1.0;0
+0;79;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database;1.0;0.05;3.0;1.0;0
+0;79;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;rules;1.0;0.05;6.0;1.0;0
+0;79;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data model;2.0;0.05;6.0;1.0;0
+0;79;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;collection;1.0;0.05;6.0;1.0;0
+0;79;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;concepts;1.0;0.05;6.0;1.0;0
+0;79;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;6.0;1.0;0
+0;80;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;relationships;1.0;0.0;6.0;0.0;0
+0;80;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;description;1.0;0.0;6.0;0.0;0
+0;80;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;database means;2.0;0.05;6.0;0.0;0
+0;80;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data types;1.75;0.05;6.0;0.0;0
+0;80;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;storage;1.0;0.05;6.0;0.0;0
+0;80;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data;1.5;0.05;1.5;0.0;0
+0;80;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;structure;1.0;0.1;6.0;0.0;0
+0;80;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;constraints;1.0;0.0;6.0;0.0;0
+0;81;http://www.gitta.info/DBSysConcept/en/html/DataModSchem_learningObject1.html;data models;2.0;0.1;2.0;0;0
+0;105;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;3.0;0.03773584905660377;6.0;0;0
+0;105;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;database;1.0;0.018867924528301886;3.0;0;0
+0;105;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;modeled;1.0;0.018867924528301886;6.0;0;0
+0;105;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;logical structure;2.0;0.018867924528301886;6.0;0;0
+0;106;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;fundamental entities;2.0;0.018867924528301886;6.0;0.0;0
+0;106;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;introduce abstraction;2.0;0.018867924528301886;6.0;0.0;0
+0;106;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models;2.0;0.018867924528301886;1.5;0.0;0
+0;106;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;dbms;1.0;0.0;6.0;0.0;0
+0;107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data models define;2.6666666666666665;0.03773584905660377;6.0;1.0;0
+0;107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;stored inside;2.0;0.018867924528301886;6.0;1.0;0
+0;107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;system;1.0;0.018867924528301886;6.0;1.0;0
+0;107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;connected;1.0;0.018867924528301886;6.0;1.0;0
+0;107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;processed;1.0;0.018867924528301886;6.0;1.0;0
+0;107;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;data;2.0;0.018867924528301886;1.5;1.0;0
+0;108;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;properties called attributes;3.0;0.03773584905660377;6.0;1.0;0
+0;108;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;real_world entity;1.666666666665;0.03773584905660377;6.0;1.0;0
+0;108;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;er model;2.0;0.03773584905660377;6.0;1.0;0
+0;108;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity;1.33333333333;0.05660377358490566;6.0;1.0;0
+0;109;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;defined;1.0;0.03773584905660377;6.0;0;0
+0;109;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attribute;1.0;0.03773584905660377;6.0;0;0
+0;109;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;set;1.0;0.03773584905660377;6.0;0;0
+0;109;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;values called domain;3.0;0.03773584905660377;6.0;0;0
+0;110;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;considered;1.0;0.03773584905660377;6.0;1.0;0
+0;110;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;school database;2.0;0.03773584905660377;6.0;1.0;0
+0;110;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;student;1.0;0.05660377358490566;6.0;1.0;0
+0;110;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity;1.0;0.05660377358490566;6.0;1.0;0
+0;111;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attributes;1.0;0.03773584905660377;6.0;0.0;0
+0;111;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;age;1.0;0.03773584905660377;6.0;0.0;0
+0;111;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;class;1.0;0.03773584905660377;6.0;0.0;0
+0;111;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;student;1.0;0.05660377358490566;6.0;0.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;set;1.0;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;student;1.5;0.05660377358490566;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;real_world entity;1.75;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;defined;1.0;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attribute;1.0;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;age;1.0;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity;1.5;0.05660377358490566;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;considered;1.0;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;er model;2.0;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entity  student;1.0;0.018867924528301886;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;properties called attributes;2.6666666666666665;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;values called domain;3.0;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;school database;2.0;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;class;1.0;0.03773584905660377;6.0;1.0;0
+0;112;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;attributes;2.0;0.03773584905660377;6.0;1.0;0
+0;113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entities  mapping cardinalities;1.9166666666675;0.018867924528301886;6.0;1.0;0
+0;113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;relationship;2.0;0.0;6.0;1.0;0
+0;113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;called relationship  relationships;2.0;0.018867924528301886;6.0;1.0;0
+0;113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;number;1.0;0.018867924528301886;6.0;1.0;0
+0;113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;entities;1.66666666667;0.018867924528301886;6.0;1.0;0
+0;113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;logical association;1.75;0.018867924528301886;6.0;1.0;0
+0;113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;mapped;1.0;0.018867924528301886;6.0;1.0;0
+0;113;https://www.tutorialspoint.com/dbms/dbms_data_models.htm;association;1.5;0.0;6.0;1.0;0
+0;117;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;shipments;1.0;0.07692307692307693;6.0;1.0;0
+0;117;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;sample database consisting;3.0;0.07692307692307693;6.0;1.0;0
+0;117;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;hierarchical data model;3.0;0.07692307692307693;6.0;1.0;0
+0;117;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;parts;1.0;0.15384615384615385;3.0;1.0;0
+0;117;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;understand;1.0;0.07692307692307693;6.0;1.0;0
+0;117;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier;1.0;0.15384615384615385;6.0;1.0;0
+0;117;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;order;1.0;0.07692307692307693;6.0;1.0;0
+0;118;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;tables;1.0;0.07692307692307693;6.0;0;0
+0;118;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;record structure;2.0;0.07692307692307693;6.0;0;0
+0;118;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;shipments elements;2.0;0.07692307692307693;6.0;0;0
+0;118;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;parts;1.0;0.15384615384615385;3.0;0;0
+0;118;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;supplier;1.0;0.15384615384615385;6.0;0;0
+0;118;http://ecomputernotes.com/fundamental/what-is-a-database/database-model;sample records;2.0;0.07692307692307693;6.0;0;0
+1;1;https://www.lucidchart.com/pages/database-diagram/database-models;database models;2.0;0.05263157894736842;6.0;0;0
+1;1;https://www.lucidchart.com/pages/database-diagram/database-models;types;1.0;0.05263157894736842;6.0;0;0
+1;2;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.02631578947368421;3.0;0;0
+1;3;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical model;2.0;0.02631578947368421;6.0;0;0
+1;4;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.02631578947368421;6.0;0;0
+1;5;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.02631578947368421;6.0;0;0
+1;6;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.02631578947368421;6.0;0;0
+1;7;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.02631578947368421;6.0;0;0
+1;8;https://www.lucidchart.com/pages/database-diagram/database-models;database models;2.0;0.05263157894736842;6.0;0;0
+1;9;https://www.lucidchart.com/pages/database-diagram/database-models;nosql database models;3.0;0.02631578947368421;6.0;0;0
+1;10;https://www.lucidchart.com/pages/database-diagram/database-models;web;1.0;0.02631578947368421;6.0;0;0
+1;10;https://www.lucidchart.com/pages/database-diagram/database-models;databases;1.0;0.02631578947368421;6.0;0;0
+1;16;https://www.lucidchart.com/pages/database-diagram/database-models;relationships;1.0;0.0;6.0;0.0;0
+1;16;https://www.lucidchart.com/pages/database-diagram/database-models;database;2.0;0.02631578947368421;3.0;0.0;0
+1;16;https://www.lucidchart.com/pages/database-diagram/database-models;database model shows;2.6666666666666665;0.02631578947368421;6.0;0.0;0
+1;16;https://www.lucidchart.com/pages/database-diagram/database-models;stored;1.0;0.02631578947368421;3.0;0.0;0
+1;16;https://www.lucidchart.com/pages/database-diagram/database-models;including;1.0;0.02631578947368421;6.0;0.0;0
+1;16;https://www.lucidchart.com/pages/database-diagram/database-models;determine;1.0;0.02631578947368421;6.0;0.0;0
+1;16;https://www.lucidchart.com/pages/database-diagram/database-models;logical structure;2.0;0.02631578947368421;3.0;0.0;0
+1;16;https://www.lucidchart.com/pages/database-diagram/database-models;accessed;1.0;0.02631578947368421;6.0;0.0;0
+1;16;https://www.lucidchart.com/pages/database-diagram/database-models;data;1.0;0.02631578947368421;6.0;0.0;0
+1;16;https://www.lucidchart.com/pages/database-diagram/database-models;constraints;1.0;0.0;6.0;0.0;0
+1;17;https://www.lucidchart.com/pages/database-diagram/database-models;individual database models;3.0;0.02631578947368421;6.0;0;0
+1;17;https://www.lucidchart.com/pages/database-diagram/database-models;rules;1.0;0.02631578947368421;6.0;0;0
+1;17;https://www.lucidchart.com/pages/database-diagram/database-models;designed based;2.0;0.02631578947368421;6.0;0;0
+1;17;https://www.lucidchart.com/pages/database-diagram/database-models;designers adopt;2.0;0.02631578947368421;6.0;0;0
+1;17;https://www.lucidchart.com/pages/database-diagram/database-models;concepts;1.0;0.02631578947368421;6.0;0;0
+1;18;https://www.lucidchart.com/pages/database-diagram/database-models;represented;1.0;0.0;6.0;1.0;0
+1;18;https://www.lucidchart.com/pages/database-diagram/database-models;accompanying database diagram;3.0;0.02631578947368421;6.0;1.0;0
+1;18;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.02631578947368421;6.0;1.0;0
+1;24;https://www.lucidchart.com/pages/database-diagram/database-models;relationships;1.5;0.0;6.0;0.7071067811865475;0
+1;24;https://www.lucidchart.com/pages/database-diagram/database-models;tables;1.0;0.02631578947368421;3.0;0.7071067811865475;0
+1;24;https://www.lucidchart.com/pages/database-diagram/database-models;one_to_many;1.0;0.02631578947368421;6.0;0.7071067811865475;0
+1;24;https://www.lucidchart.com/pages/database-diagram/database-models;accounts;1.0;0.02631578947368421;6.0;0.7071067811865475;0
+1;24;https://www.lucidchart.com/pages/database-diagram/database-models;many_to_many relationships;1.75;0.02631578947368421;6.0;0.7071067811865475;0
+1;24;https://www.lucidchart.com/pages/database-diagram/database-models;model;1.0;0.02631578947368421;3.0;0.7071067811865475;0
+1;24;https://www.lucidchart.com/pages/database-diagram/database-models;including one_to_one;2.0;0.02631578947368421;6.0;0.7071067811865475;0
+1;24;https://www.lucidchart.com/pages/database-diagram/database-models;types;1.0;0.05263157894736842;6.0;0.7071067811865475;0
+1;31;http://www.agiledata.org/essays/dataModeling101.html;article;1.0;0.041666666666666664;6.0;0.0;0
+1;31;http://www.agiledata.org/essays/dataModeling101.html;data modeling;2.0;0.041666666666666664;6.0;0.0;0
+1;31;http://www.agiledata.org/essays/dataModeling101.html;focus;1.0;0.041666666666666664;6.0;0.0;0
+1;31;http://www.agiledata.org/essays/dataModeling101.html;alternatives;1.0;0.0;6.0;0.0;0
+1;31;http://www.agiledata.org/essays/dataModeling101.html;data_oriented artifacts;2.0;0.041666666666666664;6.0;0.0;0
+1;32;http://www.agiledata.org/essays/dataModeling101.html;addition;1.0;0.041666666666666664;6.0;0.0;0
+1;32;http://www.agiledata.org/essays/dataModeling101.html;ldms;1.0;0.0;6.0;0.0;0
+1;32;http://www.agiledata.org/essays/dataModeling101.html;people;1.0;0.041666666666666664;6.0;0.0;0
+1;32;http://www.agiledata.org/essays/dataModeling101.html;option;1.0;0.041666666666666664;6.0;0.0;0
+1;32;http://www.agiledata.org/essays/dataModeling101.html;common;1.0;0.041666666666666664;6.0;0.0;0
+1;33;http://www.agiledata.org/essays/dataModeling101.html;superior;1.0;0.041666666666666664;6.0;0.0;0
+1;33;http://www.agiledata.org/essays/dataModeling101.html;orm diagrams;2.0;0.041666666666666664;6.0;0.0;0
+1;33;http://www.agiledata.org/essays/dataModeling101.html;creation;1.0;0.08333333333333333;6.0;0.0;0
+1;33;http://www.agiledata.org/essays/dataModeling101.html;experience;1.0;0.041666666666666664;6.0;0.0;0
+1;33;http://www.agiledata.org/essays/dataModeling101.html;crc cards;2.0;0.08333333333333333;6.0;0.0;0
+1;33;http://www.agiledata.org/essays/dataModeling101.html;easy;1.0;0.041666666666666664;6.0;0.0;0
+1;33;http://www.agiledata.org/essays/dataModeling101.html;model;1.0;0.041666666666666664;3.0;0.0;0
+1;33;http://www.agiledata.org/essays/dataModeling101.html;fact;1.0;0.041666666666666664;6.0;0.0;0
+1;34;http://www.agiledata.org/essays/dataModeling101.html;traditional;1.0;0.0;6.0;0.7071067811865475;0
+1;34;http://www.agiledata.org/essays/dataModeling101.html;crc cards;2.0;0.08333333333333333;6.0;0.7071067811865475;0
+1;34;http://www.agiledata.org/essays/dataModeling101.html;creation;1.0;0.08333333333333333;6.0;0.7071067811865475;0
+1;34;http://www.agiledata.org/essays/dataModeling101.html;analyst_led drawing session;3.0;0.041666666666666664;6.0;0.7071067811865475;0
+1;34;http://www.agiledata.org/essays/dataModeling101.html;facilitate stakeholders;2.0;0.041666666666666664;6.0;0.7071067811865475;0
+1;35;http://www.agiledata.org/essays/dataModeling101.html;uml;1.0;0.0;6.0;0;0
+1;36;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;entity relationship diagram;3.0;0.16666666666666666;6.0;0.0;0
+1;36;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;showing;1.0;0.16666666666666666;6.0;0.0;0
+1;36;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;typical online;2.0;0.16666666666666666;6.0;0.0;0
+1;37;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;tables;1.0;0.16666666666666666;3.0;0.0;0
+1;37;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;parent_child relationships;2.0;0.16666666666666666;6.0;0.0;0
+1;38;https://www.edrawsoft.com/how-to-draw-database-model-diagram.php;fully understand;2.0;0.16666666666666666;6.0;0.7071067811865475;0
+1;39;https://en.wikipedia.org/wiki/Data_model;relationships;1.0;0.0;6.0;1.0;0
+1;39;https://en.wikipedia.org/wiki/Data_model;document entities;2.0;0.06666666666666667;6.0;1.0;0
+1;39;https://en.wikipedia.org/wiki/Data_model;bind;1.0;0.06666666666666667;6.0;1.0;0
+1;39;https://en.wikipedia.org/wiki/Data_model;data structure diagram;2.5;0.06666666666666667;6.0;1.0;0
+1;39;https://en.wikipedia.org/wiki/Data_model;data model;2.25;0.06666666666666667;3.0;1.0;0
+1;39;https://en.wikipedia.org/wiki/Data_model;diagram;2.0;0.06666666666666667;6.0;1.0;0
+1;39;https://en.wikipedia.org/wiki/Data_model;providing graphical notations;3.0;0.06666666666666667;6.0;1.0;0
+1;39;https://en.wikipedia.org/wiki/Data_model;constraints;1.0;0.0;6.0;1.0;0
+1;40;https://en.wikipedia.org/wiki/Data_model;representing relationships;2.0;0.06666666666666667;6.0;0.0;0
+1;40;https://en.wikipedia.org/wiki/Data_model;dsds;1.0;0.0;6.0;0.0;0
+1;40;https://en.wikipedia.org/wiki/Data_model;arrows;1.0;0.06666666666666667;6.0;0.0;0
+1;40;https://en.wikipedia.org/wiki/Data_model;boxes;1.0;0.06666666666666667;6.0;0.0;0
+1;40;https://en.wikipedia.org/wiki/Data_model;basic graphic elements;3.0;0.06666666666666667;6.0;0.0;0
+1;40;https://en.wikipedia.org/wiki/Data_model;representing entities;2.0;0.06666666666666667;6.0;0.0;0
+1;41;https://en.wikipedia.org/wiki/Data_model;data structure diagrams;3.0;0.06666666666666667;6.0;0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;database model;1.75;0.13333333333333333;6.0;1.0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;determines;1.5;0.06666666666666667;6.0;1.0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;database;1.5;0.06666666666666667;3.0;1.0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;organized;1.0;0.06666666666666667;6.0;1.0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;data model;2.0;0.06666666666666667;3.0;1.0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;fundamentally determines;1.75;0.06666666666666667;6.0;1.0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;manipulated;1.0;0.0;6.0;1.0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;stored;1.0;0.06666666666666667;3.0;1.0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;logical structure;2.0;0.06666666666666667;3.0;1.0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;manner data;2.0;0.06666666666666667;6.0;1.0;0
+1;46;https://en.wikipedia.org/wiki/Database_model;type;1.0;0.06666666666666667;6.0;1.0;0
+1;47;https://en.wikipedia.org/wiki/Database_model;popular;1.0;0.06666666666666667;6.0;1.0;0
+1;47;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.06666666666666667;3.0;1.0;0
+1;47;https://en.wikipedia.org/wiki/Database_model;database model;2.0;0.13333333333333333;6.0;1.0;0
+1;47;https://en.wikipedia.org/wiki/Database_model;table_based format;2.0;0.06666666666666667;6.0;1.0;0
+1;50;https://learndatamodeling.com/blog/conceptual-data-modeling-tutorial/;relationships;1.0;0.0;6.0;1.0;0
+1;50;https://learndatamodeling.com/blog/conceptual-data-modeling-tutorial/;information;1.0;0.0;6.0;1.0;0
+1;50;https://learndatamodeling.com/blog/conceptual-data-modeling-tutorial/;detailed level;2.0;0.16666666666666666;6.0;1.0;0
+1;50;https://learndatamodeling.com/blog/conceptual-data-modeling-tutorial/;major entities;2.0;0.16666666666666666;6.0;1.0;0
+1;50;https://learndatamodeling.com/blog/conceptual-data-modeling-tutorial/;initial planning phase;3.0;0.16666666666666666;6.0;1.0;0
+1;50;https://learndatamodeling.com/blog/conceptual-data-modeling-tutorial/;attributes;1.0;0.16666666666666666;6.0;1.0;0
+2;1;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;5.0;0;1
+2;2;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;2.5;0;1
+2;3;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;1.6666666666666667;0;1
+2;4;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;1.6666666666666667;0;1
+2;6;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;5.0;0;1
+2;7;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;2.5;0;1
+2;8;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;5.0;0.0;1
+2;8;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;2.5;0.0;1
+2;9;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;2.5;0;1
+2;13;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;5.0;0;1
+2;28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;database design;2.0;0.05;2.5;0.0;0
+2;28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;process;1.0;0.05;5.0;0.0;0
+2;28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;real world;2.0;0.1;5.0;0.0;0
+2;28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;enterprise;1.0;0.1;5.0;0.0;0
+2;28;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;modeling;1.0;0.05;5.0;0.0;0
+2;29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;database;1.0;0.05;5.0;1.0;0
+2;29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;enterprise;1.0;0.1;5.0;1.0;0
+2;29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;model;1.0;0.05;1.6666666666666667;1.0;0
+2;29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;real world;2.0;0.1;5.0;1.0;0
+2;29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;fact;1.0;0.05;5.0;1.0;0
+2;29;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;selected information needed;3.0;0.05;5.0;1.0;0
+2;30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;formally;1.0;0.05;5.0;0;0
+2;30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;intuitive;1.0;0.05;5.0;0;0
+2;30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;models;1.0;0.05;2.5;0;0
+2;30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;languages;1.0;0.0;5.0;0;0
+2;30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;informal;1.0;0.05;5.0;0;0
+2;30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;designers;1.0;0.05;5.0;0;0
+2;30;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;mathematically defined;2.0;0.05;5.0;0;0
+2;31;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;tutorial;1.0;0.05;5.0;0.0;0
+2;31;http://www.tomjewett.com/dbdesign/dbdesign.php%3Fpage%3Dmodels.html;present;1.0;0.05;5.0;0.0;0
+2;32;https://www.lucidchart.com/pages/database-diagram/database-models;kinds;1.0;0.0;5.0;0;0
+2;32;https://www.lucidchart.com/pages/database-diagram/database-models;data models;2.0;0.06666666666666667;5.0;0;0
+2;33;https://www.lucidchart.com/pages/database-diagram/database-models;include;1.0;0.06666666666666667;5.0;0;0
+2;33;https://www.lucidchart.com/pages/database-diagram/database-models;common;1.0;0.06666666666666667;5.0;0;0
+2;34;https://www.lucidchart.com/pages/database-diagram/database-models;hierarchical database model;3.0;0.06666666666666667;1.6666666666666667;0;0
+2;35;https://www.lucidchart.com/pages/database-diagram/database-models;relational model;2.0;0.06666666666666667;1.25;0;0
+2;36;https://www.lucidchart.com/pages/database-diagram/database-models;network model;2.0;0.06666666666666667;1.25;0;0
+2;37;https://www.lucidchart.com/pages/database-diagram/database-models;object_oriented database model;3.0;0.06666666666666667;5.0;0;0
+2;38;https://www.lucidchart.com/pages/database-diagram/database-models;entity_relationship model;2.0;0.06666666666666667;5.0;0;0
+2;39;https://www.lucidchart.com/pages/database-diagram/database-models;document model;2.0;0.06666666666666667;1.6666666666666667;0;0
+2;40;https://www.lucidchart.com/pages/database-diagram/database-models;entity_attribute_value model;2.0;0.06666666666666667;5.0;0;0
+2;41;https://www.lucidchart.com/pages/database-diagram/database-models;star schema;2.0;0.06666666666666667;1.6666666666666667;0;0
+2;42;https://www.lucidchart.com/pages/database-diagram/database-models;combines;1.0;0.06666666666666667;5.0;0.7071067811865475;0
+2;42;https://www.lucidchart.com/pages/database-diagram/database-models;make;1.0;0.06666666666666667;5.0;0.7071067811865475;0
+2;42;https://www.lucidchart.com/pages/database-diagram/database-models;object_relational model;2.0;0.06666666666666667;5.0;0.7071067811865475;0
+2;48;https://en.wikipedia.org/wiki/Database_model;databases include;2.0;0.2;5.0;0;0
+2;49;https://en.wikipedia.org/wiki/Database_model;hierarchical database model;3.0;0.2;2.5;0;0
+2;50;https://en.wikipedia.org/wiki/Database_model;network model;2.0;0.2;1.6666666666666667;0;0
+2;51;https://en.wikipedia.org/wiki/Database_model;relational model;2.0;0.2;1.6666666666666667;0;0
+2;53;https://en.wikipedia.org/wiki/Database_model;object model;2.0;0.2;5.0;0;0
+2;54;https://en.wikipedia.org/wiki/Database_model;document model;2.0;0.2;2.5;0;0
+2;55;https://en.wikipedia.org/wiki/Database_model;entity attribute;2.0;0.2;5.0;0.0;0
+2;55;https://en.wikipedia.org/wiki/Database_model;model;1.0;0.2;2.5;0.0;0
+2;56;https://en.wikipedia.org/wiki/Database_model;star schema;2.0;0.2;2.5;0;0
+2;60;https://en.wikipedia.org/wiki/Database_model;enhanced;1.0;0.2;5.0;0;0
+2;77;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.07142857142857142;5.0;1.0;0
+2;77;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;5.0;1.0;0
+2;77;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.07142857142857142;5.0;1.0;0
+2;78;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;5.0;0.0;0
+2;78;http://www.studytonight.com/dbms/database-model;parts;1.0;0.07142857142857142;5.0;0.0;0
+2;78;http://www.studytonight.com/dbms/database-model;data;1.0;0.14285714285714285;5.0;0.0;0
+2;78;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.07142857142857142;5.0;0.0;0
+2;79;http://www.studytonight.com/dbms/database-model;database design;2.0;0.07142857142857142;2.5;1.0;0
+2;79;http://www.studytonight.com/dbms/database-model;models;1.0;0.07142857142857142;2.5;1.0;0
+2;79;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;5.0;1.0;0
+2;79;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.07142857142857142;5.0;1.0;0
+2;80;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.07142857142857142;5.0;0;0
+2;81;http://www.studytonight.com/dbms/database-model;network model;2.0;0.07142857142857142;1.25;0;0
+2;82;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.07142857142857142;1.25;0;0
+3;1;https://en.wikipedia.org/wiki/Relational_model;idealized;1.0;0.09090909090909091;5.0;0;0
+3;1;https://en.wikipedia.org/wiki/Relational_model;simple;1.0;0.09090909090909091;5.0;0;0
+3;1;https://en.wikipedia.org/wiki/Relational_model;description;1.0;0.0;5.0;0;0
+3;1;https://en.wikipedia.org/wiki/Relational_model;relvars;1.0;0.0;5.0;0;0
+3;1;https://en.wikipedia.org/wiki/Relational_model;attributes;1.0;0.09090909090909091;2.5;0;0
+3;2;https://en.wikipedia.org/wiki/Relational_model;customer;1.0;0.09090909090909091;1.25;0;0
+3;3;https://en.wikipedia.org/wiki/Relational_model;order;1.0;0.09090909090909091;2.5;0;0
+3;4;https://en.wikipedia.org/wiki/Relational_model;order line;2.0;0.09090909090909091;5.0;0;0
+3;5;https://en.wikipedia.org/wiki/Relational_model;invoice;1.0;0.09090909090909091;5.0;0;0
+3;6;https://en.wikipedia.org/wiki/Relational_model;invoice line;2.0;0.09090909090909091;5.0;0;0
+3;7;https://en.wikipedia.org/wiki/Relational_model;product;1.0;0.09090909090909091;1.6666666666666667;0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;set;1.0;0.03333333333333333;1.0;1.0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;database tables;2.0;0.016666666666666666;5.0;1.0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;ways;1.0;0.016666666666666666;5.0;1.0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;reassembled;1.0;0.0;5.0;1.0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;collection;1.0;0.016666666666666666;1.6666666666666667;1.0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;data items organized;2.6666666666666665;0.016666666666666666;5.0;1.0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;formally_described tables;2.0;0.016666666666666666;5.0;1.0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;accessed;1.0;0.016666666666666666;5.0;1.0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;relational database;2.0;0.05;1.6666666666666667;1.0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;data;2.0;0.03333333333333333;1.6666666666666667;1.0;0
+3;16;http://searchsqlserver.techtarget.com/definition/relational-database;reorganize;1.0;0.016666666666666666;5.0;1.0;0
+3;17;http://searchsqlserver.techtarget.com/definition/relational-database;relational database;2.0;0.05;1.6666666666666667;0.7071067811865475;0
+3;17;http://searchsqlserver.techtarget.com/definition/relational-database;invented;1.0;0.016666666666666666;5.0;0.7071067811865475;0
+3;19;http://searchsqlserver.techtarget.com/definition/relational-database;codd;1.0;0.0;5.0;0;0
+3;19;http://searchsqlserver.techtarget.com/definition/relational-database;ibm;1.0;0.0;5.0;0;0
+3;28;http://searchsqlserver.techtarget.com/definition/relational-database;relational database;2.0;0.05;1.6666666666666667;0.0;0
+3;28;http://searchsqlserver.techtarget.com/definition/relational-database;data fitted;2.0;0.016666666666666666;5.0;0.0;0
+3;28;http://searchsqlserver.techtarget.com/definition/relational-database;set;1.0;0.03333333333333333;1.0;0.0;0
+3;28;http://searchsqlserver.techtarget.com/definition/relational-database;predefined categories;2.0;0.016666666666666666;5.0;0.0;0
+3;28;http://searchsqlserver.techtarget.com/definition/relational-database;tables;1.0;0.03333333333333333;0.8333333333333334;0.0;0
+3;29;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.05;1.25;1.0;0
+3;29;http://searchsqlserver.techtarget.com/definition/relational-database;data categories;2.0;0.016666666666666666;5.0;1.0;0
+3;29;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.05;5.0;1.0;0
+3;30;http://searchsqlserver.techtarget.com/definition/relational-database;unique instance;2.0;0.016666666666666666;5.0;1.0;0
+3;30;http://searchsqlserver.techtarget.com/definition/relational-database;data;1.0;0.03333333333333333;1.6666666666666667;1.0;0
+3;30;http://searchsqlserver.techtarget.com/definition/relational-database;categories defined;2.0;0.016666666666666666;5.0;1.0;0
+3;30;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.05;5.0;1.0;0
+3;30;http://searchsqlserver.techtarget.com/definition/relational-database;row;1.0;0.016666666666666666;5.0;1.0;0
+3;31;http://searchsqlserver.techtarget.com/definition/relational-database;customer;1.0;0.03333333333333333;1.6666666666666667;0.0;0
+3;31;http://searchsqlserver.techtarget.com/definition/relational-database;phone number;2.0;0.016666666666666666;5.0;0.0;0
+3;31;http://searchsqlserver.techtarget.com/definition/relational-database;address;1.0;0.016666666666666666;5.0;0.0;0
+3;31;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.05;1.25;0.0;0
+3;31;http://searchsqlserver.techtarget.com/definition/relational-database;include;1.0;0.016666666666666666;5.0;0.0;0
+3;31;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.05;5.0;0.0;0
+3;32;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.05;1.25;0.0;0
+3;32;http://searchsqlserver.techtarget.com/definition/relational-database;describe;1.0;0.016666666666666666;5.0;0.0;0
+3;32;http://searchsqlserver.techtarget.com/definition/relational-database;order;1.0;0.016666666666666666;2.5;0.0;0
+3;33;http://searchsqlserver.techtarget.com/definition/relational-database;customer;1.0;0.03333333333333333;1.6666666666666667;0;0
+3;33;http://searchsqlserver.techtarget.com/definition/relational-database;date;1.0;0.03333333333333333;5.0;0;0
+3;33;http://searchsqlserver.techtarget.com/definition/relational-database;product;1.0;0.016666666666666666;1.6666666666666667;0;0
+3;33;http://searchsqlserver.techtarget.com/definition/relational-database;sales price;2.0;0.016666666666666666;5.0;0;0
+3;34;http://searchsqlserver.techtarget.com/definition/relational-database;view;1.0;0.03333333333333333;5.0;0.0;0
+3;34;http://searchsqlserver.techtarget.com/definition/relational-database;obtain;1.0;0.03333333333333333;5.0;0.0;0
+3;34;http://searchsqlserver.techtarget.com/definition/relational-database;user;1.0;0.016666666666666666;5.0;0.0;0
+3;34;http://searchsqlserver.techtarget.com/definition/relational-database;fitted;1.0;0.016666666666666666;5.0;0.0;0
+3;34;http://searchsqlserver.techtarget.com/definition/relational-database;database;1.0;0.016666666666666666;1.6666666666666667;0.0;0
+3;35;http://searchsqlserver.techtarget.com/definition/relational-database;customers;1.0;0.016666666666666666;5.0;0.0;0
+3;35;http://searchsqlserver.techtarget.com/definition/relational-database;branch office manager;3.0;0.016666666666666666;5.0;0.0;0
+3;35;http://searchsqlserver.techtarget.com/definition/relational-database;date;1.0;0.03333333333333333;5.0;0.0;0
+3;35;http://searchsqlserver.techtarget.com/definition/relational-database;report;1.0;0.03333333333333333;5.0;0.0;0
+3;35;http://searchsqlserver.techtarget.com/definition/relational-database;bought products;2.0;0.016666666666666666;5.0;0.0;0
+3;35;http://searchsqlserver.techtarget.com/definition/relational-database;view;1.0;0.03333333333333333;5.0;0.0;0
+3;36;http://searchsqlserver.techtarget.com/definition/relational-database;tables;1.0;0.03333333333333333;0.8333333333333334;0;0
+3;36;http://searchsqlserver.techtarget.com/definition/relational-database;needed;1.0;0.016666666666666666;5.0;0;0
+3;36;http://searchsqlserver.techtarget.com/definition/relational-database;company;1.0;0.016666666666666666;5.0;0;0
+3;36;http://searchsqlserver.techtarget.com/definition/relational-database;obtain;1.0;0.03333333333333333;5.0;0;0
+3;36;http://searchsqlserver.techtarget.com/definition/relational-database;paid;1.0;0.016666666666666666;5.0;0;0
+3;36;http://searchsqlserver.techtarget.com/definition/relational-database;report;1.0;0.03333333333333333;5.0;0;0
+3;36;http://searchsqlserver.techtarget.com/definition/relational-database;accounts;1.0;0.016666666666666666;5.0;0;0
+3;36;http://searchsqlserver.techtarget.com/definition/relational-database;financial services manager;3.0;0.016666666666666666;5.0;0;0
+3;45;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;world;1.0;0.038461538461538464;5.0;0.0;0
+3;45;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;inter_related relations;2.0;0.038461538461538464;5.0;0.0;0
+3;45;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;collection;1.0;0.038461538461538464;1.6666666666666667;0.0;0
+3;47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;fields;1.0;0.07692307692307693;1.0;0;0
+3;47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;attributes;1.0;0.038461538461538464;2.5;0;0
+3;47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;called columns;2.0;0.038461538461538464;5.0;0;0
+3;47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;principal storage units;3.0;0.038461538461538464;5.0;0;0
+3;48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;content;1.0;0.038461538461538464;5.0;0.0;0
+3;48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;house;1.0;0.0;5.0;0.0;0
+3;48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;basic components;2.0;0.038461538461538464;5.0;0.0;0
+3;48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;data;1.0;0.038461538461538464;1.25;0.0;0
+3;48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;broken;1.0;0.038461538461538464;5.0;0.0;0
+3;49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;information;1.0;0.0;5.0;0.0;0
+3;49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;deciding;1.0;0.038461538461538464;5.0;0.0;0
+3;49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;create;1.0;0.038461538461538464;5.0;0.0;0
+3;49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;generically;1.0;0.0;5.0;0.0;0
+3;49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;fields;1.0;0.07692307692307693;1.0;0.0;0
+3;50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;information;1.0;0.0;5.0;1.0;0
+3;50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;database;1.0;0.038461538461538464;1.6666666666666667;1.0;0
+3;50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;avoiding;1.0;0.038461538461538464;5.0;1.0;0
+3;50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;item;1.0;0.038461538461538464;5.0;1.0;0
+3;50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;specifics;1.0;0.038461538461538464;5.0;1.0;0
+3;50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;common components;2.0;0.038461538461538464;5.0;1.0;0
+3;50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;distinguish;1.0;0.0;5.0;1.0;0
+3;50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;drawing;1.0;0.038461538461538464;5.0;1.0;0
+3;50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;store;1.0;0.038461538461538464;5.0;1.0;0
+3;52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;common model;2.25;0.008928571428571428;5.0;1.0;0
+3;52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;2.8333333333333335;0.03571428571428571;5.0;1.0;0
+3;52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;industry today;2.0;0.008928571428571428;5.0;1.0;0
+3;53;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database;2.25;0.017857142857142856;1.25;1.0;0
+3;53;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational model developed;2.8333333333333335;0.008928571428571428;5.0;1.0;0
+3;53;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;based;1.0;0.026785714285714284;5.0;1.0;0
+3;55;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;codd;1.0;0.0;5.0;0;0
+3;56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;definition;1.0;0.008928571428571428;5.0;0.0;0
+3;56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;integrity constraints;2.0;0.008928571428571428;5.0;0.0;0
+3;56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;retrieval operations;2.0;0.008928571428571428;5.0;0.0;0
+3;56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;storage;1.0;0.008928571428571428;5.0;0.0;0
+3;56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;data structures;2.0;0.008928571428571428;5.0;0.0;0
+3;56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database;2.0;0.017857142857142856;1.25;0.0;0
+3;57;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;organized;1.0;0.008928571428571428;5.0;1.0;0
+3;57;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;data;1.0;0.008928571428571428;1.25;1.0;0
+3;57;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667;1.0;0
+3;57;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relations;1.0;0.008928571428571428;5.0;1.0;0
+3;57;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;database;1.0;0.008928571428571428;1.6666666666666667;1.0;0
+3;58;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;table;1.0;0.026785714285714284;1.25;1.0;0
+3;58;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;record;1.0;0.008928571428571428;5.0;1.0;0
+3;58;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;1.6666666666666667;1.0;0
+3;58;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;collection;1.0;0.008928571428571428;1.6666666666666667;1.0;0
+3;58;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;records;1.0;0.008928571428571428;5.0;1.0;0
+3;59;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;table;1.0;0.026785714285714284;1.25;0.7071067811865475;0
+3;59;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;future;1.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;59;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;contents;1.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;59;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;permanently saved;2.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;searches;1.0;0.008928571428571428;5.0;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;specific values;2.0;0.008928571428571428;5.0;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;means;1.0;0.026785714285714284;5.0;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;keys;1.0;0.0;5.0;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;1.6666666666666667;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;designated;1.0;0.008928571428571428;5.0;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;entity;1.0;0.017857142857142856;5.0;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;field;1.0;0.008928571428571428;5.0;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;uniquely identify;2.0;0.008928571428571428;5.0;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;importantly;1.0;0.0;5.0;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;speed;1.0;0.008928571428571428;5.0;1.0;0
+3;74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;indexing;1.0;0.008928571428571428;5.0;1.0;0
+3;75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;keys;1.0;0.0;5.0;0;0
+3;75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;2.0;0.03571428571428571;5.0;0;0
+3;75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;possibly;1.0;0.008928571428571428;5.0;0;0
+3;75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;important;1.0;0.008928571428571428;5.0;0;0
+3;75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign key;2.0;0.026785714285714284;5.0;0;0
+3;75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;types;1.0;0.008928571428571428;5.0;0;0
+3;76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;2.0;0.03571428571428571;5.0;0;0
+3;76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;uniquely identifies;2.0;0.008928571428571428;5.0;0;0
+3;76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;entity;1.0;0.017857142857142856;5.0;0;0
+3;77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;2.0;0.03571428571428571;5.0;0.7071067811865475;0
+3;77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;table;1.0;0.026785714285714284;1.25;0.7071067811865475;0
+3;77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;sits;1.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign key;2.0;0.026785714285714284;5.0;0.7071067811865475;0
+3;78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign keys;2.0;0.008928571428571428;5.0;0.0;0
+3;78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;heart;1.0;0.0;5.0;0.0;0
+3;78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;ultimately;1.0;0.008928571428571428;5.0;0.0;0
+3;78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;3.0;0.03571428571428571;5.0;0.0;0
+3;79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667;0.0;0
+3;79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;link data;2.0;0.008928571428571428;5.0;0.0;0
+3;79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign key;2.0;0.026785714285714284;5.0;0.0;0
+3;79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;linkage;1.0;0.0;5.0;0.0;0
+3;79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;pull data;2.0;0.008928571428571428;5.0;0.0;0
+3;80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667;0.0;0
+3;80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;set;1.0;0.008928571428571428;0.8333333333333334;0.0;0
+3;80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;1.6666666666666667;0.0;0
+3;80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;select related records;3.0;0.008928571428571428;5.0;0.0;0
+3;80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;values;1.5;0.008928571428571428;2.5;0.0;0
+3;80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;performed;1.0;0.008928571428571428;5.0;0.0;0
+3;80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;join operation;2.0;0.008928571428571428;5.0;0.0;0
+3;80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;matching values;1.75;0.008928571428571428;5.0;0.0;0
+3;81;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;1.6666666666666667;1.0;0
+3;81;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667;1.0;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;customer;1.0;0.008928571428571428;1.25;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;pairs;1.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;calculate;1.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;products  table;1.3333333333333333;0.008928571428571428;5.0;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;sum;1.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;bill;1.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;product_code fields;2.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;products ordered;2.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;prices;1.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;orders  table;1.3333333333333333;0.008928571428571428;5.0;0.7071067811865475;0
+3;82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;joining;1.0;0.0;5.0;0.7071067811865475;0
+3;83;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;multiple fields;2.25;0.008928571428571428;5.0;0.0;0
+3;83;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;extended;1.0;0.008928571428571428;5.0;0.0;0
+3;83;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;joining multiple tables;2.8333333333333335;0.008928571428571428;5.0;0.0;0
+3;84;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relationships;1.0;0.0;5.0;0.0;0
+3;84;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;retrieval time;2.0;0.008928571428571428;5.0;0.0;0
+3;84;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;classed;1.0;0.008928571428571428;5.0;0.0;0
+3;84;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational databases;2.0;0.008928571428571428;5.0;0.0;0
+3;85;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;important role;2.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;85;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;2.0;0.03571428571428571;5.0;0.7071067811865475;0
+3;85;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;called  determination;1.3333333333333333;0.008928571428571428;5.0;0.7071067811865475;0
+3;86;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;attribute;1.0;0.008928571428571428;2.5;0.7071067811865475;0
+3;86;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;determine;1.0;0.008928571428571428;5.0;0.7071067811865475;0
+3;86;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;means;1.0;0.026785714285714284;5.0;0.7071067811865475;0
+3;87;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;based;1.0;0.026785714285714284;5.0;1.0;0
+3;87;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;2.8333333333333335;0.03571428571428571;5.0;1.0;0
+3;87;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational algebra;2.25;0.008928571428571428;5.0;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;operations;1.0;0.008928571428571428;5.0;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;product;1.0;0.008928571428571428;1.6666666666666667;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;based;1.0;0.026785714285714284;5.0;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;means;1.0;0.026785714285714284;5.0;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;union;1.0;0.008928571428571428;5.0;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;project;1.0;0.008928571428571428;5.0;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;3.0;0.03571428571428571;5.0;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;intersect;1.0;0.008928571428571428;5.0;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;join;1.0;0.0;5.0;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;difference;1.0;0.008928571428571428;5.0;1.0;0
+3;88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;select;1.0;0.008928571428571428;5.0;1.0;0
+3;89;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;operation;1.0;0.008928571428571428;5.0;0;0
+3;89;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;description;1.0;0.0;5.0;0;0
+3;103;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;parts;1.0;0.029411764705882353;5.0;0.0;0
+3;104;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;data structure;2.0;0.029411764705882353;5.0;0;0
+3;104;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;data manipulation;2.0;0.029411764705882353;5.0;0;0
+3;104;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;data integrity;2.0;0.029411764705882353;5.0;0;0
+3;105;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;represent data;2.0;0.029411764705882353;5.0;0;0
+3;106;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;data structure model;3.0;0.029411764705882353;5.0;0;0
+3;106;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;illustrated;1.0;0.0;5.0;0;0
+3;106;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;relation;1.0;0.029411764705882353;5.0;0;0
+3;106;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;basic;1.0;0.029411764705882353;5.0;0;0
+3;107;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;domain;1.0;0.058823529411764705;5.0;1.0;0
+3;107;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;concept;1.0;0.029411764705882353;5.0;1.0;0
+3;107;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;fundamental part;2.0;0.029411764705882353;5.0;1.0;0
+3;108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;set;1.0;0.08823529411764706;1.25;0.0;0
+3;108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;information _;2.0;0.0;5.0;0.0;0
+3;108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;domain combines;2.0;0.029411764705882353;5.0;0.0;0
+3;108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;allowable values;1.75;0.058823529411764705;5.0;0.0;0
+3;108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;pieces;1.0;0.029411764705882353;5.0;0.0;0
+3;108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;values;1.5;0.029411764705882353;2.5;0.0;0
+3;108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;semantics;1.0;0.029411764705882353;5.0;0.0;0
+3;108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;attribute;1.0;0.029411764705882353;2.5;0.0;0
+3;108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;simply stated;2.0;0.029411764705882353;5.0;0.0;0
+3;109;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;allowable values;2.0;0.058823529411764705;5.0;1.0;0
+3;109;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;domain defines;2.0;0.029411764705882353;5.0;1.0;0
+3;109;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;set;1.0;0.08823529411764706;1.25;1.0;0
+3;109;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;words;1.0;0.029411764705882353;5.0;1.0;0
+3;110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;domain;1.0;0.058823529411764705;5.0;0.0;0
+3;110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;set;1.0;0.08823529411764706;1.25;0.0;0
+3;110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;marketing;1.0;0.029411764705882353;5.0;0.0;0
+3;110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;sales;1.0;0.029411764705882353;5.0;0.0;0
+3;110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;integers greater;2.0;0.029411764705882353;5.0;0.0;0
+3;110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;id column;2.0;0.029411764705882353;5.0;0.0;0
+3;110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;research;1.0;0.029411764705882353;5.0;0.0;0
+3;110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;dept column;2.0;0.029411764705882353;5.0;0.0;0
+3;110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;accountancy;1.0;0.0;5.0;0.0;0
+4;1;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;6.0;1.0;1
+4;1;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;6.0;1.0;1
+4;1;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;6.0;1.0;1
+4;1;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;6.0;1.0;1
+4;2;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;6.0;0.0;1
+4;2;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;6.0;0.0;1
+4;3;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;6.0;0.0;1
+4;3;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;6.0;0.0;1
+4;3;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;6.0;0.0;1
+4;3;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;6.0;0.0;1
+4;3;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;6.0;0.0;1
+4;3;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;0.8571428571428571;0.0;1
+4;4;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;6.0;1.0;1
+4;4;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;6.0;1.0;1
+4;4;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.5;1.0;1
+4;4;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;6.0;1.0;1
+4;4;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;3.0;1.0;1
+4;5;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;6.0;0.0;1
+4;5;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;6.0;0.0;1
+4;11;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;6.0;1.0;1
+4;11;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;6.0;1.0;1
+4;11;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;6.0;1.0;1
+4;11;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;6.0;1.0;1
+4;12;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;6.0;0.0;1
+4;12;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;6.0;0.0;1
+4;13;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;6.0;0.0;1
+4;13;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;6.0;0.0;1
+4;13;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;6.0;0.0;1
+4;13;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;6.0;0.0;1
+4;13;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;6.0;0.0;1
+4;13;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;0.8571428571428571;0.0;1
+4;14;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;6.0;1.0;1
+4;14;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;6.0;1.0;1
+4;14;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.5;1.0;1
+4;14;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;6.0;1.0;1
+4;14;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;3.0;1.0;1
+4;15;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;6.0;0.0;1
+4;15;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;6.0;0.0;1
+4;21;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;6.0;1.0;0
+4;21;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;6.0;1.0;0
+4;21;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;6.0;1.0;0
+4;21;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;6.0;1.0;0
+4;22;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;6.0;0.0;0
+4;22;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;6.0;0.0;0
+4;23;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;6.0;0.0;0
+4;23;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;6.0;0.0;0
+4;23;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;6.0;0.0;0
+4;23;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;6.0;0.0;0
+4;23;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;6.0;0.0;0
+4;23;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;0.8571428571428571;0.0;0
+4;24;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;6.0;1.0;0
+4;24;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;6.0;1.0;0
+4;24;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.5;1.0;0
+4;24;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;6.0;1.0;0
+4;24;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;3.0;1.0;0
+4;25;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;6.0;0.0;0
+4;25;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;6.0;0.0;0
+4;31;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;6.0;1.0;0
+4;31;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;6.0;1.0;0
+4;31;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;6.0;1.0;0
+4;31;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;6.0;1.0;0
+4;32;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;6.0;0.0;0
+4;32;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;6.0;0.0;0
+4;33;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;6.0;0.0;0
+4;33;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;6.0;0.0;0
+4;33;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;6.0;0.0;0
+4;33;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;6.0;0.0;0
+4;33;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;6.0;0.0;0
+4;33;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;0.8571428571428571;0.0;0
+4;34;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;6.0;1.0;0
+4;34;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;6.0;1.0;0
+4;34;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.5;1.0;0
+4;34;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;6.0;1.0;0
+4;34;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;3.0;1.0;0
+4;35;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;6.0;0.0;0
+4;35;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;6.0;0.0;0
+4;41;http://people.cs.pitt.edu/~chang/156/14hier.html;company database;2.0;0.5;6.0;0;0
+4;41;http://people.cs.pitt.edu/~chang/156/14hier.html;hierarchical schema;2.0;0.5;6.0;0;0
+4;42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;tree;1.0;0.058823529411764705;2.0;1.0;0
+4;42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;organized;1.0;0.058823529411764705;6.0;1.0;0
+4;42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;hierarchical model;2.0;0.11764705882352941;3.0;1.0;0
+4;42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;record;1.5;0.058823529411764705;6.0;1.0;0
+4;42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;parent record;1.75;0.058823529411764705;6.0;1.0;0
+4;42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;data;1.0;0.058823529411764705;0.8571428571428571;1.0;0
+4;42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;children;1.0;0.058823529411764705;1.2;1.0;0
+4;42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;structure;1.0;0.058823529411764705;0.6;1.0;0
+4;43;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;relationships;1.0;0.0;6.0;1.0;0
+4;43;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;model;1.0;0.058823529411764705;0.5454545454545454;1.0;0
+4;43;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;main drawback;2.0;0.058823529411764705;6.0;1.0;0
+4;43;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;nodes;1.0;0.058823529411764705;1.5;1.0;0
+4;44;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;hierarchical data represented;3.0;0.058823529411764705;6.0;1.0;0
+4;44;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;relational tables;2.0;0.11764705882352941;6.0;1.0;0
+4;45;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;represented;1.0;0.0;6.0;0;0
+4;45;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;hierarchical model;2.0;0.11764705882352941;3.0;0;0
+4;45;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;relational tables;2.0;0.11764705882352941;6.0;0;0
+4;46;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;limitations;1.0;0.0;6.0;0.0;0
+4;46;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;database model developed;2.8333333333333335;0.0625;6.0;0.0;0
+4;46;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;overcome;1.0;0.0625;6.0;0.0;0
+4;46;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;hierarchical model;2.25;0.0625;2.0;0.0;0
+4;46;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;traditional file system;3.0;0.0625;6.0;0.0;0
+4;47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;large;1.0;0.0;6.0;1.0;0
+4;47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;transactions;1.0;0.0;6.0;1.0;0
+4;47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;hierarchical databases;2.0;0.0625;6.0;1.0;0
+4;47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;predominantly;1.0;0.0;6.0;1.0;0
+4;47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;volume;1.0;0.0625;6.0;1.0;0
+4;47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;time;1.0;0.0625;6.0;1.0;0
+4;47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;transaction operations change;2.8333333333333335;0.0625;6.0;1.0;0
+4;47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;transaction processing;2.25;0.0625;6.0;1.0;0
+4;48;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;popular;1.0;0.0625;6.0;0.0;0
+4;48;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;banks;1.0;0.0625;6.0;0.0;0
+4;48;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;hierarchical database model;3.0;0.0625;6.0;0.0;0
+4;52;http://www.edugrabs.com/hierarchical-model/;admin;1.0;0.003355704697986577;6.0;0;0
+4;53;http://www.edugrabs.com/hierarchical-model/;july 29;0.5;0.003355704697986577;6.0;0;0
+4;54;http://www.edugrabs.com/hierarchical-model/;dbms;1.0;0.0;6.0;0;0
+4;54;http://www.edugrabs.com/hierarchical-model/;question bank;2.0;0.006711409395973154;6.0;0;0
+4;54;http://www.edugrabs.com/hierarchical-model/;data models;2.0;0.003355704697986577;6.0;0;0
+4;54;http://www.edugrabs.com/hierarchical-model/;database;1.0;0.016778523489932886;1.2;0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;schedule based;2.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;super keys;2.125;0.013422818791946308;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;conflict;2.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;classification;1.66666666667;0.0;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;sql;1.75;0.0;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;sets;1.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;conflict serializable questions;2.555555555556667;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;supertype;1.0;0.0;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;gate students questions;2.88888888889;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;check;1.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;dbms;2.27272727273;0.0;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;operator queries;2.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;dbms architecture;2.136363636365;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;5nf classification;1.833333333335;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;recovery;1.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;update operations questions;2.88888888889;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;select command query;3.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;examples types;2.1;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;instance;1.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;file system;2.5;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;sql operators joins;2.4166666666666665;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;dbms keys;2.261363636365;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;questions close transaction;2.48888888889;0.006711409395973154;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;transaction classification;1.733333333335;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;functional dependency trivial;3.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;types functional dependency;2.733333333333333;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;dbms types;2.236363636365;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;fd applications;2.25;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;dbms er diagrams;2.757575757576667;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;candidate keys prime;2.75;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;disadvantages;1.0;0.0;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;dbms questions;2.469696969695;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;aggregation;1.0;0.0;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;functional dependencies closure;3.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;dbms components;2.136363636365;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;fd questions;2.333333333335;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;sql operators;2.125;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;file system advantages;2.6666666666666665;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;types;2.2;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;disadvantage;1.0;0.0;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;dbms execution steps;2.757575757576667;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;transaction;1.8;0.0;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;dbms database;1.80303030303;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;identifying;1.0;0.0;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;database;1.33333333333;0.016778523489932886;1.2;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;types composite entity;2.733333333333333;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;transaction starvation;1.9;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;prime attributes equivalence;2.6666666666666665;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;subtype;1.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;subquery;1.0;0.0;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;view serializable difference;3.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;dbms   intro dbms;1.50909090909;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;attributes;2.0;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;applications functional dependencies;2.8333333333333335;0.010067114093959731;6.0;1.0;0
+4;55;http://www.edugrabs.com/hierarchical-model/;constraints;1.0;0.0;6.0;1.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;transaction management questions;2.7777777777766666;0.003355704697986577;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;question bank;2.0;0.006711409395973154;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;file organisation _;3.0;0.003355704697986577;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;relational algebra;2.0;0.003355704697986577;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;relational model;2.1;0.003355704697986577;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;3 close;0.5;0.003355704697986577;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;transaction management sql;3.0;0.003355704697986577;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;dbms er model;2.566666666666667;0.003355704697986577;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;mix;1.0;0.003355704697986577;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;er model;2.35;0.003355704697986577;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;solved questions;2.166666666665;0.003355704697986577;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;erm;1.0;0.0;6.0;0.0;0
+4;56;http://www.edugrabs.com/hierarchical-model/;normalisation questions;2.166666666665;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;pointers function pointer;2.444444444443333;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;variables;1.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;operators expressions;2.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;pointers arrays;2.25;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;stored;1.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;examples;1.0;0.003355704697986577;1.2;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;gate students programs;3.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;close;2.0;0.010067114093959731;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;array;1.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;pointer;2.33333333333;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;close miscellaneous topics;2.6666666666666665;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;shorthands;1.0;0.0;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;switch statement difference;2.8333333333333335;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;functions;1.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;loop nested loops;2.5;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;memory layout;2.625;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;dynamic memory allocation;2.9166666666666665;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;introduction basics basics;3.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;program;1.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;control statements;2.25;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;loops difference;2.5;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;operators;1.5;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;memory   memory layout;1.6;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;switch iteration statements;2.8333333333333335;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;access multidimensional arrays;2.8333333333333335;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;close close;2.0;0.010067114093959731;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;errors data types;3.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;structure;2.0;0.003355704697986577;0.6;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;modifiers;1.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;pointers;2.0;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;gate pointers pointers;2.3333333333333335;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;type conversion;2.5;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;expressions   type conversion;1.5;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;type casting;2.25;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;structure   basics pointer;1.466666666666;0.003355704697986577;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;loop;2.0;0.0;6.0;0.0;0
+4;57;http://www.edugrabs.com/hierarchical-model/;integer data type;2.8333333333333335;0.003355704697986577;6.0;0.0;0
+4;58;http://www.edugrabs.com/hierarchical-model/;scheduling criterias types;2.88888888889;0.003355704697986577;6.0;0.0;0
+4;58;http://www.edugrabs.com/hierarchical-model/;cpu schedulingquestions;2.0;0.003355704697986577;6.0;0.0;0
+4;58;http://www.edugrabs.com/hierarchical-model/;basis;1.0;0.003355704697986577;6.0;0.0;0
+4;58;http://www.edugrabs.com/hierarchical-model/;_questions questions;2.0;0.003355704697986577;6.0;0.0;0
+4;58;http://www.edugrabs.com/hierarchical-model/;multiprogramming types;2.333333333335;0.003355704697986577;6.0;0.0;0
+4;58;http://www.edugrabs.com/hierarchical-model/;execution time degree;3.0;0.003355704697986577;6.0;0.0;0
+4;58;http://www.edugrabs.com/hierarchical-model/;goals;1.0;0.003355704697986577;6.0;0.0;0
+4;58;http://www.edugrabs.com/hierarchical-model/;scheduler;1.0;0.003355704697986577;6.0;0.0;0
+4;58;http://www.edugrabs.com/hierarchical-model/;system calls types;2.88888888889;0.003355704697986577;6.0;0.0;0
+4;59;http://www.edugrabs.com/hierarchical-model/;business methods;2.166666666665;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;entrepreneur entrepreneurship;2.0;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;edps close close;3.0;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;economic development role;2.6666666666666665;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;entrepreneurs;1.0;0.0;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;intrapreneurship entrepreneurship;2.0;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;entrepreneur qualities;2.0;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;business life cycle;2.7777777777766666;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;start;1.5;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;economic development;2.5;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;country procedure;2.0;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;entrepreneurship characteristics;2.0;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;business start;1.916666666665;0.003355704697986577;6.0;0.7071067811865475;0
+4;59;http://www.edugrabs.com/hierarchical-model/;expand;1.0;0.003355704697986577;6.0;0.7071067811865475;0
+4;60;http://www.edugrabs.com/hierarchical-model/;schedule based;2.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;super keys;2.125;0.013422818791946308;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;conflict;2.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;classification;1.66666666667;0.0;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;sql;1.75;0.0;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;sets;1.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;conflict serializable questions;2.555555555556667;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;supertype;1.0;0.0;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;gate students questions;2.88888888889;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;check;1.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;dbms;2.27272727273;0.0;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;operator queries;2.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;dbms architecture;2.136363636365;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;5nf classification;1.833333333335;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;recovery;1.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;update operations questions;2.88888888889;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;select command query;3.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;examples types;2.1;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;instance;1.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;file system;2.5;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;sql operators joins;2.4166666666666665;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;dbms keys;2.261363636365;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;questions close transaction;2.48888888889;0.006711409395973154;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;transaction classification;1.733333333335;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;functional dependency trivial;3.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;types functional dependency;2.733333333333333;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;dbms types;2.236363636365;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;fd applications;2.25;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;dbms er diagrams;2.757575757576667;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;candidate keys prime;2.75;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;disadvantages;1.0;0.0;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;dbms questions;2.469696969695;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;aggregation;1.0;0.0;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;functional dependencies closure;3.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;dbms components;2.136363636365;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;fd questions;2.333333333335;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;sql operators;2.125;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;file system advantages;2.6666666666666665;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;types;2.2;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;disadvantage;1.0;0.0;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;dbms execution steps;2.757575757576667;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;transaction;1.8;0.0;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;dbms database;1.80303030303;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;identifying;1.0;0.0;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;database;1.33333333333;0.016778523489932886;1.2;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;types composite entity;2.733333333333333;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;transaction starvation;1.9;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;prime attributes equivalence;2.6666666666666665;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;subtype;1.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;subquery;1.0;0.0;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;view serializable difference;3.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;dbms   intro dbms;1.50909090909;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;attributes;2.0;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;applications functional dependencies;2.8333333333333335;0.010067114093959731;6.0;1.0;0
+4;60;http://www.edugrabs.com/hierarchical-model/;constraints;1.0;0.0;6.0;1.0;0
+4;61;http://www.edugrabs.com/hierarchical-model/;close;1.0;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;identifying;1.0;0.0;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;dbms execution steps;2.8571428571433333;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;dbms architecture;2.285714285715;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;dbms er diagrams;2.8571428571433333;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;dbms database;2.035714285715;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;disadvantages;1.0;0.0;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;attributes;1.0;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;database;1.5;0.016778523489932886;1.2;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;types composite entity;2.6666666666666665;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;aggregation;1.0;0.0;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;subtype;1.0;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;file system;2.5;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;dbms   intro dbms;1.628571428572;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;supertype;1.0;0.0;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;dbms components;2.285714285715;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;file system advantages;2.6666666666666665;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;types;2.0;0.010067114093959731;6.0;0;0
+4;62;http://www.edugrabs.com/hierarchical-model/;disadvantage;1.0;0.0;6.0;0;0
+4;63;http://www.edugrabs.com/hierarchical-model/;super keys;2.166666666665;0.013422818791946308;6.0;0;0
+4;63;http://www.edugrabs.com/hierarchical-model/;instance;1.0;0.010067114093959731;6.0;0;0
+4;63;http://www.edugrabs.com/hierarchical-model/;dbms questions;2.0;0.010067114093959731;6.0;0;0
+4;63;http://www.edugrabs.com/hierarchical-model/;candidate keys close;2.7777777777766666;0.003355704697986577;6.0;0;0
+4;63;http://www.edugrabs.com/hierarchical-model/;dbms keys;2.166666666665;0.010067114093959731;6.0;0;0
+4;64;http://www.edugrabs.com/hierarchical-model/;dbms types;2.0;0.010067114093959731;6.0;0;0
+4;64;http://www.edugrabs.com/hierarchical-model/;update operations questions;3.0;0.010067114093959731;6.0;0;0
+4;64;http://www.edugrabs.com/hierarchical-model/;constraint violations   close;1.8;0.003355704697986577;6.0;0;0
+4;64;http://www.edugrabs.com/hierarchical-model/;constraints;1.0;0.0;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;fd applications;2.25;0.010067114093959731;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;super keys;2.25;0.013422818791946308;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;candidate keys prime;2.8333333333333335;0.010067114093959731;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;examples types;2.25;0.010067114093959731;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;functional dependencies closure;2.9333333333333336;0.010067114093959731;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;prime attributes equivalence;3.0;0.010067114093959731;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;sets;1.0;0.010067114093959731;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;fd questions;2.0;0.010067114093959731;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;functional dependency;2.733333333335;0.003355704697986577;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;functional dependency trivial;2.822222222223333;0.010067114093959731;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;types functional dependency;2.6555555555566666;0.010067114093959731;6.0;0;0
+4;65;http://www.edugrabs.com/hierarchical-model/;applications functional dependencies;2.766666666666667;0.010067114093959731;6.0;0;0
+4;66;http://www.edugrabs.com/hierarchical-model/;5nf classification;1.75;0.010067114093959731;6.0;0;0
+4;66;http://www.edugrabs.com/hierarchical-model/;gate students questions;3.0;0.010067114093959731;6.0;0;0
+4;66;http://www.edugrabs.com/hierarchical-model/;classification;1.5;0.0;6.0;0;0
+4;67;http://www.edugrabs.com/hierarchical-model/;questions close;2.0;0.003355704697986577;6.0;0;0
+4;67;http://www.edugrabs.com/hierarchical-model/;select command query;3.0;0.010067114093959731;6.0;0;0
+4;67;http://www.edugrabs.com/hierarchical-model/;operator queries;2.0;0.010067114093959731;6.0;0;0
+4;67;http://www.edugrabs.com/hierarchical-model/;subquery;1.0;0.0;6.0;0;0
+4;67;http://www.edugrabs.com/hierarchical-model/;sql;1.6;0.0;6.0;0;0
+4;67;http://www.edugrabs.com/hierarchical-model/;sql operators;2.05;0.010067114093959731;6.0;0;0
+4;67;http://www.edugrabs.com/hierarchical-model/;sql operators joins;2.3666666666666667;0.010067114093959731;6.0;0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;schedule based;2.0;0.010067114093959731;6.0;1.0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;dbms;1.0;0.0;6.0;1.0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;transaction;1.4;0.0;6.0;1.0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;recovery;1.0;0.010067114093959731;6.0;1.0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;database;1.0;0.016778523489932886;1.2;1.0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;transaction starvation;1.7;0.010067114093959731;6.0;1.0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;conflict serializable questions;2.6666666666666665;0.010067114093959731;6.0;1.0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;view serializable difference;3.0;0.010067114093959731;6.0;1.0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;transaction classification;1.7;0.010067114093959731;6.0;1.0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;check;1.0;0.010067114093959731;6.0;1.0;0
+4;68;http://www.edugrabs.com/hierarchical-model/;conflict;2.0;0.010067114093959731;6.0;1.0;0
+4;69;http://www.edugrabs.com/hierarchical-model/;node;1.33333333333;0.010067114093959731;6.0;1.0;0
+4;69;http://www.edugrabs.com/hierarchical-model/;level 1;0.5;0.003355704697986577;6.0;1.0;0
+4;69;http://www.edugrabs.com/hierarchical-model/;root node;1.666666666665;0.010067114093959731;6.0;1.0;0
+4;69;http://www.edugrabs.com/hierarchical-model/;children;1.0;0.006711409395973154;1.5;1.0;0
+4;69;http://www.edugrabs.com/hierarchical-model/;node 4;0.666666666665;0.003355704697986577;6.0;1.0;0
+4;69;http://www.edugrabs.com/hierarchical-model/;called leaves;1.75;0.003355704697986577;6.0;1.0;0
+4;69;http://www.edugrabs.com/hierarchical-model/;figure 1;0.5;0.003355704697986577;6.0;1.0;0
+4;69;http://www.edugrabs.com/hierarchical-model/;nodes;1.0;0.010067114093959731;3.0;1.0;0
+4;69;http://www.edugrabs.com/hierarchical-model/;called;1.5;0.010067114093959731;6.0;1.0;0
+4;70;http://www.edugrabs.com/hierarchical-model/;nodes 2;0.5;0.003355704697986577;6.0;0.0;0
+4;70;http://www.edugrabs.com/hierarchical-model/;parent;1.0;0.003355704697986577;2.0;0.0;0
+4;70;http://www.edugrabs.com/hierarchical-model/;called siblings;1.75;0.003355704697986577;6.0;0.0;0
+4;70;http://www.edugrabs.com/hierarchical-model/;siblings;1.5;0.003355704697986577;6.0;0.0;0
+4;70;http://www.edugrabs.com/hierarchical-model/;nodes;1.0;0.010067114093959731;3.0;0.0;0
+4;70;http://www.edugrabs.com/hierarchical-model/;children;1.0;0.006711409395973154;1.5;0.0;0
+4;71;http://www.edugrabs.com/hierarchical-model/;node;1.5;0.010067114093959731;6.0;0.0;0
+4;71;http://www.edugrabs.com/hierarchical-model/;hierarchical path;2.0;0.006711409395973154;6.0;0.0;0
+4;71;http://www.edugrabs.com/hierarchical-model/;root node;1.75;0.010067114093959731;6.0;0.0;0
+4;71;http://www.edugrabs.com/hierarchical-model/;single path called;2.3333333333333335;0.003355704697986577;6.0;0.0;0
+4;71;http://www.edugrabs.com/hierarchical-model/;nodes ancestors;1.75;0.003355704697986577;6.0;0.0;0
+4;71;http://www.edugrabs.com/hierarchical-model/;path;2.0;0.010067114093959731;6.0;0.0;0
+4;71;http://www.edugrabs.com/hierarchical-model/;nodes;1.5;0.010067114093959731;3.0;0.0;0
+4;71;http://www.edugrabs.com/hierarchical-model/;called;2.0;0.010067114093959731;6.0;0.0;0
+4;72;http://www.edugrabs.com/hierarchical-model/;node;1.0;0.010067114093959731;6.0;0.0;0
+4;72;http://www.edugrabs.com/hierarchical-model/;leaf;1.0;0.0;6.0;0.0;0
+4;72;http://www.edugrabs.com/hierarchical-model/;similarly;1.0;0.003355704697986577;6.0;0.0;0
+4;72;http://www.edugrabs.com/hierarchical-model/;path;1.0;0.010067114093959731;6.0;0.0;0
+4;72;http://www.edugrabs.com/hierarchical-model/;descendent;1.0;0.003355704697986577;6.0;0.0;0
+4;72;http://www.edugrabs.com/hierarchical-model/;called;1.0;0.010067114093959731;6.0;0.0;0
+4;73;http://www.edugrabs.com/hierarchical-model/;node 10;0.5;0.003355704697986577;6.0;1.0;0
+4;73;http://www.edugrabs.com/hierarchical-model/;hierarchical path;2.0;0.006711409395973154;6.0;1.0;0
+4;73;http://www.edugrabs.com/hierarchical-model/;ancestors;1.0;0.003355704697986577;6.0;1.0;0
+4;73;http://www.edugrabs.com/hierarchical-model/;suppose;1.0;0.003355704697986577;6.0;1.0;0
+4;73;http://www.edugrabs.com/hierarchical-model/;find;1.0;0.003355704697986577;6.0;1.0;0
+4;74;http://www.edugrabs.com/hierarchical-model/;leaf;1.0;0.0;6.0;0.0;0
+4;74;http://www.edugrabs.com/hierarchical-model/;tree;1.0;0.006711409395973154;3.0;0.0;0
+4;74;http://www.edugrabs.com/hierarchical-model/;number;1.0;0.003355704697986577;6.0;0.0;0
+4;74;http://www.edugrabs.com/hierarchical-model/;levels;1.0;0.0;6.0;0.0;0
+4;74;http://www.edugrabs.com/hierarchical-model/;height;1.0;0.0;6.0;0.0;0
+4;74;http://www.edugrabs.com/hierarchical-model/;longest hierarchical path;3.0;0.003355704697986577;6.0;0.0;0
+4;74;http://www.edugrabs.com/hierarchical-model/;height  4;0.3333333333333333;0.003355704697986577;6.0;0.0;0
+4;74;http://www.edugrabs.com/hierarchical-model/;root;1.0;0.003355704697986577;6.0;0.0;0
+4;75;http://www.edugrabs.com/hierarchical-model/;leaf;1.0;0.0;6.0;0.0;0
+4;75;http://www.edugrabs.com/hierarchical-model/;root node;2.0;0.010067114093959731;6.0;0.0;0
+4;75;http://www.edugrabs.com/hierarchical-model/;tree;1.0;0.006711409395973154;3.0;0.0;0
+4;75;http://www.edugrabs.com/hierarchical-model/;length;1.0;0.0;6.0;0.0;0
+4;75;http://www.edugrabs.com/hierarchical-model/;balanced;1.0;0.003355704697986577;6.0;0.0;0
+4;75;http://www.edugrabs.com/hierarchical-model/;path;1.0;0.010067114093959731;6.0;0.0;0
+4;76;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0.0;0
+4;76;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hierarchical data model;3.0;0.011494252873563218;6.0;0.0;0
+4;76;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;multiple;1.0;0.011494252873563218;6.0;0.0;0
+4;76;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;organizing;1.0;0.011494252873563218;6.0;0.0;0
+4;76;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;database;1.0;0.022988505747126436;1.0;0.0;0
+4;77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;based;1.0;0.011494252873563218;6.0;1.0;0
+4;77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;parent;1.0;0.011494252873563218;3.0;1.0;0
+4;77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;rule;1.0;0.011494252873563218;6.0;1.0;0
+4;77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;allowed;1.0;0.011494252873563218;6.0;1.0;0
+4;77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;children;1.0;0.011494252873563218;1.5;1.0;0
+4;77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;structure;1.0;0.022988505747126436;0.8571428571428571;1.0;0
+4;78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;2.0;0.0;6.0;0.7071067811865475;0
+4;78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information management system;2.6666666666666665;0.011494252873563218;6.0;0.7071067811865475;0
+4;78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;ibm;1.0;0.0;6.0;0.7071067811865475;0
+4;78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;repeated;1.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;implemented;1.0;0.0;6.0;0.7071067811865475;0
+4;78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;structure;1.0;0.022988505747126436;0.8571428571428571;0.7071067811865475;0
+4;79;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;precursor;1.0;0.011494252873563218;6.0;0;0
+4;79;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;dbms;1.0;0.0;6.0;0;0
+4;80;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;advantages;1.0;0.011494252873563218;6.0;0;0
+4;81;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;1.0;0.0;6.0;0.0;0
+4;81;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0.0;0
+4;81;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;easy addition;2.0;0.011494252873563218;6.0;0.0;0
+4;81;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;deletion;1.0;0.011494252873563218;6.0;0.0;0
+4;82;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hierarchy;1.0;0.011494252873563218;6.0;0.0;0
+4;82;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;access;1.0;0.011494252873563218;6.0;0.0;0
+4;82;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;top;1.0;0.022988505747126436;6.0;0.0;0
+4;82;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;data;1.0;0.011494252873563218;1.0;0.0;0
+4;82;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;fast;1.0;0.011494252873563218;6.0;0.0;0
+4;83;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;tapes;1.0;0.022988505747126436;6.0;0.7071067811865475;0
+4;83;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0.7071067811865475;0
+4;83;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;work;1.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;83;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;worked;1.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;83;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;easy;1.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;84;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employee organization;2.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;84;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;natural hierarchies;2.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;84;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model relates;2.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;84;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;assembly plants;2.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;84;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;corporations;1.0;0.0;6.0;0.7071067811865475;0
+4;85;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relates;1.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;85;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;works;1.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;85;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationship;1.0;0.0;6.0;0.7071067811865475;0
+4;86;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employee;1.0;0.011494252873563218;6.0;0.0;0
+4;86;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;president;1.0;0.011494252873563218;6.0;0.0;0
+4;86;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employees;1.0;0.011494252873563218;6.0;0.0;0
+4;86;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;managers;1.0;0.011494252873563218;6.0;0.0;0
+4;86;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;manager;1.0;0.011494252873563218;6.0;0.0;0
+4;87;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;ga1111 disadvantages;2.0;0.011494252873563218;6.0;0;0
+4;88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;sophisticated relationships;2.0;0.011494252873563218;6.0;0.0;0
+4;88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;require;1.0;0.011494252873563218;6.0;0.0;0
+4;88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;back;1.0;0.011494252873563218;6.0;0.0;0
+4;88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0.0;0
+4;88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hold;1.0;0.011494252873563218;6.0;0.0;0
+4;88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;issues;1.0;0.011494252873563218;6.0;0.0;0
+4;89;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;requires data;2.0;0.022988505747126436;6.0;0.0;0
+4;89;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;repetitively stored;2.0;0.011494252873563218;6.0;0.0;0
+4;89;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;entities;1.0;0.011494252873563218;6.0;0.0;0
+4;90;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;1.0;0.0;6.0;0.7071067811865475;0
+4;90;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;lower entities;2.0;0.011494252873563218;6.0;0.7071067811865475;0
+4;90;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;slow;1.0;0.022988505747126436;6.0;0.7071067811865475;0
+4;90;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;searching;1.0;0.022988505747126436;6.0;0.7071067811865475;0
+4;90;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;database;1.0;0.022988505747126436;1.0;0.7071067811865475;0
+4;91;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;null;1.0;0.011494252873563218;6.0;0;0
+4;91;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;advantage;1.0;0.011494252873563218;6.0;0;0
+4;91;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;longer;1.0;0.0;6.0;0;0
+4;91;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;tapes;1.0;0.022988505747126436;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;data requires;2.0;0.022988505747126436;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;dbms;1.0;0.0;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;slow;1.0;0.022988505747126436;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;run;1.0;0.011494252873563218;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;making queries;2.0;0.011494252873563218;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;bottom;1.0;0.011494252873563218;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;top;1.0;0.022988505747126436;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;required information;2.0;0.011494252873563218;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;searching;1.0;0.022988505747126436;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;entire model;2.0;0.011494252873563218;6.0;0;0
+4;92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;found;1.0;0.011494252873563218;6.0;0;0
+4;93;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0;0
+4;93;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0;0
+4;93;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;supported;1.0;0.011494252873563218;6.0;0;0
+4;94;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0;0
+4;94;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0;0
+4;94;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;required;1.0;0.011494252873563218;6.0;0;0
+4;94;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;make;1.0;0.011494252873563218;6.0;0;0
+4;94;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;clever manipulation;2.0;0.011494252873563218;6.0;0;0
+4;95;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;professor teaches classes;3.0;0.011494252873563218;6.0;0;0
+4;95;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;graduate student;2.0;0.011494252873563218;6.0;0;0
+4;111;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0;0
+4;111;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hierarchical data model;3.0;0.011494252873563218;6.0;0;0
+4;111;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;multiple;1.0;0.011494252873563218;6.0;0;0
+4;111;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;organizing;1.0;0.011494252873563218;6.0;0;0
+4;111;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;database;1.0;0.022988505747126436;1.0;0;0
+4;112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;based;1.0;0.011494252873563218;6.0;0;0
+4;112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;parent;1.0;0.011494252873563218;3.0;0;0
+4;112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;rule;1.0;0.011494252873563218;6.0;0;0
+4;112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;allowed;1.0;0.011494252873563218;6.0;0;0
+4;112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;children;1.0;0.011494252873563218;1.5;0;0
+4;112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;structure;1.0;0.022988505747126436;0.8571428571428571;0;0
+4;113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;2.0;0.0;6.0;0;0
+4;113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information management system;2.6666666666666665;0.011494252873563218;6.0;0;0
+4;113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;ibm;1.0;0.0;6.0;0;0
+4;113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;repeated;1.0;0.011494252873563218;6.0;0;0
+4;113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;implemented;1.0;0.0;6.0;0;0
+4;113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;structure;1.0;0.022988505747126436;0.8571428571428571;0;0
+4;114;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;precursor;1.0;0.011494252873563218;6.0;0;0
+4;114;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;dbms;1.0;0.0;6.0;0;0
+4;115;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;advantages;1.0;0.011494252873563218;6.0;0;0
+4;116;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;1.0;0.0;6.0;0;0
+4;116;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0;0
+4;116;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;easy addition;2.0;0.011494252873563218;6.0;0;0
+4;116;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;deletion;1.0;0.011494252873563218;6.0;0;0
+4;117;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hierarchy;1.0;0.011494252873563218;6.0;0;0
+4;117;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;access;1.0;0.011494252873563218;6.0;0;0
+4;117;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;top;1.0;0.022988505747126436;6.0;0;0
+4;117;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;data;1.0;0.011494252873563218;1.0;0;0
+4;117;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;fast;1.0;0.011494252873563218;6.0;0;0
+4;118;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;tapes;1.0;0.022988505747126436;6.0;0;0
+4;118;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0;0
+4;118;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;work;1.0;0.011494252873563218;6.0;0;0
+4;118;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;worked;1.0;0.011494252873563218;6.0;0;0
+4;118;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;easy;1.0;0.011494252873563218;6.0;0;0
+4;119;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employee organization;2.0;0.011494252873563218;6.0;0;0
+4;119;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;natural hierarchies;2.0;0.011494252873563218;6.0;0;0
+4;119;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model relates;2.0;0.011494252873563218;6.0;0;0
+4;119;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;assembly plants;2.0;0.011494252873563218;6.0;0;0
+4;119;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;corporations;1.0;0.0;6.0;0;0
+4;120;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relates;1.0;0.011494252873563218;6.0;0;0
+4;120;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;works;1.0;0.011494252873563218;6.0;0;0
+4;120;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationship;1.0;0.0;6.0;0;0
+4;121;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employee;1.0;0.011494252873563218;6.0;0;0
+4;121;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;president;1.0;0.011494252873563218;6.0;0;0
+4;121;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employees;1.0;0.011494252873563218;6.0;0;0
+4;121;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;managers;1.0;0.011494252873563218;6.0;0;0
+4;121;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;manager;1.0;0.011494252873563218;6.0;0;0
+4;122;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;ga1111 disadvantages;2.0;0.011494252873563218;6.0;0;0
+4;123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;sophisticated relationships;2.0;0.011494252873563218;6.0;0;0
+4;123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;require;1.0;0.011494252873563218;6.0;0;0
+4;123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;back;1.0;0.011494252873563218;6.0;0;0
+4;123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0;0
+4;123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hold;1.0;0.011494252873563218;6.0;0;0
+4;123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;issues;1.0;0.011494252873563218;6.0;0;0
+4;124;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;requires data;2.0;0.022988505747126436;6.0;0;0
+4;124;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;repetitively stored;2.0;0.011494252873563218;6.0;0;0
+4;124;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;entities;1.0;0.011494252873563218;6.0;0;0
+4;125;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;1.0;0.0;6.0;0;0
+4;125;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;lower entities;2.0;0.011494252873563218;6.0;0;0
+4;125;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;slow;1.0;0.022988505747126436;6.0;0;0
+4;125;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;searching;1.0;0.022988505747126436;6.0;0;0
+4;125;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;database;1.0;0.022988505747126436;1.0;0;0
+4;126;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;null;1.0;0.011494252873563218;6.0;0;0
+4;126;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;advantage;1.0;0.011494252873563218;6.0;0;0
+4;126;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;longer;1.0;0.0;6.0;0;0
+4;126;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;tapes;1.0;0.022988505747126436;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;data requires;2.0;0.022988505747126436;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;dbms;1.0;0.0;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;slow;1.0;0.022988505747126436;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;run;1.0;0.011494252873563218;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;making queries;2.0;0.011494252873563218;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;bottom;1.0;0.011494252873563218;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;top;1.0;0.022988505747126436;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;required information;2.0;0.011494252873563218;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;searching;1.0;0.022988505747126436;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;entire model;2.0;0.011494252873563218;6.0;0;0
+4;127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;found;1.0;0.011494252873563218;6.0;0;0
+4;128;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0;0
+4;128;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0;0
+4;128;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;supported;1.0;0.011494252873563218;6.0;0;0
+4;129;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0;0
+4;129;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0;0
+4;129;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;required;1.0;0.011494252873563218;6.0;0;0
+4;129;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;make;1.0;0.011494252873563218;6.0;0;0
+4;129;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;clever manipulation;2.0;0.011494252873563218;6.0;0;0
+4;130;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;professor teaches classes;3.0;0.011494252873563218;6.0;0;0
+4;130;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;graduate student;2.0;0.011494252873563218;6.0;0;0
+5;1;https://en.wikipedia.org/wiki/Network_model;network model;2.25;0.0625;0.8;0.0;0
+5;1;https://en.wikipedia.org/wiki/Network_model;flexible;1.0;0.0625;4.0;0.0;0
+5;1;https://en.wikipedia.org/wiki/Network_model;representing objects;2.0;0.0625;4.0;0.0;0
+5;1;https://en.wikipedia.org/wiki/Network_model;database model conceived;2.8333333333333335;0.0625;4.0;0.0;0
+5;1;https://en.wikipedia.org/wiki/Network_model;relationships;1.0;0.0;4.0;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;object types;2.0;0.0625;4.0;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;arcs;1.0;0.0625;4.0;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;restricted;1.0;0.0625;4.0;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;distinguishing feature;2.0;0.0625;4.0;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;hierarchy;1.0;0.0625;4.0;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;lattice;1.0;0.0;4.0;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;graph;1.0;0.0625;1.3333333333333333;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;nodes;1.0;0.0625;2.0;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;relationship types;2.0;0.0625;4.0;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;viewed;1.0;0.0625;4.0;0.0;0
+5;2;https://en.wikipedia.org/wiki/Network_model;schema;1.0;0.0625;4.0;0.0;0
+5;8;http://www.computerbusinessresearch.com/Home/database/network-database-model;database model;2.0;0.2857142857142857;4.0;0;0
+5;9;http://www.computerbusinessresearch.com/Home/database/network-database-model;database model;1.75;0.2857142857142857;4.0;0.0;0
+5;9;http://www.computerbusinessresearch.com/Home/database/network-database-model;database;1.5;0.14285714285714285;4.0;0.0;0
+5;9;http://www.computerbusinessresearch.com/Home/database/network-database-model;structure;1.0;0.14285714285714285;4.0;0.0;0
+5;9;http://www.computerbusinessresearch.com/Home/database/network-database-model;format;1.0;0.14285714285714285;4.0;0.0;0
+5;10;http://www.computerbusinessresearch.com/Home/database/network-database-model;network database model;3.0;0.2857142857142857;4.0;0;0
+5;11;http://www.computerbusinessresearch.com/Home/database/network-database-model;network database model;3.0;0.2857142857142857;4.0;0;0
+5;12;http://www.studytonight.com/dbms/database-model;database model defines;3.0;0.05;4.0;1.0;0
+5;12;http://www.studytonight.com/dbms/database-model;data;1.0;0.1;2.0;1.0;0
+5;12;http://www.studytonight.com/dbms/database-model;logical design;2.0;0.05;4.0;1.0;0
+5;13;http://www.studytonight.com/dbms/database-model;relationships;1.0;0.0;4.0;0.0;0
+5;13;http://www.studytonight.com/dbms/database-model;parts;1.0;0.05;4.0;0.0;0
+5;13;http://www.studytonight.com/dbms/database-model;data;1.0;0.1;2.0;0.0;0
+5;13;http://www.studytonight.com/dbms/database-model;model describes;2.0;0.05;4.0;0.0;0
+5;14;http://www.studytonight.com/dbms/database-model;database design;2.0;0.05;4.0;1.0;0
+5;14;http://www.studytonight.com/dbms/database-model;models;1.0;0.05;4.0;1.0;0
+5;14;http://www.studytonight.com/dbms/database-model;historically;1.0;0.0;4.0;1.0;0
+5;14;http://www.studytonight.com/dbms/database-model;commonly;1.0;0.05;4.0;1.0;0
+5;15;http://www.studytonight.com/dbms/database-model;hierarchical model;2.0;0.05;2.0;0;0
+5;16;http://www.studytonight.com/dbms/database-model;network model;2.0;0.1;1.0;0;0
+5;17;http://www.studytonight.com/dbms/database-model;relational model;2.0;0.05;4.0;0;0
+5;19;http://www.studytonight.com/dbms/database-model;organised;1.0;0.05;4.0;0.9999999999999998;0
+5;19;http://www.studytonight.com/dbms/database-model;graph;1.0;0.05;1.3333333333333333;0.9999999999999998;0
+5;19;http://www.studytonight.com/dbms/database-model;entities;1.0;0.05;2.0;0.9999999999999998;0
+5;19;http://www.studytonight.com/dbms/database-model;accessed;1.0;0.05;4.0;0.9999999999999998;0
+5;19;http://www.studytonight.com/dbms/database-model;network model;2.0;0.1;1.0;0.9999999999999998;0
+5;19;http://www.studytonight.com/dbms/database-model;path;1.0;0.05;4.0;0.9999999999999998;0
+5;21;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;hierarchical tree;2.0;0.019230769230769232;4.0;0.0;0
+5;21;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;graph;1.0;0.019230769230769232;1.3333333333333333;0.0;0
+5;21;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network model replaces;3.0;0.019230769230769232;4.0;0.0;0
+5;21;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;general connections;2.0;0.019230769230769232;4.0;0.0;0
+5;21;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;allowing;1.0;0.019230769230769232;4.0;0.0;0
+5;21;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;nodes;1.0;0.019230769230769232;2.0;0.0;0
+5;22;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network model;2.0;0.038461538461538464;1.0;1.0;0
+5;22;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;handle;1.0;0.019230769230769232;4.0;1.0;0
+5;22;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;ability;1.0;0.019230769230769232;4.0;1.0;0
+5;22;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;hierarchical model;2.0;0.019230769230769232;2.0;1.0;0
+5;22;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;main difference;2.0;0.019230769230769232;4.0;1.0;0
+5;23;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;relations;1.0;0.019230769230769232;4.0;0;0
+5;24;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;record;1.0;0.019230769230769232;4.0;0.0;0
+5;24;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;parent;1.0;0.038461538461538464;4.0;0.0;0
+5;24;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;words;1.0;0.019230769230769232;4.0;0.0;0
+5;25;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;employee works;2.0;0.019230769230769232;4.0;0.0;0
+5;25;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;suppose;1.0;0.019230769230769232;4.0;0.0;0
+5;25;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;departments;1.0;0.0;4.0;0.0;0
+5;26;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;tree;1.0;0.019230769230769232;4.0;1.0;0
+5;26;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;strict hierarchical arrangement;3.0;0.019230769230769232;4.0;1.0;0
+5;26;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;generalized graph _;3.0;0.019230769230769232;4.0;1.0;0
+5;26;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network;1.0;0.019230769230769232;4.0;1.0;0
+5;27;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network model;2.0;0.038461538461538464;1.0;0;0
+5;27;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;evolved;1.0;0.019230769230769232;4.0;0;0
+5;28;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;shown;1.0;0.038461538461538464;4.0;0;0
+5;28;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;belong;1.0;0.019230769230769232;4.0;0;0
+5;28;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;data;1.0;0.019230769230769232;1.3333333333333333;0;0
+5;28;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;parent;1.0;0.038461538461538464;4.0;0;0
+5;29;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;note;1.0;0.019230769230769232;4.0;0;0
+5;29;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;lateral connections;2.0;0.019230769230769232;4.0;0;0
+5;29;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;top_down connections;2.0;0.019230769230769232;4.0;0;0
+5;30;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network structure;2.0;0.019230769230769232;4.0;0.0;0
+5;36;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;relationships;1.0;0.0;4.0;0;0
+5;36;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;entities;1.0;0.019230769230769232;2.0;0;0
+5;43;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;sample supplier_part database;3.0;0.019230769230769232;4.0;0.0;0
+5;43;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;shown;1.0;0.038461538461538464;4.0;0.0;0
+5;43;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;network view;2.0;0.019230769230769232;4.0;0.0;0
+5;44;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;supplier record types;2.8333333333333335;0.019230769230769232;4.0;1.0;0
+5;44;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;addition;1.0;0.019230769230769232;4.0;1.0;0
+5;44;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;connector;1.0;0.019230769230769232;4.0;1.0;0
+5;44;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;part;1.0;0.038461538461538464;4.0;1.0;0
+5;44;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;call;1.0;0.019230769230769232;4.0;1.0;0
+5;44;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;record type;2.25;0.019230769230769232;4.0;1.0;0
+5;44;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;introduced;1.0;0.019230769230769232;4.0;1.0;0
+5;45;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;supplier;1.0;0.038461538461538464;4.0;0.0;0
+5;45;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;part;1.0;0.038461538461538464;4.0;0.0;0
+5;45;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;connector occurrence specifies;3.0;0.019230769230769232;4.0;0.0;0
+5;45;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;association;1.0;0.0;4.0;0.0;0
+5;46;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;supplier;1.0;0.038461538461538464;4.0;1.0;0
+5;46;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;data describing;2.0;0.019230769230769232;4.0;1.0;0
+5;46;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;association;1.0;0.0;4.0;1.0;0
+5;46;http://ecomputernotes.com/fundamental/what-is-a-database/network-model;part records;2.0;0.019230769230769232;4.0;1.0;0
+6;1;http://www.studytonight.com/dbms/er-diagram.php;person;1.0;0.0625;5.0;1.0;0
+6;1;http://www.studytonight.com/dbms/er-diagram.php;object;1.0;0.0625;5.0;1.0;0
+6;1;http://www.studytonight.com/dbms/er-diagram.php;place;1.0;0.0625;5.0;1.0;0
+6;1;http://www.studytonight.com/dbms/er-diagram.php;class;1.0;0.0625;5.0;1.0;0
+6;1;http://www.studytonight.com/dbms/er-diagram.php;entity;1.0;0.125;2.5;1.0;0
+6;2;http://www.studytonight.com/dbms/er-diagram.php;represented;1.0;0.0;5.0;1.0;0
+6;2;http://www.studytonight.com/dbms/er-diagram.php;e_r diagram;2.0;0.0625;5.0;1.0;0
+6;2;http://www.studytonight.com/dbms/er-diagram.php;rectangles;1.0;0.0625;5.0;1.0;0
+6;2;http://www.studytonight.com/dbms/er-diagram.php;entity;1.0;0.125;2.5;1.0;0
+6;3;http://www.studytonight.com/dbms/er-diagram.php;organisation;1.0;0.0;5.0;0;0
+6;4;http://www.studytonight.com/dbms/er-diagram.php;product;1.0;0.0625;5.0;0.7071067811865475;0
+6;4;http://www.studytonight.com/dbms/er-diagram.php;entities;1.0;0.0625;1.25;0.7071067811865475;0
+6;4;http://www.studytonight.com/dbms/er-diagram.php;organisation;1.0;0.0;5.0;0.7071067811865475;0
+6;4;http://www.studytonight.com/dbms/er-diagram.php;department;1.0;0.0625;5.0;0.7071067811865475;0
+6;4;http://www.studytonight.com/dbms/er-diagram.php;manager;1.0;0.0625;5.0;0.7071067811865475;0
+6;4;http://www.studytonight.com/dbms/er-diagram.php;employee;1.0;0.0625;5.0;0.7071067811865475;0
+6;8;http://creately.com/blog/diagrams/er-diagrams-tutorial/;7 march 2012;0.3333333333333333;0.03125;5.0;0;0
+6;12;http://creately.com/blog/diagrams/er-diagrams-tutorial/;er diagram;2.0;0.03125;5.0;0;0
+6;12;http://creately.com/blog/diagrams/er-diagrams-tutorial/;attributes;1.0;0.0625;5.0;0;0
+6;12;http://creately.com/blog/diagrams/er-diagrams-tutorial/;entity;1.0;0.03125;1.6666666666666667;0;0
+6;16;http://creately.com/blog/diagrams/er-diagrams-tutorial/;visual tools;2.0;0.03125;5.0;0.7071067811865475;0
+6;16;http://creately.com/blog/diagrams/er-diagrams-tutorial/;network views;2.0;0.03125;5.0;0.7071067811865475;0
+6;16;http://creately.com/blog/diagrams/er-diagrams-tutorial/;uniform convention;2.0;0.03125;5.0;0.7071067811865475;0
+6;16;http://creately.com/blog/diagrams/er-diagrams-tutorial/;create;1.0;0.03125;5.0;0.7071067811865475;0
+6;16;http://creately.com/blog/diagrams/er-diagrams-tutorial/;er diagrams;2.0;0.03125;2.5;0.7071067811865475;0
+6;16;http://creately.com/blog/diagrams/er-diagrams-tutorial/;relational database;2.0;0.03125;5.0;0.7071067811865475;0
+6;16;http://creately.com/blog/diagrams/er-diagrams-tutorial/;peter chen;2.0;0.03125;5.0;0.7071067811865475;0
+6;16;http://creately.com/blog/diagrams/er-diagrams-tutorial/;considers;1.0;0.03125;5.0;0.7071067811865475;0
+6;17;http://creately.com/blog/diagrams/er-diagrams-tutorial/;relationships;1.0;0.0;5.0;1.0;0
+6;17;http://creately.com/blog/diagrams/er-diagrams-tutorial/;entities;1.0;0.09375;2.5;1.0;0
+6;17;http://creately.com/blog/diagrams/er-diagrams-tutorial/;conceptual modeling approach;3.0;0.03125;5.0;1.0;0
+6;17;http://creately.com/blog/diagrams/er-diagrams-tutorial/;chen envisioned;2.0;0.03125;5.0;1.0;0
+6;17;http://creately.com/blog/diagrams/er-diagrams-tutorial/;systems;1.0;0.03125;5.0;1.0;0
+6;17;http://creately.com/blog/diagrams/er-diagrams-tutorial/;er model;2.0;0.0625;2.5;1.0;0
+6;18;http://creately.com/blog/diagrams/er-diagrams-tutorial/;data objects;2.0;0.03125;5.0;0;0
+6;18;http://creately.com/blog/diagrams/er-diagrams-tutorial/;entities;1.0;0.09375;2.5;0;0
+6;18;http://creately.com/blog/diagrams/er-diagrams-tutorial/;maintain;1.0;0.03125;5.0;0;0
+6;18;http://creately.com/blog/diagrams/er-diagrams-tutorial/;relationships;1.0;0.0;5.0;0;0
+6;19;http://creately.com/blog/diagrams/er-diagrams-tutorial/;entities;1.0;0.09375;2.5;0;0
+6;19;http://creately.com/blog/diagrams/er-diagrams-tutorial/;additionally;1.0;0.0;5.0;0;0
+6;19;http://creately.com/blog/diagrams/er-diagrams-tutorial/;attributes;1.0;0.0625;5.0;0;0
+6;20;http://creately.com/blog/diagrams/er-diagrams-tutorial/;expanded;1.0;0.03125;5.0;1.0;0
+6;20;http://creately.com/blog/diagrams/er-diagrams-tutorial/;business management;2.0;0.03125;5.0;1.0;0
+6;20;http://creately.com/blog/diagrams/er-diagrams-tutorial/;product development;2.0;0.03125;5.0;1.0;0
+6;20;http://creately.com/blog/diagrams/er-diagrams-tutorial/;er model;2.0;0.0625;2.5;1.0;0
+6;20;http://creately.com/blog/diagrams/er-diagrams-tutorial/;strategy formulations;2.0;0.03125;5.0;1.0;0
+6;21;http://creately.com/blog/diagrams/er-diagrams-tutorial/;primary application;2.0;0.03125;5.0;0.0;0
+6;21;http://creately.com/blog/diagrams/er-diagrams-tutorial/;database design remains;3.0;0.03125;5.0;0.0;0
+6;25;http://www.careerbless.com/db/rdbms/c1/er2.php;college database;2.0;0.25;5.0;0.0;0
+6;25;http://www.careerbless.com/db/rdbms/c1/er2.php;design;1.0;0.25;5.0;0.0;0
+6;25;http://www.careerbless.com/db/rdbms/c1/er2.php;entity relationship model;3.0;0.25;5.0;0.0;0
+6;26;http://www.careerbless.com/db/rdbms/c1/er2.php;statements;1.0;0.25;5.0;0.0;0
+6;27;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;er model defines;3.0;0.09090909090909091;5.0;1.0;0
+6;27;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;conceptual view;2.0;0.09090909090909091;5.0;1.0;0
+6;27;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;database;1.0;0.09090909090909091;2.5;1.0;0
+6;28;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;associations;1.0;0.0;5.0;0.0;0
+6;28;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;works;1.0;0.09090909090909091;5.0;0.0;0
+6;28;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;real_world entities;2.0;0.09090909090909091;5.0;0.0;0
+6;29;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;considered;1.0;0.09090909090909091;5.0;1.0;0
+6;29;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;designing databases;2.0;0.09090909090909091;5.0;1.0;0
+6;29;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;view level;2.0;0.09090909090909091;5.0;1.0;0
+6;29;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;good option;2.0;0.09090909090909091;5.0;1.0;0
+6;29;https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm;er model;2.0;0.09090909090909091;1.6666666666666667;1.0;0
+6;30;https://opentextbc.ca/dbdesign/chapter/chapter-8-entity-relationship-model/;er models;2.0;0.25;5.0;1.0;0
+6;30;https://opentextbc.ca/dbdesign/chapter/chapter-8-entity-relationship-model/;represented;1.0;0.0;5.0;1.0;0
+6;30;https://opentextbc.ca/dbdesign/chapter/chapter-8-entity-relationship-model/;er diagrams;2.0;0.25;2.5;1.0;0
+6;31;https://opentextbc.ca/dbdesign/chapter/chapter-8-entity-relationship-model/;database;1.0;0.25;2.5;0;0
+7;1;https://en.wikipedia.org/wiki/Object_database;java;1.0;0.0;4.0;0.7071067811865475;0
+7;1;https://en.wikipedia.org/wiki/Object_database;object_oriented databases;2.25;0.05555555555555555;1.0;0.7071067811865475;0
+7;1;https://en.wikipedia.org/wiki/Object_database;python;1.0;0.05555555555555555;4.0;0.7071067811865475;0
+7;1;https://en.wikipedia.org/wiki/Object_database;delphi;1.0;0.0;4.0;0.7071067811865475;0
+7;1;https://en.wikipedia.org/wiki/Object_database;work;1.0;0.05555555555555555;4.0;0.7071067811865475;0
+7;1;https://en.wikipedia.org/wiki/Object_database;perl;1.0;0.0;4.0;0.7071067811865475;0
+7;1;https://en.wikipedia.org/wiki/Object_database;designed;1.0;0.05555555555555555;4.0;0.7071067811865475;0
+7;1;https://en.wikipedia.org/wiki/Object_database;object_oriented programming languages;2.8333333333333335;0.1111111111111111;4.0;0.7071067811865475;0
+7;1;https://en.wikipedia.org/wiki/Object_database;visual basic;2.0;0.05555555555555555;4.0;0.7071067811865475;0
+7;1;https://en.wikipedia.org/wiki/Object_database;ruby;1.0;0.05555555555555555;4.0;0.7071067811865475;0
+7;2;https://en.wikipedia.org/wiki/Object_database;net;1.0;0.05555555555555555;4.0;0.0;0
+7;2;https://en.wikipedia.org/wiki/Object_database;objective_c;1.0;0.05555555555555555;4.0;0.0;0
+7;2;https://en.wikipedia.org/wiki/Object_database;jade;1.0;0.0;4.0;0.0;0
+7;2;https://en.wikipedia.org/wiki/Object_database;smalltalk;1.0;0.0;4.0;0.0;0
+7;2;https://en.wikipedia.org/wiki/Object_database;programming languages;2.0;0.05555555555555555;4.0;0.0;0
+7;3;https://en.wikipedia.org/wiki/Object_database;model;1.0;0.05555555555555555;1.3333333333333333;1.0;0
+7;3;https://en.wikipedia.org/wiki/Object_database;oodbmss;1.0;0.0;4.0;1.0;0
+7;3;https://en.wikipedia.org/wiki/Object_database;object_oriented programming languages;3.0;0.1111111111111111;4.0;1.0;0
+7;9;https://www.techopedia.com/definition/8639/object-oriented-database;information represented;2.0;0.014492753623188406;4.0;1.0;0
+7;9;https://www.techopedia.com/definition/8639/object-oriented-database;database;1.5;0.014492753623188406;1.3333333333333333;1.0;0
+7;9;https://www.techopedia.com/definition/8639/object-oriented-database;subscribes;1.0;0.014492753623188406;4.0;1.0;0
+7;9;https://www.techopedia.com/definition/8639/object-oriented-database;objects;1.0;0.07246376811594203;1.0;1.0;0
+7;9;https://www.techopedia.com/definition/8639/object-oriented-database;object_oriented database;1.75;0.028985507246376812;4.0;1.0;0
+7;9;https://www.techopedia.com/definition/8639/object-oriented-database;model;1.0;0.014492753623188406;1.3333333333333333;1.0;0
+7;10;https://www.techopedia.com/definition/8639/object-oriented-database;successful;1.0;0.014492753623188406;4.0;0.0;0
+7;10;https://www.techopedia.com/definition/8639/object-oriented-database;niche offering;2.0;0.014492753623188406;4.0;0.0;0
+7;10;https://www.techopedia.com/definition/8639/object-oriented-database;mainstream database engines;3.0;0.014492753623188406;4.0;0.0;0
+7;10;https://www.techopedia.com/definition/8639/object-oriented-database;well_known;1.0;0.014492753623188406;4.0;0.0;0
+7;10;https://www.techopedia.com/definition/8639/object-oriented-database;object_oriented databases;2.0;0.028985507246376812;1.3333333333333333;0.0;0
+7;16;https://www.techopedia.com/definition/8639/object-oriented-database;definition;1.0;0.014492753623188406;4.0;0.0;0
+7;16;https://www.techopedia.com/definition/8639/object-oriented-database;implies;1.0;0.014492753623188406;4.0;0.0;0
+7;16;https://www.techopedia.com/definition/8639/object-oriented-database;object_oriented databases;2.0;0.028985507246376812;1.3333333333333333;0.0;0
+7;16;https://www.techopedia.com/definition/8639/object-oriented-database;normal database objects;2.6666666666666665;0.014492753623188406;4.0;0.0;0
+7;16;https://www.techopedia.com/definition/8639/object-oriented-database;objects;2.0;0.07246376811594203;1.0;0.0;0
+7;16;https://www.techopedia.com/definition/8639/object-oriented-database;allowing;1.0;0.014492753623188406;4.0;0.0;0
+7;16;https://www.techopedia.com/definition/8639/object-oriented-database;main feature;2.0;0.014492753623188406;4.0;0.0;0
+7;17;https://www.techopedia.com/definition/8639/object-oriented-database;product;1.0;0.014492753623188406;4.0;0.0;0
+7;17;https://www.techopedia.com/definition/8639/object-oriented-database;develop;1.0;0.014492753623188406;4.0;0.0;0
+7;17;https://www.techopedia.com/definition/8639/object-oriented-database;ability;1.0;0.028985507246376812;4.0;0.0;0
+7;17;https://www.techopedia.com/definition/8639/object-oriented-database;reference;1.0;0.014492753623188406;2.0;0.0;0
+7;17;https://www.techopedia.com/definition/8639/object-oriented-database;objects;1.0;0.07246376811594203;1.0;0.0;0
+7;17;https://www.techopedia.com/definition/8639/object-oriented-database;object_oriented database;2.0;0.028985507246376812;4.0;0.0;0
+7;17;https://www.techopedia.com/definition/8639/object-oriented-database;define;1.0;0.043478260869565216;4.0;0.0;0
+7;18;https://www.techopedia.com/definition/8639/object-oriented-database;referenced;1.0;0.014492753623188406;4.0;0.7071067811865475;0
+7;18;https://www.techopedia.com/definition/8639/object-oriented-database;complexities;1.0;0.0;4.0;0.7071067811865475;0
+7;18;https://www.techopedia.com/definition/8639/object-oriented-database;object;1.0;0.043478260869565216;1.3333333333333333;0.7071067811865475;0
+7;18;https://www.techopedia.com/definition/8639/object-oriented-database;called;1.0;0.028985507246376812;4.0;0.7071067811865475;0
+7;18;https://www.techopedia.com/definition/8639/object-oriented-database;unit;1.0;0.014492753623188406;4.0;0.7071067811865475;0
+7;19;https://www.techopedia.com/definition/8639/object-oriented-database;object_oriented programming;2.0;0.014492753623188406;4.0;1.0;0
+7;19;https://www.techopedia.com/definition/8639/object-oriented-database;objects;1.0;0.07246376811594203;1.0;1.0;0
+7;19;https://www.techopedia.com/definition/8639/object-oriented-database;similar;1.0;0.014492753623188406;4.0;1.0;0
+7;20;https://www.techopedia.com/definition/8639/object-oriented-database;real_life parallel;2.0;0.014492753623188406;4.0;0.0;0
+7;20;https://www.techopedia.com/definition/8639/object-oriented-database;car engine;2.0;0.014492753623188406;4.0;0.0;0
+7;20;https://www.techopedia.com/definition/8639/object-oriented-database;objects;1.0;0.07246376811594203;1.0;0.0;0
+7;21;https://www.techopedia.com/definition/8639/object-oriented-database;composed;1.0;0.014492753623188406;4.0;0.0;0
+7;21;https://www.techopedia.com/definition/8639/object-oriented-database;parts;1.0;0.014492753623188406;4.0;0.0;0
+7;22;https://www.techopedia.com/definition/8639/object-oriented-database;exhaust system;2.0;0.014492753623188406;4.0;0;0
+7;22;https://www.techopedia.com/definition/8639/object-oriented-database;main cylinder block;3.0;0.014492753623188406;4.0;0;0
+7;22;https://www.techopedia.com/definition/8639/object-oriented-database;intake manifold;2.0;0.014492753623188406;4.0;0;0
+7;23;https://www.techopedia.com/definition/8639/object-oriented-database;bolted;1.0;0.014492753623188406;4.0;0.7071067811865475;0
+7;23;https://www.techopedia.com/definition/8639/object-oriented-database;engine;1.0;0.014492753623188406;4.0;0.7071067811865475;0
+7;23;https://www.techopedia.com/definition/8639/object-oriented-database;machined;1.0;0.014492753623188406;4.0;0.7071067811865475;0
+7;23;https://www.techopedia.com/definition/8639/object-oriented-database;object;1.0;0.043478260869565216;1.3333333333333333;0.7071067811865475;0
+7;23;https://www.techopedia.com/definition/8639/object-oriented-database;collectively referred;2.0;0.014492753623188406;4.0;0.7071067811865475;0
+7;23;https://www.techopedia.com/definition/8639/object-oriented-database;standalone component;2.0;0.014492753623188406;4.0;0.7071067811865475;0
+7;24;https://www.techopedia.com/definition/8639/object-oriented-database;graded measurement;2.0;0.014492753623188406;4.0;0.9999999999999998;0
+7;24;https://www.techopedia.com/definition/8639/object-oriented-database;vertical line intersecting;3.0;0.014492753623188406;4.0;0.9999999999999998;0
+7;24;https://www.techopedia.com/definition/8639/object-oriented-database;lines;1.0;0.0;4.0;0.9999999999999998;0
+7;24;https://www.techopedia.com/definition/8639/object-oriented-database;similarly;1.0;0.014492753623188406;4.0;0.9999999999999998;0
+7;24;https://www.techopedia.com/definition/8639/object-oriented-database;programming;1.0;0.0;4.0;0.9999999999999998;0
+7;24;https://www.techopedia.com/definition/8639/object-oriented-database;perpendicular horizontal line;3.0;0.014492753623188406;4.0;0.9999999999999998;0
+7;24;https://www.techopedia.com/definition/8639/object-oriented-database;components;1.0;0.014492753623188406;4.0;0.9999999999999998;0
+7;24;https://www.techopedia.com/definition/8639/object-oriented-database;define;1.0;0.043478260869565216;4.0;0.9999999999999998;0
+7;25;https://www.techopedia.com/definition/8639/object-oriented-database;collectively labeled;2.0;0.014492753623188406;4.0;0.7071067811865475;0
+7;25;https://www.techopedia.com/definition/8639/object-oriented-database;graph;1.0;0.028985507246376812;4.0;0.7071067811865475;0
+7;25;https://www.techopedia.com/definition/8639/object-oriented-database;object;1.0;0.043478260869565216;1.3333333333333333;0.7071067811865475;0
+7;26;https://www.techopedia.com/definition/8639/object-oriented-database;created graph;1.75;0.014492753623188406;4.0;0;0
+7;26;https://www.techopedia.com/definition/8639/object-oriented-database;plot components;2.0;0.014492753623188406;4.0;0;0
+7;26;https://www.techopedia.com/definition/8639/object-oriented-database;ability;1.0;0.028985507246376812;4.0;0;0
+7;26;https://www.techopedia.com/definition/8639/object-oriented-database;graph;1.5;0.028985507246376812;4.0;0;0
+7;26;https://www.techopedia.com/definition/8639/object-oriented-database;instance;1.0;0.014492753623188406;4.0;0;0
+7;26;https://www.techopedia.com/definition/8639/object-oriented-database;utilizing;1.0;0.014492753623188406;4.0;0;0
+7;26;https://www.techopedia.com/definition/8639/object-oriented-database;called;1.0;0.028985507246376812;4.0;0;0
+7;26;https://www.techopedia.com/definition/8639/object-oriented-database;define;1.0;0.043478260869565216;4.0;0;0
+7;27;https://www.techopedia.com/definition/8639/object-oriented-database;cache;1.0;0.014492753623188406;4.0;0;0
+7;27;https://www.techopedia.com/definition/8639/object-oriented-database;examples;1.0;0.014492753623188406;4.0;0;0
+7;27;https://www.techopedia.com/definition/8639/object-oriented-database;smalltalk;1.0;0.0;4.0;0;0
+7;33;https://www.tutorialcup.com/dbms/object-based-data-models.htm;types;1.0;0.025;4.0;0;0
+7;34;https://www.tutorialcup.com/dbms/object-based-data-models.htm;designs;1.0;0.0125;4.0;0.7071067811865475;0
+7;34;https://www.tutorialcup.com/dbms/object-based-data-models.htm;basis;1.0;0.0125;4.0;0.7071067811865475;0
+7;34;https://www.tutorialcup.com/dbms/object-based-data-models.htm;er data model;3.0;0.0125;4.0;0.7071067811865475;0
+7;34;https://www.tutorialcup.com/dbms/object-based-data-models.htm;important data model;3.0;0.0125;4.0;0.7071067811865475;0
+7;34;https://www.tutorialcup.com/dbms/object-based-data-models.htm;forms;1.0;0.0125;4.0;0.7071067811865475;0
+7;34;https://www.tutorialcup.com/dbms/object-based-data-models.htm;database world;2.0;0.0125;4.0;0.7071067811865475;0
+7;35;https://www.tutorialcup.com/dbms/object-based-data-models.htm;entities;1.0;0.05;4.0;1.0;0
+7;35;https://www.tutorialcup.com/dbms/object-based-data-models.htm;database;1.0;0.025;2.0;1.0;0
+7;35;https://www.tutorialcup.com/dbms/object-based-data-models.htm;mapping;1.0;0.0375;4.0;1.0;0
+7;35;https://www.tutorialcup.com/dbms/object-based-data-models.htm;defines;1.0;0.0125;2.0;1.0;0
+7;36;https://www.tutorialcup.com/dbms/object-based-data-models.htm;mapping;1.0;0.0375;4.0;0.7071067811865475;0
+7;36;https://www.tutorialcup.com/dbms/object-based-data-models.htm;tasks performed;2.0;0.0125;4.0;0.7071067811865475;0
+7;36;https://www.tutorialcup.com/dbms/object-based-data-models.htm;entities;1.0;0.05;4.0;0.7071067811865475;0
+7;36;https://www.tutorialcup.com/dbms/object-based-data-models.htm;state;1.0;0.0125;4.0;0.7071067811865475;0
+7;36;https://www.tutorialcup.com/dbms/object-based-data-models.htm;describes;1.0;0.0125;4.0;0.7071067811865475;0
+7;36;https://www.tutorialcup.com/dbms/object-based-data-models.htm;entity;1.0;0.0125;4.0;0.7071067811865475;0
+7;38;https://www.tutorialcup.com/dbms/object-based-data-models.htm;lecturer;1.0;0.0;4.0;0.0;0
+7;38;https://www.tutorialcup.com/dbms/object-based-data-models.htm;form;1.0;0.025;4.0;0.0;0
+7;38;https://www.tutorialcup.com/dbms/object-based-data-models.htm;subjects;1.0;0.0125;4.0;0.0;0
+7;38;https://www.tutorialcup.com/dbms/object-based-data-models.htm;relation;1.0;0.0125;4.0;0.0;0
+7;38;https://www.tutorialcup.com/dbms/object-based-data-models.htm;student;1.0;0.0125;4.0;0.0;0
+7;38;https://www.tutorialcup.com/dbms/object-based-data-models.htm;marks;1.0;0.0125;4.0;0.0;0
+7;38;https://www.tutorialcup.com/dbms/object-based-data-models.htm;maps entities;2.0;0.0125;4.0;0.0;0
+7;39;https://www.tutorialcup.com/dbms/object-based-data-models.htm;objects;1.0;0.0125;0.5;0.7071067811865475;0
+7;39;https://www.tutorialcup.com/dbms/object-based-data-models.htm;list attributes;2.0;0.0125;4.0;0.7071067811865475;0
+7;40;https://www.tutorialcup.com/dbms/object-based-data-models.htm;picture;1.0;0.0125;4.0;1.0;0
+7;40;https://www.tutorialcup.com/dbms/object-based-data-models.htm;er model represents;3.0;0.0125;4.0;1.0;0
+7;40;https://www.tutorialcup.com/dbms/object-based-data-models.htm;developer understand;2.0;0.0125;4.0;1.0;0
+7;40;https://www.tutorialcup.com/dbms/object-based-data-models.htm;relationship;1.0;0.0;4.0;1.0;0
+7;40;https://www.tutorialcup.com/dbms/object-based-data-models.htm;form;1.0;0.025;4.0;1.0;0
+7;40;https://www.tutorialcup.com/dbms/object-based-data-models.htm;make;1.0;0.0125;4.0;1.0;0
+7;40;https://www.tutorialcup.com/dbms/object-based-data-models.htm;system;1.0;0.0125;4.0;1.0;0
+7;40;https://www.tutorialcup.com/dbms/object-based-data-models.htm;entities;1.0;0.05;4.0;1.0;0
+7;40;https://www.tutorialcup.com/dbms/object-based-data-models.htm;attributes;1.0;0.0375;2.0;1.0;0
+7;41;https://www.tutorialcup.com/dbms/object-based-data-models.htm;simple er diagram;3.0;0.0125;4.0;0;0
+7;41;https://www.tutorialcup.com/dbms/object-based-data-models.htm;drawn;1.0;0.0125;4.0;0;0
+7;42;https://www.tutorialcup.com/dbms/object-based-data-models.htm;clear;1.0;0.0125;4.0;0.0;0
+7;42;https://www.tutorialcup.com/dbms/object-based-data-models.htm;student database;2.0;0.0125;4.0;0.0;0
+7;42;https://www.tutorialcup.com/dbms/object-based-data-models.htm;relations;1.0;0.0125;4.0;0.0;0
+7;42;https://www.tutorialcup.com/dbms/object-based-data-models.htm;entities involved;2.0;0.0125;4.0;0.0;0
+7;42;https://www.tutorialcup.com/dbms/object-based-data-models.htm;understand;1.0;0.025;4.0;0.0;0
+7;42;https://www.tutorialcup.com/dbms/object-based-data-models.htm;clean;1.0;0.0125;4.0;0.0;0
+7;42;https://www.tutorialcup.com/dbms/object-based-data-models.htm;attributes;1.0;0.0375;2.0;0.0;0
+7;42;https://www.tutorialcup.com/dbms/object-based-data-models.htm;discussing;1.0;0.0125;4.0;0.0;0
+7;43;https://www.tutorialcup.com/dbms/object-based-data-models.htm;clear understanding;2.0;0.0125;4.0;0.0;0
+7;43;https://www.tutorialcup.com/dbms/object-based-data-models.htm;scattered;1.0;0.0125;4.0;0.0;0
+7;43;https://www.tutorialcup.com/dbms/object-based-data-models.htm;mapped;1.0;0.0125;4.0;0.0;0
+7;44;https://www.tutorialcup.com/dbms/object-based-data-models.htm;entities;1.0;0.05;4.0;0.0;0
+7;44;https://www.tutorialcup.com/dbms/object-based-data-models.htm;mapping;1.0;0.0375;4.0;0.0;0
+7;44;https://www.tutorialcup.com/dbms/object-based-data-models.htm;easily identify;2.0;0.0125;4.0;0.0;0
+7;44;https://www.tutorialcup.com/dbms/object-based-data-models.htm;missed;1.0;0.0125;4.0;0.0;0
+7;44;https://www.tutorialcup.com/dbms/object-based-data-models.htm;attribute;1.0;0.0125;4.0;0.0;0
+7;45;https://www.tutorialcup.com/dbms/object-based-data-models.htm;represent;1.0;0.0125;4.0;0.0;0
+7;45;https://www.tutorialcup.com/dbms/object-based-data-models.htm;gap;1.0;0.0125;4.0;0.0;0
+7;45;https://www.tutorialcup.com/dbms/object-based-data-models.htm;difficult;1.0;0.0125;4.0;0.0;0
+7;45;https://www.tutorialcup.com/dbms/object-based-data-models.htm;identify;1.0;0.0125;4.0;0.0;0
+7;45;https://www.tutorialcup.com/dbms/object-based-data-models.htm;tables;1.0;0.0125;4.0;0.0;0
+7;46;https://www.tutorialcup.com/dbms/object-based-data-models.htm;model;1.0;0.0125;1.3333333333333333;0.0;0
+7;46;https://www.tutorialcup.com/dbms/object-based-data-models.htm;understand;1.0;0.025;4.0;0.0;0
+7;46;https://www.tutorialcup.com/dbms/object-based-data-models.htm;employee database;2.0;0.0125;4.0;0.0;0
+7;47;https://www.tutorialcup.com/dbms/object-based-data-models.htm;clark;1.0;0.0;4.0;0.0;0
+7;47;https://www.tutorialcup.com/dbms/object-based-data-models.htm;database;1.0;0.025;2.0;0.0;0
+7;47;https://www.tutorialcup.com/dbms/object-based-data-models.htm;accountant;1.0;0.0125;4.0;0.0;0
+7;47;https://www.tutorialcup.com/dbms/object-based-data-models.htm;manager;1.0;0.0125;4.0;0.0;0
+7;47;https://www.tutorialcup.com/dbms/object-based-data-models.htm;types;1.0;0.025;4.0;0.0;0
+7;47;https://www.tutorialcup.com/dbms/object-based-data-models.htm;employees   engineer;1.0;0.0125;4.0;0.0;0
+7;48;https://www.tutorialcup.com/dbms/object-based-data-models.htm;employees belong;2.0;0.0125;4.0;0.0;0
+7;48;https://www.tutorialcup.com/dbms/object-based-data-models.htm;person group;2.0;0.0125;4.0;0.0;0
+7;49;https://www.tutorialcup.com/dbms/object-based-data-models.htm;person;1.0;0.025;4.0;1.0;0
+7;49;https://www.tutorialcup.com/dbms/object-based-data-models.htm;age;1.0;0.0125;4.0;1.0;0
+7;49;https://www.tutorialcup.com/dbms/object-based-data-models.htm;address;1.0;0.025;4.0;1.0;0
+7;49;https://www.tutorialcup.com/dbms/object-based-data-models.htm;phone;1.0;0.0125;4.0;1.0;0
+7;49;https://www.tutorialcup.com/dbms/object-based-data-models.htm;attributes;1.0;0.0375;2.0;1.0;0
+7;50;https://www.tutorialcup.com/dbms/object-based-data-models.htm;sp_getphone;1.0;0.0125;4.0;0.0;0
+7;50;https://www.tutorialcup.com/dbms/object-based-data-models.htm;phone number;2.0;0.0125;4.0;0.0;0
+7;50;https://www.tutorialcup.com/dbms/object-based-data-models.htm;write;1.0;0.0125;4.0;0.0;0
+7;50;https://www.tutorialcup.com/dbms/object-based-data-models.htm;person;1.0;0.025;4.0;0.0;0
+7;50;https://www.tutorialcup.com/dbms/object-based-data-models.htm;separate procedure sp_getaddress;3.0;0.0125;4.0;0.0;0
+7;50;https://www.tutorialcup.com/dbms/object-based-data-models.htm;address;1.0;0.025;4.0;0.0;0
+7;51;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;object oriented databases;3.0;0.022222222222222223;1.0;0.7071067811865475;0
+7;52;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;integers;1.0;0.044444444444444446;4.0;0.0;0
+7;52;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;real numbers;2.0;0.044444444444444446;4.0;0.0;0
+7;52;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;data;1.0;0.06666666666666667;4.0;0.0;0
+7;52;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;strings;1.0;0.044444444444444446;4.0;0.0;0
+7;53;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;objects;1.0;0.044444444444444446;0.5714285714285714;1.0;0
+7;53;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;java;1.0;0.0;4.0;1.0;0
+7;53;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;object oriented languages;3.0;0.022222222222222223;4.0;1.0;0
+7;53;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;smalltalk;1.0;0.0;4.0;1.0;0
+7;54;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;objects basically consist;3.0;0.022222222222222223;4.0;0;0
+7;55;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;attributes _ attributes;3.0;0.022222222222222223;1.0;1.0;0
+7;55;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;characteristics;1.0;0.0;4.0;1.0;0
+7;55;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;object;1.0;0.044444444444444446;1.0;1.0;0
+7;55;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;data;1.0;0.06666666666666667;4.0;1.0;0
+7;55;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;defines;1.0;0.022222222222222223;2.0;1.0;0
+7;56;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;integers;1.0;0.044444444444444446;4.0;0.0;0
+7;56;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;reference;1.0;0.022222222222222223;2.0;0.0;0
+7;56;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;simple;1.0;0.022222222222222223;4.0;0.0;0
+7;56;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;real numbers;2.0;0.044444444444444446;4.0;0.0;0
+7;56;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;data;1.0;0.06666666666666667;4.0;0.0;0
+7;56;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;strings;1.0;0.044444444444444446;4.0;0.0;0
+7;56;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;complex object;2.0;0.022222222222222223;4.0;0.0;0
+7;57;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;functions;1.0;0.022222222222222223;4.0;1.0;0
+7;57;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;object;1.0;0.044444444444444446;1.0;1.0;0
+7;57;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;formally called procedures;3.0;0.022222222222222223;4.0;1.0;0
+7;57;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;behavior;1.0;0.022222222222222223;4.0;1.0;0
+7;58;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;objects don;2.0;0.022222222222222223;4.0;0;0
+7;58;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;assemble;1.0;0.022222222222222223;4.0;0;0
+7;58;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;execution time;2.0;0.022222222222222223;4.0;0;0
+7;58;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;disassemble objects;2.0;0.022222222222222223;4.0;0;0
+7;58;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;require assembly;2.0;0.022222222222222223;4.0;0;0
+7;59;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;reduced paging;2.0;0.022222222222222223;4.0;0;0
+7;60;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;easier navigation;2.0;0.022222222222222223;4.0;0;0
+7;61;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;concurrency control _;3.0;0.022222222222222223;4.0;0.0;0
+7;61;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;hierarchy;1.0;0.022222222222222223;4.0;0.0;0
+7;61;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;objects;1.0;0.044444444444444446;0.5714285714285714;0.0;0
+7;61;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;locked;1.0;0.0;4.0;0.0;0
+7;62;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;real world;2.0;0.022222222222222223;4.0;1.0;0
+7;62;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;based;1.0;0.022222222222222223;4.0;1.0;0
+7;62;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;data model;2.0;0.022222222222222223;4.0;1.0;0
+7;63;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;works;1.0;0.022222222222222223;4.0;0;0
+7;63;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;distributed architectures;2.0;0.022222222222222223;4.0;0;0
+7;64;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;object oriented;2.0;0.022222222222222223;4.0;0;0
+7;64;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;applications;1.0;0.0;4.0;0;0
+7;64;http://www.comptechdoc.org/independent/database/basicdb/dataobject.html;code required;2.0;0.022222222222222223;4.0;0;0
+8;5;https://en.wikipedia.org/wiki/Database_model;related structures;2.0;0.25;4.0;0.0;0
+8;5;https://en.wikipedia.org/wiki/Database_model;object_relational database combines;3.0;0.25;4.0;0.0;0
+8;7;https://en.wikipedia.org/wiki/Database_model;inverted index;2.0;0.25;4.0;0;0
+8;8;https://en.wikipedia.org/wiki/Database_model;flat file;2.0;0.25;1.3333333333333333;0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;separated;1.0;0.030303030303030304;2.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;single table;2.0;0.030303030303030304;4.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;commas;1.0;0.030303030303030304;4.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;database;2.0;0.030303030303030304;4.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;delimiters;1.0;0.0;4.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;flat database;2.0;0.030303030303030304;1.3333333333333333;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;simple database system;2.6666666666666665;0.030303030303030304;4.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;records;1.0;0.030303030303030304;4.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;tabs;1.0;0.030303030303030304;4.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;stored;1.0;0.06060606060606061;4.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;single rows;2.0;0.030303030303030304;4.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;represented;1.0;0.0;4.0;1.0;0
+8;26;https://www.techopedia.com/definition/25330/flat-database;data;1.0;0.030303030303030304;2.0;1.0;0
+8;27;https://www.techopedia.com/definition/25330/flat-database;simple text file;3.0;0.030303030303030304;4.0;1.0;0
+8;27;https://www.techopedia.com/definition/25330/flat-database;table;1.0;0.030303030303030304;4.0;1.0;0
+8;27;https://www.techopedia.com/definition/25330/flat-database;physically represented;2.0;0.030303030303030304;4.0;1.0;0
+8;27;https://www.techopedia.com/definition/25330/flat-database;stored;1.0;0.06060606060606061;4.0;1.0;0
+8;28;https://www.techopedia.com/definition/25330/flat-database;limitations;1.0;0.0;4.0;0.0;0
+8;28;https://www.techopedia.com/definition/25330/flat-database;unsuitable;1.0;0.030303030303030304;4.0;0.0;0
+8;28;https://www.techopedia.com/definition/25330/flat-database;represent;1.0;0.030303030303030304;4.0;0.0;0
+8;28;https://www.techopedia.com/definition/25330/flat-database;flat databases;2.0;0.06060606060606061;4.0;0.0;0
+8;28;https://www.techopedia.com/definition/25330/flat-database;software applications;2.0;0.030303030303030304;4.0;0.0;0
+8;29;https://www.techopedia.com/definition/25330/flat-database;integrating;1.0;0.0;4.0;0.0;0
+8;29;https://www.techopedia.com/definition/25330/flat-database;reduce;1.0;0.030303030303030304;4.0;0.0;0
+8;29;https://www.techopedia.com/definition/25330/flat-database;complexity;1.0;0.030303030303030304;4.0;0.0;0
+8;29;https://www.techopedia.com/definition/25330/flat-database;flat files;2.0;0.030303030303030304;4.0;0.0;0
+8;29;https://www.techopedia.com/definition/25330/flat-database;cost;1.0;0.030303030303030304;4.0;0.0;0
+8;29;https://www.techopedia.com/definition/25330/flat-database;relational database;2.0;0.030303030303030304;4.0;0.0;0
+8;29;https://www.techopedia.com/definition/25330/flat-database;application developers;2.0;0.030303030303030304;4.0;0.0;0
+8;29;https://www.techopedia.com/definition/25330/flat-database;order;1.0;0.030303030303030304;4.0;0.0;0
+8;30;https://www.techopedia.com/definition/25330/flat-database;flat_file databases;2.0;0.030303030303030304;4.0;0.9999999999999998;0
+8;30;https://www.techopedia.com/definition/25330/flat-database;flat databases;2.0;0.06060606060606061;4.0;0.9999999999999998;0
+8;30;https://www.techopedia.com/definition/25330/flat-database;referred;1.0;0.030303030303030304;4.0;0.9999999999999998;0
+8;36;https://www.computerhope.com/jargon/f/flatfile.htm;files;1.0;0.058823529411764705;4.0;0;0
+8;36;https://www.computerhope.com/jargon/f/flatfile.htm;links;1.0;0.0;4.0;0;0
+8;36;https://www.computerhope.com/jargon/f/flatfile.htm;flat database;2.0;0.058823529411764705;1.3333333333333333;0;0
+8;36;https://www.computerhope.com/jargon/f/flatfile.htm;flat file;1.75;0.11764705882352941;2.0;0;0
+8;36;https://www.computerhope.com/jargon/f/flatfile.htm;non_relational database;2.0;0.058823529411764705;4.0;0;0
+8;36;https://www.computerhope.com/jargon/f/flatfile.htm;text database;2.0;0.058823529411764705;4.0;0;0
+8;36;https://www.computerhope.com/jargon/f/flatfile.htm;file;1.5;0.058823529411764705;4.0;0;0
+8;36;https://www.computerhope.com/jargon/f/flatfile.htm;data;1.0;0.058823529411764705;2.0;0;0
+8;36;https://www.computerhope.com/jargon/f/flatfile.htm;alternatively referred;2.0;0.058823529411764705;4.0;0;0
+8;37;https://www.computerhope.com/jargon/f/flatfile.htm;separated;1.0;0.058823529411764705;2.0;1.0;0
+8;37;https://www.computerhope.com/jargon/f/flatfile.htm;kind;1.0;0.0;4.0;1.0;0
+8;37;https://www.computerhope.com/jargon/f/flatfile.htm;good;1.0;0.058823529411764705;4.0;1.0;0
+8;37;https://www.computerhope.com/jargon/f/flatfile.htm;data needed;2.0;0.058823529411764705;4.0;1.0;0
+8;37;https://www.computerhope.com/jargon/f/flatfile.htm;flat file;2.25;0.11764705882352941;2.0;1.0;0
+8;37;https://www.computerhope.com/jargon/f/flatfile.htm;single text_only file;2.8333333333333335;0.058823529411764705;4.0;1.0;0
+8;37;https://www.computerhope.com/jargon/f/flatfile.htm;delimiter;1.0;0.0;4.0;1.0;0
+8;37;https://www.computerhope.com/jargon/f/flatfile.htm;program;1.0;0.058823529411764705;4.0;1.0;0
+8;38;http://www.ogcnetwork.net/node/191;implement wfs simple;3.0;0.25;4.0;0.0;0
+8;38;http://www.ogcnetwork.net/node/191;showing;1.0;0.25;4.0;0.0;0
+8;38;http://www.ogcnetwork.net/node/191;3 easy steps;1.3333333333333333;0.25;4.0;0.0;0
+8;38;http://www.ogcnetwork.net/node/191;flat database;2.0;0.25;1.3333333333333333;0.0;0

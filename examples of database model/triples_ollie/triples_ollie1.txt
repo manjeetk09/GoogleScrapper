@@ -1,0 +1,166 @@
+Types of database models.
+No extractions found.
+
+Relational model.
+No extractions found.
+
+Hierarchical model.
+No extractions found.
+
+Network model.
+No extractions found.
+
+Object_oriented database model.
+No extractions found.
+
+Object_relational model.
+No extractions found.
+
+Entity_relationship model.
+No extractions found.
+
+Other database models.
+No extractions found.
+
+NoSQL database models.
+No extractions found.
+
+Databases on the Web.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A database model shows the logical structure of a database, including the relationships and constraints that determine how data can be stored and accessed.
+0.748: (A database model; shows; the logical structure of a database)
+
+ Individual database models are designed based on the rules and concepts of whichever broader data model the designers adopt.
+No extractions found.
+
+ Most data models can be represented by an accompanying database diagram.
+0.919: (Most data models; can be represented by; an accompanying database diagram)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The model also accounts for the types of relationships between those tables, including one_to_one, one_to_many, and many_to_many relationships.
+0.923: (The model; also accounts for; the types of relationships)
+
+ Here s an example.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Although the focus of this article is data modeling, there are often alternatives to data_oriented artifacts .
+0.541: (the focus of this article; is; data modeling)
+0.399: (data modeling; be the focus of; this article)
+
+ For example, when it comes to conceptual modeling ORM diagrams aren t your only option   In addition to LDMs it is quite common for people to create UML class diagrams and even Class Responsibility Collaborator cards instead.
+0.731: (it; comes to; conceptual modeling ORM diagrams)
+0.685: (it; is quite; common)
+0.627: (people; to create; UML class diagrams)
+0.55: (it; is quite common in; addition)[enabler=for people to create UML class diagrams and even Class Responsibility Collaborator cards instead]
+
+  In fact, my experience is that CRC cards are superior to ORM diagrams because it is very easy to get project stakeholders actively involved in the creation of the model.
+0.842: (project stakeholders; be actively involved in; the creation of the model)
+0.652: (it; to get; project stakeholders actively involved in the creation of the model)
+0.587: (CRC cards; are superior to; ORM diagrams)[enabler=because it is very easy to get project stakeholders actively involved in the creation of the model]
+0.576: (it; is very; easy)
+0.376: (my experience; is in; fact)
+
+ Instead of a traditional, analyst_led drawing session you can instead facilitate stakeholders through the creation of CRC cards.
+0.907: (you; can instead facilitate stakeholders through; the creation of CRC cards)
+0.846: (you; can instead facilitate; stakeholders)
+0.772: (stakeholders; can be instead facilitate through; the creation of CRC cards)
+
+UML.
+No extractions found.
+
+The following entity relationship diagram is showing a typical online or retail business ER database model diagram sample.
+0.658: (The following entity relationship diagram; is showing; a typical online or retail business ER database model diagram sample)
+
+ The database model diagram consists of five tables and four parent_child relationships.
+0.878: (The database model diagram; consists of; five tables and four parent_child relationships)
+
+ Be sure you fully understand it.
+0.818: (you; fully understand; it)
+
+A data structure diagram is a diagram and data model used to describe conceptual data models by providing graphical notations which document entities and their relationships, and the constraints that bind them.
+0.829: (a diagram and data model; used to describe; conceptual data models)
+0.78: (a diagram and data model; to describe; conceptual data models)
+0.667: (A data structure diagram; is; a diagram and data model)
+
+ The basic graphic elements of DSDs are boxes, representing entities, and arrows, representing relationships.
+0.545: (boxes , representing entities , and arrows; be The basic graphic elements of; DSDs)
+
+ Data structure diagrams are most useful for documenting complex data entities.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated.
+0.957: (A database model; is a type of; data model that determines the logical structure of a database and fundamentally determines)
+0.725: (A database model; is; a type of data model)
+
+ The most popular example of a database model is the relational model, which uses a table_based format.
+0.745: (The most popular example of a database model; is; the relational model which uses a table_based format)
+0.564: (a table_based format; be uses by; the relational model)
+0.492: (the relational model which uses a table_based format; be The most popular example of; a database model)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Conceptual data model includes all major entities and relationships and does not contain much detailed level of information about attributes and is often used in the INITIAL PLANNING PHASE.
+0.696: (Conceptual data model; is often used in; the INITIAL PLANNING)
+0.415: (Conceptual data model; includes does not contain much detailed level of information about attributes; all major entities and relationships)
+

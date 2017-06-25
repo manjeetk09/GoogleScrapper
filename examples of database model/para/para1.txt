@@ -1,0 +1,50 @@
+Types of database models Relational model Hierarchical model Network model Object-oriented database model Object-relational model Entity-relationship model Other database models NoSQL database models Databases on the Web
+Types of database models Relational model Hierarchical model Network model Object-oriented database model Object-relational model Entity-relationship model Other database models NoSQL database models Databases on the Web
+Types of database models Relational model Hierarchical model Network model Object-oriented database model Object-relational model Entity-relationship model Other database models NoSQL database models Databases on the Web
+Types of database models Relational model Hierarchical model Network model Object-oriented database model Object-relational model Entity-relationship model Other database models NoSQL database models Databases on the Web
+Types of database models Relational model Hierarchical model Network model Object-oriented database model Object-relational model Entity-relationship model Other database models NoSQL database models Databases on the Web
+Types of database models Relational model Hierarchical model Network model Object-oriented database model Object-relational model Entity-relationship model Other database models NoSQL database models Databases on the Web
+Types of database models Relational model Hierarchical model Network model Object-oriented database model Object-relational model Entity-relationship model Other database models NoSQL database models Databases on the Web
+Types of database models Relational model Hierarchical model Network model Object-oriented database model Object-relational model Entity-relationship model Other database models NoSQL database models Databases on the Web
+Types of database models Relational model Hierarchical model Network model Object-oriented database model Object-relational model Entity-relationship model Other database models NoSQL database models Databases on the Web
+Types of database models Relational model Hierarchical model Network model Object-oriented database model Object-relational model Entity-relationship model Other database models NoSQL database models Databases on the Web
+
+
+
+
+
+A database model shows the logical structure of a database, including the relationships and constraints that determine how data can be stored and accessed. Individual database models are designed based on the rules and concepts of whichever broader data model the designers adopt. Most data models can be represented by an accompanying database diagram.
+A database model shows the logical structure of a database, including the relationships and constraints that determine how data can be stored and accessed. Individual database models are designed based on the rules and concepts of whichever broader data model the designers adopt. Most data models can be represented by an accompanying database diagram.
+A database model shows the logical structure of a database, including the relationships and constraints that determine how data can be stored and accessed. Individual database models are designed based on the rules and concepts of whichever broader data model the designers adopt. Most data models can be represented by an accompanying database diagram.
+
+
+
+
+
+The model also accounts for the types of relationships between those tables, including one-to-one, one-to-many, and many-to-many relationships. Here’s an example:
+The model also accounts for the types of relationships between those tables, including one-to-one, one-to-many, and many-to-many relationships. Here’s an example:
+
+
+
+
+
+Although the focus of this article is data modeling, there are often alternatives to data-oriented artifacts (never forget Agile Modeling’s Multiple Models principle). For example, when it comes to conceptual modeling ORM diagrams aren’t your only option – In addition to LDMs it is quite common for people to create UML class diagrams and even Class Responsibility Collaborator (CRC) cards instead.  In fact, my experience is that CRC cards are superior to ORM diagrams because it is very easy to get project stakeholders actively involved in the creation of the model. Instead of a traditional, analyst-led drawing session you can instead facilitate stakeholders through the creation of CRC cards.
+Although the focus of this article is data modeling, there are often alternatives to data-oriented artifacts (never forget Agile Modeling’s Multiple Models principle). For example, when it comes to conceptual modeling ORM diagrams aren’t your only option – In addition to LDMs it is quite common for people to create UML class diagrams and even Class Responsibility Collaborator (CRC) cards instead.  In fact, my experience is that CRC cards are superior to ORM diagrams because it is very easy to get project stakeholders actively involved in the creation of the model. Instead of a traditional, analyst-led drawing session you can instead facilitate stakeholders through the creation of CRC cards.
+Although the focus of this article is data modeling, there are often alternatives to data-oriented artifacts (never forget Agile Modeling’s Multiple Models principle). For example, when it comes to conceptual modeling ORM diagrams aren’t your only option – In addition to LDMs it is quite common for people to create UML class diagrams and even Class Responsibility Collaborator (CRC) cards instead.  In fact, my experience is that CRC cards are superior to ORM diagrams because it is very easy to get project stakeholders actively involved in the creation of the model. Instead of a traditional, analyst-led drawing session you can instead facilitate stakeholders through the creation of CRC cards.
+Although the focus of this article is data modeling, there are often alternatives to data-oriented artifacts (never forget Agile Modeling’s Multiple Models principle). For example, when it comes to conceptual modeling ORM diagrams aren’t your only option – In addition to LDMs it is quite common for people to create UML class diagrams and even Class Responsibility Collaborator (CRC) cards instead.  In fact, my experience is that CRC cards are superior to ORM diagrams because it is very easy to get project stakeholders actively involved in the creation of the model. Instead of a traditional, analyst-led drawing session you can instead facilitate stakeholders through the creation of CRC cards.
+UML
+The following entity relationship diagram is showing a typical online or retail business ER database model diagram sample. The database model diagram consists of five tables and four parent-child relationships. Be sure you fully understand it.
+The following entity relationship diagram is showing a typical online or retail business ER database model diagram sample. The database model diagram consists of five tables and four parent-child relationships. Be sure you fully understand it.
+The following entity relationship diagram is showing a typical online or retail business ER database model diagram sample. The database model diagram consists of five tables and four parent-child relationships. Be sure you fully understand it.
+A data structure diagram (DSD) is a diagram and data model used to describe conceptual data models by providing graphical notations which document entities and their relationships, and the constraints that bind them. The basic graphic elements of DSDs are boxes, representing entities, and arrows, representing relationships. Data structure diagrams are most useful for documenting complex data entities.
+A data structure diagram (DSD) is a diagram and data model used to describe conceptual data models by providing graphical notations which document entities and their relationships, and the constraints that bind them. The basic graphic elements of DSDs are boxes, representing entities, and arrows, representing relationships. Data structure diagrams are most useful for documenting complex data entities.
+A data structure diagram (DSD) is a diagram and data model used to describe conceptual data models by providing graphical notations which document entities and their relationships, and the constraints that bind them. The basic graphic elements of DSDs are boxes, representing entities, and arrows, representing relationships. Data structure diagrams are most useful for documenting complex data entities.
+
+
+
+
+A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated. The most popular example of a database model is the relational model, which uses a table-based format.
+A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated. The most popular example of a database model is the relational model, which uses a table-based format.
+
+
+Conceptual data model includes all major entities and relationships and does not contain much detailed level of information about attributes and is often used in the INITIAL PLANNING PHASE.

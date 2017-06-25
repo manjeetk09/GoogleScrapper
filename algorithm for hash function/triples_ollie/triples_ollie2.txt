@@ -1,0 +1,278 @@
+By Bob Jenkins, September 01, 1997.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+By John Boyer, January 01, 1998.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+More recently, Bob Jenkins presented a hashing function that performs a complex mixing operation using 12 bytes at a time from the input key.
+0.807: (Bob Jenkins; More recently presented; a hashing function)
+0.758: (a complex mixing operation; using 12 bytes at; a time)
+0.707: (12 bytes; be using at; a time)
+
+ By design, the bytes of the key have some affect on all regions of the hash value.
+0.569: (the bytes of the key; have by; design)
+
+ Thus, the hash function suffers little or no information loss when the hash value is truncated to the table size.
+0.914: (the hash value; is truncated to; the table size)
+0.678: (the hash function; Thus suffers; little or no information loss)
+
+ As Table 1 shows, the efficiency of Jenkins  hash function was far greater than the original HashPJW, and even slightly better than HashJBand the new HashPJW.
+0.771: (function; was far greater than; the original HashPJW)
+
+ The run time using HashJBis equivalent to HashJenkinsbecause the former uses slightly less CPU time to compute hash values.
+No extractions found.
+
+DDJ.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The Jenkins hash functions are a collection of hash functions for multi_byte keys designed by Bob Jenkins.
+0.939: (functions; are a collection of hash functions for; multi_byte keys designed by Bob Jenkins)
+0.936: (functions; are a collection of; hash functions)
+0.673: (multi_byte keys; be designed by; Bob Jenkins)
+
+ The first one was formally published in 1997.
+0.919: (The first one; was formally published in; 1997)
+
+       .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+       .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+       .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+I offer you a new hash function for hash table lookup that is faster and more thorough than the one you are using now.
+0.772: (you; be a new hash function for; hash table lookup)
+
+ I also give you a way to verify that it is more thorough.
+0.685: (I; also give you; a way to verify that it is more thorough)
+0.48: (it; is; thorough)
+
+I have three complaints against it.
+0.704: (I; have; three complaints)
+
+ First, it s specific about how to reduce the size if you don t use all the bits, it s not just a mask.
+No extractions found.
+
+ Increasing the result size by one bit gives you a completely different hash.
+0.752: (the result size; be Increasing by; one bit)
+
+ If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets.
+0.622: (the result size; be increasing by; one bit)
+0.23: (you; use; a hash table that grows by increasing the result size by one bit)
+
+ If your algorithm has a sliding pointer for which buckets have been split, that just won t work with FNV.
+0.183: (your algorithm; has; a sliding pointer for which buckets have been split)
+
+ Second, it s linear.
+No extractions found.
+
+ That means that widely separated things can cancel each other out at least as easily as nearby things.
+0.591: (that widely separated things; can cancel out as easily as nearby things; each other)
+
+ Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
+0.937: (the lowest 7 bits of the state; are never affected by; the 8th bit of all the input bytes)
+0.796: (Third; are never affected by; the 8th bit of all the input bytes)
+0.612: (multiplication; only affects; higher bits)
+
+Hashing is a powerful and simple technique for accessing information.
+0.764: (Hashing; is; a powerful and simple technique)
+
+ Each key is mathematically converted into a number, which is then used as an index into a table.
+0.948: (Each key; is mathematically converted into; a number which is then used as an index into a table)
+
+ In typical applications, it s common for two different keys to map to the same index, requiring some strategy for collision resolution.
+0.561: (it; be common for; two different keys)
+0.466: (it; be common to; the same index)
+0.289: (it; be common in; typical applications)
+
+ However, many applications use a static set of records  for instance, the table of keywords for a compiler, the contents of a dictionary, or the topics in a help file.
+0.797: (many applications; However use; a static set of records)
+0.51: (static; set of; records)
+
+ In these cases, it s nice to have a perfect hashing function, one that maps different keys into different numbers.
+0.243: (it; be nice in; these cases)
+
+ With a perfect function, you could retrieve the record in exactly one probe, without worrying about collisions.
+0.846: (you; could retrieve; the record)
+0.668: (you; could retrieve the record in exactly one probe with; a perfect function)
+0.473: (the record; could be retrieve with; a perfect function)
+
+ A special case of perfect hashing is minimal perfect hashing, where no empty locations in the table exist.
+0.667: (A special case of perfect hashing; is; minimal)
+0.492: (minimal; be A special case of; perfect hashing)
+
+ Minimal perfect hashing satisfies the ideal of fast performance and low memory usage.
+0.789: (Minimal perfect hashing; satisfies; the ideal of fast performance)
+
+ However, finding perfect hashing functions is difficult.
+No extractions found.
+
+ In this article, I ll present a simple algorithm to find perfect hashing functions for a static set of data.
+0.711: (I; ll present a simple algorithm to find; perfect hashing functions)
+0.711: (I; ll present; a simple algorithm)
+0.473: (a simple algorithm; ll be present in; this article)
+0.473: (I; ll present a simple algorithm in; this article)
+0.472: (static; set of; data)
+
+The BDZ algorithm uses r_uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require Obits to be stored.
+0.861: (r_uniform random hypergraphs; be given by; function values of r uniform random hash functions)
+0.809: (The BDZ algorithm; uses; r_uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs)
+0.709: (r_uniform random hypergraphs; be given on; the input key set S)
+0.683: (the input key; be set in; S)
+
+ A hypergraph is the generalization of a standard undirected graph where each edge connects vertices.
+0.939: (A hypergraph; is the generalization of; a standard undirected graph where each edge connects vertices)
+0.772: (each edge; connects; vertices)
+0.736: (A hypergraph; is; the generalization of a standard undirected graph)
+0.564: (vertices; be connects by; a standard undirected graph)
+
+ This idea is not new, see e.
+0.704: (This idea; is; not new)
+
+g.
+No extractions found.
+
+ , but we have proceeded differently to achieve a space usage of Obits rather than Obits.
+0.708: (a space usage of Obits; to be achieve than; Obits)
+0.683: (we; have proceeded differently to achieve; a space usage of Obits)
+0.525: (we; have proceeded differently to achieve a space usage of Obits than; Obits)
+
+ Evaluation time for all schemes considered is constant.
+0.716: (Evaluation time; is; constant)
+0.426: (constant; be Evaluation time for; all schemes considered)
+
+ For r 3 we obtain a space usage of approximately 2.
+0.68: (we; obtain; a space usage of)
+0.445: (we; obtain a space usage of approximately for; r 3)
+
+6n bits for an MPHF.
+No extractions found.
+
+ More compact, and even simpler, representations can be achieved for larger m.
+0.909: (representations; can be achieved for; larger m)[enabler=More compact , and even simpler]
+
+ For example, for m 1.
+No extractions found.
+
+23n we can get a space usage of 1.
+0.647: (we; can get; a space usage of 1)
+
+95n bits.
+No extractions found.
+
