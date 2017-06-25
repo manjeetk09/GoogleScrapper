@@ -1,0 +1,75 @@
+Some widely used debuggers are.
+ Firefox JavaScript debugger.
+ GDB _ the GNU debugger.
+ LLDB.
+ Microsoft Visual Studio Debugger.
+ Valgrind.
+ WinDbg.
+ Eclipse debugger API used in a range of IDEs.
+ Eclipse IDE Nodeclipse .
+ WDW, the OpenWatcom debugger.
+.
+.
+Some widely used debuggers are.
+ Firefox JavaScript debugger.
+ GDB _ the GNU debugger.
+ LLDB.
+ Microsoft Visual Studio Debugger.
+ Valgrind.
+ WinDbg.
+ Eclipse debugger API used in a range of IDEs.
+ Eclipse IDE Nodeclipse .
+ WDW, the OpenWatcom debugger.
+.
+.
+There are different ways of debugging Toolset plugins, depending on the type of the problem you are facing.
+JavaScript debugging is done using the browser s built_in Developer Tools, more specifically, using a JavaScript Console.
+ Today, all major browsers feature Developer Tools and a JavaScript Console.
+ In Chrome, click the Main menu button_ More Tools_ Developer Tools.
+ Select the Console tab.
+ In Firefox, click the Main menu button_ Developer_ Web Console.
+ In Internet Explorer, click the Tools button_ F12 Developer Tools.
+ Select the Console tab.
+ In Edge, click the More button_ F12 Developer Tools.
+ Select the Console tab.
+Tools for Debugging.
+ Each of the above debugging approaches can be supplemented with debugging tools.
+ For debugging we can apply wide variety of debugging tools such as debugging compilers, dynamic debugging aids, automatic test case generators, memory dumps and cross reference maps.
+ The following are the main Debugging tools available in the market.
+ The following information is based upon details from respective web_sites of the tool vendors.
+.
+.
+The emerging field of  auditory display  uses sound to convey more detailed information.
+ For debugging purposes, this requires translating arbitrary data into sound through a process called  sonification  or  audification.
+  Through this process, a language of sound is created.
+ What does this mean  While generating different notes to indicate that a variable   5 or 47 may be less useful, consider using two different notes to indicate bidirectional communications between two programs.
+ The rhythm between the notes conveys how often communications occur, and the relative sizes of the payloads of each message.
+ Music and rhythm are innate tools that in this case would allow us to avoid sifting through pages and pages of interprocessor messaging.
+ More detailed examples of  sonic grammar  have been termed  Earcons.
+ .
+Another use of audio_visual thread debugging appears in  Place phone to the PC, please  by Martin Wehlou.
+ Martin used a different tune for each thread in a multi_threading program.
+ If one thread hangs up , it can be difficult to trace down unless the thread is something obvious like the user display.
+ But if each thread is associated with a tune, listening to the program until a tune disappears is one way to identify a failure.
+Classification of different types of test tools according to the test process activities.
+ The tools are grouped by the testing activities or areas that are supported by a set of tools, for example, tools that support management activities, tools to support static testing, etc.
+Other example of the probe effect is when a debugging tool tries to find a particular defect.
+ If the code is run with the debugger, then the bug disappears  it only re_appears when the debugger is turned off, hence making it very difficult to find.
+ These are sometimes known as  Heizenbugs  .
+.
+.
+.
+.
+ .
+ .
+Once an error has been identified, it is necessary to actually find the error in the code.
+ At this point, it can be useful to look at the code s logging and use a stand_alone debugger tool or the debugging component of an integrated development environment .
+ Invariably, the bugs in the functions that get most use are found and fixed first.
+ In some cases, the module that presents the problem is obvious, while the line of code itself is not.
+ In that case, unit tests __ such as JUnit and xUnit, which allow the programmer to run a specific function with specific inputs __ can be helpful in debugging.
+.
+.
+.
+.
+ .
+ .

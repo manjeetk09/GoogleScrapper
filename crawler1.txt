@@ -1,66 +1,49 @@
-0;Using print statements for debugging a program is often not adequate or convenient.
-0; For example, the programmer may want to change the values of certain variables after observing the execution of the program till some point.
-0; For a large program it may be difficult to go back to the source program, make the necessary changes and rerun the program.
-0; Again, if such print statements are placed inside loops, it will produce output everytime the loop is executed though the programmer may be interested in only certain iterations of the loop.
-0; To overcome several such drawbacks of debugging by inserting extra statements in the program, there are a kind of tool called debugger that helps in debugging programs by giving the programmer some control over the execution of the program and some means of examining and modifying different program variables during runtime.
-0;A debugger or debugging tool is a computer program that is used to test and debug other programs .
-0; The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered, but which will typically be somewhat slower than executing the code directly on the appropriate processor.
-0; Some debuggers offer two modes of operation, full or partial simulation, to limit this impact.
+0;01 October 2005.
+0;The MD5 function is a cryptographic algorithm that takes an input of arbitrary length and produces a message digest that is 128 bits long.
+0; The digest is sometimes also called the  hash  or  fingerprint  of the input.
+0; MD5 is used in many situations where a potentially long message needs to be processed and or compared quickly.
+0; The most common application is the creation and verification of digital signatures.
+0;The MD5 algorithm is a widely used hash function producing a 128_bit hash value.
+0; Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities.
+0; It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
 0;.
 0;.
-0;Some debuggers include a feature called  reverse debugging , also known as  historical debugging  or  backwards debugging .
-0; These debuggers make it possible to step a program s execution backwards in time.
-0; Various debuggers include this feature.
-0; Microsoft Visual Studio offers IntelliTrace reverse debugging for C , Visual Basic .
-0;NET, and some other languages, but not C  .
-0; Reverse debuggers also exist for C, C  , Java, Python, Perl, and other languages.
-0; Some are open source  some are proprietary commercial software.
-0; Some reverse debuggers slow down the target by orders of magnitude, but the best reverse debuggers cause a slowdown of 2  or less.
-0; Reverse debugging is very useful for certain types of problems, but is still not commonly used yet.
-0;.
-0;.
-0;Most modern microprocessors have at least one of these features in their CPU design to make debugging easier.
-0; Hardware support for single_stepping a program, such as the trap flag.
-0; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control.
-0; In_system programming allows an external hardware debugger to reprogram a system under test .
-0; Many systems with such ISP support also have other hardware debug support.
-0; Hardware support for code and data breakpoints, such as address comparators and data value comparators or, with considerably more work involved, page fault hardware.
-0; 5 .
-0; JTAG access to hardware debug interfaces such as those on ARM architecture processors or using the Nexus command set.
-0; Processors used in embedded systems typically have extensive JTAG debug support.
-0; Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR.
-0; DebugWIRE, for example, uses bidirectional signaling on the RESET pin.
-0;.
-0;.
+0;The MD5 hashing algorithm is a one_way cryptographic function that accepts a message of any length as input and returns as output a fixed_length digest value to be used for authenticating the original message.
 0;.
 0;.
 0;.
 0;.
 0; .
-0; .
-0;.
-0;.
-0;.
-0;.
-0; .
-0; .
-0;Debugging, in computer programming and engineering, is a multistep process that involves identifying a problem, isolating the source of the problem, and then either correcting the problem or determining a way to work around it.
-0; The final step of debugging is to test the correction or workaround and make sure it works.
-0;.
-0;.
-0;.
-0;.
-0; .
-0; .
-0;These two types of debugging provide you with some very technical information.
-0; You can use it to do an online search for a possible solution or cause to the problem, or to provide additional information to our Customer Support when opening a ticket.
-0;This produces a file error_log.
-0;txt in your WordPress root directory.
-0; Make sure that the web server can create and write this file.
-0; If it cannot, use an FTP program to create the file and make it writable to Apache .
-0;This enables the WordPress native debug system and displays all PHP errors, notices and warnings.
-0; You can read more information about Debugging in WordPress here.
-0;The debugger is a program that can run your program one line at a time.
-0; Thus the debugger can show you exactly how the computer sees your code.
-0;In GDB to  remove  a breakpoint, type  del   , where   is the number of the breakpoint.
-0; Type  break  to list all the breakpoints.
+0;MD5 was most popular and widely used hash function for quite some years.
+0; The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
+0; It was adopted as Internet Standard RFC 1321.
+0; It is a 128_bit hash function.
+0; MD5 digests have been widely used in the software world to provide assurance about integrity of transferred file.
+0; For example, file servers often provide a pre_computed MD5 checksum for the files, so that a user can compare the checksum of the downloaded file to it.
+0; In 2004, collisions were found in MD5.
+0; An analytical attack was reported to be successful only in an hour by using computer cluster.
+0; This collision attack resulted in compromised MD5 and hence it is no longer recommended for use.
+0;The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
+0; It was adopted as Internet Standard RFC 1321.
+0; It is a 128_bit hash function.
+0;Thanks for A2A.
+0;Note.
+0;  Though MD5 is widely known, it is not a very secure hash.
+0; There exists many attacks such as rainbow table attack.
+0;  The security of the MD5 hash function is severely compromised.
+0; A collision attack exists that can find collisions within seconds on a computer with a 2.
+0;6 GHz Pentium 4 processor  complexity of 224.
+0;1 .
+0; Further, there is also a chosen_prefix collision attack that can produce a collision for two inputs with specified prefixes within hours, using off_the_shelf computing hardware .
+0; The ability to find collisions has been greatly aided by the use of off_the_shelf GPUs.
+0; On an NVIDIA GeForce 8400GS graphics processor, 16 18 million hashes per second can be computed.
+0; An NVIDIA GeForce 8800 Ultra can calculate more than 200 million hashes per second   Source.
+0;MD5   .
+0;The algorithm Message Digest 5 or MD5, it is a one_way cryptographic hash function.
+0; MD5 performs many binary operations on the  message  to compute a 128_bit  hash .

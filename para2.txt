@@ -1,32 +1,4 @@
-
-
-
-
-
-
-
-
-
-Hi,
-how many types of debugging modes avaiable in abap.
-PLz give me details
-Regards,
-Rani.
-
-abap
-
-
-
-
-
-
-
-
-Last Updated: December 2nd 2016 by Ashok Kumar Reddy
-Last Updated: December 2nd 2016 by Ashok Kumar Reddy
-Debugging techniques in SAP ABAP programming, working with debugging controls in SAP ABAP debugging
-These breakpoints have different behaviors in different types of coding blocks ex: Function Modules, Sub-routines etc.
-These breakpoints have different behaviors in different types of coding blocks ex: Function Modules, Sub-routines etc.
+By Bob Jenkins, September 01, 1997
 
 
 
@@ -37,40 +9,62 @@ These breakpoints have different behaviors in different types of coding blocks e
 
 
 
-May 22, 2012 by Pete 10 Comments
 
 
 
 
 
 
-The ABAP Debugger is used tool to execute and analyze programs line by line. Using it we can check the flow logic of a program and display runtime values of the variables. Currently, SAP offers two types of Debuggers: The Classic ABAP Debugger. The New ABAP Debugger.
-The ABAP Debugger is used tool to execute and analyze programs line by line. Using it we can check the flow logic of a program and display runtime values of the variables. Currently, SAP offers two types of Debuggers: The Classic ABAP Debugger. The New ABAP Debugger.
-The ABAP Debugger is used tool to execute and analyze programs line by line. Using it we can check the flow logic of a program and display runtime values of the variables. Currently, SAP offers two types of Debuggers: The Classic ABAP Debugger. The New ABAP Debugger.
-The ABAP Debugger is used tool to execute and analyze programs line by line. Using it we can check the flow logic of a program and display runtime values of the variables. Currently, SAP offers two types of Debuggers: The Classic ABAP Debugger. The New ABAP Debugger.
-The ABAP Debugger is used tool to execute and analyze programs line by line. Using it we can check the flow logic of a program and display runtime values of the variables. Currently, SAP offers two types of Debuggers: The Classic ABAP Debugger. The New ABAP Debugger.
+By John Boyer, January 01, 1998
 
 
 
 
 
 
-SAP ABAP
+
+
+More recently, Bob Jenkins presented a hashing function ("Algorithm Alley," DDJ, September 1997, also available electronically) that performs a complex mixing operation using 12 bytes at a time from the input key. By design, the bytes of the key have some affect on all regions of the hash value. Thus, the hash function suffers little or no information loss when the hash value is truncated to the table size. As Table 1 shows, the efficiency of Jenkins' hash function was far greater than the original HashPJW(), and even slightly better than HashJB() and the new HashPJW(). The run time using HashJB() is equivalent to HashJenkins() because the former uses slightly less CPU time to compute hash values.
+More recently, Bob Jenkins presented a hashing function ("Algorithm Alley," DDJ, September 1997, also available electronically) that performs a complex mixing operation using 12 bytes at a time from the input key. By design, the bytes of the key have some affect on all regions of the hash value. Thus, the hash function suffers little or no information loss when the hash value is truncated to the table size. As Table 1 shows, the efficiency of Jenkins' hash function was far greater than the original HashPJW(), and even slightly better than HashJB() and the new HashPJW(). The run time using HashJB() is equivalent to HashJenkins() because the former uses slightly less CPU time to compute hash values.
+More recently, Bob Jenkins presented a hashing function ("Algorithm Alley," DDJ, September 1997, also available electronically) that performs a complex mixing operation using 12 bytes at a time from the input key. By design, the bytes of the key have some affect on all regions of the hash value. Thus, the hash function suffers little or no information loss when the hash value is truncated to the table size. As Table 1 shows, the efficiency of Jenkins' hash function was far greater than the original HashPJW(), and even slightly better than HashJB() and the new HashPJW(). The run time using HashJB() is equivalent to HashJenkins() because the former uses slightly less CPU time to compute hash values.
+More recently, Bob Jenkins presented a hashing function ("Algorithm Alley," DDJ, September 1997, also available electronically) that performs a complex mixing operation using 12 bytes at a time from the input key. By design, the bytes of the key have some affect on all regions of the hash value. Thus, the hash function suffers little or no information loss when the hash value is truncated to the table size. As Table 1 shows, the efficiency of Jenkins' hash function was far greater than the original HashPJW(), and even slightly better than HashJB() and the new HashPJW(). The run time using HashJB() is equivalent to HashJenkins() because the former uses slightly less CPU time to compute hash values.
+More recently, Bob Jenkins presented a hashing function ("Algorithm Alley," DDJ, September 1997, also available electronically) that performs a complex mixing operation using 12 bytes at a time from the input key. By design, the bytes of the key have some affect on all regions of the hash value. Thus, the hash function suffers little or no information loss when the hash value is truncated to the table size. As Table 1 shows, the efficiency of Jenkins' hash function was far greater than the original HashPJW(), and even slightly better than HashJB() and the new HashPJW(). The run time using HashJB() is equivalent to HashJenkins() because the former uses slightly less CPU time to compute hash values.
+DDJ
 
 
 
-Learn basic ABAP concepts, crucial for debugging Describe the debugger capabilities Change the debugger layout to fit your needs Understand the breakpoints types and set the most suitable one Set watchpoints for conditional stops Work with advanced concepts like saving breakpoint that can be retrieved at anytime
-Learn basic ABAP concepts, crucial for debugging Describe the debugger capabilities Change the debugger layout to fit your needs Understand the breakpoints types and set the most suitable one Set watchpoints for conditional stops Work with advanced concepts like saving breakpoint that can be retrieved at anytime
-Learn basic ABAP concepts, crucial for debugging Describe the debugger capabilities Change the debugger layout to fit your needs Understand the breakpoints types and set the most suitable one Set watchpoints for conditional stops Work with advanced concepts like saving breakpoint that can be retrieved at anytime
-Learn basic ABAP concepts, crucial for debugging Describe the debugger capabilities Change the debugger layout to fit your needs Understand the breakpoints types and set the most suitable one Set watchpoints for conditional stops Work with advanced concepts like saving breakpoint that can be retrieved at anytime
-Learn basic ABAP concepts, crucial for debugging Describe the debugger capabilities Change the debugger layout to fit your needs Understand the breakpoints types and set the most suitable one Set watchpoints for conditional stops Work with advanced concepts like saving breakpoint that can be retrieved at anytime
-Learn basic ABAP concepts, crucial for debugging Describe the debugger capabilities Change the debugger layout to fit your needs Understand the breakpoints types and set the most suitable one Set watchpoints for conditional stops Work with advanced concepts like saving breakpoint that can be retrieved at anytime
 
 
 
-Debugger is a wonderful tool used by ABAP programmers to track down an issue in a given piece of code and also to understand the logic used by other programmer in writing that program.
-To start with, you can open debugger by setting breakpoints in the ABAP editor. Break points are of two types. These are Session Break Point and External Break Point.
-To start with, you can open debugger by setting breakpoints in the ABAP editor. Break points are of two types. These are Session Break Point and External Break Point.
-To start with, you can open debugger by setting breakpoints in the ABAP editor. Break points are of two types. These are Session Break Point and External Break Point.
-In case you need assistance on SAP NetWeaver Platform, please contact us.  Please send us your questions, comments or assistance request and our team would be glad to assist you.
-In case you need assistance on SAP NetWeaver Platform, please contact us.  Please send us your questions, comments or assistance request and our team would be glad to assist you.
+
+
+The Jenkins hash functions are a collection of (non-cryptographic) hash functions for multi-byte keys designed by Bob Jenkins. The first one was formally published in 1997.
+The Jenkins hash functions are a collection of (non-cryptographic) hash functions for multi-byte keys designed by Bob Jenkins. The first one was formally published in 1997.
+Русский
+
+
+Русский
+
+
+Русский
+
+
+I offer you a new hash function for hash table lookup that is faster and more thorough than the one you are using now. I also give you a way to verify that it is more thorough.
+I offer you a new hash function for hash table lookup that is faster and more thorough than the one you are using now. I also give you a way to verify that it is more thorough.
+I have three complaints against it. First, it's specific about how to reduce the size if you don't use all the bits, it's not just a mask. Increasing the result size by one bit gives you a completely different hash. If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets. If your algorithm has a sliding pointer for which buckets have been split, that just won't work with FNV. Second, it's linear. That means that widely separated things can cancel each other out at least as easily as nearby things. Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
+I have three complaints against it. First, it's specific about how to reduce the size if you don't use all the bits, it's not just a mask. Increasing the result size by one bit gives you a completely different hash. If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets. If your algorithm has a sliding pointer for which buckets have been split, that just won't work with FNV. Second, it's linear. That means that widely separated things can cancel each other out at least as easily as nearby things. Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
+I have three complaints against it. First, it's specific about how to reduce the size if you don't use all the bits, it's not just a mask. Increasing the result size by one bit gives you a completely different hash. If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets. If your algorithm has a sliding pointer for which buckets have been split, that just won't work with FNV. Second, it's linear. That means that widely separated things can cancel each other out at least as easily as nearby things. Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
+I have three complaints against it. First, it's specific about how to reduce the size if you don't use all the bits, it's not just a mask. Increasing the result size by one bit gives you a completely different hash. If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets. If your algorithm has a sliding pointer for which buckets have been split, that just won't work with FNV. Second, it's linear. That means that widely separated things can cancel each other out at least as easily as nearby things. Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
+I have three complaints against it. First, it's specific about how to reduce the size if you don't use all the bits, it's not just a mask. Increasing the result size by one bit gives you a completely different hash. If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets. If your algorithm has a sliding pointer for which buckets have been split, that just won't work with FNV. Second, it's linear. That means that widely separated things can cancel each other out at least as easily as nearby things. Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
+I have three complaints against it. First, it's specific about how to reduce the size if you don't use all the bits, it's not just a mask. Increasing the result size by one bit gives you a completely different hash. If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets. If your algorithm has a sliding pointer for which buckets have been split, that just won't work with FNV. Second, it's linear. That means that widely separated things can cancel each other out at least as easily as nearby things. Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
+I have three complaints against it. First, it's specific about how to reduce the size if you don't use all the bits, it's not just a mask. Increasing the result size by one bit gives you a completely different hash. If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets. If your algorithm has a sliding pointer for which buckets have been split, that just won't work with FNV. Second, it's linear. That means that widely separated things can cancel each other out at least as easily as nearby things. Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
+I have three complaints against it. First, it's specific about how to reduce the size if you don't use all the bits, it's not just a mask. Increasing the result size by one bit gives you a completely different hash. If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets. If your algorithm has a sliding pointer for which buckets have been split, that just won't work with FNV. Second, it's linear. That means that widely separated things can cancel each other out at least as easily as nearby things. Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
+The BDZ algorithm uses r-uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require O(n) bits to be stored. A hypergraph is the generalization of a standard undirected graph where each edge connects vertices. This idea is not new, see e.g. , but we have proceeded differently to achieve a space usage of O(n) bits rather than O(n log n) bits. Evaluation time for all schemes considered is constant. For r=3 we obtain a space usage of approximately 2.6n bits for an MPHF. More compact, and even simpler, representations can be achieved for larger m. For example, for m=1.23n we can get a space usage of 1.95n bits.
+The BDZ algorithm uses r-uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require O(n) bits to be stored. A hypergraph is the generalization of a standard undirected graph where each edge connects vertices. This idea is not new, see e.g. , but we have proceeded differently to achieve a space usage of O(n) bits rather than O(n log n) bits. Evaluation time for all schemes considered is constant. For r=3 we obtain a space usage of approximately 2.6n bits for an MPHF. More compact, and even simpler, representations can be achieved for larger m. For example, for m=1.23n we can get a space usage of 1.95n bits.
+The BDZ algorithm uses r-uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require O(n) bits to be stored. A hypergraph is the generalization of a standard undirected graph where each edge connects vertices. This idea is not new, see e.g. , but we have proceeded differently to achieve a space usage of O(n) bits rather than O(n log n) bits. Evaluation time for all schemes considered is constant. For r=3 we obtain a space usage of approximately 2.6n bits for an MPHF. More compact, and even simpler, representations can be achieved for larger m. For example, for m=1.23n we can get a space usage of 1.95n bits.
+The BDZ algorithm uses r-uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require O(n) bits to be stored. A hypergraph is the generalization of a standard undirected graph where each edge connects vertices. This idea is not new, see e.g. , but we have proceeded differently to achieve a space usage of O(n) bits rather than O(n log n) bits. Evaluation time for all schemes considered is constant. For r=3 we obtain a space usage of approximately 2.6n bits for an MPHF. More compact, and even simpler, representations can be achieved for larger m. For example, for m=1.23n we can get a space usage of 1.95n bits.
+The BDZ algorithm uses r-uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require O(n) bits to be stored. A hypergraph is the generalization of a standard undirected graph where each edge connects vertices. This idea is not new, see e.g. , but we have proceeded differently to achieve a space usage of O(n) bits rather than O(n log n) bits. Evaluation time for all schemes considered is constant. For r=3 we obtain a space usage of approximately 2.6n bits for an MPHF. More compact, and even simpler, representations can be achieved for larger m. For example, for m=1.23n we can get a space usage of 1.95n bits.
+The BDZ algorithm uses r-uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require O(n) bits to be stored. A hypergraph is the generalization of a standard undirected graph where each edge connects vertices. This idea is not new, see e.g. , but we have proceeded differently to achieve a space usage of O(n) bits rather than O(n log n) bits. Evaluation time for all schemes considered is constant. For r=3 we obtain a space usage of approximately 2.6n bits for an MPHF. More compact, and even simpler, representations can be achieved for larger m. For example, for m=1.23n we can get a space usage of 1.95n bits.
+The BDZ algorithm uses r-uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require O(n) bits to be stored. A hypergraph is the generalization of a standard undirected graph where each edge connects vertices. This idea is not new, see e.g. , but we have proceeded differently to achieve a space usage of O(n) bits rather than O(n log n) bits. Evaluation time for all schemes considered is constant. For r=3 we obtain a space usage of approximately 2.6n bits for an MPHF. More compact, and even simpler, representations can be achieved for larger m. For example, for m=1.23n we can get a space usage of 1.95n bits.
+The BDZ algorithm uses r-uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require O(n) bits to be stored. A hypergraph is the generalization of a standard undirected graph where each edge connects vertices. This idea is not new, see e.g. , but we have proceeded differently to achieve a space usage of O(n) bits rather than O(n log n) bits. Evaluation time for all schemes considered is constant. For r=3 we obtain a space usage of approximately 2.6n bits for an MPHF. More compact, and even simpler, representations can be achieved for larger m. For example, for m=1.23n we can get a space usage of 1.95n bits.
+The BDZ algorithm uses r-uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require O(n) bits to be stored. A hypergraph is the generalization of a standard undirected graph where each edge connects vertices. This idea is not new, see e.g. , but we have proceeded differently to achiev

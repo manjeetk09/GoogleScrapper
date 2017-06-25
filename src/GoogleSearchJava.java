@@ -209,9 +209,17 @@ public class GoogleSearchJava {
 
         System.out.println("Sizes:" + span_data.size() + ":" + link_data.size());
 
+        int limit = 0;
+        if(link_data.size() <= span_data.size())
+        {
+            limit = link_data.size();
+        }
+        else
+        {
+            limit = span_data.size();
+        }
 
-
-        for(int i=0; i<link_data.size();i++)
+        for(int i=0; i<limit;i++)
         {
             is_quick_ans_presnt = false;
             System.out.println(i);

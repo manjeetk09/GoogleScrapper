@@ -1,53 +1,42 @@
-Some widely used debuggers are.
- Firefox JavaScript debugger.
- GDB _ the GNU debugger.
- LLDB.
- Microsoft Visual Studio Debugger.
- Valgrind.
- WinDbg.
- Eclipse debugger API used in a range of IDEs.
- Eclipse IDE Nodeclipse .
- WDW, the OpenWatcom debugger.
+A hash function is any function that can be used to map data of arbitrary size to data of fixed size.
+ The values returned by a hash function are called hash values, hash codes, digests, or simply hashes.
+ One use is a data structure called a hash table, widely used in computer software for rapid data lookup.
+ Hash functions accelerate table or database lookup by detecting duplicated records in a large file.
+ An example is finding similar stretches in DNA sequences.
+ They are also useful in cryptography.
+ A cryptographic hash function allows one to easily verify that some input data maps to a given hash value, but if the input data is unknown, it is deliberately difficult to reconstruct it by knowing the stored hash value.
+ This is used for assuring integrity of transmitted data, and is the building block for HMACs, which provide message authentication.
+v.
+t.
+e.
 .
 .
-Some widely used debuggers are.
- Firefox JavaScript debugger.
- GDB _ the GNU debugger.
- LLDB.
- Microsoft Visual Studio Debugger.
- Valgrind.
- WinDbg.
- Eclipse debugger API used in a range of IDEs.
- Eclipse IDE Nodeclipse .
- WDW, the OpenWatcom debugger.
+A hash table is a collection of items which are stored in such a way as to make it easy to find them later.
+ Each position of the hash table, often called a slot, can hold an item and is named by an integer value starting at 0.
+ For example, we will have a slot named 0, a slot named 1, a slot named 2, and so on.
+ Initially, the hash table contains no items so every slot is empty.
+ We can implement a hash table by using a list with each element initialized to the special Python value None.
+ Figure 4 shows a hash table of size  .
+ In other words, there are m slots in the table, named 0 through 10.
+A hash function is any function that can be used to map data of arbitrary size to data of fixed size.
+ The values returned by a hash function are called hash values, hash codes, digests, or simply hashes.
+ One use is a data structure called a hash table, widely used in computer software for rapid data lookup.
+ Hash functions accelerate table or database lookup by detecting duplicated records in a large file.
+ An example is finding similar stretches in DNA sequences.
+ They are also useful in cryptography.
+ A cryptographic hash function allows one to easily verify that some input data maps to a given hash value, but if the input data is unknown, it is deliberately difficult to reconstruct it by knowing the stored hash value.
+ This is used for assuring integrity of transmitted data, and is the building block for HMACs, which provide message authentication.
+v.
+t.
+e.
 .
 .
-Many Eclipse perspectives, e g  the Java Development Tools , 1  provide a debugger front_end .
-Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 .
-DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  .
-GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution.
-Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend .
-KDbg   Part of the KDE development tools .
-Nemiver   A GDB frontend that integrates well in the GNOME desktop environment .
-xxgdb   X_window frontend for GDB and dbx debugger .
-Qt Creator   multi_platform frontend for GDB, CDB and LLDB .
-Allinea s DDT   a parallel and distributed front_end to a modified version of GDB .
-Xcode   contains a GDB front_end as well .
-SlickEdit   contains a GDB front_end as well .
-Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB .
-CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB .
-CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb .
-RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution.
+ FIXME.
+ say a few words about   universal hash function  .
 .
 .
-Using print statements for debugging a program is often not adequate or convenient.
- For example, the programmer may want to change the values of certain variables after observing the execution of the program till some point.
- For a large program it may be difficult to go back to the source program, make the necessary changes and rerun the program.
- Again, if such print statements are placed inside loops, it will produce output everytime the loop is executed though the programmer may be interested in only certain iterations of the loop.
- To overcome several such drawbacks of debugging by inserting extra statements in the program, there are a kind of tool called debugger that helps in debugging programs by giving the programmer some control over the execution of the program and some means of examining and modifying different program variables during runtime.
-Slide 8 of 20.
-Fortunately, there are programs called debuggers that help software developers find and eliminate bugs while they are writing programs.
- A debugger tells the programmer what types of errors it finds and often marks the exact lines of code where the bugs are found.
- Debuggers also allow programmers to run a program step by step so that they can determine exactly when and why a program crashes.
- Advanced debuggers provide detailed information about threads and memory being used by the program during each step of execution.
- You could say a powerful debugger program is like OFF  with 100  deet.
+Understand the difference between hash function and algorithm correctly.
+ The hash function generates a hash code by operating on two blocks of fixed_length binary data.
+What is a good Hash function  I saw a lot of hash function and applications in my data structures courses in college, but I mostly got that it s pretty hard to make a good hash function.
+ As a rule of thumb to avoid collisions my professor said that.
+For doing  normal  hash table lookups on basically any kind of data _ this one by Paul Hsieh is the best I ve ever used.

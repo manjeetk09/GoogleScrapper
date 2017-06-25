@@ -1,0 +1,36 @@
+0;Application code can contain various types of errors, or bugs.
+0; Most syntax errors are caught during compilation.
+0; However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+0;Summary.
+0; This paper describes some of the new and improved features of the Microsoft  Visual Studio  .
+0;NET debugger, such as cross_language debugging, debugging multiple processes across machines, and the generation of minidumps for C   applications.
+0; .
+0;You can also step between C   code to any .
+0;NET Framework language and vice versa.
+0; Code written for .
+0;NET_based applications can work with C   code through Platform Invoke, COM Interoperability, or through Managed Extensions for C  .
+0; You can seamlessly step into and debug from one language to the other, and again, the debugger will have a single callstack showing all the components.
+0; To enable debugging between the common language runtime code and C   code running natively, you need to change an option in your launching project settings.
+0; In Solution Explorer, locate your startup project .
+0; This is the project that gets launched when you press F5.
+0; To debug both runtime code and native code, the startup project has to be configured to support both types of debugging.
+0; To do this, open your project properties and select the Debugging folder under Configuration Properties.
+0; For Visual Basic .
+0;NET or Visual C   projects.
+0; Make sure the Enable Unmanaged Debugging option is selected.
+0; In Visual Basic, this option is selected via a checkbox.
+0; In Visual C  this is a drop_down list option.
+0; For Visual C   projects.
+0; Change the debugger type to Mixed.
+0; Note   The Auto option, another option, requires some explanation.
+0; It examines your executable file and attempts to determine whether the application will call both native and managed code.
+0; Based on the results of the analysis, the appropriate debuggers are used during debugging.
+0; A disadvantage of this approach is that if a project was written with managed extensions to C   and dynamically loaded native code, this will not be detected and you will not be able to debug the native code.
+0; Setting Mixed allows a developer to directly control the debugging options.
+0;Application code can contain various types of errors, or bugs.
+0; Most syntax errors are caught during compilation.
+0; However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+0;Application code can contain various types of errors, or bugs.
+0; Most syntax errors are caught during compilation.
+0; However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+0; For more information, see Debugging, Tracing, and Profiling.
