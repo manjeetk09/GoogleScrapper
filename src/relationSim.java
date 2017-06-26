@@ -43,7 +43,7 @@ public class relationSim
                 BufferedReader br1 = new BufferedReader(fr1);
                 String headPhrase = "";
 
-                while((headPhrase = br1.readLine()) != null){
+                while((headPhrase = br1.readLine()) != null){       //TODO check the format in which string is given to compare function
 //                for(int i = 0 ; i < head_phrase.size() ; i++){
 //                    Compare c = new Compare(info[2], head_phrase.get(i));
 //                    Compare d = new Compare(head_phrase.get(i), info[2]);

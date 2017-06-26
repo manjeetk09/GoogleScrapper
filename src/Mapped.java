@@ -296,7 +296,10 @@ public class Mapped {
         RakeScoreListSort ss = new RakeScoreListSort();
         Collections.sort(obj, ss);
 
-        Double max_final = obj.get(0).getFinal_score();
+        Double max_final = 0.0;
+        if(obj.size() != 0){
+            obj.get(0).getFinal_score();
+        }
         Double cutoff = max_final / 3.0;
         for(int i=0; i<obj.size(); i++)
         {

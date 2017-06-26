@@ -1,105 +1,66 @@
-An Entity can be any object, place, person or class.
-0.762: (An Entity; can be; any object , place , person or class)
-
- In E_R Diagram, an entity is represented using rectangles.
-0.725: (an entity; is represented in; E_R Diagram)
-
- Consider an example of an Organisation.
+To understand wireless sensor network algorithms for grouping the nodes.
 No extractions found.
 
- Employee, Manager, Department, Product and many more can be taken as entities from an Organisation.
-0.925: (Employee , Manager , Department , Product and many more; can be taken as; entities)
-
-C  .
+Theory.
 No extractions found.
 
-C  .
+                              .
 No extractions found.
 
-     .
+                                          .
 No extractions found.
 
-7 March 2012.
+                .
 No extractions found.
 
-.
+                                      .
 No extractions found.
 
-.
+                              .
 No extractions found.
 
-.
+                                          .
 No extractions found.
 
-ER diagram example with entity having attributes.
+                .
 No extractions found.
 
-.
+                                      .
 No extractions found.
 
-.
+Received 29 December 2012  Accepted 21 January 2013.
 No extractions found.
 
-.
+Every type of network, be it wired or wireless, will be influenced by several key factors for its efficient functioning.
 No extractions found.
 
-ER diagrams are visual tools that are used in the Entity_Relationship model initially proposed by Peter Chen in 1976 to create a uniform convention that considers both relational database and network views.
-0.736: (the Entity_Relationship model; be initially proposed in; 1976)
-0.706: (the Entity_Relationship model; be initially proposed by; Peter Chen)
-0.564: (relational database and network views; be considers by; a uniform convention)
+ Routing issue, applicable to all types of networks, is one among the several such key factors.
+0.777: (Routing issue , applicable; is; one)
 
- Chen envisioned the ER model as a conceptual modeling approach that views real world data as systems of entities and relationships.
-0.876: (Chen; envisioned the ER model as; a conceptual modeling approach that views real world data as systems of entities and relationships)
-0.85: (the ER model; be envisioned as; a conceptual modeling approach that views real world data as systems of entities and relationships)
-0.757: (a conceptual modeling approach; views real world data as; systems of entities)
-0.716: (Chen; envisioned; the ER model)
-0.564: (real world data; be views by; a conceptual modeling approach)
-
- Entities are data objects that maintain different relationships with each other.
+ Wireless Sensor Networks has not been exception to this.
 No extractions found.
 
- Additionally, entities are also described further using attributes.
+ Moreover, such issues are very critical due to severe resource constraints like efficient energy utilization, lifetime of network, and drastic environmental conditions in WSNs.
+0.809: (such issues; Moreover are very critical due to; severe resource constraints)
+0.567: (such issues; be drastic environmental conditions in; WSNs)
+
+ Neither hop_by_hop or neither direct reach ability is possible in case of WSNs.
+0.859: (neither direct reach ability; is possible in; case of WSNs)
+
+ In this regard, many routing protocols have been proposed to optimize the efficiency of WSNs amidst of above mentioned severe resource constraints.
+0.827: (many routing protocols; have been proposed to optimize; the efficiency of WSNs)
+0.572: (many routing protocols; have been proposed in; this regard)
+
+ Out of these, clustering algorithms have gained more importance, in increasing the life time of the WSN, because of their approach in cluster head selection and data aggregation.
 No extractions found.
 
- Since 1976, the ER model has been expanded and is sometimes used in business management, product development, and strategy formulations.
-0.664: (the ER model; has is sometimes used in; business management)
-0.572: (the ER model; has been expanded since; 1976)
+ LEACH is the first clustering routing protocol which is proven to be better compared to other such algorithms.
+0.817: (LEACH; is; the first clustering routing protocol which is proven to be better compared to other such algorithms)
 
- However, database design remains its primary application.
-0.629: (database design; However remains; its primary application)
+ This paper elaborately compares two important clustering protocols, namely LEACH and LEACH_C , using NS2 tool for several chosen scenarios, and analysis of simulation results against chosen performance metrics with latency and network lifetime being major among them.
+0.893: (This paper; elaborately compares; two important clustering protocols , namely LEACH and LEACH_C , using NS2 tool for several chosen scenarios , and analysis of simulation results)
+0.606: (latency and network lifetime; being major among; them)
 
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Here we are going to design an Entity Relationship model for a college database .
-0.685: (we; to design; an Entity Relationship model)
-0.507: (we; Here are going to design; an Entity Relationship model)
-
- Say we have the following statements.
-0.709: (we; have; the following statements)
-
-The ER model defines the conceptual view of a database.
-0.833: (The ER model; defines; the conceptual view of a database)
-
- It works around real_world entities and the associations among them.
-0.809: (It; works around; real_world entities and the associations)
-
- At view level, the ER model is considered a good option for designing databases.
-0.778: (the ER model; is considered; a good option)
-0.754: (the ER model; is considered at; view level)
-
-ER models are represented by ER diagrams.
-0.914: (ER models; are represented by; ER diagrams)
-
-The example database.
-No extractions found.
-
-.
-No extractions found.
+ The paper will be concluded by mentioning the observations made from analyses of results about these protocols.
+0.932: (the observations; made from; analyses of results)
 

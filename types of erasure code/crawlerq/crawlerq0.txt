@@ -1,0 +1,57 @@
+.
+.
+Erasure codes, which are also known as forward error correction codes, were developed more than 50 years ago.
+ Different types have emerged since that time.
+ In one of the earliest and most common types, Reed_Solomon, the data can be reconstructed using any combination of  k  symbols, or pieces of data, even if  m  symbols are lost or unavailable.
+ For example, in EC 10 16, six drives, nodes or geographic locations could be lost or unavailable, and the original file would still be recoverable.
+.
+.
+.
+.
+Erasure codes.
+ .
+ .
+.
+.
+.
+.
+.
+.
+Professor Miller does research on erasure coding and how to use it in storage systems.
+ In addition to his work at the university, Miller is a part_time employee at Pure Storage Inc.
+, which sells enterprise solid_state storage arrays.
+ Erasure coding is not the primary focus of his work at the company, and Pure Storage s products currently use no erasure coding beyond combinations of RAID 5 and RAID 6.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ .
+ .
+ .
+.
+.
+.
+ .
+ .
+ .
+.
+.
+RAID, or Redundant Array of Independent Disks, is a familiar concept to most IT professionals.
+ It s a way to spread data over a set of drives to prevent the loss of a drive causing permanent loss of data.
+ RAID falls into two categories.
+ Either a complete mirror image of the data is kept on a second drive  or parity blocks are added to the data so that failed blocks can be recovered.
+.
+ .
+ .
+ .
+.
+.

@@ -1,243 +1,216 @@
-1;https://en.wikipedia.org/wiki/Relational_model;idealized;1.0;0.09090909090909091;5.0;0
-1;https://en.wikipedia.org/wiki/Relational_model;simple;1.0;0.09090909090909091;5.0;0
-1;https://en.wikipedia.org/wiki/Relational_model;description;1.0;0.0;5.0;0
-1;https://en.wikipedia.org/wiki/Relational_model;relvars;1.0;0.0;5.0;0
-1;https://en.wikipedia.org/wiki/Relational_model;attributes;1.0;0.09090909090909091;2.5;0
-2;https://en.wikipedia.org/wiki/Relational_model;customer;1.0;0.09090909090909091;1.25;0
-3;https://en.wikipedia.org/wiki/Relational_model;order;1.0;0.09090909090909091;2.5;0
-4;https://en.wikipedia.org/wiki/Relational_model;order line;2.0;0.09090909090909091;5.0;0
-5;https://en.wikipedia.org/wiki/Relational_model;invoice;1.0;0.09090909090909091;5.0;0
-6;https://en.wikipedia.org/wiki/Relational_model;invoice line;2.0;0.09090909090909091;5.0;0
-7;https://en.wikipedia.org/wiki/Relational_model;product;1.0;0.09090909090909091;1.6666666666666667;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;set;1.0;0.03333333333333333;1.0;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;database tables;2.0;0.016666666666666666;5.0;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;ways;1.0;0.016666666666666666;5.0;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;reassembled;1.0;0.0;5.0;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;collection;1.0;0.016666666666666666;1.6666666666666667;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;data items organized;2.6666666666666665;0.016666666666666666;5.0;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;formally_described tables;2.0;0.016666666666666666;5.0;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;accessed;1.0;0.016666666666666666;5.0;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;relational database;2.0;0.05;1.6666666666666667;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;data;2.0;0.03333333333333333;1.6666666666666667;0
-16;http://searchsqlserver.techtarget.com/definition/relational-database;reorganize;1.0;0.016666666666666666;5.0;0
-17;http://searchsqlserver.techtarget.com/definition/relational-database;relational database;2.0;0.05;1.6666666666666667;0
-17;http://searchsqlserver.techtarget.com/definition/relational-database;invented;1.0;0.016666666666666666;5.0;0
-19;http://searchsqlserver.techtarget.com/definition/relational-database;codd;1.0;0.0;5.0;0
-19;http://searchsqlserver.techtarget.com/definition/relational-database;ibm;1.0;0.0;5.0;0
-28;http://searchsqlserver.techtarget.com/definition/relational-database;relational database;2.0;0.05;1.6666666666666667;0
-28;http://searchsqlserver.techtarget.com/definition/relational-database;data fitted;2.0;0.016666666666666666;5.0;0
-28;http://searchsqlserver.techtarget.com/definition/relational-database;set;1.0;0.03333333333333333;1.0;0
-28;http://searchsqlserver.techtarget.com/definition/relational-database;predefined categories;2.0;0.016666666666666666;5.0;0
-28;http://searchsqlserver.techtarget.com/definition/relational-database;tables;1.0;0.03333333333333333;0.8333333333333334;0
-29;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.05;1.25;0
-29;http://searchsqlserver.techtarget.com/definition/relational-database;data categories;2.0;0.016666666666666666;5.0;0
-29;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.05;5.0;0
-30;http://searchsqlserver.techtarget.com/definition/relational-database;unique instance;2.0;0.016666666666666666;5.0;0
-30;http://searchsqlserver.techtarget.com/definition/relational-database;data;1.0;0.03333333333333333;1.6666666666666667;0
-30;http://searchsqlserver.techtarget.com/definition/relational-database;categories defined;2.0;0.016666666666666666;5.0;0
-30;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.05;5.0;0
-30;http://searchsqlserver.techtarget.com/definition/relational-database;row;1.0;0.016666666666666666;5.0;0
-31;http://searchsqlserver.techtarget.com/definition/relational-database;customer;1.0;0.03333333333333333;1.6666666666666667;0
-31;http://searchsqlserver.techtarget.com/definition/relational-database;phone number;2.0;0.016666666666666666;5.0;0
-31;http://searchsqlserver.techtarget.com/definition/relational-database;address;1.0;0.016666666666666666;5.0;0
-31;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.05;1.25;0
-31;http://searchsqlserver.techtarget.com/definition/relational-database;include;1.0;0.016666666666666666;5.0;0
-31;http://searchsqlserver.techtarget.com/definition/relational-database;columns;1.0;0.05;5.0;0
-32;http://searchsqlserver.techtarget.com/definition/relational-database;table;1.0;0.05;1.25;0
-32;http://searchsqlserver.techtarget.com/definition/relational-database;describe;1.0;0.016666666666666666;5.0;0
-32;http://searchsqlserver.techtarget.com/definition/relational-database;order;1.0;0.016666666666666666;2.5;0
-33;http://searchsqlserver.techtarget.com/definition/relational-database;customer;1.0;0.03333333333333333;1.6666666666666667;0
-33;http://searchsqlserver.techtarget.com/definition/relational-database;date;1.0;0.03333333333333333;5.0;0
-33;http://searchsqlserver.techtarget.com/definition/relational-database;product;1.0;0.016666666666666666;1.6666666666666667;0
-33;http://searchsqlserver.techtarget.com/definition/relational-database;sales price;2.0;0.016666666666666666;5.0;0
-34;http://searchsqlserver.techtarget.com/definition/relational-database;view;1.0;0.03333333333333333;5.0;0
-34;http://searchsqlserver.techtarget.com/definition/relational-database;obtain;1.0;0.03333333333333333;5.0;0
-34;http://searchsqlserver.techtarget.com/definition/relational-database;user;1.0;0.016666666666666666;5.0;0
-34;http://searchsqlserver.techtarget.com/definition/relational-database;fitted;1.0;0.016666666666666666;5.0;0
-34;http://searchsqlserver.techtarget.com/definition/relational-database;database;1.0;0.016666666666666666;1.6666666666666667;0
-35;http://searchsqlserver.techtarget.com/definition/relational-database;customers;1.0;0.016666666666666666;5.0;0
-35;http://searchsqlserver.techtarget.com/definition/relational-database;branch office manager;3.0;0.016666666666666666;5.0;0
-35;http://searchsqlserver.techtarget.com/definition/relational-database;date;1.0;0.03333333333333333;5.0;0
-35;http://searchsqlserver.techtarget.com/definition/relational-database;report;1.0;0.03333333333333333;5.0;0
-35;http://searchsqlserver.techtarget.com/definition/relational-database;bought products;2.0;0.016666666666666666;5.0;0
-35;http://searchsqlserver.techtarget.com/definition/relational-database;view;1.0;0.03333333333333333;5.0;0
-36;http://searchsqlserver.techtarget.com/definition/relational-database;tables;1.0;0.03333333333333333;0.8333333333333334;0
-36;http://searchsqlserver.techtarget.com/definition/relational-database;needed;1.0;0.016666666666666666;5.0;0
-36;http://searchsqlserver.techtarget.com/definition/relational-database;company;1.0;0.016666666666666666;5.0;0
-36;http://searchsqlserver.techtarget.com/definition/relational-database;obtain;1.0;0.03333333333333333;5.0;0
-36;http://searchsqlserver.techtarget.com/definition/relational-database;paid;1.0;0.016666666666666666;5.0;0
-36;http://searchsqlserver.techtarget.com/definition/relational-database;report;1.0;0.03333333333333333;5.0;0
-36;http://searchsqlserver.techtarget.com/definition/relational-database;accounts;1.0;0.016666666666666666;5.0;0
-36;http://searchsqlserver.techtarget.com/definition/relational-database;financial services manager;3.0;0.016666666666666666;5.0;0
-45;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;world;1.0;0.038461538461538464;5.0;0
-45;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;inter_related relations;2.0;0.038461538461538464;5.0;0
-45;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;collection;1.0;0.038461538461538464;1.6666666666666667;0
-47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;fields;1.0;0.07692307692307693;1.0;0
-47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;attributes;1.0;0.038461538461538464;2.5;0
-47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;called columns;2.0;0.038461538461538464;5.0;0
-47;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;principal storage units;3.0;0.038461538461538464;5.0;0
-48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;content;1.0;0.038461538461538464;5.0;0
-48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;house;1.0;0.0;5.0;0
-48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;basic components;2.0;0.038461538461538464;5.0;0
-48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;data;1.0;0.038461538461538464;1.25;0
-48;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;broken;1.0;0.038461538461538464;5.0;0
-49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;information;1.0;0.0;5.0;0
-49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;deciding;1.0;0.038461538461538464;5.0;0
-49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;create;1.0;0.038461538461538464;5.0;0
-49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;generically;1.0;0.0;5.0;0
-49;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;fields;1.0;0.07692307692307693;1.0;0
-50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;information;1.0;0.0;5.0;0
-50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;database;1.0;0.038461538461538464;1.6666666666666667;0
-50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;avoiding;1.0;0.038461538461538464;5.0;0
-50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;item;1.0;0.038461538461538464;5.0;0
-50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;specifics;1.0;0.038461538461538464;5.0;0
-50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;common components;2.0;0.038461538461538464;5.0;0
-50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;distinguish;1.0;0.0;5.0;0
-50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;drawing;1.0;0.038461538461538464;5.0;0
-50;https://opentextbc.ca/dbdesign/chapter/chapter-7-the-relational-data-model/;store;1.0;0.038461538461538464;5.0;0
-52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;common model;2.25;0.008928571428571428;5.0;0
-52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;2.8333333333333335;0.03571428571428571;5.0;0
-52;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;industry today;2.0;0.008928571428571428;5.0;0
-53;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database;2.25;0.017857142857142856;1.25;0
-53;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational model developed;2.8333333333333335;0.008928571428571428;5.0;0
-53;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;based;1.0;0.026785714285714284;5.0;0
-55;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;codd;1.0;0.0;5.0;0
-56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;definition;1.0;0.008928571428571428;5.0;0
-56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;integrity constraints;2.0;0.008928571428571428;5.0;0
-56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;retrieval operations;2.0;0.008928571428571428;5.0;0
-56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;storage;1.0;0.008928571428571428;5.0;0
-56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;data structures;2.0;0.008928571428571428;5.0;0
-56;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database;2.0;0.017857142857142856;1.25;0
-57;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;organized;1.0;0.008928571428571428;5.0;0
-57;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;data;1.0;0.008928571428571428;1.25;0
-57;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667;0
-57;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relations;1.0;0.008928571428571428;5.0;0
-57;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;database;1.0;0.008928571428571428;1.6666666666666667;0
-58;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;table;1.0;0.026785714285714284;1.25;0
-58;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;record;1.0;0.008928571428571428;5.0;0
-58;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;1.6666666666666667;0
-58;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;collection;1.0;0.008928571428571428;1.6666666666666667;0
-58;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;records;1.0;0.008928571428571428;5.0;0
-59;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;table;1.0;0.026785714285714284;1.25;0
-59;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;future;1.0;0.008928571428571428;5.0;0
-59;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;contents;1.0;0.008928571428571428;5.0;0
-59;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;permanently saved;2.0;0.008928571428571428;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;searches;1.0;0.008928571428571428;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;specific values;2.0;0.008928571428571428;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;means;1.0;0.026785714285714284;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;keys;1.0;0.0;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;1.6666666666666667;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;designated;1.0;0.008928571428571428;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;entity;1.0;0.017857142857142856;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;field;1.0;0.008928571428571428;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;uniquely identify;2.0;0.008928571428571428;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;importantly;1.0;0.0;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;speed;1.0;0.008928571428571428;5.0;0
-74;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;indexing;1.0;0.008928571428571428;5.0;0
-75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;keys;1.0;0.0;5.0;0
-75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;2.0;0.03571428571428571;5.0;0
-75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;possibly;1.0;0.008928571428571428;5.0;0
-75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;important;1.0;0.008928571428571428;5.0;0
-75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign key;2.0;0.026785714285714284;5.0;0
-75;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;types;1.0;0.008928571428571428;5.0;0
-76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;2.0;0.03571428571428571;5.0;0
-76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;uniquely identifies;2.0;0.008928571428571428;5.0;0
-76;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;entity;1.0;0.017857142857142856;5.0;0
-77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;2.0;0.03571428571428571;5.0;0
-77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;table;1.0;0.026785714285714284;1.25;0
-77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;sits;1.0;0.008928571428571428;5.0;0
-77;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign key;2.0;0.026785714285714284;5.0;0
-78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign keys;2.0;0.008928571428571428;5.0;0
-78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;heart;1.0;0.0;5.0;0
-78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;ultimately;1.0;0.008928571428571428;5.0;0
-78;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;3.0;0.03571428571428571;5.0;0
-79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667;0
-79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;link data;2.0;0.008928571428571428;5.0;0
-79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;foreign key;2.0;0.026785714285714284;5.0;0
-79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;linkage;1.0;0.0;5.0;0
-79;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;pull data;2.0;0.008928571428571428;5.0;0
-80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667;0
-80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;set;1.0;0.008928571428571428;0.8333333333333334;0
-80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;1.6666666666666667;0
-80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;select related records;3.0;0.008928571428571428;5.0;0
-80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;values;1.5;0.008928571428571428;2.5;0
-80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;performed;1.0;0.008928571428571428;5.0;0
-80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;join operation;2.0;0.008928571428571428;5.0;0
-80;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;matching values;1.75;0.008928571428571428;5.0;0
-81;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;fields;1.0;0.03571428571428571;1.6666666666666667;0
-81;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;customer;1.0;0.008928571428571428;1.25;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;tables;1.0;0.044642857142857144;1.6666666666666667;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;pairs;1.0;0.008928571428571428;5.0;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;calculate;1.0;0.008928571428571428;5.0;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;products  table;1.3333333333333333;0.008928571428571428;5.0;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;sum;1.0;0.008928571428571428;5.0;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;bill;1.0;0.008928571428571428;5.0;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;product_code fields;2.0;0.008928571428571428;5.0;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;products ordered;2.0;0.008928571428571428;5.0;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;prices;1.0;0.008928571428571428;5.0;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;orders  table;1.3333333333333333;0.008928571428571428;5.0;0
-82;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;joining;1.0;0.0;5.0;0
-83;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;multiple fields;2.25;0.008928571428571428;5.0;0
-83;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;extended;1.0;0.008928571428571428;5.0;0
-83;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;joining multiple tables;2.8333333333333335;0.008928571428571428;5.0;0
-84;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relationships;1.0;0.0;5.0;0
-84;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;retrieval time;2.0;0.008928571428571428;5.0;0
-84;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;classed;1.0;0.008928571428571428;5.0;0
-84;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational databases;2.0;0.008928571428571428;5.0;0
-85;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;important role;2.0;0.008928571428571428;5.0;0
-85;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;primary key;2.0;0.03571428571428571;5.0;0
-85;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;called  determination;1.3333333333333333;0.008928571428571428;5.0;0
-86;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;attribute;1.0;0.008928571428571428;2.5;0
-86;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;determine;1.0;0.008928571428571428;5.0;0
-86;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;means;1.0;0.026785714285714284;5.0;0
-87;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;based;1.0;0.026785714285714284;5.0;0
-87;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;2.8333333333333335;0.03571428571428571;5.0;0
-87;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational algebra;2.25;0.008928571428571428;5.0;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;operations;1.0;0.008928571428571428;5.0;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;product;1.0;0.008928571428571428;1.6666666666666667;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;based;1.0;0.026785714285714284;5.0;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;means;1.0;0.026785714285714284;5.0;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;union;1.0;0.008928571428571428;5.0;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;project;1.0;0.008928571428571428;5.0;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;relational database model;3.0;0.03571428571428571;5.0;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;intersect;1.0;0.008928571428571428;5.0;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;join;1.0;0.0;5.0;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;difference;1.0;0.008928571428571428;5.0;0
-88;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;select;1.0;0.008928571428571428;5.0;0
-89;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;operation;1.0;0.008928571428571428;5.0;0
-89;http://databasemanagement.wikia.com/wiki/Relational_Database_Model;description;1.0;0.0;5.0;0
-103;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;parts;1.0;0.029411764705882353;5.0;0
-104;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;data structure;2.0;0.029411764705882353;5.0;0
-104;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;data manipulation;2.0;0.029411764705882353;5.0;0
-104;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;data integrity;2.0;0.029411764705882353;5.0;0
-105;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;represent data;2.0;0.029411764705882353;5.0;0
-106;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;data structure model;3.0;0.029411764705882353;5.0;0
-106;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;illustrated;1.0;0.0;5.0;0
-106;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;relation;1.0;0.029411764705882353;5.0;0
-106;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;basic;1.0;0.029411764705882353;5.0;0
-107;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;domain;1.0;0.058823529411764705;5.0;0
-107;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;concept;1.0;0.029411764705882353;5.0;0
-107;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;fundamental part;2.0;0.029411764705882353;5.0;0
-108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;set;1.0;0.08823529411764706;1.25;0
-108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;information _;2.0;0.0;5.0;0
-108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;domain combines;2.0;0.029411764705882353;5.0;0
-108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;allowable values;1.75;0.058823529411764705;5.0;0
-108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;pieces;1.0;0.029411764705882353;5.0;0
-108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;values;1.5;0.029411764705882353;2.5;0
-108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;semantics;1.0;0.029411764705882353;5.0;0
-108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;attribute;1.0;0.029411764705882353;2.5;0
-108;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;simply stated;2.0;0.029411764705882353;5.0;0
-109;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;allowable values;2.0;0.058823529411764705;5.0;0
-109;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;domain defines;2.0;0.029411764705882353;5.0;0
-109;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;set;1.0;0.08823529411764706;1.25;0
-109;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;words;1.0;0.029411764705882353;5.0;0
-110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;domain;1.0;0.058823529411764705;5.0;0
-110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;set;1.0;0.08823529411764706;1.25;0
-110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;marketing;1.0;0.029411764705882353;5.0;0
-110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;sales;1.0;0.029411764705882353;5.0;0
-110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;integers greater;2.0;0.029411764705882353;5.0;0
-110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;id column;2.0;0.029411764705882353;5.0;0
-110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;research;1.0;0.029411764705882353;5.0;0
-110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;dept column;2.0;0.029411764705882353;5.0;0
-110;http://www.diranieh.com/Database/RelationalDatabaseModel.htm;accountancy;1.0;0.0;5.0;0
+1;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread sends;1.75;0.029850746268656716;2.5;0
+1;http://stackoverflow.com/questions/3222375/what-is-message-passing;message;1.5;0.04477611940298507;1.25;0
+1;http://stackoverflow.com/questions/3222375/what-is-message-passing;java;1.0;0.0;5.0;0
+1;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread;1.5;0.029850746268656716;2.5;0
+1;http://stackoverflow.com/questions/3222375/what-is-message-passing;message passing;1.75;0.04477611940298507;0.7142857142857143;0
+2;http://stackoverflow.com/questions/3222375/what-is-message-passing;communicate;1.0;0.0;5.0;0
+2;http://stackoverflow.com/questions/3222375/what-is-message-passing;shared memory;2.0;0.014925373134328358;2.5;0
+2;http://stackoverflow.com/questions/3222375/what-is-message-passing;environments;1.0;0.0;5.0;0
+2;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread communication;2.0;0.014925373134328358;2.5;0
+2;http://stackoverflow.com/questions/3222375/what-is-message-passing;share semaphores;2.0;0.014925373134328358;2.5;0
+2;http://stackoverflow.com/questions/3222375/what-is-message-passing;synchronization;1.0;0.0;5.0;0
+2;http://stackoverflow.com/questions/3222375/what-is-message-passing;threads;1.0;0.014925373134328358;2.5;0
+2;http://stackoverflow.com/questions/3222375/what-is-message-passing;shared variables;2.0;0.014925373134328358;2.5;0
+2;http://stackoverflow.com/questions/3222375/what-is-message-passing;monitors;1.0;0.014925373134328358;2.5;0
+3;http://stackoverflow.com/questions/3222375/what-is-message-passing;shared memory platform;3.0;0.014925373134328358;2.5;0
+3;http://stackoverflow.com/questions/3222375/what-is-message-passing;message passing;2.0;0.04477611940298507;0.7142857142857143;0
+4;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.05970149253731343;1.0;0
+4;http://stackoverflow.com/questions/3222375/what-is-message-passing;operation;1.0;0.014925373134328358;2.5;0
+4;http://stackoverflow.com/questions/3222375/what-is-message-passing;messages;1.0;0.029850746268656716;1.6666666666666667;0
+4;http://stackoverflow.com/questions/3222375/what-is-message-passing;sendand received;2.0;0.014925373134328358;2.5;0
+4;http://stackoverflow.com/questions/3222375/what-is-message-passing;channel;1.0;0.014925373134328358;2.5;0
+5;http://stackoverflow.com/questions/3222375/what-is-message-passing;received;1.0;0.014925373134328358;2.5;0
+5;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver blocks;2.0;0.014925373134328358;2.5;0
+5;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender;1.5;0.04477611940298507;1.25;0
+5;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.05970149253731343;1.0;0
+5;http://stackoverflow.com/questions/3222375/what-is-message-passing;messages;1.0;0.029850746268656716;1.6666666666666667;0
+5;http://stackoverflow.com/questions/3222375/what-is-message-passing;send;1.0;0.014925373134328358;2.5;0
+5;http://stackoverflow.com/questions/3222375/what-is-message-passing;meaning;1.0;0.014925373134328358;2.5;0
+5;http://stackoverflow.com/questions/3222375/what-is-message-passing;passed synchronously;2.0;0.014925373134328358;2.5;0
+5;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender blocks;1.75;0.014925373134328358;2.5;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;information;1.0;0.0;5.0;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;code;1.0;0.014925373134328358;2.5;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;one_way flow;2.0;0.014925373134328358;2.5;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender;1.0;0.04477611940298507;1.25;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;time;1.0;0.014925373134328358;2.5;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;specific;1.5;0.014925373134328358;2.5;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;points;1.0;0.014925373134328358;2.5;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;synchronous message passing;3.0;0.014925373134328358;1.0;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver;1.0;0.029850746268656716;1.6666666666666667;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;specific instant;1.75;0.014925373134328358;2.5;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;called;1.0;0.014925373134328358;2.5;0
+6;http://stackoverflow.com/questions/3222375/what-is-message-passing;simple rendezvous;2.0;0.014925373134328358;2.5;0
+7;http://stackoverflow.com/questions/3222375/what-is-message-passing;chess game agent;3.0;0.014925373134328358;2.5;0
+8;http://stackoverflow.com/questions/3222375/what-is-message-passing;process messages synchronously;3.0;0.014925373134328358;2.5;0
+8;http://stackoverflow.com/questions/3222375/what-is-message-passing;agents;1.0;0.014925373134328358;2.5;0
+8;http://stackoverflow.com/questions/3222375/what-is-message-passing;handshaking;1.0;0.0;5.0;0
+8;http://stackoverflow.com/questions/3222375/what-is-message-passing;entire game;2.0;0.014925373134328358;2.5;0
+9;http://stackoverflow.com/questions/3222375/what-is-message-passing;asynchronous message passing;3.0;0.014925373134328358;2.5;0
+9;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender;1.0;0.04477611940298507;1.25;0
+9;http://stackoverflow.com/questions/3222375/what-is-message-passing;block;1.0;0.014925373134328358;2.5;0
+10;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.05970149253731343;1.0;0
+10;http://stackoverflow.com/questions/3222375/what-is-message-passing;buffered;1.0;0.014925373134328358;2.5;0
+10;http://stackoverflow.com/questions/3222375/what-is-message-passing;message;1.0;0.04477611940298507;1.25;0
+10;http://stackoverflow.com/questions/3222375/what-is-message-passing;queued;1.0;0.029850746268656716;1.6666666666666667;0
+10;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver waiting;2.0;0.014925373134328358;2.5;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;executed;1.0;0.014925373134328358;2.5;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;blocks;1.0;0.014925373134328358;2.5;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.05970149253731343;1.0;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver;1.0;0.029850746268656716;1.6666666666666667;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;buffered message;2.0;0.014925373134328358;2.5;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;queued;1.0;0.029850746268656716;1.6666666666666667;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread sends;1.75;0.029850746268656716;2.5;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;message;1.0;0.04477611940298507;1.25;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread;1.5;0.029850746268656716;2.5;0
+13;http://stackoverflow.com/questions/3222375/what-is-message-passing;provide;1.0;0.014925373134328358;5.0;0
+13;http://stackoverflow.com/questions/3222375/what-is-message-passing;java;1.0;0.0;5.0;0
+13;http://stackoverflow.com/questions/3222375/what-is-message-passing;message passing;2.0;0.04477611940298507;0.7142857142857143;0
+14;https://en.wikipedia.org/wiki/Message_passing;relies;1.0;0.013157894736842105;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;run;1.0;0.013157894736842105;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;invoke;1.0;0.013157894736842105;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;supporting infrastructure;2.0;0.013157894736842105;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;message passing sends;2.6666666666666665;0.013157894736842105;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;process;1.0;0.02631578947368421;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;actual code;2.0;0.013157894736842105;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;computer science;2.0;0.013157894736842105;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;message;2.0;0.013157894736842105;0.8333333333333334;0
+14;https://en.wikipedia.org/wiki/Message_passing;select;1.0;0.013157894736842105;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;function;1.0;0.013157894736842105;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;subroutine;1.0;0.013157894736842105;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;conventional programming;2.0;0.013157894736842105;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;process;1.0;0.02631578947368421;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;directly invoked;2.0;0.013157894736842105;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;message passing differs;3.0;0.013157894736842105;5.0;0
+16;https://en.wikipedia.org/wiki/Message_passing;models;1.0;0.013157894736842105;5.0;0
+16;https://en.wikipedia.org/wiki/Message_passing;object_oriented programming;2.0;0.013157894736842105;5.0;0
+16;https://en.wikipedia.org/wiki/Message_passing;concurrency;1.0;0.0;5.0;0
+16;https://en.wikipedia.org/wiki/Message_passing;key;1.0;0.0;5.0;0
+16;https://en.wikipedia.org/wiki/Message_passing;message passing;2.0;0.013157894736842105;0.5555555555555556;0
+19;https://en.wikipedia.org/wiki/Message_passing;conceptually;1.0;0.0;5.0;0
+19;https://en.wikipedia.org/wiki/Message_passing;synchronous message passing;3.0;0.039473684210526314;1.6666666666666667;0
+19;https://en.wikipedia.org/wiki/Message_passing;complex;1.0;0.013157894736842105;5.0;0
+19;https://en.wikipedia.org/wiki/Message_passing;advantage;1.0;0.013157894736842105;5.0;0
+20;https://en.wikipedia.org/wiki/Message_passing;message receiver;2.166666666665;0.013157894736842105;5.0;0
+20;https://en.wikipedia.org/wiki/Message_passing;function call;2.0;0.013157894736842105;5.0;0
+20;https://en.wikipedia.org/wiki/Message_passing;function caller;2.0;0.013157894736842105;5.0;0
+20;https://en.wikipedia.org/wiki/Message_passing;called function;2.0;0.013157894736842105;5.0;0
+20;https://en.wikipedia.org/wiki/Message_passing;message sender;2.166666666665;0.013157894736842105;5.0;0
+20;https://en.wikipedia.org/wiki/Message_passing;synchronous message passing;2.7777777777766666;0.039473684210526314;1.6666666666666667;0
+20;https://en.wikipedia.org/wiki/Message_passing;analogous;1.0;0.013157894736842105;5.0;0
+21;https://en.wikipedia.org/wiki/Message_passing;function calling;2.0;0.013157894736842105;5.0;0
+21;https://en.wikipedia.org/wiki/Message_passing;familiar;1.0;0.013157894736842105;5.0;0
+21;https://en.wikipedia.org/wiki/Message_passing;easy;1.0;0.013157894736842105;5.0;0
+22;https://en.wikipedia.org/wiki/Message_passing;receiving process completes;3.0;0.013157894736842105;5.0;0
+22;https://en.wikipedia.org/wiki/Message_passing;function caller stops;3.0;0.013157894736842105;5.0;0
+22;https://en.wikipedia.org/wiki/Message_passing;called function completes;3.0;0.013157894736842105;5.0;0
+22;https://en.wikipedia.org/wiki/Message_passing;sending process stops;3.0;0.013157894736842105;5.0;0
+23;https://en.wikipedia.org/wiki/Message_passing;applications;1.0;0.0;5.0;0
+24;https://en.wikipedia.org/wiki/Message_passing;distributed systems generally;3.0;0.013157894736842105;5.0;0
+24;https://en.wikipedia.org/wiki/Message_passing;usable;1.0;0.013157894736842105;5.0;0
+24;https://en.wikipedia.org/wiki/Message_passing;perform;1.0;0.013157894736842105;5.0;0
+24;https://en.wikipedia.org/wiki/Message_passing;exclusively;1.0;0.0;5.0;0
+24;https://en.wikipedia.org/wiki/Message_passing;large;1.0;0.0;5.0;0
+24;https://en.wikipedia.org/wiki/Message_passing;synchronous message passing;3.0;0.039473684210526314;1.6666666666666667;0
+25;https://en.wikipedia.org/wiki/Message_passing;subsystems;1.0;0.013157894736842105;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;kind;1.0;0.0;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;times;1.0;0.013157894736842105;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;large;1.0;0.0;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;continue;1.0;0.013157894736842105;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;systems;1.5;0.039473684210526314;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;maintenance;1.0;0.0;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;offline;1.0;0.0;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;operate;1.0;0.013157894736842105;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;open;1.0;0.013157894736842105;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;receiving input;2.0;0.013157894736842105;5.0;0
+25;https://en.wikipedia.org/wiki/Message_passing;distributed systems;1.75;0.013157894736842105;5.0;0
+31;https://en.wikipedia.org/wiki/Message_passing;support distributed objects;3.0;0.013157894736842105;5.0;0
+31;https://en.wikipedia.org/wiki/Message_passing;examples;1.0;0.013157894736842105;5.0;0
+31;https://en.wikipedia.org/wiki/Message_passing;systems;1.0;0.039473684210526314;5.0;0
+32;https://en.wikipedia.org/wiki/Message_passing;java rmi;2.0;0.013157894736842105;5.0;0
+32;https://en.wikipedia.org/wiki/Message_passing;corba;1.0;0.0;5.0;0
+32;https://en.wikipedia.org/wiki/Message_passing;onc rpc;2.0;0.013157894736842105;5.0;0
+32;https://en.wikipedia.org/wiki/Message_passing;soap;1.0;0.013157894736842105;5.0;0
+32;https://en.wikipedia.org/wiki/Message_passing;dcom;1.0;0.0;5.0;0
+33;https://en.wikipedia.org/wiki/Message_passing;qnx neutrino rtos;3.0;0.013157894736842105;5.0;0
+33;https://en.wikipedia.org/wiki/Message_passing;d_bus;1.0;0.013157894736842105;5.0;0
+33;https://en.wikipedia.org/wiki/Message_passing;net remoting;2.0;0.013157894736842105;5.0;0
+33;https://en.wikipedia.org/wiki/Message_passing;openbinder;1.0;0.0;5.0;0
+33;https://en.wikipedia.org/wiki/Message_passing;ctos;1.0;0.0;5.0;0
+34;https://en.wikipedia.org/wiki/Message_passing;implementation;1.0;0.0;5.0;0
+34;https://en.wikipedia.org/wiki/Message_passing;sending messages;2.0;0.013157894736842105;5.0;0
+34;https://en.wikipedia.org/wiki/Message_passing;distributed object systems;2.6666666666666665;0.013157894736842105;5.0;0
+34;https://en.wikipedia.org/wiki/Message_passing;systems;2.0;0.039473684210526314;5.0;0
+34;https://en.wikipedia.org/wiki/Message_passing;called  shared;1.3333333333333333;0.013157894736842105;5.0;0
+40;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;questions;1.0;0.08333333333333333;5.0;0
+41;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;0.7142857142857143;0
+42;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;support;1.0;0.16666666666666666;5.0;0
+42;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;java;1.0;0.0;5.0;0
+42;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;0.7142857142857143;0
+43;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;support;1.0;0.16666666666666666;5.0;0
+43;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;java;1.0;0.0;5.0;0
+43;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;0.7142857142857143;0
+44;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;groovy;1.0;0.08333333333333333;5.0;0
+44;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;demonstrates;1.0;0.0;5.0;0
+44;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;concept;1.0;0.08333333333333333;5.0;0
+44;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;power;1.0;0.08333333333333333;5.0;0
+45;http://programmingexamples.wikidot.com/message-passing-in-java;thread sends;1.75;0.01694915254237288;1.6666666666666667;0
+45;http://programmingexamples.wikidot.com/message-passing-in-java;message;1.0;0.03389830508474576;1.0;0
+45;http://programmingexamples.wikidot.com/message-passing-in-java;thread;1.5;0.01694915254237288;1.6666666666666667;0
+46;http://programmingexamples.wikidot.com/message-passing-in-java;communicate;1.0;0.0;5.0;0
+46;http://programmingexamples.wikidot.com/message-passing-in-java;shared memory;2.0;0.01694915254237288;2.5;0
+46;http://programmingexamples.wikidot.com/message-passing-in-java;environments;1.0;0.0;5.0;0
+46;http://programmingexamples.wikidot.com/message-passing-in-java;thread communication;2.0;0.01694915254237288;2.5;0
+46;http://programmingexamples.wikidot.com/message-passing-in-java;share semaphores;2.0;0.01694915254237288;2.5;0
+46;http://programmingexamples.wikidot.com/message-passing-in-java;synchronization;1.0;0.0;5.0;0
+46;http://programmingexamples.wikidot.com/message-passing-in-java;threads;1.0;0.01694915254237288;2.5;0
+46;http://programmingexamples.wikidot.com/message-passing-in-java;shared variables;2.0;0.01694915254237288;2.5;0
+46;http://programmingexamples.wikidot.com/message-passing-in-java;monitors;1.0;0.01694915254237288;2.5;0
+47;http://programmingexamples.wikidot.com/message-passing-in-java;shared memory platform;3.0;0.01694915254237288;2.5;0
+47;http://programmingexamples.wikidot.com/message-passing-in-java;message passing;2.0;0.01694915254237288;0.5555555555555556;0
+48;http://programmingexamples.wikidot.com/message-passing-in-java;receive;1.0;0.06779661016949153;1.0;0
+48;http://programmingexamples.wikidot.com/message-passing-in-java;operation;1.0;0.01694915254237288;2.5;0
+48;http://programmingexamples.wikidot.com/message-passing-in-java;messages;1.0;0.03389830508474576;1.6666666666666667;0
+48;http://programmingexamples.wikidot.com/message-passing-in-java;sendand received;2.0;0.01694915254237288;2.5;0
+48;http://programmingexamples.wikidot.com/message-passing-in-java;channel;1.0;0.01694915254237288;2.5;0
+49;http://programmingexamples.wikidot.com/message-passing-in-java;received;1.0;0.01694915254237288;2.5;0
+49;http://programmingexamples.wikidot.com/message-passing-in-java;receiver blocks;2.0;0.01694915254237288;2.5;0
+49;http://programmingexamples.wikidot.com/message-passing-in-java;sender;1.5;0.05084745762711865;1.25;0
+49;http://programmingexamples.wikidot.com/message-passing-in-java;receive;1.0;0.06779661016949153;1.0;0
+49;http://programmingexamples.wikidot.com/message-passing-in-java;messages;1.0;0.03389830508474576;1.6666666666666667;0
+49;http://programmingexamples.wikidot.com/message-passing-in-java;send;1.0;0.01694915254237288;2.5;0
+49;http://programmingexamples.wikidot.com/message-passing-in-java;meaning;1.0;0.01694915254237288;2.5;0
+49;http://programmingexamples.wikidot.com/message-passing-in-java;passed synchronously;2.0;0.01694915254237288;2.5;0
+49;http://programmingexamples.wikidot.com/message-passing-in-java;sender blocks;1.75;0.01694915254237288;2.5;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;information;1.0;0.0;5.0;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;code;1.0;0.01694915254237288;2.5;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;one_way flow;2.0;0.01694915254237288;2.5;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;sender;1.0;0.05084745762711865;1.25;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;time;1.0;0.01694915254237288;2.5;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;specific;1.5;0.01694915254237288;2.5;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;points;1.0;0.01694915254237288;2.5;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;synchronous message passing;3.0;0.01694915254237288;1.0;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;receiver;1.0;0.03389830508474576;1.6666666666666667;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;specific instant;1.75;0.01694915254237288;2.5;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;called;1.0;0.01694915254237288;2.5;0
+50;http://programmingexamples.wikidot.com/message-passing-in-java;simple rendezvous;2.0;0.01694915254237288;2.5;0
+51;http://programmingexamples.wikidot.com/message-passing-in-java;chess game agent;3.0;0.01694915254237288;2.5;0
+52;http://programmingexamples.wikidot.com/message-passing-in-java;process messages synchronously;3.0;0.01694915254237288;2.5;0
+52;http://programmingexamples.wikidot.com/message-passing-in-java;agents;1.0;0.01694915254237288;2.5;0
+52;http://programmingexamples.wikidot.com/message-passing-in-java;handshaking;1.0;0.0;5.0;0
+52;http://programmingexamples.wikidot.com/message-passing-in-java;entire game;2.0;0.01694915254237288;2.5;0
+53;http://programmingexamples.wikidot.com/message-passing-in-java;asynchronous message passing;3.0;0.01694915254237288;2.5;0
+53;http://programmingexamples.wikidot.com/message-passing-in-java;sender;1.0;0.05084745762711865;1.25;0
+53;http://programmingexamples.wikidot.com/message-passing-in-java;block;1.0;0.01694915254237288;2.5;0
+54;http://programmingexamples.wikidot.com/message-passing-in-java;receive;1.0;0.06779661016949153;1.0;0
+54;http://programmingexamples.wikidot.com/message-passing-in-java;buffered;1.0;0.01694915254237288;2.5;0
+54;http://programmingexamples.wikidot.com/message-passing-in-java;message;1.0;0.03389830508474576;1.0;0
+54;http://programmingexamples.wikidot.com/message-passing-in-java;queued;1.0;0.03389830508474576;1.6666666666666667;0
+54;http://programmingexamples.wikidot.com/message-passing-in-java;receiver waiting;2.0;0.01694915254237288;2.5;0
+55;http://programmingexamples.wikidot.com/message-passing-in-java;executed;1.0;0.01694915254237288;2.5;0
+55;http://programmingexamples.wikidot.com/message-passing-in-java;blocks;1.0;0.01694915254237288;2.5;0
+55;http://programmingexamples.wikidot.com/message-passing-in-java;receive;1.0;0.06779661016949153;1.0;0
+55;http://programmingexamples.wikidot.com/message-passing-in-java;receiver;1.0;0.03389830508474576;1.6666666666666667;0
+55;http://programmingexamples.wikidot.com/message-passing-in-java;buffered message;2.0;0.01694915254237288;2.5;0
+55;http://programmingexamples.wikidot.com/message-passing-in-java;queued;1.0;0.03389830508474576;1.6666666666666667;0
+57;http://sampleprogramz.com/java/msgpass.php;constructors;1.0;0.0;5.0;0
+57;http://sampleprogramz.com/java/msgpass.php;message passing;2.0;0.5;0.5555555555555556;0

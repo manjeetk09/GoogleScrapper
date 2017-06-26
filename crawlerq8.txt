@@ -1,20 +1,6 @@
-.
-.
-.
-.
-An object_relational database combines the two related structures.
-Physical data models include.
- Inverted index.
- Flat file.
-v.
-t.
-e.
-v.
-t.
-e.
-v.
-t.
-e.
+Mobility models represent the movement of mobile user, and how their location, velocity and acceleration change over time.
+ Such models are frequently used for simulation purposes when new communication or navigation techniques are investigated.
+ Mobility management schemes for mobile communication systems make use of mobility models for predicting future user positions.
 v.
 t.
 e.
@@ -23,26 +9,14 @@ t.
 e.
 .
 .
-A flat database is a simple database system in which each database is represented as a single table in which all of the records are stored as single rows of data, which are separated by delimiters such as tabs or commas.
- The table is usually stored and physically represented as a simple text file.
- Because of the limitations of flat databases, they are not unsuitable for most software applications in which there is a need to represent and store complex business relationships.
- However, some application developers still use flat files in order to reduce the cost and complexity of integrating a relational database.
- Flat databases are also sometimes referred to as flat_file databases.
+Bai, Fan  Helmy, Ahmed    A Survey of Mobility Models in Wireless Adhoc Networks     .
+J  Kammann, M  Angermann and B  Lami, A New Mobility Model Based on Maps, Proceedings of the 58th IEEE Semiannual Vehicular Technology Conference , Orlanda, USA, October 6_9, 2003.
+W K G  Seah et al ,  Mobility Modeling of Rush Hour Traffic for Multihop Routing in Mobile Wireless Networks , Proceedings of IEEE 64th Vehicular Technology Conference , 25_28 Sept  2006, Montreal, Quebec, Canada .
+v.
+t.
+e.
+v.
+t.
+e.
 .
 .
-.
-.
-.
-Alternatively referred to as a flat database or text database, a flat file is a file of data that does not contain links to other files or is a non_relational database.
- A good example of a flat file is a single text_only file that contains all the data needed for a program that is often separated by some kind of delimiter.
-Here is an example showing how to implement WFS Simple with a flat database in 3 easy steps.
-.
-.
-.
-.
- .
-.
-.
-.
-.
- .

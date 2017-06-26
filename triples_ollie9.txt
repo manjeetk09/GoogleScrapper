@@ -1,275 +1,93 @@
-Common logical data models for databases include.
+Due to the deficiencies of the previous strategies, routing protocols become necessary in wireless sensor networks.
+0.847: (routing protocols; become necessary in; wireless sensor networks)
+0.689: (routing protocols; become necessary to; the deficiencies of the previous strategies)
+
+ Nevertheless, the inclusion of a routing protocol in a wireless sensor network is not a trivial task.
+0.689: (the inclusion of a routing protocol; Nevertheless is; not a trivial task)
+0.478: (not a trivial task; be the inclusion of; a routing protocol)
+
+ One of the main limitations is the identification of nodes.
+0.93: (One of the main limitations; is the identification of; nodes)
+0.778: (One of the main limitations; is; the identification of nodes)
+
+ Since wireless sensor networks are formed by a significant number of nodes, the manual assignation of unique identifiers becomes infeasible .
+0.751: (the manual assignation of unique identifiers; becomes; infeasible)
+0.399: (infeasible; be the manual assignation of; unique identifiers)
+
+ The use of potentially unique identifier such as the MAC address or the GPS coordinates is not recommended as it forces a significant payload in the messages .
+0.605: (it; forces; a significant payload)
+
+ However, this drawback is easily overcome in wireless sensor networks since an IP address is not required to identify the destination node of a specific packet.
+0.907: (this drawback; However is easily overcome in; wireless sensor networks)[enabler=since an IP address is not required to identify the destination node of a specific packet]
+0.723: (an IP address; to identify; the destination node of a specific packet)
+
+ In fact, attribute_based addressing fits better with the specificities of wireless sensor networks.
 No extractions found.
 
- Hierarchical database model.
+ In this case, an attribute such as node location and sensor type is used to identify the final destination.
+0.754: (an attribute; is used in; this case)
+0.75: (an attribute; to identify; the final destination)
+
+Wireless sensor networks are formed by a significant number of nodes so the manual assignation of unique identifiers is infeasible.
+0.948: (Wireless sensor networks; are formed by; a significant number of nodes)[enabler=so the manual assignation of unique identifiers is infeasible]
+0.598: (the manual assignation of unique identifiers; is; infeasible)
+0.399: (infeasible; be the manual assignation of; unique identifiers)
+
+ The use of the MAC address or the GPS coordinates is not recommended as it introduces a significant payload .
+0.568: (it; introduces; a significant payload)
+
+ However, network_wide unique addresses are not needed to identify the destination node of a specific packet in wireless sensor networks.
+0.83: (network_wide unique addresses; to identify; the destination node of a specific packet)
+
+ In fact, attribute_based addressing fits better with the specificities of wireless sensor networks.
 No extractions found.
 
- Network model.
+ In this case, an attribute such as node location and sensor type is used to identify the final destination.
+0.754: (an attribute; is used in; this case)
+0.75: (an attribute; to identify; the final destination)
+
+ Concerning these identifiers, two different approaches have been proposed .
+0.628: (two different approaches; have been proposed concerning; these identifiers)
+
+ Firstly, the ID reuse scheme allows identifiers to be repeated in the network but keeping their uniqueness in close areas.
+0.894: (identifiers; to be repeated in; the network)
+0.743: (their uniqueness; be keeping in; close areas)
+
+ In this way, a node knows that its identifier is unique in a k_hop neighborhood, being k a parameter to configure.
+0.816: (a parameter; be k to; configure)
+0.802: (its identifier; is unique in; a k_hop neighborhood)[attrib=a node knows]
+0.753: (its identifier; is; unique)
+0.667: (a node; knows in; this way)
+
+ On the other hand, the field_wide unique ID schemes guarantee that the identifiers are unique in the whole application.
+0.744: (the identifiers; are unique in; the whole application)
+
+ With this assumption, other protocols such as routing, MAC or network configurations can be simultaneously used.
+0.754: (other protocols; can be simultaneously used with; this assumption)
+
+Routing in Wireless Sensor Networks plays a significant role in the field of environment_oriented monitoring, traffic monitoring, etc.
 No extractions found.
 
- Relational model.
+ Here, wide contributions that are made toward routing in WSN are explored.
 No extractions found.
 
- Entity relationship model Enhanced entity relationship model.
+ The paper mainly aims to categorize the routing problems and examines the routing_related optimization problems.
+0.782: (The paper; mainly aims to categorize the routing problems and examines; the routing_related optimization problems)
+
+ For achieving the motive, 50 papers from the standard journals are collected and primarily reviewed in a chronological way.
+0.892: (50 papers; be primarily reviewed in; a chronological way)
+
+ Later, various features that are related to energy, security, speed and reliability problems of routing are discussed.
 No extractions found.
 
- Object model.
+ Subsequently, the literature is analyzed based on the simulation environment and experimental setup, awareness over the Quality of Service and the deployment against various applications.
 No extractions found.
 
- Document model.
-No extractions found.
-
- Entity attribute value model.
-0.767: (Entity; attribute; value model)
-
- Star schema.
-No extractions found.
-
-Enhanced.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-There are many kinds of data models.
-No extractions found.
-
- Some of the most common ones include.
-No extractions found.
-
- Hierarchical database model.
-No extractions found.
-
- Relational model.
-No extractions found.
-
- Network model.
-No extractions found.
-
- Object_oriented database model.
-No extractions found.
-
- Entity_relationship model.
-No extractions found.
-
- Document model.
-No extractions found.
-
- Entity_attribute_value model.
-No extractions found.
-
- Star schema.
-No extractions found.
-
- The object_relational model, which combines the two that make up its name.
-0.736: (two that make up its name; be combines by; The object_relational model)
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Common logical data models for databases include.
-No extractions found.
-
- Hierarchical database model.
-No extractions found.
-
- Network model.
-No extractions found.
-
- Relational model.
-No extractions found.
-
- Entity relationship model Enhanced entity relationship model.
-No extractions found.
-
- Object model.
-No extractions found.
-
- Document model.
-No extractions found.
-
- Entity attribute value model.
-0.767: (Entity; attribute; value model)
-
- Star schema.
-No extractions found.
-
-Enhanced.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-Provide concepts that are close to the way people perceive data to present the data.
-0.773: (data; to present; the data)
-
- A typical example of this type is the entity relationship model which uses main concepts like entities, attributes, relationships.
-0.819: (the entity relationship model; uses main concepts like; entities)
-0.803: (A typical example of this type; is; the entity relationship model which uses main concepts like entities)
-0.792: (the entity relationship model which uses main concepts like entities; attributes; relationships)
-0.62: (main concepts; be uses by; the entity relationship model)
-0.55: (the entity relationship model which uses main concepts like entities; be A typical example of; this type)
-
- An entity represents a real_world object such as an employee, a project.
-0.659: (An entity; represents a real world object such as an employee; a project)
-0.605: (An entity; represents a project; a real_world object)
-
- An entity has some attributes which represents properties of entity such as employee s name, address, birthdate.
-0.82: (An entity; has; some attributes which represents properties of entity such as employee s name , address , birthdate)
-0.57: (employee; s; name)
-0.564: (properties of entity such; be represents by; some attributes)
-
- A relationship represents an association among entities, for example an employee works on many projects.
-0.847: (an employee; works on; many projects)[attrib=A relationship represents an association among entities]
-0.807: (A relationship; represents; an association)
-0.653: (an employee; represents an association among entities in; A relationship)
-0.307: (an employee; works for; example)[attrib=A relationship represents an association among entities]
-
- The relationship exists between employee and project.
-0.854: (The relationship; exists between; employee and project)
-
-.
-No extractions found.
-
-Database systems can be based on different data models or database models respectively.
-0.9: (Database systems; can be based on; different data models or database models)
-
- A data model is a collection of concepts and rules for the description of the structure of the database.
-0.939: (A data model; is a collection of; concepts and rules)
-0.922: (A data model; is a collection of concepts for; the description of the structure of the database)
-0.736: (A data model; is; a collection of concepts)
-
- Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
-0.74: (Structure of the database; means; the data types)
-
- The most often used data models are.
-No extractions found.
-
-Database systems can be based on different data models or database models respectively.
-0.9: (Database systems; can be based on; different data models or database models)
-
- A data model is a collection of concepts and rules for the description of the structure of the database.
-0.939: (A data model; is a collection of; concepts and rules)
-0.922: (A data model; is a collection of concepts for; the description of the structure of the database)
-0.736: (A data model; is; a collection of concepts)
-
- Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
-0.74: (Structure of the database; means; the data types)
-
- The most often used data models are.
-No extractions found.
-
-A Database model defines the logical design of data.
-0.833: (A Database model; defines; the logical design of data)
-
- The model describes the relationships between different parts of the data.
-0.807: (The model; describes; the relationships)
-0.303: (different; be parts of; the data)
-
- Historically, in database design, three models are commonly used.
-0.764: (three models; Historically are commonly used in; database design)
-
- They are, Hierarchical Model.
-No extractions found.
-
- Network Model.
-No extractions found.
-
- Relational Model.
-No extractions found.
-
-     .
-No extractions found.
-
-  .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-  .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-A model is a representation of reality,  real world  objects and events, associations.
-0.913: (A model; is a representation of; reality)
-0.736: (A model; is; a representation of reality)
-
- It is an abstraction that concentrates on the essential, inherent aspects an organization and ignores the accidental properties.
-0.716: (It; is; an abstraction that concentrates on the essential , inherent aspects an organization and ignores the accidental properties)
-
- A data model represents the organization itself.
-0.74: (A data model; represents; the organization)
-
- It should provide the basic concepts and notations that will allow database designers and end users unambiguously and accurately to communicate their understanding of the organizational data.
-0.773: (database designers and end users; to communicate; their understanding of the organizational data)
-0.734: (It; should provide; the basic concepts and notations that will allow database designers and end users unambiguously and accurately to communicate their understanding of the organizational data)
-
-Data models define how the logical structure of a database is modeled.
-No extractions found.
-
- Data Models are fundamental entities to introduce abstraction in a DBMS.
-0.691: (abstraction; to be introduce in; a DBMS.)
-
- Data models define how data is connected to each other and how they are processed and stored inside the system.
-0.92: (they; be stored inside; the system)[attrib=Data models define]
-0.894: (data; is connected to; each other)[attrib=Data models define]
-0.852: (they; is connected to; each other)[attrib=Data models define]
-0.807: (data; be stored inside; the system)[attrib=Data models define]
-
-Entity_Relationship Model is based on the notion of real_world entities and relationships among them.
-0.921: (Entity_Relationship Model; is based on; the notion of real_world entities)
-
- While formulating real_world scenario into the database model, the ER Model creates entity set, relationship set, general attributes and constraints.
-0.547: (formulating real_world scenario; creates; entity set)
+ In addition, the optimization of the routing algorithms and the meta_heuristic study of routing optimization are explored.
+0.754: (the optimization of the routing algorithms and the meta_heuristic study of routing optimization; are explored in; addition)
+
+ Routing is a vast area with numerous unsolved issues and hence, various research gaps along with future directions are also presented.
+0.905: (Routing; is a vast area with; numerous unsolved issues)
+0.795: (Routing; is; a vast area various research gaps along with future directions are also presented)
+0.655: (various research gaps; are also presented in; a vast area)
 

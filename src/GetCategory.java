@@ -163,10 +163,11 @@ public class GetCategory{
     public ArrayList<String> catgoryScore (String head_phrase1, String answer1) throws Exception{
         String head_phrase = head_phrase1.toLowerCase();
         String answer = answer1.toLowerCase();
+        String head_plural = head_phrase.replaceAll("^[a-zA-Z0-9_]","");
         String head = head_phrase;
-        String head_s = head + "s";
-        String head_es = head + "es";
-        String head_ies = head.substring(0,head.length() - 1) + "ies";
+        String head_s = head_plural + "s";
+        String head_es = head_plural + "es";
+        String head_ies = head_plural.substring(0,head.length() - 1) + "ies";
         ArrayList<String> res = new ArrayList<String>();
         double sum = 0;
 //        PorterStemmer p = new PorterStemmer();
@@ -529,6 +530,7 @@ public class GetCategory{
 
 class Category{
     private String name;
+    private String cleanName;
     private String url;
     private ArrayList<Category> categories;
     private int level;
@@ -539,6 +541,7 @@ class Category{
 
     public Category(String name, String url, ArrayList<Category> categories) {
         this.name = name;
+        this.cleanName = name.replaceAll("^[a-zA-Z0-9_]","");
         this.url = url;
         this.categories = categories;
         this.level = 0;
@@ -583,5 +586,13 @@ class Category{
         for(Category c : this.categories){
             c.setLevel(level);
         }
+    }
+
+    public String getCleanName() {
+        return cleanName;
+    }
+
+    public void setCleanName(String cleanName) {
+        this.cleanName = cleanName;
     }
 }

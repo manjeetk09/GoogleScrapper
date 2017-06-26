@@ -78,6 +78,7 @@ public class temp
         Elements results = doc.getElementsByTag("body");
 
         ArrayList<String> templates_final = new ArrayList<String>();
+        templates_final.add(searchTerm);
         int flag = 1;
         for(Element result : results)
         {
@@ -86,6 +87,7 @@ public class temp
             //System.out.println(answer);
             answer = answer.substring(1);
             //System.out.println(answer);
+
             answer = answer.substring(answer.indexOf("[")+1);
             //System.out.println(answer);
             if(!answer.contains(",")){
@@ -126,23 +128,21 @@ public class temp
 //            relationScrapper.relationFunc(searchTerm, 0, search);
 //            System.out.println("relation scrapper over");
 
-            //via Ollie
+            //Ollie
             parseOllie parseollie = new parseOllie();
             parseollie.parserOllie(0);
             relationSim relationsim = new relationSim();
             relationsim.relationSimilarity(0);
-//            SimilarityOllie similarityOllie = new SimilarityOllie();
-//            similarityOllie.similarityollie(0, search);
-            //System.out.println("i is:: " + 0);
+            //SimilarityOllie similarityOllie = new SimilarityOllie();
+            //similarityOllie.similarityollie(0, search);
 
-            //via POSTagger
-//            TriplePOS triplepos = new TriplePOS();
-//            triplepos.triplePOS(0);
-//            //System.out.println("triples created");
-//            parsePOS parsepos = new parsePOS();
-//            parsepos.parseFunc(0);
-//            similarity sim = new similarity();
-//            sim.similarityFunc(0, search);
+            //POSTagger
+            /*TriplePOS triplepos = new TriplePOS();
+            triplepos.triplePOS(0);
+            parsePOS parsepos = new parsePOS();
+            parsepos.parseFunc(0);
+            similarity sim = new similarity();
+            sim.similarityFunc(0, search);*/
 
             //RAKE
             TripleRake triplerake = new TripleRake();
@@ -251,7 +251,7 @@ public class temp
         mergeMappedUnmappedWiki.mergeFunc(head_entity);
 
         testCategory testCat = new testCategory();
-        testCat.testCatFunc(head_entity);
+        testCat.testCatFunc(head_wiki);
 
         MergeCatNoncat mergeCatNoncat = new MergeCatNoncat();
         mergeCatNoncat.mergeCatsNoncats();

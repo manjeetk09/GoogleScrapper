@@ -1,145 +1,51 @@
-1;The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
-1; Records  relationships form a treelike model.
-1; This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
-1; The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
-1; RDM Mobile is a newly designed embedded database for a mobile computer system.
-1;v.
-1;t.
-1;e.
-1;.
-1;.
-1;The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
-1; Records  relationships form a treelike model.
-1; This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
-1; The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
-1; RDM Mobile is a newly designed embedded database for a mobile computer system.
-1;v.
-1;t.
-1;e.
-1;.
-1;.
-0;The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
-0; Records  relationships form a treelike model.
-0; This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
-0; The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
-0; RDM Mobile is a newly designed embedded database for a mobile computer system.
-0;v.
-0;t.
-0;e.
+0;My questions are.
+0; What is message passing  .
+0; Is there any support for this  message passing  in C  , C  or Java .
+0;Is there any support for this  message passing  in C  , C  or Java .
+0;An example in Groovy that demonstrates the power of this concept.
+0;In computer science, message passing sends a message to a process and relies on the process and the supporting infrastructure to select and invoke the actual code to run.
+0; Message passing differs from conventional programming where a process, subroutine, or function is directly invoked by name.
+0; Message passing is key to some models of concurrency and object_oriented programming.
 0;.
 0;.
-0;The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS.
-0; Records  relationships form a treelike model.
-0; This structure is simple but inflexible because the relationship is confined to a one_to_many relationship.
-0; The IBM Information Management System and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data.
-0; RDM Mobile is a newly designed embedded database for a mobile computer system.
-0;v.
-0;t.
-0;e.
+0;One of the first examples of how this can be used was in the domain of computer graphics.
+0; There are all sorts of complexities involved in manipulating graphic objects.
+0; For example, simply using the right formula to compute the area of an enclosed shape will vary depending on if the shape is a triangle, rectangle, elipse, or circle.
+0; In traditional computer programming this would result in long IF_THEN statements testing what sort of object the shape was and calling the appropriate code.
+0; The object_oriented way to handle this is to define a class called Shape with subclasses such as Rectangle and Ellipse and then to simply send a message to any Shape asking it to compute its area.
+0; Each Shape object will then invoke the way code with the formula appropriate for that kind of object.
 0;.
 0;.
-0;For example, the following is the hierarchical schema of a company database.
-0;In hierarchical model, data is organized into a tree like structure with each record is having one parent record and many children.
-0; The main drawback of this model is that, it can have only one to many relationships between nodes.
-0;Example of hierarchical data represented as relational tables.
-0; The above hierarchical model can be represented as relational tables like this.
-0;The hierarchical model was the first database model developed to overcome the limitations of the traditional file system.
-0;  Hierarchical databases were predominantly used for transaction processing where the volume of transactions is large and the transaction operations change little over time.
-0;  For example, the hierarchical database model was particularly popular with banks, because, the way in which banks process savings transactions seldom varies.
-0; .
-0;    .
-0;    .
-0;By admin.
-0;July 29, 2015.
-0;Data Models,Database,Question Bank of DBMS.
-0;Database DBMS Introduction   ER Models Introduction to Database and DBMS Database and DBMS   Intro DBMS vs File System and Disadvantages of File System Advantages and Disadvantage of DBMS Components of DBMS Execution Steps of DBMS Architecture of DBMS ER Diagrams and ER Models ER Model Type of Attributes with Example Types of Relationships Relationship Constraints Entity and its Types Composite Entity with Example Supertype and Subtype with Example Identifying and Non Identifying Relationships Generalization Specialization and Aggregation How to Draw ER Diagram   Steps    ER Diagram Examples   Set 1 ER Diagram Examples   Set   2 Close Data Models   Database Keys Data Models in DBMS Data Models Hierarchical Model Network Model ER MODEL Relational Model Schema and Instance of Database Relational Database Database Keys in DBMS Keys in DBMS Questions on Super Keys and Candidate Keys Close Constraints in DBMS Types of Constraints or Relational Constraints Constraint violations during insert operation Constraint Violations during delete operation Constraint Violations during Update Operations Questions on Constraint Violations   Close Functional Dependency   their Applications Functional Dependencies and their Types Functional Dependency with Examples Types of Functional Dependency Trivial and Non Trivial FD Inference Rules For FD Applications of Functional Dependencies Closure of FD FD Set Closure Membership Test for FD Finding Super Key From FD Finding Candidate Key using FD Questions on Super Keys and Candidate Keys Prime and Non Prime Attributes Equivalence of Sets of FD Minimal Cover Canonical Cover Minimal Cover   Questions Close Normalization   Normal Forms Normalization Normalisation Lossless Join Questions on Lossless Join Lossy Join Decomposition Dependency Preserving Decomposition Question on Dependency Preserving Decomposition Normal Forms and Classification of Dependencies 1NF 2NF 3NF BCNF Multivalued Dependency Join Dependencies and 5NF Classification of Dependencies Normal Forms Shortcuts for Gate Students Questions on Normal Forms Question 1 Question 2 Question 3 Question 4 Question 5 Close SQL, Relational Algebra   Calculus SQL and Some Questions SQL DDL Commands DML Commands DCL Commands Integrity Constraints Primary Key and Foreign Key Constraint Complete Format of SELECT Command Query and Subquery in SQL Operators in SQL with Example SQL Like Operator Queries on SQL Operators Joins in SQL Create View Command Questions on SQL Set 1 Set 2 Set 3 Set 4 Set 5 Set 6 Relational Algebra Relational Algebra Questions   Set 1 Questions   Set 2 Relational Calculus   some Questions Close Transaction in DBMS What is a Transaction in DBMS   ACID Properties Serial and Concurrent Schedule Concurrency Problems in Transaction Classification of schedule based on recovery How to check for Conflict Serializable Schedule   Implementation of Transaction in SQL Concurrency Control Protocol Serializability in Database How to check for View Serializable Schedule   Questions on Conflict Serializable Questions on View Serializable Difference between conflict and view equivalent Binary Locks Shared and Exclusive Locks 2 Phase Locking Deadlock in Transaction Starvation in Deadlock Timestamp Ordering Protocols Thomas write rule Questions on Timestamp Ordering Multiple Granularity Locking Protocol Close Close.
-0;Question Bank of DBMS DBMS GATE Questions GATE Questions Yearwise Gate 2003 Gate 2004 Gate 2005 Gate 2006 Gate 2007 Gate 2008 Gate 2009 Gate 2010 GATE Questions Topicwise ER, Relational Model and AlgebraNormalization 1997   2008 SQL Transaction Management B  Trees   1997   2008 Close Practice Questions A Mix of Relational Model, Relational Algebra, ER Model, and SQL Level 1 Questions   Set 1 Level 1 Questions   Set_2 Level 2 Questions Level 3 Questions Normalization and Transaction Management Questions on Normalisation Questions on Transaction Management SQL and File Organisation _ B Trees SQL   Level 1 Questions SQL   Level 2 and Level 3 Questions File Organization   Level 1 File Organisation   Level 2 and 3 Close Some Solved Questions on DBMS ER Model, Relational Model, Relational Algebra   Calculus ER Diagram   1 ER Diagram   2 Conversion of ERM to RM Relational Algebra   1 Relational Algebra   2 Relational Calculus Questions on SQL SQL   1 SQL   2 SQL   3 SQL   4 SQL   5 SQL   6 Queries on SQL Operators   1 Queries on SQL Operators   2 Close Close.
-0;C and C   Introduction Basics Basics of C   My First Program in C and C     Explanation Input Output Types of errors Data Types, Modifiers, Variables and Constants Data types Data Type Modifiers Variables and Constants Close Operators   Expressions Types of Operators What are Operators   Arithmetic Operators Increment  Decrement Relational Operators Shift Operators Logical Operators Bitwise Operators Conditional Operators Assignment Operators and C   Shorthands Some Other Operators Expressions, Type Conversion and Type Casting What are Expressions   Type Conversion and Type Casting Close Flow of Control Statements and its Flow Control Selection Statements If and Switch Statement Difference Between If Else and Conditional Operator Switch Statement Difference Between if and switch Iteration Statements For Loop While and Do while Loops Difference Between for, while and do while Loop Nested Loops with example Close C   for GATE Pointers Pointers in C for GATE Students Basic Programs on Pointers in C for Gate Students Arithmetic Operations on Pointers for GATE Students Arrays   Pointers Pointer to Array or Access Multidimensional Arrays Using Pointers Arrays and Pointers in C Examples for GATE Students Programs on Pointer to Array Structure   Pointers Pointer to Structure   Basics Pointer to Structure Example Functions and Pointers Function Pointer in C Close Miscellaneous Topics How Integer Data Type is Stored in Memory   Memory Layout in c Memory Layout of C   Dynamic Memory Allocation in C with Example Close Close.
-0;Operating system Introduction   Basics Introduction _ Basics Operating System and their goals, System Calls Types of Operating System Close Process Management Process Management Process management in Operating System Process State diagram Process Categorisation on the basis of execution time Degree Of Multiprogramming Types of Scheduler and Scheduling Criterias Types of Scheduler OS   Questions Scheduling Criteria CPU Scheduling Questions on CPU SchedulingQuestions on CPU schedulingQuestions on CPU SchedulingQuestions on CPU SchedulingLongest Remaining Time First _Questions Questions on Round Robin Scheduling Close Close.
-0;MBA 4th Semester Entrepreneurship Development Introduction to Entrepreneurship Characteristics of an Entrepreneur Qualities of an Entrepreneur Entrepreneurship and Intrapreneurship Entrepreneurship and Economic Development Role of Entrepreneurs in Economic Development of a Country Procedure To Start Up Your Own Business Methods to Expand Your Business Life Cycle of New Business Start up a Small Scale Entrepreneurship Small Business and Large Business Relationship Rural entrepreneurship Ethics and Entrepreneurship Entrepreneurship Development Programme Problems Faced by EDPs Close Close.
-0;DBMS Introduction   ER Models Introduction to Database and DBMS Database and DBMS   Intro DBMS vs File System and Disadvantages of File System Advantages and Disadvantage of DBMS Components of DBMS Execution Steps of DBMS Architecture of DBMS ER Diagrams and ER Models ER Model Type of Attributes with Example Types of Relationships Relationship Constraints Entity and its Types Composite Entity with Example Supertype and Subtype with Example Identifying and Non Identifying Relationships Generalization Specialization and Aggregation How to Draw ER Diagram   Steps    ER Diagram Examples   Set 1 ER Diagram Examples   Set   2 Close Data Models   Database Keys Data Models in DBMS Data Models Hierarchical Model Network Model ER MODEL Relational Model Schema and Instance of Database Relational Database Database Keys in DBMS Keys in DBMS Questions on Super Keys and Candidate Keys Close Constraints in DBMS Types of Constraints or Relational Constraints Constraint violations during insert operation Constraint Violations during delete operation Constraint Violations during Update Operations Questions on Constraint Violations   Close Functional Dependency   their Applications Functional Dependencies and their Types Functional Dependency with Examples Types of Functional Dependency Trivial and Non Trivial FD Inference Rules For FD Applications of Functional Dependencies Closure of FD FD Set Closure Membership Test for FD Finding Super Key From FD Finding Candidate Key using FD Questions on Super Keys and Candidate Keys Prime and Non Prime Attributes Equivalence of Sets of FD Minimal Cover Canonical Cover Minimal Cover   Questions Close Normalization   Normal Forms Normalization Normalisation Lossless Join Questions on Lossless Join Lossy Join Decomposition Dependency Preserving Decomposition Question on Dependency Preserving Decomposition Normal Forms and Classification of Dependencies 1NF 2NF 3NF BCNF Multivalued Dependency Join Dependencies and 5NF Classification of Dependencies Normal Forms Shortcuts for Gate Students Questions on Normal Forms Question 1 Question 2 Question 3 Question 4 Question 5 Close SQL, Relational Algebra   Calculus SQL and Some Questions SQL DDL Commands DML Commands DCL Commands Integrity Constraints Primary Key and Foreign Key Constraint Complete Format of SELECT Command Query and Subquery in SQL Operators in SQL with Example SQL Like Operator Queries on SQL Operators Joins in SQL Create View Command Questions on SQL Set 1 Set 2 Set 3 Set 4 Set 5 Set 6 Relational Algebra Relational Algebra Questions   Set 1 Questions   Set 2 Relational Calculus   some Questions Close Transaction in DBMS What is a Transaction in DBMS   ACID Properties Serial and Concurrent Schedule Concurrency Problems in Transaction Classification of schedule based on recovery How to check for Conflict Serializable Schedule   Implementation of Transaction in SQL Concurrency Control Protocol Serializability in Database How to check for View Serializable Schedule   Questions on Conflict Serializable Questions on View Serializable Difference between conflict and view equivalent Binary Locks Shared and Exclusive Locks 2 Phase Locking Deadlock in Transaction Starvation in Deadlock Timestamp Ordering Protocols Thomas write rule Questions on Timestamp Ordering Multiple Granularity Locking Protocol Close.
-0;Close.
-0;DBMS Introduction   ER Models Introduction to Database and DBMS Database and DBMS   Intro DBMS vs File System and Disadvantages of File System Advantages and Disadvantage of DBMS Components of DBMS Execution Steps of DBMS Architecture of DBMS ER Diagrams and ER Models ER Model Type of Attributes with Example Types of Relationships Relationship Constraints Entity and its Types Composite Entity with Example Supertype and Subtype with Example Identifying and Non Identifying Relationships Generalization Specialization and Aggregation How to Draw ER Diagram   Steps    ER Diagram Examples   Set 1 ER Diagram Examples   Set   2 Close.
-0;Data Models   Database Keys Data Models in DBMS Data Models Hierarchical Model Network Model ER MODEL Relational Model Schema and Instance of Database Relational Database Database Keys in DBMS Keys in DBMS Questions on Super Keys and Candidate Keys Close.
-0;Constraints in DBMS Types of Constraints or Relational Constraints Constraint violations during insert operation Constraint Violations during delete operation Constraint Violations during Update Operations Questions on Constraint Violations   Close.
-0;Functional Dependency   their Applications Functional Dependencies and their Types Functional Dependency with Examples Types of Functional Dependency Trivial and Non Trivial FD Inference Rules For FD Applications of Functional Dependencies Closure of FD FD Set Closure Membership Test for FD Finding Super Key From FD Finding Candidate Key using FD Questions on Super Keys and Candidate Keys Prime and Non Prime Attributes Equivalence of Sets of FD Minimal Cover Canonical Cover Minimal Cover   Questions Close.
-0;Normalization   Normal Forms Normalization Normalisation Lossless Join Questions on Lossless Join Lossy Join Decomposition Dependency Preserving Decomposition Question on Dependency Preserving Decomposition Normal Forms and Classification of Dependencies 1NF 2NF 3NF BCNF Multivalued Dependency Join Dependencies and 5NF Classification of Dependencies Normal Forms Shortcuts for Gate Students Questions on Normal Forms Question 1 Question 2 Question 3 Question 4 Question 5 Close.
-0;SQL, Relational Algebra   Calculus SQL and Some Questions SQL DDL Commands DML Commands DCL Commands Integrity Constraints Primary Key and Foreign Key Constraint Complete Format of SELECT Command Query and Subquery in SQL Operators in SQL with Example SQL Like Operator Queries on SQL Operators Joins in SQL Create View Command Questions on SQL Set 1 Set 2 Set 3 Set 4 Set 5 Set 6 Relational Algebra Relational Algebra Questions   Set 1 Questions   Set 2 Relational Calculus   some Questions Close.
-0;Transaction in DBMS What is a Transaction in DBMS   ACID Properties Serial and Concurrent Schedule Concurrency Problems in Transaction Classification of schedule based on recovery How to check for Conflict Serializable Schedule   Implementation of Transaction in SQL Concurrency Control Protocol Serializability in Database How to check for View Serializable Schedule   Questions on Conflict Serializable Questions on View Serializable Difference between conflict and view equivalent Binary Locks Shared and Exclusive Locks 2 Phase Locking Deadlock in Transaction Starvation in Deadlock Timestamp Ordering Protocols Thomas write rule Questions on Timestamp Ordering Multiple Granularity Locking Protocol Close.
-0;In figure 1, the node at level 1 is called the root node and the nodes at that has no children are called leaves  For example, node 4, 5, 7, 8, 9, 10 and 11 .
-0;Nodes that are children of the same parent are called siblings  For example, nodes 2, 3, 4 are siblings .
-0;For any node there is a single path called the hierarchical path from the root node  The nodes along this path are called that nodes ancestors .
-0;Similarly for a given node, any node along a path from that node to leaf is called its descendent .
-0;For example, suppose we have to find out the hierarchical path of node 10, then it will be 1 2 6 10 and the ancestors of node 10 are 1, 2 and 6 .
-0;The height of tree is the number of levels on the longest hierarchical path from the root to a leaf  The above tree has a height  4 .
-0;A tree is said to be balanced if every path from the root node to a leaf has the same length .
-0;The Hierarchical Data Model is a way of organizing a database with multiple one to many relationships.
-0;  The structure is based on the rule that one parent can have many children but children are allowed only one parent.
-0;  This structure allows information to be repeated through the parent child relations created by IBM and was implemented mainly in their Information Management System.
-0; , the precursor to the DBMS.
-0;  Advantages.
-0; The model allows easy addition and deletion of new information.
-0;  Data at the top of the Hierarchy is very fast to access.
-0;  It was very easy to work with the model because it worked well with linear type data storage such as tapes.
-0;  The model relates very well to natural hierarchies such as assembly plants and employee organization in corporations.
-0;  It relates well to anything that works through a one to many relationship.
-0;  For example  there is a president with many managers below them, and those managers have many employees below them, but each employee has only one manager.
-0; ga1111 Disadvantages.
-0; This model has many issues that hold it back now that we require more sophisticated relationships.
-0;  It requires data to be repetitively stored in many different entities.
-0;  The database can be very slow when searching for information on the lower entities.
-0;  We no longer use linear data storage mediums such as tapes so that advantage is null.
-0;  Searching for data requires the DBMS to run through the entire model from top to bottom until the required information is found, making queries very slow.
-0;  Can only model one to many relationships, many to many relationships are not supported.
-0;  Clever manipulation of the model are required to make many to may relationships.
-0;  For example  what if a professor teaches classes, and is also a graduate student  .
+0;Synchronous message passing is what typical object_oriented programming languages such as Java and Smalltalk use.
+0; Asynchronous message passing requires additional capabilities for storing and retransmitting data for systems that may not run concurrently.
 0;.
 0;.
 0;.
 0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;The Hierarchical Data Model is a way of organizing a database with multiple one to many relationships.
-0;  The structure is based on the rule that one parent can have many children but children are allowed only one parent.
-0;  This structure allows information to be repeated through the parent child relations created by IBM and was implemented mainly in their Information Management System.
-0; , the precursor to the DBMS.
-0;  Advantages.
-0; The model allows easy addition and deletion of new information.
-0;  Data at the top of the Hierarchy is very fast to access.
-0;  It was very easy to work with the model because it worked well with linear type data storage such as tapes.
-0;  The model relates very well to natural hierarchies such as assembly plants and employee organization in corporations.
-0;  It relates well to anything that works through a one to many relationship.
-0;  For example  there is a president with many managers below them, and those managers have many employees below them, but each employee has only one manager.
-0; ga1111 Disadvantages.
-0; This model has many issues that hold it back now that we require more sophisticated relationships.
-0;  It requires data to be repetitively stored in many different entities.
-0;  The database can be very slow when searching for information on the lower entities.
-0;  We no longer use linear data storage mediums such as tapes so that advantage is null.
-0;  Searching for data requires the DBMS to run through the entire model from top to bottom until the required information is found, making queries very slow.
-0;  Can only model one to many relationships, many to many relationships are not supported.
-0;  Clever manipulation of the model are required to make many to may relationships.
-0;  For example  what if a professor teaches classes, and is also a graduate student  .
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
+0;May 2017 .
+0;April 2017 .
+0;March 2017 .
+0;February 2017 .
+0;January 2017 .
+0;December 2016 .
+0;November 2016 .
+0;October 2016 .
+0;September 2016 .
+0;August 2016 .
+0;July 2016 .
+0;June 2016 .
+0;May 2016 .
+0;April 2016 .
+0;The messages are send and received by passing various variables among specific methods using the signature of the methods.
+0; Every methods has a well defined and structured signature.
+0; The signature of a method is composed of a type, associated with the variable whose value after execution of the method, would be returned to the object that would invoke the method  the types of a specific number of variables and the order associated with these variables whose values would be passed to the method before execution of the method starts.
+0; All these variables have a well defined format and corresponding values at any instant of time available for communication during the execution of the program.
+0; Figure below shows an example of a signature for a method  evaluate .
+0;Message passing is a type of communication between processes or objects in computer science.
+0; In this model, processes or objects can send and receive messages to other processes or objects.
+0;If we are talking about OOP than the term  message passing  comes from Smalltalk.
+0; In a few words the Smalltalk basic principles are.
+0;I think this terms are more or less equivalent.
+0; May be the only interesting difference is that message passing always rely on dynamic dispatch and late binding while in the case of method invocation one can use static dispatch and early binding too.
+0; For example, C   does early binding by default until  virtual  keyword appears somewhere.
+0;Anyway, regardless of which formalism do your programming language use for communication between two objects it s always considered a good OOP style to forbid direct access to instance variables in Smalltalk terminology or data members in C   terminology or whatever term is used in your programming language.

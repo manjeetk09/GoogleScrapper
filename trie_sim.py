@@ -91,6 +91,9 @@ with open("entitiesFromKB.txt") as f:
 for word in content:
     word = word.replace("\n","")
     WordCount += 1
+    if '(' in word:
+        num = word.index('(')
+        word = word[0:num]
     trie.insert( word )
 
 with open(sys.argv[1]) as f:

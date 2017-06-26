@@ -1,0 +1,180 @@
+.
+No extractions found.
+
+.
+No extractions found.
+
+Erasure codes, which are also known as forward error correction codes, were developed more than 50 years ago.
+No extractions found.
+
+ Different types have emerged since that time.
+0.831: (Different types; have emerged since; that time)
+
+ In one of the earliest and most common types, Reed_Solomon, the data can be reconstructed using any combination of  k  symbols, or pieces of data, even if  m  symbols are lost or unavailable.
+0.81: (the data; can be reconstructed in; one of the earliest and most common types)
+
+ For example, in EC 10 16, six drives, nodes or geographic locations could be lost or unavailable, and the original file would still be recoverable.
+0.665: (six drives , nodes or geographic locations; could be lost would in; EC 10 16)
+0.618: (the original file; could would still be; recoverable)
+0.371: (six drives , nodes or geographic locations; could be lost would for; example)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Erasure codes.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Professor Miller does research on erasure coding and how to use it in storage systems.
+0.712: (Professor Miller; does how to use it in storage systems; research)
+0.601: (it; to be use in; storage systems)
+
+ In addition to his work at the university, Miller is a part_time employee at Pure Storage Inc.
+0.848: (Miller; is a part time employee at; Pure Storage Inc.)
+0.767: (Miller; is a part time employee in; addition)
+0.753: (Miller; is; a part_time employee)
+
+, which sells enterprise solid_state storage arrays.
+No extractions found.
+
+ Erasure coding is not the primary focus of his work at the company, and Pure Storage s products currently use no erasure coding beyond combinations of RAID 5 and RAID 6.
+0.918: (Erasure coding; is not the primary focus of; his work)
+0.748: (no erasure; coding beyond; combinations of RAID 5)
+0.667: (Erasure coding; is; not the primary focus of his work at the company , and Pure Storage)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+RAID, or Redundant Array of Independent Disks, is a familiar concept to most IT professionals.
+0.774: (RAID , or Redundant Array of Independent Disks; is a familiar concept to; IT)
+0.609: (RAID , or Redundant Array of Independent Disks; is; a familiar concept)
+
+ It s a way to spread data over a set of drives to prevent the loss of a drive causing permanent loss of data.
+0.768: (It; s; a way to spread data over a set of drives)
+0.756: (data; to be spread over; a set of drives to prevent the loss of a drive)
+
+ RAID falls into two categories.
+0.866: (RAID; falls into; two categories)
+
+ Either a complete mirror image of the data is kept on a second drive  or parity blocks are added to the data so that failed blocks can be recovered.
+0.863: (a complete mirror image of the data; is kept on; a second drive or parity blocks)
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+

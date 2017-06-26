@@ -1,0 +1,53 @@
+1;A small programming language specifically designed to communicate solutions for a particular domain of problems.
+1;One simple example for Domain Specific Languageis HTML which is used for the particular domain called web_based applications.
+0;A domain_specific language is a computer language specialized to a particular application domain.
+0; This is in contrast to a general_purpose language , which is broadly applicable across domains.
+0; There is a wide variety of DSLs, ranging from widely used languages for common domains, such as HTML for web pages, down to languages used by only one or a few pieces of software, such as Emacs Lisp for GNU Emacs and XEmacs.
+0; DSLs can be further subdivided by the kind of language, and include domain_specific markup languages, domain_specific modeling languages , and domain_specific programming languages.
+0; Special_purpose computer languages have always existed in the computer age, but the term  domain_specific language  has become more popular due to the rise of domain_specific modeling.
+0; Simpler DSLs, particularly ones used by a single application, are sometimes informally called mini_languages.
+0;.
+0;.
+0;The line between general_purpose languages and domain_specific languages is not always sharp, as a language may have specialized features for a particular domain but be applicable more broadly, or conversely may in principle be capable of broad application but in practice used primarily for a specific domain.
+0; For example, Perl was originally developed as a text_processing and glue language, for the same domain as AWK and shell scripts, but was mostly used as a general_purpose programming language later on.
+0; By contrast, PostScript is a Turing complete language, and in principle can be used for any task, but in practice is narrowly used as a page description language.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;A small programming language specifically designed to communicate solutions for a particular domain of problems.
+0;One simple example for Domain Specific Languageis HTML which is used for the particular domain called web_based applications.
+0;We use domain specific languages to describe tasks related to automating the analysis and transformation of source code.
+0; A lexical language to describe language elements , used to generate fast FSAs for breaking text in such elements.
+0; Our is special in handling full Unicode and supporting the conversion of values  e.
+0;g.
+0;, numbers and strings  to native computer binary representations.
+0; It also provides a push_down state automation to allow the lexer to handle complex entities such as the contents of regular expressions.
+0; .
+0; a grammar specification for describing how lexical elements are composable to form valid sentences in the langauge.
+0; Ours is backed up by a full context_free parsing mechanism, enabling our DSL to specify a parseable version of full C  14.
+0; a box language, used to specify how to build and compose  boxes  , used to define how a prettyprinter converts an abstract syntax tree back into nicely indented formatted text.
+0; an attribute grammar, which decorates the above grammar specification, to enable the computation of arbitrary analyses over parse trees.
+0; a rule language for specifying code transformations in terms of source code fragments.
+0; This is actually pretty unusual in itself.
+0; A more recent extension allows the source pattern to be intepreted matched against the source code in terms of data flows, so it isnt just pure syntactic match.
+0; A parallel programming language in which to write program analysis and transformation tools, combining the above elements.
+0; While a lot of the parallel language is rather traditional, the part which specifies parallelism is not, enabling one to specify pure_parallelism, partial_order parallelism, or team based parallelism easily.
+0;Domain Specific Languages have been around since I ve been in computing, but it s hard to find much information about how to work with them.
+0; DSLs are small languages, focused on a particular aspect of a software system.
+0; You can t build a whole program with a DSL, but you often use multiple DSLs in a system mainly written in a general purpose language.
+0;DSLs come in two main forms.
+0; external and internal.
+0; An external DSL is a language that s parsed independently of the host general purpose language.
+0; good examples include regular expressions and CSS.
+0; External DSLs have a strong tradition in the Unix community.
+0; Internal DSLs are a particular form of API in a host general purpose language, often referred to as a fluent interface.
+0; The way mocking libraries, such as JMock, define expectations for tests are good examples of this, as are many of the mechanisms used by Ruby on Rails.
+0; Internal DSLs also have a long tradition of usage, particularly in the Lisp community.
+0;Typically, a domain_specific language is created when a development team has to write similar code for several products.
+0; For example, a company that specializes in baggage handling systems might define a baggage track DSL from which they can generate some of the code for each installation.
+0; The benefits of the DSL are that it can be understood by their customers, that the code generated from it is reliable, and that the system can be rapidly updated if the customers  requirements change.

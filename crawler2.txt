@@ -1,72 +1,762 @@
-0;This is a list of curves, by Wikipedia page.
-0;v.
-0;t.
-0;e.
+0;This is a short introduction to the Message Passing Interface designed to convey the fundamental operation and use of the interface.
+0; This introduction is designed for readers with some background programming C, and should deliver enough information to allow readers to write and run their own parallel C programs using MPI.
+0;Initialising the Message Queue.
+0;IPC Functions, Key Arguments, and Creation Flags   sys ipc h .
+0;Controlling message queues.
+0;Sending and Receiving Messages.
+0;POSIX Messages   mqueue h .
+0;Example  Sending messages between two processes message_send c __ creating and sending to a simple message queue message_rec c __ receiving the above message.
+0;Some further example message queue programs msgget c  Simple Program to illustrate msgetmsgctl cSample Program to Illustrate msgctlmsgop c  Sample Program to Illustrate msgsndand msgrcv.
+0;Exercises.
+0;msgget c  Simple Program to illustrate msget.
+0;msgctl cSample Program to Illustrate msgctl.
+0;msgop c  Sample Program to Illustrate msgsndand msgrcv.
+0;Fig.
+0; 24.
+0;1 Basic Message Passing IPC messaging lets processes send and receive messages, and queue messages for processing in an arbitrary order.
+0; Unlike the file byte_stream data flow of pipes, each IPC message has an explicit length.
+0; Messages can be assigned a specific type.
+0; Because of this, a server process can direct message traffic between clients on its queue by using the client process PID as the message type.
+0; For single_message transactions, multiple server processes can work in parallel on transactions sent to a shared message queue.
+0;MPI is a directory of C programs which illustrate the use of MPI, the Message Passing Interface.
 0;.
 0;.
-0;Other Bathtub curve.
-0; Bell curve.
-0; Calibration curve.
-0; Cardiac function curve.
-0; Dose response curve.
-0; Fish curve.
-0; Fletcher Munson curve.
-0; Forgetting curve.
-0; Gompertz curve.
-0; Growth curve .
-0; Hubbert curve.
-0; Kruithof curve.
-0; Learning curve.
-0; Light curve.
-0; Logistic curve.
-0; Oxygen hemoglobin dissociation curve.
-0; Paschen curve.
-0; Robinson Dadson curves.
-0; Rotation curve.
-0; Species area curve.
-0; Stress strain curve.
-0;v.
-0;t.
-0;e.
+0;The Message Passing Interface Standard is a message passing library standard based on the consensus of the MPI Forum, which has over 40 participating organizations, including vendors, researchers, software library developers, and users.
+0; The goal of the Message Passing Interface is to establish a portable, efficient, and flexible standard for message passing that will be widely used for writing message passing programs.
+0; As such, MPI is the first standardized, vendor independent, message passing library.
+0; The advantages of developing message passing software using MPI closely match the design goals of portability, efficiency, and flexibility.
+0; MPI is not an IEEE or ISO standard, but has in fact, become the  industry standard  for writing message passing programs on HPC platforms.
 0;.
 0;.
-0;v.
-0;t.
-0;e.
+0;The Message Passing Interface Standard is a message passing library standard based on the consensus of the MPI Forum, which has over 40 participating organizations, including vendors, researchers, software library developers, and users.
+0; The goal of the Message Passing Interface is to establish a portable, efficient, and flexible standard for message passing that will be widely used for writing message passing programs.
+0; As such, MPI is the first standardized, vendor independent, message passing library.
+0; The advantages of developing message passing software using MPI closely match the design goals of portability, efficiency, and flexibility.
+0; MPI is not an IEEE or ISO standard, but has in fact, become the  industry standard  for writing message passing programs on HPC platforms.
+0;The goal of this tutorial is to teach those unfamiliar with MPI how to develop and run parallel programs according to the MPI standard.
+0; The primary topics that are presented focus on those which are the most useful for new MPI programmers.
+0; The tutorial begins with an introduction, background, and basic information for getting started with MPI.
+0; This is followed by a detailed look at the MPI routines that are most useful for new MPI programmers, including MPI Environment Management, Point_to_Point Communications, and Collective Communications routines.
+0; Numerous examples in both C and Fortran are provided, as well as a lab exercise.
+0;The tutorial materials also include more advanced topics such as Derived Data Types, Group and Communicator Management Routines, and Virtual Topologies.
+0; However, these are not actually presented during the lecture, but are meant to serve as  further reading  for those who are interested.
+0;Level Prerequisites.
+0; This tutorial is ideal for those who are new to parallel programming with MPI.
+0; A basic understanding of parallel programming in C or Fortran is required.
+0; For those who are unfamiliar with Parallel Programming in general, the material covered in EC3500.
+0; Introduction To Parallel Computing would be helpful.
+0;An Interface Specification.
+0; .
+0; M P I   Message Passing Interface.
+0; MPI is a specification for the developers and users of message passing libraries.
+0; By itself, it is NOT a library _ but rather the specification of what such a library should be.
+0; MPI primarily addresses the message_passing parallel programming model.
+0; data is moved from the address space of one process to that of another process through cooperative operations on each process.
+0; Simply stated, the goal of the Message Passing Interface is to provide a widely used standard for writing message passing programs.
+0; The interface attempts to be.
+0; Practical Portable Efficient Flexible.
+0; The MPI standard has gone through a number of revisions, with the most recent version being MPI_3.
+0;x.
+0; Interface specifications have been defined for C and Fortran90 language bindings.
+0; C   bindings from MPI_1 are removed in MPI_3 MPI_3 also provides support for Fortran 2003 and 2008 features.
+0; Actual MPI library implementations differ in which version and features of the MPI standard they support.
+0; Developers users will need to be aware of this.
+0;Programming Model.
+0; .
+0; Originally, MPI was designed for distributed memory architectures, which were becoming increasingly popular at that time .
+0; As architecture trends changed, shared memory SMPs were combined over networks creating hybrid distributed memory   shared memory systems.
+0; MPI implementors adapted their libraries to handle both types of underlying memory architectures seamlessly.
+0; They also adapted developed ways of handling different interconnects and protocols.
+0; Today, MPI runs on virtually any hardware platform.
+0; Distributed Memory Shared Memory Hybrid.
+0; The programming model clearly remains a distributed memory model however, regardless of the underlying physical architecture of the machine.
+0; All parallelism is explicit.
+0; the programmer is responsible for correctly identifying parallelism and implementing parallel algorithms using MPI constructs.
+0;Reasons for Using MPI.
+0; .
+0; Standardization _ MPI is the only message passing library that can be considered a standard.
+0; It is supported on virtually all HPC platforms.
+0; Practically, it has replaced all previous message passing libraries.
+0; Portability _ There is little or no need to modify your source code when you port your application to a different platform that supports the MPI standard.
+0; Performance Opportunities _ Vendor implementations should be able to exploit native hardware features to optimize performance.
+0; Any implementation is free to develop optimized algorithms.
+0; Functionality _ There are over 430 routines defined in MPI_3, which includes the majority of those in MPI_2 and MPI_1.
+0;  Most MPI programs can be written using a dozen or less routines.
+0; Availability _ A variety of implementations are available, both vendor and public domain.
+0; .
+0; MPI has resulted from the efforts of numerous individuals and groups that began in 1992.
+0; Some history.
+0; 1980s _ early 1990s.
+0; Distributed memory, parallel computing develops, as do a number of incompatible software tools for writing such programs _ usually with tradeoffs between portability, performance, functionality and price.
+0; Recognition of the need for a standard arose.
+0; Apr 1992.
+0; Workshop on Standards for Message Passing in a Distributed Memory Environment, sponsored by the Center for Research on Parallel Computing, Williamsburg, Virginia.
+0; The basic features essential to a standard message passing interface were discussed, and a working group established to continue the standardization process.
+0; Preliminary draft proposal developed subsequently.
+0; Nov 1992.
+0; Working group meets in Minneapolis.
+0; MPI draft proposal from ORNL presented.
+0; Group adopts procedures and organization to form the MPI Forum.
+0; It eventually comprised of about 175 individuals from 40 organizations including parallel computer vendors, software writers, academia and application scientists.
+0; Nov 1993.
+0; Supercomputing 93 conference _ draft MPI standard presented.
+0; May 1994.
+0; Final version of MPI_1.
+0;0 released MPI_1.
+0;1 MPI_1.
+0;2 MPI_1.
+0;3 .
+0; 1998.
+0; MPI_2 picked up where the first MPI specification left off, and addressed topics which went far beyond the MPI_1 specification.
+0; MPI_2.
+0;1 MPI_2.
+0;2 .
+0; Sep 2012.
+0; The MPI_3.
+0;0 standard was approved.
+0; MPI_3.
+0;1 .
+0;History and Evolution.
+0; .
+0;Documentation.
+0; .
+0; Documentation for all versions of the MPI standard is available at.
+0; http.
+0;  www.
+0;mpi_forum.
+0;org docs .
+0; Although the MPI programming interface has been standardized, actual library implementations will differ in which version and features of the standard they support.
+0; The way MPI programs are compiled and run on different platforms may also vary.
+0; Currently, LC supports these MPI implementations.
+0; MVAPICH _ Linux clusters Open MPI _ Linux clusters Intel MPI _ Linux clusters IBM BG Q MPI _ BG Q clusters IBM Spectrum MPI _ Coral Early Access clusters.
+0; A summary of each is provided below, along with links to additional detailed information.
+0;Compiling.
+0; See the MPI Build Scripts table below.
+0;Running.
+0; MPI executables are launched using the SLURM srun command with the appropriate options.
+0; For example, to launch an 8_process MPI job split across two different nodes in the pdebug pool.
+0; srun _N2 _n8 _ppdebug a.
+0;out.
+0; The srun command is discussed in detail in the Running Jobs section of the Linux Clusters Overview tutorial.
+0;Documentation.
+0; MVAPICH home page.
+0; mvapich.
+0;cse.
+0;ohio_state.
+0;edu .
+0; MVAPICH2 User Guides.
+0; http.
+0;  mvapich.
+0;cse.
+0;ohio_state.
+0;edu userguide .
+0; MVAPICH 1.
+0;2 User Guide.
+0; available HERE.
+0; MPICH home page.
+0; http.
+0;  www.
+0;mpich.
+0;org .
+0;  usr local docs on LC s TOSS 2 clusters.
+0; mpi.
+0;basics mpi.
+0;mvapich.
+0;basics mpi.
+0;mvapich2.
+0;basics.
+0;dotkit .
+0;module .
+0;This ensures that LC s MPI wrapper scripts point to the desired version of Open MPI.
+0;Compiling.
+0;Running.
+0; .
+0; Be sure to load the same Open MPI dotkit module that you used to build your executable.
+0; If you are running a batch job, you will need to load the dotkit module in your batch script.
+0; Launching an Open MPI job can be done using the following commands.
+0; For example, to run a 48 process MPI job.
+0; mpirun _np 48 a.
+0;out  mpiexec _np 48 a.
+0;out  srun _n 48 a.
+0;out.
+0;Documentation.
+0; Open MPI home page.
+0; http.
+0;  www.
+0;open_mpi.
+0;org .
+0;  usr local docs mpi.
+0;openmpi.
+0;basics on LC s TOSS 2 clusters.
+0;General MPI Program Structure.
+0; .
+0; .
+0;Format of MPI Calls.
+0; .
+0; C names are case sensitive  Fortran names are not.
+0; Programs must not declare variables or functions with names beginning with the prefix MPI_ or PMPI_ .
+0; C Binding Format.
+0; rc   MPI_Xxxxx parameter, .
+0;   Example.
+0; rc   MPI_BsendError code.
+0; Returned as  rc .
+0; MPI_SUCCESS if successful Fortran Binding Format.
+0; CALL MPI_XXXXX parameter,.
+0;, ierr  call mpi_xxxxx parameter,.
+0;, ierr  Example.
+0; CALL MPI_BSENDError code.
+0; Returned as  ierr  parameter.
+0; MPI_SUCCESS if successful.
+0;Communicators and Groups.
+0; .
+0; MPI uses objects called communicators and groups to define which collection of processes may communicate with each other.
+0; Most MPI routines require you to specify a communicator as an argument.
+0; Communicators and groups will be covered in more detail later.
+0; For now, simply use MPI_COMM_WORLD whenever a communicator is required _ it is the predefined communicator that includes all of your MPI processes.
+0;Rank.
+0; .
+0; Within a communicator, every process has its own unique, integer identifier assigned by the system when the process initializes.
+0; A rank is sometimes also called a  task ID .
+0; Ranks are contiguous and begin at zero.
+0; Used by the programmer to specify the source and destination of messages.
+0; Often used conditionally by the application to control program execution .
+0;Error Handling.
+0; .
+0; Most MPI routines include a return error code parameter, as described in the  Format of MPI Calls  section above.
+0; However, according to the MPI standard, the default behavior of an MPI call is to abort if there is an error.
+0; This means you will probably not be able to capture a return error code other than MPI_SUCCESS .
+0; The standard does provide a means to override this default error handler.
+0; A discussion on how to do this is available HERE.
+0; You can also consult the error handling section of the relevant MPI Standard documentation located at http.
+0;  www.
+0;mpi_forum.
+0;org docs .
+0; The types of errors displayed to the user are implementation dependent.
+0;This group of routines is used for interrogating and setting the MPI execution environment, and covers an assortment of purposes, such as initializing and terminating the MPI environment, querying a rank s identity, querying the MPI library s version, etc.
+0; Most of the commonly used ones are described below.
+0; .
+0; MPI_Init MPI_INIT .
+0;MPI_Init.
+0;MPI_Comm_size .
+0; MPI_Comm_size MPI_COMM_SIZE .
+0;MPI_Comm_rank .
+0; MPI_Comm_rank MPI_COMM_RANK .
+0;MPI_Abort .
+0; MPI_Abort MPI_ABORT .
+0;MPI_Get_processor_name .
+0; MPI_Get_processor_name MPI_GET_PROCESSOR_NAME .
+0;MPI_Get_version .
+0; MPI_Get_version MPI_GET_VERSION .
+0;MPI_Initialized .
+0; MPI_Initialized MPI_INITIALIZED .
+0;MPI_Wtime .
+0; MPI_Wtime MPI_WTIME .
+0;MPI_Wtick .
+0; MPI_Wtick MPI_WTICK .
+0;MPI_Finalize .
+0; MPI_Finalize MPI_FINALIZE .
+0;GO TO THE EXERCISE HERE Approx.
+0; 20 minutes.
+0;Example MPI Program in C.
+0;   mpi_pi_reduce.
+0;c Example MPI Program in Fortran.
+0;   mpi_pi_reduce.
+0;f.
+0;Order and Fairness.
+0; Order.
+0; MPI guarantees that messages will not overtake each other.
+0; If a sender sends two messages in succession to the same destination, and both match the same receive, the receive operation will receive Message 1 before Message 2.
+0; If a receiver posts two receives , in succession, and both are looking for the same message, Receive 1 will receive the message before Receive 2.
+0; Order rules do not apply if there are multiple threads participating in the communication operations.
+0; Fairness.
+0; MPI does not guarantee fairness _ it s up to the programmer to prevent  operation starvation .
+0; Example.
+0; task 0 sends a message to task 2.
+0; However, task 1 sends a competing message that matches task 2 s receive.
+0; Only one of the sends will complete.
+0; Blocking sends MPI_SendNon_blocking sends MPI_IsendBlocking receive MPI_RecvNon_blocking receive MPI_Irecv.
+0;Notes.
+0; Programmers may also create their own data types .
+0; MPI_BYTE and MPI_PACKED do not correspond to standard C or Fortran types.
+0; Types shown in GRAY FONT are recommended if possible.
+0; Some implementations may include additional elementary data types  MPI_LOGICAL2, MPI_COMPLEX32, etc.
+0; .
+0; Check the MPI header file.
+0;MPI_Send .
+0; MPI_Send MPI_SEND .
+0;MPI_Recv .
+0; MPI_Recv MPI_RECV .
+0;MPI_Ssend .
+0; MPI_Ssend MPI_SSEND .
+0;MPI_Sendrecv .
+0; MPI_Sendrecv   sendbuf,sendcount,sendtype,dest,sendtag, .
+0;  recvbuf,recvcount,recvtype,source,recvtag, .
+0; comm, status  MPI_SENDRECV  sendbuf,sendcount,sendtype,dest,sendtag, .
+0; recvbuf,recvcount,recvtype,source,recvtag, .
+0; comm,status,ierr .
+0;MPI_Wait MPI_Waitany MPI_Waitall MPI_Waitsome .
+0; MPI_Wait MPI_Waitany MPI_Waitall MPI_Waitsome  incount, array_of_requests, outcount, .
+0;  array_of_offsets,  array_of_statuses  MPI_WAIT MPI_WAITANY MPI_WAITALL  count,array_of_requests,array_of_statuses, .
+0; ierr  MPI_WAITSOME  incount,array_of_requests,outcount, .
+0; array_of_offsets, array_of_statuses,ierr .
+0;MPI_Probe status.
+0;MPI_SOURCE.
+0; status.
+0;MPI_TAG.
+0; status.
+0; status.
+0; .
+0; .
+0; MPI_Probe MPI_PROBE .
+0;MPI_Get_count status.
+0;MPI_SOURCE.
+0; status.
+0;MPI_TAG.
+0; status.
+0; status.
+0; .
+0; MPI_Get_count MPI_GET_COUNT .
+0;Task 0 pings task 1 and awaits return ping.
+0;MPI_Isend .
+0; MPI_Isend MPI_ISEND .
+0;MPI_Irecv .
+0; MPI_Irecv MPI_IRECV .
+0;MPI_Issend .
+0; MPI_Issend MPI_ISSEND .
+0;MPI_Test MPI_Testany MPI_Testall MPI_Testsome .
+0; MPI_Test MPI_Testany MPI_Testall MPI_Testsome  incount, array_of_requests, outcount, .
+0;  array_of_offsets,  array_of_statuses  MPI_TEST MPI_TESTANY MPI_TESTALL MPI_TESTSOME  incount,array_of_requests,outcount, .
+0; array_of_offsets, array_of_statuses,ierr .
+0;MPI_Iprobe status.
+0;MPI_SOURCE.
+0; status.
+0;MPI_TAG.
+0; status.
+0; status.
+0; .
+0; MPI_Iprobe MPI_IPROBE .
+0;Nearest neighbor exchange in a ring topology.
+0;GO TO THE EXERCISE HERE.
+0;Types of Collective Operations.
+0; .
+0; Synchronization _ processes wait until all members of the group have reached the synchronization point.
+0; Data Movement _ broadcast, scatter gather, all to all.
+0; Collective Computation _ one member of the group collects data from the other members and performs an operation  min, max, add, multiply, etc.
+0;  on that data.
+0;Scope.
+0; .
+0; Collective communication routines must involve all processes within the scope of a communicator.
+0; All processes are by default, members in the communicator MPI_COMM_WORLD.
+0; Additional communicators can be defined by the programmer.
+0; See the Group and Communicator Management Routines section for details.
+0; Unexpected behavior, including program failure, can occur if even one task in the communicator doesn t participate.
+0; It is the programmer s responsibility to ensure that all processes within a communicator participate in any collective operations.
+0;Programming Considerations and Restrictions.
+0; .
+0; Collective communication routines do not take message tag arguments.
+0; Collective operations within subsets of processes are accomplished by first partitioning the subsets into new groups and then attaching the new groups to new communicators .
+0; Can only be used with MPI predefined datatypes _ not with MPI Derived Data Types.
+0; MPI_2 extended most collective operations to allow data movement between intercommunicators .
+0; With MPI_3, collective operations can be blocking or non_blocking.
+0; Only blocking operations are covered in this tutorial.
+0;MPI_Barrier .
+0; MPI_Barrier MPI_BARRIER .
+0;MPI_Bcast .
+0; .
+0; .
+0; MPI_Bcast MPI_BCAST .
+0;MPI_Scatter .
+0; .
+0; .
+0; MPI_Scatter   sendbuf,sendcnt,sendtype, recvbuf, .
+0; recvcnt,recvtype,root,comm  MPI_SCATTER  sendbuf,sendcnt,sendtype,recvbuf, .
+0; recvcnt,recvtype,root,comm,ierr .
+0;MPI_Gather .
+0; .
+0; .
+0; MPI_Gather   sendbuf,sendcnt,sendtype, recvbuf, .
+0; recvcount,recvtype,root,comm  MPI_GATHER  sendbuf,sendcnt,sendtype,recvbuf, .
+0; recvcount,recvtype,root,comm,ierr .
+0;MPI_Allgather .
+0; .
+0; .
+0; MPI_Allgather   sendbuf,sendcount,sendtype, recvbuf, .
+0; recvcount,recvtype,comm  MPI_ALLGATHER  sendbuf,sendcount,sendtype,recvbuf, .
+0; recvcount,recvtype,comm,info .
+0;MPI_Reduce .
+0; .
+0; .
+0; MPI_Reduce MPI_REDUCE .
+0; The predefined MPI reduction operations appear below.
+0; Users can also define their own reduction functions by using the MPI_Op_create routine.
+0; .
+0; MPI Reduction Operation C Data Types Fortran Data Type MPI_MAX maximum integer, float integer, real, complex MPI_MIN minimum integer, float integer, real, complex MPI_SUM sum integer, float integer, real, complex MPI_PROD product integer, float integer, real, complex MPI_LAND logical AND integer logical MPI_BAND bit_wise AND integer, MPI_BYTE integer, MPI_BYTE MPI_LOR logical OR integer logical MPI_BOR bit_wise OR integer, MPI_BYTE integer, MPI_BYTE MPI_LXOR logical XOR integer logical MPI_BXOR bit_wise XOR integer, MPI_BYTE integer, MPI_BYTE MPI_MAXLOC max value and location float, double and long double real, complex,double precision MPI_MINLOC min value and location float, double and long double real, complex, double precision.
+0; .
+0; Note from the MPI_Reduce man page.
+0; The operation is always assumed to be associative.
+0; All predefined operations are also assumed to be commutative.
+0; Users may define operations that are assumed to be associative, but not commutative.
+0; The  canonical  evaluation order of a reduction is determined by the ranks of the processes in the group.
+0; However, the implementation can take advantage of associativity, or associativity and commutativity in order to change the order of evaluation.
+0; This may change the result of the reduction for operations that are not strictly associative and commutative, such as floating point addition.
+0;  Advice to implementors  It is strongly recommended that MPI_REDUCE be implemented so that the same result be obtained whenever the function is applied on the same arguments, appearing in the same order.
+0; Note that this may prevent optimizations that take advantage of the physical location of processors.
+0;  End of advice to implementors .
+0;The predefined MPI reduction operations appear below.
+0; Users can also define their own reduction functions by using the MPI_Op_create routine.
+0;MPI_Allreduce .
+0; .
+0; .
+0; MPI_Allreduce MPI_ALLREDUCE .
+0;MPI_Reduce_scatter .
+0; .
+0; .
+0; MPI_Reduce_scatter   sendbuf, recvbuf,recvcount,datatype, .
+0; op,comm  MPI_REDUCE_SCATTER  sendbuf,recvbuf,recvcount,datatype, .
+0; op,comm,ierr .
+0;MPI_Alltoall .
+0; .
+0; .
+0; MPI_Alltoall   sendbuf,sendcount,sendtype, recvbuf, .
+0; recvcnt,recvtype,comm  MPI_ALLTOALL  sendbuf,sendcount,sendtype,recvbuf, .
+0; recvcnt,recvtype,comm,ierr .
+0;MPI_Scan .
+0; .
+0; .
+0; MPI_Scan MPI_SCAN .
+0;Perform a scatter operation on the rows of an array.
+0;MPI_Type_contiguous .
+0; MPI_Type_contiguous MPI_TYPE_CONTIGUOUS .
+0;MPI_Type_vector MPI_Type_hvector .
+0; MPI_Type_vector MPI_TYPE_VECTOR .
+0;MPI_Type_indexed MPI_Type_hindexed .
+0; MPI_Type_indexed MPI_TYPE_INDEXED ,offsets,old_type,newtype,ierr .
+0;MPI_Type_struct .
+0; NOTE.
+0; .
+0; MPI_Type_struct MPI_TYPE_STRUCT ,offsets,old_types,newtype,ierr .
+0;MPI_Type_extent .
+0; NOTE.
+0; .
+0; MPI_Type_extent MPI_TYPE_EXTENT .
+0;MPI_Type_commit .
+0; MPI_Type_commit MPI_TYPE_COMMIT .
+0;MPI_Type_free .
+0; MPI_Type_free MPI_TYPE_FREE .
+0;Create a data type representing a row of an array and distribute a different row to all processes.
+0;Create a data type representing a column of an array and distribute different columns to all processes.
+0;Create a datatype by extracting variable portions of an array and distribute to all tasks.
+0;Create a data type that represents a particle and distribute an array of such particles to all processes.
+0;Groups vs.
+0; Communicators.
+0; .
+0; A group is an ordered set of processes.
+0; Each process in a group is associated with a unique integer rank.
+0; Rank values start at zero and go to N_1, where N is the number of processes in the group.
+0; In MPI, a group is represented within system memory as an object.
+0; It is accessible to the programmer only by a  handle .
+0; A group is always associated with a communicator object.
+0; A communicator encompasses a group of processes that may communicate with each other.
+0; All MPI messages must specify a communicator.
+0; In the simplest sense, the communicator is an extra  tag  that must be included with MPI calls.
+0; Like groups, communicators are represented within system memory as objects and are accessible to the programmer only by  handles .
+0; For example, the handle for the communicator that comprises all tasks is MPI_COMM_WORLD.
+0; From the programmer s perspective, a group and a communicator are one.
+0; The group routines are primarily used to specify which processes should be used to construct a communicator.
+0;Primary Purposes of Group and Communicator Objects.
+0;Programming Considerations and Restrictions.
+0; .
+0; Groups communicators are dynamic _ they can be created and destroyed during program execution.
+0; Processes may be in more than one group communicator.
+0; They will have a unique rank within each group communicator.
+0; MPI provides over 40 routines related to groups, communicators, and virtual topologies.
+0; Typical usage.
+0; Extract handle of global group from MPI_COMM_WORLD using MPI_Comm_group Form new group as a subset of global group using MPI_Group_incl Create new communicator for new group using MPI_Comm_create Determine new rank in new communicator using MPI_Comm_rank Conduct communications using any MPI message passing routine When finished, free up new communicator and group using MPI_Comm_free and MPI_Group_free.
+0;Create two different process groups for separate collective communications exchange.
+0; Requires creating new communicators also.
+0;What Are They  .
+0; In terms of MPI, a virtual topology describes a mapping ordering of MPI processes into a geometric  shape .
+0; The two main types of topologies supported by MPI are Cartesian and Graph.
+0; MPI topologies are virtual _ there may be no relation between the physical structure of the parallel machine and the process topology.
+0; Virtual topologies are built upon MPI communicators and groups.
+0; Must be  programmed  by the application developer.
+0;Why Use Them  .
+0; Convenience Virtual topologies may be useful for applications with specific communication patterns _ patterns that match an MPI topology structure.
+0; For example, a Cartesian topology might prove convenient for an application that requires 4_way nearest neighbor communications for grid based data.
+0; Communication Efficiency Some hardware architectures may impose penalties for communications between successively distant  nodes .
+0; A particular implementation may optimize process mapping based upon the physical characteristics of a given parallel machine.
+0; The mapping of processes into an MPI virtual topology is dependent upon the MPI implementation, and may be totally ignored.
+0;Example.
+0; A simplified mapping of processes into a Cartesian virtual topology appears below.
+0; .
+0;A simplified mapping of processes into a Cartesian virtual topology appears below.
+0;Create a 4 x 4 Cartesian topology from 16 processors and have each process exchange its rank with four neighbors.
+0;MPI_2.
+0; .
+0; Intentionally, the MPI_1 specification did not address several  difficult  issues.
+0; For reasons of expediency, these issues were deferred to a second specification, called MPI_2 in 1998.
+0; MPI_2 was a major revision to MPI_1 adding new functionality and corrections.
+0; Key areas of new functionality in MPI_2.
+0; Dynamic Processes _ extensions that remove the static process model of MPI.
+0; Provides routines to create new processes after job startup.
+0; One_Sided Communications _ provides routines for one directional communications.
+0; Include shared memory operations and remote accumulate operations.
+0; Extended Collective Operations _ allows for the application of collective operations to inter_communicators External Interfaces _ defines routines that allow developers to layer on top of MPI, such as for debuggers and profilers.
+0; Additional Language Bindings _ describes C   bindings and discusses Fortran_90 issues.
+0; Parallel I O _ describes MPI support for parallel I O.
+0;MPI_3.
+0; .
+0; The MPI_3 standard was adopted in 2012, and contains significant extensions to MPI_1 and MPI_2 functionality including.
+0; Nonblocking Collective Operations _ permits tasks in a collective to perform operations without blocking, possibly offering performance improvements.
+0; New One_sided Communication Operations _ to better handle different memory models.
+0; Neighborhood Collectives _ extends the distributed graph and Cartesian process topologies with additional communication power.
+0; Fortran 2008 Bindings _ expanded from Fortran90 bindings MPIT Tool Interface _ allows the MPI implementation to expose certain internal variables, counters, and other states to the user .
+0; Matched Probe _ fixes an old bug in MPI_2 where one could not probe for messages in a multi_threaded environment.
+0;More Information on MPI_2 and MPI_3.
+0; MPI Standard documents.
+0; http.
+0;  www.
+0;mpi_forum.
+0;org docs .
+0;GO TO THE EXERCISE HERE.
+0;This completes the tutorial.
+0;Where would you like to go now  Exercise 3.
+0; Agenda.
+0; Back to the top.
+0;MVAPICH MPI is developed and supported by the Network_Based Computing Lab at Ohio State University .
+0;Available on all of LC s Linux clusters .
+0;MVAPICH 1 2 Default version of MPI MPI_1 implementation that also includes support for MPI_I O Based on MPICH_1 2 7 MPI library from Argonne National Laboratory Not thread_safe  All MPI calls should be made by the master thread in a multi_threaded MPI program  See  usr local docs mpi mvapich basics for LC usage details .
+0;MVAPICH2 Multiple versions available MPI_2 and MPI_3 implementations based on MPICH MPI library from Argonne National Laboratory  Versions 1 9 and later implement MPI_3 according to the developer s documentation  TOSS 3  Default MPI implementation TOSS 2  Not the default _ requires the  use  command to load the selected dotkit package  For example  use _l mvapich               use mvapich2_intel_2 1     Thread_safe.
+0;Default version of MPI.
+0;MPI_1 implementation that also includes support for MPI_I O.
+0;Based on MPICH_1 2 7 MPI library from Argonne National Laboratory.
+0;Not thread_safe  All MPI calls should be made by the master thread in a multi_threaded MPI program .
+0;See  usr local docs mpi mvapich basics for LC usage details .
+0;Multiple versions available.
+0;MPI_2 and MPI_3 implementations based on MPICH MPI library from Argonne National Laboratory  Versions 1 9 and later implement MPI_3 according to the developer s documentation .
+0;TOSS 3  Default MPI implementation.
+0;TOSS 2  Not the default _ requires the  use  command to load the selected dotkit package  For example  use _l mvapich               use mvapich2_intel_2 1     .
+0;Thread_safe.
+0;Open MPI is a thread_safe, open source MPI implementation developed and supported by a consortium of academic, research, and industry partners .
+0;Available on all LC Linux clusters  However, you ll need to load the desired dotkit or module first  For example  dotkit   use _l openmpi                 use openmpi_gnu_1 8 4        module   module avail                   module load openmpi 2 0 0    This ensures that LC s MPI wrapper scripts point to the desired version of Open MPI .
+0;.
+0;Available on LC s Linux clusters .
+0;Based on MPICH3  Supports MPI_3 functionality .
+0;Thread_safe.
+0;Compiling and running Intel MPI programs  see the LC documentation at  https   lc llnl gov confluence pages viewpage action pageId 137725526.
+0;.
+0;The IBM BG Q MPI library is the only supported implementation on these clusters .
+0;Default version is based on MPICH2, which includes MPI_2 functionality minus dynamic processes .
+0;A version supporting MPI_3 functionality is available .
+0;Thread_safe.
+0;Compiling and running IBM BG Q MPI programs  see the BG Q Tutorial  computing llnl gov tutorials bgq .
+0;.
+0;The IBM Spectrum MPI library is the only supported implementation on these clusters .
+0;Based on Open MPI  Includes MPI_3 functionality .
+0;Thread_safe.
+0;NVIDIA GPU support.
+0;Compiling and running IBM Spectrum MPI programs  see the CORAL EA MPI documentation at  https   lc llnl gov confluence display CORALEA MPI.
+0;LC developed MPI compiler wrapper scripts are used to compile MPI programs.
+0;Automatically perform some error checks, include the appropriate MPI  include files, link to the necessary MPI libraries, and pass options to the underlying compiler .
+0;.
+0;For additional information  See the man page Issue the script name with the _help option View the script yourself directly MPI Build Scripts Implementation Language Script Name Underlying Compiler MVAPCH 1 2 C mpicc gcc _ GNU mpigcc gcc _ GNU mpiicc icc _ Intel mpipgcc pgcc _ PGI C   mpiCC g   _ GNU mpig   g   _ GNU mpiicpc icpc _ Intel mpipgCC pgCC _ PGI Fortran mpif77 g77 _ GNU mpigfortran gfortran _ GNU mpiifort ifort _ Intel mpipgf77 pgf77 _ PGI mpipgf90 pgf90 _ PGI MVAPCH2 C mpicc C compiler of dotkit package loaded C   mpicxx C   compiler of dotkit package loaded Fortran mpif77 Fortran77 compiler of dotkit package loaded mpif90 Fortran90 compiler of dotkit package loaded Open MPI C mpicc C compiler of dotkit package loaded C   mpiCC mpic   mpicxx C   compiler of dotkit package loaded Fortran mpif77 Fortran77 compiler of dotkit package loaded mpif90 Fortran90 compiler of dotkit package loaded.
+0;See the man page .
+0;Issue the script name with the _help option.
+0;View the script yourself directly.
+0;MPI libraries vary in their level of thread support  MPI_THREAD_SINGLE _ Level 0  Only one thread will execute  MPI_THREAD_FUNNELED _ Level 1  The process may be multi_threaded, but only the main thread will make MPI calls _ all MPI calls are funneled to the main thread  MPI_THREAD_SERIALIZED _ Level 2  The process may be multi_threaded, and multiple threads may make MPI calls, but only one at a time  That is, calls are not made concurrently from two distinct threads as all MPI calls are serialized  MPI_THREAD_MULTIPLE _ Level 3  Multiple threads may call MPI with no restrictions .
+0;Consult the MPI_Init_threadman page for details .
+0;A simple C language example for determining thread level support is shown below     include  mpi h    include  stdio h      int main         int provided, claimed           Select one of the following      MPI_Init_thread       MPI_Init_thread       MPI_Init_thread       MPI_Init_thread                MPI_Init_thread       MPI_Query_thread           printf          MPI_Finalize         Sample output    Query thread level  3  Init_thread level  3.
+0;.
+0;MPI_THREAD_SINGLE _ Level 0  Only one thread will execute .
+0;MPI_THREAD_FUNNELED _ Level 1  The process may be multi_threaded, but only the main thread will make MPI calls _ all MPI calls are funneled to the main thread .
+0;MPI_THREAD_SERIALIZED _ Level 2  The process may be multi_threaded, and multiple threads may make MPI calls, but only one at a time  That is, calls are not made concurrently from two distinct threads as all MPI calls are serialized .
+0;MPI_THREAD_MULTIPLE _ Level 3  Multiple threads may call MPI with no restrictions .
+0;.
+0;Required for all programs that make MPI library calls       C include file           Fortran include file       include  mpi h  include  mpif h .
+0;With MPI_3 Fortran, the USE mpi_f08 module is preferred over using the include file shown above .
+0;.
+0;     C Language _ Environment Management Routines  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28           required MPI include file        include  mpi h       include  stdio h        int main      int  numtasks, rank, len, rc       char hostname MPI_MAX_PROCESSOR_NAME            initialize MPI       MPI_Init           get number of tasks      MPI_Comm_size           get my rank       MPI_Comm_rank           this one is obvious       MPI_Get_processor_name      printf                   do some work with message passing             done with MPI       MPI_Finalize       .
 0;.
 0;.
-0;In mathematics, a plane real algebraic curve is the set of points on the Euclidean plane whose coordinates are zeros of some polynomial in two variables.
-0; More generally an algebraic curve is similar but may be embedded in a higher dimensional space or defined over some more general field.
-0;v.
-0;t.
-0;e.
-0;v.
-0;t.
-0;e.
+0;.
+0;     Fortran _ Environment Management Routines  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29      program simple         required MPI include file     include  mpif h        integer numtasks, rank, len, ierr       characterhostname         initialize MPI     call MPI_INIT         get number of tasks     call MPI_COMM_SIZE         get my rank     call MPI_COMM_RANK         this one is obvious     call MPI_GET_PROCESSOR_NAME     print  ,  Number of tasks  ,numtasks,  My rank  ,rank,  Running on  ,hostname                do some work with message passing            done with MPI     call MPI_FINALIZE       end.
+0;Login to an LC cluster using your workshop username and OTP token.
+0;Copy the exercise files to your home directory.
+0;Familiarize yourself with LC s MPI compilers.
+0;Write a simple  Hello World  MPI program using several MPI Environment Management routines.
+0;Successfully compile your program.
+0;Successfully run your program _ several different ways.
+0;.
+0;The value of PI can be calculated in various ways  Consider the Monte Carlo method of approximating PI  Inscribe a circle with radius r in a square with side length of 2r The area of the circle is  r2 and the area of the square is 4r2 The ratio of the area of the circle to the area of the square is   r2   4r2       4 If you randomly generate N points inside the square, approximately N       4 of those points should fall inside the circle    is then approximated as  N       4   M     4   M   N     4   M   N Note that increasing the number of points generated improves the approximation .
+0;Serial pseudo code for this procedure  npoints   10000  circle_count   0    do j   1,npoints    generate 2 random numbers between 0 and 1    xcoordinate   random1    ycoordinate   random2    if inside circle    then circle_count   circle_count   1  end do    PI   4 0 circle_count npoints.
+0;Leads to an  embarassingly parallel  solution  Break the loop iterations into chunks that can be executed by different tasks simultaneously  Each task executes its portion of the loop a number of times  Each task can do its work without requiring any information from the other tasks   Master task recieves results from other tasks using send receive point_to_point operations .
+0;Pseudo code solution  red highlights changes for parallelism  npoints   10000  circle_count   0   p   number of tasks num   npoints p find out if I am MASTER or WORKER     do j   1,num     generate 2 random numbers between 0 and 1    xcoordinate   random1    ycoordinate   random2    if inside circle    then circle_count   circle_count   1  end do   if I am MASTER receive from WORKERS their circle_counts compute PI else if I am WORKER send to MASTER circle_count endif Example MPI Program in C    mpi_pi_reduce c Example MPI Program in Fortran    mpi_pi_reduce f.
+0;Key Concept  Divide work between available tasks which communicate data via point_to_point message passing calls .
+0;Inscribe a circle with radius r in a square with side length of 2r.
+0;The area of the circle is  r2 and the area of the square is 4r2.
+0;The ratio of the area of the circle to the area of the square is   r2   4r2       4.
+0;If you randomly generate N points inside the square, approximately N       4 of those points should fall inside the circle .
+0;  is then approximated as  N       4   M     4   M   N     4   M   N.
+0;Note that increasing the number of points generated improves the approximation .
+0;Break the loop iterations into chunks that can be executed by different tasks simultaneously .
+0;Each task executes its portion of the loop a number of times .
+0;Each task can do its work without requiring any information from the other tasks  .
+0;Master task recieves results from other tasks using send receive point_to_point operations .
+0;MPI point_to_point operations typically involve message passing between two, and only two, different MPI tasks  One task is performing a send operation and the other task is performing a matching receive operation .
+0;There are different types of send and receive routines used for different purposes  For example  Synchronous send Blocking send   blocking receive Non_blocking send   non_blocking receive Buffered send Combined send receive  Ready  send.
+0;Any type of send routine can be paired with any type of receive routine .
+0;MPI also provides several routines associated with send _ receive operations, such as those used to wait for a message s arrival or probe to find out if a message has arrived .
+0;Synchronous send.
+0;Blocking send   blocking receive.
+0;Non_blocking send   non_blocking receive.
+0;Buffered send.
+0;Combined send receive.
+0; Ready  send.
+0;In a perfect world, every send operation would be perfectly synchronized with its matching receive  This is rarely the case  Somehow or other, the MPI implementation must be able to deal with storing data when the two tasks are out of sync .
+0;Consider the following two cases  A send operation occurs 5 seconds before the receive is ready _ where is the message while the receive is pending  Multiple sends arrive at the same receiving task which can only accept one send at a time _ what happens to the messages that are  backing up  .
+0;The MPI implementation decides what happens to data in these types of cases  Typically, a system buffer area is reserved to hold data in transit  For example .
+0;System buffer space is  Opaque to the programmer and managed entirely by the MPI library A finite resource that can be easy to exhaust Often mysterious and not well documented Able to exist on the sending side, the receiving side, or both Something that may improve program performance because it allows send _ receive operations to be asynchronous .
+0;User managed address space is called the application buffer  MPI also provides for a user managed send buffer .
+0;A send operation occurs 5 seconds before the receive is ready _ where is the message while the receive is pending .
+0;Multiple sends arrive at the same receiving task which can only accept one send at a time _ what happens to the messages that are  backing up  .
+0;Opaque to the programmer and managed entirely by the MPI library.
+0;A finite resource that can be easy to exhaust.
+0;Often mysterious and not well documented.
+0;Able to exist on the sending side, the receiving side, or both.
+0;Something that may improve program performance because it allows send _ receive operations to be asynchronous .
+0;Most of the MPI point_to_point routines can be used in either blocking or non_blocking mode .
+0;Blocking  A blocking send routine will only  return  after it is safe to modify the application buffer for reuse  Safe means that modifications will not affect the data intended for the receive task  Safe does not imply that the data was actually received _ it may very well be sitting in a system buffer  A blocking send can be synchronous which means there is handshaking occurring with the receive task to confirm a safe send  A blocking send can be asynchronous if a system buffer is used to hold the data for eventual delivery to the receive  A blocking receive only  returns  after the data has arrived and is ready for use by the program .
+0;Non_blocking  Non_blocking send and receive routines behave similarly _ they will return almost immediately  They do not wait for any communication events to complete, such as message copying from user memory to system buffer space or the actual arrival of message  Non_blocking operations simply  request  the MPI library to perform the operation when it is able  The user can not predict when that will happen  It is unsafe to modify the application buffer until you know for a fact the requested non_blocking operation was actually performed by the library  There are  wait  routines used to do this  Non_blocking communications are primarily used to overlap computation with communication and exploit possible performance gains  Blocking Send Non_blocking Send   myvar   0     for       task   i      MPI_Send       myvar   myvar   2          do some work                  myvar   0     for       task   i      MPI_Isend       myvar   myvar   2           do some work          MPI_Wait             Safe  Why  Unsafe  Why .
+0;A blocking send routine will only  return  after it is safe to modify the application buffer for reuse  Safe means that modifications will not affect the data intended for the receive task  Safe does not imply that the data was actually received _ it may very well be sitting in a system buffer .
+0;A blocking send can be synchronous which means there is handshaking occurring with the receive task to confirm a safe send .
+0;A blocking send can be asynchronous if a system buffer is used to hold the data for eventual delivery to the receive .
+0;A blocking receive only  returns  after the data has arrived and is ready for use by the program .
+0;Non_blocking send and receive routines behave similarly _ they will return almost immediately  They do not wait for any communication events to complete, such as message copying from user memory to system buffer space or the actual arrival of message .
+0;Non_blocking operations simply  request  the MPI library to perform the operation when it is able  The user can not predict when that will happen .
+0;It is unsafe to modify the application buffer until you know for a fact the requested non_blocking operation was actually performed by the library  There are  wait  routines used to do this .
+0;Non_blocking communications are primarily used to overlap computation with communication and exploit possible performance gains  Blocking Send Non_blocking Send   myvar   0     for       task   i      MPI_Send       myvar   myvar   2          do some work                  myvar   0     for       task   i      MPI_Isend       myvar   myvar   2           do some work          MPI_Wait             Safe  Why  Unsafe  Why .
+0;Task 0 pings task 1 and awaits return ping.
+0;.
+0;     C Language _ Blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35       include  mpi h       include  stdio h        main       int numtasks, rank, dest, source, rc, count, tag 1        char inmsg, outmsg  x       MPI_Status Stat       required variable for receive routines       MPI_Init      MPI_Comm_size      MPI_Comm_rank           task 0 sends to task 1 and waits to receive a return message     if         dest   1        source   1        MPI_Send        MPI_Recv                    task 1 waits for task 0 message then returns a message     else if         dest   0        source   0        MPI_Recv        MPI_Send                   query recieve Stat variable and print message details     MPI_Get_count      printffrom task  d with tag  d  n ,            rank, count, Stat MPI_SOURCE, Stat MPI_TAG         MPI_Finalize       .
 0;.
 0;.
-0;Every algebraic curve may be uniquely decomposed into a finite number of smooth monotone arcs connected by some points sometimes called  remarkable points .
-0; A smooth monotone arc is the graph of a smooth function which is defined and monotone on an open interval of the x_axis.
-0; In each direction, an arc is either unbounded or has an end point which is either a singular point or a point with a tangent parallel to one of the coordinate axes.
-0;and.
-0;v.
-0;t.
-0;e.
-0;v.
-0;t.
-0;e.
+0;.
+0;     Fortran _ Blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36      program ping     include  mpif h        integer numtasks, rank, dest, source, count, tag, ierr     integer stat    required variable for receive routines     character inmsg, outmsg     outmsg    x      tag   1       call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         task 0 sends to task 1 and waits to receive a return message     if then        dest   1        source   1        call MPI_SEND        call MPI_RECV         task 1 waits for task 0 message then returns a message     else if then        dest   0        source   0        call MPI_RECV        call MPI_SEND     endif         query recieve Stat variable and print message details     call MPI_GET_COUNT     print  ,  Task  ,rank,   Received , count,  charfrom task ,                stat,  with tag ,stat       call MPI_FINALIZE       end.
+0;Nearest neighbor exchange in a ring topology.
 0;.
 0;.
-0;This allows to consider that an affine curve and its projective completion are the same curve, or, more precisely that the affine curve is a part of the projective curve that is large enough to well define the  complete  curve.
-0; This point of view is commonly expressed by calling  points at infinity  of the affine curve the points of the projective completion that do not belong to the affine part.
-0;and.
-0;v.
-0;t.
-0;e.
-0;v.
-0;t.
-0;e.
+0;     C Language _ Non_blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34       include  mpi h       include  stdio h        main       int numtasks, rank, next, prev, buf 2 , tag1 1, tag2 2      MPI_Request reqs 4        required variable for non_blocking calls     MPI_Status stats 4        required variable for Waitall routine       MPI_Init      MPI_Comm_size      MPI_Comm_rank              determine left and right neighbors     prev   rank_1      next   rank 1      if  prev   numtasks _ 1      if    next   0           post non_blocking receives and sends for neighbors     MPI_Irecv      MPI_Irecv        MPI_Isend      MPI_Isend                do some work while sends receives progress in background          wait for all non_blocking operations to complete     MPI_Waitall                continue _ do more work       MPI_Finalize       .
 0;.
 0;.
-0;Algebra is all about graphing relationships, and the curve is one of the most basic shapes used.
-0; Here s a look at eight of the most frequently used graphs.
+0;.
+0;     Fortran _ Non_blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40      program ringtopo     include  mpif h        integer numtasks, rank, next, prev, buf, tag1, tag2, ierr     integer reqs    required variable for non_blocking calls      integer stats    required variable for WAITALL routine      tag1   1     tag2   2       call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         determine left and right neighbors      prev   rank _ 1     next   rank   1     if then        prev   numtasks _ 1     endif     if then        next   0     endif         post non_blocking receives and sends for neighbors      call MPI_IRECV, 1, MPI_INTEGER, prev, tag1, MPI_COMM_WORLD, reqs, ierr      call MPI_IRECV, 1, MPI_INTEGER, next, tag2, MPI_COMM_WORLD, reqs, ierr        call MPI_ISEND, ierr      call MPI_ISEND, ierr             do some work while sends receives progress in background         wait for all non_blocking operations to complete      call MPI_WAITALL             continue _ do more work       call MPI_FINALIZE       end.
+0;Login to the LC workshop cluster, if you are not already logged in.
+0;Using your  Hello World  MPI program from Exercise 1, add MPI blocking point_to_point routines to send and receive messages.
+0;Successfully compile your program.
+0;Successfully run your program _ several different ways.
+0;Try the same thing with nonblocking send receive routines.
+0;Perform a scatter operation on the rows of an array.
+0;.
+0;     C Language _ Collective Communications Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33       include  mpi h       include  stdio h       define SIZE 4       main       int numtasks, rank, sendcount, recvcount, source      float sendbuf SIZE  SIZE             1 0, 2 0, 3 0, 4 0 ,        5 0, 6 0, 7 0, 8 0 ,        9 0, 10 0, 11 0, 12 0 ,        13 0, 14 0, 15 0, 16 0          float recvbuf SIZE         MPI_Init      MPI_Comm_rank      MPI_Comm_size        if            define source task and elements to send receive, then perform collective scatter       source   1        sendcount   SIZE        recvcount   SIZE        MPI_Scatter sendbuf,sendcount,MPI_FLOAT,recvbuf,recvcount,                   MPI_FLOAT,source,MPI_COMM_WORLD           printf  rank   d  Results   f  f  f  f n ,rank,recvbuf 0 ,              recvbuf 1 ,recvbuf 2 ,recvbuf 3                else       printf        MPI_Finalize       .
+0;.
+0;.
+0;.
+0;     Fortran _ Collective Communications Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36      program scatter     include  mpif h        integer SIZE     parameter     integer numtasks, rank, sendcount, recvcount, source, ierr     real 4 sendbuf, recvbuf         Fortran stores this array in column major order, so the        scatter will actually scatter columns, not rows      data sendbuf  1 0, 2 0, 3 0, 4 0,                     5 0, 6 0, 7 0, 8 0,                     9 0, 10 0, 11 0, 12 0,                     13 0, 14 0, 15 0, 16 0         call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE       if then          define source task and elements to send receive, then perform collective scatter        source   1        sendcount   SIZE        recvcount   SIZE        call MPI_SCATTER sendbuf, sendcount, MPI_REAL, recvbuf, recvcount, MPI_REAL,                           source, MPI_COMM_WORLD, ierr           print  ,  rank   ,rank,  Results   ,recvbuf        else        print  ,  Must specify ,SIZE,  processors   Terminating        endif       call MPI_FINALIZE       end.
+0;.
+0;.
+0;rank  0  Results  1 000000 2 000000 3 000000 4 000000  rank  1  Results  5 000000 6 000000 7 000000 8 000000  rank  2  Results  9 000000 10 000000 11 000000 12 000000  rank  3  Results  13 000000 14 000000 15 000000 16 000000.
+0;.
+0;As previously mentioned, MPI predefines its primitive data types  C Data Types Fortran Data Types   MPI_CHAR  MPI_WCHAR  MPI_SHORT  MPI_INT  MPI_LONG  MPI_LONG_LONG_INT   MPI_LONG_LONG      MPI_SIGNED_CHAR  MPI_UNSIGNED_CHAR  MPI_UNSIGNED_SHORT  MPI_UNSIGNED_LONG  MPI_UNSIGNED  MPI_FLOAT  MPI_DOUBLE  MPI_LONG_DOUBLE     MPI_C_COMPLEX  MPI_C_FLOAT_COMPLEX  MPI_C_DOUBLE_COMPLEX  MPI_C_LONG_DOUBLE_COMPLEX      MPI_C_BOOL  MPI_LOGICAL  MPI_C_LONG_DOUBLE_COMPLEX     MPI_INT8_T   MPI_INT16_T  MPI_INT32_T   MPI_INT64_T      MPI_UINT8_T   MPI_UINT16_T   MPI_UINT32_T   MPI_UINT64_T  MPI_BYTE  MPI_PACKED     MPI_CHARACTER  MPI_INTEGER  MPI_INTEGER1   MPI_INTEGER2  MPI_INTEGER4  MPI_REAL  MPI_REAL2   MPI_REAL4  MPI_REAL8  MPI_DOUBLE_PRECISION  MPI_COMPLEX  MPI_DOUBLE_COMPLEX  MPI_LOGICAL  MPI_BYTE  MPI_PACKED.
+0;MPI also provides facilities for you to define your own data structures based upon sequences of the MPI primitive data types  Such user defined structures are called derived data types .
+0;Primitive data types are contiguous  Derived data types allow you to specify non_contiguous data in a convenient manner and to treat it as though it was contiguous .
+0;MPI provides several methods for constructing derived data types  Contiguous Vector Indexed Struct.
+0;Contiguous.
+0;Vector.
+0;Indexed.
+0;Struct.
+0;Create a data type representing a row of an array and distribute a different row to all processes .
+0;.
+0;     C Language _ Contiguous Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43       include  mpi h       include  stdio h       define SIZE 4       main       int numtasks, rank, source 0, dest, tag 1, i      float a SIZE  SIZE           1 0, 2 0, 3 0, 4 0,        5 0, 6 0, 7 0, 8 0,        9 0, 10 0, 11 0, 12 0,        13 0, 14 0, 15 0, 16 0       float b SIZE         MPI_Status stat      MPI_Datatype rowtype       required variable       MPI_Init      MPI_Comm_rank      MPI_Comm_size           create contiguous derived data type     MPI_Type_contiguous      MPI_Type_commit        if             task 0 sends one element of rowtype to all tasks        if             for              MPI_Send                          all tasks receive rowtype data from task 0        MPI_Recv         printf  rank   d  b   3 1f  3 1f  3 1f  3 1f n ,               rank,b 0 ,b 1 ,b 2 ,b 3                 else        printf           free datatype when done using it     MPI_Type_free      MPI_Finalize       .
+0;.
+0;.
+0;.
+0;     Fortran _ Contiguous Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46      program contiguous     include  mpif h        integer SIZE     parameter     integer numtasks, rank, source, dest, tag, i,  ierr     real 4 a, b     integer stat     integer columntype     required variable     tag   1         Fortran stores this array in column major order     data a   1 0, 2 0, 3 0, 4 0,                5 0, 6 0, 7 0, 8 0,                9 0, 10 0, 11 0, 12 0,                 13 0, 14 0, 15 0, 16 0         call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         create contiguous derived data type     call MPI_TYPE_CONTIGUOUS     call MPI_TYPE_COMMIT         if then          task 0 sends one element of columntype to all tasks        if then           do i 0, numtasks_1           call MPI_SEND, 1, columntype, i, tag, MPI_COMM_WORLD,ierr            end do        endif            all tasks receive columntype data from task 0        source   0        call MPI_RECV        print  ,  rank   ,rank,  b   ,b     else        print  ,  Must specify ,SIZE,  processors   Terminating        endif         free datatype when done using it     call MPI_TYPE_FREE     call MPI_FINALIZE       end.
+0;.
+0;.
+0;rank  0  b  1 0 2 0 3 0 4 0  rank  1  b  5 0 6 0 7 0 8 0  rank  2  b  9 0 10 0 11 0 12 0  rank  3  b  13 0 14 0 15 0 16 0.
+0;Create a data type representing a column of an array and distribute different columns to all processes .
+0;.
+0;     C Language _ Vector Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44       include  mpi h       include  stdio h       define SIZE 4       main       int numtasks, rank, source 0, dest, tag 1, i      float a SIZE  SIZE            1 0, 2 0, 3 0, 4 0,          5 0, 6 0, 7 0, 8 0,         9 0, 10 0, 11 0, 12 0,       13 0, 14 0, 15 0, 16 0       float b SIZE          MPI_Status stat      MPI_Datatype columntype       required variable         MPI_Init      MPI_Comm_rank      MPI_Comm_size              create vector derived data type     MPI_Type_vector      MPI_Type_commit        if             task 0 sends one element of columntype to all tasks        if             for               MPI_Send                           all tasks receive columntype data from task 0        MPI_Recv         printf  rank   d  b   3 1f  3 1f  3 1f  3 1f n ,               rank,b 0 ,b 1 ,b 2 ,b 3                 else        printf           free datatype when done using it     MPI_Type_free      MPI_Finalize       .
+0;.
+0;.
+0;.
+0;     Fortran _ Vector Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46      program vector     include  mpif h        integer SIZE     parameter     integer numtasks, rank, source, dest, tag, i,  ierr     real 4 a, b     integer stat     integer rowtype     required variable     tag   1         Fortran stores this array in column major order     data a   1 0, 2 0, 3 0, 4 0,                5 0, 6 0, 7 0, 8 0,                 9 0, 10 0, 11 0, 12 0,                13 0, 14 0, 15 0, 16 0         call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         create vector derived data type     call MPI_TYPE_VECTOR     call MPI_TYPE_COMMIT         if then          task 0 sends one element of rowtype to all tasks        if then           do i 0, numtasks_1           call MPI_SEND, 1, rowtype, i, tag, MPI_COMM_WORLD, ierr            end do        endif            all tasks receive rowtype data from task 0        source   0        call MPI_RECV        print  ,  rank   ,rank,  b   ,b     else        print  ,  Must specify ,SIZE,  processors   Terminating        endif         free datatype when done using it     call MPI_TYPE_FREE     call MPI_FINALIZE       end.
+0;.
+0;.
+0;rank  0  b  1 0 5 0 9 0 13 0  rank  1  b  2 0 6 0 10 0 14 0  rank  2  b  3 0 7 0 11 0 15 0  rank  3  b  4 0 8 0 12 0 16 0.
+0;Create a datatype by extracting variable portions of an array and distribute to all tasks .
+0;.
+0;     C Language _ Indexed Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43       include  mpi h       include  stdio h       define NELEMENTS 6       main       int numtasks, rank, source 0, dest, tag 1, i      int blocklengths 2 , displacements 2       float a 16            1 0, 2 0, 3 0, 4 0, 5 0, 6 0, 7 0, 8 0,         9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0       float b NELEMENTS          MPI_Status stat      MPI_Datatype indextype       required variable       MPI_Init      MPI_Comm_rank      MPI_Comm_size        blocklengths 0    4      blocklengths 1    2      displacements 0    5      displacements 1    12              create indexed derived data type     MPI_Type_indexed      MPI_Type_commit        if         for            task 0 sends one element of indextype to all tasks          MPI_Send                   all tasks receive indextype data from task 0     MPI_Recv      printf  rank   d  b   3 1f  3 1f  3 1f  3 1f  3 1f  3 1f n ,            rank,b 0 ,b 1 ,b 2 ,b 3 ,b 4 ,b 5                free datatype when done using it     MPI_Type_free      MPI_Finalize       .
+0;.
+0;.
+0;.
+0;     Fortran _ Indexed Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47      program indexed     include  mpif h        integer NELEMENTS     parameter     integer numtasks, rank, source, dest, tag, i,  ierr     integer blocklengths, displacements     real 4 a, b     integer stat     integer indextype     required variable     tag   1       data a   1 0, 2 0, 3 0, 4 0, 5 0, 6 0, 7 0, 8 0,                9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0         call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE       blocklengths  4     blocklengths  2     displacements  5     displacements  12         create indexed derived data type     call MPI_TYPE_INDEXED 2, blocklengths, displacements, MPI_REAL,                             indextype, ierr      call MPI_TYPE_COMMIT         if then          task 0 sends one element of indextype to all tasks        do i 0, numtasks_1        call MPI_SEND        end do     endif         all tasks receive indextype data from task 0     source   0     call MPI_RECV b, NELEMENTS, MPI_REAL, source, tag, MPI_COMM_WORLD,                     stat, ierr      print  ,  rank   ,rank,  b   ,b         free datatype when done using it     call MPI_TYPE_FREE     call MPI_FINALIZE       end.
+0;.
+0;.
+0;rank  0  b  6 0 7 0 8 0 9 0 13 0 14 0  rank  1  b  6 0 7 0 8 0 9 0 13 0 14 0  rank  2  b  6 0 7 0 8 0 9 0 13 0 14 0  rank  3  b  6 0 7 0 8 0 9 0 13 0 14 0.
+0;Create a data type that represents a particle and distribute an array of such particles to all processes .
+0;.
+0;     C Language _ Struct Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66       include  mpi h       include  stdio h       define NELEM 25       main       int numtasks, rank, source 0, dest, tag 1, i        typedef struct         float x, y, z        float velocity        int  n, type                   Particle      Particle     p NELEM , particles NELEM       MPI_Datatype particletype, oldtypes 2        required variables     int          blockcounts 2            MPI_Aint type used to be consistent with syntax of        MPI_Type_extent routine     MPI_Aint    offsets 2 , extent        MPI_Status stat        MPI_Init      MPI_Comm_rank      MPI_Comm_size            setup description of the 4 MPI_FLOAT fields x, y, z, velocity     offsets 0    0      oldtypes 0    MPI_FLOAT      blockcounts 0    4           setup description of the 2 MPI_INT fields n, type        need to first figure offset by getting size of MPI_FLOAT     MPI_Type_extent      offsets 1    4   extent      oldtypes 1    MPI_INT      blockcounts 1    2           define structured type and commit it     MPI_Type_struct      MPI_Type_commit           task 0 initializes the particle array and then sends it to each task     if         for            particles i  x   i   1 0           particles i  y   i   _1 0           particles i  z   i   1 0            particles i  velocity   0 25           particles i  n   i           particles i  type   i   2                    for           MPI_Send                    all tasks receive particletype data     MPI_Recv        printf  rank   d    3 2f  3 2f  3 2f  3 2f  d  d n , rank,p 3  x,          p 3  y,p 3  z,p 3  velocity,p 3  n,p 3  type            free datatype when done using it     MPI_Type_free      MPI_Finalize       .
+0;.
+0;.
+0;.
+0;     Fortan _ Struct Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63      program struct     include  mpif h        integer NELEM     parameter     integer numtasks, rank, source, dest, tag, i,  ierr     integer stat       type Particle     sequence     real 4 x, y, z, velocity     integer n, type     end type Particle       type p, particles     integer particletype, oldtypes    required variables     integer blockcounts, offsets, extent     tag   1       call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         setup description of the 4 MPI_REAL fields x, y, z, velocity     offsets  0     oldtypes  MPI_REAL     blockcounts  4         setup description of the 2 MPI_INTEGER fields n, type        need to first figure offset by getting size of MPI_REAL     call MPI_TYPE_EXTENT     offsets  4   extent     oldtypes  MPI_INTEGER     blockcounts  2         define structured type and commit it      call MPI_TYPE_STRUCT 2, blockcounts, offsets, oldtypes,                            particletype, ierr      call MPI_TYPE_COMMIT           task 0 initializes the particle array and then sends it to each task     if then        do i 0, NELEM_1        particles  Particle          end do          do i 0, numtasks_1        call MPI_SEND particles, NELEM, particletype, i, tag,                        MPI_COMM_WORLD, ierr         end do     endif         all tasks receive particletype data     source   0     call MPI_RECV p, NELEM, particletype, source, tag,                     MPI_COMM_WORLD, stat, ierr        print  ,  rank   ,rank,  p   ,p         free datatype when done using it     call MPI_TYPE_FREE     call MPI_FINALIZE     end.
+0;.
+0;.
+0;rank  0   3 00 _3 00 3 00 0 25 3 1  rank  2   3 00 _3 00 3 00 0 25 3 1  rank  1   3 00 _3 00 3 00 0 25 3 1  rank  3   3 00 _3 00 3 00 0 25 3 1.
+0;Create two different process groups for separate collective communications exchange  Requires creating new communicators also .
+0;.
+0;     C Language _ Group and Communicator Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43       include  mpi h       include  stdio h       define NPROCS 8       main       int        rank, new_rank, sendbuf, recvbuf, numtasks,                ranks1 4   0,1,2,3 , ranks2 4   4,5,6,7       MPI_Group  orig_group, new_group       required variables     MPI_Comm   new_comm       required variable       MPI_Init      MPI_Comm_rank      MPI_Comm_size        if         printf        MPI_Finalize        exit                sendbuf   rank           extract the original group handle     MPI_Comm_group            divide tasks into two distinct groups based upon rank     if         MPI_Group_incl              else         MPI_Group_incl                   create new new communicator and then perform collective communications     MPI_Comm_create      MPI_Allreduce           get rank in new group     MPI_Group_rank       printf        MPI_Finalize       .
+0;.
+0;.
+0;.
+0;     Fortran _ Group and Communicator Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42      program group     include  mpif h        integer NPROCS     parameter     integer rank, new_rank, sendbuf, recvbuf, numtasks     integer ranks1, ranks2, ierr     integer orig_group, new_group, new_comm     required variables     data ranks1  0, 1, 2, 3 , ranks2  4, 5, 6, 7        call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE       if then       print  ,  Must specify NPROCS   ,NPROCS,  Terminating         call MPI_FINALIZE       stop     endif       sendbuf   rank         extract the original group handle     call MPI_COMM_GROUP         divide tasks into two distinct groups based upon rank     if then        call MPI_GROUP_INCL     else         call MPI_GROUP_INCL     endif         create new new communicator and then perform collective communications     call MPI_COMM_CREATE     call MPI_ALLREDUCE         get rank in new group     call MPI_GROUP_RANK     print  ,  rank   ,rank,  newrank   ,new_rank,  recvbuf   , recvbuf       call MPI_FINALIZE     end.
+0;.
+0;.
+0;rank  7 newrank  3 recvbuf  22  rank  0 newrank  0 recvbuf  6  rank  1 newrank  1 recvbuf  6  rank  2 newrank  2 recvbuf  6  rank  6 newrank  2 recvbuf  22  rank  3 newrank  3 recvbuf  6  rank  4 newrank  0 recvbuf  22  rank  5 newrank  1 recvbuf  22.
+0;Create a 4 x 4 Cartesian topology from 16 processors and have each process exchange its rank with four neighbors .
+0;.
+0;     C Language _ Cartesian Virtual Topology Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54       include  mpi h       include  stdio h       define SIZE 16      define UP    0      define DOWN  1      define LEFT  2      define RIGHT 3       main       int numtasks, rank, source, dest, outbuf, i, tag 1,         inbuf 4   MPI_PROC_NULL,MPI_PROC_NULL,MPI_PROC_NULL,MPI_PROC_NULL, ,         nbrs 4 , dims 2   4,4 ,         periods 2   0,0 , reorder 0, coords 2         MPI_Request reqs 8       MPI_Status stats 8       MPI_Comm cartcomm       required variable       MPI_Init      MPI_Comm_size        if             create cartesian virtual topology, get rank, coordinates, neighbor ranks        MPI_Cart_create         MPI_Comm_rank         MPI_Cart_coords         MPI_Cart_shift         MPI_Cart_shift           printf   d  d  d  d n ,               rank,coords 0 ,coords 1 ,nbrs UP ,nbrs DOWN ,nbrs LEFT ,               nbrs RIGHT             outbuf   rank              exchange data with 4 neighbors        for             dest   nbrs i             source   nbrs i             MPI_Isend  outbuf, 1, MPI_INT, dest, tag,                      MPI_COMM_WORLD,  reqs i              MPI_Irecv  inbuf i , 1, MPI_INT, source, tag,                      MPI_COMM_WORLD,  reqs i 4                         MPI_Waitall              printf   d  d  d  d n ,               rank,inbuf UP ,inbuf DOWN ,inbuf LEFT ,inbuf RIGHT           else        printf           MPI_Finalize       .
+0;.
+0;.
+0;.
+0;     Fortran _ Cartesian Virtual Topology Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58      program cartesian     include  mpif h        integer SIZE, UP, DOWN, LEFT, RIGHT     parameter     parameter     parameter     parameter     parameter     integer numtasks, rank, source, dest, outbuf, i, tag, ierr,               inbuf, nbrs, dims, coords, periods, reorder     integer stats, reqs     integer cartcomm     required variable     data inbuf  MPI_PROC_NULL,MPI_PROC_NULL,MPI_PROC_NULL,MPI_PROC_NULL ,            dims  4,4 , tag  1 , periods  0,0 , reorder  0         call MPI_INIT     call MPI_COMM_SIZE         if then          create cartesian virtual topology, get rank, coordinates, neighbor ranks        call MPI_CART_CREATE MPI_COMM_WORLD, 2, dims, periods, reorder,                               cartcomm, ierr         call MPI_COMM_RANK        call MPI_CART_COORDS        call MPI_CART_SHIFT, nbrs, ierr         call MPI_CART_SHIFT, nbrs, ierr           writerank,coords,coords,nbrs,nbrs,                      nbrs,nbrs            exchange data with 4 neighbors        outbuf   rank        do i 1,4           dest   nbrs           source   nbrs           call MPI_ISEND outbuf, 1, MPI_INTEGER, dest, tag,                           MPI_COMM_WORLD, reqs, ierr            call MPI_IRECV, 1, MPI_INTEGER, source, tag,                           MPI_COMM_WORLD, reqs, ierr         enddo          call MPI_WAITALL          writerank,inbuf       else       print  ,  Must specify ,SIZE,  processors   Terminating        endif       call MPI_FINALIZE       20 format  rank   ,I3,  coords   ,I2,I2,                   neighbors   ,I3,I3,I3,I3       30 format  rank   ,I3,                   ,                   inbuf   ,I3,I3,I3,I3         end.
+0;.
+0;.
+0;rank    0 coords   0 0 neighbors   _1  4 _1  1  rank    0                  inbuf   _1  4 _1  1  rank    8 coords   2 0 neighbors    4 12 _1  9  rank    8                  inbuf    4 12 _1  9  rank    1 coords   0 1 neighbors   _1  5  0  2  rank    1                  inbuf   _1  5  0  2  rank   13 coords   3 1 neighbors    9 _1 12 14  rank   13                  inbuf    9 _1 12 14            rank    3 coords   0 3 neighbors   _1  7  2 _1  rank    3                  inbuf   _1  7  2 _1  rank   11 coords   2 3 neighbors    7 15 10 _1  rank   11                  inbuf    7 15 10 _1  rank   10 coords   2 2 neighbors    6 14  9 11  rank   10                  inbuf    6 14  9 11  rank    9 coords   2 1 neighbors    5 13  8 10  rank    9                  inbuf    5 13  8 10.
+0;Login to the LC workshop cluster, if you are not already logged in.
+0;Following the Exercise 3 instructions will take you through all sorts of MPI programs _ pick any all that are of interest .
+0;The intention is review the codes and see what s happening _ not just compile and run .
+0;Several codes provide serial examples for a comparison with the parallel MPI versions .
+0;Check out the  bug  programs .
+0;Author  Blaise Barney, Livermore Computing .
+0;MPI Standard documents  http   www mpi_forum org docs .
+0; Using MPI , Gropp, Lusk and Skjellum  MIT Press, 1994 .
+0;MPI Tutorials  www mcs anl gov research projects mpi tutorial.
+0;Livermore Computing specific information  Linux Clusters Overview tutorial computing llnl gov tutorials linux_clusters Using the Sequoia Vulcan BG Q Systems tutorial computing llnl gov tutorials bgq.
+0; A User s Guide to MPI , Peter S  Pacheco  Department of Mathematics, University of San Francisco .
+0;Linux Clusters Overview tutorial computing llnl gov tutorials linux_clusters.
+0;Using the Sequoia Vulcan BG Q Systems tutorial computing llnl gov tutorials bgq.
+0;These man pages were derived from the MVAPICH 0 9 implementation of MPI and may differ from the man pages of other implementations .
+0;Not all MPI routines are shown.
+0;    deprecated in MPI_2 0, replaced in MPI_3 0.
+0;The complete MPI_3 standard defines over 430 routines  Environment Management Routines MPI_Abort MPI_Errhandler_create  MPI_Errhandler_free MPI_Errhandler_get  MPI_Errhandler_set  MPI_Error_class MPI_Error_string MPI_Finalize MPI_Get_processor_name MPI_Get_version MPI_Init MPI_Initialized MPI_Wtick MPI_Wtime     Point_to_Point Communication Routines MPI_Bsend MPI_Bsend_init MPI_Buffer_attach MPI_Buffer_detach MPI_Cancel MPI_Get_count MPI_Get_elements MPI_Ibsend MPI_Iprobe MPI_Irecv MPI_Irsend MPI_Isend MPI_Issend MPI_Probe MPI_Recv MPI_Recv_init MPI_Request_free MPI_Rsend MPI_Rsend_init MPI_Send MPI_Send_init MPI_Sendrecv MPI_Sendrecv_replace MPI_Ssend MPI_Ssend_init MPI_Start MPI_Startall MPI_Test MPI_Test_cancelled MPI_Testall MPI_Testany MPI_Testsome MPI_Wait MPI_Waitall MPI_Waitany MPI_Waitsome Collective Communication Routines MPI_Allgather MPI_Allgatherv MPI_Allreduce MPI_Alltoall MPI_Alltoallv MPI_Barrier MPI_Bcast MPI_Gather MPI_Gatherv MPI_Op_create MPI_Op_free MPI_Reduce MPI_Reduce_scatter MPI_Scan MPI_Scatter MPI_Scatterv Process Group Routines MPI_Group_compare MPI_Group_difference MPI_Group_excl MPI_Group_free MPI_Group_incl MPI_Group_intersection MPI_Group_range_excl MPI_Group_range_incl MPI_Group_rank MPI_Group_size MPI_Group_translate_ranks MPI_Group_union Communicators Routines MPI_Comm_compare MPI_Comm_create MPI_Comm_dup MPI_Comm_free MPI_Comm_group MPI_Comm_rank MPI_Comm_remote_group MPI_Comm_remote_size MPI_Comm_size MPI_Comm_split MPI_Comm_test_inter MPI_Intercomm_create MPI_Intercomm_merge       Derived Types Routines MPI_Type_commit MPI_Type_contiguous MPI_Type_extent  MPI_Type_free MPI_Type_hindexed  MPI_Type_hvector  MPI_Type_indexed MPI_Type_lb MPI_Type_size MPI_Type_struct  MPI_Type_ub  MPI_Type_vector Virtual Topology Routines MPI_Cart_coords MPI_Cart_create MPI_Cart_get MPI_Cart_map MPI_Cart_rank MPI_Cart_shift MPI_Cart_sub MPI_Cartdim_get MPI_Dims_create MPI_Graph_create MPI_Graph_get MPI_Graph_map MPI_Graph_neighbors MPI_Graph_neighbors_count MPI_Graphdims_get MPI_Topo_test Miscellaneous Routines MPI_Address  MPI_Attr_delete  MPI_Attr_get  MPI_Attr_put  MPI_Keyval_create  MPI_Keyval_free  MPI_Pack MPI_Pack_size MPI_Pcontrol MPI_Unpack    .
+0;Example.
+0;Task 0 pings task 1 and awaits return ping.
+0;.
+0;     C Language _ Blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35       include  mpi h       include  stdio h        main       int numtasks, rank, dest, source, rc, count, tag 1        char inmsg, outmsg  x       MPI_Status Stat       required variable for receive routines       MPI_Init      MPI_Comm_size      MPI_Comm_rank           task 0 sends to task 1 and waits to receive a return message     if         dest   1        source   1        MPI_Send        MPI_Recv                    task 1 waits for task 0 message then returns a message     else if         dest   0        source   0        MPI_Recv        MPI_Send                   query recieve Stat variable and print message details     MPI_Get_count      printffrom task  d with tag  d  n ,            rank, count, Stat MPI_SOURCE, Stat MPI_TAG         MPI_Finalize       .
+0;.
+0;.
+0;.
+0;     Fortran _ Blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36      program ping     include  mpif h        integer numtasks, rank, dest, source, count, tag, ierr     integer stat    required variable for receive routines     character inmsg, outmsg     outmsg    x      tag   1       call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         task 0 sends to task 1 and waits to receive a return message     if then        dest   1        source   1        call MPI_SEND        call MPI_RECV         task 1 waits for task 0 message then returns a message     else if then        dest   0        source   0        call MPI_RECV        call MPI_SEND     endif         query recieve Stat variable and print message details     call MPI_GET_COUNT     print  ,  Task  ,rank,   Received , count,  charfrom task ,                stat,  with tag ,stat       call MPI_FINALIZE       end.
+0;How is Message Passing used in OOPs concept of C   .

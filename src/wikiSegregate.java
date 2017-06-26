@@ -129,7 +129,7 @@ public class wikiSegregate
 //            e.printStackTrace();
 //        }
         String head_temp = head_wiki.replaceAll(" " , "_");
-        ArrayList<String> head_cat = get_categories(get_cats(head_temp));
+//        ArrayList<String> head_cat = get_categories(get_cats(head_temp));
 
         FileReader fr = new FileReader("processedMappedUpdated.csv");
         BufferedReader br = new BufferedReader(fr);
@@ -175,15 +175,15 @@ public class wikiSegregate
                         String temp1 = temp.replaceAll("\'>","");
                         // System.out.println(temp1);
                         String ent_temp = temp1.replaceAll(" " , "_");
-                        ArrayList<String> ent_cat = get_categories(get_cats(ent_temp));
-                        String matched_cats = map_categories(head_cat, ent_cat);
-                        int num_cats = 0;
-                        if(matched_cats.length() < 2){
-                            num_cats = 0;
-                        }
-                        else{
-                            num_cats = matched_cats.split("::").length;
-                        }
+//                        ArrayList<String> ent_cat = get_categories(get_cats(ent_temp));
+//                        String matched_cats = map_categories(head_cat, ent_cat);
+//                        int num_cats = 0;
+//                        if(matched_cats.length() < 2){
+//                            num_cats = 0;
+//                        }
+//                        else{
+//                            num_cats = matched_cats.split("::").length;
+//                        }
                         bw.write(component[0]+";"+component[1]+";"+component[2]+";"+temp1+";"+component[3]+";"+component[4]+";"+component[5]+";"+component[6]+";"+component[7]+";"+component[8]+";"+component[9]+";"+component[10]+ "\n");
                     }
                     else
@@ -227,15 +227,15 @@ public class wikiSegregate
                         String temp1 = temp.replaceAll("\'>","");
                         // System.out.println(temp1);
                         String ent_temp = temp1.replaceAll(" " , "_");
-                        ArrayList<String> ent_cat = get_categories(get_cats(ent_temp));
-                        String matched_cats = map_categories(head_cat, ent_cat);
-                        int num_cats = 0;
-                        if(matched_cats.length() < 2){
-                            num_cats = 0;
-                        }
-                        else{
-                            num_cats = matched_cats.split("::").length;
-                        }
+//                        ArrayList<String> ent_cat = get_categories(get_cats(ent_temp));
+//                        String matched_cats = map_categories(head_cat, ent_cat);
+//                        int num_cats = 0;
+//                        if(matched_cats.length() < 2){
+//                            num_cats = 0;
+//                        }
+//                        else{
+//                            num_cats = matched_cats.split("::").length;
+//                        }
                         bw2.write(component[0]+";"+component[1]+";"+component[2]+";"+temp1+";"+component[3]+";"+component[4]+";"+component[5]+";"+component[6]+";"+component[7]+";"+component[8]+";"+component[9]+";"+component[10]+ "\n");
                     }
                     else

@@ -8,13 +8,15 @@ import java.util.*;
 public class test1 {
     public static void main(String args[]) throws IOException
     {
-        String source = "Category";
-        String dest = "output/Category";
-        File sourceF = new File(source);
-        File destF = new File(dest);
-        if(!destF.exists()){
-            destF.mkdirs();
-        }
+        String source = "manjeet_(programming";
+        String dest = "manjeet_\\(programmingies";
+        String a = source.replaceAll("\\(","");
+        System.out.println(a);
+//        File sourceF = new File(source);
+//        File destF = new File(dest);
+//        if(!destF.exists()){
+//            destF.mkdirs();
+//        }
 //        try {
 //            boolean bool = destF.createNewFile();
 //        } catch (Exception e) {
@@ -22,17 +24,17 @@ public class test1 {
 //        }
 
 
-        String files[] = sourceF.list();
-
-        //Iterate over all files and copy them to destinationFolder one by one
-        for (String file : files)
-        {
-            File srcFile = new File(source, file);
-            File destFile = new File(dest, file);
-
-            //Recursive function call
-            Files.copy(srcFile.toPath(), destFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
-        }
+//        String files[] = sourceF.list();
+//
+//        //Iterate over all files and copy them to destinationFolder one by one
+//        for (String file : files)
+//        {
+//            File srcFile = new File(source, file);
+//            File destFile = new File(dest, file);
+//
+//            //Recursive function call
+//            Files.copy(srcFile.toPath(), destFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
+//        }
         //code for running wikipedia api from this project
 //        try {
 //            String command = "mapWiki.py";

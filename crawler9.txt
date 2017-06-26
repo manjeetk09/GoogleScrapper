@@ -1,85 +1,26 @@
-1;Common logical data models for databases include.
-1; Hierarchical database model.
-1; Network model.
-1; Relational model.
-1; Entity relationship model Enhanced entity relationship model.
-1; Object model.
-1; Document model.
-1; Entity attribute value model.
-1; Star schema.
-1;Enhanced.
-1;.
-1;.
-0;There are many kinds of data models.
-0; Some of the most common ones include.
-0; Hierarchical database model.
-0; Relational model.
-0; Network model.
-0; Object_oriented database model.
-0; Entity_relationship model.
-0; Document model.
-0; Entity_attribute_value model.
-0; Star schema.
-0; The object_relational model, which combines the two that make up its name.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;Common logical data models for databases include.
-0; Hierarchical database model.
-0; Network model.
-0; Relational model.
-0; Entity relationship model Enhanced entity relationship model.
-0; Object model.
-0; Document model.
-0; Entity attribute value model.
-0; Star schema.
-0;Enhanced.
-0;.
-0;.
-0;Provide concepts that are close to the way people perceive data to present the data.
-0; A typical example of this type is the entity relationship model which uses main concepts like entities, attributes, relationships.
-0; An entity represents a real_world object such as an employee, a project.
-0; An entity has some attributes which represents properties of entity such as employee s name, address, birthdate.
-0; A relationship represents an association among entities, for example an employee works on many projects.
-0; The relationship exists between employee and project.
-0;.
-0;Database systems can be based on different data models or database models respectively.
-0; A data model is a collection of concepts and rules for the description of the structure of the database.
-0; Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
-0; The most often used data models are.
-0;Database systems can be based on different data models or database models respectively.
-0; A data model is a collection of concepts and rules for the description of the structure of the database.
-0; Structure of the database means the data types, the constraints and the relationships for the description or storage of data respectively.
-0; The most often used data models are.
-0;A Database model defines the logical design of data.
-0; The model describes the relationships between different parts of the data.
-0; Historically, in database design, three models are commonly used.
-0; They are, Hierarchical Model.
-0; Network Model.
-0; Relational Model.
-0;     .
-0;  .
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;  .
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;A model is a representation of reality,  real world  objects and events, associations.
-0; It is an abstraction that concentrates on the essential, inherent aspects an organization and ignores the accidental properties.
-0; A data model represents the organization itself.
-0; It should provide the basic concepts and notations that will allow database designers and end users unambiguously and accurately to communicate their understanding of the organizational data.
-0;Data models define how the logical structure of a database is modeled.
-0; Data Models are fundamental entities to introduce abstraction in a DBMS.
-0; Data models define how data is connected to each other and how they are processed and stored inside the system.
-0;Entity_Relationship Model is based on the notion of real_world entities and relationships among them.
-0; While formulating real_world scenario into the database model, the ER Model creates entity set, relationship set, general attributes and constraints.
+0;Due to the deficiencies of the previous strategies, routing protocols become necessary in wireless sensor networks.
+0; Nevertheless, the inclusion of a routing protocol in a wireless sensor network is not a trivial task.
+0; One of the main limitations is the identification of nodes.
+0; Since wireless sensor networks are formed by a significant number of nodes, the manual assignation of unique identifiers becomes infeasible .
+0; The use of potentially unique identifier such as the MAC address or the GPS coordinates is not recommended as it forces a significant payload in the messages .
+0; However, this drawback is easily overcome in wireless sensor networks since an IP address is not required to identify the destination node of a specific packet.
+0; In fact, attribute_based addressing fits better with the specificities of wireless sensor networks.
+0; In this case, an attribute such as node location and sensor type is used to identify the final destination.
+0;Wireless sensor networks are formed by a significant number of nodes so the manual assignation of unique identifiers is infeasible.
+0; The use of the MAC address or the GPS coordinates is not recommended as it introduces a significant payload .
+0; However, network_wide unique addresses are not needed to identify the destination node of a specific packet in wireless sensor networks.
+0; In fact, attribute_based addressing fits better with the specificities of wireless sensor networks.
+0; In this case, an attribute such as node location and sensor type is used to identify the final destination.
+0; Concerning these identifiers, two different approaches have been proposed .
+0; Firstly, the ID reuse scheme allows identifiers to be repeated in the network but keeping their uniqueness in close areas.
+0; In this way, a node knows that its identifier is unique in a k_hop neighborhood, being k a parameter to configure.
+0; On the other hand, the field_wide unique ID schemes guarantee that the identifiers are unique in the whole application.
+0; With this assumption, other protocols such as routing, MAC or network configurations can be simultaneously used.
+0;Routing in Wireless Sensor Networks plays a significant role in the field of environment_oriented monitoring, traffic monitoring, etc.
+0; Here, wide contributions that are made toward routing in WSN are explored.
+0; The paper mainly aims to categorize the routing problems and examines the routing_related optimization problems.
+0; For achieving the motive, 50 papers from the standard journals are collected and primarily reviewed in a chronological way.
+0; Later, various features that are related to energy, security, speed and reliability problems of routing are discussed.
+0; Subsequently, the literature is analyzed based on the simulation environment and experimental setup, awareness over the Quality of Service and the deployment against various applications.
+0; In addition, the optimization of the routing algorithms and the meta_heuristic study of routing optimization are explored.
+0; Routing is a vast area with numerous unsolved issues and hence, various research gaps along with future directions are also presented.

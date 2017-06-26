@@ -1,58 +1,39 @@
-5;https://en.wikipedia.org/wiki/Database_model;related structures;2.0;0.25;4.0;0
-5;https://en.wikipedia.org/wiki/Database_model;object_relational database combines;3.0;0.25;4.0;0
-7;https://en.wikipedia.org/wiki/Database_model;inverted index;2.0;0.25;4.0;0
-8;https://en.wikipedia.org/wiki/Database_model;flat file;2.0;0.25;1.3333333333333333;0
-26;https://www.techopedia.com/definition/25330/flat-database;separated;1.0;0.030303030303030304;2.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;single table;2.0;0.030303030303030304;4.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;commas;1.0;0.030303030303030304;4.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;database;2.0;0.030303030303030304;4.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;delimiters;1.0;0.0;4.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;flat database;2.0;0.030303030303030304;1.3333333333333333;0
-26;https://www.techopedia.com/definition/25330/flat-database;simple database system;2.6666666666666665;0.030303030303030304;4.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;records;1.0;0.030303030303030304;4.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;tabs;1.0;0.030303030303030304;4.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;stored;1.0;0.06060606060606061;4.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;single rows;2.0;0.030303030303030304;4.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;represented;1.0;0.0;4.0;0
-26;https://www.techopedia.com/definition/25330/flat-database;data;1.0;0.030303030303030304;2.0;0
-27;https://www.techopedia.com/definition/25330/flat-database;simple text file;3.0;0.030303030303030304;4.0;0
-27;https://www.techopedia.com/definition/25330/flat-database;table;1.0;0.030303030303030304;4.0;0
-27;https://www.techopedia.com/definition/25330/flat-database;physically represented;2.0;0.030303030303030304;4.0;0
-27;https://www.techopedia.com/definition/25330/flat-database;stored;1.0;0.06060606060606061;4.0;0
-28;https://www.techopedia.com/definition/25330/flat-database;limitations;1.0;0.0;4.0;0
-28;https://www.techopedia.com/definition/25330/flat-database;unsuitable;1.0;0.030303030303030304;4.0;0
-28;https://www.techopedia.com/definition/25330/flat-database;represent;1.0;0.030303030303030304;4.0;0
-28;https://www.techopedia.com/definition/25330/flat-database;flat databases;2.0;0.06060606060606061;4.0;0
-28;https://www.techopedia.com/definition/25330/flat-database;software applications;2.0;0.030303030303030304;4.0;0
-29;https://www.techopedia.com/definition/25330/flat-database;integrating;1.0;0.0;4.0;0
-29;https://www.techopedia.com/definition/25330/flat-database;reduce;1.0;0.030303030303030304;4.0;0
-29;https://www.techopedia.com/definition/25330/flat-database;complexity;1.0;0.030303030303030304;4.0;0
-29;https://www.techopedia.com/definition/25330/flat-database;flat files;2.0;0.030303030303030304;4.0;0
-29;https://www.techopedia.com/definition/25330/flat-database;cost;1.0;0.030303030303030304;4.0;0
-29;https://www.techopedia.com/definition/25330/flat-database;relational database;2.0;0.030303030303030304;4.0;0
-29;https://www.techopedia.com/definition/25330/flat-database;application developers;2.0;0.030303030303030304;4.0;0
-29;https://www.techopedia.com/definition/25330/flat-database;order;1.0;0.030303030303030304;4.0;0
-30;https://www.techopedia.com/definition/25330/flat-database;flat_file databases;2.0;0.030303030303030304;4.0;0
-30;https://www.techopedia.com/definition/25330/flat-database;flat databases;2.0;0.06060606060606061;4.0;0
-30;https://www.techopedia.com/definition/25330/flat-database;referred;1.0;0.030303030303030304;4.0;0
-36;https://www.computerhope.com/jargon/f/flatfile.htm;files;1.0;0.058823529411764705;4.0;0
-36;https://www.computerhope.com/jargon/f/flatfile.htm;links;1.0;0.0;4.0;0
-36;https://www.computerhope.com/jargon/f/flatfile.htm;flat database;2.0;0.058823529411764705;1.3333333333333333;0
-36;https://www.computerhope.com/jargon/f/flatfile.htm;flat file;1.75;0.11764705882352941;2.0;0
-36;https://www.computerhope.com/jargon/f/flatfile.htm;non_relational database;2.0;0.058823529411764705;4.0;0
-36;https://www.computerhope.com/jargon/f/flatfile.htm;text database;2.0;0.058823529411764705;4.0;0
-36;https://www.computerhope.com/jargon/f/flatfile.htm;file;1.5;0.058823529411764705;4.0;0
-36;https://www.computerhope.com/jargon/f/flatfile.htm;data;1.0;0.058823529411764705;2.0;0
-36;https://www.computerhope.com/jargon/f/flatfile.htm;alternatively referred;2.0;0.058823529411764705;4.0;0
-37;https://www.computerhope.com/jargon/f/flatfile.htm;separated;1.0;0.058823529411764705;2.0;0
-37;https://www.computerhope.com/jargon/f/flatfile.htm;kind;1.0;0.0;4.0;0
-37;https://www.computerhope.com/jargon/f/flatfile.htm;good;1.0;0.058823529411764705;4.0;0
-37;https://www.computerhope.com/jargon/f/flatfile.htm;data needed;2.0;0.058823529411764705;4.0;0
-37;https://www.computerhope.com/jargon/f/flatfile.htm;flat file;2.25;0.11764705882352941;2.0;0
-37;https://www.computerhope.com/jargon/f/flatfile.htm;single text_only file;2.8333333333333335;0.058823529411764705;4.0;0
-37;https://www.computerhope.com/jargon/f/flatfile.htm;delimiter;1.0;0.0;4.0;0
-37;https://www.computerhope.com/jargon/f/flatfile.htm;program;1.0;0.058823529411764705;4.0;0
-38;http://www.ogcnetwork.net/node/191;implement wfs simple;3.0;0.25;4.0;0
-38;http://www.ogcnetwork.net/node/191;showing;1.0;0.25;4.0;0
-38;http://www.ogcnetwork.net/node/191;3 easy steps;1.3333333333333333;0.25;4.0;0
-38;http://www.ogcnetwork.net/node/191;flat database;2.0;0.25;1.3333333333333333;0
+1;https://en.wikipedia.org/wiki/Mobility_model;mobile user;2.0;0.02564102564102564;1.0;0
+1;https://en.wikipedia.org/wiki/Mobility_model;time;1.0;0.02564102564102564;1.0;0
+1;https://en.wikipedia.org/wiki/Mobility_model;location;1.0;0.0;1.0;0
+1;https://en.wikipedia.org/wiki/Mobility_model;acceleration change;2.0;0.02564102564102564;1.0;0
+1;https://en.wikipedia.org/wiki/Mobility_model;velocity;1.0;0.02564102564102564;1.0;0
+1;https://en.wikipedia.org/wiki/Mobility_model;mobility models represent;3.0;0.02564102564102564;1.0;0
+1;https://en.wikipedia.org/wiki/Mobility_model;movement;1.0;0.02564102564102564;1.0;0
+2;https://en.wikipedia.org/wiki/Mobility_model;investigated;1.0;0.0;1.0;0
+2;https://en.wikipedia.org/wiki/Mobility_model;models;1.0;0.02564102564102564;1.0;0
+2;https://en.wikipedia.org/wiki/Mobility_model;communication;1.0;0.0;1.0;0
+2;https://en.wikipedia.org/wiki/Mobility_model;navigation techniques;2.0;0.02564102564102564;1.0;0
+2;https://en.wikipedia.org/wiki/Mobility_model;simulation purposes;2.0;0.02564102564102564;1.0;0
+2;https://en.wikipedia.org/wiki/Mobility_model;frequently;1.0;0.02564102564102564;1.0;0
+3;https://en.wikipedia.org/wiki/Mobility_model;mobility models;2.25;0.05128205128205128;1.0;0
+3;https://en.wikipedia.org/wiki/Mobility_model;mobility management schemes;2.8333333333333335;0.02564102564102564;1.0;0
+12;https://en.wikipedia.org/wiki/Mobility_model;fan  helmy;1.3333333333333333;0.02564102564102564;1.0;0
+12;https://en.wikipedia.org/wiki/Mobility_model;ahmed;1.0;0.0;1.0;0
+12;https://en.wikipedia.org/wiki/Mobility_model;survey;1.0;0.02564102564102564;1.0;0
+12;https://en.wikipedia.org/wiki/Mobility_model;wireless adhoc networks;3.0;0.02564102564102564;1.0;0
+12;https://en.wikipedia.org/wiki/Mobility_model;mobility models;2.0;0.05128205128205128;1.0;0
+12;https://en.wikipedia.org/wiki/Mobility_model;bai;1.0;0.0;1.0;0
+13;https://en.wikipedia.org/wiki/Mobility_model;orlanda;1.0;0.0;1.0;0
+13;https://en.wikipedia.org/wiki/Mobility_model;usa;1.0;0.0;1.0;0
+13;https://en.wikipedia.org/wiki/Mobility_model;mobility model based;3.0;0.02564102564102564;1.0;0
+13;https://en.wikipedia.org/wiki/Mobility_model;lami;1.0;0.0;1.0;0
+13;https://en.wikipedia.org/wiki/Mobility_model;angermann;1.0;0.0;1.0;0
+13;https://en.wikipedia.org/wiki/Mobility_model;kammann;1.0;0.0;1.0;0
+13;https://en.wikipedia.org/wiki/Mobility_model;maps;1.0;0.02564102564102564;1.0;0
+13;https://en.wikipedia.org/wiki/Mobility_model;proceedings;1.0;0.0;1.0;0
+13;https://en.wikipedia.org/wiki/Mobility_model;october 6_9;2.0;0.02564102564102564;1.0;0
+14;https://en.wikipedia.org/wiki/Mobility_model;canada;1.0;0.0;1.0;0
+14;https://en.wikipedia.org/wiki/Mobility_model;seah;1.0;0.0;1.0;0
+14;https://en.wikipedia.org/wiki/Mobility_model;rush hour traffic;3.0;0.02564102564102564;1.0;0
+14;https://en.wikipedia.org/wiki/Mobility_model;multihop routing;2.0;0.02564102564102564;1.0;0
+14;https://en.wikipedia.org/wiki/Mobility_model;mobility modeling;2.0;0.02564102564102564;1.0;0
+14;https://en.wikipedia.org/wiki/Mobility_model;proceedings;1.0;0.0;1.0;0
+14;https://en.wikipedia.org/wiki/Mobility_model;mobile wireless networks;3.0;0.02564102564102564;1.0;0
+14;https://en.wikipedia.org/wiki/Mobility_model;quebec;1.0;0.0;1.0;0
+14;https://en.wikipedia.org/wiki/Mobility_model;montreal;1.0;0.0;1.0;0

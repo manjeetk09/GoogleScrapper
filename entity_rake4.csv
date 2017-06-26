@@ -1,583 +1,176 @@
-1;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;6.0;1
-1;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;6.0;1
-1;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;6.0;1
-1;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;6.0;1
-2;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;6.0;1
-2;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;6.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;6.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;6.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;6.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;6.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;6.0;1
-3;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;0.8571428571428571;1
-4;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;6.0;1
-4;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;6.0;1
-4;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.5;1
-4;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;6.0;1
-4;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;3.0;1
-5;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;6.0;1
-5;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;6.0;1
-11;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;6.0;1
-11;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;6.0;1
-11;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;6.0;1
-11;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;6.0;1
-12;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;6.0;1
-12;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;6.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;6.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;6.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;6.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;6.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;6.0;1
-13;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;0.8571428571428571;1
-14;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;6.0;1
-14;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;6.0;1
-14;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.5;1
-14;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;6.0;1
-14;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;3.0;1
-15;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;6.0;1
-15;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;6.0;1
-21;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;6.0;0
-21;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;6.0;0
-21;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;6.0;0
-21;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;6.0;0
-22;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;6.0;0
-22;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;6.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;6.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;6.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;6.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;6.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;6.0;0
-23;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;0.8571428571428571;0
-24;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;6.0;0
-24;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;6.0;0
-24;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.5;0
-24;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;6.0;0
-24;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;3.0;0
-25;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;6.0;0
-25;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;6.0;0
-31;https://en.wikipedia.org/wiki/Hierarchical_database_model;developed;1.0;0.05263157894736842;6.0;0
-31;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical structure;2.0;0.05263157894736842;6.0;0
-31;https://en.wikipedia.org/wiki/Hierarchical_database_model;early mainframe dbms;3.0;0.05263157894736842;6.0;0
-31;https://en.wikipedia.org/wiki/Hierarchical_database_model;ibm;1.0;0.0;6.0;0
-32;https://en.wikipedia.org/wiki/Hierarchical_database_model;records  relationships form;2.25;0.05263157894736842;6.0;0
-32;https://en.wikipedia.org/wiki/Hierarchical_database_model;treelike model;2.0;0.05263157894736842;6.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;relationship;1.5;0.0;6.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;simple;1.0;0.05263157894736842;6.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;one_to_many relationship;1.75;0.05263157894736842;6.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;inflexible;1.0;0.05263157894736842;6.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;confined;1.0;0.05263157894736842;6.0;0
-33;https://en.wikipedia.org/wiki/Hierarchical_database_model;structure;1.0;0.05263157894736842;0.8571428571428571;0
-34;https://en.wikipedia.org/wiki/Hierarchical_database_model;hierarchical database system;3.0;0.05263157894736842;6.0;0
-34;https://en.wikipedia.org/wiki/Hierarchical_database_model;multiple hierarchies;2.0;0.05263157894736842;6.0;0
-34;https://en.wikipedia.org/wiki/Hierarchical_database_model;data;1.0;0.05263157894736842;1.5;0
-34;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.0;0.10526315789473684;6.0;0
-34;https://en.wikipedia.org/wiki/Hierarchical_database_model;examples;1.0;0.05263157894736842;3.0;0
-35;https://en.wikipedia.org/wiki/Hierarchical_database_model;rdm mobile;2.25;0.10526315789473684;6.0;0
-35;https://en.wikipedia.org/wiki/Hierarchical_database_model;mobile computer system;2.8333333333333335;0.05263157894736842;6.0;0
-41;http://people.cs.pitt.edu/~chang/156/14hier.html;company database;2.0;0.5;6.0;0
-41;http://people.cs.pitt.edu/~chang/156/14hier.html;hierarchical schema;2.0;0.5;6.0;0
-42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;tree;1.0;0.058823529411764705;2.0;0
-42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;organized;1.0;0.058823529411764705;6.0;0
-42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;hierarchical model;2.0;0.11764705882352941;3.0;0
-42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;record;1.5;0.058823529411764705;6.0;0
-42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;parent record;1.75;0.058823529411764705;6.0;0
-42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;data;1.0;0.058823529411764705;0.8571428571428571;0
-42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;children;1.0;0.058823529411764705;1.2;0
-42;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;structure;1.0;0.058823529411764705;0.6;0
-43;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;relationships;1.0;0.0;6.0;0
-43;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;model;1.0;0.058823529411764705;0.5454545454545454;0
-43;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;main drawback;2.0;0.058823529411764705;6.0;0
-43;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;nodes;1.0;0.058823529411764705;1.5;0
-44;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;hierarchical data represented;3.0;0.058823529411764705;6.0;0
-44;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;relational tables;2.0;0.11764705882352941;6.0;0
-45;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;represented;1.0;0.0;6.0;0
-45;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;hierarchical model;2.0;0.11764705882352941;3.0;0
-45;http://beginnersbook.com/2015/04/hierarchical-model-in-dbms/;relational tables;2.0;0.11764705882352941;6.0;0
-46;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;limitations;1.0;0.0;6.0;0
-46;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;database model developed;2.8333333333333335;0.0625;6.0;0
-46;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;overcome;1.0;0.0625;6.0;0
-46;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;hierarchical model;2.25;0.0625;2.0;0
-46;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;traditional file system;3.0;0.0625;6.0;0
-47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;large;1.0;0.0;6.0;0
-47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;transactions;1.0;0.0;6.0;0
-47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;hierarchical databases;2.0;0.0625;6.0;0
-47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;predominantly;1.0;0.0;6.0;0
-47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;volume;1.0;0.0625;6.0;0
-47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;time;1.0;0.0625;6.0;0
-47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;transaction operations change;2.8333333333333335;0.0625;6.0;0
-47;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;transaction processing;2.25;0.0625;6.0;0
-48;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;popular;1.0;0.0625;6.0;0
-48;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;banks;1.0;0.0625;6.0;0
-48;https://www.dlsweb.rmit.edu.au/toolbox/Database/Certificate4_DB_Toolbox/content/models/hierarchical_model.htm;hierarchical database model;3.0;0.0625;6.0;0
-52;http://www.edugrabs.com/hierarchical-model/;admin;1.0;0.003355704697986577;6.0;0
-53;http://www.edugrabs.com/hierarchical-model/;july 29;0.5;0.003355704697986577;6.0;0
-54;http://www.edugrabs.com/hierarchical-model/;dbms;1.0;0.0;6.0;0
-54;http://www.edugrabs.com/hierarchical-model/;question bank;2.0;0.006711409395973154;6.0;0
-54;http://www.edugrabs.com/hierarchical-model/;data models;2.0;0.003355704697986577;6.0;0
-54;http://www.edugrabs.com/hierarchical-model/;database;1.0;0.016778523489932886;1.2;0
-55;http://www.edugrabs.com/hierarchical-model/;schedule based;2.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;super keys;2.125;0.013422818791946308;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;conflict;2.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;classification;1.66666666667;0.0;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;sql;1.75;0.0;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;sets;1.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;conflict serializable questions;2.555555555556667;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;supertype;1.0;0.0;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;gate students questions;2.88888888889;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;check;1.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;dbms;2.27272727273;0.0;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;operator queries;2.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;dbms architecture;2.136363636365;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;5nf classification;1.833333333335;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;recovery;1.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;update operations questions;2.88888888889;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;select command query;3.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;examples types;2.1;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;instance;1.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;file system;2.5;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;sql operators joins;2.4166666666666665;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;dbms keys;2.261363636365;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;questions close transaction;2.48888888889;0.006711409395973154;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;transaction classification;1.733333333335;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;functional dependency trivial;3.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;types functional dependency;2.733333333333333;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;dbms types;2.236363636365;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;fd applications;2.25;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;dbms er diagrams;2.757575757576667;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;candidate keys prime;2.75;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;disadvantages;1.0;0.0;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;dbms questions;2.469696969695;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;aggregation;1.0;0.0;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;functional dependencies closure;3.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;dbms components;2.136363636365;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;fd questions;2.333333333335;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;sql operators;2.125;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;file system advantages;2.6666666666666665;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;types;2.2;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;disadvantage;1.0;0.0;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;dbms execution steps;2.757575757576667;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;transaction;1.8;0.0;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;dbms database;1.80303030303;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;identifying;1.0;0.0;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;database;1.33333333333;0.016778523489932886;1.2;0
-55;http://www.edugrabs.com/hierarchical-model/;types composite entity;2.733333333333333;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;transaction starvation;1.9;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;prime attributes equivalence;2.6666666666666665;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;subtype;1.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;subquery;1.0;0.0;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;view serializable difference;3.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;dbms   intro dbms;1.50909090909;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;attributes;2.0;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;applications functional dependencies;2.8333333333333335;0.010067114093959731;6.0;0
-55;http://www.edugrabs.com/hierarchical-model/;constraints;1.0;0.0;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;transaction management questions;2.7777777777766666;0.003355704697986577;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;question bank;2.0;0.006711409395973154;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;file organisation _;3.0;0.003355704697986577;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;relational algebra;2.0;0.003355704697986577;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;relational model;2.1;0.003355704697986577;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;3 close;0.5;0.003355704697986577;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;transaction management sql;3.0;0.003355704697986577;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;dbms er model;2.566666666666667;0.003355704697986577;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;mix;1.0;0.003355704697986577;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;er model;2.35;0.003355704697986577;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;solved questions;2.166666666665;0.003355704697986577;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;erm;1.0;0.0;6.0;0
-56;http://www.edugrabs.com/hierarchical-model/;normalisation questions;2.166666666665;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;pointers function pointer;2.444444444443333;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;variables;1.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;operators expressions;2.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;pointers arrays;2.25;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;stored;1.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;examples;1.0;0.003355704697986577;1.2;0
-57;http://www.edugrabs.com/hierarchical-model/;gate students programs;3.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;close;2.0;0.010067114093959731;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;array;1.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;pointer;2.33333333333;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;close miscellaneous topics;2.6666666666666665;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;shorthands;1.0;0.0;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;switch statement difference;2.8333333333333335;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;functions;1.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;loop nested loops;2.5;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;memory layout;2.625;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;dynamic memory allocation;2.9166666666666665;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;introduction basics basics;3.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;program;1.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;control statements;2.25;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;loops difference;2.5;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;operators;1.5;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;memory   memory layout;1.6;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;switch iteration statements;2.8333333333333335;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;access multidimensional arrays;2.8333333333333335;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;close close;2.0;0.010067114093959731;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;errors data types;3.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;structure;2.0;0.003355704697986577;0.6;0
-57;http://www.edugrabs.com/hierarchical-model/;modifiers;1.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;pointers;2.0;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;gate pointers pointers;2.3333333333333335;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;type conversion;2.5;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;expressions   type conversion;1.5;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;type casting;2.25;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;structure   basics pointer;1.466666666666;0.003355704697986577;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;loop;2.0;0.0;6.0;0
-57;http://www.edugrabs.com/hierarchical-model/;integer data type;2.8333333333333335;0.003355704697986577;6.0;0
-58;http://www.edugrabs.com/hierarchical-model/;scheduling criterias types;2.88888888889;0.003355704697986577;6.0;0
-58;http://www.edugrabs.com/hierarchical-model/;cpu schedulingquestions;2.0;0.003355704697986577;6.0;0
-58;http://www.edugrabs.com/hierarchical-model/;basis;1.0;0.003355704697986577;6.0;0
-58;http://www.edugrabs.com/hierarchical-model/;_questions questions;2.0;0.003355704697986577;6.0;0
-58;http://www.edugrabs.com/hierarchical-model/;multiprogramming types;2.333333333335;0.003355704697986577;6.0;0
-58;http://www.edugrabs.com/hierarchical-model/;execution time degree;3.0;0.003355704697986577;6.0;0
-58;http://www.edugrabs.com/hierarchical-model/;goals;1.0;0.003355704697986577;6.0;0
-58;http://www.edugrabs.com/hierarchical-model/;scheduler;1.0;0.003355704697986577;6.0;0
-58;http://www.edugrabs.com/hierarchical-model/;system calls types;2.88888888889;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;business methods;2.166666666665;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;entrepreneur entrepreneurship;2.0;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;edps close close;3.0;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;economic development role;2.6666666666666665;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;entrepreneurs;1.0;0.0;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;intrapreneurship entrepreneurship;2.0;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;entrepreneur qualities;2.0;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;business life cycle;2.7777777777766666;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;start;1.5;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;economic development;2.5;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;country procedure;2.0;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;entrepreneurship characteristics;2.0;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;business start;1.916666666665;0.003355704697986577;6.0;0
-59;http://www.edugrabs.com/hierarchical-model/;expand;1.0;0.003355704697986577;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;schedule based;2.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;super keys;2.125;0.013422818791946308;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;conflict;2.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;classification;1.66666666667;0.0;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;sql;1.75;0.0;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;sets;1.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;conflict serializable questions;2.555555555556667;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;supertype;1.0;0.0;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;gate students questions;2.88888888889;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;check;1.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;dbms;2.27272727273;0.0;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;operator queries;2.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;dbms architecture;2.136363636365;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;5nf classification;1.833333333335;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;recovery;1.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;update operations questions;2.88888888889;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;select command query;3.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;examples types;2.1;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;instance;1.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;file system;2.5;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;sql operators joins;2.4166666666666665;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;dbms keys;2.261363636365;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;questions close transaction;2.48888888889;0.006711409395973154;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;transaction classification;1.733333333335;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;functional dependency trivial;3.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;types functional dependency;2.733333333333333;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;dbms types;2.236363636365;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;fd applications;2.25;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;dbms er diagrams;2.757575757576667;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;candidate keys prime;2.75;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;disadvantages;1.0;0.0;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;dbms questions;2.469696969695;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;aggregation;1.0;0.0;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;functional dependencies closure;3.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;dbms components;2.136363636365;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;fd questions;2.333333333335;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;sql operators;2.125;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;file system advantages;2.6666666666666665;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;types;2.2;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;disadvantage;1.0;0.0;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;dbms execution steps;2.757575757576667;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;transaction;1.8;0.0;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;dbms database;1.80303030303;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;identifying;1.0;0.0;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;database;1.33333333333;0.016778523489932886;1.2;0
-60;http://www.edugrabs.com/hierarchical-model/;types composite entity;2.733333333333333;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;transaction starvation;1.9;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;prime attributes equivalence;2.6666666666666665;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;subtype;1.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;subquery;1.0;0.0;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;view serializable difference;3.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;dbms   intro dbms;1.50909090909;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;attributes;2.0;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;applications functional dependencies;2.8333333333333335;0.010067114093959731;6.0;0
-60;http://www.edugrabs.com/hierarchical-model/;constraints;1.0;0.0;6.0;0
-61;http://www.edugrabs.com/hierarchical-model/;close;1.0;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;identifying;1.0;0.0;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;dbms execution steps;2.8571428571433333;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;dbms architecture;2.285714285715;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;dbms er diagrams;2.8571428571433333;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;dbms database;2.035714285715;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;disadvantages;1.0;0.0;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;attributes;1.0;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;database;1.5;0.016778523489932886;1.2;0
-62;http://www.edugrabs.com/hierarchical-model/;types composite entity;2.6666666666666665;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;aggregation;1.0;0.0;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;subtype;1.0;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;file system;2.5;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;dbms   intro dbms;1.628571428572;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;supertype;1.0;0.0;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;dbms components;2.285714285715;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;file system advantages;2.6666666666666665;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;types;2.0;0.010067114093959731;6.0;0
-62;http://www.edugrabs.com/hierarchical-model/;disadvantage;1.0;0.0;6.0;0
-63;http://www.edugrabs.com/hierarchical-model/;super keys;2.166666666665;0.013422818791946308;6.0;0
-63;http://www.edugrabs.com/hierarchical-model/;instance;1.0;0.010067114093959731;6.0;0
-63;http://www.edugrabs.com/hierarchical-model/;dbms questions;2.0;0.010067114093959731;6.0;0
-63;http://www.edugrabs.com/hierarchical-model/;candidate keys close;2.7777777777766666;0.003355704697986577;6.0;0
-63;http://www.edugrabs.com/hierarchical-model/;dbms keys;2.166666666665;0.010067114093959731;6.0;0
-64;http://www.edugrabs.com/hierarchical-model/;dbms types;2.0;0.010067114093959731;6.0;0
-64;http://www.edugrabs.com/hierarchical-model/;update operations questions;3.0;0.010067114093959731;6.0;0
-64;http://www.edugrabs.com/hierarchical-model/;constraint violations   close;1.8;0.003355704697986577;6.0;0
-64;http://www.edugrabs.com/hierarchical-model/;constraints;1.0;0.0;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;fd applications;2.25;0.010067114093959731;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;super keys;2.25;0.013422818791946308;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;candidate keys prime;2.8333333333333335;0.010067114093959731;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;examples types;2.25;0.010067114093959731;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;functional dependencies closure;2.9333333333333336;0.010067114093959731;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;prime attributes equivalence;3.0;0.010067114093959731;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;sets;1.0;0.010067114093959731;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;fd questions;2.0;0.010067114093959731;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;functional dependency;2.733333333335;0.003355704697986577;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;functional dependency trivial;2.822222222223333;0.010067114093959731;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;types functional dependency;2.6555555555566666;0.010067114093959731;6.0;0
-65;http://www.edugrabs.com/hierarchical-model/;applications functional dependencies;2.766666666666667;0.010067114093959731;6.0;0
-66;http://www.edugrabs.com/hierarchical-model/;5nf classification;1.75;0.010067114093959731;6.0;0
-66;http://www.edugrabs.com/hierarchical-model/;gate students questions;3.0;0.010067114093959731;6.0;0
-66;http://www.edugrabs.com/hierarchical-model/;classification;1.5;0.0;6.0;0
-67;http://www.edugrabs.com/hierarchical-model/;questions close;2.0;0.003355704697986577;6.0;0
-67;http://www.edugrabs.com/hierarchical-model/;select command query;3.0;0.010067114093959731;6.0;0
-67;http://www.edugrabs.com/hierarchical-model/;operator queries;2.0;0.010067114093959731;6.0;0
-67;http://www.edugrabs.com/hierarchical-model/;subquery;1.0;0.0;6.0;0
-67;http://www.edugrabs.com/hierarchical-model/;sql;1.6;0.0;6.0;0
-67;http://www.edugrabs.com/hierarchical-model/;sql operators;2.05;0.010067114093959731;6.0;0
-67;http://www.edugrabs.com/hierarchical-model/;sql operators joins;2.3666666666666667;0.010067114093959731;6.0;0
-68;http://www.edugrabs.com/hierarchical-model/;schedule based;2.0;0.010067114093959731;6.0;0
-68;http://www.edugrabs.com/hierarchical-model/;dbms;1.0;0.0;6.0;0
-68;http://www.edugrabs.com/hierarchical-model/;transaction;1.4;0.0;6.0;0
-68;http://www.edugrabs.com/hierarchical-model/;recovery;1.0;0.010067114093959731;6.0;0
-68;http://www.edugrabs.com/hierarchical-model/;database;1.0;0.016778523489932886;1.2;0
-68;http://www.edugrabs.com/hierarchical-model/;transaction starvation;1.7;0.010067114093959731;6.0;0
-68;http://www.edugrabs.com/hierarchical-model/;conflict serializable questions;2.6666666666666665;0.010067114093959731;6.0;0
-68;http://www.edugrabs.com/hierarchical-model/;view serializable difference;3.0;0.010067114093959731;6.0;0
-68;http://www.edugrabs.com/hierarchical-model/;transaction classification;1.7;0.010067114093959731;6.0;0
-68;http://www.edugrabs.com/hierarchical-model/;check;1.0;0.010067114093959731;6.0;0
-68;http://www.edugrabs.com/hierarchical-model/;conflict;2.0;0.010067114093959731;6.0;0
-69;http://www.edugrabs.com/hierarchical-model/;node;1.33333333333;0.010067114093959731;6.0;0
-69;http://www.edugrabs.com/hierarchical-model/;level 1;0.5;0.003355704697986577;6.0;0
-69;http://www.edugrabs.com/hierarchical-model/;root node;1.666666666665;0.010067114093959731;6.0;0
-69;http://www.edugrabs.com/hierarchical-model/;children;1.0;0.006711409395973154;1.5;0
-69;http://www.edugrabs.com/hierarchical-model/;node 4;0.666666666665;0.003355704697986577;6.0;0
-69;http://www.edugrabs.com/hierarchical-model/;called leaves;1.75;0.003355704697986577;6.0;0
-69;http://www.edugrabs.com/hierarchical-model/;figure 1;0.5;0.003355704697986577;6.0;0
-69;http://www.edugrabs.com/hierarchical-model/;nodes;1.0;0.010067114093959731;3.0;0
-69;http://www.edugrabs.com/hierarchical-model/;called;1.5;0.010067114093959731;6.0;0
-70;http://www.edugrabs.com/hierarchical-model/;nodes 2;0.5;0.003355704697986577;6.0;0
-70;http://www.edugrabs.com/hierarchical-model/;parent;1.0;0.003355704697986577;2.0;0
-70;http://www.edugrabs.com/hierarchical-model/;called siblings;1.75;0.003355704697986577;6.0;0
-70;http://www.edugrabs.com/hierarchical-model/;siblings;1.5;0.003355704697986577;6.0;0
-70;http://www.edugrabs.com/hierarchical-model/;nodes;1.0;0.010067114093959731;3.0;0
-70;http://www.edugrabs.com/hierarchical-model/;children;1.0;0.006711409395973154;1.5;0
-71;http://www.edugrabs.com/hierarchical-model/;node;1.5;0.010067114093959731;6.0;0
-71;http://www.edugrabs.com/hierarchical-model/;hierarchical path;2.0;0.006711409395973154;6.0;0
-71;http://www.edugrabs.com/hierarchical-model/;root node;1.75;0.010067114093959731;6.0;0
-71;http://www.edugrabs.com/hierarchical-model/;single path called;2.3333333333333335;0.003355704697986577;6.0;0
-71;http://www.edugrabs.com/hierarchical-model/;nodes ancestors;1.75;0.003355704697986577;6.0;0
-71;http://www.edugrabs.com/hierarchical-model/;path;2.0;0.010067114093959731;6.0;0
-71;http://www.edugrabs.com/hierarchical-model/;nodes;1.5;0.010067114093959731;3.0;0
-71;http://www.edugrabs.com/hierarchical-model/;called;2.0;0.010067114093959731;6.0;0
-72;http://www.edugrabs.com/hierarchical-model/;node;1.0;0.010067114093959731;6.0;0
-72;http://www.edugrabs.com/hierarchical-model/;leaf;1.0;0.0;6.0;0
-72;http://www.edugrabs.com/hierarchical-model/;similarly;1.0;0.003355704697986577;6.0;0
-72;http://www.edugrabs.com/hierarchical-model/;path;1.0;0.010067114093959731;6.0;0
-72;http://www.edugrabs.com/hierarchical-model/;descendent;1.0;0.003355704697986577;6.0;0
-72;http://www.edugrabs.com/hierarchical-model/;called;1.0;0.010067114093959731;6.0;0
-73;http://www.edugrabs.com/hierarchical-model/;node 10;0.5;0.003355704697986577;6.0;0
-73;http://www.edugrabs.com/hierarchical-model/;hierarchical path;2.0;0.006711409395973154;6.0;0
-73;http://www.edugrabs.com/hierarchical-model/;ancestors;1.0;0.003355704697986577;6.0;0
-73;http://www.edugrabs.com/hierarchical-model/;suppose;1.0;0.003355704697986577;6.0;0
-73;http://www.edugrabs.com/hierarchical-model/;find;1.0;0.003355704697986577;6.0;0
-74;http://www.edugrabs.com/hierarchical-model/;leaf;1.0;0.0;6.0;0
-74;http://www.edugrabs.com/hierarchical-model/;tree;1.0;0.006711409395973154;3.0;0
-74;http://www.edugrabs.com/hierarchical-model/;number;1.0;0.003355704697986577;6.0;0
-74;http://www.edugrabs.com/hierarchical-model/;levels;1.0;0.0;6.0;0
-74;http://www.edugrabs.com/hierarchical-model/;height;1.0;0.0;6.0;0
-74;http://www.edugrabs.com/hierarchical-model/;longest hierarchical path;3.0;0.003355704697986577;6.0;0
-74;http://www.edugrabs.com/hierarchical-model/;height  4;0.3333333333333333;0.003355704697986577;6.0;0
-74;http://www.edugrabs.com/hierarchical-model/;root;1.0;0.003355704697986577;6.0;0
-75;http://www.edugrabs.com/hierarchical-model/;leaf;1.0;0.0;6.0;0
-75;http://www.edugrabs.com/hierarchical-model/;root node;2.0;0.010067114093959731;6.0;0
-75;http://www.edugrabs.com/hierarchical-model/;tree;1.0;0.006711409395973154;3.0;0
-75;http://www.edugrabs.com/hierarchical-model/;length;1.0;0.0;6.0;0
-75;http://www.edugrabs.com/hierarchical-model/;balanced;1.0;0.003355704697986577;6.0;0
-75;http://www.edugrabs.com/hierarchical-model/;path;1.0;0.010067114093959731;6.0;0
-76;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0
-76;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hierarchical data model;3.0;0.011494252873563218;6.0;0
-76;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;multiple;1.0;0.011494252873563218;6.0;0
-76;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;organizing;1.0;0.011494252873563218;6.0;0
-76;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;database;1.0;0.022988505747126436;1.0;0
-77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;based;1.0;0.011494252873563218;6.0;0
-77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;parent;1.0;0.011494252873563218;3.0;0
-77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;rule;1.0;0.011494252873563218;6.0;0
-77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;allowed;1.0;0.011494252873563218;6.0;0
-77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;children;1.0;0.011494252873563218;1.5;0
-77;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;structure;1.0;0.022988505747126436;0.8571428571428571;0
-78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;2.0;0.0;6.0;0
-78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information management system;2.6666666666666665;0.011494252873563218;6.0;0
-78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;ibm;1.0;0.0;6.0;0
-78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;repeated;1.0;0.011494252873563218;6.0;0
-78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;implemented;1.0;0.0;6.0;0
-78;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;structure;1.0;0.022988505747126436;0.8571428571428571;0
-79;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;precursor;1.0;0.011494252873563218;6.0;0
-79;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;dbms;1.0;0.0;6.0;0
-80;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;advantages;1.0;0.011494252873563218;6.0;0
-81;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;1.0;0.0;6.0;0
-81;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0
-81;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;easy addition;2.0;0.011494252873563218;6.0;0
-81;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;deletion;1.0;0.011494252873563218;6.0;0
-82;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hierarchy;1.0;0.011494252873563218;6.0;0
-82;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;access;1.0;0.011494252873563218;6.0;0
-82;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;top;1.0;0.022988505747126436;6.0;0
-82;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;data;1.0;0.011494252873563218;1.0;0
-82;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;fast;1.0;0.011494252873563218;6.0;0
-83;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;tapes;1.0;0.022988505747126436;6.0;0
-83;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0
-83;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;work;1.0;0.011494252873563218;6.0;0
-83;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;worked;1.0;0.011494252873563218;6.0;0
-83;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;easy;1.0;0.011494252873563218;6.0;0
-84;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employee organization;2.0;0.011494252873563218;6.0;0
-84;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;natural hierarchies;2.0;0.011494252873563218;6.0;0
-84;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model relates;2.0;0.011494252873563218;6.0;0
-84;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;assembly plants;2.0;0.011494252873563218;6.0;0
-84;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;corporations;1.0;0.0;6.0;0
-85;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relates;1.0;0.011494252873563218;6.0;0
-85;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;works;1.0;0.011494252873563218;6.0;0
-85;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationship;1.0;0.0;6.0;0
-86;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employee;1.0;0.011494252873563218;6.0;0
-86;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;president;1.0;0.011494252873563218;6.0;0
-86;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employees;1.0;0.011494252873563218;6.0;0
-86;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;managers;1.0;0.011494252873563218;6.0;0
-86;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;manager;1.0;0.011494252873563218;6.0;0
-87;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;ga1111 disadvantages;2.0;0.011494252873563218;6.0;0
-88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;sophisticated relationships;2.0;0.011494252873563218;6.0;0
-88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;require;1.0;0.011494252873563218;6.0;0
-88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;back;1.0;0.011494252873563218;6.0;0
-88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0
-88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hold;1.0;0.011494252873563218;6.0;0
-88;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;issues;1.0;0.011494252873563218;6.0;0
-89;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;requires data;2.0;0.022988505747126436;6.0;0
-89;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;repetitively stored;2.0;0.011494252873563218;6.0;0
-89;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;entities;1.0;0.011494252873563218;6.0;0
-90;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;1.0;0.0;6.0;0
-90;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;lower entities;2.0;0.011494252873563218;6.0;0
-90;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;slow;1.0;0.022988505747126436;6.0;0
-90;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;searching;1.0;0.022988505747126436;6.0;0
-90;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;database;1.0;0.022988505747126436;1.0;0
-91;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;null;1.0;0.011494252873563218;6.0;0
-91;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;advantage;1.0;0.011494252873563218;6.0;0
-91;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;longer;1.0;0.0;6.0;0
-91;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;tapes;1.0;0.022988505747126436;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;data requires;2.0;0.022988505747126436;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;dbms;1.0;0.0;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;slow;1.0;0.022988505747126436;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;run;1.0;0.011494252873563218;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;making queries;2.0;0.011494252873563218;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;bottom;1.0;0.011494252873563218;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;top;1.0;0.022988505747126436;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;required information;2.0;0.011494252873563218;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;searching;1.0;0.022988505747126436;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;entire model;2.0;0.011494252873563218;6.0;0
-92;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;found;1.0;0.011494252873563218;6.0;0
-93;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0
-93;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0
-93;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;supported;1.0;0.011494252873563218;6.0;0
-94;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0
-94;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0
-94;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;required;1.0;0.011494252873563218;6.0;0
-94;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;make;1.0;0.011494252873563218;6.0;0
-94;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;clever manipulation;2.0;0.011494252873563218;6.0;0
-95;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;professor teaches classes;3.0;0.011494252873563218;6.0;0
-95;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;graduate student;2.0;0.011494252873563218;6.0;0
-111;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0
-111;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hierarchical data model;3.0;0.011494252873563218;6.0;0
-111;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;multiple;1.0;0.011494252873563218;6.0;0
-111;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;organizing;1.0;0.011494252873563218;6.0;0
-111;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;database;1.0;0.022988505747126436;1.0;0
-112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;based;1.0;0.011494252873563218;6.0;0
-112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;parent;1.0;0.011494252873563218;3.0;0
-112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;rule;1.0;0.011494252873563218;6.0;0
-112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;allowed;1.0;0.011494252873563218;6.0;0
-112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;children;1.0;0.011494252873563218;1.5;0
-112;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;structure;1.0;0.022988505747126436;0.8571428571428571;0
-113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;2.0;0.0;6.0;0
-113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information management system;2.6666666666666665;0.011494252873563218;6.0;0
-113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;ibm;1.0;0.0;6.0;0
-113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;repeated;1.0;0.011494252873563218;6.0;0
-113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;implemented;1.0;0.0;6.0;0
-113;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;structure;1.0;0.022988505747126436;0.8571428571428571;0
-114;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;precursor;1.0;0.011494252873563218;6.0;0
-114;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;dbms;1.0;0.0;6.0;0
-115;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;advantages;1.0;0.011494252873563218;6.0;0
-116;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;1.0;0.0;6.0;0
-116;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0
-116;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;easy addition;2.0;0.011494252873563218;6.0;0
-116;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;deletion;1.0;0.011494252873563218;6.0;0
-117;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hierarchy;1.0;0.011494252873563218;6.0;0
-117;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;access;1.0;0.011494252873563218;6.0;0
-117;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;top;1.0;0.022988505747126436;6.0;0
-117;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;data;1.0;0.011494252873563218;1.0;0
-117;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;fast;1.0;0.011494252873563218;6.0;0
-118;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;tapes;1.0;0.022988505747126436;6.0;0
-118;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0
-118;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;work;1.0;0.011494252873563218;6.0;0
-118;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;worked;1.0;0.011494252873563218;6.0;0
-118;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;easy;1.0;0.011494252873563218;6.0;0
-119;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employee organization;2.0;0.011494252873563218;6.0;0
-119;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;natural hierarchies;2.0;0.011494252873563218;6.0;0
-119;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model relates;2.0;0.011494252873563218;6.0;0
-119;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;assembly plants;2.0;0.011494252873563218;6.0;0
-119;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;corporations;1.0;0.0;6.0;0
-120;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relates;1.0;0.011494252873563218;6.0;0
-120;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;works;1.0;0.011494252873563218;6.0;0
-120;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationship;1.0;0.0;6.0;0
-121;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employee;1.0;0.011494252873563218;6.0;0
-121;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;president;1.0;0.011494252873563218;6.0;0
-121;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;employees;1.0;0.011494252873563218;6.0;0
-121;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;managers;1.0;0.011494252873563218;6.0;0
-121;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;manager;1.0;0.011494252873563218;6.0;0
-122;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;ga1111 disadvantages;2.0;0.011494252873563218;6.0;0
-123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;sophisticated relationships;2.0;0.011494252873563218;6.0;0
-123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;require;1.0;0.011494252873563218;6.0;0
-123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;back;1.0;0.011494252873563218;6.0;0
-123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0
-123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;hold;1.0;0.011494252873563218;6.0;0
-123;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;issues;1.0;0.011494252873563218;6.0;0
-124;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;requires data;2.0;0.022988505747126436;6.0;0
-124;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;repetitively stored;2.0;0.011494252873563218;6.0;0
-124;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;entities;1.0;0.011494252873563218;6.0;0
-125;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;information;1.0;0.0;6.0;0
-125;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;lower entities;2.0;0.011494252873563218;6.0;0
-125;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;slow;1.0;0.022988505747126436;6.0;0
-125;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;searching;1.0;0.022988505747126436;6.0;0
-125;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;database;1.0;0.022988505747126436;1.0;0
-126;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;null;1.0;0.011494252873563218;6.0;0
-126;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;advantage;1.0;0.011494252873563218;6.0;0
-126;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;longer;1.0;0.0;6.0;0
-126;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;tapes;1.0;0.022988505747126436;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;data requires;2.0;0.022988505747126436;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;dbms;1.0;0.0;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;slow;1.0;0.022988505747126436;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;run;1.0;0.011494252873563218;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;making queries;2.0;0.011494252873563218;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;bottom;1.0;0.011494252873563218;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;top;1.0;0.022988505747126436;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;required information;2.0;0.011494252873563218;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;searching;1.0;0.022988505747126436;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;entire model;2.0;0.011494252873563218;6.0;0
-127;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;found;1.0;0.011494252873563218;6.0;0
-128;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0
-128;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0
-128;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;supported;1.0;0.011494252873563218;6.0;0
-129;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;relationships;1.0;0.0;6.0;0
-129;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;model;1.0;0.05747126436781609;3.0;0
-129;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;required;1.0;0.011494252873563218;6.0;0
-129;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;make;1.0;0.011494252873563218;6.0;0
-129;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;clever manipulation;2.0;0.011494252873563218;6.0;0
-130;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;professor teaches classes;3.0;0.011494252873563218;6.0;0
-130;http://databasemanagement.wikia.com/wiki/Category:Hierarchical_Data_Model;graduate student;2.0;0.011494252873563218;6.0;0
+1;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;questions;1.0;0.08333333333333333;5.0;0
+2;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;1.25;0
+3;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;support;1.0;0.16666666666666666;5.0;0
+3;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;java;1.0;0.0;5.0;0
+3;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;1.25;0
+4;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;support;1.0;0.16666666666666666;5.0;0
+4;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;java;1.0;0.0;5.0;0
+4;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;1.25;0
+5;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;groovy;1.0;0.08333333333333333;5.0;0
+5;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;demonstrates;1.0;0.0;5.0;0
+5;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;concept;1.0;0.08333333333333333;5.0;0
+5;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;power;1.0;0.08333333333333333;5.0;0
+6;https://en.wikipedia.org/wiki/Message_passing;relies;1.0;0.014285714285714285;5.0;0
+6;https://en.wikipedia.org/wiki/Message_passing;run;1.0;0.014285714285714285;5.0;0
+6;https://en.wikipedia.org/wiki/Message_passing;invoke;1.0;0.02857142857142857;2.5;0
+6;https://en.wikipedia.org/wiki/Message_passing;supporting infrastructure;2.0;0.014285714285714285;5.0;0
+6;https://en.wikipedia.org/wiki/Message_passing;message passing sends;2.6666666666666665;0.014285714285714285;5.0;0
+6;https://en.wikipedia.org/wiki/Message_passing;process;1.0;0.02857142857142857;5.0;0
+6;https://en.wikipedia.org/wiki/Message_passing;actual code;2.0;0.014285714285714285;5.0;0
+6;https://en.wikipedia.org/wiki/Message_passing;computer science;2.0;0.014285714285714285;2.5;0
+6;https://en.wikipedia.org/wiki/Message_passing;message;2.0;0.02857142857142857;5.0;0
+6;https://en.wikipedia.org/wiki/Message_passing;select;1.0;0.014285714285714285;5.0;0
+7;https://en.wikipedia.org/wiki/Message_passing;function;1.0;0.014285714285714285;5.0;0
+7;https://en.wikipedia.org/wiki/Message_passing;subroutine;1.0;0.014285714285714285;5.0;0
+7;https://en.wikipedia.org/wiki/Message_passing;conventional programming;2.0;0.014285714285714285;5.0;0
+7;https://en.wikipedia.org/wiki/Message_passing;process;1.0;0.02857142857142857;5.0;0
+7;https://en.wikipedia.org/wiki/Message_passing;directly invoked;2.0;0.014285714285714285;5.0;0
+7;https://en.wikipedia.org/wiki/Message_passing;message passing differs;3.0;0.014285714285714285;5.0;0
+8;https://en.wikipedia.org/wiki/Message_passing;models;1.0;0.014285714285714285;5.0;0
+8;https://en.wikipedia.org/wiki/Message_passing;object_oriented programming;2.0;0.014285714285714285;5.0;0
+8;https://en.wikipedia.org/wiki/Message_passing;concurrency;1.0;0.0;5.0;0
+8;https://en.wikipedia.org/wiki/Message_passing;key;1.0;0.0;5.0;0
+8;https://en.wikipedia.org/wiki/Message_passing;message passing;2.0;0.014285714285714285;0.8333333333333334;0
+11;https://en.wikipedia.org/wiki/Message_passing;domain;1.0;0.014285714285714285;5.0;0
+11;https://en.wikipedia.org/wiki/Message_passing;computer graphics;2.0;0.014285714285714285;5.0;0
+11;https://en.wikipedia.org/wiki/Message_passing;examples;1.0;0.014285714285714285;5.0;0
+12;https://en.wikipedia.org/wiki/Message_passing;complexities involved;2.0;0.014285714285714285;5.0;0
+12;https://en.wikipedia.org/wiki/Message_passing;manipulating graphic objects;3.0;0.014285714285714285;5.0;0
+12;https://en.wikipedia.org/wiki/Message_passing;sorts;1.0;0.014285714285714285;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;triangle;1.0;0.014285714285714285;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;compute;1.0;0.02857142857142857;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;area;1.0;0.02857142857142857;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;vary depending;2.0;0.014285714285714285;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;elipse;1.0;0.0;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;enclosed shape;1.75;0.014285714285714285;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;shape;1.5;0.04285714285714286;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;simply;1.0;0.014285714285714285;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;formula;1.0;0.02857142857142857;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;circle;1.0;0.014285714285714285;5.0;0
+13;https://en.wikipedia.org/wiki/Message_passing;rectangle;1.0;0.02857142857142857;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;sort;1.0;0.014285714285714285;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;code;1.0;0.02857142857142857;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;object;1.0;0.02857142857142857;2.5;0
+14;https://en.wikipedia.org/wiki/Message_passing;traditional computer programming;3.0;0.014285714285714285;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;calling;1.0;0.014285714285714285;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;shape;1.0;0.04285714285714286;5.0;0
+14;https://en.wikipedia.org/wiki/Message_passing;result;1.0;0.014285714285714285;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;handle;1.0;0.014285714285714285;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;area;1.0;0.02857142857142857;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;simply send;2.0;0.014285714285714285;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;object_oriented;1.0;0.014285714285714285;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;shape;2.0;0.04285714285714286;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;class called shape;2.6666666666666665;0.014285714285714285;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;compute;1.0;0.02857142857142857;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;message;1.0;0.02857142857142857;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;subclasses;1.0;0.014285714285714285;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;ellipse;1.0;0.014285714285714285;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;rectangle;1.0;0.02857142857142857;5.0;0
+15;https://en.wikipedia.org/wiki/Message_passing;define;1.0;0.014285714285714285;5.0;0
+16;https://en.wikipedia.org/wiki/Message_passing;kind;1.0;0.0;5.0;0
+16;https://en.wikipedia.org/wiki/Message_passing;code;1.0;0.02857142857142857;5.0;0
+16;https://en.wikipedia.org/wiki/Message_passing;invoke;1.0;0.02857142857142857;2.5;0
+16;https://en.wikipedia.org/wiki/Message_passing;object;1.5;0.02857142857142857;2.5;0
+16;https://en.wikipedia.org/wiki/Message_passing;shape object;1.75;0.014285714285714285;5.0;0
+16;https://en.wikipedia.org/wiki/Message_passing;formula;1.0;0.02857142857142857;5.0;0
+19;https://en.wikipedia.org/wiki/Message_passing;java;1.0;0.0;5.0;0
+19;https://en.wikipedia.org/wiki/Message_passing;synchronous message passing;3.0;0.014285714285714285;5.0;0
+19;https://en.wikipedia.org/wiki/Message_passing;smalltalk;1.0;0.0;5.0;0
+20;https://en.wikipedia.org/wiki/Message_passing;storing;1.0;0.014285714285714285;5.0;0
+20;https://en.wikipedia.org/wiki/Message_passing;run concurrently;2.0;0.014285714285714285;5.0;0
+20;https://en.wikipedia.org/wiki/Message_passing;systems;1.0;0.014285714285714285;5.0;0
+20;https://en.wikipedia.org/wiki/Message_passing;retransmitting data;2.0;0.014285714285714285;5.0;0
+26;http://csit.merospark.com/third-semester/message-passing/;april 2017;0.5;0.0196078431372549;5.0;0
+27;http://csit.merospark.com/third-semester/message-passing/;march 2017;0.5;0.0196078431372549;5.0;0
+28;http://csit.merospark.com/third-semester/message-passing/;february 2017;0.5;0.0196078431372549;5.0;0
+29;http://csit.merospark.com/third-semester/message-passing/;january 2017;0.5;0.0196078431372549;5.0;0
+30;http://csit.merospark.com/third-semester/message-passing/;december 2016;0.5;0.0196078431372549;5.0;0
+31;http://csit.merospark.com/third-semester/message-passing/;november 2016;0.5;0.0196078431372549;5.0;0
+32;http://csit.merospark.com/third-semester/message-passing/;october 2016;0.5;0.0196078431372549;5.0;0
+33;http://csit.merospark.com/third-semester/message-passing/;september 2016;0.5;0.0196078431372549;5.0;0
+34;http://csit.merospark.com/third-semester/message-passing/;august 2016;0.5;0.0196078431372549;5.0;0
+35;http://csit.merospark.com/third-semester/message-passing/;july 2016;0.5;0.0196078431372549;5.0;0
+36;http://csit.merospark.com/third-semester/message-passing/;june 2016;0.5;0.0196078431372549;5.0;0
+38;http://csit.merospark.com/third-semester/message-passing/;april 2016;0.5;0.0196078431372549;5.0;0
+39;http://csit.merospark.com/third-semester/message-passing/;received;1.0;0.0196078431372549;5.0;0
+39;http://csit.merospark.com/third-semester/message-passing/;methods;1.5;0.0392156862745098;5.0;0
+39;http://csit.merospark.com/third-semester/message-passing/;variables;1.0;0.058823529411764705;5.0;0
+39;http://csit.merospark.com/third-semester/message-passing/;messages;1.0;0.0196078431372549;5.0;0
+39;http://csit.merospark.com/third-semester/message-passing/;send;1.0;0.0196078431372549;2.5;0
+39;http://csit.merospark.com/third-semester/message-passing/;signature;1.0;0.058823529411764705;5.0;0
+39;http://csit.merospark.com/third-semester/message-passing/;passing;1.0;0.0196078431372549;5.0;0
+39;http://csit.merospark.com/third-semester/message-passing/;specific methods;1.75;0.0196078431372549;5.0;0
+40;http://csit.merospark.com/third-semester/message-passing/;defined;1.0;0.0196078431372549;5.0;0
+40;http://csit.merospark.com/third-semester/message-passing/;methods;1.0;0.0392156862745098;5.0;0
+40;http://csit.merospark.com/third-semester/message-passing/;structured signature;2.0;0.0196078431372549;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;composed;1.0;0.0196078431372549;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;returned;1.0;0.0196078431372549;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;invoke;1.0;0.0196078431372549;1.6666666666666667;0
+41;http://csit.merospark.com/third-semester/message-passing/;specific number;2.0;0.0196078431372549;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;variables;1.0;0.058823529411764705;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;object;1.0;0.0196078431372549;1.6666666666666667;0
+41;http://csit.merospark.com/third-semester/message-passing/;order;1.0;0.0196078431372549;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;method starts;1.6;0.0196078431372549;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;values;1.0;0.0392156862745098;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;passed;1.0;0.0196078431372549;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;signature;1.0;0.058823529411764705;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;variable;1.0;0.0196078431372549;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;execution;1.0;0.0392156862745098;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;type;1.0;0.0196078431372549;2.5;0
+41;http://csit.merospark.com/third-semester/message-passing/;method;1.2;0.0196078431372549;5.0;0
+41;http://csit.merospark.com/third-semester/message-passing/;types;1.0;0.0196078431372549;5.0;0
+42;http://csit.merospark.com/third-semester/message-passing/;instant;1.0;0.0196078431372549;5.0;0
+42;http://csit.merospark.com/third-semester/message-passing/;communication;1.0;0.0;5.0;0
+42;http://csit.merospark.com/third-semester/message-passing/;variables;1.0;0.058823529411764705;5.0;0
+42;http://csit.merospark.com/third-semester/message-passing/;program;1.0;0.0196078431372549;5.0;0
+42;http://csit.merospark.com/third-semester/message-passing/;values;1.0;0.0392156862745098;5.0;0
+42;http://csit.merospark.com/third-semester/message-passing/;time;1.0;0.0196078431372549;5.0;0
+42;http://csit.merospark.com/third-semester/message-passing/;execution;1.0;0.0392156862745098;5.0;0
+42;http://csit.merospark.com/third-semester/message-passing/;defined format;2.0;0.0196078431372549;5.0;0
+43;http://csit.merospark.com/third-semester/message-passing/;method  evaluate;1.3333333333333333;0.0196078431372549;5.0;0
+43;http://csit.merospark.com/third-semester/message-passing/;signature;1.0;0.058823529411764705;5.0;0
+43;http://csit.merospark.com/third-semester/message-passing/;figure;1.0;0.0196078431372549;5.0;0
+43;http://csit.merospark.com/third-semester/message-passing/;shows;1.0;0.0196078431372549;5.0;0
+44;https://www.defit.org/message-passing/;processes;1.0;0.18181818181818182;5.0;0
+44;https://www.defit.org/message-passing/;communication;1.0;0.0;5.0;0
+44;https://www.defit.org/message-passing/;objects;1.0;0.18181818181818182;2.5;0
+44;https://www.defit.org/message-passing/;computer science;2.0;0.09090909090909091;2.5;0
+44;https://www.defit.org/message-passing/;type;1.0;0.09090909090909091;2.5;0
+44;https://www.defit.org/message-passing/;message passing;2.0;0.09090909090909091;0.8333333333333334;0
+45;https://www.defit.org/message-passing/;model;1.0;0.09090909090909091;5.0;0
+45;https://www.defit.org/message-passing/;objects;1.0;0.18181818181818182;2.5;0
+45;https://www.defit.org/message-passing/;processes;1.0;0.18181818181818182;5.0;0
+45;https://www.defit.org/message-passing/;send;1.0;0.09090909090909091;2.5;0
+45;https://www.defit.org/message-passing/;receive messages;2.0;0.09090909090909091;5.0;0
+46;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;talking;1.0;0.03125;5.0;0
+46;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;term  message passing;2.25;0.03125;5.0;0
+46;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;oop;1.0;0.0;5.0;0
+46;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;smalltalk;1.0;0.0;5.0;0
+47;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;smalltalk basic principles;3.0;0.03125;5.0;0
+47;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;words;1.0;0.03125;5.0;0
+48;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;equivalent;1.0;0.03125;5.0;0
+48;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;terms;1.0;0.03125;5.0;0
+49;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;case;1.0;0.03125;5.0;0
+49;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;rely;1.0;0.03125;5.0;0
+49;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;late binding;2.0;0.03125;5.0;0
+49;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;method invocation;2.0;0.03125;5.0;0
+49;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;early binding;2.0;0.0625;5.0;0
+49;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;dynamic dispatch;2.0;0.03125;5.0;0
+49;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;interesting difference;2.0;0.03125;5.0;0
+49;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;static dispatch;2.0;0.03125;5.0;0
+49;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;message passing;2.0;0.03125;0.8333333333333334;0
+50;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;default;1.0;0.03125;5.0;0
+50;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;early binding;2.0;0.0625;5.0;0
+50;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;virtual  keyword appears;2.25;0.03125;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;term;1.0;0.03125;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;data members;2.0;0.03125;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;considered;1.0;0.03125;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;communication;1.0;0.0;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;good oop style;3.0;0.03125;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;forbid direct access;3.0;0.03125;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;smalltalk terminology;1.75;0.03125;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;objects;1.0;0.03125;1.6666666666666667;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;instance variables;2.0;0.03125;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;formalism;1.0;0.03125;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;terminology;1.5;0.0;5.0;0
+51;https://stackoverflow.com/questions/2347973/how-exactly-do-objects-communicate-with-each-other-by-passing-messages;programming language;2.0;0.03125;5.0;0

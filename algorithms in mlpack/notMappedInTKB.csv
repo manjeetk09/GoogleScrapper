@@ -12,7 +12,6 @@
 0;7;http://www.mlpack.org/about.html;versions_older;0.6;0.07;1.0;1.67;0.0;0
 0;10;http://www.mlpack.org/about.html;version_3;0.0;0.07;1.0;1.07;0.0;0
 0;12;http://www.mlpack.org/about.html;nips_2011;0.0;0.07;1.0;1.07;0.0;0
-0;12;http://www.mlpack.org/about.html;journal;0.2;0.0;1.0;1.2;0.0;0
 0;12;http://www.mlpack.org/about.html;biglearning_workshop;0.6;0.07;1.0;1.67;0.0;0
 0;12;http://www.mlpack.org/about.html;machine_learning_research;1.0;0.07;1.0;2.0700000000000003;0.0;0
 0;12;http://www.mlpack.org/about.html;published;0.2;0.07;1.0;1.27;0.0;0
@@ -135,10 +134,8 @@
 0;123;http://www.mlpack.org/about.html;award_1339745__si2_ssi;0.2;0.07;1.0;1.27;0.0;0
 0;124;http://www.mlpack.org/about.html;xscala_project;0.6;0.07;1.0;1.67;0.0;0
 0;125;http://www.mlpack.org/about.html;findings;0.2;0.07;1.0;1.27;0.0;0
-0;125;http://www.mlpack.org/about.html;author;0.2;0.07;1.0;1.27;0.0;0
 0;125;http://www.mlpack.org/about.html;conclusions;0.2;0.0;1.0;1.2;0.0;0
 0;125;http://www.mlpack.org/about.html;views;0.2;0.07;1.0;1.27;0.0;0
-0;125;http://www.mlpack.org/about.html;material;0.2;0.07;1.0;1.27;0.0;0
 0;125;http://www.mlpack.org/about.html;nsf;0.2;0.0;1.0;1.2;0.0;0
 0;125;http://www.mlpack.org/about.html;recommendations_expressed;0.6;0.07;1.0;1.67;0.0;0
 0;125;http://www.mlpack.org/about.html;necessarily_reflect;0.6;0.07;1.0;1.67;0.0;0
@@ -146,13 +143,11 @@
 0;140;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);neighbourhood_components_analysis;1.0;0.0;0.4;1.4;0.0;0
 0;143;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);independent_component_analysis;1.0;0.0;0.4;1.4;0.0;0
 0;144;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);rank_approximate_nearest_neighbor;1.0;0.0;0.4;1.4;0.0;0
-0;147;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);cover_trees;0.6;0.0;0.4;1.0;0.0;0
 0;147;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);kd_trees;0.2;0.0;0.4;0.6000000000000001;0.0;0
 0;147;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);tree_based_neighbor_search;1.0;0.0;0.4;1.4;0.0;0
 0;148;https://en.wikipedia.org/wiki/MLPACK_(C%252B%252B_library);tree_based_range_search;1.0;0.0;0.4;1.4;0.0;0
 0;151;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;suitable_ideas;0.6;0.7777777777777778;1.0;2.3777777777777778;0.7071067811865475;0
 0;151;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;means;0.2;0.7777777777777778;0.1;1.077777777777778;0.7071067811865475;0
-0;151;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;range;0.4;0.7777777777777778;1.0;2.177777777777778;0.7071067811865475;0
 0;151;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;mlpack_developers;0.6;0.7777777777777778;1.0;2.3777777777777778;0.7071067811865475;0
 0;151;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;ideas_compiled;0.6;0.7777777777777778;1.0;2.3777777777777778;0.7071067811865475;0
 0;151;https://github.com/mlpack/mlpack/wiki/SummerOfCodeIdeas;wide_range;0.5;0.7777777777777778;1.0;2.2777777777777777;0.7071067811865475;0
@@ -170,13 +165,10 @@
 0;153;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;generally;0.2;0.4666666666666667;1.0;1.6666666666666667;0.0;0
 0;153;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;implements_stable;0.6;0.4666666666666667;1.0;2.0666666666666664;0.0;0
 0;153;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;scikit_learn_project;0.6;0.4666666666666667;1.0;2.0666666666666664;0.0;0
-0;154;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;niche;0.2;0.4666666666666667;1.0;1.6666666666666667;0.7071067811865475;0
-0;154;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;conferences;0.2;0.0;1.0;1.2;0.7071067811865475;0
 0;154;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;appeared;0.2;0.4666666666666667;1.0;1.6666666666666667;0.7071067811865475;0
 0;154;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;providing_high_quality_implementations;1.0;0.4666666666666667;1.0;2.466666666666667;0.7071067811865475;0
 0;154;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;fill;0.2;0.4666666666666667;1.0;1.6666666666666667;0.7071067811865475;0
 0;155;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;implementing_well_known_algorithms;1.0;0.4666666666666667;1.0;2.466666666666667;1.0;0
-0;155;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;cases;0.2;0.4666666666666667;1.0;1.6666666666666667;1.0;0
 0;157;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;standard_techniques;0.6;0.4666666666666667;1.0;2.0666666666666664;0.0;0
 0;157;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;ensure;0.2;0.9333333333333333;1.0;2.1333333333333333;0.0;0
 0;157;https://github.com/mlpack/mlpack/wiki/DesignGuidelines;svms;0.2;0.0;1.0;1.2;0.0;0
