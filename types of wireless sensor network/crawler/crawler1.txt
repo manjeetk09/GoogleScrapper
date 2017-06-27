@@ -1,0 +1,50 @@
+1;Photo Credits Wireless Sensor Networks by dolcera.
+1; Wireless Sensor Network Topologies by ni.
+1; Underground WSNs by amrita.
+1; Under Water WSNs by jurdak.
+1; Multimedia WSNs by ohio_state.
+1; Wireless Sensor Networks Applications by immateriel.
+0;Photo Credits Wireless Sensor Networks by dolcera.
+0; Wireless Sensor Network Topologies by ni.
+0; Underground WSNs by amrita.
+0; Under Water WSNs by jurdak.
+0; Multimedia WSNs by ohio_state.
+0; Wireless Sensor Networks Applications by immateriel.
+0;The most common WSN architecture follows the OSI architecture Model.
+0; The architecture of the WSN includes five layers and three cross layers.
+0; Mostly in sensor n w we require five layers, namely application, transport, n w, data link   physical layer.
+0; The three cross planes are namely power management, mobility management, and task management.
+0; These layers of the WSN are used to accomplish the n w and make the sensors work together in order to raise the complete efficiency of the network.
+0;Please follow the below link for.
+0; Types of wireless sensor networks and WSN topologies.
+0;The main characteristics of a WSN include.
+0; Power consumption constraints for nodes using batteries or energy harvesting.
+0; Ability to cope with node failures .
+0; Some mobility of nodes .
+0; Heterogeneity of nodes.
+0; Scalability to large scale of deployment.
+0; Ability to withstand harsh environmental conditions.
+0; Ease of use.
+0; Cross_layer design 14  15 .
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;There are different types of sensor networks such as underground, underwater, terrestrial and multimedia WSNs etc.
+0; We will discuss them briefly.
+0;                                               .
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;WSN nodes are typically organized in one of three types of network topologies.
+0; In a star topology, each node connects directly to a gateway.
+0; In a cluster tree network, each node connects to a node higher in the tree and then to the gateway, and data is routed from the lowest node on the tree to the gateway.
+0; Finally, to offer increased reliability, mesh networks feature nodes that can connect to multiple nodes in the system and pass data through the most reliable path available.
+0; This mesh link is often referred to as a router .

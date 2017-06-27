@@ -1,0 +1,324 @@
+.
+No extractions found.
+
+.
+No extractions found.
+
+The following code snippets create an instance foo of class Foo, and invoke its method hello.
+0.773: (The following code snippets; create; an instance foo of class Foo)
+0.722: (The following code snippets; invoke; its method hello)
+
+ For each programming language, normal and reflection_based call sequences are shown.
+0.754: (normal and reflection_based call sequences; are shown for; each programming language)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The name reflection is used to describe code which is able to inspect other code in the same system .
+0.837: (The name reflection; to describe; code which is able to inspect other code in the same system)
+0.708: (other code; to be inspect in; the same system)
+
+There are some good reflection examples to get you started at http.
+0.864: (you; started at; http)
+
+  docs.
+No extractions found.
+
+oracle.
+No extractions found.
+
+com javase tutorial reflect index.
+No extractions found.
+
+html.
+No extractions found.
+
+Reflection is important since it lets you write programs that do not have to  know  everything at compile time, making them more dynamic, since they can be tied together at runtime.
+0.921: (they; can be tied together at; runtime)
+0.851: (you; write; programs that do not have to know everything at compile time)
+0.735: (Reflection; is; important)
+0.646: (everything; to be know at; compile time)
+
+ The code can be written against known interfaces, but the actual classes to be used can be instantiated using reflection from configuration files.
+0.894: (The code; can be written against; known interfaces)
+0.608: (reflection; be using from; configuration files)
+
+What is reflection, and why is it useful .
+0.596: (it; is; useful)
+
+I m particularly interested in Java, but I assume the principles are the same in any language.
+0.823: (the principles; are the same in; any language)
+
+The name reflection is used to describe code which is able to inspect other code in the same system .
+0.837: (The name reflection; to describe; code which is able to inspect other code in the same system)
+0.708: (other code; to be inspect in; the same system)
+
+For example, say you have an object of an unknown type in Java, and you would like to call a  doSomething  method on it if one exists.
+0.874: (you; would like to call; a doSomething method)[enabler=if one exists]
+0.869: (you; have; an object of an unknown type)[attrib=you say would]
+0.822: (you; to call; a doSomething method)[enabler=if one exists]
+0.184: (you; say would for; example)
+
+ Java s static typing system isn t really designed to support this unless the object conforms to a known interface, but using reflection, your code can look at the object and find out if it has a method called  doSomething  and then call it if you want to.
+0.847: (your code; can look at; the object)
+0.701: (Java; can look at; the object)
+0.672: (the object; conforms to; a known interface)
+0.496: (Java; s can; static typing system)
+0.364: (your code; s can; static typing system)
+0.04: (it; has then; a method called doSomething)
+
+So, to give you a code example of this in Java .
+No extractions found.
+
+One very common use case in Java is the usage with annotations.
+0.916: (One very common use case; is the usage with; annotations)
+0.746: (One very common use case; is; the usage)
+0.405: (the usage; be One very common use case in; Java)
+
+ JUnit 4, for example, will use reflection to look through your classes for methods tagged with the  Test annotation, and will then call them when running the unit test.
+0.655: (methods; be tagged with; the Test annotation)
+0.112: (reflection; will use will be for; example)
+
+There are some good reflection examples to get you started at http.
+0.864: (you; started at; http)
+
+  docs.
+No extractions found.
+
+oracle.
+No extractions found.
+
+com javase tutorial reflect index.
+No extractions found.
+
+html.
+No extractions found.
+
+And finally, yes, the concepts are pretty much similar in other statically types languages which support reflection .
+0.743: (the concepts; finally are pretty much similar in; other statically types languages which support reflection)
+
+ In dynamically typed languages, the use case described above is less necessary , but the second case of looking for methods which are marked or work in a certain way is still common.
+0.751: (the second case looking for methods; is still; common)
+0.639: (the use case described above; is; necessary)
+0.465: (the use case described above; is necessary in; typed languages)
+
+Reflection is a language s ability to inspect and dynamically call classes, methods, attributes, etc.
+0.667: (Reflection; is; a language)
+
+ at runtime.
+No extractions found.
+
+For example, all objects in Java have the method getClass, which lets you determine the object s class even if you don t know it at compile time  e.
+0.792: (all objects; have; the method getClass , which lets you determine the object s class even if you don t know it at compile time e)
+0.789: (you; determine; the object)
+0.696: (getClass; s; class)
+0.601: (it; even don t know at; compile time e)
+0.366: (class; be s by; the method)
+0.17: (you; even don t know it at; compile time e)
+0.111: (all objects; have the method getClass , which lets you determine the object s class even if you don t know it at compile time e for; example)
+0.108: (you; even don t know; it)
+
+g.
+No extractions found.
+
+ if you declared it as an Object  _ this might seem trivial, but such reflection is not possible in less dynamic languages such as C  .
+0.722: (such reflection; is not possible in; less dynamic languages)
+0.661: (such reflection; is; not possible)
+0.565: (it; be declared as; an Object _ this might seem trivial)
+0.275: (you; declared it as; an Object _ this might seem trivial)
+0.264: (dynamic; be languages as; C)
+0.171: (you; declared; it)
+
+ More advanced uses lets you list and call methods, constructors, etc.
+0.748: (you; call; methods)
+
+Reflection is important since it lets you write programs that do not have to  know  everything at compile time, making them more dynamic, since they can be tied together at runtime.
+0.921: (they; can be tied together at; runtime)
+0.851: (you; write; programs that do not have to know everything at compile time)
+0.735: (Reflection; is; important)
+0.646: (everything; to be know at; compile time)
+
+ The code can be written against known interfaces, but the actual classes to be used can be instantiated using reflection from configuration files.
+0.894: (The code; can be written against; known interfaces)
+0.608: (reflection; be using from; configuration files)
+
+Lots of modern frameworks use reflection extensively for this very reason.
+0.83: (Lots of modern frameworks; use reflection extensively for; this very reason)
+0.583: (Lots of modern frameworks; use extensively; reflection)
+
+ Most other modern languages use reflection as well, and in scripting languages they are even more tightly integrated, since it feels more natural within the general programming model of those languages.
+0.749: (it; feels more natural within; the general programming model of those languages)
+0.583: (Most other modern languages; use as well; reflection)
+
+One of my favorite uses of reflection is the below Java dump method.
+No extractions found.
+
+ It takes any object as a parameter and uses the Java reflection API print out every field name and value.
+0.785: (It; uses the Java reflection API print out; every field name and value)
+0.743: (It; takes any object as; a parameter)
+0.722: (It; takes; any object)
+0.722: (It; uses; the Java reflection API print)
+
+Not every language supports reflection but the principles are usually the same in languages that support it.
+0.728: (Not every language; supports; reflection)
+
+Reflection is the ability to  reflect  on the structure of your program.
+0.757: (Reflection; is; the ability to reflect on the structure of your program)
+
+ Or more concrete.
+No extractions found.
+
+ To look at the objects and classes you have and programmatically get back information on the methods, fields, and interfaces they implement.
+0.846: (you; programmatically get; information)
+0.343: (fields; be back information on; the methods)
+
+ You can also look at things like annotations.
+0.894: (You; can also look at; things)
+
+It s usefull in a lot of situations.
+0.81: (It; s usefull in; a lot of situations)
+0.646: (It; s; usefull)
+
+ Everywhere you want to be able to dynamically plug in classes into your code.
+No extractions found.
+
+ Lot s of object relational mappers use reflection to be able to instantiate objects from databases without knowing in advance what objects they re going to use.
+0.739: (objects; to be instantiate from; databases)
+0.688: (Lot; s of; object relational mappers)
+
+ Plug_in architectures is another place where reflection is usefull.
+0.704: (reflection; is; usefull)
+0.703: (Plug_in architectures; is; another place where reflection is usefull)
+
+ Being able to dynamically load code and determine if there are types there that implement the right interface to use as a plugin is important in those situations.
+0.786: (a plugin; is important in; those situations)
+0.686: (a plugin; is; important)
+
+Reflection is a key mechanism to allow an application or framework to work with code that might not have even been written yet .
+0.779: (an application or framework; to work with; code that might not have even been written yet)
+0.707: (Reflection; is; a key mechanism to allow an application or framework to work with code)
+
+Take for example your typical web.
+0.493: (your typical web.; be Take for; example)
+
+xml file.
+No extractions found.
+
+ This will contain a list of servlet elements, which contain nested servlet_class elements.
+No extractions found.
+
+ The servlet container will process the web.
+0.783: (The servlet container; will process; the web.)
+
+xml file, and create new a new instance of each servlet class through reflection.
+0.778: (new a new instance of each servlet class; be create through; reflection)
+
+Another example would be the Java API for XML Parsing .
+0.813: (Another example; would be the Java API for; XML Parsing)
+0.778: (Another example; would be; the Java API)
+
+ Where an XML parser provider is  plugged_in  via well_known system properties, which are used to construct new instances through reflection.
+0.801: (an XML parser provider; is plugged in via; well_known system properties which are used to construct new instances through reflection)
+0.735: (an XML parser provider; is; plugged_in)
+0.708: (new instances; to be construct through; reflection)
+
+And finally, the most comprehensive example is Spring which uses reflection to create its beans, and for its heavy use of proxies.
+0.598: (the most comprehensive example; finally is; Spring which uses reflection to create its beans , and for)
+
+Uses of Reflection.
+No extractions found.
+
+Reflection is commonly used by programs which require the ability to examine or modify the runtime behavior of applications running in the Java virtual machine.
+0.938: (Reflection; is commonly used by; programs which require the ability)
+0.627: (applications; running in; the Java virtual machine)
+
+ This is a relatively advanced feature and should be used only by developers who have a strong grasp of the fundamentals of the language.
+0.93: (a relatively advanced feature; should be used by; developers who have a strong grasp of the fundamentals of the language)
+
+ With that caveat in mind, reflection is a powerful technique and can enable applications to perform operations which would otherwise be impossible.
+0.718: (applications; to perform; operations which would otherwise be impossible)
+0.691: (reflection; is a powerful technique can with; that caveat)
+0.49: (reflection; is can; a powerful technique)
+
+Extensibility Features.
+No extractions found.
+
+An application may make use of external, user_defined classes by creating instances of extensibility objects using their fully_qualified names.
+0.833: (An application; may make use of external; user_defined classes)
+0.73: (An application; may make user defined classes; use of external)
+0.637: (An application; be use of; external)
+
+ Class Browsers and Visual Development Environments A class browser needs to be able to enumerate the members of classes.
+No extractions found.
+
+ Visual development environments can benefit from making use of type information available in reflection to aid the developer in writing correct code.
+No extractions found.
+
+ Debuggers and Test Tools Debuggers need to be able to examine private members on classes.
+0.708: (private members; to be examine on; classes)
+
+ Test harnesses can make use of reflection to systematically call a discoverable set APIs defined on a class, to insure a high level of code coverage in a test suite.
+0.864: (Test harnesses; can make; use of reflection to systematically call a discoverable set APIs defined on a class ,)
+0.847: (APIs; defined on; a class)
+0.645: (a high level of code coverage; to be insure in; a test suite)
+0.604: (Test harnesses; be use of; reflection)
+
+Drawbacks of Reflection.
+No extractions found.
+
+Reflection is powerful, but should not be used indiscriminately.
+0.667: (Reflection; is; powerful)
+
+ If it is possible to perform an operation without using reflection, then it is preferable to avoid using it.
+0.539: (it; then is; preferable)
+0.086: (it; is; possible)
+
+ The following concerns should be kept in mind when accessing code via reflection.
+0.898: (The following concerns; should be kept in; mind)[enabler=when accessing code via reflection]
+0.674: (code; be accessing via; reflection)
+
+ Performance Overhead.
+No extractions found.
+
+Because reflection involves types that are dynamically resolved, certain Java virtual machine optimizations can not be performed.
+0.541: (reflection; involves; types that are dynamically resolved)
+
+ Consequently, reflective operations have slower performance than their non_reflective counterparts, and should be avoided in sections of code which are called frequently in performance_sensitive applications.
+0.837: (reflective operations; should be avoided in; sections of code)
+0.727: (reflective operations; Consequently have should; slower performance)
+
+ Security Restrictions.
+No extractions found.
+
+Reflection requires a runtime permission which may not be present when running under a security manager.
+0.853: (Reflection; requires; a runtime permission which may not be present when running under a security manager)
+
+ This is in an important consideration for code which has to run in a restricted security context, such as in an Applet.
+No extractions found.
+
+ Exposure of Internals.
+No extractions found.
+
+Since reflection allows code to perform operations that would be illegal in non_reflective code, such as accessing private fields and methods, the use of reflection can result in unexpected side_effects, which may render code dysfunctional and may destroy portability.
+0.813: (the use of reflection; can result in; unexpected side_effects which may render code dysfunctional and may destroy portability)[enabler=Since reflection allows code to perform operations that would be illegal in non_reflective code , such as accessing private fields and methods]
+0.764: (code; to perform; operations that would be illegal in non_reflective code)
+
+ Reflective code breaks abstractions and therefore may change behavior with upgrades of the platform.
+0.808: (Reflective code breaks abstractions; may change; behavior)
+
+source.
+No extractions found.
+
+ The Reflection API.
+No extractions found.
+
+Reflection allows instantiation of new objects, invocation of methods, and get set operations on class variables dynamically at run time without having prior knowledge of its implementation.
+0.786: (instantiation of new objects; get set operations on; class variables)
+0.785: (instantiation of new objects; get set; operations)
+0.749: (instantiation of new objects; be invocation of; methods)
+0.399: (invocation of methods; be instantiation of; new objects)
+
+In above example the null parameter is the object you want to invoke the method on.

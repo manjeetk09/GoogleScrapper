@@ -8,10 +8,10 @@ import java.util.*;
 public class test1 {
     public static void main(String args[]) throws IOException
     {
-        String source = "manjeet_(programming";
-        String dest = "manjeet_\\(programmingies";
-        String a = source.replaceAll("\\(","");
-        System.out.println(a);
+//        testCategory testCategory = new testCategory();
+//        testCategory.testCatFunc("hash_function");
+        MergeMappedUnmappedWiki mergeMappedUnmappedWiki = new MergeMappedUnmappedWiki();
+        mergeMappedUnmappedWiki.mergeFunc("hash_function");
 //        File sourceF = new File(source);
 //        File destF = new File(dest);
 //        if(!destF.exists()){

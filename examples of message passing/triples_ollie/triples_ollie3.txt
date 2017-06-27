@@ -1,0 +1,193 @@
+Message Passing In Java When a thread sends a message to another thread.
+0.847: (a thread; sends a message to; another thread)
+0.757: (a thread; sends; a message)
+
+ Used for thread communication and synchronization in environments where the threads do not have shared memory Hence the threads cannot share semaphores or monitors and cannot use shared variables to communicate.
+0.745: (the threads; Hence shared; variables to communicate)
+0.714: (the threads; do not have shared; memory)
+
+ Message passing can still be used, of course, in a shared memory platform.
+No extractions found.
+
+ Messages are sent through a channel with an operation like sendand received from a channel with an operation like receive.
+0.929: (Messages; are sent through; a channel)
+0.736: (sendand; be received from; a channel)
+
+ Messages can be passed synchronously, meaning the sender blocks until the received does a receive and the receiver blocks until the sender does a send.
+No extractions found.
+
+ Since the sender and receiver are at specific known points in their code at a known specific instant of time, synchronous message passing is also called a simple rendezvous with a one_way flow of information from the sender to the receiver.
+0.704: (a simple rendezvous; is also called with; a one_way flow of information)[enabler=the sender and receiver are at specific known points in their code at a known specific instant of time , synchronous message passing]
+
+ An example is a chess game agent.
+0.716: (An example; is; a chess game agent)
+
+ The agents can process messages synchronously, since they ll be handshaking throughout the entire game.
+0.641: (they; ll be handshaking throughout; the entire game)
+0.606: (The agents; can process synchronously; messages)[enabler=since they ll be handshaking throughout the entire game]
+
+ In asynchronous message passing, the sender does not block.
+0.591: (the sender; does not block in; asynchronous message passing)
+
+ If there is not a receiver waiting to receive the message, the message is queued or buffered.
+0.676: (the message; is queued in; a receiver waiting to receive the message)
+
+ The receiver still blocks if there is no queued or buffered message when a receive is executed.
+No extractions found.
+
+When a thread sends a message to another thread.
+0.847: (a thread; sends a message to; another thread)
+0.757: (a thread; sends; a message)
+
+What is message passing in Java  If you could, please provide an example.
+0.763: (message passing; please provide; an example)[enabler=If you could]
+0.74: (message passing; provide; an example)
+
+In computer science, message passing sends a message to a process and relies on the process and the supporting infrastructure to select and invoke the actual code to run.
+0.814: (message passing; relies on; the process)
+0.814: (message passing; sends a message to; a process)
+0.757: (message passing; sends; a message)
+0.613: (message passing; sends a message in; computer science)
+
+ Message passing differs from conventional programming where a process, subroutine, or function is directly invoked by name.
+0.914: (a process , subroutine , or function; is directly invoked by; name)
+0.821: (Message; passing differs from; conventional programming where a process , subroutine , or function is directly invoked by name)
+0.769: (differs; be passing from; conventional programming where a process , subroutine , or function is directly invoked by name)
+0.564: (a process , subroutine , or function; is directly invoked in; conventional programming)
+
+ Message passing is key to some models of concurrency and object_oriented programming.
+0.845: (Message passing; is key to; some models of concurrency)
+0.746: (Message passing; is; key)
+0.703: (Message passing; object oriented; programming)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The advantage to synchronous message passing is that it is conceptually less complex.
+0.539: (it; is conceptually; complex)
+
+ Synchronous message passing is analogous to a function call in which the message sender is the function caller and the message receiver is the called function.
+0.863: (Synchronous message passing; is analogous to; a function call in which the message sender is the function caller and the message receiver)
+0.746: (Synchronous message passing; is; analogous)
+0.653: (the message sender; is; the function caller and the message receiver)
+0.545: (analogous; is; the called function)
+
+ Function calling is easy and familiar.
+0.703: (Function calling; is; easy and familiar)
+
+ Just as the function caller stops until the called function completes, the sending process stops until the receiving process completes.
+No extractions found.
+
+ This alone makes synchronous message unworkable for some applications.
+No extractions found.
+
+ For example, if synchronous message passing would be used exclusively, large, distributed systems generally would not perform well enough to be usable.
+0.204: (large , distributed systems; generally would not perform well enough to be usable for; example)
+
+ Such large, distributed systems may need to continue to operate while some of their subsystems are down  subsystems may need to go offline for some kind of maintenance, or have times when subsystems are not open to receiving input from other systems.
+0.772: (offline; to be go for; some kind of maintenance)
+0.724: (input; be receiving from; other systems)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Examples of systems that support distributed objects are.
+No extractions found.
+
+ ONC RPC, CORBA, Java RMI, DCOM, SOAP, .
+No extractions found.
+
+NET Remoting, CTOS, QNX Neutrino RTOS, OpenBinder, and D_Bus.
+No extractions found.
+
+ Distributed object systems have been called  shared nothing  systems because the message passing abstraction hides underlying state changes that may be used in the implementation of sending messages.
+0.779: (Distributed object systems; have been called; shared nothing systems)[enabler=because the message passing abstraction hides underlying state changes that may be used in the implementation of sending messages]
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+My questions are.
+No extractions found.
+
+ What is message passing  .
+No extractions found.
+
+ Is there any support for this  message passing  in C  , C  or Java .
+No extractions found.
+
+Is there any support for this  message passing  in C  , C  or Java .
+No extractions found.
+
+An example in Groovy that demonstrates the power of this concept.
+0.734: (the power of this concept; be demonstrates by; An example)
+
+ When a thread sends a message to another thread.
+0.847: (a thread; sends a message to; another thread)
+0.757: (a thread; sends; a message)
+
+ Used for thread communication and synchronization in environments where the threads do not have shared memory Hence the threads cannot share semaphores or monitors and cannot use shared variables to communicate.
+0.745: (the threads; Hence shared; variables to communicate)
+0.714: (the threads; do not have shared; memory)
+
+ Message passing can still be used, of course, in a shared memory platform.
+No extractions found.
+
+ Messages are sent through a channel with an operation like sendand received from a channel with an operation like receive.
+0.929: (Messages; are sent through; a channel)
+0.736: (sendand; be received from; a channel)
+
+ Messages can be passed synchronously, meaning the sender blocks until the received does a receive and the receiver blocks until the sender does a send.
+No extractions found.
+
+ Since the sender and receiver are at specific known points in their code at a known specific instant of time, synchronous message passing is also called a simple rendezvous with a one_way flow of information from the sender to the receiver.
+0.704: (a simple rendezvous; is also called with; a one_way flow of information)[enabler=the sender and receiver are at specific known points in their code at a known specific instant of time , synchronous message passing]
+
+ An example is a chess game agent.
+0.716: (An example; is; a chess game agent)
+
+ The agents can process messages synchronously, since they ll be handshaking throughout the entire game.
+0.641: (they; ll be handshaking throughout; the entire game)
+0.606: (The agents; can process synchronously; messages)[enabler=since they ll be handshaking throughout the entire game]
+
+ In asynchronous message passing, the sender does not block.
+0.591: (the sender; does not block in; asynchronous message passing)
+
+ If there is not a receiver waiting to receive the message, the message is queued or buffered.
+0.676: (the message; is queued in; a receiver waiting to receive the message)
+
+ The receiver still blocks if there is no queued or buffered message when a receive is executed.
+No extractions found.
+
+B.
+No extractions found.
+
+ Message Passing through Constructors.
+No extractions found.
+

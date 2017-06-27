@@ -1,124 +1,141 @@
-1;https://en.wikipedia.org/wiki/Message_passing;relies;1.0;0.047619047619047616;4.0;0
-1;https://en.wikipedia.org/wiki/Message_passing;run;1.0;0.047619047619047616;4.0;0
-1;https://en.wikipedia.org/wiki/Message_passing;invoke;1.0;0.047619047619047616;4.0;0
-1;https://en.wikipedia.org/wiki/Message_passing;supporting infrastructure;2.0;0.047619047619047616;4.0;0
-1;https://en.wikipedia.org/wiki/Message_passing;message passing sends;2.6666666666666665;0.047619047619047616;4.0;0
-1;https://en.wikipedia.org/wiki/Message_passing;process;1.0;0.09523809523809523;4.0;0
-1;https://en.wikipedia.org/wiki/Message_passing;actual code;2.0;0.047619047619047616;4.0;0
-1;https://en.wikipedia.org/wiki/Message_passing;computer science;2.0;0.047619047619047616;2.0;0
-1;https://en.wikipedia.org/wiki/Message_passing;message;2.0;0.047619047619047616;0.8;0
-1;https://en.wikipedia.org/wiki/Message_passing;select;1.0;0.047619047619047616;4.0;0
-2;https://en.wikipedia.org/wiki/Message_passing;function;1.0;0.047619047619047616;4.0;0
-2;https://en.wikipedia.org/wiki/Message_passing;subroutine;1.0;0.047619047619047616;4.0;0
-2;https://en.wikipedia.org/wiki/Message_passing;conventional programming;2.0;0.047619047619047616;4.0;0
-2;https://en.wikipedia.org/wiki/Message_passing;process;1.0;0.09523809523809523;4.0;0
-2;https://en.wikipedia.org/wiki/Message_passing;directly invoked;2.0;0.047619047619047616;4.0;0
-2;https://en.wikipedia.org/wiki/Message_passing;message passing differs;3.0;0.047619047619047616;4.0;0
-3;https://en.wikipedia.org/wiki/Message_passing;models;1.0;0.047619047619047616;4.0;0
-3;https://en.wikipedia.org/wiki/Message_passing;object_oriented programming;2.0;0.047619047619047616;4.0;0
-3;https://en.wikipedia.org/wiki/Message_passing;concurrency;1.0;0.0;4.0;0
-3;https://en.wikipedia.org/wiki/Message_passing;key;1.0;0.0;4.0;0
-3;https://en.wikipedia.org/wiki/Message_passing;message passing;2.0;0.047619047619047616;0.5;0
-6;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread sends;1.75;0.03125;4.0;0
-6;http://stackoverflow.com/questions/3222375/what-is-message-passing;message;1.5;0.046875;1.3333333333333333;0
-6;http://stackoverflow.com/questions/3222375/what-is-message-passing;java;1.0;0.0;4.0;0
-6;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread;1.5;0.03125;4.0;0
-6;http://stackoverflow.com/questions/3222375/what-is-message-passing;message passing;1.75;0.03125;0.5714285714285714;0
-7;http://stackoverflow.com/questions/3222375/what-is-message-passing;communicate;1.0;0.0;4.0;0
-7;http://stackoverflow.com/questions/3222375/what-is-message-passing;shared memory;2.0;0.015625;4.0;0
-7;http://stackoverflow.com/questions/3222375/what-is-message-passing;environments;1.0;0.0;4.0;0
-7;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread communication;2.0;0.015625;4.0;0
-7;http://stackoverflow.com/questions/3222375/what-is-message-passing;share semaphores;2.0;0.015625;4.0;0
-7;http://stackoverflow.com/questions/3222375/what-is-message-passing;synchronization;1.0;0.0;4.0;0
-7;http://stackoverflow.com/questions/3222375/what-is-message-passing;threads;1.0;0.015625;4.0;0
-7;http://stackoverflow.com/questions/3222375/what-is-message-passing;shared variables;2.0;0.015625;4.0;0
-7;http://stackoverflow.com/questions/3222375/what-is-message-passing;monitors;1.0;0.015625;4.0;0
-8;http://stackoverflow.com/questions/3222375/what-is-message-passing;shared memory platform;3.0;0.015625;4.0;0
-8;http://stackoverflow.com/questions/3222375/what-is-message-passing;message passing;2.0;0.03125;0.5714285714285714;0
-9;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.0625;4.0;0
-9;http://stackoverflow.com/questions/3222375/what-is-message-passing;operation;1.0;0.015625;4.0;0
-9;http://stackoverflow.com/questions/3222375/what-is-message-passing;messages;1.0;0.03125;2.0;0
-9;http://stackoverflow.com/questions/3222375/what-is-message-passing;sendand received;2.0;0.015625;4.0;0
-9;http://stackoverflow.com/questions/3222375/what-is-message-passing;channel;1.0;0.015625;4.0;0
-10;http://stackoverflow.com/questions/3222375/what-is-message-passing;received;1.0;0.015625;4.0;0
-10;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver blocks;2.0;0.015625;4.0;0
-10;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender;1.5;0.046875;1.3333333333333333;0
-10;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.0625;4.0;0
-10;http://stackoverflow.com/questions/3222375/what-is-message-passing;messages;1.0;0.03125;2.0;0
-10;http://stackoverflow.com/questions/3222375/what-is-message-passing;send;1.0;0.015625;2.0;0
-10;http://stackoverflow.com/questions/3222375/what-is-message-passing;meaning;1.0;0.015625;4.0;0
-10;http://stackoverflow.com/questions/3222375/what-is-message-passing;passed synchronously;2.0;0.015625;4.0;0
-10;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender blocks;1.75;0.015625;4.0;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;information;1.0;0.0;4.0;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;code;1.0;0.015625;4.0;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;one_way flow;2.0;0.015625;4.0;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender;1.0;0.046875;1.3333333333333333;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;time;1.0;0.015625;4.0;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;specific;1.5;0.015625;4.0;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;points;1.0;0.015625;4.0;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;synchronous message passing;3.0;0.015625;4.0;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver;1.0;0.03125;1.3333333333333333;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;specific instant;1.75;0.015625;4.0;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;called;1.0;0.015625;4.0;0
-11;http://stackoverflow.com/questions/3222375/what-is-message-passing;simple rendezvous;2.0;0.015625;4.0;0
-12;http://stackoverflow.com/questions/3222375/what-is-message-passing;chess game agent;3.0;0.015625;4.0;0
-13;http://stackoverflow.com/questions/3222375/what-is-message-passing;process messages synchronously;3.0;0.015625;4.0;0
-13;http://stackoverflow.com/questions/3222375/what-is-message-passing;agents;1.0;0.015625;4.0;0
-13;http://stackoverflow.com/questions/3222375/what-is-message-passing;handshaking;1.0;0.0;4.0;0
-13;http://stackoverflow.com/questions/3222375/what-is-message-passing;entire game;2.0;0.015625;4.0;0
-14;http://stackoverflow.com/questions/3222375/what-is-message-passing;asynchronous message passing;3.0;0.015625;4.0;0
-14;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender;1.0;0.046875;1.3333333333333333;0
-14;http://stackoverflow.com/questions/3222375/what-is-message-passing;block;1.0;0.015625;4.0;0
-15;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.0625;4.0;0
-15;http://stackoverflow.com/questions/3222375/what-is-message-passing;buffered;1.0;0.015625;4.0;0
-15;http://stackoverflow.com/questions/3222375/what-is-message-passing;message;1.0;0.046875;1.3333333333333333;0
-15;http://stackoverflow.com/questions/3222375/what-is-message-passing;queued;1.0;0.03125;4.0;0
-15;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver waiting;2.0;0.015625;4.0;0
-16;http://stackoverflow.com/questions/3222375/what-is-message-passing;executed;1.0;0.015625;4.0;0
-16;http://stackoverflow.com/questions/3222375/what-is-message-passing;blocks;1.0;0.015625;4.0;0
-16;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.0625;4.0;0
-16;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver;1.0;0.03125;1.3333333333333333;0
-16;http://stackoverflow.com/questions/3222375/what-is-message-passing;buffered message;2.0;0.015625;4.0;0
-16;http://stackoverflow.com/questions/3222375/what-is-message-passing;queued;1.0;0.03125;4.0;0
-17;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread sends;1.75;0.03125;4.0;0
-17;http://stackoverflow.com/questions/3222375/what-is-message-passing;message;1.0;0.046875;1.3333333333333333;0
-17;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread;1.5;0.03125;4.0;0
-18;https://www.defit.org/message-passing/;processes;1.0;0.07407407407407407;4.0;0
-18;https://www.defit.org/message-passing/;communication;1.0;0.0;4.0;0
-18;https://www.defit.org/message-passing/;objects;1.0;0.07407407407407407;4.0;0
-18;https://www.defit.org/message-passing/;computer science;2.0;0.037037037037037035;2.0;0
-18;https://www.defit.org/message-passing/;type;1.0;0.037037037037037035;4.0;0
-18;https://www.defit.org/message-passing/;message passing;2.0;0.07407407407407407;0.5714285714285714;0
-19;https://www.defit.org/message-passing/;model;1.0;0.037037037037037035;4.0;0
-19;https://www.defit.org/message-passing/;objects;1.0;0.07407407407407407;4.0;0
-19;https://www.defit.org/message-passing/;processes;1.0;0.07407407407407407;4.0;0
-19;https://www.defit.org/message-passing/;send;1.0;0.037037037037037035;2.0;0
-19;https://www.defit.org/message-passing/;receive messages;2.0;0.037037037037037035;4.0;0
-20;https://www.defit.org/message-passing/;asynchronous;1.0;0.0;4.0;0
-20;https://www.defit.org/message-passing/;synchronous;1.0;0.0;4.0;0
-20;https://www.defit.org/message-passing/;message passing;2.0;0.07407407407407407;0.5714285714285714;0
-21;https://www.defit.org/message-passing/;transferring;1.0;0.0;4.0;0
-21;https://www.defit.org/message-passing/;wait;1.0;0.07407407407407407;4.0;0
-21;https://www.defit.org/message-passing/;message;1.0;0.037037037037037035;0.8;0
-21;https://www.defit.org/message-passing/;sender;1.0;0.07407407407407407;1.0;0
-21;https://www.defit.org/message-passing/;receiver;1.0;0.07407407407407407;1.3333333333333333;0
-22;https://www.defit.org/message-passing/;sender;1.0;0.07407407407407407;1.0;0
-22;https://www.defit.org/message-passing/;asynchronous communication;2.0;0.037037037037037035;4.0;0
-22;https://www.defit.org/message-passing/;computations;1.0;0.0;4.0;0
-22;https://www.defit.org/message-passing/;transfer;1.0;0.037037037037037035;4.0;0
-22;https://www.defit.org/message-passing/;messages;1.0;0.037037037037037035;1.3333333333333333;0
-22;https://www.defit.org/message-passing/;receiver;1.0;0.07407407407407407;1.3333333333333333;0
-22;https://www.defit.org/message-passing/;carry;1.0;0.037037037037037035;4.0;0
-22;https://www.defit.org/message-passing/;wait;1.0;0.07407407407407407;4.0;0
-23;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;questions;1.0;0.08333333333333333;4.0;0
-24;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;0.6666666666666666;0
-25;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;support;1.0;0.16666666666666666;4.0;0
-25;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;java;1.0;0.0;4.0;0
-25;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;0.6666666666666666;0
-26;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;support;1.0;0.16666666666666666;4.0;0
-26;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;java;1.0;0.0;4.0;0
-26;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;0.6666666666666666;0
-27;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;groovy;1.0;0.08333333333333333;4.0;0
-27;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;demonstrates;1.0;0.0;4.0;0
-27;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;concept;1.0;0.08333333333333333;4.0;0
-27;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;power;1.0;0.08333333333333333;4.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;identical processors;2.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;treats;1.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;controlled;1.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;software architecture;2.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;symmetric multiprocessing involves;3.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;devices;1.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;multiprocessor computer hardware;3.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;reserving;1.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;single;1.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;connected;1.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;special purposes;2.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;processors equally;2.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;full access;2.0;0.045454545454545456;7.0;0
+1;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;shared main memory;3.0;0.045454545454545456;7.0;0
+2;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;multiprocessor systems today;3.0;0.045454545454545456;7.0;0
+2;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;smp architecture;2.0;0.045454545454545456;3.5;0
+3;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;case;1.0;0.045454545454545456;7.0;0
+3;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;treating;1.0;0.045454545454545456;7.0;0
+3;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;multi_core processors;2.0;0.045454545454545456;7.0;0
+3;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;separate processors;2.0;0.045454545454545456;7.0;0
+3;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;cores;1.0;0.045454545454545456;7.0;0
+3;https://en.wikipedia.org/wiki/Symmetric_multiprocessing;smp architecture applies;3.0;0.045454545454545456;7.0;0
+9;http://searchdatacenter.techtarget.com/definition/SMP;programs;1.0;0.05263157894736842;7.0;0
+9;http://searchdatacenter.techtarget.com/definition/SMP;processing;1.0;0.05263157894736842;7.0;0
+9;http://searchdatacenter.techtarget.com/definition/SMP;share;1.0;0.05263157894736842;7.0;0
+9;http://searchdatacenter.techtarget.com/definition/SMP;smp;1.0;0.0;7.0;0
+9;http://searchdatacenter.techtarget.com/definition/SMP;common operating system;3.0;0.05263157894736842;7.0;0
+9;http://searchdatacenter.techtarget.com/definition/SMP;memory;1.0;0.05263157894736842;1.75;0
+9;http://searchdatacenter.techtarget.com/definition/SMP;multiple processors;2.0;0.05263157894736842;2.3333333333333335;0
+10;http://searchdatacenter.techtarget.com/definition/SMP;processors share memory;3.0;0.05263157894736842;7.0;0
+10;http://searchdatacenter.techtarget.com/definition/SMP;bus;1.0;0.05263157894736842;7.0;0
+10;http://searchdatacenter.techtarget.com/definition/SMP;data path;2.0;0.05263157894736842;7.0;0
+10;http://searchdatacenter.techtarget.com/definition/SMP;symmetric multiprocessing;2.0;0.05263157894736842;3.5;0
+11;http://searchdatacenter.techtarget.com/definition/SMP;single copy;2.0;0.05263157894736842;7.0;0
+11;http://searchdatacenter.techtarget.com/definition/SMP;charge;1.0;0.05263157894736842;7.0;0
+11;http://searchdatacenter.techtarget.com/definition/SMP;operating system;2.0;0.05263157894736842;3.5;0
+11;http://searchdatacenter.techtarget.com/definition/SMP;processors;1.0;0.05263157894736842;2.3333333333333335;0
+12;http://searchdatacenter.techtarget.com/definition/SMP;shared;1.0;0.05263157894736842;7.0;0
+12;http://searchdatacenter.techtarget.com/definition/SMP;exceed 16 processors;1.3333333333333333;0.05263157894736842;7.0;0
+12;http://searchdatacenter.techtarget.com/definition/SMP;system;1.0;0.05263157894736842;7.0;0
+12;http://searchdatacenter.techtarget.com/definition/SMP;smp;1.0;0.0;7.0;0
+17;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;cheapest ways;2.0;0.03125;7.0;0
+17;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;cpu;1.0;0.0;7.0;0
+17;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;board;1.0;0.03125;7.0;0
+17;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;put;1.0;0.03125;7.0;0
+17;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;easiest;1.0;0.03125;7.0;0
+17;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;improve hardware performance;3.0;0.03125;7.0;0
+18;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;job  symmetrical multi_processing;2.25;0.03125;7.0;0
+18;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;run;1.0;0.03125;7.0;0
+18;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;parallel;1.0;0.03125;7.0;0
+18;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;jobs;1.0;0.0;7.0;0
+18;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;making;1.0;0.03125;7.0;0
+18;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;cpu;1.0;0.0;7.0;0
+21;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;smp;1.0;0.0;7.0;0
+22;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;tasks;1.0;0.03125;7.0;0
+22;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;computer;1.0;0.03125;7.0;0
+22;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;unavailable;1.0;0.0;7.0;0
+22;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;linux;1.0;0.0;7.0;0
+23;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;symmetrical multi_processing;2.0;0.03125;7.0;0
+23;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;implement;1.0;0.03125;3.5;0
+23;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;easy;1.0;0.03125;7.0;0
+23;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;hand;1.0;0.03125;7.0;0
+24;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;version 2;0.5;0.03125;7.0;0
+26;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;problem;1.0;0.03125;7.0;0
+26;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;big spinlock;2.0;0.03125;7.0;0
+26;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;isn;1.0;0.0;7.0;0
+26;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;entire kernel;2.0;0.03125;7.0;0
+27;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;kernel;1.0;0.0;7.0;0
+27;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;system call;2.0;0.03125;7.0;0
+27;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;wait;1.0;0.03125;7.0;0
+27;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;cpu;1.0;0.0;7.0;0
+27;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;means;1.0;0.03125;7.0;0
+28;http://www.tldp.org/LDP/lkmpg/2.4/html/c1294.htm;inefficient;1.0;0.0;7.0;0
+30;http://scitechconnect.elsevier.com/asymmetric-multi-processing-amp-vs-symmetric-multi-processing-smp/;colin walls;2.0;0.3333333333333333;7.0;0
+30;http://scitechconnect.elsevier.com/asymmetric-multi-processing-amp-vs-symmetric-multi-processing-smp/;posted;1.0;0.3333333333333333;7.0;0
+31;http://scitechconnect.elsevier.com/asymmetric-multi-processing-amp-vs-symmetric-multi-processing-smp/;june 17;0.5;0.3333333333333333;7.0;0
+40;http://www.webopedia.com/TERM/S/SMP.html;making multiple cpus;3.0;0.045454545454545456;7.0;0
+40;http://www.webopedia.com/TERM/S/SMP.html;short;1.0;0.045454545454545456;7.0;0
+40;http://www.webopedia.com/TERM/S/SMP.html;fast performance;2.0;0.045454545454545456;7.0;0
+40;http://www.webopedia.com/TERM/S/SMP.html;computer architecture;2.0;0.045454545454545456;7.0;0
+40;http://www.webopedia.com/TERM/S/SMP.html;symmetric multiprocessing;2.0;0.045454545454545456;3.5;0
+41;http://www.webopedia.com/TERM/S/SMP.html;assigned;1.0;0.045454545454545456;7.0;0
+41;http://www.webopedia.com/TERM/S/SMP.html;task;1.0;0.045454545454545456;7.0;0
+41;http://www.webopedia.com/TERM/S/SMP.html;unlike asymmetrical processing;3.0;0.045454545454545456;7.0;0
+41;http://www.webopedia.com/TERM/S/SMP.html;improve performance;2.0;0.045454545454545456;7.0;0
+41;http://www.webopedia.com/TERM/S/SMP.html;handle increased loads;3.0;0.045454545454545456;7.0;0
+41;http://www.webopedia.com/TERM/S/SMP.html;idle processor;2.0;0.045454545454545456;7.0;0
+41;http://www.webopedia.com/TERM/S/SMP.html;added;1.0;0.045454545454545456;7.0;0
+41;http://www.webopedia.com/TERM/S/SMP.html;additional cpus;2.0;0.045454545454545456;7.0;0
+42;http://www.webopedia.com/TERM/S/SMP.html;hardware arrangements;2.0;0.045454545454545456;7.0;0
+42;http://www.webopedia.com/TERM/S/SMP.html;specialized operating systems;3.0;0.045454545454545456;7.0;0
+42;http://www.webopedia.com/TERM/S/SMP.html;support smp;2.0;0.045454545454545456;7.0;0
+42;http://www.webopedia.com/TERM/S/SMP.html;variety;1.0;0.045454545454545456;7.0;0
+43;http://www.webopedia.com/TERM/S/SMP.html;specific applications;2.0;0.045454545454545456;7.0;0
+43;http://www.webopedia.com/TERM/S/SMP.html;multithreading;1.0;0.0;7.0;0
+43;http://www.webopedia.com/TERM/S/SMP.html;benefit;1.0;0.045454545454545456;7.0;0
+43;http://www.webopedia.com/TERM/S/SMP.html;code;1.0;0.045454545454545456;7.0;0
+43;http://www.webopedia.com/TERM/S/SMP.html;smp;1.0;0.0;7.0;0
+44;https://www.ibm.com/developerworks/library/l-linux-smp/;unlock;1.0;0.058823529411764705;7.0;0
+44;https://www.ibm.com/developerworks/library/l-linux-smp/;smp systems;2.0;0.058823529411764705;7.0;0
+44;https://www.ibm.com/developerworks/library/l-linux-smp/;power;1.0;0.058823529411764705;7.0;0
+44;https://www.ibm.com/developerworks/library/l-linux-smp/;linux;1.0;0.0;7.0;0
+45;https://www.ibm.com/developerworks/library/l-linux-smp/;simply;1.0;0.058823529411764705;7.0;0
+45;https://www.ibm.com/developerworks/library/l-linux-smp/;smp architecture;2.0;0.058823529411764705;3.5;0
+45;https://www.ibm.com/developerworks/library/l-linux-smp/;identical processors connect;3.0;0.058823529411764705;7.0;0
+45;https://www.ibm.com/developerworks/library/l-linux-smp/;shared memory;2.0;0.17647058823529413;7.0;0
+46;https://www.ibm.com/developerworks/library/l-linux-smp/;equal access;2.0;0.058823529411764705;7.0;0
+46;https://www.ibm.com/developerworks/library/l-linux-smp/;processor;1.0;0.11764705882352941;3.5;0
+46;https://www.ibm.com/developerworks/library/l-linux-smp/;shared memory;2.0;0.17647058823529413;7.0;0
+47;https://www.ibm.com/developerworks/library/l-linux-smp/;contrast;1.0;0.058823529411764705;7.0;0
+48;https://www.ibm.com/developerworks/library/l-linux-smp/;access;1.5;0.058823529411764705;7.0;0
+48;https://www.ibm.com/developerworks/library/l-linux-smp/;shared memory;1.75;0.17647058823529413;7.0;0
+48;https://www.ibm.com/developerworks/library/l-linux-smp/;access latency;1.75;0.058823529411764705;7.0;0
+48;https://www.ibm.com/developerworks/library/l-linux-smp/;processor;1.0;0.11764705882352941;3.5;0
+48;https://www.ibm.com/developerworks/library/l-linux-smp/;memory;1.5;0.058823529411764705;1.75;0
+49;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;processors;1.0;0.07692307692307693;3.5;0
+49;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;type;1.0;0.038461538461538464;7.0;0
+49;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;program tasks;2.0;0.038461538461538464;7.0;0
+49;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;memory address space;3.0;0.038461538461538464;7.0;0
+49;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;asymmetric multiprocessing;2.0;0.038461538461538464;7.0;0
+49;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;strictly divided;2.0;0.038461538461538464;7.0;0
+49;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;typically;1.0;0.038461538461538464;7.0;0
+49;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;processor;1.0;0.038461538461538464;2.3333333333333335;0
+50;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;implement;1.0;0.038461538461538464;3.5;0
+51;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;asymmetric multiprocessor configurations;3.0;0.038461538461538464;7.0;0
+51;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;figures;1.0;0.038461538461538464;7.0;0
+51;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;examples;1.0;0.038461538461538464;7.0;0
+53;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;multiple processors;2.0;0.07692307692307693;3.5;0
+53;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;common configuration;2.0;0.038461538461538464;7.0;0
+54;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;items;1.0;0.038461538461538464;7.0;0
+54;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;typical smp configuration;3.0;0.038461538461538464;7.0;0
+55;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;multiple processors;2.0;0.07692307692307693;3.5;0
+56;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;subsystem;1.0;0.038461538461538464;7.0;0
+56;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;operating system;2.0;0.038461538461538464;3.5;0
+56;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;memory;1.0;0.07692307692307693;2.3333333333333335;0
+57;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;symmetric;1.0;0.038461538461538464;7.0;0
+57;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;processors;1.0;0.07692307692307693;3.5;0
+58;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;kind;1.0;0.0;7.0;0
+58;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;memory;1.0;0.07692307692307693;2.3333333333333335;0
+58;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;alter;1.0;0.038461538461538464;7.0;0
+58;http://ohlandl.ipv7.net/CPU/ASMP_SMP.html;element;1.0;0.038461538461538464;7.0;0

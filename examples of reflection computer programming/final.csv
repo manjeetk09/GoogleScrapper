@@ -1,0 +1,1053 @@
+0;3;https://en.wikipedia.org/wiki/Reflection_(computer_programming);code snippets create;3.0;0.0;13.5;0.0;0
+0;3;https://en.wikipedia.org/wiki/Reflection_(computer_programming);method;1.0;0.0;2.7;0.0;0
+0;3;https://en.wikipedia.org/wiki/Reflection_(computer_programming);instance foo;2.0;0.0;9.0;0.0;0
+0;3;https://en.wikipedia.org/wiki/Reflection_(computer_programming);invoke;1.0;0.0;5.4;0.0;0
+0;3;https://en.wikipedia.org/wiki/Reflection_(computer_programming);class foo;2.0;0.0;9.0;0.0;0
+0;4;https://en.wikipedia.org/wiki/Reflection_(computer_programming);shown;1.0;0.0;9.0;0.0;0
+0;4;https://en.wikipedia.org/wiki/Reflection_(computer_programming);normal;1.0;0.0;13.5;0.0;0
+0;4;https://en.wikipedia.org/wiki/Reflection_(computer_programming);reflection_based call sequences;3.0;0.0;13.5;0.0;0
+0;4;https://en.wikipedia.org/wiki/Reflection_(computer_programming);programming language;2.0;0.0;13.5;0.0;0
+0;7;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.5;0.015021459227467811;27.0;0.0;0
+0;7;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;describe code;1.75;0.002145922746781116;27.0;0.0;0
+0;7;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;7;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;inspect;1.0;0.003218884120171674;13.5;0.0;0
+0;7;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;system;1.0;0.003218884120171674;27.0;0.0;0
+0;8;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;started;1.0;0.002145922746781116;27.0;0.0;0
+0;8;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;good reflection examples;3.0;0.002145922746781116;27.0;0.0;0
+0;8;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;http;1.0;0.0;27.0;0.0;0
+0;9;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;docs;1.0;0.002145922746781116;27.0;0;0
+0;10;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;oracle;1.0;0.002145922746781116;27.0;0;0
+0;12;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;html;1.0;0.0;27.0;0;0
+0;13;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.7071067811865475;0
+0;13;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;compile time;2.0;0.00536480686695279;9.0;0.7071067811865475;0
+0;13;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dynamic;1.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;13;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;tied;1.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;13;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lets;1.0;0.0;27.0;0.7071067811865475;0
+0;13;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;important;1.0;0.003218884120171674;27.0;0.7071067811865475;0
+0;13;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;making;1.0;0.003218884120171674;27.0;0.7071067811865475;0
+0;13;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0.7071067811865475;0
+0;13;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;write programs;2.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;14;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;configuration files;2.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;14;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.0;0.015021459227467811;27.0;0.7071067811865475;0
+0;14;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.7071067811865475;0
+0;14;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instantiated;1.0;0.0;27.0;0.7071067811865475;0
+0;14;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interfaces;1.0;0.0075107296137339056;13.5;0.7071067811865475;0
+0;14;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;written;1.0;0.003218884120171674;27.0;0.7071067811865475;0
+0;14;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;actual classes;2.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;15;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;16;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;assume;1.0;0.001072961373390558;27.0;0.0;0
+0;16;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interested;1.0;0.001072961373390558;27.0;0.0;0
+0;16;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0.0;0
+0;16;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;principles;1.0;0.002145922746781116;27.0;0.0;0
+0;16;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;language;1.0;0.0;27.0;0.0;0
+0;17;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.5;0.015021459227467811;27.0;0.0;0
+0;17;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;describe code;1.75;0.002145922746781116;27.0;0.0;0
+0;17;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;17;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;inspect;1.0;0.003218884120171674;13.5;0.0;0
+0;17;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;system;1.0;0.003218884120171674;27.0;0.0;0
+0;18;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0.0;0
+0;18;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;unknown type;2.0;0.001072961373390558;27.0;0.0;0
+0;18;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;exists;1.0;0.001072961373390558;27.0;0.0;0
+0;18;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0.0;0
+0;18;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dosomething  method;1.3333333333333333;0.001072961373390558;27.0;0.0;0
+0;18;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;call;1.0;0.004291845493562232;27.0;0.0;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.0;0.015021459227467811;27.0;0.7071067811865475;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0.7071067811865475;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.7071067811865475;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method called  dosomething;2.25;0.001072961373390558;27.0;0.7071067811865475;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;support;1.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.5;0.016094420600858368;4.5;0.7071067811865475;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;call;1.0;0.004291845493562232;27.0;0.7071067811865475;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;designed;1.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interface;1.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;find;1.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;19;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object conforms;1.75;0.001072961373390558;27.0;0.7071067811865475;0
+0;20;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.0;0.015021459227467811;27.0;0;0
+0;20;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0;0
+0;20;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;give;1.0;0.001072961373390558;9.0;0;0
+0;21;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;case;1.0;0.002145922746781116;27.0;0.0;0
+0;21;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;usage;1.0;0.001072961373390558;27.0;0.0;0
+0;21;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0.0;0
+0;21;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;common;1.0;0.002145922746781116;27.0;0.0;0
+0;21;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;annotations;1.0;0.0;27.0;0.0;0
+0;22;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;1.0;0
+0;22;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;junit 4;0.5;0.001072961373390558;27.0;1.0;0
+0;22;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;test annotation;2.0;0.001072961373390558;27.0;1.0;0
+0;22;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;running;1.0;0.002145922746781116;27.0;1.0;0
+0;22;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;1.0;0
+0;22;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;call;1.0;0.004291845493562232;27.0;1.0;0
+0;22;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;unit test;2.0;0.001072961373390558;27.0;1.0;0
+0;22;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods tagged;2.0;0.001072961373390558;27.0;1.0;0
+0;23;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;started;1.0;0.002145922746781116;27.0;0.0;0
+0;23;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;good reflection examples;3.0;0.002145922746781116;27.0;0.0;0
+0;23;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;http;1.0;0.0;27.0;0.0;0
+0;24;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;docs;1.0;0.002145922746781116;27.0;0;0
+0;25;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;oracle;1.0;0.002145922746781116;27.0;0;0
+0;27;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;html;1.0;0.0;27.0;0;0
+0;28;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;statically types languages;3.0;0.001072961373390558;27.0;0.0;0
+0;28;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;finally;1.0;0.002145922746781116;27.0;0.0;0
+0;28;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;pretty;1.0;0.001072961373390558;27.0;0.0;0
+0;28;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;concepts;1.0;0.001072961373390558;27.0;0.0;0
+0;28;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;similar;1.0;0.001072961373390558;27.0;0.0;0
+0;28;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;support reflection;2.0;0.001072961373390558;27.0;0.0;0
+0;29;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;case;1.0;0.002145922746781116;27.0;0.0;0
+0;29;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;work;1.0;0.003218884120171674;27.0;0.0;0
+0;29;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0.0;0
+0;29;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dynamically typed languages;3.0;0.001072961373390558;27.0;0.0;0
+0;29;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;marked;1.0;0.001072961373390558;27.0;0.0;0
+0;29;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;common;1.0;0.002145922746781116;27.0;0.0;0
+0;30;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;ability;1.0;0.004291845493562232;9.0;0.0;0
+0;30;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0.0;0
+0;30;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;language;1.0;0.0;27.0;0.0;0
+0;30;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;30;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;inspect;1.0;0.003218884120171674;13.5;0.0;0
+0;30;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;attributes;1.0;0.001072961373390558;13.5;0.0;0
+0;30;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dynamically call classes;3.0;0.001072961373390558;27.0;0.0;0
+0;31;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0;0
+0;32;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;1.0;0
+0;32;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;compile time;2.0;0.00536480686695279;9.0;1.0;0
+0;32;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;1.0;0
+0;32;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lets;1.0;0.0;27.0;1.0;0
+0;32;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method getclass;2.0;0.001072961373390558;27.0;1.0;0
+0;32;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;objects;1.0;0.006437768240343348;13.5;1.0;0
+0;32;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;determine;1.0;0.002145922746781116;27.0;1.0;0
+0;32;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;don;1.0;0.002145922746781116;27.0;1.0;0
+0;32;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;1.0;0
+0;34;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object  _;1.3333333333333333;0.0;27.0;0.0;0
+0;34;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;declared;1.0;0.001072961373390558;27.0;0.0;0
+0;34;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;trivial;1.0;0.001072961373390558;27.0;0.0;0
+0;34;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;34;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dynamic languages;2.0;0.001072961373390558;27.0;0.0;0
+0;35;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lets;1.0;0.0;27.0;0.0;0
+0;35;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;constructors;1.0;0.0;27.0;0.0;0
+0;35;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;list;1.0;0.0;27.0;0.0;0
+0;35;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;call methods;2.0;0.002145922746781116;27.0;0.0;0
+0;35;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;advanced;1.0;0.001072961373390558;27.0;0.0;0
+0;36;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.7071067811865475;0
+0;36;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;compile time;2.0;0.00536480686695279;9.0;0.7071067811865475;0
+0;36;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dynamic;1.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;36;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;tied;1.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;36;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lets;1.0;0.0;27.0;0.7071067811865475;0
+0;36;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;important;1.0;0.003218884120171674;27.0;0.7071067811865475;0
+0;36;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;making;1.0;0.003218884120171674;27.0;0.7071067811865475;0
+0;36;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0.7071067811865475;0
+0;36;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;write programs;2.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;37;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;configuration files;2.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;37;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.0;0.015021459227467811;27.0;0.7071067811865475;0
+0;37;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.7071067811865475;0
+0;37;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instantiated;1.0;0.0;27.0;0.7071067811865475;0
+0;37;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interfaces;1.0;0.0075107296137339056;13.5;0.7071067811865475;0
+0;37;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;written;1.0;0.003218884120171674;27.0;0.7071067811865475;0
+0;37;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;actual classes;2.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;38;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lots;1.0;0.0;27.0;0.0;0
+0;38;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;modern frameworks;2.0;0.001072961373390558;27.0;0.0;0
+0;38;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reason;1.0;0.001072961373390558;27.0;0.0;0
+0;38;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection extensively;2.0;0.001072961373390558;27.0;0.0;0
+0;39;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;natural;1.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;39;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.7071067811865475;0
+0;39;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;modern languages;1.833333333335;0.001072961373390558;27.0;0.7071067811865475;0
+0;39;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;feels;1.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;39;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;languages;1.66666666667;0.0;27.0;0.7071067811865475;0
+0;39;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;scripting languages;1.833333333335;0.001072961373390558;27.0;0.7071067811865475;0
+0;39;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;tightly integrated;2.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;39;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;general programming model;3.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;40;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;favorite;1.0;0.001072961373390558;27.0;0;0
+0;40;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;40;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java dump method;3.0;0.001072961373390558;27.0;0;0
+0;41;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;field;1.0;0.001072961373390558;27.0;0.0;0
+0;41;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0.0;0
+0;41;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;parameter;1.0;0.002145922746781116;27.0;0.0;0
+0;41;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;takes;1.0;0.001072961373390558;27.0;0.0;0
+0;42;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;languages;1.0;0.0;27.0;0.0;0
+0;42;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;language supports reflection;3.0;0.001072961373390558;27.0;0.0;0
+0;42;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;support;1.0;0.002145922746781116;27.0;0.0;0
+0;42;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;principles;1.0;0.002145922746781116;27.0;0.0;0
+0;43;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflect;1.0;0.002145922746781116;27.0;0.0;0
+0;43;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;program;1.0;0.0075107296137339056;9.0;0.0;0
+0;43;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;43;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;structure;1.0;0.001072961373390558;13.5;0.0;0
+0;43;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;ability;1.0;0.004291845493562232;9.0;0.0;0
+0;44;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;concrete;1.0;0.001072961373390558;27.0;0;0
+0;45;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0.0;0
+0;45;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;objects;1.0;0.006437768240343348;13.5;0.0;0
+0;45;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;programmatically;1.0;0.0;27.0;0.0;0
+0;45;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fields;1.0;0.004291845493562232;13.5;0.0;0
+0;45;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interfaces;1.0;0.0075107296137339056;13.5;0.0;0
+0;45;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;back information;2.0;0.001072961373390558;27.0;0.0;0
+0;45;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0.0;0
+0;45;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;implement;1.0;0.003218884120171674;27.0;0.0;0
+0;46;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;things;1.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;46;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;annotations;1.0;0.0;27.0;0.7071067811865475;0
+0;47;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;situations;1.0;0.002145922746781116;27.0;0.0;0
+0;47;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;usefull;1.0;0.0;27.0;0.0;0
+0;47;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lot;1.0;0.0;27.0;0.0;0
+0;48;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.0;0.015021459227467811;27.0;0;0
+0;48;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0;0
+0;48;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dynamically plug;2.0;0.001072961373390558;27.0;0;0
+0;49;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;knowing;1.0;0.0;27.0;0.0;0
+0;49;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;advance;1.0;0.001072961373390558;27.0;0.0;0
+0;49;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;49;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instantiate objects;1.75;0.001072961373390558;27.0;0.0;0
+0;49;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object relational mappers;3.0;0.001072961373390558;27.0;0.0;0
+0;49;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;objects;1.5;0.006437768240343348;13.5;0.0;0
+0;49;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lot;1.0;0.0;27.0;0.0;0
+0;49;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;databases;1.0;0.001072961373390558;27.0;0.0;0
+0;50;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;usefull;1.0;0.0;27.0;0.0;0
+0;50;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;place;1.0;0.001072961373390558;27.0;0.0;0
+0;50;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;50;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;plug_in architectures;2.0;0.001072961373390558;27.0;0.0;0
+0;51;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;plugin;1.0;0.0;27.0;0.0;0
+0;51;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;situations;1.0;0.002145922746781116;27.0;0.0;0
+0;51;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dynamically load code;3.0;0.001072961373390558;27.0;0.0;0
+0;51;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;important;1.0;0.003218884120171674;27.0;0.0;0
+0;51;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;determine;1.0;0.002145922746781116;27.0;0.0;0
+0;51;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interface;1.0;0.002145922746781116;27.0;0.0;0
+0;51;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;implement;1.0;0.003218884120171674;27.0;0.0;0
+0;51;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;types;1.0;0.002145922746781116;13.5;0.0;0
+0;52;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.0;0.015021459227467811;27.0;0.0;0
+0;52;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;52;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;framework;1.0;0.004291845493562232;27.0;0.0;0
+0;52;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;work;1.0;0.003218884120171674;27.0;0.0;0
+0;52;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;application;1.0;0.0;27.0;0.0;0
+0;52;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;written;1.0;0.003218884120171674;27.0;0.0;0
+0;52;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;key mechanism;2.0;0.001072961373390558;27.0;0.0;0
+0;53;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;typical web;2.0;0.001072961373390558;27.0;0.0;0
+0;54;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;xml file;2.0;0.002145922746781116;27.0;0;0
+0;55;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;nested servlet_class elements;2.8333333333333335;0.001072961373390558;27.0;0;0
+0;55;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;list;1.0;0.0;27.0;0;0
+0;55;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;servlet elements;2.25;0.001072961373390558;27.0;0;0
+0;56;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;process;1.0;0.001072961373390558;27.0;1.0;0
+0;56;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;web;1.0;0.001072961373390558;27.0;1.0;0
+0;56;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;servlet container;2.0;0.001072961373390558;27.0;1.0;0
+0;57;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instance;1.0;0.002145922746781116;9.0;0.0;0
+0;57;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;create;1.0;0.004291845493562232;27.0;0.0;0
+0;57;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;57;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;servlet class;2.0;0.001072961373390558;27.0;0.0;0
+0;57;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;xml file;2.0;0.002145922746781116;27.0;0.0;0
+0;58;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java api;2.0;0.001072961373390558;27.0;0.0;0
+0;58;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;xml parsing;2.0;0.001072961373390558;27.0;0.0;0
+0;59;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;xml parser provider;3.0;0.001072961373390558;27.0;0.0;0
+0;59;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;59;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;well_known system properties;3.0;0.001072961373390558;27.0;0.0;0
+0;59;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;construct;1.0;0.001072961373390558;27.0;0.0;0
+0;59;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;plugged_in;1.0;0.001072961373390558;27.0;0.0;0
+0;59;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instances;1.0;0.001072961373390558;27.0;0.0;0
+0;60;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;heavy;1.0;0.0;27.0;0.0;0
+0;60;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;60;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;comprehensive;1.0;0.0;27.0;0.0;0
+0;60;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;create;1.0;0.004291845493562232;27.0;0.0;0
+0;60;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;finally;1.0;0.002145922746781116;27.0;0.0;0
+0;60;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;beans;1.0;0.001072961373390558;27.0;0.0;0
+0;60;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;spring;1.0;0.002145922746781116;27.0;0.0;0
+0;60;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;proxies;1.0;0.001072961373390558;27.0;0.0;0
+0;61;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;62;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;applications running;2.0;0.001072961373390558;27.0;1.0;0
+0;62;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;ability;1.0;0.004291845493562232;9.0;1.0;0
+0;62;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;programs;1.0;0.001072961373390558;27.0;1.0;0
+0;62;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;require;1.0;0.002145922746781116;27.0;1.0;0
+0;62;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;modify;1.0;0.003218884120171674;9.0;1.0;0
+0;62;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;commonly;1.0;0.001072961373390558;27.0;1.0;0
+0;62;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;examine;1.0;0.003218884120171674;9.0;1.0;0
+0;62;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime behavior;2.0;0.001072961373390558;27.0;1.0;0
+0;62;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java virtual machine;3.0;0.001072961373390558;27.0;1.0;0
+0;62;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;1.0;0
+0;63;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;advanced feature;2.0;0.001072961373390558;27.0;1.0;0
+0;63;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;strong grasp;2.0;0.001072961373390558;27.0;1.0;0
+0;63;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;developers;1.0;0.001072961373390558;27.0;1.0;0
+0;63;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fundamentals;1.0;0.0;27.0;1.0;0
+0;63;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;language;1.0;0.0;27.0;1.0;0
+0;64;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perform operations;2.0;0.002145922746781116;27.0;1.0;0
+0;64;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;mind;1.0;0.002145922746781116;27.0;1.0;0
+0;64;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;caveat;1.0;0.001072961373390558;27.0;1.0;0
+0;64;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;impossible;1.0;0.001072961373390558;27.0;1.0;0
+0;64;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;powerful technique;2.0;0.001072961373390558;27.0;1.0;0
+0;64;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;enable applications;2.0;0.001072961373390558;27.0;1.0;0
+0;64;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;1.0;0
+0;65;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;extensibility features;2.0;0.002145922746781116;27.0;0;0
+0;66;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;make;1.0;0.004291845493562232;27.0;0.0;0
+0;66;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;application;1.0;0.0;27.0;0.0;0
+0;66;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;creating instances;2.0;0.002145922746781116;27.0;0.0;0
+0;66;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;external;1.0;0.002145922746781116;27.0;0.0;0
+0;66;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;extensibility objects;2.0;0.002145922746781116;27.0;0.0;0
+0;66;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fully_qualified names;2.0;0.002145922746781116;27.0;0.0;0
+0;66;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;user_defined classes;2.0;0.002145922746781116;27.0;0.0;0
+0;67;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;visual development environments;3.0;0.002145922746781116;27.0;0;0
+0;67;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class browser;2.0;0.001072961373390558;27.0;0;0
+0;67;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0;0
+0;67;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;members;1.0;0.001072961373390558;27.0;0;0
+0;67;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;enumerate;1.0;0.001072961373390558;27.0;0;0
+0;67;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class browsers;2.0;0.002145922746781116;27.0;0;0
+0;68;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;type information;2.0;0.001072961373390558;27.0;0;0
+0;68;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;68;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;visual development environments;3.0;0.002145922746781116;27.0;0;0
+0;68;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;writing correct code;3.0;0.001072961373390558;27.0;0;0
+0;68;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;benefit;1.0;0.001072961373390558;27.0;0;0
+0;68;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;aid;1.0;0.001072961373390558;27.0;0;0
+0;68;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;making;1.0;0.003218884120171674;27.0;0;0
+0;68;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;developer;1.0;0.001072961373390558;27.0;0;0
+0;69;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;test tools debuggers;2.6666666666666665;0.001072961373390558;27.0;0.0;0
+0;69;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;examine private members;3.0;0.002145922746781116;27.0;0.0;0
+0;69;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0.0;0
+0;69;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;debuggers;2.0;0.003218884120171674;27.0;0.0;0
+0;70;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;insure;1.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;70;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;test harnesses;2.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;70;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;high level;2.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;70;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.7071067811865475;0
+0;70;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;test suite;2.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;70;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;make;1.0;0.004291845493562232;27.0;0.7071067811865475;0
+0;70;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;systematically call;2.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;70;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0.7071067811865475;0
+0;70;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code coverage;2.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;71;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;drawbacks;1.0;0.003218884120171674;27.0;0;0
+0;71;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;72;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;indiscriminately;1.0;0.0;27.0;0.0;0
+0;72;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;powerful;1.0;0.002145922746781116;27.0;0.0;0
+0;72;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;73;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perform;1.0;0.003218884120171674;27.0;0.0;0
+0;73;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;operation;1.0;0.002145922746781116;27.0;0.0;0
+0;73;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;preferable;1.0;0.001072961373390558;27.0;0.0;0
+0;73;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;73;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;avoid;1.0;0.001072961373390558;27.0;0.0;0
+0;74;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;accessing code;2.0;0.001072961373390558;27.0;0.0;0
+0;74;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;concerns;1.0;0.001072961373390558;27.0;0.0;0
+0;74;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;mind;1.0;0.002145922746781116;27.0;0.0;0
+0;74;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;75;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;performance overhead;2.0;0.002145922746781116;27.0;0;0
+0;76;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;performed;1.0;0.001072961373390558;27.0;0.0;0
+0;76;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection involves types;3.0;0.001072961373390558;27.0;0.0;0
+0;76;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dynamically resolved;2.0;0.001072961373390558;27.0;0.0;0
+0;77;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;non_reflective counterparts;2.0;0.002145922746781116;27.0;0.0;0
+0;77;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.0;0.015021459227467811;27.0;0.0;0
+0;77;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;performance_sensitive applications;2.0;0.002145922746781116;27.0;0.0;0
+0;77;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflective operations;2.0;0.002145922746781116;27.0;0.0;0
+0;77;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;called frequently;2.0;0.002145922746781116;27.0;0.0;0
+0;77;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;avoided;1.0;0.002145922746781116;27.0;0.0;0
+0;77;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;sections;1.0;0.002145922746781116;27.0;0.0;0
+0;77;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;slower performance;2.0;0.002145922746781116;27.0;0.0;0
+0;78;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;security restrictions;2.0;0.002145922746781116;27.0;0;0
+0;79;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;security manager;2.0;0.001072961373390558;27.0;0.0;0
+0;79;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection requires;2.0;0.001072961373390558;27.0;0.0;0
+0;79;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime permission;2.0;0.001072961373390558;27.0;0.0;0
+0;79;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;running;1.0;0.002145922746781116;27.0;0.0;0
+0;79;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;present;1.0;0.001072961373390558;27.0;0.0;0
+0;80;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;restricted security context;3.0;0.001072961373390558;27.0;0;0
+0;80;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;applet;1.0;0.0;27.0;0;0
+0;80;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.0;0.015021459227467811;27.0;0;0
+0;80;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;run;1.0;0.001072961373390558;27.0;0;0
+0;80;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;important consideration;2.0;0.001072961373390558;27.0;0;0
+0;81;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;internals;1.0;0.002145922746781116;27.0;0;0
+0;81;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;exposure;1.0;0.002145922746781116;27.0;0;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;render code dysfunctional;2.6666666666666665;0.001072961373390558;27.0;0.7071067811865475;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;2.0;0.015021459227467811;27.0;0.7071067811865475;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.7071067811865475;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;illegal;1.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;destroy portability;2.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;accessing private fields;3.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0.7071067811865475;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;result;1.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;non_reflective code;2.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;unexpected side_effects;2.0;0.001072961373390558;27.0;0.7071067811865475;0
+0;82;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perform operations;2.0;0.002145922746781116;27.0;0.7071067811865475;0
+0;83;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;change behavior;2.0;0.001072961373390558;27.0;0.0;0
+0;83;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;platform;1.0;0.002145922746781116;27.0;0.0;0
+0;83;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;upgrades;1.0;0.002145922746781116;27.0;0.0;0
+0;84;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;source;1.0;0.001072961373390558;27.0;0;0
+0;85;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection api;2.0;0.003218884120171674;27.0;0;0
+0;86;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instantiation;1.0;0.0;27.0;0.0;0
+0;86;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;set operations;2.0;0.001072961373390558;27.0;0.0;0
+0;86;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0.0;0
+0;86;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;implementation;1.0;0.0;27.0;0.0;0
+0;86;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;prior knowledge;2.0;0.001072961373390558;27.0;0.0;0
+0;86;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;run time;2.0;0.004291845493562232;27.0;0.0;0
+0;86;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;objects;1.0;0.006437768240343348;13.5;0.0;0
+0;86;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;invocation;1.0;0.001072961373390558;27.0;0.0;0
+0;86;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class variables dynamically;3.0;0.001072961373390558;27.0;0.0;0
+0;86;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0.0;0
+0;87;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0;0
+0;87;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;null parameter;2.0;0.001072961373390558;27.0;0;0
+0;87;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method;1.0;0.00536480686695279;5.4;0;0
+0;87;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;invoke;1.0;0.002145922746781116;9.0;0;0
+0;88;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;supply null;2.0;0.001072961373390558;27.0;0;0
+0;88;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;static;1.0;0.002145922746781116;27.0;0;0
+0;88;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method;1.0;0.00536480686695279;5.4;0;0
+0;89;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;supply;1.0;0.001072961373390558;27.0;0;0
+0;89;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;valid myobject instance;3.0;0.001072961373390558;27.0;0;0
+0;89;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;invoking;1.0;0.001072961373390558;27.0;0;0
+0;89;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;static;1.0;0.002145922746781116;27.0;0;0
+0;89;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;null;1.0;0.001072961373390558;27.0;0;0
+0;89;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method;1.0;0.00536480686695279;5.4;0;0
+0;90;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;90;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;91;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;slow;1.0;0.001072961373390558;27.0;0;0
+0;91;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;91;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;excess;1.0;0.001072961373390558;27.0;0;0
+0;91;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;application;1.0;0.0;27.0;0;0
+0;91;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;resolves;1.0;0.001072961373390558;27.0;0;0
+0;91;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;powerful api;2.0;0.001072961373390558;27.0;0;0
+0;91;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0;0
+0;91;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;types;1.0;0.002145922746781116;13.5;0;0
+0;93;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;application;1.5;0.0;27.0;0;0
+0;93;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;remote application;1.75;0.001072961373390558;27.0;0;0
+0;93;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0;0
+0;93;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;obtain;1.0;0.001072961373390558;27.0;0;0
+0;93;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;api methods;2.0;0.001072961373390558;27.0;0;0
+0;94;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perform;1.0;0.003218884120171674;27.0;0;0
+0;94;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;sort;1.0;0.001072961373390558;27.0;0;0
+0;94;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0;0
+0;94;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;based;1.0;0.001072961373390558;27.0;0;0
+0;94;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;computation;1.0;0.0;27.0;0;0
+0;95;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perform computation based;3.0;0.001072961373390558;27.0;0;0
+0;95;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;provider guarantees;2.0;0.001072961373390558;27.0;0;0
+0;95;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;type;1.0;0.001072961373390558;9.0;0;0
+0;95;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0;0
+0;95;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;3 types;0.5;0.001072961373390558;27.0;0;0
+0;96;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;implement;1.0;0.003218884120171674;27.0;0;0
+0;96;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;3 classes;0.5;0.001072961373390558;27.0;0;0
+0;96;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;logic;1.0;0.0;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;provider;1.0;0.001072961373390558;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.66666666667;0.016094420600858368;4.5;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object information;1.833333333335;0.001072961373390558;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perform;1.5;0.003218884120171674;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;require;1.0;0.002145922746781116;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instantiate;1.0;0.0;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;computation based;2.0;0.001072961373390558;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object received;1.833333333335;0.001072961373390558;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perform computation;1.75;0.001072961373390558;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;statically code;2.0;0.001072961373390558;27.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;97;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;98;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java reflection;2.0;0.002145922746781116;27.0;0;0
+0;98;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;powerful;1.0;0.002145922746781116;27.0;0;0
+0;99;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;knowing;1.0;0.0;27.0;0;0
+0;99;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0;0
+0;99;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fields;1.0;0.004291845493562232;13.5;0;0
+0;99;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interfaces;1.0;0.0075107296137339056;13.5;0;0
+0;99;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.5;0.015021459227467811;27.0;0;0
+0;99;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java reflection makes;3.0;0.002145922746781116;27.0;0;0
+0;99;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;names;1.0;0.003218884120171674;13.5;0;0
+0;99;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0;0
+0;99;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;inspect classes;1.75;0.002145922746781116;27.0;0;0
+0;100;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;compile time;2.0;0.00536480686695279;9.0;0;0
+0;101;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instantiate;1.0;0.0;27.0;0;0
+0;101;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;invoke methods;2.0;0.001072961373390558;27.0;0;0
+0;101;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;set field values;3.0;0.001072961373390558;27.0;0;0
+0;101;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;objects;1.0;0.006437768240343348;13.5;0;0
+0;101;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;102;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;quick java reflection;2.6666666666666665;0.001072961373390558;27.0;0;0
+0;102;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;2.0;0.06759656652360516;3.375;0;0
+0;102;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;show;1.0;0.001072961373390558;27.0;0;0
+0;103;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class object;2.25;0.002145922746781116;27.0;0;0
+0;103;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;obtains;1.0;0.001072961373390558;27.0;0;0
+0;103;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class called myobject;2.8333333333333335;0.001072961373390558;27.0;0;0
+0;104;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;iterates;1.0;0.001072961373390558;27.0;0;0
+0;104;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0;0
+0;104;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;list;1.0;0.0;27.0;0;0
+0;104;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;names;1.0;0.003218884120171674;13.5;0;0
+0;104;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;print;1.0;0.001072961373390558;27.0;0;0
+0;104;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class object;1.75;0.002145922746781116;27.0;0;0
+0;104;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.5;0.019313304721030045;9.0;0;0
+0;105;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;explained;1.0;0.002145922746781116;27.0;0;0
+0;105;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;works;1.0;0.001072961373390558;27.0;0;0
+0;106;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;edit;1.0;0.001072961373390558;27.0;0;0
+0;107;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;answer;1.0;0.003218884120171674;27.0;0;0
+0;107;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;editing;1.0;0.001072961373390558;27.0;0;0
+0;107;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reading;1.0;0.001072961373390558;27.0;0;0
+0;107;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;1 year;0.5;0.001072961373390558;27.0;0;0
+0;107;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;108;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;spring;1.0;0.002145922746781116;27.0;0;0
+0;108;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;bean configuration;2.0;0.001072961373390558;27.0;0;0
+0;109;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;bean   element;1.0;0.001072961373390558;27.0;0;0
+0;109;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;spring context processes;3.0;0.001072961373390558;27.0;0;0
+0;109;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;110;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;argument;1.0;0.002145922746781116;27.0;0;0
+0;110;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fornamewith;1.0;0.0;27.0;0;0
+0;112;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;foo;1.0;0.0;27.0;0;0
+0;112;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;112;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instantiate;1.0;0.0;27.0;0;0
+0;113;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;set;1.0;0.002145922746781116;27.0;0;0
+0;113;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;113;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;property   element;1.0;0.001072961373390558;27.0;0;0
+0;113;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;setter;1.0;0.001072961373390558;27.0;0;0
+0;114;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;junit;1.0;0.0;27.0;0;0
+0;114;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;115;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;private methods;2.0;0.001072961373390558;27.0;0;0
+0;116;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;private fields;2.0;0.001072961373390558;27.0;0;0
+0;117;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;understanding;1.0;0.0;27.0;0;0
+0;118;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;programmer;1.0;0.003218884120171674;27.0;0;0
+0;118;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;access entities;2.0;0.001072961373390558;27.0;0;0
+0;118;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;118;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;program dynamically;2.0;0.001072961373390558;27.0;0;0
+0;121;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0;0
+0;121;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;make;1.0;0.004291845493562232;27.0;0;0
+0;121;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;coding;1.0;0.001072961373390558;27.0;0;0
+0;121;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;application;1.0;0.0;27.0;0;0
+0;121;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class dynamically;1.75;0.001072961373390558;27.0;0;0
+0;121;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;programmer;1.0;0.003218884120171674;27.0;0;0
+0;121;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.5;0.019313304721030045;9.0;0;0
+0;121;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;unaware;1.0;0.001072961373390558;27.0;0;0
+0;121;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;122;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;scenarios;1.0;0.001072961373390558;27.0;0;0
+0;122;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;frequently;1.0;0.001072961373390558;27.0;0;0
+0;122;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;123;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;situation arises;2.0;0.001072961373390558;27.0;0;0
+0;123;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;rewrite;1.0;0.001072961373390558;27.0;0;0
+0;123;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;application;1.0;0.0;27.0;0;0
+0;123;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;complicated;1.0;0.0;27.0;0;0
+0;123;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;programmer;1.0;0.003218884120171674;27.0;0;0
+0;123;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;123;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;change;1.0;0.002145922746781116;27.0;0;0
+0;124;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;124;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;worry;1.0;0.001072961373390558;27.0;0;0
+0;124;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;possibly changing class;3.0;0.001072961373390558;27.0;0;0
+0;125;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;simple;1.0;0.001072961373390558;27.0;0;0
+0;125;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;126;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;moved;1.0;0.001072961373390558;27.0;0;0
+0;126;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;run time;2.0;0.004291845493562232;27.0;0;0
+0;126;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;chess game;2.0;0.001072961373390558;27.0;0;0
+0;126;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;user;1.0;0.002145922746781116;27.0;0;0
+0;127;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;run time;2.0;0.004291845493562232;27.0;0;0
+0;127;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;implemented;1.0;0.0;27.0;0;0
+0;127;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;127;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;call methods;2.0;0.002145922746781116;27.0;0;0
+0;128;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;functions;1.0;0.002145922746781116;27.0;0;0
+0;128;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;set;1.0;0.002145922746781116;27.0;0;0
+0;128;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;128;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;modify;1.0;0.003218884120171674;9.0;0;0
+0;128;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime information;2.0;0.001072961373390558;27.0;0;0
+0;128;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;access;1.0;0.002145922746781116;13.5;0;0
+0;128;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;program;1.0;0.0075107296137339056;9.0;0;0
+0;128;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;behavior;1.0;0.001072961373390558;13.5;0;0
+0;129;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;function;1.0;0.001072961373390558;27.0;0;0
+0;129;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;handle;1.0;0.001072961373390558;27.0;0;0
+0;129;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;return type;2.0;0.001072961373390558;27.0;0;0
+0;129;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;meta information;2.0;0.001072961373390558;27.0;0;0
+0;129;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime behaivour depending;3.0;0.001072961373390558;27.0;0;0
+0;129;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;program;1.0;0.0075107296137339056;9.0;0;0
+0;129;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;situation;1.0;0.001072961373390558;27.0;0;0
+0;129;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;check;1.0;0.002145922746781116;27.0;0;0
+0;129;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;change;1.0;0.002145922746781116;27.0;0;0
+0;130;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;load;1.0;0.0;27.0;0;0
+0;130;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;assembly;1.0;0.001072961373390558;27.0;0;0
+0;131;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;taking actions;2.0;0.001072961373390558;27.0;0;0
+0;131;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dll;1.0;0.0;27.0;0;0
+0;131;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;examine;1.0;0.003218884120171674;9.0;0;0
+0;131;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0;0
+0;131;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;navigating;1.0;0.001072961373390558;27.0;0;0
+0;131;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;found;1.0;0.001072961373390558;27.0;0;0
+0;131;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0;0
+0;132;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;invoke;1.0;0.002145922746781116;9.0;0;0
+0;132;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;create;1.0;0.004291845493562232;27.0;0;0
+0;132;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method;1.0;0.00536480686695279;5.4;0;0
+0;132;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instance;1.0;0.002145922746781116;9.0;0;0
+0;132;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0;0
+0;132;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;133;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;concrete situations;2.0;0.001072961373390558;27.0;0;0
+0;133;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;everytime;1.0;0.0;27.0;0;0
+0;134;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;events;1.0;0.001072961373390558;27.0;0;0
+0;134;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;configuration file;2.0;0.001072961373390558;27.0;0;0
+0;134;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;134;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;loggin purposes;2.0;0.001072961373390558;27.0;0;0
+0;134;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dinamically create handlers;3.0;0.001072961373390558;27.0;0;0
+0;135;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java documentation page;3.0;0.001072961373390558;27.0;0;0
+0;136;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0;0
+0;137;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lang;1.0;0.0;27.0;0;0
+0;138;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflect package;2.0;0.001072961373390558;27.0;0;0
+0;138;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interfaces;1.0;0.0075107296137339056;13.5;0;0
+0;138;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0;0
+0;138;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;obtaining reflective information;3.0;0.001072961373390558;27.0;0;0
+0;138;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;objects;1.0;0.006437768240343348;13.5;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;information;1.0;0.0;27.0;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;security restrictions;2.0;0.002145922746781116;27.0;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;constructors;1.0;0.0;27.0;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;underlying counterparts;2.0;0.001072961373390558;27.0;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fields;1.5;0.004291845493562232;13.5;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;programmatic access;2.0;0.001072961373390558;27.0;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflected fields;1.75;0.001072961373390558;27.0;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;loaded classes;2.0;0.001072961373390558;27.0;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;operate;1.0;0.001072961373390558;27.0;0;0
+0;139;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;140;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;access checks;2.0;0.001072961373390558;27.0;0;0
+0;140;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflectpermission;1.0;0.0;27.0;0;0
+0;140;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;suppression;1.0;0.0;27.0;0;0
+0;140;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;accessibleobject;1.0;0.0;27.0;0;0
+0;141;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0;0
+0;141;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0;0
+0;141;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;package;1.0;0.001072961373390558;27.0;0;0
+0;142;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lang;1.0;0.0;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object serialization;2.0;0.001072961373390558;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interpreters;1.0;0.0;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;2.0;0.019313304721030045;9.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;target object;2.0;0.001072961373390558;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class browsers;2.0;0.002145922746781116;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;access;1.0;0.002145922746781116;13.5;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;javabeans;1.0;0.0;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;public members;2.0;0.001072961373390558;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;members declared;2.0;0.001072961373390558;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class accommodate applications;2.6666666666666665;0.001072961373390558;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;services;1.0;0.001072961373390558;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object inspectors;2.0;0.001072961373390558;27.0;0;0
+0;143;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;debuggers;1.0;0.003218884120171674;27.0;0;0
+0;144;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;functionality;1.0;0.0;27.0;0;0
+0;144;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;includes;1.0;0.001072961373390558;27.0;0;0
+0;145;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;documentation link;2.0;0.001072961373390558;27.0;0;0
+0;145;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class class;2.0;0.019313304721030045;9.0;0;0
+0;145;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods exposed;2.0;0.001072961373390558;27.0;0;0
+0;146;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;article;1.0;0.001072961373390558;27.0;0;0
+0;147;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;considerable drawbacks;2.0;0.001072961373390558;27.0;0;0
+0;147;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;148;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;user;1.0;0.002145922746781116;27.0;0;0
+0;148;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;149;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;drawbacks;1.0;0.003218884120171674;27.0;0;0
+0;149;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;150;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;general abuses;2.0;0.001072961373390558;27.0;0;0
+0;151;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection feature;2.0;0.001072961373390558;27.0;0;0
+0;151;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;se question;2.0;0.001072961373390558;27.0;0;0
+0;151;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;abuse;1.0;0.001072961373390558;27.0;0;0
+0;152;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;read;1.0;0.001072961373390558;27.0;0;0
+0;152;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0;0
+0;152;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;private field;2.0;0.001072961373390558;27.0;0;0
+0;153;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;summary;1.0;0.001072961373390558;27.0;0;0
+0;154;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;insecure;1.0;0.001072961373390558;27.0;0;0
+0;154;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;easily lead;2.0;0.001072961373390558;27.0;0;0
+0;154;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;compromise;1.0;0.001072961373390558;27.0;0;0
+0;154;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;system code;2.0;0.001072961373390558;27.0;0;0
+0;154;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java security model;3.0;0.001072961373390558;27.0;0;0
+0;154;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;functions conducted;2.0;0.001072961373390558;27.0;0;0
+0;155;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;feature sparingly;2.0;0.001072961373390558;27.0;0;0
+0;156;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;add;1.0;0.002145922746781116;27.0;0;0
+0;156;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;listed;1.0;0.0;27.0;0;0
+0;156;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;point;1.0;0.001072961373390558;27.0;0;0
+0;157;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection api;2.0;0.003218884120171674;27.0;0;0
+0;157;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0;0
+0;157;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;write universal tostringmethod;3.0;0.001072961373390558;27.0;0;0
+0;158;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;debugging;1.0;0.002145922746781116;27.0;0;0
+0;160;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;161;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;create code;2.0;0.001072961373390558;27.0;0;0
+0;161;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;familiar;1.0;0.001072961373390558;27.0;0;0
+0;161;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fly;1.0;0.001072961373390558;27.0;0;0
+0;163;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;functions;1.0;0.002145922746781116;27.0;0;0
+0;163;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dynamic classes;2.0;0.001072961373390558;27.0;0;0
+0;163;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;constructors _ based;3.0;0.001072961373390558;27.0;0;0
+0;165;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0;0
+0;165;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;appearance;1.0;0.001072961373390558;27.0;0;0
+0;165;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;166;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;argument;1.0;0.002145922746781116;27.0;0;0
+0;166;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;167;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fact;1.0;0.001072961373390558;27.0;0;0
+0;167;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;self_identify  ability;1.3333333333333333;0.001072961373390558;27.0;0;0
+0;168;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;self_knowledge;1.0;0.002145922746781116;27.0;0;0
+0;168;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lack capability;2.0;0.001072961373390558;27.0;0;0
+0;168;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;168;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0;0
+0;168;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;languages;1.0;0.0;27.0;0;0
+0;168;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;self_sensing;1.0;0.001072961373390558;27.0;0;0
+0;168;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;word;1.0;0.001072961373390558;27.0;0;0
+0;169;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;capability;1.0;0.001072961373390558;27.0;0;0
+0;169;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;self_knowledge;1.0;0.002145922746781116;27.0;0;0
+0;169;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;observe;1.0;0.001072961373390558;27.0;0;0
+0;169;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflect;1.0;0.002145922746781116;27.0;0;0
+0;169;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;thing;1.0;0.001072961373390558;27.0;0;0
+0;170;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;170;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;python;1.0;0.002145922746781116;13.5;0;0
+0;170;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perceive;1.0;0.002145922746781116;27.0;0;0
+0;170;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;individuals;1.0;0.0;27.0;0;0
+0;170;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;ruby;1.0;0.001072961373390558;13.5;0;0
+0;170;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;excellent dynamic languages;3.0;0.001072961373390558;27.0;0;0
+0;171;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0;0
+0;171;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;python;1.0;0.002145922746781116;13.5;0;0
+0;171;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0;0
+0;171;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perceive;1.0;0.002145922746781116;27.0;0;0
+0;171;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection class;2.0;0.001072961373390558;27.0;0;0
+0;171;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;mirror;1.0;0.001072961373390558;27.0;0;0
+0;172;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0;0
+0;172;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;173;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0;0
+0;173;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;173;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interfaces;1.0;0.0075107296137339056;13.5;0;0
+0;173;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;modify;1.0;0.003218884120171674;9.0;0;0
+0;173;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;behaviour;1.0;0.001072961373390558;27.0;0;0
+0;173;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;examine;1.0;0.003218884120171674;9.0;0;0
+0;173;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;api;1.0;0.0;27.0;0;0
+0;173;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0;0
+0;173;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0;0
+0;174;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0;0
+0;175;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lang;1.0;0.0;27.0;0;0
+0;175;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java;1.0;0.0;27.0;0;0
+0;176;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;lang;1.0;0.0;27.0;0;0
+0;177;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java reflection;2.0;0.002145922746781116;27.0;0;0
+0;178;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;information;1.0;0.0;27.0;0;0
+0;178;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;179;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;getclassmethod;1.0;0.0;27.0;0;0
+0;179;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object belongs;2.0;0.002145922746781116;27.0;0;0
+0;179;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;180;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;getconstructorsmethod;1.0;0.0;27.0;0;0
+0;180;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;constructors;1.5;0.0;27.0;0;0
+0;180;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object belongs;2.0;0.002145922746781116;27.0;0;0
+0;180;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;180;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;public constructors;1.75;0.001072961373390558;27.0;0;0
+0;181;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;objects belongs;2.0;0.001072961373390558;27.0;0;0
+0;181;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;181;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;public methods;1.75;0.001072961373390558;27.0;0;0
+0;181;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.5;0.012875536480686695;13.5;0;0
+0;181;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;getmethodsmethod;1.0;0.0;27.0;0;0
+0;182;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection api;2.0;0.003218884120171674;27.0;0;0
+0;183;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;ide;1.0;0.001072961373390558;27.0;0;0
+0;185;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;myeclipse;1.0;0.0;27.0;0;0
+0;185;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;eclipse;1.0;0.001072961373390558;27.0;0;0
+0;185;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;netbeans;1.0;0.0;27.0;0;0
+0;186;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;debugger;1.0;0.001072961373390558;27.0;0;0
+0;186;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;test tools;2.0;0.001072961373390558;27.0;0;0
+0;187;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;advantages;1.0;0.001072961373390558;27.0;0;0
+0;187;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;188;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;extensibility features;2.0;0.002145922746781116;27.0;0;0
+0;189;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;make;1.0;0.004291845493562232;27.0;0;0
+0;189;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;application;1.0;0.0;27.0;0;0
+0;189;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;creating instances;2.0;0.002145922746781116;27.0;0;0
+0;189;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;external;1.0;0.002145922746781116;27.0;0;0
+0;189;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;extensibility objects;2.0;0.002145922746781116;27.0;0;0
+0;189;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fully_qualified names;2.0;0.002145922746781116;27.0;0;0
+0;189;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;user_defined classes;2.0;0.002145922746781116;27.0;0;0
+0;190;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;testing tools;2.0;0.001072961373390558;27.0;0;0
+0;190;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;debugging;1.0;0.002145922746781116;27.0;0;0
+0;191;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0;0
+0;191;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;examine private members;3.0;0.002145922746781116;27.0;0;0
+0;191;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;property;1.0;0.001072961373390558;27.0;0;0
+0;191;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;debuggers;1.0;0.003218884120171674;27.0;0;0
+0;191;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;192;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;drawbacks;1.0;0.003218884120171674;27.0;0;0
+0;193;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;performance overhead;2.0;0.002145922746781116;27.0;0;0
+0;194;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;non_reflective counterparts;2.0;0.002145922746781116;27.0;0;0
+0;194;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.0;0.015021459227467811;27.0;0;0
+0;194;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;performance_sensitive applications;2.0;0.002145922746781116;27.0;0;0
+0;194;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflective operations;2.0;0.002145922746781116;27.0;0;0
+0;194;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;called frequently;2.0;0.002145922746781116;27.0;0;0
+0;194;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;avoided;1.0;0.002145922746781116;27.0;0;0
+0;194;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;sections;1.0;0.002145922746781116;27.0;0;0
+0;194;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;slower performance;2.0;0.002145922746781116;27.0;0;0
+0;195;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;internals;1.0;0.002145922746781116;27.0;0;0
+0;195;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;exposure;1.0;0.002145922746781116;27.0;0;0
+0;196;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;change behaviour;2.0;0.001072961373390558;27.0;0;0
+0;196;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;platform;1.0;0.002145922746781116;27.0;0;0
+0;196;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;upgrades;1.0;0.002145922746781116;27.0;0;0
+0;197;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;ref;1.0;0.001072961373390558;27.0;0;0
+0;198;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java reflection javarevisited;3.0;0.001072961373390558;27.0;0;0
+0;199;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;blogspot;1.0;0.0;27.0;0;0
+0;201;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;write;1.0;0.001072961373390558;27.0;0;0
+0;201;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;201;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;generic code;2.0;0.001072961373390558;27.0;0;0
+0;201;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;ability;1.0;0.004291845493562232;9.0;0;0
+0;202;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;call;1.0;0.004291845493562232;27.0;0;0
+0;202;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0;0
+0;202;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;create object;2.0;0.001072961373390558;27.0;0;0
+0;202;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method;1.0;0.00536480686695279;5.4;0;0
+0;203;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;made higly parameterised;3.0;0.001072961373390558;27.0;0;0
+0;203;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;program;1.0;0.0075107296137339056;9.0;0;0
+0;204;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0;0
+0;204;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method exposed;2.0;0.001072961373390558;27.0;0;0
+0;204;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;variables;1.0;0.001072961373390558;27.0;0;0
+0;204;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;introspect;1.0;0.0;27.0;0;0
+0;204;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;outer world;2.0;0.001072961373390558;27.0;0;0
+0;204;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;detect;1.0;0.001072961373390558;27.0;0;0
+0;204;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class;1.0;0.019313304721030045;9.0;0;0
+0;205;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;suggest;1.0;0.001072961373390558;27.0;0;0
+0;205;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;holds;1.0;0.0;27.0;0;0
+0;205;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0;0
+0;205;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;providing feature;2.0;0.001072961373390558;27.0;0;0
+0;205;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflects;1.0;0.001072961373390558;27.0;0;0
+0;205;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;class method;2.0;0.001072961373390558;27.0;0;0
+0;206;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;knowing;1.0;0.0;27.0;0;0
+0;206;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.0;0.015021459227467811;27.0;0;0
+0;206;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;application;1.0;0.0;27.0;0;0
+0;206;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;frameworks;1.0;0.001072961373390558;27.0;0;0
+0;206;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;wood;1.0;0.001072961373390558;27.0;0;0
+0;206;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;invoke services;2.0;0.001072961373390558;27.0;0;0
+0;207;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;knowing;1.0;0.0;27.0;0;0
+0;207;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;methods;1.0;0.012875536480686695;13.5;0;0
+0;207;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fields;1.0;0.004291845493562232;13.5;0;0
+0;207;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interfaces;1.0;0.0075107296137339056;13.5;0;0
+0;207;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.5;0.015021459227467811;27.0;0;0
+0;207;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java reflection makes;3.0;0.002145922746781116;27.0;0;0
+0;207;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;names;1.0;0.003218884120171674;13.5;0;0
+0;207;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;runtime;1.0;0.0;27.0;0;0
+0;207;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;inspect classes;1.75;0.002145922746781116;27.0;0;0
+0;208;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;compile time;2.0;0.00536480686695279;9.0;0;0
+0;209;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;maximum benefits;2.0;0.001072961373390558;27.0;0;0
+0;209;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;achieved;1.0;0.001072961373390558;27.0;0;0
+0;209;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;framework level;2.0;0.001072961373390558;27.0;0;0
+0;209;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;framework;1.0;0.004291845493562232;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;addition;1.0;0.001072961373390558;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;compiled;1.0;0.001072961373390558;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;constructor level;2.25;0.001072961373390558;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;extra modification;1.75;0.001072961373390558;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;modification;1.5;0.0;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;run time;2.0;0.004291845493562232;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;program;1.0;0.0075107296137339056;9.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;examination;1.0;0.0;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;byte code;2.0;0.002145922746781116;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method level;2.25;0.001072961373390558;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;instance variable level;2.8333333333333335;0.001072961373390558;27.0;0;0
+0;210;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;annotation level reflection;2.8333333333333335;0.001072961373390558;27.0;0;0
+0;211;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method add;2.0;0.003218884120171674;27.0;0;0
+0;211;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;suppose;1.0;0.002145922746781116;27.0;0;0
+0;212;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;suppose b1;2.0;0.001072961373390558;27.0;0;0
+0;212;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;equivalent byte code;3.0;0.001072961373390558;27.0;0;0
+0;213;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;suppose;1.0;0.002145922746781116;27.0;0;0
+0;213;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;system;1.0;0.003218884120171674;27.0;0;0
+0;214;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method add;2.0;0.003218884120171674;27.0;0;0
+0;214;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;parameter;1.0;0.002145922746781116;27.0;0;0
+0;214;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;check;1.0;0.002145922746781116;27.0;0;0
+0;214;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;called;1.0;0.002145922746781116;13.5;0;0
+0;215;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;code;1.5;0.015021459227467811;27.0;0;0
+0;215;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;215;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0;0
+0;215;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dynamically examine;2.0;0.001072961373390558;27.0;0;0
+0;215;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;framework;1.0;0.004291845493562232;27.0;0;0
+0;215;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;program;1.0;0.0075107296137339056;9.0;0;0
+0;215;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;byte code;1.75;0.002145922746781116;27.0;0;0
+0;215;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;glue;1.0;0.001072961373390558;27.0;0;0
+0;216;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;getclass;1.0;0.0;27.0;0;0
+0;217;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;getmethod;1.0;0.0;27.0;0;0
+0;218;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;examining;1.0;0.001072961373390558;27.0;0;0
+0;218;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0;0
+0;219;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method add;1.75;0.003218884120171674;27.0;0;0
+0;219;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;add;1.5;0.002145922746781116;27.0;0;0
+0;219;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;operation;1.0;0.002145922746781116;27.0;0;0
+0;219;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;called;1.0;0.002145922746781116;13.5;0;0
+0;220;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;framework;1.0;0.004291845493562232;27.0;0;0
+0;220;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;program;1.0;0.0075107296137339056;9.0;0;0
+0;220;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;method named add;3.0;0.001072961373390558;27.0;0;0
+0;220;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;object;1.0;0.016094420600858368;4.5;0;0
+0;221;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;aspect oriented programming;3.0;0.001072961373390558;27.0;0;0
+0;221;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dependency injection;2.0;0.001072961373390558;27.0;0;0
+0;221;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;reflection;1.0;0.06759656652360516;3.375;0;0
+0;222;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;question;1.0;0.001072961373390558;27.0;0;0
+0;222;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interest;1.0;0.001072961373390558;27.0;0;0
+0;223;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;spam answers;2.0;0.001072961373390558;27.0;0;0
+0;223;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;posting;1.0;0.001072961373390558;27.0;0;0
+0;223;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;attracted low_quality;2.0;0.001072961373390558;27.0;0;0
+0;223;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;site;1.0;0.003218884120171674;27.0;0;0
+0;223;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;requires 10 reputation;1.3333333333333333;0.001072961373390558;27.0;0;0
+0;223;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;answer;1.0;0.003218884120171674;27.0;0;0
+0;223;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;removed;1.0;0.001072961373390558;27.0;0;0
+0;224;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;answer;1.0;0.003218884120171674;27.0;0;0
+0;224;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;unanswered questions;2.0;0.001072961373390558;27.0;0;0
+0;225;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;asked;1.0;0.001072961373390558;27.0;0;0
+0;226;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;10 months ago;1.3333333333333333;0.001072961373390558;27.0;0;0
+0;226;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;8 years;0.5;0.001072961373390558;27.0;0;0
+0;227;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;viewed;1.0;0.001072961373390558;27.0;0;0
+0;228;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;452 times;0.5;0.001072961373390558;27.0;0;0
+0;229;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;active;1.0;0.001072961373390558;27.0;0;0
+0;230;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;1 month ago;1.3333333333333333;0.001072961373390558;27.0;0;0
+0;231;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;chat stack overflow;3.0;0.001072961373390558;27.0;0;0
+0;232;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;meta stack overflow;3.0;0.001072961373390558;27.0;0;0
+0;233;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;tour start;2.0;0.001072961373390558;27.0;0;0
+0;233;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;quick overview;2.0;0.001072961373390558;27.0;0;0
+0;233;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;site;1.0;0.003218884120171674;27.0;0;0
+0;234;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;questions;1.0;0.001072961373390558;13.5;0;0
+0;234;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;center detailed answers;3.0;0.001072961373390558;27.0;0;0
+0;235;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;workings;1.0;0.001072961373390558;27.0;0;0
+0;235;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;meta discuss;2.0;0.001072961373390558;27.0;0;0
+0;235;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;site;1.0;0.003218884120171674;27.0;0;0
+0;235;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;policies;1.0;0.001072961373390558;27.0;0;0
+0;236;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;company;1.0;0.001072961373390558;27.0;0;0
+0;236;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;stack overflow;2.0;0.001072961373390558;27.0;0;0
+0;236;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;learn;1.0;0.0;27.0;0;0
+0;237;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;hiring developers;2.0;0.001072961373390558;27.0;0;0
+0;237;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;business learn;2.0;0.001072961373390558;27.0;0;0
+0;237;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;posting ads;2.0;0.001072961373390558;27.0;0;0
+0;238;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;don;1.0;0.002145922746781116;27.0;0;0
+0;238;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;classes;1.0;0.015021459227467811;27.0;0;0
+0;238;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;import;1.0;0.001072961373390558;27.0;0;0
+0;238;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;accessed;1.0;0.001072961373390558;27.0;0;0
+0;238;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;java lang class;3.0;0.001072961373390558;27.0;0;0
+0;238;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;inspection;1.0;0.001072961373390558;27.0;0;0
+0;239;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;helicopter;1.0;0.0;27.0;0;0
+0;239;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;licenses   permits;1.0;0.001072961373390558;27.0;0;0
+0;239;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;required;1.0;0.001072961373390558;27.0;0;0
+0;239;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perform slingload operations;3.0;0.001072961373390558;27.0;0;0
+0;240;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;defined;1.0;0.001072961373390558;27.0;0;0
+0;240;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;gender;1.0;0.001072961373390558;27.0;0;0
+0;240;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;adjectives;1.0;0.001072961373390558;27.0;0;0
+0;240;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;noun;1.0;0.001072961373390558;27.0;0;0
+0;241;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;specific incident;2.0;0.001072961373390558;27.0;0;0
+0;241;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;ant_man referring;2.0;0.001072961373390558;27.0;0;0
+0;242;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;interests;1.0;0.001072961373390558;27.0;0;0
+0;242;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;student project;1.75;0.001072961373390558;27.0;0;0
+0;242;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;chair;1.0;0.001072961373390558;27.0;0;0
+0;242;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;student;1.5;0.001072961373390558;27.0;0;0
+0;242;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;commercial software;2.0;0.001072961373390558;27.0;0;0
+0;243;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;unfixed;1.0;0.001072961373390558;27.0;0;0
+0;243;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;fixed;1.0;0.001072961373390558;27.0;0;0
+0;243;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;bug;1.0;0.001072961373390558;27.0;0;0
+0;244;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;multiple regex substitutions;3.0;0.001072961373390558;27.0;0;0
+0;244;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;utterance;1.0;0.001072961373390558;27.0;0;0
+0;244;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;cleaning;1.0;0.001072961373390558;27.0;0;0
+0;246;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;light_bulb appears;2.0;0.001072961373390558;27.0;0;0
+0;246;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;time;1.0;0.001072961373390558;27.0;0;0
+0;247;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;file;1.0;0.001072961373390558;27.0;0;0
+0;247;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;find ids;2.0;0.001072961373390558;27.0;0;0
+0;248;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;free cities  free;2.25;0.001072961373390558;27.0;0;0
+0;248;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;makes;1.0;0.001072961373390558;27.0;0;0
+0;249;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;nested components;2.0;0.001072961373390558;27.0;0;0
+0;249;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;send lightning events;3.0;0.001072961373390558;27.0;0;0
+0;250;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;chai;1.0;0.001072961373390558;27.0;0;0
+0;250;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;expect;1.0;0.001072961373390558;27.0;0;0
+0;250;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;true work;2.0;0.001072961373390558;27.0;0;0
+0;251;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;zeroes;1.0;0.0;27.0;0;0
+0;251;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;count matrices;2.0;0.001072961373390558;27.0;0;0
+0;252;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;hard crashing errors;3.0;0.001072961373390558;27.0;0;0
+0;253;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;cassette tape change;3.0;0.001072961373390558;27.0;0;0
+0;253;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;velocity;1.0;0.001072961373390558;27.0;0;0
+0;253;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;playing;1.0;0.001072961373390558;27.0;0;0
+0;254;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;eleven 1s;2.0;0.001072961373390558;27.0;0;0
+0;254;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;perfect square;2.0;0.001072961373390558;27.0;0;0
+0;255;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;bus;1.0;0.001072961373390558;27.0;0;0
+0;255;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;nanoseconds;1.0;0.0;27.0;0;0
+0;255;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;multiple chips outputing;3.0;0.001072961373390558;27.0;0;0
+0;255;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;damage;1.0;0.001072961373390558;27.0;0;0
+0;256;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;selenium;1.0;0.001072961373390558;27.0;0;0
+0;256;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;coded ui fits;3.0;0.001072961373390558;27.0;0;0
+0;256;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;tools;1.0;0.001072961373390558;27.0;0;0
+0;256;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;automated ui test;3.0;0.001072961373390558;27.0;0;0
+0;256;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;dev ops cycle;3.0;0.001072961373390558;27.0;0;0
+0;258;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;create;1.0;0.004291845493562232;27.0;0;0
+0;258;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;black circles;2.0;0.001072961373390558;27.0;0;0
+0;258;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;triangular array;2.0;0.001072961373390558;27.0;0;0
+0;258;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;tikz;1.0;0.0;27.0;0;0
+0;258;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;red;1.0;0.001072961373390558;27.0;0;0
+0;259;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;language;1.0;0.0;27.0;0;0
+0;259;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;voiced_unvoiced pair;2.0;0.001072961373390558;27.0;0;0
+0;260;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;danger  deep water;2.25;0.001072961373390558;27.0;0;0
+0;260;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;signs;1.0;0.001072961373390558;27.0;0;0
+0;261;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;pkg files;2.0;0.001072961373390558;27.0;0;0
+0;261;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;install hundreds;2.0;0.001072961373390558;27.0;0;0
+0;262;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;justified;1.0;0.0;27.0;0;0
+0;262;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;explained;1.0;0.002145922746781116;27.0;0;0
+0;262;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;floating point inaccuracies;3.0;0.001072961373390558;27.0;0;0
+0;264;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;tour;1.0;0.001072961373390558;27.0;0;0
+0;266;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;blog;1.0;0.0;27.0;0;0
+0;267;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;chat;1.0;0.001072961373390558;27.0;0;0
+0;268;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;data;1.0;0.001072961373390558;27.0;0;0
+0;269;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;legal;1.0;0.0;27.0;0;0
+0;270;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;privacy policy;2.0;0.001072961373390558;27.0;0;0
+0;271;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;work;1.0;0.003218884120171674;27.0;0;0
+0;272;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;advertising info;2.0;0.001072961373390558;27.0;0;0
+0;273;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;developer jobs directory;3.0;0.001072961373390558;27.0;0;0
+0;274;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;mobile;1.0;0.001072961373390558;27.0;0;0
+0;275;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;contact;1.0;0.001072961373390558;27.0;0;0
+0;276;https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful;feedback;1.0;0.0;27.0;0;0
+0;278;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;practical;1.0;0.07692307692307693;27.0;0;0
+0;278;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;reflection;1.0;0.15384615384615385;0.391304347826087;0;0
+0;278;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;give;1.0;0.15384615384615385;13.5;0;0
+0;279;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;reflexive;1.0;0.07692307692307693;27.0;0;0
+0;280;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;reflection;1.0;0.15384615384615385;0.391304347826087;0;0
+0;280;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;means;1.0;0.07692307692307693;27.0;0;0
+0;280;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;give;1.0;0.15384615384615385;13.5;0;0
+0;280;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;doesn;1.0;0.0;27.0;0;0
+0;280;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;clear picture;2.0;0.07692307692307693;27.0;0;0
+0;280;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;wikipedia explains;2.0;0.07692307692307693;27.0;0;0
+0;281;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;explain;1.0;0.07692307692307693;27.0;0;0
+0;281;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;relevant;1.0;0.07692307692307693;27.0;0;0
+0;281;https://stackoverflow.com/questions/14505297/what-is-reflection-property-of-a-programming-language;simpler;1.0;0.07692307692307693;27.0;0;0
+0;282;http://wwtrade.org/m/index.php/Reflection_(computer_science);created;1.0;0.0;13.5;0;0
+0;282;http://wwtrade.org/m/index.php/Reflection_(computer_science);examples show;2.0;0.0;13.5;0;0
+0;282;http://wwtrade.org/m/index.php/Reflection_(computer_science);instance foo;1.75;0.0;9.0;0;0
+0;282;http://wwtrade.org/m/index.php/Reflection_(computer_science);called;1.0;0.0;6.75;0;0
+0;282;http://wwtrade.org/m/index.php/Reflection_(computer_science);instance;1.5;0.0;5.4;0;0
+0;282;http://wwtrade.org/m/index.php/Reflection_(computer_science);class foo;2.0;0.0;9.0;0;0
+0;282;http://wwtrade.org/m/index.php/Reflection_(computer_science);method;1.0;0.0;2.7;0;0
+0;283;http://wwtrade.org/m/index.php/Reflection_(computer_science);shown;1.0;0.0;9.0;0;0
+0;283;http://wwtrade.org/m/index.php/Reflection_(computer_science);reflection;1.0;0.0;0.38028169014084506;0;0
+0;283;http://wwtrade.org/m/index.php/Reflection_(computer_science);language;1.0;0.0;27.0;0;0
+0;283;http://wwtrade.org/m/index.php/Reflection_(computer_science);versions;1.0;0.0;13.5;0;0
+0;283;http://wwtrade.org/m/index.php/Reflection_(computer_science);method;1.0;0.0;2.7;0;0
+0;283;http://wwtrade.org/m/index.php/Reflection_(computer_science);access;1.0;0.0;6.75;0;0
+0;283;http://wwtrade.org/m/index.php/Reflection_(computer_science);call sequence;2.0;0.0;13.5;0;0
+0;283;http://wwtrade.org/m/index.php/Reflection_(computer_science);class;1.0;0.0;1.2857142857142858;0;0
+0;291;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;ability;1.0;0.023809523809523808;5.4;0;0
+0;291;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;type introspection;1.75;0.05952380952380952;27.0;0;0
+0;291;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;object;1.0;0.05952380952380952;1.6875;0;0
+0;291;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;examine;1.0;0.023809523809523808;6.75;0;0
+0;291;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;program;1.0;0.023809523809523808;3.375;0;0
+0;291;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;runtime;1.0;0.0;27.0;0;0
+0;291;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;type;1.5;0.023809523809523808;13.5;0;0
+0;291;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;properties;1.0;0.011904761904761904;27.0;0;0
+0;292;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;object;1.0;0.05952380952380952;1.6875;0;0
+0;292;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;instance;1.0;0.011904761904761904;6.75;0;0
+0;292;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;intro;1.0;0.011904761904761904;27.0;0;0
+0;292;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;questions;1.0;0.011904761904761904;13.5;0;0
+0;292;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;mentioned;1.0;0.011904761904761904;27.0;0;0
+0;292;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;type;1.0;0.023809523809523808;13.5;0;0
+0;292;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;class;1.0;0.011904761904761904;1.35;0;0
+0;292;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;types;1.0;0.011904761904761904;9.0;0;0
+0;293;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;inheritance hierarchy;2.0;0.011904761904761904;27.0;0;0
+0;293;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;traverse;1.0;0.011904761904761904;27.0;0;0
+0;293;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;object;1.0;0.05952380952380952;1.6875;0;0
+0;293;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;derived;1.0;0.011904761904761904;27.0;0;0
+0;293;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;languages;1.0;0.0;27.0;0;0
+0;293;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;inherited base class;3.0;0.011904761904761904;27.0;0;0
+0;294;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;java;1.0;0.0;27.0;0;0
+0;294;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;python;1.0;0.011904761904761904;9.0;0;0
+0;294;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;languages;1.0;0.0;27.0;0;0
+0;294;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;type introspection capability;3.0;0.011904761904761904;27.0;0;0
+0;294;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;php;1.0;0.0;27.0;0;0
+0;294;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;ruby;1.0;0.011904761904761904;13.5;0;0
+0;295;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;type introspection;2.0;0.05952380952380952;27.0;0;0
+0;295;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;simple concept;2.0;0.011904761904761904;27.0;0;0
+0;295;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;objects;1.0;0.011904761904761904;3.857142857142857;0;0
+0;295;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;understand;1.0;0.011904761904761904;27.0;0;0
+0;295;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;query;1.0;0.011904761904761904;27.0;0;0
+0;295;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;write powerful logic;3.0;0.011904761904761904;27.0;0;0
+0;295;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;metadata;1.0;0.0;27.0;0;0
+0;296;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;wild;1.0;0.011904761904761904;27.0;0;0
+0;296;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;examples;1.0;0.011904761904761904;27.0;0;0
+0;296;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;type introspection;2.0;0.05952380952380952;27.0;0;0
+0;302;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;object;1.0;0.05952380952380952;1.6875;0;0
+0;302;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;reflection;1.0;0.047619047619047616;0.40298507462686567;0;0
+0;302;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;type introspection;2.0;0.05952380952380952;27.0;0;0
+0;302;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;inspect;1.0;0.011904761904761904;6.75;0;0
+0;302;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;attributes;1.0;0.011904761904761904;13.5;0;0
+0;302;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;runtime;1.0;0.0;27.0;0;0
+0;302;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;manipulate;1.0;0.011904761904761904;27.0;0;0
+0;303;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;runtime;1.0;0.0;27.0;0;0
+0;303;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;ability;1.0;0.023809523809523808;5.4;0;0
+0;303;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;modify;1.0;0.023809523809523808;6.75;0;0
+0;303;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;examine;1.0;0.023809523809523808;6.75;0;0
+0;303;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;program;1.5;0.023809523809523808;3.375;0;0
+0;303;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;behavior;1.0;0.011904761904761904;13.5;0;0
+0;303;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;computer program;1.75;0.011904761904761904;27.0;0;0
+0;303;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;concrete definition;2.0;0.011904761904761904;27.0;0;0
+0;303;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;structure;1.0;0.011904761904761904;13.5;0;0
+0;303;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;reflection;1.0;0.047619047619047616;0.40298507462686567;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;knowing;1.0;0.0;27.0;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;instantiate;1.0;0.0;27.0;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;terms;1.0;0.011904761904761904;27.0;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;fields;1.0;0.011904761904761904;5.4;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;invoke;1.0;0.011904761904761904;6.75;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;modify;1.0;0.023809523809523808;6.75;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;interfaces;1.0;0.011904761904761904;3.375;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;object;1.0;0.05952380952380952;1.6875;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;layman;1.0;0.0;27.0;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;names;1.0;0.011904761904761904;6.75;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;attribute;1.0;0.011904761904761904;27.0;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;compile time;2.0;0.023809523809523808;4.5;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;method;1.0;0.011904761904761904;3.0;0;0
+0;304;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;methods;1.0;0.011904761904761904;2.076923076923077;0;0
+0;305;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;statically_typed language;2.416666666665;0.011904761904761904;27.0;0;0
+0;305;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;reflection;1.5;0.047619047619047616;0.40298507462686567;0;0
+0;305;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;statically_typed language compared;2.61111111111;0.011904761904761904;27.0;0;0
+0;305;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;dynamically_typed language;2.166666666665;0.011904761904761904;27.0;0;0
+0;305;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;implement reflection;1.75;0.011904761904761904;27.0;0;0
+0;305;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;runtime_specific nature;2.0;0.011904761904761904;27.0;0;0
+0;305;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;type checking occurs;3.0;0.011904761904761904;27.0;0;0
+0;305;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;compile time;2.0;0.023809523809523808;4.5;0;0
+0;305;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;runtime;1.0;0.0;27.0;0;0
+0;305;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;difficult;1.0;0.011904761904761904;27.0;0;0
+0;306;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;means impossible;2.0;0.011904761904761904;27.0;0;0
+0;306;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;modern statically_typed languages;3.0;0.011904761904761904;27.0;0;0
+0;306;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;java;1.0;0.0;27.0;0;0
+0;306;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;reflection;1.0;0.047619047619047616;0.40298507462686567;0;0
+0;306;https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/;type introspection;2.0;0.05952380952380952;27.0;0;0

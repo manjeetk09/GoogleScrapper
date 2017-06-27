@@ -1,0 +1,106 @@
+Some additional examples of architectural patterns.
+No extractions found.
+
+ Blackboard system.
+No extractions found.
+
+ Broker pattern.
+No extractions found.
+
+ Event_driven architecture.
+No extractions found.
+
+ Implicit invocation.
+No extractions found.
+
+ Layers.
+No extractions found.
+
+ Microservices.
+No extractions found.
+
+ Model_view_controller, Presentation_abstraction_control, Model_view_presenter, and Model_view_viewmodel.
+No extractions found.
+
+ Multitier architecture .
+No extractions found.
+
+ Naked objects.
+No extractions found.
+
+ Operational Data Store .
+No extractions found.
+
+ Peer_to_peer.
+No extractions found.
+
+ Pipe and filter architecture.
+No extractions found.
+
+ Service_oriented architecture.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+In TOGAF, patterns are considered to be a way of putting building blocks into context  for example, to describe a re_usable solution to a problem.
+0.793: (patterns; are considered; a way putting building blocks into context for example)
+0.725: (patterns; are considered in; TOGAF)
+0.708: (a re_usable solution; to describe to be; a problem)
+0.707: (building blocks; be putting into; context)
+0.638: (patterns; to describe; a re_usable solution)
+
+ Building blocks are what you use.
+No extractions found.
+
+ patterns can tell you how you use them, when, why, and what trade_offs you have to make in doing so.
+0.673: (patterns; can tell; you)
+0.658: (you; use; them)[enabler=when , why , and what trade_offs you have to make in doing so]
+
+This chapter describes and discusses high level patterns and principles commonly used for applications today.
+0.853: (This chapter; discusses; high level patterns and principles commonly used for applications today)
+0.778: (high level patterns and principles; be commonly used in; today)
+0.752: (high level patterns and principles; be commonly used for; applications)
+
+ These are often referred to as the architectural styles, and include patterns such as client server, layered architecture, component_based architecture, message bus architecture, and service_oriented architecture .
+No extractions found.
+
+ For each style, you will find an overview, key principles, major benefits, and information that will help you choose the appropriate architectural styles for your application.
+0.853: (you; will find; an overview , key principles , major benefits , and information that will help you choose the appropriate architectural styles for your application)
+0.846: (you; choose; the appropriate architectural styles)
+0.581: (you; will find key principles for; each style)
+0.581: (you; will find major benefits for; each style)
+0.57: (an overview , key principles , major benefits , and information that will help you choose the appropriate architectural styles for your application; will be find for; each style)
+0.411: (you; will find information for; each style)
+0.406: (you; will find an overview , key principles , major benefits , and information that will help you choose the appropriate architectural styles for your application for; each style)
+0.29: (appropriate; be architectural styles for; your application)
+0.29: (architectural; be styles for; your application)
+
+ It is important to understand that the styles describe different aspects of applications.
+0.729: (the styles; describe; different aspects of applications)
+0.646: (It; is; important)
+
+ For example, some architectural styles describe deployment patterns, some describe structure and design issues, and others describe communication factors.
+0.756: (others; describe; communication factors)
+0.711: (some architectural styles; describe; deployment patterns)
+0.546: (others; describe; structure and design issues)[enabler=example , some architectural styles describe deployment patterns]
+0.269: (some architectural styles; describe deployment patterns for; example)
+
+ Therefore, a typical application will usually use a combination of more than one of the styles described in this chapter.
+0.833: (a typical application; Therefore will usually use a combination of; than one of the styles)
+0.818: (a combination; Therefore will be usually use of; than one of the styles)
+0.756: (a typical application; Therefore will usually use; a combination)
+0.705: (the styles; be described in; this chapter)
+

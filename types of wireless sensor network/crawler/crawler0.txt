@@ -1,0 +1,34 @@
+0;A Wireless Sensor Network is one kind of wireless network includes a large number of circulating, self_directed, minute, low powered devices named sensor nodes called motes.
+0; These networks certainly cover a huge number of spatially distributed, little, battery_operated, embedded devices that are networked to caringly collect, process, and transfer data to the operators, and it has controlled the capabilities of computing   processing.
+0; Nodes are the tiny computers, which work jointly to form the networks.
+0;The main characteristics of a WSN include.
+0; Power consumption constraints for nodes using batteries or energy harvesting.
+0; Ability to cope with node failures .
+0; Some mobility of nodes .
+0; Heterogeneity of nodes.
+0; Scalability to large scale of deployment.
+0; Ability to withstand harsh environmental conditions.
+0; Ease of use.
+0; Cross_layer design 14  15 .
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;WSN nodes are typically organized in one of three types of network topologies.
+0; In a star topology, each node connects directly to a gateway.
+0; In a cluster tree network, each node connects to a node higher in the tree and then to the gateway, and data is routed from the lowest node on the tree to the gateway.
+0; Finally, to offer increased reliability, mesh networks feature nodes that can connect to multiple nodes in the system and pass data through the most reliable path available.
+0; This mesh link is often referred to as a router .
+0;There are different types of sensor networks such as underground, underwater, terrestrial and multimedia WSNs etc.
+0; We will discuss them briefly.
+0;                                               .
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.

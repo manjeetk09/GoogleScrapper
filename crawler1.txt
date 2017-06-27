@@ -1,27 +1,59 @@
-0;In computer science, message passing sends a message to a process and relies on the process and the supporting infrastructure to select and invoke the actual code to run.
-0; Message passing differs from conventional programming where a process, subroutine, or function is directly invoked by name.
-0; Message passing is key to some models of concurrency and object_oriented programming.
+0;Symmetric multiprocessing involves a multiprocessor computer hardware and software architecture where two or more identical processors are connected to a single, shared main memory, have full access to all I O devices, and are controlled by a single operating system instance that treats all processors equally, reserving none for special purposes.
+0; Most multiprocessor systems today use an SMP architecture.
+0; In the case of multi_core processors, the SMP architecture applies to the cores, treating them as separate processors.
+0;v.
+0;t.
+0;e.
 0;.
 0;.
-0;Message Passing In Java When a thread sends a message to another thread.
-0; Used for thread communication and synchronization in environments where the threads do not have shared memory Hence the threads cannot share semaphores or monitors and cannot use shared variables to communicate.
-0; Message passing can still be used, of course, in a shared memory platform.
-0; Messages are sent through a channel with an operation like sendand received from a channel with an operation like receive.
-0; Messages can be passed synchronously, meaning the sender blocks until the received does a receive and the receiver blocks until the sender does a send.
-0; Since the sender and receiver are at specific known points in their code at a known specific instant of time, synchronous message passing is also called a simple rendezvous with a one_way flow of information from the sender to the receiver.
-0; An example is a chess game agent.
-0; The agents can process messages synchronously, since they ll be handshaking throughout the entire game.
-0; In asynchronous message passing, the sender does not block.
-0; If there is not a receiver waiting to receive the message, the message is queued or buffered.
-0; The receiver still blocks if there is no queued or buffered message when a receive is executed.
-0;When a thread sends a message to another thread.
-0;Message passing is a type of communication between processes or objects in computer science.
-0; In this model, processes or objects can send and receive messages to other processes or objects.
-0;Message passing can be synchronous or asynchronous.
-0; Synchronous message passing systems require the sender and receiver to wait for each other while transferring the message.
-0; In asynchronous communication the sender and receiver do not wait for each other and can carry on their own computations while transfer of messages is being done.
-0;My questions are.
-0; What is message passing  .
-0; Is there any support for this  message passing  in C  , C  or Java .
-0;Is there any support for this  message passing  in C  , C  or Java .
-0;An example in Groovy that demonstrates the power of this concept.
+0;SMP is the processing of programs by multiple processors that share a common operating system and memory.
+0; In symmetric multiprocessing, the processors share memory and the I O bus or data path.
+0; A single copy of the operating system is in charge of all the processors.
+0; SMP, also known as a  shared everything  system, does not usually exceed 16 processors.
+0;.
+0;.
+0;.
+0;.
+0;One of the easiest and cheapest ways to improve hardware performance is to put more than one CPU on the board.
+0; This can be done either making the different CPU s take on different jobs or by making them all run in parallel, doing the same job  symmetrical multi_processing, a.
+0;k.
+0;a.
+0; SMP .
+0; Doing asymmetrical multi_processing effectively requires specialized knowledge about the tasks the computer should do, which is unavailable in a general purpose operating system such as Linux.
+0; On the other hand, symmetrical multi_processing is relatively easy to implement.
+0;In version 2.
+0;0.
+0;x, this isn t a problem because the entire kernel is in one big spinlock.
+0; This means that if one CPU is in the kernel and another CPU wants to get in, for example because of a system call, it has to wait until the first CPU is done.
+0; This makes Linux SMP safe, but inefficient.
+0;By.
+0; Colin Walls, Posted on.
+0; June 17, 2015.
+0;     .
+0;.
+0;.
+0;.
+0;     .
+0;.
+0;.
+0;.
+0;Short for Symmetric Multiprocessing, a computer architecture that provides fast performance by making multiple CPUs available to complete individual processes simultaneously .
+0; Unlike asymmetrical processing, any idle processor can be assigned any task, and additional CPUs can be added to improve performance and handle increased loads.
+0; A variety of specialized operating systems and hardware arrangements are available to support SMP.
+0; Specific applications can benefit from SMP if the code allows multithreading.
+0;Unlock the power of Linux on SMP systems.
+0;An SMP architecture is simply one where two or more identical processors connect to one another through a shared memory.
+0; Each processor has equal access to the shared memory .
+0; Contrast this with the Non_Uniform Memory Access architecture.
+0; For example, each processor has its own memory but also access to shared memory with a different access latency.
+0;Asymmetric multiprocessing    In asymmetric multiprocessing the program tasks are strictly divided by type between processors and typically, each processor has its own memory address space.
+0;  These features make asymmetric multiprocessing difficult to implement.
+0; The two figures below are two examples of asymmetric multiprocessor configurations.
+0; .
+0; Symmetric multiprocessing Symmetric multiprocessing is the most common configuration of multiple processors.
+0; A typical SMP configuration has the following items.
+0;        It has multiple processors and exactly one of everything else.
+0; memory, I O subsystem, operating system, etc.
+0;        The processors are symmetric, that is, they can do anything the others can.
+0;  Each can look at or alter any element of memory, and each can do any kind of I O.
+0; .

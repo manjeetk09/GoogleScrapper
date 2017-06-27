@@ -1,0 +1,41 @@
+1;http://www.openloop.com/softwareEngineering/patterns/architecturePattern/arch_Broker.htm;remote service invocations;3.0;0.2;1.5;0
+1;http://www.openloop.com/softwareEngineering/patterns/architecturePattern/arch_Broker.htm;broker architectural pattern;3.0;0.2;1.5;0
+1;http://www.openloop.com/softwareEngineering/patterns/architecturePattern/arch_Broker.htm;interact;1.0;0.2;1.5;0
+1;http://www.openloop.com/softwareEngineering/patterns/architecturePattern/arch_Broker.htm;decoupled components;2.0;0.2;1.5;0
+2;http://www.openloop.com/softwareEngineering/patterns/architecturePattern/arch_Broker.htm;broker;1.0;0.2;3.0;0
+3;https://en.wikipedia.org/wiki/Broker_pattern;remote service invocations;3.0;0.1;1.5;0
+3;https://en.wikipedia.org/wiki/Broker_pattern;broker architectural pattern;3.0;0.1;1.5;0
+3;https://en.wikipedia.org/wiki/Broker_pattern;interact;1.0;0.1;1.5;0
+3;https://en.wikipedia.org/wiki/Broker_pattern;decoupled components;2.0;0.1;1.5;0
+4;https://en.wikipedia.org/wiki/Broker_pattern;coordinating communication;2.0;0.1;3.0;0
+4;https://en.wikipedia.org/wiki/Broker_pattern;broker component;2.0;0.1;3.0;0
+4;https://en.wikipedia.org/wiki/Broker_pattern;responsible;1.0;0.0;3.0;0
+4;https://en.wikipedia.org/wiki/Broker_pattern;forwarding requests;2.0;0.1;3.0;0
+4;https://en.wikipedia.org/wiki/Broker_pattern;exceptions;1.0;0.1;3.0;0
+4;https://en.wikipedia.org/wiki/Broker_pattern;transmitting results;2.0;0.1;3.0;0
+10;https://msdn.microsoft.com/en-us/library/ff648096.aspx;development;1.0;0.0;3.0;0
+10;https://msdn.microsoft.com/en-us/library/ff648096.aspx;distribution;1.0;0.0;3.0;0
+10;https://msdn.microsoft.com/en-us/library/ff648096.aspx;system;1.0;0.038461538461538464;3.0;0
+10;https://msdn.microsoft.com/en-us/library/ff648096.aspx;complete;1.0;0.038461538461538464;3.0;0
+10;https://msdn.microsoft.com/en-us/library/ff648096.aspx;occurs;1.0;0.038461538461538464;3.0;0
+11;https://msdn.microsoft.com/en-us/library/ff648096.aspx;multiple servers;2.0;0.038461538461538464;3.0;0
+11;https://msdn.microsoft.com/en-us/library/ff648096.aspx;increase processing power;3.0;0.038461538461538464;3.0;0
+11;https://msdn.microsoft.com/en-us/library/ff648096.aspx;distributed;1.0;0.0;3.0;0
+11;https://msdn.microsoft.com/en-us/library/ff648096.aspx;software;1.0;0.038461538461538464;3.0;0
+12;https://msdn.microsoft.com/en-us/library/ff648096.aspx;late;1.0;0.0;3.0;0
+12;https://msdn.microsoft.com/en-us/library/ff648096.aspx;life cycle;2.0;0.038461538461538464;3.0;0
+12;https://msdn.microsoft.com/en-us/library/ff648096.aspx;application code;2.0;0.038461538461538464;3.0;0
+12;https://msdn.microsoft.com/en-us/library/ff648096.aspx;change;1.0;0.038461538461538464;3.0;0
+12;https://msdn.microsoft.com/en-us/library/ff648096.aspx;stage;1.0;0.038461538461538464;3.0;0
+13;https://msdn.microsoft.com/en-us/library/ff648096.aspx;layer;1.0;0.0;3.0;0
+13;https://msdn.microsoft.com/en-us/library/ff648096.aspx;hide;1.0;0.038461538461538464;3.0;0
+13;https://msdn.microsoft.com/en-us/library/ff648096.aspx;broker pattern;2.0;0.038461538461538464;3.0;0
+13;https://msdn.microsoft.com/en-us/library/ff648096.aspx;remote service invocation;3.0;0.038461538461538464;3.0;0
+13;https://msdn.microsoft.com/en-us/library/ff648096.aspx;implementation details;2.0;0.038461538461538464;3.0;0
+13;https://msdn.microsoft.com/en-us/library/ff648096.aspx;encapsulating;1.0;0.0;3.0;0
+13;https://msdn.microsoft.com/en-us/library/ff648096.aspx;business component;2.0;0.038461538461538464;3.0;0
+14;https://msdn.microsoft.com/en-us/library/ff648096.aspx;martin;1.0;0.038461538461538464;3.0;0
+14;https://msdn.microsoft.com/en-us/library/ff648096.aspx;fowler;1.0;0.0;3.0;0
+15;https://msdn.microsoft.com/en-us/library/ff648096.aspx;patterns;1.0;0.038461538461538464;3.0;0
+15;https://msdn.microsoft.com/en-us/library/ff648096.aspx;enterprise application architecture;3.0;0.038461538461538464;3.0;0
+16;https://msdn.microsoft.com/en-us/library/ff648096.aspx;addison_wesley;1.0;0.038461538461538464;3.0;0

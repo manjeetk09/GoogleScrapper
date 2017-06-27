@@ -107,7 +107,7 @@ public class MergeMappedUnmappedWiki {
         Collections.sort(all_new,lineSortScore);
 
         for(LineScore lineScore : all_new){
-            if(lineScore.entity.toLowerCase().matches(head.toLowerCase())){
+            if(lineScore.entity.toLowerCase().matches(head.toLowerCase().replaceAll("_"," "))){
                 continue;
             }
             bw.write(lineScore.line);

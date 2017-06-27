@@ -1,0 +1,63 @@
+1;https://en.wikipedia.org/wiki/Architectural_pattern;architectural patterns;2.0;0.05263157894736842;3.0;0
+1;https://en.wikipedia.org/wiki/Architectural_pattern;additional examples;2.0;0.05263157894736842;3.0;0
+2;https://en.wikipedia.org/wiki/Architectural_pattern;blackboard system;2.0;0.05263157894736842;3.0;0
+3;https://en.wikipedia.org/wiki/Architectural_pattern;broker pattern;2.0;0.05263157894736842;3.0;0
+4;https://en.wikipedia.org/wiki/Architectural_pattern;event_driven architecture;2.0;0.05263157894736842;3.0;0
+5;https://en.wikipedia.org/wiki/Architectural_pattern;implicit invocation;2.0;0.05263157894736842;3.0;0
+6;https://en.wikipedia.org/wiki/Architectural_pattern;layers;1.0;0.0;3.0;0
+7;https://en.wikipedia.org/wiki/Architectural_pattern;microservices;1.0;0.0;3.0;0
+8;https://en.wikipedia.org/wiki/Architectural_pattern;model_view_presenter;1.0;0.05263157894736842;3.0;0
+8;https://en.wikipedia.org/wiki/Architectural_pattern;model_view_controller;1.0;0.05263157894736842;3.0;0
+8;https://en.wikipedia.org/wiki/Architectural_pattern;model_view_viewmodel;1.0;0.05263157894736842;3.0;0
+8;https://en.wikipedia.org/wiki/Architectural_pattern;presentation_abstraction_control;1.0;0.05263157894736842;3.0;0
+9;https://en.wikipedia.org/wiki/Architectural_pattern;multitier architecture;2.0;0.05263157894736842;3.0;0
+10;https://en.wikipedia.org/wiki/Architectural_pattern;naked objects;2.0;0.05263157894736842;3.0;0
+11;https://en.wikipedia.org/wiki/Architectural_pattern;operational data store;3.0;0.05263157894736842;3.0;0
+12;https://en.wikipedia.org/wiki/Architectural_pattern;peer_to_peer;1.0;0.05263157894736842;3.0;0
+13;https://en.wikipedia.org/wiki/Architectural_pattern;pipe;1.0;0.05263157894736842;3.0;0
+13;https://en.wikipedia.org/wiki/Architectural_pattern;filter architecture;2.0;0.05263157894736842;3.0;0
+14;https://en.wikipedia.org/wiki/Architectural_pattern;service_oriented architecture;2.0;0.05263157894736842;1.5;0
+20;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;re_usable solution;2.0;0.08333333333333333;3.0;0
+20;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;considered;1.0;0.08333333333333333;3.0;0
+20;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;describe;1.0;0.08333333333333333;3.0;0
+20;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;patterns;1.0;0.16666666666666666;3.0;0
+20;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;togaf;1.0;0.0;3.0;0
+20;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;context;1.0;0.08333333333333333;3.0;0
+20;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;problem;1.0;0.08333333333333333;3.0;0
+20;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;putting building blocks;3.0;0.08333333333333333;3.0;0
+21;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;building blocks;2.0;0.08333333333333333;3.0;0
+22;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;patterns;1.0;0.16666666666666666;3.0;0
+22;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;make;1.0;0.08333333333333333;3.0;0
+22;http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap28.html;trade_offs;1.0;0.08333333333333333;3.0;0
+23;https://msdn.microsoft.com/en-in/library/ee658117.aspx;chapter describes;2.0;0.03125;3.0;0
+23;https://msdn.microsoft.com/en-in/library/ee658117.aspx;applications today;2.0;0.03125;3.0;0
+23;https://msdn.microsoft.com/en-in/library/ee658117.aspx;principles commonly;2.0;0.03125;3.0;0
+24;https://msdn.microsoft.com/en-in/library/ee658117.aspx;message bus architecture;2.75;0.03125;3.0;0
+24;https://msdn.microsoft.com/en-in/library/ee658117.aspx;service_oriented architecture;2.125;0.03125;1.5;0
+24;https://msdn.microsoft.com/en-in/library/ee658117.aspx;architectural styles;2.0;0.0625;3.0;0
+24;https://msdn.microsoft.com/en-in/library/ee658117.aspx;client server;2.0;0.03125;3.0;0
+24;https://msdn.microsoft.com/en-in/library/ee658117.aspx;component_based architecture;2.125;0.03125;3.0;0
+24;https://msdn.microsoft.com/en-in/library/ee658117.aspx;layered architecture;2.125;0.03125;3.0;0
+24;https://msdn.microsoft.com/en-in/library/ee658117.aspx;include patterns;2.0;0.03125;3.0;0
+24;https://msdn.microsoft.com/en-in/library/ee658117.aspx;referred;1.0;0.03125;3.0;0
+25;https://msdn.microsoft.com/en-in/library/ee658117.aspx;information;1.0;0.0;3.0;0
+25;https://msdn.microsoft.com/en-in/library/ee658117.aspx;style;1.0;0.03125;3.0;0
+25;https://msdn.microsoft.com/en-in/library/ee658117.aspx;major benefits;2.0;0.03125;3.0;0
+25;https://msdn.microsoft.com/en-in/library/ee658117.aspx;overview;1.0;0.03125;3.0;0
+25;https://msdn.microsoft.com/en-in/library/ee658117.aspx;application;1.0;0.0;3.0;0
+25;https://msdn.microsoft.com/en-in/library/ee658117.aspx;key principles;2.0;0.03125;3.0;0
+25;https://msdn.microsoft.com/en-in/library/ee658117.aspx;architectural styles;2.0;0.0625;3.0;0
+25;https://msdn.microsoft.com/en-in/library/ee658117.aspx;choose;1.0;0.03125;3.0;0
+25;https://msdn.microsoft.com/en-in/library/ee658117.aspx;find;1.0;0.03125;3.0;0
+26;https://msdn.microsoft.com/en-in/library/ee658117.aspx;aspects;1.0;0.03125;3.0;0
+26;https://msdn.microsoft.com/en-in/library/ee658117.aspx;styles describe;2.0;0.03125;3.0;0
+26;https://msdn.microsoft.com/en-in/library/ee658117.aspx;important;1.0;0.03125;3.0;0
+26;https://msdn.microsoft.com/en-in/library/ee658117.aspx;understand;1.0;0.03125;3.0;0
+26;https://msdn.microsoft.com/en-in/library/ee658117.aspx;applications;1.0;0.0;3.0;0
+27;https://msdn.microsoft.com/en-in/library/ee658117.aspx;describe structure;2.25;0.03125;3.0;0
+27;https://msdn.microsoft.com/en-in/library/ee658117.aspx;describe communication factors;2.8333333333333335;0.03125;3.0;0
+27;https://msdn.microsoft.com/en-in/library/ee658117.aspx;design issues;2.0;0.03125;3.0;0
+28;https://msdn.microsoft.com/en-in/library/ee658117.aspx;styles;1.0;0.03125;3.0;0
+28;https://msdn.microsoft.com/en-in/library/ee658117.aspx;typical application;2.0;0.03125;3.0;0
+28;https://msdn.microsoft.com/en-in/library/ee658117.aspx;chapter;1.0;0.03125;3.0;0
+28;https://msdn.microsoft.com/en-in/library/ee658117.aspx;combination;1.0;0.0;3.0;0

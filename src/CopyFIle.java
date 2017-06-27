@@ -46,6 +46,7 @@ public class CopyFIle
     }
     public void copyFunc(String template, int temp_num) throws IOException
     {
+        template = template.replaceAll(" ","_");
 //        int temp_num = 0;
 //        String template = "";
 //        Scanner scanner = new Scanner(System.in);

@@ -1,0 +1,27 @@
+0;In computer science, message passing sends a message to a process and relies on the process and the supporting infrastructure to select and invoke the actual code to run.
+0; Message passing differs from conventional programming where a process, subroutine, or function is directly invoked by name.
+0; Message passing is key to some models of concurrency and object_oriented programming.
+0;.
+0;.
+0;Message Passing In Java When a thread sends a message to another thread.
+0; Used for thread communication and synchronization in environments where the threads do not have shared memory Hence the threads cannot share semaphores or monitors and cannot use shared variables to communicate.
+0; Message passing can still be used, of course, in a shared memory platform.
+0; Messages are sent through a channel with an operation like sendand received from a channel with an operation like receive.
+0; Messages can be passed synchronously, meaning the sender blocks until the received does a receive and the receiver blocks until the sender does a send.
+0; Since the sender and receiver are at specific known points in their code at a known specific instant of time, synchronous message passing is also called a simple rendezvous with a one_way flow of information from the sender to the receiver.
+0; An example is a chess game agent.
+0; The agents can process messages synchronously, since they ll be handshaking throughout the entire game.
+0; In asynchronous message passing, the sender does not block.
+0; If there is not a receiver waiting to receive the message, the message is queued or buffered.
+0; The receiver still blocks if there is no queued or buffered message when a receive is executed.
+0;When a thread sends a message to another thread.
+0;Message passing is a type of communication between processes or objects in computer science.
+0; In this model, processes or objects can send and receive messages to other processes or objects.
+0;Message passing can be synchronous or asynchronous.
+0; Synchronous message passing systems require the sender and receiver to wait for each other while transferring the message.
+0; In asynchronous communication the sender and receiver do not wait for each other and can carry on their own computations while transfer of messages is being done.
+0;My questions are.
+0; What is message passing  .
+0; Is there any support for this  message passing  in C  , C  or Java .
+0;Is there any support for this  message passing  in C  , C  or Java .
+0;An example in Groovy that demonstrates the power of this concept.

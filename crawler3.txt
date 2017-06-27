@@ -1,57 +1,77 @@
-0;Message Passing In Java When a thread sends a message to another thread.
-0; Used for thread communication and synchronization in environments where the threads do not have shared memory Hence the threads cannot share semaphores or monitors and cannot use shared variables to communicate.
-0; Message passing can still be used, of course, in a shared memory platform.
-0; Messages are sent through a channel with an operation like sendand received from a channel with an operation like receive.
-0; Messages can be passed synchronously, meaning the sender blocks until the received does a receive and the receiver blocks until the sender does a send.
-0; Since the sender and receiver are at specific known points in their code at a known specific instant of time, synchronous message passing is also called a simple rendezvous with a one_way flow of information from the sender to the receiver.
-0; An example is a chess game agent.
-0; The agents can process messages synchronously, since they ll be handshaking throughout the entire game.
-0; In asynchronous message passing, the sender does not block.
-0; If there is not a receiver waiting to receive the message, the message is queued or buffered.
-0; The receiver still blocks if there is no queued or buffered message when a receive is executed.
-0;When a thread sends a message to another thread.
-0;What is message passing in Java  If you could, please provide an example.
-0;In computer science, message passing sends a message to a process and relies on the process and the supporting infrastructure to select and invoke the actual code to run.
-0; Message passing differs from conventional programming where a process, subroutine, or function is directly invoked by name.
-0; Message passing is key to some models of concurrency and object_oriented programming.
+0;Posted June 7th, 2010, by Colin Walls.
+0;AMP stands for Asymmetric Multi_Processing  SMP means Symmetric Multi_Processing.
+0; These terms are not at all transparent.
+0; In seeking a means to clarify, I thought I would check Wikipedia and looked up  AMP .
+0; From the disambiguation page, I found the relevant article.
+0; Well, I say  relevant , but it really does not cover the topic as we see it today.
+0; It talks about historical uses of multiple CPUs and dismisses it to history.
+0; So, I will try to advance definitions.
+0;By.
+0; Colin Walls, Posted on.
+0; June 17, 2015.
+0;     .
 0;.
 0;.
-0;The advantage to synchronous message passing is that it is conceptually less complex.
-0; Synchronous message passing is analogous to a function call in which the message sender is the function caller and the message receiver is the called function.
-0; Function calling is easy and familiar.
-0; Just as the function caller stops until the called function completes, the sending process stops until the receiving process completes.
-0; This alone makes synchronous message unworkable for some applications.
-0; For example, if synchronous message passing would be used exclusively, large, distributed systems generally would not perform well enough to be usable.
-0; Such large, distributed systems may need to continue to operate while some of their subsystems are down  subsystems may need to go offline for some kind of maintenance, or have times when subsystems are not open to receiving input from other systems.
-0;v.
-0;t.
-0;e.
+0;.
+0;     .
 0;.
 0;.
-0;Examples of systems that support distributed objects are.
-0; ONC RPC, CORBA, Java RMI, DCOM, SOAP, .
-0;NET Remoting, CTOS, QNX Neutrino RTOS, OpenBinder, and D_Bus.
-0; Distributed object systems have been called  shared nothing  systems because the message passing abstraction hides underlying state changes that may be used in the implementation of sending messages.
-0;v.
-0;t.
-0;e.
+0;.
+0;September 22, 2016 Leave a Comment.
+0;Asymmetric multiprocessing was the only method for handling multiple CPUs before symmetric multiprocessing was available.
+0; It has also been used to provide less expensive options on systems where SMP was available.
+0; Additionally, AMP is used in applications that are dedicated, such as embedded systems, when individual processors can be dedicated to specific tasks at design time.
+0; In an asymmetric multiprocessing system, not all CPUs are treated equally  for example, a system might only allow one CPU to execute operating system code or might only allow one CPU to perform I O operations.
+0; Other AMP systems would allow any CPU to execute operating system code and perform I O operations, so that they were symmetric with regard to processor roles, but attached some or all peripherals to particular CPUs, so that they were asymmetric with regard to peripheral attachment.
 0;.
 0;.
-0;My questions are.
-0; What is message passing  .
-0; Is there any support for this  message passing  in C  , C  or Java .
-0;Is there any support for this  message passing  in C  , C  or Java .
-0;An example in Groovy that demonstrates the power of this concept.
-0; When a thread sends a message to another thread.
-0; Used for thread communication and synchronization in environments where the threads do not have shared memory Hence the threads cannot share semaphores or monitors and cannot use shared variables to communicate.
-0; Message passing can still be used, of course, in a shared memory platform.
-0; Messages are sent through a channel with an operation like sendand received from a channel with an operation like receive.
-0; Messages can be passed synchronously, meaning the sender blocks until the received does a receive and the receiver blocks until the sender does a send.
-0; Since the sender and receiver are at specific known points in their code at a known specific instant of time, synchronous message passing is also called a simple rendezvous with a one_way flow of information from the sender to the receiver.
-0; An example is a chess game agent.
-0; The agents can process messages synchronously, since they ll be handshaking throughout the entire game.
-0; In asynchronous message passing, the sender does not block.
-0; If there is not a receiver waiting to receive the message, the message is queued or buffered.
-0; The receiver still blocks if there is no queued or buffered message when a receive is executed.
-0;B.
-0; Message Passing through Constructors.
+0;Asymmetric multiprocessing was the only method for handling multiple CPUs before symmetric multiprocessing was available.
+0; It has also been used to provide less expensive options on systems where SMP was available.
+0; Additionally, AMP is used in applications that are dedicated, such as embedded systems, when individual processors can be dedicated to specific tasks at design time.
+0; In an asymmetric multiprocessing system, not all CPUs are treated equally  for example, a system might only allow one CPU to execute operating system code or might only allow one CPU to perform I O operations.
+0; Other AMP systems would allow any CPU to execute operating system code and perform I O operations, so that they were symmetric with regard to processor roles, but attached some or all peripherals to particular CPUs, so that they were asymmetric with regard to peripheral attachment.
+0;symmetric.
+0;asymmetric.
+0;.
+0;.
+0;Asymmetric multiprocessing    In asymmetric multiprocessing the program tasks are strictly divided by type between processors and typically, each processor has its own memory address space.
+0;  These features make asymmetric multiprocessing difficult to implement.
+0; The two figures below are two examples of asymmetric multiprocessor configurations.
+0; .
+0; Symmetric multiprocessing Symmetric multiprocessing is the most common configuration of multiple processors.
+0; A typical SMP configuration has the following items.
+0;        It has multiple processors and exactly one of everything else.
+0; memory, I O subsystem, operating system, etc.
+0;        The processors are symmetric, that is, they can do anything the others can.
+0;  Each can look at or alter any element of memory, and each can do any kind of I O.
+0; .
+0;1.
+0;        What is the difference between symmetric and asymmetric multiprocessing .
+0;   .
+0;       .
+0;       .
+0;         .
+0;         .
+0;     .
+0;          .
+0;                 .
+0;                 .
+0;          .
+0;Another difference is that.
+0; in a tightly_coupled system, the delay experienced when a message is sent from one computer to another is short, and data rate is high  that is, the number of bits per second that can be transferred is large.
+0; In a loosely_coupled system, the opposite is true.
+0; the intermachine message delay is large and the data rate is low.
+0; For example, two CPU chips on the same printed circuit board and connected by wires etched onto the board are likely to be tightly coupled, whereas two computers connected by a 2400 bit sec modem over the telephone system are certain to be loosely coupled.
+0;   .
+0;       .
+0;       .
+0;         .
+0;         .
+0;     .
+0;          .
+0;                 .
+0;                 .
+0;          .
+0;Toby Foster   Dec 12, 2007.
+0;Or, different OSs may reside on the two cores.
+0; For example, if two previously separate processors are being collapsed onto one dual_core device, different OSs may reside on the two cores.

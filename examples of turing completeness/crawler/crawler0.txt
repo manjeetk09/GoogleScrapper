@@ -1,0 +1,52 @@
+0;.
+0;.
+0;Here s the briefest explanation.
+0;For example.
+0; Let s say there is a program that takes 10 numbers and adds them.
+0; Turing machine can easily run this program.
+0; But now imagine for some reason your programming language can t do the same addition then it s Turing machine incomplete.
+0; On the other hand, if it can run any program like the universal turing machine can run, then it s Turing complete.
+0;An example of a Turing complete system is lambda calculus that was developed by Alonzo Church, Alan Turing s professor.
+0; Other examples of Turing complete systems include.
+0; Many procedural programming languages, including C and Pascal.
+0; Most object_oriented programming languages, such as Java and C  .
+0; Logic programming languages, such as Prolog.
+0; Many finite automata systems, such as Conway s Game of Life.
+0;How are programming languages made .
+0;Is Java harder or C .
+0;Why is it considered a bad idea to learn C   as a first language, but learning C isn t .
+0;What are the most popular, Non_Turing Complete computer languages .
+0;What is the best programming language to learn for web programming in the coming period .
+0;Is Java a pure object_oriented programming language .
+0;What is meant by  NET in programming languages .
+0;How come Python can do so many things compared to other programming languages .
+0;Is PHP a badly designed programming language .
+0;I want to learn Java by myself, but I just can t understand the meaning of the codes   I know some C  What should I do .
+0;Why would a scripting language be made  purposefully non Turing_complete  .
+0;Which is the best programming language .
+0;Which is the most complete programming language .
+0;What is meant by the body of a loop in GW Basic Programming language .
+0;What programming languages do what .
+0;How big a deal is it for a programming language to be Turing Complete .
+0;Are there any nearly Turing Complete languages .
+0;Is assembly language turing complete .
+0;In what language was C written .
+0;How do you formally prove Turing completeness of programming language .
+0;How are programming languages made .
+0;Is Java harder or C .
+0;Why is it considered a bad idea to learn C   as a first language, but learning C isn t .
+0;What are the most popular, Non_Turing Complete computer languages .
+0;What is the best programming language to learn for web programming in the coming period .
+0;This page was last modified on 9 May 2011, at 16 24 .
+0;Content is available under CC0 public domain dedication .
+0;.
+0;.
+0;A programming language is said to be Turing_complete if it is in the same computational class as a Turing machine  that is to say, that it can perform any calculation that a universal Turing machine can.
+0; This is considered significant because, under the Church_Turing thesis, a Turing machine is the embodiment of the intuitive notion of an algorithm.
+0;.
+0;.
+0;This is not the case when talking about a restricted set of computations.
+0; A finite_state automaton, for example, can be constructed which computes the Ackermann function ffor 1   m   1000 and 1   n   1000.
+0; In fact, such an evaluation could be stored in a million_cell lookup table.
+0;.
+0;.

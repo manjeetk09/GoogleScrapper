@@ -1,0 +1,131 @@
+1;A sensor node, also known as a mote , is a node in a sensor network that is capable of performing some processing, gathering sensory information and communicating with other connected nodes in the network.
+1; A mote is a node but a node is not always a mote.
+1;.
+1;.
+0;Terrestrial WSNs are capable of communicating base stations efficiently, and consist of hundreds to thousands of wireless sensor nodes deployed either in unstructured or structured manner.
+0; In an unstructured mode, the sensor nodes are randomly distributed within the target area that is dropped from a fixed plane.
+0; The preplanned or structured mode considers optimal placement, grid placement, and 2D, 3D placement models.
+0;Currently, WSN is the most standard services employed in commercial and industrial applications, because of its technical development in a processor, communication, and low_power usage of embedded computing devices.
+0; The WSN is built with nodes that are used to observe the surroundings like temperature, humidity, pressure, position, vibration, sound etc.
+0; These nodes can be used in various real_time applications to perform various tasks like smart detecting, a discovery of neighbor node, data processing and storage, data collection, target tracking, monitor and controlling, synchronization, node localization, and effective routing between the base station and nodes.
+0;The most common WSN architecture follows the OSI architecture Model.
+0; The architecture of the WSN includes five layers and three cross layers.
+0; Mostly in sensor n w we require five layers, namely application, transport, n w, data link   physical layer.
+0; The three cross planes are namely power management, mobility management, and task management.
+0; These layers of the WSN are used to accomplish the n w and make the sensors work together in order to raise the complete efficiency of the network.
+0;Please follow the below link for.
+0; Types of wireless sensor networks and WSN topologies.
+0;Wireless sensor networks , sometimes called wireless sensor and actuator networks , are spatially distributed autonomous sensors to monitor physical or environmental conditions, such as temperature, sound, pressure, etc.
+0; and to cooperatively pass their data through the network to a main location.
+0; The more modern networks are bi_directional, also enabling control of sensor activity.
+0; The development of wireless sensor networks was motivated by military applications such as battlefield surveillance  today such networks are used in many industrial and consumer applications, such as industrial process monitoring and control, machine health monitoring, and so on.
+0;.
+0;.
+0;The WSN is built of  nodes    from a few to several hundreds or even thousands, where each node is connected to one sensors.
+0; Each such sensor network node has typically several parts.
+0; a radio transceiver with an internal antenna or connection to an external antenna, a microcontroller, an electronic circuit for interfacing with the sensors and an energy source, usually a battery or an embedded form of energy harvesting.
+0; A sensor node might vary in size from that of a shoebox down to the size of a grain of dust, although functioning  motes  of genuine microscopic dimensions have yet to be created.
+0; The cost of sensor nodes is similarly variable, ranging from a few to hundreds of dollars, depending on the complexity of the individual sensor nodes.
+0; Size and cost constraints on sensor nodes result in corresponding constraints on resources such as energy, memory, computational speed and communications bandwidth.
+0; The topology of the WSNs can vary from a simple star network to an advanced multi_hop wireless mesh network.
+0; The propagation technique between the hops of the network can be routing or flooding.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;The sensor networks for medical applications can be of several types.
+0; implanted, wearable, and environment_embedded.
+0; The implantable medical devices are those that are inserted inside human body.
+0; Wearable devices are used on the body surface of a human or just at close proximity of the user.
+0; Environment_embedded systems employ sensors contained in the environment.
+0; Possible applications include body position measurement, location of persons, overall monitoring of ill patients in hospitals and at homes.
+0; Devices embedded in the environment track the physical state of a person for continuous health diagnosis, using as input the data from a network of depth cameras, a sensing floor, or other similar devices.
+0; Body_area networks can collect information about an individual s health, fitness, and energy expenditure.
+0; In health care applications the privacy and authenticity of user data has prime importance.
+0; Especially due to the integration of sensor networks, with IoT, the authentication of user become more challenging  however, a solution is presented in recent work.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;A sensor node, also known as a mote , is a node in a sensor network that is capable of performing some processing, gathering sensory information and communicating with other connected nodes in the network.
+0; A mote is a node but a node is not always a mote.
+0;.
+0;.
+0;A sensor node, also known as a mote , is a node in a sensor network that is capable of performing some processing, gathering sensory information and communicating with other connected nodes in the network.
+0; A mote is a node but a node is not always a mote.
+0;.
+0;.
+0;Although wireless sensor nodes have existed for decades and used for applications as diverse as earthquake measurements to warfare, the modern development of small sensor nodes dates back to the 1998 Smartdust project and the NASA Sensor Webs Project One of the objectives of the Smartdust project was to create autonomous sensing and communication within a cubic millimeter of space.
+0; Though this project ended early on, it led to many more research projects.
+0; They include major research centres in Berkeley NEST and CENS.
+0; The researchers involved in these projects coined the term mote to refer to a sensor node.
+0; The equivalent term in the NASA Sensor Webs Project for a physical sensor node is pod, although the sensor node in a Sensor Web can be another Sensor Web itself.
+0; Physical sensor nodes have been able to increase their capability in conjunction with Moore s Law.
+0; The chip footprint contains more complex and lower powered microcontrollers.
+0; Thus, for the same node footprint, more silicon capability can be packed into it.
+0; Nowadays, motes focus on providing the longest wireless range , the lowest energy consumption and the easiest development process for the user.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;From an energy perspective, the most relevant kinds of memory are the on_chip memory of a microcontroller and Flash memory off_chip RAM is rarely, if ever, used.
+0; Flash memories are used due to their cost and storage capacity.
+0; Memory requirements are very much application dependent.
+0; Two categories of memory based on the purpose of storage are.
+0; user memory used for storing application related or personal data, and program memory used for programming the device.
+0; Program memory also contains identification data of the device if present.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;There are a number of nodes in a sensor network, these nodes are the detection stations and they are very small and portable.
+0; There is a sensor transducer, microcontroller, transceiver and power source in every sensor node.
+0;  The transducer senses the physical condition and if there is any change then it generates electrical signals.
+0; These signals go to the microcomputer for processing.
+0; A central computer sends commands to the transceiver and data is then transmitted to that computer.
+0;                                               .
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Page Contents 1 WIRELESS SENSOR NETWORKS TOPOLOGIES 1.
+0;1 POINT TO POINT NETWROK TOPOLOGY 1.
+0;2 STAR NETWROK TOPOLOGY 1.
+0;3 TREE NETWORK TOPOLOGY.
+0; 2 TYPES OF WIRELESS SENSOR NETWORKS 2.
+0;1 TERRESTRIAL WSNs 2.
+0;2 UNDERGROUND WSNs 2.
+0;3 UNDERWATER WSNs 2.
+0;4 MULTIMEDIA WSNs 2.
+0;5 MOBILE WSNs.
+0; 3 APPLICATIONS OF WIRELESS SENSOR NETWORKS 3.
+0;1 DISASTER RELIEF OPERATION 3.
+0;2 MILITARY APPLICATIONS 3.
+0;3 ENVIRONMENTAL APPLICATIONS 3.
+0;4 MEDICAL APPLICATIONS 3.
+0;5 HOME APPLICATIONS.
+0;                                               .
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.

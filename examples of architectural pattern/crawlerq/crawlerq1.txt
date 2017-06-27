@@ -1,0 +1,33 @@
+v.
+t.
+e.
+.
+.
+Some additional examples of architectural patterns.
+ Blackboard system.
+ Broker pattern.
+ Event_driven architecture.
+ Implicit invocation.
+ Layers.
+ Microservices.
+ Model_view_controller, Presentation_abstraction_control, Model_view_presenter, and Model_view_viewmodel.
+ Multitier architecture .
+ Naked objects.
+ Operational Data Store .
+ Peer_to_peer.
+ Pipe and filter architecture.
+ Service_oriented architecture.
+v.
+t.
+e.
+.
+.
+In TOGAF, patterns are considered to be a way of putting building blocks into context  for example, to describe a re_usable solution to a problem.
+ Building blocks are what you use.
+ patterns can tell you how you use them, when, why, and what trade_offs you have to make in doing so.
+This chapter describes and discusses high level patterns and principles commonly used for applications today.
+ These are often referred to as the architectural styles, and include patterns such as client server, layered architecture, component_based architecture, message bus architecture, and service_oriented architecture .
+ For each style, you will find an overview, key principles, major benefits, and information that will help you choose the appropriate architectural styles for your application.
+ It is important to understand that the styles describe different aspects of applications.
+ For example, some architectural styles describe deployment patterns, some describe structure and design issues, and others describe communication factors.
+ Therefore, a typical application will usually use a combination of more than one of the styles described in this chapter.

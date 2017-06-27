@@ -166,8 +166,10 @@ public class wikiSegregate
                 BufferedReader reader = new BufferedReader(new InputStreamReader(proc.getInputStream()));
 
                 String line = "";
-
+                boolean flag = false;
                 while((line = reader.readLine()) != null) {
+                    flag = true;
+                    System.out.println("mapped::" + line);
                     if(line.length() > 4)
                     {
                         // System.out.println(line);
@@ -191,6 +193,11 @@ public class wikiSegregate
                         // System.out.println("null");
                         bw1.write(component[0]+";"+component[1]+";"+component[2]+";"+component[3]+";"+component[4]+";"+component[5]+";"+component[6]+";"+component[7]+";"+component[8]+";"+component[9]+";"+component[10]+"\n");
                     }
+                }
+                if(!flag)
+                {
+                    bw1.write(component[0]+";"+component[1]+";"+component[2]+";"+component[3]+";"+component[4]+";"+component[5]+";"+component[6]+";"+component[7]+";"+component[8]+";"+component[9]+";"+component[10]+"\n");
+
                 }
 
                 proc.waitFor();
@@ -218,8 +225,10 @@ public class wikiSegregate
                 BufferedReader reader = new BufferedReader(new InputStreamReader(proc.getInputStream()));
 
                 String line = "";
-
+                boolean flag = false;
                 while((line = reader.readLine()) != null) {
+                    flag = true;
+                    System.out.println(line);
                     if(line.length() > 4)
                     {
                         // System.out.println(line);
@@ -244,7 +253,10 @@ public class wikiSegregate
                         bw3.write(component[0]+";"+component[1]+";"+component[2]+";"+component[3]+";"+component[4]+";"+component[5]+";"+component[6]+";"+component[7]+";"+component[8]+";"+component[9]+";"+component[10]+"\n");
                     }
                 }
-
+                if(!flag)
+                {
+                    bw3.write(component[0]+";"+component[1]+";"+component[2]+";"+component[3]+";"+component[4]+";"+component[5]+";"+component[6]+";"+component[7]+";"+component[8]+";"+component[9]+";"+component[10]+"\n");
+                }
                 proc.waitFor();
 
             }

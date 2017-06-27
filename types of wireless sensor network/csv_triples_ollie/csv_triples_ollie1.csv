@@ -1,0 +1,16 @@
+1;Photo;Credits_Wireless_Sensor_Networks_by;dolcera;0.866
+1;Photo;Credits;Wireless_Sensor_Networks;0.822
+7;Photo;Credits_Wireless_Sensor_Networks_by;dolcera;0.866
+7;Photo;Credits;Wireless_Sensor_Networks;0.822
+13;The_most_common_WSN_architecture;follows;the_OSI_architecture;0.74
+14;The_architecture_of_the_WSN;includes;five_layers_and_three_cross_layers;0.772
+15;data;link;physical_layer)[enabler=Mostly_in_sensor_n_w_we_require_five_layers_namely_application_transport_n_w;0.71
+46;WSN_nodes;are_typically_organized_in;one_of_three_types_of_network_topologies;0.937
+47;each_node;connects_directly_to;a_gateway;0.847
+47;each_node;connects_directly_in;a_star_topology;0.613
+48;data;is_routed_from;the_lowest_node;0.925
+48;data;is_routed_on;the_tree;0.906
+48;each_node;connects_then_to_the_gateway_to;a_node_higher;0.765
+48;each_node;connects_then_to_the_gateway_in;a_cluster_tree_network;0.523
+49;mesh_networks;Finally_feature;nodes_that_can_connect_to_multiple_nodes_in_the_system_and_pass_data_through_the_most_reliable_path_available;0.745
+50;This_mesh_link;is_often_referred_as;a_router;0.898

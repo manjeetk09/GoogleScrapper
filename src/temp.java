@@ -178,7 +178,7 @@ public class temp
 
                 //via POSTagger
 //                TriplePOS triplepos = new TriplePOS();
-//                triplepos.triplePOS(i);
+//                triplepos.triple`POS(i);
 //                //System.out.println("triples created");
 //                parsePOS parsepos = new parsePOS();
 //                parsepos.parseFunc(i);

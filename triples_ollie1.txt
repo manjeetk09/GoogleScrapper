@@ -1,19 +1,47 @@
-In computer science, message passing sends a message to a process and relies on the process and the supporting infrastructure to select and invoke the actual code to run.
-0.814: (message passing; relies on; the process)
-0.814: (message passing; sends a message to; a process)
-0.757: (message passing; sends; a message)
-0.613: (message passing; sends a message in; computer science)
+Symmetric multiprocessing involves a multiprocessor computer hardware and software architecture where two or more identical processors are connected to a single, shared main memory, have full access to all I O devices, and are controlled by a single operating system instance that treats all processors equally, reserving none for special purposes.
+0.914: (two or more identical processors; are connected to; a single , shared main memory)
+0.853: (Symmetric multiprocessing; involves; a multiprocessor computer hardware and software architecture where two or more identical processors are connected to a single , shared main memory)
+0.621: (two or more identical processors; are connected in; a multiprocessor computer hardware and software architecture)
+0.53: (all processors; be treats equally by; a single operating system instance)
 
- Message passing differs from conventional programming where a process, subroutine, or function is directly invoked by name.
-0.914: (a process , subroutine , or function; is directly invoked by; name)
-0.821: (Message; passing differs from; conventional programming where a process , subroutine , or function is directly invoked by name)
-0.769: (differs; be passing from; conventional programming where a process , subroutine , or function is directly invoked by name)
-0.564: (a process , subroutine , or function; is directly invoked in; conventional programming)
+ Most multiprocessor systems today use an SMP architecture.
+0.767: (Most multiprocessor systems; use; an SMP architecture)
 
- Message passing is key to some models of concurrency and object_oriented programming.
-0.845: (Message passing; is key to; some models of concurrency)
-0.746: (Message passing; is; key)
-0.703: (Message passing; object oriented; programming)
+ In the case of multi_core processors, the SMP architecture applies to the cores, treating them as separate processors.
+0.847: (the SMP architecture; applies to; the cores)
+0.736: (the SMP architecture; applies in; the case of multi_core processors)
+0.69: (the SMP architecture; applies treating them as; separate processors)
+0.619: (them; be treating as; separate processors)
+0.528: (the SMP architecture; applies treating; them)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+SMP is the processing of programs by multiple processors that share a common operating system and memory.
+0.884: (SMP; is the processing of; programs)
+0.862: (SMP; is the processing of programs by; multiple processors)
+0.668: (SMP; is; the processing of programs)
+
+ In symmetric multiprocessing, the processors share memory and the I O bus or data path.
+No extractions found.
+
+ A single copy of the operating system is in charge of all the processors.
+0.891: (A single copy of the operating system; is in; charge of all the processors)
+
+ SMP, also known as a  shared everything  system, does not usually exceed 16 processors.
+0.812: (SMP; be also known as; a shared everything system)
 
 .
 No extractions found.
@@ -21,77 +49,155 @@ No extractions found.
 .
 No extractions found.
 
-Message Passing In Java When a thread sends a message to another thread.
-0.847: (a thread; sends a message to; another thread)
-0.757: (a thread; sends; a message)
-
- Used for thread communication and synchronization in environments where the threads do not have shared memory Hence the threads cannot share semaphores or monitors and cannot use shared variables to communicate.
-0.745: (the threads; Hence shared; variables to communicate)
-0.714: (the threads; do not have shared; memory)
-
- Message passing can still be used, of course, in a shared memory platform.
+.
 No extractions found.
 
- Messages are sent through a channel with an operation like sendand received from a channel with an operation like receive.
-0.929: (Messages; are sent through; a channel)
-0.736: (sendand; be received from; a channel)
-
- Messages can be passed synchronously, meaning the sender blocks until the received does a receive and the receiver blocks until the sender does a send.
+.
 No extractions found.
 
- Since the sender and receiver are at specific known points in their code at a known specific instant of time, synchronous message passing is also called a simple rendezvous with a one_way flow of information from the sender to the receiver.
-0.704: (a simple rendezvous; is also called with; a one_way flow of information)[enabler=the sender and receiver are at specific known points in their code at a known specific instant of time , synchronous message passing]
+One of the easiest and cheapest ways to improve hardware performance is to put more than one CPU on the board.
+0.854: (One of the easiest and cheapest ways; is to put more than one CPU on; the board)
+0.846: (One of the easiest and cheapest ways; is to put; than one CPU)
+0.827: (One of the easiest and cheapest ways; to put more than one CPU on; the board)
+0.695: (than one CPU; to be put on; the board)
 
- An example is a chess game agent.
-0.716: (An example; is; a chess game agent)
+ This can be done either making the different CPU s take on different jobs or by making them all run in parallel, doing the same job  symmetrical multi_processing, a.
+0.591: (s; take on; different jobs)
 
- The agents can process messages synchronously, since they ll be handshaking throughout the entire game.
-0.641: (they; ll be handshaking throughout; the entire game)
-0.606: (The agents; can process synchronously; messages)[enabler=since they ll be handshaking throughout the entire game]
-
- In asynchronous message passing, the sender does not block.
-0.591: (the sender; does not block in; asynchronous message passing)
-
- If there is not a receiver waiting to receive the message, the message is queued or buffered.
-0.676: (the message; is queued in; a receiver waiting to receive the message)
-
- The receiver still blocks if there is no queued or buffered message when a receive is executed.
+k.
 No extractions found.
 
-When a thread sends a message to another thread.
-0.847: (a thread; sends a message to; another thread)
-0.757: (a thread; sends; a message)
-
-Message passing is a type of communication between processes or objects in computer science.
-0.939: (Message passing; is a type of; communication)
-0.927: (Message passing; is a type of communication between; processes or objects)
-0.804: (Message passing; is; a type of communication)
-
- In this model, processes or objects can send and receive messages to other processes or objects.
-0.708: (messages; can be receive to; other processes or objects)
-
-Message passing can be synchronous or asynchronous.
-0.762: (Message passing; can be; synchronous or asynchronous)
-
- Synchronous message passing systems require the sender and receiver to wait for each other while transferring the message.
-0.854: (the sender and receiver; to wait for; each other)[enabler=while transferring the message]
-
- In asynchronous communication the sender and receiver do not wait for each other and can carry on their own computations while transfer of messages is being done.
-0.681: (the sender and receiver; do not wait can for; each other)
-0.605: (the sender and receiver; do can carry on; their own computations)[enabler=while transfer of messages is being done]
-
-My questions are.
+a.
 No extractions found.
 
- What is message passing  .
+ SMP .
 No extractions found.
 
- Is there any support for this  message passing  in C  , C  or Java .
+ Doing asymmetrical multi_processing effectively requires specialized knowledge about the tasks the computer should do, which is unavailable in a general purpose operating system such as Linux.
 No extractions found.
 
-Is there any support for this  message passing  in C  , C  or Java .
+ On the other hand, symmetrical multi_processing is relatively easy to implement.
+0.778: (symmetrical multi_processing; is relatively; easy)
+0.572: (symmetrical multi_processing; is relatively easy on; the other hand)
+
+In version 2.
 No extractions found.
 
-An example in Groovy that demonstrates the power of this concept.
-0.734: (the power of this concept; be demonstrates by; An example)
+0.
+No extractions found.
+
+x, this isn t a problem because the entire kernel is in one big spinlock.
+0.775: (the entire kernel; is in; one big spinlock)
+
+ This means that if one CPU is in the kernel and another CPU wants to get in, for example because of a system call, it has to wait until the first CPU is done.
+0.287: (it; has for; example)
+0.192: (one CPU; is in; the kernel)
+
+ This makes Linux SMP safe, but inefficient.
+No extractions found.
+
+By.
+No extractions found.
+
+ Colin Walls, Posted on.
+No extractions found.
+
+ June 17, 2015.
+No extractions found.
+
+     .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Short for Symmetric Multiprocessing, a computer architecture that provides fast performance by making multiple CPUs available to complete individual processes simultaneously .
+0.563: (performance; be provides by; a computer architecture)
+0.526: (multiple CPUs; be available to; complete individual processes)
+
+ Unlike asymmetrical processing, any idle processor can be assigned any task, and additional CPUs can be added to improve performance and handle increased loads.
+0.757: (performance and handle; increased; loads)
+0.679: (additional CPUs; can be assigned any task can unlike; asymmetrical processing)
+0.679: (any idle processor; can be assigned any task can unlike; asymmetrical processing)
+0.564: (any idle processor; can be assigned can; any task)
+0.388: (additional CPUs; can be assigned can; any task)
+
+ A variety of specialized operating systems and hardware arrangements are available to support SMP.
+0.729: (A variety of specialized operating systems; to support; SMP.)
+0.492: (available; be A variety of; specialized operating systems and hardware arrangements)
+
+ Specific applications can benefit from SMP if the code allows multithreading.
+0.84: (Specific applications; can benefit from; SMP)[enabler=if the code allows multithreading]
+
+Unlock the power of Linux on SMP systems.
+No extractions found.
+
+An SMP architecture is simply one where two or more identical processors connect to one another through a shared memory.
+0.837: (An SMP architecture; is simply; one where two or more identical processors connect to one another through a shared memory)
+0.781: (two or more identical processors; connect through; a shared memory)
+
+ Each processor has equal access to the shared memory .
+0.768: (Each processor; has; equal access)
+
+ Contrast this with the Non_Uniform Memory Access architecture.
+No extractions found.
+
+ For example, each processor has its own memory but also access to shared memory with a different access latency.
+0.604: (each processor; has; its own memory)
+0.179: (each processor; has its own memory but also access to shared memory with a different access latency for; example)
+
+Asymmetric multiprocessing    In asymmetric multiprocessing the program tasks are strictly divided by type between processors and typically, each processor has its own memory address space.
+0.925: (the program tasks; are strictly divided by; type)
+0.754: (the program tasks; are strictly divided in; asymmetric)
+0.567: (each processor; typically has; its own memory address space)
+
+  These features make asymmetric multiprocessing difficult to implement.
+No extractions found.
+
+ The two figures below are two examples of asymmetric multiprocessor configurations.
+0.93: (The two figures; are two examples of; asymmetric multiprocessor configurations)
+
+ .
+No extractions found.
+
+ Symmetric multiprocessing Symmetric multiprocessing is the most common configuration of multiple processors.
+0.936: (Symmetric; is the most common configuration of; multiple processors)
+0.795: (Symmetric; is; the most common configuration of multiple processors)
+
+ A typical SMP configuration has the following items.
+0.74: (A typical SMP configuration; has; the following items)
+
+        It has multiple processors and exactly one of everything else.
+0.661: (It; has; multiple processors and exactly one of everything)
+
+ memory, I O subsystem, operating system, etc.
+No extractions found.
+
+        The processors are symmetric, that is, they can do anything the others can.
+0.825: (they; can do; anything the others can)
+0.762: (symmetric; can do; anything the others can)
+
+  Each can look at or alter any element of memory, and each can do any kind of I O.
+No extractions found.
+
+ .
+No extractions found.
 

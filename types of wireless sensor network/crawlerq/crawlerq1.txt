@@ -1,0 +1,50 @@
+Photo Credits Wireless Sensor Networks by dolcera.
+ Wireless Sensor Network Topologies by ni.
+ Underground WSNs by amrita.
+ Under Water WSNs by jurdak.
+ Multimedia WSNs by ohio_state.
+ Wireless Sensor Networks Applications by immateriel.
+Photo Credits Wireless Sensor Networks by dolcera.
+ Wireless Sensor Network Topologies by ni.
+ Underground WSNs by amrita.
+ Under Water WSNs by jurdak.
+ Multimedia WSNs by ohio_state.
+ Wireless Sensor Networks Applications by immateriel.
+The most common WSN architecture follows the OSI architecture Model.
+ The architecture of the WSN includes five layers and three cross layers.
+ Mostly in sensor n w we require five layers, namely application, transport, n w, data link   physical layer.
+ The three cross planes are namely power management, mobility management, and task management.
+ These layers of the WSN are used to accomplish the n w and make the sensors work together in order to raise the complete efficiency of the network.
+Please follow the below link for.
+ Types of wireless sensor networks and WSN topologies.
+The main characteristics of a WSN include.
+ Power consumption constraints for nodes using batteries or energy harvesting.
+ Ability to cope with node failures .
+ Some mobility of nodes .
+ Heterogeneity of nodes.
+ Scalability to large scale of deployment.
+ Ability to withstand harsh environmental conditions.
+ Ease of use.
+ Cross_layer design 14  15 .
+v.
+t.
+e.
+v.
+t.
+e.
+.
+.
+There are different types of sensor networks such as underground, underwater, terrestrial and multimedia WSNs etc.
+ We will discuss them briefly.
+                                               .
+.
+.
+.
+.
+.
+.
+WSN nodes are typically organized in one of three types of network topologies.
+ In a star topology, each node connects directly to a gateway.
+ In a cluster tree network, each node connects to a node higher in the tree and then to the gateway, and data is routed from the lowest node on the tree to the gateway.
+ Finally, to offer increased reliability, mesh networks feature nodes that can connect to multiple nodes in the system and pass data through the most reliable path available.
+ This mesh link is often referred to as a router .

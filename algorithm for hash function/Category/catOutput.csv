@@ -1,7 +1,0 @@
-Category Match;1.0;universal hashing;hash_function;Error detection and correction;2;Error detection and correction;0
-1suffix/prefix/W;1;hash function;hash_function
-Category Match;1.0;collision attack;hash_function;Error detection and correction;2;Error detection and correction;0
-1suffix/prefix/W;2;cryptographic hash function;hash_function
-1suffix/prefix/W;2;jenkins hash function;hash_function
-1suffix/prefix/W;0;function (mathematics);hash_function
-Category Match;0.8888888888888888;hash table;hash_function;Search algorithms;1;Search algorithms;0

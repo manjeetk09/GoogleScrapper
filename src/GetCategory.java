@@ -163,7 +163,7 @@ public class GetCategory{
     public ArrayList<String> catgoryScore (String head_phrase1, String answer1) throws Exception{
         String head_phrase = head_phrase1.toLowerCase();
         String answer = answer1.toLowerCase();
-        String head_plural = head_phrase.replaceAll("^[a-zA-Z0-9_]","");
+        String head_plural = head_phrase.replaceAll("[^a-zA-Z0-9_+\\-]","");
         String head = head_phrase;
         String head_s = head_plural + "s";
         String head_es = head_plural + "es";
@@ -208,12 +208,17 @@ public class GetCategory{
                 res.add("1suffix/prefix/W2" + ";" + score_t + ";" + answer + ";" + head);
             }
         }
+//        System.out.println("head_phrase:: " + head_plural);
+//        System.out.println(head_es);
+//        System.out.println(head_s);
+//        System.out.println(head_ies);
         for (Category c : c1){
-            if(c.getName().toLowerCase().matches(head_s) || c.getName().toLowerCase().matches((head_es)) || c.getName().toLowerCase().matches(head) || c.getName().toLowerCase().matches(head_ies) ){
+//            System.out.println(c.getCleanName());
+            if(c.getCleanName().matches(head_s) || c.getCleanName().matches((head_es)) || c.getCleanName().matches(head) || c.getCleanName().matches(head_ies) ){
                 System.out.println("Found plural:: " + c.getName());
                 if(c.getLevel() == 0){
                     System.out.println("plural at level 0");
-                    if(c.getName().toLowerCase().contains(head_phrase)){
+                    if(c.getCleanName().contains(head_plural)){
                         System.out.println("Found typeof");
                         res.add("plural" + ";" + 1 + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
                         sum++;
@@ -221,7 +226,7 @@ public class GetCategory{
                 }
                 else{
                     System.out.println("plural at level " + c.getLevel());
-                    if(c.getName().toLowerCase().contains(head_phrase)){
+                    if(c.getCleanName().contains(head_plural)){
                         System.out.println("Found typeof");
                         double score = 1.0/(2*c.getLevel());
                         res.add("plural" + ";" + score + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
@@ -248,8 +253,8 @@ public class GetCategory{
                     }
                 }
                 if(count == c_split.size()){
-                    System.out.println("Found suffix :: " + c.getName());
-                    if(answer.contains(c.getName())){
+                    //System.out.println("Found suffix :: " + c.getName());
+                    if(answer.replaceAll("[^a-zA-Z0-9_+\\-]","").contains(c.getCleanName())){
                         System.out.println("Found typeof");
                         sum = sum + 1;
                         res1.add("2suffix/prefix" + ";" + score_compare + ";" + answer + ";" + head + ";" + c.getName() + ";" + c.getLevel());
@@ -264,7 +269,7 @@ public class GetCategory{
                 }
             }
             for(Category c2_temp : c2){
-                if(c2_temp.getName().matches(c.getName())){
+                if(c2_temp.getCleanName().matches(c.getCleanName())){
                     //if(c2_temp.getLevel() < c.getLevel()){
                     double score;
                     if(c.getLevel() == 2 && c2_temp.getLevel() == 0){
@@ -321,7 +326,7 @@ public class GetCategory{
                 }
                 if(count == c_split.size()){
                     System.out.println("Found suffix_2 :: " + c2_temp.getName());
-                    if(answer.contains(c2_temp.getName())){
+                    if(answer.replaceAll("[^a-zA-Z0-9_+\\-]","").contains(c2_temp.getCleanName())){
                         System.out.println("Found typeof_2");
                         res1.add("suffix/prefix" + ";" + score_compare + ";" + answer + ";" + head + ";" + c2_temp.getName() + ";" + c2_temp.getLevel());
                         sum = sum + 1;
@@ -541,7 +546,7 @@ class Category{
 
     public Category(String name, String url, ArrayList<Category> categories) {
         this.name = name;
-        this.cleanName = name.replaceAll("^[a-zA-Z0-9_]","");
+        this.cleanName = name.toLowerCase().replaceAll(" ","_").replaceAll("[^a-zA-Z0-9_+\\-]","");
         this.url = url;
         this.categories = categories;
         this.level = 0;
@@ -553,6 +558,7 @@ class Category{
 
     public Category(String name, String url) {
         this.name = name;
+        this.cleanName = name.toLowerCase().replaceAll(" ","_").replaceAll("[^a-zA-Z0-9_+\\-]","");
         this.url = url;
         this.categories = null;
         this.level = 0;

@@ -1,0 +1,116 @@
+A Wireless Sensor Network is one kind of wireless network includes a large number of circulating, self_directed, minute, low powered devices named sensor nodes called motes.
+0.908: (A Wireless Sensor Network; is one kind of; wireless network)
+0.796: (one kind of wireless network; includes; a large number circulating low powered devices named sensor nodes called motes)
+0.724: (A Wireless Sensor Network; is; one kind of wireless network)
+0.591: (named sensor nodes; called; low powered devices)
+
+ These networks certainly cover a huge number of spatially distributed, little, battery_operated, embedded devices that are networked to caringly collect, process, and transfer data to the operators, and it has controlled the capabilities of computing   processing.
+0.797: (These networks; certainly cover a huge number of spatially distributed has; embedded devices that are networked to caringly collect , process , and transfer data)
+0.775: (it; has controlled; the capabilities of computing processing)
+0.747: (These networks; has controlled; the capabilities of computing processing)
+0.545: (it; certainly cover a huge number of spatially distributed has; embedded devices that are networked to caringly collect , process , and transfer data)
+0.539: (These networks; certainly cover transfer data has; a huge number of spatially distributed)
+0.533: (These networks; certainly cover embedded devices that are networked to caringly collect , process , and transfer data to the operators has; a huge number of spatially distributed)
+0.262: (it; certainly cover transfer data has; a huge number of spatially distributed)
+0.258: (it; certainly cover embedded devices that are networked to caringly collect , process , and transfer data to the operators has; a huge number of spatially distributed)
+
+ Nodes are the tiny computers, which work jointly to form the networks.
+No extractions found.
+
+The main characteristics of a WSN include.
+No extractions found.
+
+ Power consumption constraints for nodes using batteries or energy harvesting.
+No extractions found.
+
+ Ability to cope with node failures .
+No extractions found.
+
+ Some mobility of nodes .
+No extractions found.
+
+ Heterogeneity of nodes.
+No extractions found.
+
+ Scalability to large scale of deployment.
+No extractions found.
+
+ Ability to withstand harsh environmental conditions.
+No extractions found.
+
+ Ease of use.
+No extractions found.
+
+ Cross_layer design 14  15 .
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+WSN nodes are typically organized in one of three types of network topologies.
+0.937: (WSN nodes; are typically organized in; one of three types of network topologies)
+
+ In a star topology, each node connects directly to a gateway.
+0.847: (each node; connects directly to; a gateway)
+0.613: (each node; connects directly in; a star topology)
+
+ In a cluster tree network, each node connects to a node higher in the tree and then to the gateway, and data is routed from the lowest node on the tree to the gateway.
+0.925: (data; is routed from; the lowest node)
+0.906: (data; is routed on; the tree)
+0.765: (each node; connects then to the gateway to; a node higher)
+0.523: (each node; connects then to the gateway in; a cluster tree network)
+
+ Finally, to offer increased reliability, mesh networks feature nodes that can connect to multiple nodes in the system and pass data through the most reliable path available.
+0.745: (mesh networks; Finally feature; nodes that can connect to multiple nodes in the system and pass data through the most reliable path available)
+
+ This mesh link is often referred to as a router .
+0.898: (This mesh link; is often referred as; a router)
+
+There are different types of sensor networks such as underground, underwater, terrestrial and multimedia WSNs etc.
+No extractions found.
+
+ We will discuss them briefly.
+No extractions found.
+
+                                               .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
