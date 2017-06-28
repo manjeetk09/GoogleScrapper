@@ -1,0 +1,61 @@
+1;Some widely used debuggers are.
+1; Firefox JavaScript debugger.
+1; GDB _ the GNU debugger.
+1; LLDB.
+1; Microsoft Visual Studio Debugger.
+1; Valgrind.
+1; WinDbg.
+1; Eclipse debugger API used in a range of IDEs.
+1; Eclipse IDE Nodeclipse .
+1; WDW, the OpenWatcom debugger.
+1;.
+1;.
+0;These two types of debugging provide you with some very technical information.
+0; You can use it to do an online search for a possible solution or cause to the problem, or to provide additional information to our Customer Support when opening a ticket.
+0;JavaScript debugging is done using the browser s built_in Developer Tools, more specifically, using a JavaScript Console.
+0; Today, all major browsers feature Developer Tools and a JavaScript Console.
+0; In Chrome, click the Main menu button_ More Tools_ Developer Tools.
+0; Select the Console tab.
+0; In Firefox, click the Main menu button_ Developer_ Web Console.
+0; In Internet Explorer, click the Tools button_ F12 Developer Tools.
+0; Select the Console tab.
+0; In Edge, click the More button_ F12 Developer Tools.
+0; Select the Console tab.
+0;Some widely used debuggers are.
+0; Firefox JavaScript debugger.
+0; GDB _ the GNU debugger.
+0; LLDB.
+0; Microsoft Visual Studio Debugger.
+0; Valgrind.
+0; WinDbg.
+0; Eclipse debugger API used in a range of IDEs.
+0; Eclipse IDE Nodeclipse .
+0; WDW, the OpenWatcom debugger.
+0;.
+0;.
+0;Many Eclipse perspectives, e g  the Java Development Tools , 1  provide a debugger front_end .
+0;Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 .
+0;DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  .
+0;GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution.
+0;.
+0;.
+0;The emerging field of  auditory display  uses sound to convey more detailed information.
+0; For debugging purposes, this requires translating arbitrary data into sound through a process called  sonification  or  audification.
+0;  Through this process, a language of sound is created.
+0; What does this mean  While generating different notes to indicate that a variable   5 or 47 may be less useful, consider using two different notes to indicate bidirectional communications between two programs.
+0; The rhythm between the notes conveys how often communications occur, and the relative sizes of the payloads of each message.
+0; Music and rhythm are innate tools that in this case would allow us to avoid sifting through pages and pages of interprocessor messaging.
+0; More detailed examples of  sonic grammar  have been termed  Earcons.
+0; .
+0;Classification of different types of test tools according to the test process activities.
+0; The tools are grouped by the testing activities or areas that are supported by a set of tools, for example, tools that support management activities, tools to support static testing, etc.
+0;Other example of the probe effect is when a debugging tool tries to find a particular defect.
+0; If the code is run with the debugger, then the bug disappears  it only re_appears when the debugger is turned off, hence making it very difficult to find.
+0; These are sometimes known as  Heizenbugs  .
+0;Tools for Debugging.
+0; Each of the above debugging approaches can be supplemented with debugging tools.
+0; For debugging we can apply wide variety of debugging tools such as debugging compilers, dynamic debugging aids, automatic test case generators, memory dumps and cross reference maps.
+0; The following are the main Debugging tools available in the market.
+0; The following information is based upon details from respective web_sites of the tool vendors.
+0;.
+0;.

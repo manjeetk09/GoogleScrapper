@@ -1,73 +1,74 @@
-0;By Bob Jenkins, September 01, 1997.
+0;01 October 2005.
+0;The MD5 function is a cryptographic algorithm that takes an input of arbitrary length and produces a message digest that is 128 bits long.
+0; The digest is sometimes also called the  hash  or  fingerprint  of the input.
+0; MD5 is used in many situations where a potentially long message needs to be processed and or compared quickly.
+0; The most common application is the creation and verification of digital signatures.
+0;The MD5 algorithm is a widely used hash function producing a 128_bit hash value.
+0; Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities.
+0; It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;The MD5 hashing algorithm is a one_way cryptographic function that accepts a message of any length as input and returns as output a fixed_length digest value to be used for authenticating the original message.
 0;.
 0;.
 0;.
 0;.
+0; .
+0;In the diagram, the one_way compression function is denoted by f, and transforms two fixed length inputs to an output of the same size as one of the inputs.
+0; The algorithm starts with an initial value, the initialization vector .
+0; The IV is a fixed value .
+0; For each message block, the compression function f takes the result so far, combines it with the message block, and produces an intermediate result.
+0; The last block is padded with zeros as needed and bits representing the length of the entire message are appended.
+0;Note.
+0;  Though MD5 is widely known, it is not a very secure hash.
+0; There exists many attacks such as rainbow table attack.
+0;  The security of the MD5 hash function is severely compromised.
+0; A collision attack exists that can find collisions within seconds on a computer with a 2.
+0;6 GHz Pentium 4 processor  complexity of 224.
+0;1 .
+0; Further, there is also a chosen_prefix collision attack that can produce a collision for two inputs with specified prefixes within hours, using off_the_shelf computing hardware .
+0; The ability to find collisions has been greatly aided by the use of off_the_shelf GPUs.
+0; On an NVIDIA GeForce 8400GS graphics processor, 16 18 million hashes per second can be computed.
+0; An NVIDIA GeForce 8800 Ultra can calculate more than 200 million hashes per second   Source.
+0;MD5   .
+0;MD5 was most popular and widely used hash function for quite some years.
+0; The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
+0; It was adopted as Internet Standard RFC 1321.
+0; It is a 128_bit hash function.
+0; MD5 digests have been widely used in the software world to provide assurance about integrity of transferred file.
+0; For example, file servers often provide a pre_computed MD5 checksum for the files, so that a user can compare the checksum of the downloaded file to it.
+0; In 2004, collisions were found in MD5.
+0; An analytical attack was reported to be successful only in an hour by using computer cluster.
+0; This collision attack resulted in compromised MD5 and hence it is no longer recommended for use.
+0;The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
+0; It was adopted as Internet Standard RFC 1321.
+0; It is a 128_bit hash function.
+0;The algorithm Message Digest 5 or MD5, it is a one_way cryptographic hash function.
+0; MD5 performs many binary operations on the  message  to compute a 128_bit  hash .
+0;Last modified.
+0; Mon May 9 09.
+0;15.
+0;29 PDT 2005.
+0;Hashes, on the other hand, compile a stream of data into a small digest  a summarized form.
+0; think  Reader s Digest  , and it s strictly a one way operation.
+0; All hashes of the same type _ this example shows the  MD5  variety _ have the same size no matter how big the inputs are.
+0;Other hashes have even more bits.
+0; the SHA_1 algorithm generates 160 bits, whose output space is four billions times larger than that produced by MD5 s 128 bits.
 0;.
 0;.
 0;.
 0;.
+0;MD5 which stands for Message Digest algorithm 5 is a widely used cryptographic hash function that was invented by Ronald Rivest in 1991.
+0; The idea behind this algorithm is to take up a random data as an input and generate a fixed size  hash value  as the output.
+0; The input data can be of any size or length, but the output  hash value  size is always fixed.
+0; Here is an example of MD5 Hash function at work.
 0;.
 0;.
 0;.
 0;.
-0;.
-0;.
-0;.
-0;.
-0;By John Boyer, January 01, 1998.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;More recently, Bob Jenkins presented a hashing function that performs a complex mixing operation using 12 bytes at a time from the input key.
-0; By design, the bytes of the key have some affect on all regions of the hash value.
-0; Thus, the hash function suffers little or no information loss when the hash value is truncated to the table size.
-0; As Table 1 shows, the efficiency of Jenkins  hash function was far greater than the original HashPJW, and even slightly better than HashJBand the new HashPJW.
-0; The run time using HashJBis equivalent to HashJenkinsbecause the former uses slightly less CPU time to compute hash values.
-0;DDJ.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;.
-0;The Jenkins hash functions are a collection of hash functions for multi_byte keys designed by Bob Jenkins.
-0; The first one was formally published in 1997.
-0;       .
-0;.
-0;.
-0;       .
-0;.
-0;.
-0;       .
-0;.
-0;.
-0;I offer you a new hash function for hash table lookup that is faster and more thorough than the one you are using now.
-0; I also give you a way to verify that it is more thorough.
-0;I have three complaints against it.
-0; First, it s specific about how to reduce the size if you don t use all the bits, it s not just a mask.
-0; Increasing the result size by one bit gives you a completely different hash.
-0; If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets.
-0; If your algorithm has a sliding pointer for which buckets have been split, that just won t work with FNV.
-0; Second, it s linear.
-0; That means that widely separated things can cancel each other out at least as easily as nearby things.
-0; Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
-0;The BDZ algorithm uses r_uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require Obits to be stored.
-0; A hypergraph is the generalization of a standard undirected graph where each edge connects vertices.
-0; This idea is not new, see e.
-0;g.
-0; , but we have proceeded differently to achieve a space usage of Obits rather than Obits.
-0; Evaluation time for all schemes considered is constant.
-0; For r 3 we obtain a space usage of approximately 2.
-0;6n bits for an MPHF.
-0; More compact, and even simpler, representations can be achieved for larger m.
-0; For example, for m 1.
-0;23n we can get a space usage of 1.
-0;95n bits.

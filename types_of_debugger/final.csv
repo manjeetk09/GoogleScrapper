@@ -1,0 +1,1320 @@
+0;1;https://en.wikipedia.org/wiki/Debugger;debuggers;1.0;0.14285714285714285;4.0;0;1
+0;1;https://en.wikipedia.org/wiki/Debugger;widely;1.0;0.14285714285714285;4.0;0;1
+0;2;https://en.wikipedia.org/wiki/Debugger;firefox javascript debugger;3.0;0.14285714285714285;4.0;0;1
+0;3;https://en.wikipedia.org/wiki/Debugger;gdb _;2.0;0.0;4.0;0.0;1
+0;3;https://en.wikipedia.org/wiki/Debugger;gnu debugger;2.0;0.14285714285714285;4.0;0.0;1
+0;4;https://en.wikipedia.org/wiki/Debugger;lldb;1.0;0.0;4.0;0;1
+0;6;https://en.wikipedia.org/wiki/Debugger;valgrind;1.0;0.0;4.0;0;1
+0;7;https://en.wikipedia.org/wiki/Debugger;windbg;1.0;0.0;4.0;0;1
+0;8;https://en.wikipedia.org/wiki/Debugger;eclipse debugger api;3.0;0.14285714285714285;4.0;1.0;1
+0;8;https://en.wikipedia.org/wiki/Debugger;range;1.0;0.14285714285714285;4.0;1.0;1
+0;8;https://en.wikipedia.org/wiki/Debugger;ides;1.0;0.14285714285714285;4.0;1.0;1
+0;9;https://en.wikipedia.org/wiki/Debugger;eclipse ide nodeclipse;3.0;0.14285714285714285;4.0;0;1
+0;10;https://en.wikipedia.org/wiki/Debugger;openwatcom debugger;2.0;0.14285714285714285;4.0;0;1
+0;10;https://en.wikipedia.org/wiki/Debugger;wdw;1.0;0.0;4.0;0;1
+0;13;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;technical information;2.0;0.1;4.0;0.0;0
+0;13;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;debugging provide;2.0;0.1;4.0;0.0;0
+0;13;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;types;1.0;0.1;4.0;0.0;0
+0;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;opening;1.0;0.1;4.0;0.7071067811865475;0
+0;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;online search;2.0;0.1;4.0;0.7071067811865475;0
+0;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;solution;1.0;0.1;4.0;0.7071067811865475;0
+0;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;provide additional information;3.0;0.1;4.0;0.7071067811865475;0
+0;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;customer support;2.0;0.1;4.0;0.7071067811865475;0
+0;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;problem;1.0;0.1;4.0;0.7071067811865475;0
+0;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;ticket;1.0;0.1;4.0;0.7071067811865475;0
+0;15;https://en.wikipedia.org/wiki/Debugger;debuggers;1.0;0.14285714285714285;4.0;0;0
+0;15;https://en.wikipedia.org/wiki/Debugger;widely;1.0;0.14285714285714285;4.0;0;0
+0;16;https://en.wikipedia.org/wiki/Debugger;firefox javascript debugger;3.0;0.14285714285714285;4.0;0;0
+0;17;https://en.wikipedia.org/wiki/Debugger;gdb _;2.0;0.0;4.0;0.0;0
+0;17;https://en.wikipedia.org/wiki/Debugger;gnu debugger;2.0;0.14285714285714285;4.0;0.0;0
+0;18;https://en.wikipedia.org/wiki/Debugger;lldb;1.0;0.0;4.0;0;0
+0;20;https://en.wikipedia.org/wiki/Debugger;valgrind;1.0;0.0;4.0;0;0
+0;21;https://en.wikipedia.org/wiki/Debugger;windbg;1.0;0.0;4.0;0;0
+0;22;https://en.wikipedia.org/wiki/Debugger;eclipse debugger api;3.0;0.14285714285714285;4.0;1.0;0
+0;22;https://en.wikipedia.org/wiki/Debugger;range;1.0;0.14285714285714285;4.0;1.0;0
+0;22;https://en.wikipedia.org/wiki/Debugger;ides;1.0;0.14285714285714285;4.0;1.0;0
+0;23;https://en.wikipedia.org/wiki/Debugger;eclipse ide nodeclipse;3.0;0.14285714285714285;4.0;0;0
+0;24;https://en.wikipedia.org/wiki/Debugger;openwatcom debugger;2.0;0.14285714285714285;4.0;0;0
+0;24;https://en.wikipedia.org/wiki/Debugger;wdw;1.0;0.0;4.0;0;0
+0;27;https://en.wikipedia.org/wiki/Debugging;debugging;1.0;0.018867924528301886;4.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Debugging;process;1.0;0.018867924528301886;4.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Debugging;resolving;1.0;0.018867924528301886;4.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Debugging;system;1.0;0.018867924528301886;4.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Debugging;defects;1.0;0.018867924528301886;4.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Debugging;finding;1.0;0.018867924528301886;4.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Debugging;prevent correct operation;3.0;0.018867924528301886;4.0;0.0;0
+0;27;https://en.wikipedia.org/wiki/Debugging;computer software;2.0;0.018867924528301886;4.0;0.0;0
+0;33;https://en.wikipedia.org/wiki/Debugging;situations;1.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;33;https://en.wikipedia.org/wiki/Debugging;language specific;2.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;33;https://en.wikipedia.org/wiki/Debugging;nature;1.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;34;https://en.wikipedia.org/wiki/Debugging;form;1.0;0.018867924528301886;4.0;0;0
+0;35;https://en.wikipedia.org/wiki/Debugging;source code;2.0;0.018867924528301886;4.0;0.0;0
+0;35;https://en.wikipedia.org/wiki/Debugging;rare;1.0;0.018867924528301886;4.0;0.0;0
+0;35;https://en.wikipedia.org/wiki/Debugging;problems;1.0;0.018867924528301886;4.0;0.0;0
+0;35;https://en.wikipedia.org/wiki/Debugging;specific set;2.0;0.018867924528301886;4.0;0.0;0
+0;35;https://en.wikipedia.org/wiki/Debugging;common;1.0;0.018867924528301886;4.0;0.0;0
+0;35;https://en.wikipedia.org/wiki/Debugging;tools;1.0;0.07547169811320754;4.0;0.0;0
+0;36;https://en.wikipedia.org/wiki/Debugging;semantic checkers;2.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;36;https://en.wikipedia.org/wiki/Debugging;syntax checkers;2.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;36;https://en.wikipedia.org/wiki/Debugging;issues detected;2.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;36;https://en.wikipedia.org/wiki/Debugging;picked;1.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;36;https://en.wikipedia.org/wiki/Debugging;interpreter;1.0;0.0;4.0;0.7071067811865475;0
+0;36;https://en.wikipedia.org/wiki/Debugging;rarely;1.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;36;https://en.wikipedia.org/wiki/Debugging;tools;1.0;0.07547169811320754;4.0;0.7071067811865475;0
+0;36;https://en.wikipedia.org/wiki/Debugging;compiler;1.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;37;https://en.wikipedia.org/wiki/Debugging;tools claim;2.0;0.018867924528301886;4.0;0;0
+0;38;https://en.wikipedia.org/wiki/Debugging;languages;1.0;0.0;4.0;0.0;0
+0;38;https://en.wikipedia.org/wiki/Debugging;free tools exist;3.0;0.018867924528301886;4.0;0.0;0
+0;38;https://en.wikipedia.org/wiki/Debugging;commercial;1.0;0.018867924528301886;4.0;0.0;0
+0;39;https://en.wikipedia.org/wiki/Debugging;code walkthroughs;2.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;39;https://en.wikipedia.org/wiki/Debugging;impractical;1.0;0.0;4.0;0.7071067811865475;0
+0;39;https://en.wikipedia.org/wiki/Debugging;checking;1.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;39;https://en.wikipedia.org/wiki/Debugging;tools;1.0;0.07547169811320754;4.0;0.7071067811865475;0
+0;39;https://en.wikipedia.org/wiki/Debugging;large source trees;3.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;39;https://en.wikipedia.org/wiki/Debugging;extremely;1.0;0.018867924528301886;4.0;0.7071067811865475;0
+0;40;https://en.wikipedia.org/wiki/Debugging;variable dereference;1.75;0.018867924528301886;4.0;1.0;0
+0;40;https://en.wikipedia.org/wiki/Debugging;assigned;1.0;0.018867924528301886;4.0;1.0;0
+0;40;https://en.wikipedia.org/wiki/Debugging;problem detected;2.0;0.018867924528301886;4.0;1.0;0
+0;40;https://en.wikipedia.org/wiki/Debugging;variable;1.5;0.018867924528301886;4.0;1.0;0
+0;40;https://en.wikipedia.org/wiki/Debugging;occurs;1.0;0.018867924528301886;4.0;1.0;0
+0;40;https://en.wikipedia.org/wiki/Debugging;typical;1.0;0.018867924528301886;4.0;1.0;0
+0;41;https://en.wikipedia.org/wiki/Debugging;require;1.0;0.018867924528301886;4.0;0.0;0
+0;41;https://en.wikipedia.org/wiki/Debugging;language;1.0;0.0;4.0;0.0;0
+0;42;https://en.wikipedia.org/wiki/Debugging;versus actual errors;2.6666666666666665;0.018867924528301886;4.0;0;0
+0;42;https://en.wikipedia.org/wiki/Debugging;errors;2.0;0.018867924528301886;4.0;0;0
+0;42;https://en.wikipedia.org/wiki/Debugging;locating;1.0;0.0;4.0;0;0
+0;43;https://en.wikipedia.org/wiki/Debugging;false positives;2.0;0.018867924528301886;4.0;0.0;0
+0;43;https://en.wikipedia.org/wiki/Debugging;reputation;1.0;0.018867924528301886;4.0;0.0;0
+0;43;https://en.wikipedia.org/wiki/Debugging;tools;1.0;0.07547169811320754;4.0;0.0;0
+0;43;https://en.wikipedia.org/wiki/Debugging;result;1.0;0.018867924528301886;4.0;0.0;0
+0;44;https://en.wikipedia.org/wiki/Debugging;unix lint program;3.0;0.018867924528301886;4.0;0.0;0
+0;44;https://en.wikipedia.org/wiki/Debugging;early;1.0;0.018867924528301886;4.0;0.0;0
+1;1;https://en.wikipedia.org/wiki/Debugger;debuggers;1.0;0.07142857142857142;2.5;0;1
+1;1;https://en.wikipedia.org/wiki/Debugger;widely;1.0;0.07142857142857142;5.0;0;1
+1;2;https://en.wikipedia.org/wiki/Debugger;firefox javascript debugger;3.0;0.07142857142857142;5.0;0;1
+1;3;https://en.wikipedia.org/wiki/Debugger;gdb _;2.0;0.0;5.0;0.0;1
+1;3;https://en.wikipedia.org/wiki/Debugger;gnu debugger;2.0;0.07142857142857142;5.0;0.0;1
+1;4;https://en.wikipedia.org/wiki/Debugger;lldb;1.0;0.0;5.0;0;1
+1;6;https://en.wikipedia.org/wiki/Debugger;valgrind;1.0;0.0;5.0;0;1
+1;7;https://en.wikipedia.org/wiki/Debugger;windbg;1.0;0.0;5.0;0;1
+1;8;https://en.wikipedia.org/wiki/Debugger;eclipse debugger api;3.0;0.07142857142857142;5.0;1.0;1
+1;8;https://en.wikipedia.org/wiki/Debugger;range;1.0;0.07142857142857142;5.0;1.0;1
+1;8;https://en.wikipedia.org/wiki/Debugger;ides;1.0;0.07142857142857142;5.0;1.0;1
+1;9;https://en.wikipedia.org/wiki/Debugger;eclipse ide nodeclipse;3.0;0.07142857142857142;5.0;0;1
+1;10;https://en.wikipedia.org/wiki/Debugger;openwatcom debugger;2.0;0.07142857142857142;5.0;0;1
+1;10;https://en.wikipedia.org/wiki/Debugger;wdw;1.0;0.0;5.0;0;1
+1;13;https://en.wikipedia.org/wiki/Debugger;debuggers;1.0;0.07142857142857142;2.5;0;0
+1;13;https://en.wikipedia.org/wiki/Debugger;widely;1.0;0.07142857142857142;5.0;0;0
+1;14;https://en.wikipedia.org/wiki/Debugger;firefox javascript debugger;3.0;0.07142857142857142;5.0;0;0
+1;15;https://en.wikipedia.org/wiki/Debugger;gdb _;2.0;0.0;5.0;0.0;0
+1;15;https://en.wikipedia.org/wiki/Debugger;gnu debugger;2.0;0.07142857142857142;5.0;0.0;0
+1;16;https://en.wikipedia.org/wiki/Debugger;lldb;1.0;0.0;5.0;0;0
+1;18;https://en.wikipedia.org/wiki/Debugger;valgrind;1.0;0.0;5.0;0;0
+1;19;https://en.wikipedia.org/wiki/Debugger;windbg;1.0;0.0;5.0;0;0
+1;20;https://en.wikipedia.org/wiki/Debugger;eclipse debugger api;3.0;0.07142857142857142;5.0;1.0;0
+1;20;https://en.wikipedia.org/wiki/Debugger;range;1.0;0.07142857142857142;5.0;1.0;0
+1;20;https://en.wikipedia.org/wiki/Debugger;ides;1.0;0.07142857142857142;5.0;1.0;0
+1;21;https://en.wikipedia.org/wiki/Debugger;eclipse ide nodeclipse;3.0;0.07142857142857142;5.0;0;0
+1;22;https://en.wikipedia.org/wiki/Debugger;openwatcom debugger;2.0;0.07142857142857142;5.0;0;0
+1;22;https://en.wikipedia.org/wiki/Debugger;wdw;1.0;0.0;5.0;0;0
+1;25;https://en.wikipedia.org/wiki/List_of_debuggers;eclipse perspectives;2.0;0.010416666666666666;5.0;0.0;0
+1;25;https://en.wikipedia.org/wiki/List_of_debuggers;java development tools;3.0;0.010416666666666666;5.0;0.0;0
+1;25;https://en.wikipedia.org/wiki/List_of_debuggers;debugger front_end;2.0;0.010416666666666666;5.0;0.0;0
+1;25;https://en.wikipedia.org/wiki/List_of_debuggers;1  provide;0.3333333333333333;0.010416666666666666;5.0;0.0;0
+1;26;https://en.wikipedia.org/wiki/List_of_debuggers;allinea ddt _;3.0;0.010416666666666666;5.0;0.0;0
+1;26;https://en.wikipedia.org/wiki/List_of_debuggers;graphical debugger supporting;3.0;0.010416666666666666;5.0;0.0;0
+1;26;https://en.wikipedia.org/wiki/List_of_debuggers;parallel multi_process;2.0;0.010416666666666666;5.0;0.0;0
+1;26;https://en.wikipedia.org/wiki/List_of_debuggers;multithreaded applications;2.0;0.010416666666666666;5.0;0.0;0
+1;27;https://en.wikipedia.org/wiki/List_of_debuggers;common debuggers natively;3.0;0.010416666666666666;5.0;0.0;0
+1;27;https://en.wikipedia.org/wiki/List_of_debuggers;complex tool;2.0;0.010416666666666666;5.0;0.0;0
+1;27;https://en.wikipedia.org/wiki/List_of_debuggers;gnu project;2.0;0.010416666666666666;5.0;0.0;0
+1;27;https://en.wikipedia.org/wiki/List_of_debuggers;standard front_end;2.0;0.010416666666666666;5.0;0.0;0
+1;27;https://en.wikipedia.org/wiki/List_of_debuggers;external programs;2.0;0.010416666666666666;5.0;0.0;0
+1;27;https://en.wikipedia.org/wiki/List_of_debuggers;works;1.0;0.010416666666666666;5.0;0.0;0
+1;27;https://en.wikipedia.org/wiki/List_of_debuggers;ddd;1.0;0.0;5.0;0.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;modified version;1.75;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;cdb;1.0;0.0;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.66666666667;0.0;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;fortran ide;1.75;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;supporting reproduction;2.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;gdb  codelite;1.0555555555566667;0.010416666666666666;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;debugger;2.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;open source;2.0;0.03125;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;frontend  kdbg   part;1.4166666666666667;0.010416666666666666;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;integrates;1.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;slickedit;1.0;0.0;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;ddt;1.0;0.0;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;version;1.5;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;gnu debugger acts;2.6666666666666665;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;codelite;1.5;0.0;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;program state;2.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;mozilla;1.0;0.0;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;gdb frontend;2.083333333335;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;lldb  allinea;1.3333333333333333;0.010416666666666666;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;free cross_platform;2.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;lldb codeblocks;2.0;0.010416666666666666;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;gdb  xcode;1.2222222222233332;0.010416666666666666;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;built_in support;2.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;parallel;1.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;gdb  rr;1.2222222222233332;0.010416666666666666;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;reverse execution;2.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;include;1.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;front end;2.0;0.03125;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;eclipse;1.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;distributed front_end;2.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;cross platform;2.0;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;ide;1.5;0.020833333333333332;5.0;1.0;0
+1;28;https://en.wikipedia.org/wiki/List_of_debuggers;gdb front_end;1.833333333335;0.03125;5.0;1.0;0
+1;29;https://en.wikipedia.org/wiki/List_of_debuggers;built_in support;2.0;0.020833333333333332;5.0;0.0;0
+1;29;https://en.wikipedia.org/wiki/List_of_debuggers;emacs   emacs editor;1.8;0.010416666666666666;5.0;0.0;0
+1;29;https://en.wikipedia.org/wiki/List_of_debuggers;frontend;1.0;0.0;5.0;0.0;0
+1;29;https://en.wikipedia.org/wiki/List_of_debuggers;gnu debugger acts;3.0;0.020833333333333332;5.0;0.0;0
+1;30;https://en.wikipedia.org/wiki/List_of_debuggers;kdbg   part;1.0;0.010416666666666666;5.0;0;0
+1;30;https://en.wikipedia.org/wiki/List_of_debuggers;kde development tools;3.0;0.010416666666666666;5.0;0;0
+1;31;https://en.wikipedia.org/wiki/List_of_debuggers;integrates;1.0;0.020833333333333332;5.0;0;0
+1;31;https://en.wikipedia.org/wiki/List_of_debuggers;nemiver;1.0;0.0;5.0;0;0
+1;31;https://en.wikipedia.org/wiki/List_of_debuggers;gnome desktop environment;3.0;0.010416666666666666;5.0;0;0
+1;31;https://en.wikipedia.org/wiki/List_of_debuggers;gdb frontend;2.0;0.020833333333333332;5.0;0;0
+1;32;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;5.0;0;0
+1;32;https://en.wikipedia.org/wiki/List_of_debuggers;xxgdb   x_window frontend;1.8;0.010416666666666666;5.0;0;0
+1;32;https://en.wikipedia.org/wiki/List_of_debuggers;dbx debugger;2.0;0.010416666666666666;5.0;0;0
+1;33;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;5.0;0;0
+1;33;https://en.wikipedia.org/wiki/List_of_debuggers;lldb;1.0;0.0;5.0;0;0
+1;33;https://en.wikipedia.org/wiki/List_of_debuggers;cdb;1.0;0.0;5.0;0;0
+1;34;https://en.wikipedia.org/wiki/List_of_debuggers;modified version;2.0;0.020833333333333332;5.0;0.0;0
+1;34;https://en.wikipedia.org/wiki/List_of_debuggers;distributed front_end;2.0;0.020833333333333332;5.0;0.0;0
+1;34;https://en.wikipedia.org/wiki/List_of_debuggers;ddt;1.0;0.0;5.0;0.0;0
+1;34;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;5.0;0.0;0
+1;34;https://en.wikipedia.org/wiki/List_of_debuggers;allinea;1.0;0.0;5.0;0.0;0
+1;34;https://en.wikipedia.org/wiki/List_of_debuggers;parallel;1.0;0.020833333333333332;5.0;0.0;0
+1;35;https://en.wikipedia.org/wiki/List_of_debuggers;xcode;1.0;0.0;5.0;1.0;0
+1;35;https://en.wikipedia.org/wiki/List_of_debuggers;gdb front_end;2.0;0.03125;5.0;1.0;0
+1;36;https://en.wikipedia.org/wiki/List_of_debuggers;slickedit;1.0;0.0;5.0;1.0;0
+1;36;https://en.wikipedia.org/wiki/List_of_debuggers;gdb front_end;2.0;0.03125;5.0;1.0;0
+1;37;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;5.0;1.0;0
+1;37;https://en.wikipedia.org/wiki/List_of_debuggers;eclipse;1.0;0.020833333333333332;5.0;1.0;0
+1;38;https://en.wikipedia.org/wiki/List_of_debuggers;codelite;1.0;0.0;5.0;1.0;0
+1;38;https://en.wikipedia.org/wiki/List_of_debuggers;open source;2.0;0.03125;5.0;1.0;0
+1;38;https://en.wikipedia.org/wiki/List_of_debuggers;front end;2.0;0.03125;5.0;1.0;0
+1;38;https://en.wikipedia.org/wiki/List_of_debuggers;lldb;1.0;0.0;5.0;1.0;0
+1;38;https://en.wikipedia.org/wiki/List_of_debuggers;cross platform;2.0;0.020833333333333332;5.0;1.0;0
+1;38;https://en.wikipedia.org/wiki/List_of_debuggers;include;1.0;0.020833333333333332;5.0;1.0;0
+1;38;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;5.0;1.0;0
+1;38;https://en.wikipedia.org/wiki/List_of_debuggers;version;1.0;0.020833333333333332;5.0;1.0;0
+1;38;https://en.wikipedia.org/wiki/List_of_debuggers;ide;1.0;0.020833333333333332;5.0;1.0;0
+1;39;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;5.0;0;0
+1;39;https://en.wikipedia.org/wiki/List_of_debuggers;codeblocks;1.0;0.0;5.0;0;0
+1;39;https://en.wikipedia.org/wiki/List_of_debuggers;fortran ide;2.0;0.020833333333333332;5.0;0;0
+1;39;https://en.wikipedia.org/wiki/List_of_debuggers;free cross_platform;2.0;0.020833333333333332;5.0;0;0
+1;39;https://en.wikipedia.org/wiki/List_of_debuggers;front end;2.0;0.03125;5.0;0;0
+1;40;https://en.wikipedia.org/wiki/List_of_debuggers;reverse execution;2.0;0.020833333333333332;5.0;0;0
+1;40;https://en.wikipedia.org/wiki/List_of_debuggers;open source;2.0;0.03125;5.0;0;0
+1;40;https://en.wikipedia.org/wiki/List_of_debuggers;debugger;1.0;0.020833333333333332;5.0;0;0
+1;40;https://en.wikipedia.org/wiki/List_of_debuggers;mozilla;1.0;0.0;5.0;0;0
+1;40;https://en.wikipedia.org/wiki/List_of_debuggers;supporting reproduction;2.0;0.020833333333333332;5.0;0;0
+1;40;https://en.wikipedia.org/wiki/List_of_debuggers;program state;2.0;0.020833333333333332;5.0;0;0
+1;43;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;debugging;1.0;0.043478260869565216;5.0;0;0
+1;43;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;adequate;1.0;0.021739130434782608;5.0;0;0
+1;43;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;program;1.0;0.06521739130434782;2.5;0;0
+1;43;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;print statements;2.0;0.043478260869565216;5.0;0;0
+1;43;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;convenient;1.0;0.021739130434782608;5.0;0;0
+1;44;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;program till;2.0;0.021739130434782608;5.0;0.0;0
+1;44;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;point;1.0;0.021739130434782608;5.0;0.0;0
+1;44;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;variables;1.0;0.021739130434782608;5.0;0.0;0
+1;44;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;values;1.0;0.021739130434782608;5.0;0.0;0
+1;44;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;programmer;1.0;0.06521739130434782;2.5;0.0;0
+1;44;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;execution;1.0;0.043478260869565216;2.5;0.0;0
+1;44;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;observing;1.0;0.021739130434782608;5.0;0.0;0
+1;44;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;change;1.0;0.021739130434782608;5.0;0.0;0
+1;45;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;make;1.0;0.021739130434782608;5.0;0.0;0
+1;45;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;large program;1.833333333335;0.021739130434782608;5.0;0.0;0
+1;45;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;back;1.0;0.021739130434782608;5.0;0.0;0
+1;45;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;program;1.66666666667;0.06521739130434782;2.5;0.0;0
+1;45;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;source program;1.833333333335;0.021739130434782608;5.0;0.0;0
+1;45;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;rerun;1.0;0.021739130434782608;5.0;0.0;0
+1;45;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;difficult;1.0;0.021739130434782608;5.0;0.0;0
+1;46;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;executed;1.0;0.021739130434782608;5.0;1.0;0
+1;46;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;print statements;2.0;0.043478260869565216;5.0;1.0;0
+1;46;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;interested;1.0;0.021739130434782608;5.0;1.0;0
+1;46;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;iterations;1.0;0.021739130434782608;5.0;1.0;0
+1;46;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;programmer;1.0;0.06521739130434782;2.5;1.0;0
+1;46;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;inside loops;2.0;0.021739130434782608;5.0;1.0;0
+1;46;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;loop;1.0;0.0;5.0;1.0;0
+1;46;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;produce output everytime;3.0;0.021739130434782608;5.0;1.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;control;1.0;0.021739130434782608;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;debugging;1.5;0.043478260869565216;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;kind;1.0;0.0;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;runtime;1.0;0.0;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;inserting extra statements;3.0;0.021739130434782608;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;means;1.0;0.021739130434782608;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;giving;1.0;0.021739130434782608;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;drawbacks;1.0;0.021739130434782608;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;examining;1.0;0.021739130434782608;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;tool called debugger;3.0;0.021739130434782608;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;modifying;1.0;0.021739130434782608;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;program;1.33333333333;0.06521739130434782;2.5;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;helps;1.0;0.0;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;program variables;1.666666666665;0.021739130434782608;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;programmer;1.0;0.06521739130434782;2.5;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;execution;1.0;0.043478260869565216;2.5;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;overcome;1.0;0.021739130434782608;5.0;0.0;0
+1;47;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;debugging programs;1.75;0.021739130434782608;5.0;0.0;0
+1;48;https://techterms.com/definition/debugger;fortunately;1.0;0.0;5.0;0.0;0
+1;48;https://techterms.com/definition/debugger;eliminate bugs;2.0;0.034482758620689655;5.0;0.0;0
+1;48;https://techterms.com/definition/debugger;programs called debuggers;2.8333333333333335;0.034482758620689655;5.0;0.0;0
+1;48;https://techterms.com/definition/debugger;software developers find;3.0;0.034482758620689655;5.0;0.0;0
+1;48;https://techterms.com/definition/debugger;writing programs;2.25;0.034482758620689655;5.0;0.0;0
+1;49;https://techterms.com/definition/debugger;code;1.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;49;https://techterms.com/definition/debugger;errors;1.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;49;https://techterms.com/definition/debugger;bugs;1.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;49;https://techterms.com/definition/debugger;exact lines;2.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;49;https://techterms.com/definition/debugger;marks;1.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;49;https://techterms.com/definition/debugger;found;1.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;49;https://techterms.com/definition/debugger;programmer;1.0;0.034482758620689655;1.25;0.7071067811865475;0
+1;49;https://techterms.com/definition/debugger;finds;1.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;49;https://techterms.com/definition/debugger;types;1.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;49;https://techterms.com/definition/debugger;debugger tells;2.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;50;https://techterms.com/definition/debugger;run;1.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;50;https://techterms.com/definition/debugger;programmers;1.0;0.0;5.0;0.7071067811865475;0
+1;50;https://techterms.com/definition/debugger;program crashes;2.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;50;https://techterms.com/definition/debugger;program step;1.75;0.034482758620689655;5.0;0.7071067811865475;0
+1;50;https://techterms.com/definition/debugger;step;1.5;0.06896551724137931;5.0;0.7071067811865475;0
+1;50;https://techterms.com/definition/debugger;determine;1.0;0.034482758620689655;5.0;0.7071067811865475;0
+1;50;https://techterms.com/definition/debugger;debuggers;1.0;0.034482758620689655;1.6666666666666667;0.7071067811865475;0
+1;51;https://techterms.com/definition/debugger;step;1.0;0.06896551724137931;5.0;1.0;0
+1;51;https://techterms.com/definition/debugger;program;1.0;0.034482758620689655;1.25;1.0;0
+1;51;https://techterms.com/definition/debugger;threads;1.0;0.034482758620689655;5.0;1.0;0
+1;51;https://techterms.com/definition/debugger;execution;1.0;0.034482758620689655;1.6666666666666667;1.0;0
+1;51;https://techterms.com/definition/debugger;memory;1.0;0.034482758620689655;5.0;1.0;0
+1;52;https://techterms.com/definition/debugger;100  deet;0.3333333333333333;0.034482758620689655;5.0;0.0;0
+1;52;https://techterms.com/definition/debugger;powerful debugger program;3.0;0.034482758620689655;5.0;0.0;0
+1;53;http://www.gwc.maricopa.edu/class/mst154/power_point/C7LESSN5/sld008.htm;slide 8;0.5;1.0;5.0;0;0
+2;1;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;debugging;1.0;0.043478260869565216;1.6;0;0
+2;1;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;adequate;1.0;0.021739130434782608;8.0;0;0
+2;1;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;program;1.0;0.06521739130434782;1.1428571428571428;0;0
+2;1;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;print statements;2.0;0.043478260869565216;8.0;0;0
+2;1;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;convenient;1.0;0.021739130434782608;8.0;0;0
+2;2;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;program till;2.0;0.021739130434782608;8.0;0.0;0
+2;2;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;point;1.0;0.021739130434782608;8.0;0.0;0
+2;2;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;variables;1.0;0.021739130434782608;8.0;0.0;0
+2;2;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;values;1.0;0.021739130434782608;8.0;0.0;0
+2;2;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;programmer;1.0;0.06521739130434782;8.0;0.0;0
+2;2;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;execution;1.0;0.043478260869565216;8.0;0.0;0
+2;2;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;observing;1.0;0.021739130434782608;8.0;0.0;0
+2;2;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;change;1.0;0.021739130434782608;8.0;0.0;0
+2;3;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;make;1.0;0.021739130434782608;2.0;0.0;0
+2;3;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;large program;1.833333333335;0.021739130434782608;8.0;0.0;0
+2;3;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;back;1.0;0.021739130434782608;8.0;0.0;0
+2;3;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;program;1.66666666667;0.06521739130434782;1.1428571428571428;0.0;0
+2;3;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;source program;1.833333333335;0.021739130434782608;8.0;0.0;0
+2;3;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;rerun;1.0;0.021739130434782608;8.0;0.0;0
+2;3;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;difficult;1.0;0.021739130434782608;8.0;0.0;0
+2;4;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;executed;1.0;0.021739130434782608;8.0;1.0;0
+2;4;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;print statements;2.0;0.043478260869565216;8.0;1.0;0
+2;4;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;interested;1.0;0.021739130434782608;8.0;1.0;0
+2;4;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;iterations;1.0;0.021739130434782608;8.0;1.0;0
+2;4;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;programmer;1.0;0.06521739130434782;8.0;1.0;0
+2;4;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;inside loops;2.0;0.021739130434782608;8.0;1.0;0
+2;4;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;loop;1.0;0.0;8.0;1.0;0
+2;4;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;produce output everytime;3.0;0.021739130434782608;8.0;1.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;control;1.0;0.021739130434782608;4.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;debugging;1.5;0.043478260869565216;1.6;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;kind;1.0;0.0;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;runtime;1.0;0.0;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;inserting extra statements;3.0;0.021739130434782608;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;means;1.0;0.021739130434782608;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;giving;1.0;0.021739130434782608;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;drawbacks;1.0;0.021739130434782608;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;examining;1.0;0.021739130434782608;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;tool called debugger;3.0;0.021739130434782608;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;modifying;1.0;0.021739130434782608;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;program;1.33333333333;0.06521739130434782;1.1428571428571428;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;helps;1.0;0.0;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;program variables;1.666666666665;0.021739130434782608;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;programmer;1.0;0.06521739130434782;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;execution;1.0;0.043478260869565216;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;overcome;1.0;0.021739130434782608;8.0;0.0;0
+2;5;http://www.tezu.ernet.in/~utpal/course_mat/ss_debugr.html;debugging programs;1.75;0.021739130434782608;8.0;0.0;0
+2;6;https://en.wikipedia.org/wiki/Debugger;debugger;1.0;0.00847457627118644;1.6;0.0;0
+2;6;https://en.wikipedia.org/wiki/Debugger;programs;1.0;0.00847457627118644;2.6666666666666665;0.0;0
+2;6;https://en.wikipedia.org/wiki/Debugger;debug;1.0;0.00847457627118644;2.6666666666666665;0.0;0
+2;6;https://en.wikipedia.org/wiki/Debugger;test;1.0;0.025423728813559324;1.6;0.0;0
+2;6;https://en.wikipedia.org/wiki/Debugger;computer program;2.0;0.00847457627118644;4.0;0.0;0
+2;6;https://en.wikipedia.org/wiki/Debugger;debugging tool;2.0;0.00847457627118644;4.0;0.0;0
+2;7;https://en.wikipedia.org/wiki/Debugger;code;1.5;0.01694915254237288;2.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;slower;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;ability;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;alternatively;1.0;0.0;8.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;technique;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;specific conditions;2.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;encountered;1.0;0.0;8.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;executing;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;running;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;examined;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;instruction set simulator;3.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;code directly;1.75;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;great power;2.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;typically;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;processor;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;7;https://en.wikipedia.org/wiki/Debugger;halt;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;8;https://en.wikipedia.org/wiki/Debugger;impact;1.0;0.00847457627118644;4.0;0.0;0
+2;8;https://en.wikipedia.org/wiki/Debugger;full;1.0;0.00847457627118644;8.0;0.0;0
+2;8;https://en.wikipedia.org/wiki/Debugger;modes;1.0;0.00847457627118644;4.0;0.0;0
+2;8;https://en.wikipedia.org/wiki/Debugger;partial simulation;2.0;0.00847457627118644;4.0;0.0;0
+2;8;https://en.wikipedia.org/wiki/Debugger;limit;1.0;0.0;8.0;0.0;0
+2;8;https://en.wikipedia.org/wiki/Debugger;debuggers offer;2.0;0.00847457627118644;4.0;0.0;0
+2;8;https://en.wikipedia.org/wiki/Debugger;operation;1.0;0.00847457627118644;8.0;0.0;0
+2;11;https://en.wikipedia.org/wiki/Debugger;historical debugging;2.0;0.00847457627118644;8.0;0.7071067811865475;0
+2;11;https://en.wikipedia.org/wiki/Debugger;debuggers include;2.0;0.01694915254237288;8.0;0.7071067811865475;0
+2;11;https://en.wikipedia.org/wiki/Debugger;backwards debugging;2.0;0.00847457627118644;8.0;0.7071067811865475;0
+2;12;https://en.wikipedia.org/wiki/Debugger;step;1.0;0.00847457627118644;8.0;0.0;0
+2;12;https://en.wikipedia.org/wiki/Debugger;program;1.0;0.025423728813559324;1.1428571428571428;0.0;0
+2;12;https://en.wikipedia.org/wiki/Debugger;debuggers make;2.0;0.00847457627118644;8.0;0.0;0
+2;12;https://en.wikipedia.org/wiki/Debugger;time;1.0;0.00847457627118644;4.0;0.0;0
+2;12;https://en.wikipedia.org/wiki/Debugger;execution backwards;2.0;0.00847457627118644;8.0;0.0;0
+2;13;https://en.wikipedia.org/wiki/Debugger;debuggers include;2.0;0.01694915254237288;8.0;0.0;0
+2;13;https://en.wikipedia.org/wiki/Debugger;feature;1.0;0.00847457627118644;8.0;0.0;0
+2;14;https://en.wikipedia.org/wiki/Debugger;visual basic;2.0;0.00847457627118644;8.0;0.0;0
+2;15;https://en.wikipedia.org/wiki/Debugger;languages;1.0;0.0;8.0;0;0
+2;15;https://en.wikipedia.org/wiki/Debugger;net;1.0;0.00847457627118644;8.0;0;0
+2;16;https://en.wikipedia.org/wiki/Debugger;java;1.0;0.0;8.0;0.7071067811865475;0
+2;16;https://en.wikipedia.org/wiki/Debugger;python;1.0;0.00847457627118644;8.0;0.7071067811865475;0
+2;16;https://en.wikipedia.org/wiki/Debugger;perl;1.0;0.0;8.0;0.7071067811865475;0
+2;16;https://en.wikipedia.org/wiki/Debugger;languages;1.0;0.0;8.0;0.7071067811865475;0
+2;16;https://en.wikipedia.org/wiki/Debugger;reverse debuggers;2.0;0.01694915254237288;8.0;0.7071067811865475;0
+2;16;https://en.wikipedia.org/wiki/Debugger;exist;1.0;0.00847457627118644;8.0;0.7071067811865475;0
+2;17;https://en.wikipedia.org/wiki/Debugger;open source;2.0;0.00847457627118644;8.0;0;0
+2;17;https://en.wikipedia.org/wiki/Debugger;proprietary commercial software;3.0;0.00847457627118644;8.0;0;0
+2;18;https://en.wikipedia.org/wiki/Debugger;target;1.0;0.00847457627118644;8.0;0.0;0
+2;18;https://en.wikipedia.org/wiki/Debugger;reverse debuggers slow;2.6666666666666665;0.00847457627118644;8.0;0.0;0
+2;18;https://en.wikipedia.org/wiki/Debugger;magnitude;1.0;0.00847457627118644;8.0;0.0;0
+2;18;https://en.wikipedia.org/wiki/Debugger;slowdown;1.0;0.0;8.0;0.0;0
+2;18;https://en.wikipedia.org/wiki/Debugger;reverse debuggers;2.5;0.01694915254237288;8.0;0.0;0
+2;18;https://en.wikipedia.org/wiki/Debugger;orders;1.0;0.00847457627118644;8.0;0.0;0
+2;19;https://en.wikipedia.org/wiki/Debugger;problems;1.0;0.00847457627118644;8.0;0.0;0
+2;19;https://en.wikipedia.org/wiki/Debugger;commonly;1.0;0.00847457627118644;8.0;0.0;0
+2;19;https://en.wikipedia.org/wiki/Debugger;types;1.0;0.00847457627118644;4.0;0.0;0
+2;19;https://en.wikipedia.org/wiki/Debugger;reverse debugging;2.0;0.00847457627118644;8.0;0.0;0
+2;22;https://en.wikipedia.org/wiki/Debugger;modern microprocessors;2.0;0.00847457627118644;4.0;0.0;0
+2;22;https://en.wikipedia.org/wiki/Debugger;cpu design;2.0;0.00847457627118644;4.0;0.0;0
+2;22;https://en.wikipedia.org/wiki/Debugger;make debugging easier;3.0;0.00847457627118644;4.0;0.0;0
+2;22;https://en.wikipedia.org/wiki/Debugger;features;1.0;0.00847457627118644;4.0;0.0;0
+2;23;https://en.wikipedia.org/wiki/Debugger;trap flag;2.0;0.00847457627118644;4.0;0;0
+2;23;https://en.wikipedia.org/wiki/Debugger;single_stepping;1.0;0.00847457627118644;4.0;0;0
+2;23;https://en.wikipedia.org/wiki/Debugger;program;1.0;0.025423728813559324;1.1428571428571428;0;0
+2;23;https://en.wikipedia.org/wiki/Debugger;hardware support;2.0;0.01694915254237288;2.6666666666666665;0;0
+2;24;https://en.wikipedia.org/wiki/Debugger;meets;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;runs;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;full speed;2.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;popek;1.0;0.0;8.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;debugger control;2.25;0.00847457627118644;8.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;cpu;1.0;0.0;8.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;execute;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;write debugger software;2.5;0.00847457627118644;4.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;instruction set;2.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;test;1.0;0.025423728813559324;1.6;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;remain;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;debugged;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;program;1.0;0.025423728813559324;1.1428571428571428;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;loops;1.0;0.0;8.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;easier;1.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;24;https://en.wikipedia.org/wiki/Debugger;software;2.0;0.00847457627118644;4.0;0.7071067811865475;0
+2;25;https://en.wikipedia.org/wiki/Debugger;test;1.0;0.025423728813559324;1.6;0.0;0
+2;25;https://en.wikipedia.org/wiki/Debugger;reprogram;1.0;0.00847457627118644;8.0;0.0;0
+2;25;https://en.wikipedia.org/wiki/Debugger;in_system programming;2.0;0.00847457627118644;4.0;0.0;0
+2;25;https://en.wikipedia.org/wiki/Debugger;external hardware debugger;3.0;0.00847457627118644;4.0;0.0;0
+2;25;https://en.wikipedia.org/wiki/Debugger;system;1.0;0.00847457627118644;4.0;0.0;0
+2;26;https://en.wikipedia.org/wiki/Debugger;hardware debug support;2.8333333333333335;0.00847457627118644;4.0;1.0;0
+2;26;https://en.wikipedia.org/wiki/Debugger;systems;1.0;0.00847457627118644;4.0;1.0;0
+2;26;https://en.wikipedia.org/wiki/Debugger;isp support;2.25;0.00847457627118644;4.0;1.0;0
+2;27;https://en.wikipedia.org/wiki/Debugger;considerably;1.0;0.0;8.0;0;0
+2;27;https://en.wikipedia.org/wiki/Debugger;code;1.0;0.01694915254237288;2.0;0;0
+2;27;https://en.wikipedia.org/wiki/Debugger;hardware support;2.25;0.01694915254237288;2.6666666666666665;0;0
+2;27;https://en.wikipedia.org/wiki/Debugger;data;1.5;0.00847457627118644;4.0;0;0
+2;27;https://en.wikipedia.org/wiki/Debugger;data breakpoints;1.75;0.00847457627118644;4.0;0;0
+2;27;https://en.wikipedia.org/wiki/Debugger;address comparators;1.75;0.00847457627118644;4.0;0;0
+2;27;https://en.wikipedia.org/wiki/Debugger;work involved;2.0;0.00847457627118644;4.0;0;0
+2;27;https://en.wikipedia.org/wiki/Debugger;page fault hardware;2.8333333333333335;0.00847457627118644;4.0;0;0
+2;27;https://en.wikipedia.org/wiki/Debugger;comparators;1.5;0.0;8.0;0;0
+2;29;https://en.wikipedia.org/wiki/Debugger;hardware debug interfaces;3.0;0.00847457627118644;4.0;0;0
+2;29;https://en.wikipedia.org/wiki/Debugger;nexus command set;3.0;0.00847457627118644;4.0;0;0
+2;29;https://en.wikipedia.org/wiki/Debugger;arm architecture processors;3.0;0.00847457627118644;4.0;0;0
+2;29;https://en.wikipedia.org/wiki/Debugger;jtag access;2.0;0.00847457627118644;4.0;0;0
+2;30;https://en.wikipedia.org/wiki/Debugger;embedded systems typically;3.0;0.00847457627118644;4.0;1.0;0
+2;30;https://en.wikipedia.org/wiki/Debugger;processors;1.0;0.00847457627118644;4.0;1.0;0
+2;31;https://en.wikipedia.org/wiki/Debugger;bdm;1.0;0.0;8.0;0.0;0
+2;31;https://en.wikipedia.org/wiki/Debugger;low pin_count substitutes;3.0;0.00847457627118644;4.0;0.0;0
+2;31;https://en.wikipedia.org/wiki/Debugger;spy_bi_wire;1.0;0.00847457627118644;4.0;0.0;0
+2;31;https://en.wikipedia.org/wiki/Debugger;micro controllers;2.0;0.00847457627118644;8.0;0.0;0
+2;31;https://en.wikipedia.org/wiki/Debugger;debugwire;1.0;0.0;8.0;0.0;0
+2;31;https://en.wikipedia.org/wiki/Debugger;pins;1.0;0.00847457627118644;4.0;0.0;0
+2;31;https://en.wikipedia.org/wiki/Debugger;atmel avr;2.0;0.00847457627118644;4.0;0.0;0
+2;31;https://en.wikipedia.org/wiki/Debugger;jtag;1.0;0.0;8.0;0.0;0
+2;32;https://en.wikipedia.org/wiki/Debugger;bidirectional signaling;2.0;0.00847457627118644;4.0;0.0;0
+2;32;https://en.wikipedia.org/wiki/Debugger;reset pin;2.0;0.00847457627118644;4.0;0.0;0
+2;32;https://en.wikipedia.org/wiki/Debugger;debugwire;1.0;0.0;8.0;0.0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;debugging;1.0;0.1111111111111111;1.6;0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;determining;1.0;0.0;8.0;0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;work;1.0;0.05555555555555555;8.0;0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;involves identifying;2.0;0.05555555555555555;8.0;0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;source;1.0;0.05555555555555555;8.0;0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;engineering;1.0;0.0;8.0;0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;computer programming;2.0;0.05555555555555555;8.0;0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;multistep process;2.0;0.05555555555555555;8.0;0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;problem;1.0;0.05555555555555555;2.6666666666666665;0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;correcting;1.0;0.05555555555555555;8.0;0;0
+2;47;http://searchsoftwarequality.techtarget.com/definition/debugging;isolating;1.0;0.05555555555555555;8.0;0;0
+2;48;http://searchsoftwarequality.techtarget.com/definition/debugging;debugging;1.0;0.1111111111111111;1.6;0.0;0
+2;48;http://searchsoftwarequality.techtarget.com/definition/debugging;workaround;1.0;0.0;8.0;0.0;0
+2;48;http://searchsoftwarequality.techtarget.com/definition/debugging;correction;1.0;0.05555555555555555;8.0;0.0;0
+2;48;http://searchsoftwarequality.techtarget.com/definition/debugging;final step;2.0;0.05555555555555555;8.0;0.0;0
+2;48;http://searchsoftwarequality.techtarget.com/definition/debugging;test;1.0;0.05555555555555555;1.1428571428571428;0.0;0
+2;48;http://searchsoftwarequality.techtarget.com/definition/debugging;works;1.0;0.05555555555555555;8.0;0.0;0
+2;48;http://searchsoftwarequality.techtarget.com/definition/debugging;make;1.0;0.05555555555555555;2.0;0.0;0
+2;55;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;line;1.0;0.0;8.0;0.7071067811865475;0
+2;55;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;program;1.0;0.058823529411764705;0.8888888888888888;0.7071067811865475;0
+2;55;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;run;1.0;0.058823529411764705;8.0;0.7071067811865475;0
+2;55;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;debugger;1.0;0.11764705882352941;2.0;0.7071067811865475;0
+2;55;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;time;1.0;0.058823529411764705;4.0;0.7071067811865475;0
+2;56;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;computer sees;2.0;0.058823529411764705;8.0;0.7071067811865475;0
+2;56;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;code;1.0;0.058823529411764705;1.6;0.7071067811865475;0
+2;56;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;debugger;1.0;0.11764705882352941;2.0;0.7071067811865475;0
+2;56;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;show;1.0;0.058823529411764705;8.0;0.7071067811865475;0
+2;57;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;gdb;1.0;0.0;8.0;0.0;0
+2;57;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;number;1.0;0.058823529411764705;8.0;0.0;0
+2;57;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;type  del;1.3333333333333333;0.058823529411764705;8.0;0.0;0
+2;57;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;remove;1.0;0.058823529411764705;8.0;0.0;0
+2;57;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;breakpoint;1.0;0.058823529411764705;8.0;0.0;0
+2;58;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;list;1.0;0.0;8.0;0.0;0
+2;58;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;type  break;1.3333333333333333;0.058823529411764705;8.0;0.0;0
+2;58;http://www.cs.utah.edu/~germain/PPS/Topics/debugging_programs.html;breakpoints;1.0;0.0;8.0;0.0;0
+2;59;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;technical information;2.0;0.029411764705882353;8.0;0.0;0
+2;59;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;debugging provide;2.0;0.029411764705882353;8.0;0.0;0
+2;59;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;types;1.0;0.029411764705882353;4.0;0.0;0
+2;60;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;opening;1.0;0.029411764705882353;8.0;0.7071067811865475;0
+2;60;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;online search;2.0;0.029411764705882353;8.0;0.7071067811865475;0
+2;60;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;solution;1.0;0.029411764705882353;8.0;0.7071067811865475;0
+2;60;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;provide additional information;3.0;0.029411764705882353;8.0;0.7071067811865475;0
+2;60;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;customer support;2.0;0.029411764705882353;8.0;0.7071067811865475;0
+2;60;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;problem;1.0;0.029411764705882353;2.6666666666666665;0.7071067811865475;0
+2;60;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;ticket;1.0;0.029411764705882353;8.0;0.7071067811865475;0
+2;61;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;file error_log;2.0;0.029411764705882353;8.0;0;0
+2;61;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;produces;1.0;0.029411764705882353;8.0;0;0
+2;62;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;wordpress root directory;3.0;0.029411764705882353;8.0;0;0
+2;62;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;txt;1.0;0.0;8.0;0;0
+2;63;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;write;1.0;0.029411764705882353;8.0;0.7071067811865475;0
+2;63;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;make;1.0;0.058823529411764705;2.6666666666666665;0.7071067811865475;0
+2;63;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;create;1.0;0.058823529411764705;8.0;0.7071067811865475;0
+2;63;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;web server;2.0;0.029411764705882353;8.0;0.7071067811865475;0
+2;63;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;file;1.0;0.058823529411764705;8.0;0.7071067811865475;0
+2;64;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;create;1.0;0.058823529411764705;8.0;0.0;0
+2;64;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;ftp program;2.0;0.029411764705882353;8.0;0.0;0
+2;64;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;writable;1.0;0.029411764705882353;8.0;0.0;0
+2;64;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;file;1.0;0.058823529411764705;8.0;0.0;0
+2;64;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;apache;1.0;0.0;8.0;0.0;0
+2;64;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;make;1.0;0.058823529411764705;2.6666666666666665;0.0;0
+2;65;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;notices;1.0;0.029411764705882353;8.0;0;0
+2;65;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;enables;1.0;0.029411764705882353;8.0;0;0
+2;65;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;displays;1.0;0.029411764705882353;8.0;0;0
+2;65;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;warnings;1.0;0.029411764705882353;8.0;0;0
+2;65;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;php errors;2.0;0.029411764705882353;8.0;0;0
+2;66;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;read;1.0;0.029411764705882353;8.0;0.7071067811865475;0
+2;66;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;information;1.0;0.0;8.0;0.7071067811865475;0
+2;66;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;wordpress;1.0;0.0;8.0;0.7071067811865475;0
+2;66;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;debugging;1.0;0.029411764705882353;1.3333333333333333;0.7071067811865475;0
+2;67;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;debugger;1.0;0.022988505747126436;2.0;0.0;0
+2;67;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;programs;1.0;0.011494252873563218;2.6666666666666665;0.0;0
+2;67;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;debug;1.0;0.011494252873563218;2.6666666666666665;0.0;0
+2;67;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;test;1.0;0.034482758620689655;1.6;0.0;0
+2;67;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;computer program;2.0;0.011494252873563218;4.0;0.0;0
+2;67;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;debugging tool;2.0;0.011494252873563218;4.0;0.0;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;code;1.5;0.022988505747126436;2.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;slower;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;ability;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;alternatively;1.0;0.0;8.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;technique;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;specific conditions;2.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;encountered;1.0;0.0;8.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;executing;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;running;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;examined;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;instruction set simulator;3.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;code directly;1.75;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;great power;2.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;typically;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;processor;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;68;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;halt;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;69;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;impact;1.0;0.011494252873563218;4.0;0.0;0
+2;69;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;modes;1.0;0.011494252873563218;4.0;0.0;0
+2;69;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;partial simulation;2.0;0.011494252873563218;4.0;0.0;0
+2;69;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;operation _ full;3.0;0.011494252873563218;8.0;0.0;0
+2;69;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;limit;1.0;0.0;8.0;0.0;0
+2;69;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;debuggers offer;2.0;0.011494252873563218;4.0;0.0;0
+2;72;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;modern microprocessors;2.0;0.011494252873563218;4.0;0.0;0
+2;72;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;cpu design;2.0;0.011494252873563218;4.0;0.0;0
+2;72;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;make debugging easier;3.0;0.011494252873563218;4.0;0.0;0
+2;72;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;features;1.0;0.011494252873563218;4.0;0.0;0
+2;73;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;trap flag;2.0;0.011494252873563218;4.0;0;0
+2;73;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;single_stepping;1.0;0.011494252873563218;4.0;0;0
+2;73;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;program;1.0;0.022988505747126436;1.0;0;0
+2;73;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;hardware support;2.0;0.022988505747126436;2.6666666666666665;0;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;control;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;meets;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;runs;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;full speed;2.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;debugger;2.0;0.022988505747126436;2.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;popek;1.0;0.0;8.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;cpu;1.0;0.0;8.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;execute;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;write debugger software;2.3333333333333335;0.011494252873563218;4.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;instruction set;2.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;test;1.0;0.034482758620689655;1.6;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;remain;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;debugged;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;program;1.0;0.022988505747126436;1.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;loops;1.0;0.0;8.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;easier;1.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;74;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;software;2.0;0.011494252873563218;4.0;0.7071067811865475;0
+2;75;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;test;1.0;0.034482758620689655;1.6;0.0;0
+2;75;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;re_program;1.0;0.011494252873563218;8.0;0.0;0
+2;75;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;in_system programming;2.0;0.011494252873563218;4.0;0.0;0
+2;75;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;external hardware debugger;3.0;0.011494252873563218;4.0;0.0;0
+2;75;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;system;1.0;0.011494252873563218;4.0;0.0;0
+2;76;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;hardware debug support;2.8333333333333335;0.011494252873563218;4.0;1.0;0
+2;76;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;systems;1.0;0.011494252873563218;4.0;1.0;0
+2;76;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;isp support;2.25;0.011494252873563218;4.0;1.0;0
+2;77;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;considerably;1.0;0.0;8.0;0;0
+2;77;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;code;1.0;0.022988505747126436;2.0;0;0
+2;77;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;hardware support;2.25;0.022988505747126436;2.6666666666666665;0;0
+2;77;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;data;1.5;0.011494252873563218;4.0;0;0
+2;77;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;data breakpoints;1.75;0.011494252873563218;4.0;0;0
+2;77;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;address comparators;1.75;0.011494252873563218;4.0;0;0
+2;77;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;work involved;2.0;0.011494252873563218;4.0;0;0
+2;77;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;page fault hardware;2.8333333333333335;0.011494252873563218;4.0;0;0
+2;77;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;comparators;1.5;0.0;8.0;0;0
+2;78;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;hardware debug interfaces;3.0;0.011494252873563218;4.0;0;0
+2;78;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;nexus command set;3.0;0.011494252873563218;4.0;0;0
+2;78;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;arm architecture processors;3.0;0.011494252873563218;4.0;0;0
+2;78;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;jtag access;2.0;0.011494252873563218;4.0;0;0
+2;79;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;embedded systems typically;3.0;0.011494252873563218;4.0;1.0;0
+2;79;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;processors;1.0;0.011494252873563218;4.0;1.0;0
+2;80;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;bdm;1.0;0.0;8.0;0.0;0
+2;80;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;low pin_count substitutes;3.0;0.011494252873563218;4.0;0.0;0
+2;80;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;microcontrollers;1.0;0.0;8.0;0.0;0
+2;80;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;spy_bi_wire;1.0;0.011494252873563218;4.0;0.0;0
+2;80;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;debugwire;1.0;0.0;8.0;0.0;0
+2;80;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;pins;1.0;0.011494252873563218;4.0;0.0;0
+2;80;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;atmel avr;2.0;0.011494252873563218;4.0;0.0;0
+2;80;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;jtag;1.0;0.0;8.0;0.0;0
+2;81;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;bidirectional signaling;2.0;0.011494252873563218;4.0;0.0;0
+2;81;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;reset pin;2.0;0.011494252873563218;4.0;0.0;0
+2;81;https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Tools/Debugger;debugwire;1.0;0.0;8.0;0.0;0
+2;84;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;debugging;1.0;0.04;1.3333333333333333;0.0;0
+2;84;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;art;1.0;0.04;8.0;0.0;0
+2;84;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;programs;1.0;0.04;2.6666666666666665;0.0;0
+2;84;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;determining;1.0;0.0;8.0;0.0;0
+2;84;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;diagnosing errors;2.0;0.04;8.0;0.0;0
+2;84;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;correct;1.0;0.04;8.0;0.0;0
+2;85;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;forms;1.0;0.04;8.0;0.0;0
+2;85;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;including;1.0;0.04;8.0;0.0;0
+2;85;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;bugs;1.0;0.04;8.0;0.0;0
+2;85;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;variety;1.0;0.04;8.0;0.0;0
+2;86;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;coding errors;2.0;0.04;8.0;0;0
+2;86;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;complex interactions;2.0;0.04;8.0;0;0
+2;86;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;design errors;2.0;0.04;8.0;0;0
+2;86;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;system failures;2.0;0.04;8.0;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;sort;1.0;0.04;8.0;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;program effectively;2.0;0.04;8.0;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;identify;1.0;0.04;8.0;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;eliminate;1.0;0.04;8.0;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;learning;1.0;0.0;8.0;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;learn;1.0;0.0;8.0;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;debug;1.0;0.04;2.6666666666666665;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;apply;1.0;0.04;8.0;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;problem;1.0;0.04;2.6666666666666665;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;requires;1.0;0.04;8.0;0;0
+2;87;https://en.wikibooks.org/wiki/Computer_Programming_Principles/Maintaining/Debugging;techniques;1.0;0.04;4.0;0;0
+2;90;http://www.controleng.com/single-article/six-debugging-techniques-for-embedded-system-development/237ff38eedf9d15f5fe23081e0ca4207.html;development;1.0;0.0;8.0;0;0
+2;90;http://www.controleng.com/single-article/six-debugging-techniques-for-embedded-system-development/237ff38eedf9d15f5fe23081e0ca4207.html;propagating;1.0;0.0;8.0;0;0
+2;90;http://www.controleng.com/single-article/six-debugging-techniques-for-embedded-system-development/237ff38eedf9d15f5fe23081e0ca4207.html;learning;1.0;0.0;8.0;0;0
+2;90;http://www.controleng.com/single-article/six-debugging-techniques-for-embedded-system-development/237ff38eedf9d15f5fe23081e0ca4207.html;increases code quality;3.0;0.125;8.0;0;0
+2;91;http://www.controleng.com/single-article/six-debugging-techniques-for-embedded-system-development/237ff38eedf9d15f5fe23081e0ca4207.html;experienced engineers create;3.0;0.125;8.0;0;0
+2;91;http://www.controleng.com/single-article/six-debugging-techniques-for-embedded-system-development/237ff38eedf9d15f5fe23081e0ca4207.html;short;1.0;0.125;8.0;0;0
+2;91;http://www.controleng.com/single-article/six-debugging-techniques-for-embedded-system-development/237ff38eedf9d15f5fe23081e0ca4207.html;younger engineers learn;3.0;0.125;8.0;0;0
+2;91;http://www.controleng.com/single-article/six-debugging-techniques-for-embedded-system-development/237ff38eedf9d15f5fe23081e0ca4207.html;techniques;1.0;0.125;4.0;0;0
+3;11;https://archive.sap.com/discussions/thread/695711;abap;1.0;0.0;7.0;0;0
+3;11;https://archive.sap.com/discussions/thread/695711;debugging modes avaiable;3.0;0.14285714285714285;7.0;0;0
+3;11;https://archive.sap.com/discussions/thread/695711;types;1.0;0.14285714285714285;1.4;0;0
+3;12;https://archive.sap.com/discussions/thread/695711;plz give;2.0;0.14285714285714285;7.0;0.0;0
+3;12;https://archive.sap.com/discussions/thread/695711;details;1.0;0.14285714285714285;7.0;0.0;0
+3;14;https://archive.sap.com/discussions/thread/695711;rani;1.0;0.0;7.0;0;0
+3;16;https://archive.sap.com/discussions/thread/695711;abap;1.0;0.0;7.0;0;0
+3;25;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;updated;1.0;0.07142857142857142;7.0;0;0
+3;26;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;december 2nd 2016;1.3333333333333333;0.07142857142857142;7.0;0;0
+3;26;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;ashok kumar reddy;3.0;0.07142857142857142;7.0;0;0
+3;27;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;sap abap debugging;2.7777777777766666;0.07142857142857142;7.0;0.0;0
+3;27;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;debugging techniques;2.166666666665;0.07142857142857142;7.0;0.0;0
+3;27;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;debugging controls;2.166666666665;0.07142857142857142;7.0;0.0;0
+3;27;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;working;1.0;0.07142857142857142;7.0;0.0;0
+3;27;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;sap abap programming;3.0;0.07142857142857142;7.0;0.0;0
+3;28;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;behaviors;1.0;0.07142857142857142;7.0;0.0;0
+3;28;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;coding blocks;2.0;0.07142857142857142;7.0;0.0;0
+3;28;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;types;1.0;0.07142857142857142;1.4;0.0;0
+3;28;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;breakpoints;1.0;0.0;7.0;0.0;0
+3;29;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;sub_routines;1.0;0.07142857142857142;7.0;0;0
+3;29;https://www.sapnuts.com/courses/core-abap/modularization-in-abap/debugging-sap-abap.html;function modules;2.0;0.07142857142857142;7.0;0;0
+3;30;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;pete 10 comments;1.3333333333333333;0.058823529411764705;7.0;0;0
+3;37;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;line;2.0;0.0;7.0;1.0;0
+3;37;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;abap debugger;2.0;0.11764705882352941;3.5;1.0;0
+3;37;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;execute;1.0;0.058823529411764705;7.0;1.0;0
+3;37;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;tool;1.0;0.058823529411764705;7.0;1.0;0
+3;37;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;analyze programs line;2.6666666666666665;0.058823529411764705;7.0;1.0;0
+3;38;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;flow logic;2.0;0.058823529411764705;7.0;0.7071067811865475;0
+3;38;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;variables;1.0;0.058823529411764705;7.0;0.7071067811865475;0
+3;38;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;display runtime values;3.0;0.058823529411764705;7.0;0.7071067811865475;0
+3;38;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;program;1.0;0.058823529411764705;2.3333333333333335;0.7071067811865475;0
+3;38;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;check;1.0;0.058823529411764705;7.0;0.7071067811865475;0
+3;39;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;debuggers;1.0;0.058823529411764705;7.0;0.0;0
+3;39;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;types;1.0;0.058823529411764705;1.4;0.0;0
+3;39;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;sap offers;2.0;0.058823529411764705;7.0;0.0;0
+3;40;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;classic abap debugger;3.0;0.058823529411764705;7.0;0;0
+3;41;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;abap debugger;2.0;0.11764705882352941;3.5;0;0
+3;48;http://www.saptraininghq.com/use-sap-abap-debugger-efficiently/;sap abap;2.0;0.058823529411764705;3.5;0;0
+3;62;https://www.udemy.com/abap-debugger/;debugging;1.0;0.05555555555555555;3.5;0;0
+3;62;https://www.udemy.com/abap-debugger/;crucial;1.0;0.05555555555555555;7.0;0;0
+3;63;https://www.udemy.com/abap-debugger/;debugger capabilities;2.0;0.05555555555555555;7.0;0;0
+3;63;https://www.udemy.com/abap-debugger/;describe;1.0;0.05555555555555555;7.0;0;0
+3;64;https://www.udemy.com/abap-debugger/;debugger layout;2.0;0.05555555555555555;7.0;0;0
+3;64;https://www.udemy.com/abap-debugger/;fit;1.0;0.05555555555555555;7.0;0;0
+3;64;https://www.udemy.com/abap-debugger/;change;1.0;0.05555555555555555;7.0;0;0
+3;65;https://www.udemy.com/abap-debugger/;set;1.0;0.05555555555555555;7.0;0;0
+3;65;https://www.udemy.com/abap-debugger/;understand;1.0;0.05555555555555555;3.5;0;0
+3;65;https://www.udemy.com/abap-debugger/;breakpoints types;2.0;0.05555555555555555;7.0;0;0
+3;65;https://www.udemy.com/abap-debugger/;suitable;1.0;0.05555555555555555;7.0;0;0
+3;66;https://www.udemy.com/abap-debugger/;conditional stops;2.0;0.05555555555555555;7.0;0;0
+3;66;https://www.udemy.com/abap-debugger/;set watchpoints;2.0;0.05555555555555555;7.0;0;0
+3;67;https://www.udemy.com/abap-debugger/;retrieved;1.0;0.05555555555555555;7.0;0;0
+3;67;https://www.udemy.com/abap-debugger/;work;1.0;0.05555555555555555;7.0;0;0
+3;67;https://www.udemy.com/abap-debugger/;advanced concepts;2.0;0.05555555555555555;7.0;0;0
+3;67;https://www.udemy.com/abap-debugger/;anytime;1.0;0.05555555555555555;7.0;0;0
+3;67;https://www.udemy.com/abap-debugger/;saving breakpoint;2.0;0.05555555555555555;7.0;0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;code;1.0;0.03225806451612903;7.0;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;debugger;1.0;0.03225806451612903;7.0;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;track;1.0;0.03225806451612903;7.0;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;abap programmers;2.0;0.03225806451612903;7.0;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;writing;1.0;0.03225806451612903;7.0;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;wonderful tool;2.0;0.03225806451612903;7.0;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;program;1.0;0.03225806451612903;2.3333333333333335;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;understand;1.0;0.03225806451612903;3.5;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;logic;1.0;0.0;7.0;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;programmer;1.0;0.03225806451612903;7.0;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;piece;1.0;0.03225806451612903;7.0;1.0;0
+3;71;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;issue;1.0;0.03225806451612903;7.0;1.0;0
+3;72;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;open debugger;2.0;0.03225806451612903;7.0;0.7071067811865475;0
+3;72;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;start;1.0;0.03225806451612903;7.0;0.7071067811865475;0
+3;72;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;setting breakpoints;2.0;0.03225806451612903;7.0;0.7071067811865475;0
+3;72;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;abap editor;2.0;0.03225806451612903;7.0;0.7071067811865475;0
+3;73;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;types;1.0;0.03225806451612903;1.4;0;0
+3;73;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;break points;2.0;0.03225806451612903;7.0;0;0
+3;74;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;session break point;3.0;0.03225806451612903;7.0;0;0
+3;74;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;external break point;3.0;0.03225806451612903;7.0;0;0
+3;75;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;case;1.0;0.03225806451612903;7.0;0.0;0
+3;75;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;sap netweaver platform;3.0;0.03225806451612903;7.0;0.0;0
+3;75;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;assistance;1.0;0.03225806451612903;7.0;0.0;0
+3;75;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;contact;1.0;0.03225806451612903;7.0;0.0;0
+3;76;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;assist;1.0;0.03225806451612903;7.0;0.0;0
+3;76;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;send;1.0;0.03225806451612903;7.0;0.0;0
+3;76;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;comments;1.0;0.03225806451612903;7.0;0.0;0
+3;76;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;questions;1.0;0.03225806451612903;7.0;0.0;0
+3;76;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;team;1.0;0.03225806451612903;7.0;0.0;0
+3;76;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;assistance request;2.0;0.03225806451612903;7.0;0.0;0
+3;76;http://www.apprisia.com/blog/sap-abap/your-complete-guide-to-using-debugger-in-abap-step-by-step-with-screenshots/;glad;1.0;0.03225806451612903;7.0;0.0;0
+3;77;https://www.techopedia.com/definition/28719/debugging-in-sap;sap abap debuggers;3.0;0.14285714285714285;7.0;0;0
+3;77;https://www.techopedia.com/definition/28719/debugging-in-sap;types;1.0;0.14285714285714285;1.4;0;0
+3;78;https://www.techopedia.com/definition/28719/debugging-in-sap;classical debugger;2.0;0.14285714285714285;7.0;0;0
+3;78;https://www.techopedia.com/definition/28719/debugging-in-sap;releases;1.0;0.2857142857142857;7.0;0;0
+3;79;https://www.techopedia.com/definition/28719/debugging-in-sap;provided;1.0;0.14285714285714285;7.0;0;0
+3;79;https://www.techopedia.com/definition/28719/debugging-in-sap;abap debugger;2.0;0.14285714285714285;2.3333333333333335;0;0
+3;80;https://www.techopedia.com/definition/28719/debugging-in-sap;releases;1.0;0.2857142857142857;7.0;0;0
+3;89;http://sap.walkme.com/debugging-sap-abap-everything-need-know/;debugging;1.0;0.1111111111111111;3.5;0.0;0
+3;89;http://sap.walkme.com/debugging-sap-abap-everything-need-know/;2 types;0.5;0.1111111111111111;7.0;0.0;0
+3;89;http://sap.walkme.com/debugging-sap-abap-everything-need-know/;programmers;1.0;0.0;7.0;0.0;0
+3;89;http://sap.walkme.com/debugging-sap-abap-everything-need-know/;sap abap;2.0;0.1111111111111111;3.5;0.0;0
+3;89;http://sap.walkme.com/debugging-sap-abap-everything-need-know/;carry;1.0;0.1111111111111111;7.0;0.0;0
+3;89;http://sap.walkme.com/debugging-sap-abap-everything-need-know/;strategies;1.0;0.1111111111111111;7.0;0.0;0
+3;90;http://sap.walkme.com/debugging-sap-abap-everything-need-know/;running;1.0;0.1111111111111111;7.0;0.0;0
+3;90;http://sap.walkme.com/debugging-sap-abap-everything-need-know/;program;1.0;0.1111111111111111;2.3333333333333335;0.0;0
+3;90;http://sap.walkme.com/debugging-sap-abap-everything-need-know/;debug mode;2.0;0.1111111111111111;7.0;0.0;0
+4;1;https://en.wikipedia.org/wiki/Debugger;debuggers;1.0;0.14285714285714285;7.0;0;1
+4;1;https://en.wikipedia.org/wiki/Debugger;widely;1.0;0.14285714285714285;7.0;0;1
+4;2;https://en.wikipedia.org/wiki/Debugger;firefox javascript debugger;3.0;0.14285714285714285;7.0;0;1
+4;3;https://en.wikipedia.org/wiki/Debugger;gdb _;2.0;0.0;7.0;0.0;1
+4;3;https://en.wikipedia.org/wiki/Debugger;gnu debugger;2.0;0.14285714285714285;7.0;0.0;1
+4;4;https://en.wikipedia.org/wiki/Debugger;lldb;1.0;0.0;7.0;0;1
+4;6;https://en.wikipedia.org/wiki/Debugger;valgrind;1.0;0.0;7.0;0;1
+4;7;https://en.wikipedia.org/wiki/Debugger;windbg;1.0;0.0;7.0;0;1
+4;8;https://en.wikipedia.org/wiki/Debugger;eclipse debugger api;3.0;0.14285714285714285;7.0;1.0;1
+4;8;https://en.wikipedia.org/wiki/Debugger;range;1.0;0.14285714285714285;7.0;1.0;1
+4;8;https://en.wikipedia.org/wiki/Debugger;ides;1.0;0.14285714285714285;7.0;1.0;1
+4;9;https://en.wikipedia.org/wiki/Debugger;eclipse ide nodeclipse;3.0;0.14285714285714285;7.0;0;1
+4;10;https://en.wikipedia.org/wiki/Debugger;openwatcom debugger;2.0;0.14285714285714285;7.0;0;1
+4;10;https://en.wikipedia.org/wiki/Debugger;wdw;1.0;0.0;7.0;0;1
+4;13;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;technical information;2.0;0.030303030303030304;7.0;0.0;0
+4;13;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;debugging provide;2.0;0.030303030303030304;7.0;0.0;0
+4;13;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;types;1.0;0.030303030303030304;3.5;0.0;0
+4;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;opening;1.0;0.030303030303030304;7.0;0.7071067811865475;0
+4;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;online search;2.0;0.030303030303030304;7.0;0.7071067811865475;0
+4;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;solution;1.0;0.030303030303030304;7.0;0.7071067811865475;0
+4;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;provide additional information;3.0;0.030303030303030304;7.0;0.7071067811865475;0
+4;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;customer support;2.0;0.030303030303030304;7.0;0.7071067811865475;0
+4;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;problem;1.0;0.030303030303030304;7.0;0.7071067811865475;0
+4;14;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;ticket;1.0;0.030303030303030304;7.0;0.7071067811865475;0
+4;15;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;javascript console;2.0;0.06060606060606061;7.0;0;0
+4;15;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;javascript debugging;2.0;0.030303030303030304;7.0;0;0
+4;15;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;built_in developer tools;3.0;0.030303030303030304;7.0;0;0
+4;15;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;specifically;1.0;0.0;7.0;0;0
+4;15;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;browser;1.0;0.030303030303030304;7.0;0;0
+4;16;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;javascript console;2.0;0.06060606060606061;7.0;0.0;0
+4;16;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;today;1.0;0.030303030303030304;7.0;0.0;0
+4;17;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;chrome;1.0;0.030303030303030304;7.0;0.0;0
+4;17;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;tools_ developer tools;3.0;0.030303030303030304;7.0;0.0;0
+4;17;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;main menu button_;3.0;0.030303030303030304;7.0;0.0;0
+4;17;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;7.0;0.0;0
+4;18;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;console tab;2.0;0.09090909090909091;7.0;0;0
+4;18;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;select;1.0;0.09090909090909091;7.0;0;0
+4;19;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;firefox;1.0;0.0;7.0;0;0
+4;19;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;7.0;0;0
+4;20;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;internet explorer;2.0;0.030303030303030304;7.0;0;0
+4;20;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;7.0;0;0
+4;21;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;console tab;2.0;0.09090909090909091;7.0;0;0
+4;21;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;select;1.0;0.09090909090909091;7.0;0;0
+4;22;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;edge;1.0;0.030303030303030304;7.0;0;0
+4;22;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;click;1.0;0.12121212121212122;7.0;0;0
+4;23;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;console tab;2.0;0.09090909090909091;7.0;0;0
+4;23;https://wp-types.com/documentation/programmer-reference/debugging-sites-built-with-toolset/;select;1.0;0.09090909090909091;7.0;0;0
+4;24;https://en.wikipedia.org/wiki/Debugger;debuggers;1.0;0.14285714285714285;7.0;0;0
+4;24;https://en.wikipedia.org/wiki/Debugger;widely;1.0;0.14285714285714285;7.0;0;0
+4;25;https://en.wikipedia.org/wiki/Debugger;firefox javascript debugger;3.0;0.14285714285714285;7.0;0;0
+4;26;https://en.wikipedia.org/wiki/Debugger;gdb _;2.0;0.0;7.0;0.0;0
+4;26;https://en.wikipedia.org/wiki/Debugger;gnu debugger;2.0;0.14285714285714285;7.0;0.0;0
+4;27;https://en.wikipedia.org/wiki/Debugger;lldb;1.0;0.0;7.0;0;0
+4;29;https://en.wikipedia.org/wiki/Debugger;valgrind;1.0;0.0;7.0;0;0
+4;30;https://en.wikipedia.org/wiki/Debugger;windbg;1.0;0.0;7.0;0;0
+4;31;https://en.wikipedia.org/wiki/Debugger;eclipse debugger api;3.0;0.14285714285714285;7.0;1.0;0
+4;31;https://en.wikipedia.org/wiki/Debugger;range;1.0;0.14285714285714285;7.0;1.0;0
+4;31;https://en.wikipedia.org/wiki/Debugger;ides;1.0;0.14285714285714285;7.0;1.0;0
+4;32;https://en.wikipedia.org/wiki/Debugger;eclipse ide nodeclipse;3.0;0.14285714285714285;7.0;0;0
+4;33;https://en.wikipedia.org/wiki/Debugger;openwatcom debugger;2.0;0.14285714285714285;7.0;0;0
+4;33;https://en.wikipedia.org/wiki/Debugger;wdw;1.0;0.0;7.0;0;0
+4;36;https://en.wikipedia.org/wiki/List_of_debuggers;eclipse perspectives;2.0;0.020833333333333332;7.0;0.0;0
+4;36;https://en.wikipedia.org/wiki/List_of_debuggers;java development tools;3.0;0.020833333333333332;7.0;0.0;0
+4;36;https://en.wikipedia.org/wiki/List_of_debuggers;debugger front_end;2.0;0.020833333333333332;7.0;0.0;0
+4;36;https://en.wikipedia.org/wiki/List_of_debuggers;1  provide;0.3333333333333333;0.020833333333333332;7.0;0.0;0
+4;37;https://en.wikipedia.org/wiki/List_of_debuggers;allinea ddt _;3.0;0.020833333333333332;7.0;0.0;0
+4;37;https://en.wikipedia.org/wiki/List_of_debuggers;graphical debugger supporting;3.0;0.020833333333333332;7.0;0.0;0
+4;37;https://en.wikipedia.org/wiki/List_of_debuggers;parallel multi_process;2.0;0.020833333333333332;7.0;0.0;0
+4;37;https://en.wikipedia.org/wiki/List_of_debuggers;multithreaded applications;2.0;0.020833333333333332;7.0;0.0;0
+4;38;https://en.wikipedia.org/wiki/List_of_debuggers;common debuggers natively;3.0;0.020833333333333332;7.0;0.0;0
+4;38;https://en.wikipedia.org/wiki/List_of_debuggers;complex tool;2.0;0.020833333333333332;7.0;0.0;0
+4;38;https://en.wikipedia.org/wiki/List_of_debuggers;gnu project;2.0;0.020833333333333332;7.0;0.0;0
+4;38;https://en.wikipedia.org/wiki/List_of_debuggers;standard front_end;2.0;0.020833333333333332;7.0;0.0;0
+4;38;https://en.wikipedia.org/wiki/List_of_debuggers;external programs;2.0;0.020833333333333332;7.0;0.0;0
+4;38;https://en.wikipedia.org/wiki/List_of_debuggers;works;1.0;0.020833333333333332;7.0;0.0;0
+4;38;https://en.wikipedia.org/wiki/List_of_debuggers;ddd;1.0;0.0;7.0;0.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;modified version;1.75;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;cdb;1.0;0.0;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.66666666667;0.0;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;fortran ide;1.75;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;supporting reproduction;2.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;gdb  codelite;1.0555555555566667;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;debugger;2.0;0.020833333333333332;3.5;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;open source;2.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;frontend  kdbg   part;1.4166666666666667;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;integrates;1.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;slickedit;1.0;0.0;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;ddt;1.0;0.0;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;version;1.5;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;gnu debugger acts;2.6666666666666665;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;codelite;1.5;0.0;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;program state;2.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;mozilla;1.0;0.0;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;gdb frontend;2.083333333335;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;lldb  allinea;1.3333333333333333;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;free cross_platform;2.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;lldb codeblocks;2.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;gdb  xcode;1.2222222222233332;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;built_in support;2.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;parallel;1.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;gdb  rr;1.2222222222233332;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;reverse execution;2.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;include;1.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;front end;2.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;eclipse;1.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;distributed front_end;2.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;cross platform;2.0;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;ide;1.5;0.020833333333333332;7.0;1.0;0
+4;39;https://en.wikipedia.org/wiki/List_of_debuggers;gdb front_end;1.833333333335;0.020833333333333332;7.0;1.0;0
+4;42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sound;1.0;0.08823529411764706;7.0;0.0;0
+4;42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;emerging field;2.0;0.029411764705882353;7.0;0.0;0
+4;42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;auditory display;2.0;0.029411764705882353;7.0;0.0;0
+4;42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;convey;1.0;0.029411764705882353;7.0;0.0;0
+4;42;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;detailed information;2.0;0.029411764705882353;7.0;0.0;0
+4;43;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sound;1.0;0.08823529411764706;7.0;0.0;0
+4;43;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;audification;1.0;0.0;7.0;0.0;0
+4;43;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;process called  sonification;2.25;0.029411764705882353;7.0;0.0;0
+4;43;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;debugging purposes;2.0;0.029411764705882353;7.0;0.0;0
+4;44;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;process;1.0;0.029411764705882353;7.0;0.0;0
+4;44;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sound;1.0;0.08823529411764706;7.0;0.0;0
+4;44;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;language;1.0;0.0;7.0;0.0;0
+4;44;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;created;1.0;0.029411764705882353;7.0;0.0;0
+4;45;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;variable   5;0.25;0.029411764705882353;7.0;0.0;0
+4;45;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;generating;1.0;0.029411764705882353;7.0;0.0;0
+4;45;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;bidirectional communications;2.0;0.029411764705882353;7.0;0.0;0
+4;45;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;notes;1.0;0.029411764705882353;7.0;0.0;0
+4;45;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;programs;1.0;0.029411764705882353;7.0;0.0;0
+4;46;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;notes conveys;2.0;0.029411764705882353;7.0;0.0;0
+4;46;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;relative sizes;2.0;0.029411764705882353;7.0;0.0;0
+4;46;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;payloads;1.0;0.0;7.0;0.0;0
+4;46;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;rhythm;1.0;0.058823529411764705;7.0;0.0;0
+4;46;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;message;1.0;0.029411764705882353;7.0;0.0;0
+4;46;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;communications occur;2.0;0.029411764705882353;7.0;0.0;0
+4;47;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;case;1.0;0.029411764705882353;7.0;0.0;0
+4;47;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;music;1.0;0.029411764705882353;7.0;0.0;0
+4;47;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;rhythm;1.0;0.058823529411764705;7.0;0.0;0
+4;47;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;innate tools;2.0;0.029411764705882353;7.0;0.0;0
+4;47;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;avoid sifting;2.0;0.029411764705882353;7.0;0.0;0
+4;47;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;pages;1.0;0.029411764705882353;7.0;0.0;0
+4;47;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;interprocessor messaging;2.0;0.029411764705882353;7.0;0.0;0
+4;48;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;sonic grammar;2.0;0.029411764705882353;7.0;0.0;0
+4;48;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;termed  earcons;1.3333333333333333;0.029411764705882353;7.0;0.0;0
+4;48;http://www.simoneconcepts.com/solvingproblems/typesofdebugging.html;detailed examples;2.0;0.029411764705882353;7.0;0.0;0
+4;50;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;test process activities;2.8333333333333335;0.038461538461538464;7.0;0;0
+4;50;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;types;1.0;0.038461538461538464;3.5;0;0
+4;50;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;classification;1.0;0.0;7.0;0;0
+4;50;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;test tools;2.25;0.038461538461538464;7.0;0;0
+4;51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;support management activities;2.8333333333333335;0.038461538461538464;7.0;0.7071067811865475;0
+4;51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;set;1.0;0.038461538461538464;7.0;0.7071067811865475;0
+4;51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;support static testing;2.8333333333333335;0.038461538461538464;7.0;0.7071067811865475;0
+4;51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;supported;1.0;0.038461538461538464;7.0;0.7071067811865475;0
+4;51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;testing activities;2.5;0.038461538461538464;7.0;0.7071067811865475;0
+4;51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;grouped;1.0;0.038461538461538464;7.0;0.7071067811865475;0
+4;51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;tools;1.0;0.038461538461538464;3.5;0.7071067811865475;0
+4;51;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;areas;1.0;0.038461538461538464;7.0;0.7071067811865475;0
+4;52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;debugging tool;2.0;0.038461538461538464;7.0;0.0;0
+4;52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;defect;1.0;0.038461538461538464;7.0;0.0;0
+4;52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;probe effect;2.0;0.038461538461538464;7.0;0.0;0
+4;52;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;find;1.0;0.07692307692307693;7.0;0.0;0
+4;53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;code;1.0;0.038461538461538464;7.0;0.0;0
+4;53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;run;1.0;0.038461538461538464;7.0;0.0;0
+4;53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;debugger;1.0;0.038461538461538464;3.5;0.0;0
+4;53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;re_appears;1.0;0.038461538461538464;7.0;0.0;0
+4;53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;turned;1.0;0.038461538461538464;7.0;0.0;0
+4;53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;bug disappears;2.0;0.038461538461538464;7.0;0.0;0
+4;53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;making;1.0;0.038461538461538464;7.0;0.0;0
+4;53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;find;1.0;0.07692307692307693;7.0;0.0;0
+4;53;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;difficult;1.0;0.038461538461538464;7.0;0.0;0
+4;54;http://istqbexamcertification.com/what-are-the-different-types-of-software-testing-tools/;heizenbugs;1.0;0.0;7.0;0;0
+4;55;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging;1.0;0.10526315789473684;7.0;0;0
+4;55;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;tools;1.0;0.05263157894736842;3.5;0;0
+4;56;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;supplemented;1.0;0.0;7.0;0;0
+4;56;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging approaches;2.0;0.05263157894736842;7.0;0;0
+4;56;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging tools;2.0;0.10526315789473684;7.0;0;0
+4;57;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging;2.0;0.10526315789473684;7.0;0.7071067811865475;0
+4;57;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;apply wide variety;3.0;0.05263157894736842;7.0;0.7071067811865475;0
+4;57;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;memory dumps;2.0;0.05263157894736842;7.0;0.7071067811865475;0
+4;57;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging compilers;2.0;0.05263157894736842;7.0;0.7071067811865475;0
+4;57;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;dynamic debugging aids;2.6666666666666665;0.05263157894736842;7.0;0.7071067811865475;0
+4;57;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;cross reference maps;3.0;0.05263157894736842;7.0;0.7071067811865475;0
+4;57;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;debugging tools;2.0;0.10526315789473684;7.0;0.7071067811865475;0
+4;58;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;market;1.0;0.05263157894736842;7.0;0;0
+4;58;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;main debugging tools;3.0;0.05263157894736842;7.0;0;0
+4;59;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;information;1.0;0.0;7.0;1.0;0
+4;59;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;tool vendors;2.0;0.05263157894736842;7.0;1.0;0
+4;59;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;based;1.0;0.05263157894736842;7.0;1.0;0
+4;59;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;details;1.0;0.05263157894736842;7.0;1.0;0
+4;59;http://www.softwaretestinggenius.com/what-are-the-different-approaches-to-debug-the-software-applications;respective web_sites;2.0;0.05263157894736842;7.0;1.0;0
+5;1;https://msdn.microsoft.com/en-us/library/ms228091.aspx;errors;1.0;0.0625;45.0;0.7071067811865475;0
+5;1;https://msdn.microsoft.com/en-us/library/ms228091.aspx;application code;2.0;0.0625;45.0;0.7071067811865475;0
+5;1;https://msdn.microsoft.com/en-us/library/ms228091.aspx;types;1.0;0.125;22.5;0.7071067811865475;0
+5;1;https://msdn.microsoft.com/en-us/library/ms228091.aspx;bugs;1.0;0.0625;33.75;0.7071067811865475;0
+5;2;https://msdn.microsoft.com/en-us/library/ms228091.aspx;caught;1.0;0.0625;45.0;0.0;0
+5;2;https://msdn.microsoft.com/en-us/library/ms228091.aspx;syntax errors;2.0;0.0625;45.0;0.0;0
+5;2;https://msdn.microsoft.com/en-us/library/ms228091.aspx;compilation;1.0;0.0;135.0;0.0;0
+5;3;https://msdn.microsoft.com/en-us/library/ms228091.aspx;code;1.0;0.0625;22.5;0.0;0
+5;3;https://msdn.microsoft.com/en-us/library/ms228091.aspx;errors require;2.0;0.0625;45.0;0.0;0
+5;3;https://msdn.microsoft.com/en-us/library/ms228091.aspx;examine;1.0;0.0625;45.0;0.0;0
+5;3;https://msdn.microsoft.com/en-us/library/ms228091.aspx;running;1.0;0.0625;45.0;0.0;0
+5;3;https://msdn.microsoft.com/en-us/library/ms228091.aspx;execution path;2.0;0.0625;45.0;0.0;0
+5;3;https://msdn.microsoft.com/en-us/library/ms228091.aspx;debug;1.0;0.0625;22.5;0.0;0
+5;3;https://msdn.microsoft.com/en-us/library/ms228091.aspx;validate;1.0;0.0625;45.0;0.0;0
+5;3;https://msdn.microsoft.com/en-us/library/ms228091.aspx;data;1.0;0.0625;45.0;0.0;0
+5;3;https://msdn.microsoft.com/en-us/library/ms228091.aspx;types;1.0;0.125;22.5;0.0;0
+5;4;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;summary;1.0;0.0;45.0;0;0
+5;5;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;improved features;2.0;0.0;67.5;0;0
+5;5;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;microsoft  visual studio;2.25;0.0;67.5;0;0
+5;5;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;paper describes;2.0;0.0;67.5;0;0
+5;6;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;generation;1.0;0.0;67.5;0.0;0
+5;6;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debugging multiple processes;2.8333333333333335;0.0;67.5;0.0;0
+5;6;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;applications;1.0;0.0;135.0;0.0;0
+5;6;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;net debugger;2.0;0.0;67.5;0.0;0
+5;6;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;minidumps;1.0;0.0;135.0;0.0;0
+5;6;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;cross_language debugging;2.25;0.0;67.5;0.0;0
+5;6;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;machines;1.0;0.0;67.5;0.0;0
+5;8;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;step;1.0;0.0;67.5;0.7071067811865475;0
+5;8;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;code;1.0;0.0;19.285714285714285;0.7071067811865475;0
+5;9;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;vice versa;2.0;0.0;67.5;0;0
+5;9;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;net framework language;3.0;0.0;67.5;0;0
+5;10;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;code written;2.0;0.0;67.5;0;0
+5;11;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;net_based applications;2.0;0.0;67.5;0.7071067811865475;0
+5;11;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;code;1.0;0.0;19.285714285714285;0.7071067811865475;0
+5;11;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;work;1.0;0.0;67.5;0.7071067811865475;0
+5;11;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;managed extensions;2.0;0.0;45.0;0.7071067811865475;0
+5;11;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;interoperability;1.0;0.0;135.0;0.7071067811865475;0
+5;11;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;platform invoke;2.0;0.0;67.5;0.7071067811865475;0
+5;12;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debugger;1.0;0.0;45.0;1.0;0
+5;12;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;language;1.0;0.0;135.0;1.0;0
+5;12;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;seamlessly step;2.0;0.0;67.5;1.0;0
+5;12;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;components;1.0;0.0;67.5;1.0;0
+5;12;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;single callstack showing;3.0;0.0;67.5;1.0;0
+5;12;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debug;1.0;0.0;19.285714285714285;1.0;0
+5;13;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;launching project settings;3.0;0.0;67.5;0.0;0
+5;13;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;enable debugging;2.0;0.0;67.5;0.0;0
+5;13;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;option;1.0;0.0;33.75;0.0;0
+5;13;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;change;1.0;0.0;45.0;0.0;0
+5;13;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;code running natively;3.0;0.0;67.5;0.0;0
+5;14;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;locate;1.0;0.0;135.0;0;0
+5;14;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;startup project;2.0;0.0;45.0;0;0
+5;14;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;solution explorer;2.0;0.0;67.5;0;0
+5;15;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;project;1.0;0.0;33.75;0.0;0
+5;15;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;press f5;2.0;0.0;67.5;0.0;0
+5;15;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;launched;1.0;0.0;135.0;0.0;0
+5;16;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debugging;1.0;0.0;22.5;0;0
+5;16;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;configured;1.0;0.0;67.5;0;0
+5;16;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;native code;2.0;0.0;45.0;0;0
+5;16;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debug;1.0;0.0;19.285714285714285;0;0
+5;16;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;runtime code;2.0;0.0;67.5;0;0
+5;16;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;support;1.0;0.0;67.5;0;0
+5;16;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;types;1.0;0.0;16.875;0;0
+5;16;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;startup project;2.0;0.0;45.0;0;0
+5;17;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;project properties;2.0;0.0;67.5;0;0
+5;17;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debugging folder;2.0;0.0;67.5;0;0
+5;17;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;open;1.0;0.0;67.5;0;0
+5;17;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;select;1.0;0.0;45.0;0;0
+5;17;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;configuration properties;2.0;0.0;67.5;0;0
+5;18;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;visual basic;2.0;0.0;45.0;0;0
+5;19;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;net;1.0;0.0;33.75;0;0
+5;19;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;visual;1.0;0.0;33.75;0;0
+5;19;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;projects;1.0;0.0;45.0;0;0
+5;20;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;make;1.0;0.0;67.5;0;0
+5;20;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;selected;1.0;0.0;45.0;0;0
+5;21;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;checkbox;1.0;0.0;135.0;0.0;0
+5;21;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;visual basic;2.0;0.0;45.0;0.0;0
+5;21;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;selected;1.0;0.0;45.0;0.0;0
+5;21;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;option;1.0;0.0;33.75;0.0;0
+5;22;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;drop_down list option;3.0;0.0;67.5;0;0
+5;22;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;visual;1.0;0.0;33.75;0;0
+5;23;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;visual;1.0;0.0;33.75;0;0
+5;23;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;projects;1.0;0.0;45.0;0;0
+5;24;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;mixed;1.0;0.0;67.5;1.0;0
+5;24;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debugger type;2.0;0.0;67.5;1.0;0
+5;24;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;change;1.0;0.0;45.0;1.0;0
+5;25;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;note;1.0;0.0;67.5;0.0;0
+5;25;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;explanation;1.0;0.0;135.0;0.0;0
+5;25;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;requires;1.0;0.0;67.5;0.0;0
+5;25;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;option;1.5;0.0;33.75;0.0;0
+5;25;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;auto option;1.75;0.0;67.5;0.0;0
+5;26;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;examines;1.0;0.0;67.5;1.0;0
+5;26;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;executable file;2.0;0.0;67.5;1.0;0
+5;26;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;application;1.0;0.0;135.0;1.0;0
+5;26;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;attempts;1.0;0.0;67.5;1.0;0
+5;26;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;call;1.0;0.0;67.5;1.0;0
+5;26;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;determine;1.0;0.0;67.5;1.0;0
+5;26;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;managed code;2.0;0.0;67.5;1.0;0
+5;26;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;native;1.0;0.0;67.5;1.0;0
+5;27;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debugging;1.0;0.0;22.5;1.0;0
+5;27;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;based;1.0;0.0;67.5;1.0;0
+5;27;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;results;1.0;0.0;67.5;1.0;0
+5;27;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;analysis;1.0;0.0;67.5;1.0;0
+5;27;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debuggers;1.0;0.0;67.5;1.0;0
+5;28;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;detected;1.0;0.0;67.5;1.0;0
+5;28;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;managed extensions;2.0;0.0;45.0;1.0;0
+5;28;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;project;1.0;0.0;33.75;1.0;0
+5;28;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;written;1.0;0.0;67.5;1.0;0
+5;28;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;native code;2.0;0.0;45.0;1.0;0
+5;28;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debug;1.0;0.0;19.285714285714285;1.0;0
+5;28;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;approach;1.0;0.0;67.5;1.0;0
+5;28;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;disadvantage;1.0;0.0;135.0;1.0;0
+5;29;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;directly control;2.0;0.0;67.5;0.0;0
+5;29;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;debugging options;2.0;0.0;67.5;0.0;0
+5;29;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;setting mixed;2.0;0.0;67.5;0.0;0
+5;29;https://msdn.microsoft.com/en-us/library/aa290350(v%3Dvs.71).aspx;developer;1.0;0.0;67.5;0.0;0
+5;30;https://msdn.microsoft.com/en-us/library/ms227556.aspx;errors;1.0;0.05555555555555555;67.5;0.7071067811865475;0
+5;30;https://msdn.microsoft.com/en-us/library/ms227556.aspx;application code;2.0;0.05555555555555555;67.5;0.7071067811865475;0
+5;30;https://msdn.microsoft.com/en-us/library/ms227556.aspx;types;1.0;0.1111111111111111;33.75;0.7071067811865475;0
+5;30;https://msdn.microsoft.com/en-us/library/ms227556.aspx;bugs;1.0;0.05555555555555555;45.0;0.7071067811865475;0
+5;31;https://msdn.microsoft.com/en-us/library/ms227556.aspx;caught;1.0;0.05555555555555555;67.5;0.0;0
+5;31;https://msdn.microsoft.com/en-us/library/ms227556.aspx;syntax errors;2.0;0.05555555555555555;67.5;0.0;0
+5;31;https://msdn.microsoft.com/en-us/library/ms227556.aspx;compilation;1.0;0.0;135.0;0.0;0
+5;32;https://msdn.microsoft.com/en-us/library/ms227556.aspx;code;1.0;0.05555555555555555;27.0;0.0;0
+5;32;https://msdn.microsoft.com/en-us/library/ms227556.aspx;errors require;2.0;0.05555555555555555;67.5;0.0;0
+5;32;https://msdn.microsoft.com/en-us/library/ms227556.aspx;examine;1.0;0.05555555555555555;67.5;0.0;0
+5;32;https://msdn.microsoft.com/en-us/library/ms227556.aspx;running;1.0;0.05555555555555555;67.5;0.0;0
+5;32;https://msdn.microsoft.com/en-us/library/ms227556.aspx;execution path;2.0;0.05555555555555555;67.5;0.0;0
+5;32;https://msdn.microsoft.com/en-us/library/ms227556.aspx;debug;1.0;0.05555555555555555;27.0;0.0;0
+5;32;https://msdn.microsoft.com/en-us/library/ms227556.aspx;validate;1.0;0.05555555555555555;67.5;0.0;0
+5;32;https://msdn.microsoft.com/en-us/library/ms227556.aspx;data;1.0;0.05555555555555555;67.5;0.0;0
+5;32;https://msdn.microsoft.com/en-us/library/ms227556.aspx;types;1.0;0.1111111111111111;33.75;0.0;0
+5;33;https://msdn.microsoft.com/en-us/library/ms227556.aspx;errors;1.0;0.05555555555555555;67.5;0.7071067811865475;0
+5;33;https://msdn.microsoft.com/en-us/library/ms227556.aspx;application code;2.0;0.05555555555555555;67.5;0.7071067811865475;0
+5;33;https://msdn.microsoft.com/en-us/library/ms227556.aspx;types;1.0;0.1111111111111111;33.75;0.7071067811865475;0
+5;33;https://msdn.microsoft.com/en-us/library/ms227556.aspx;bugs;1.0;0.05555555555555555;45.0;0.7071067811865475;0
+5;34;https://msdn.microsoft.com/en-us/library/ms227556.aspx;caught;1.0;0.05555555555555555;67.5;0.0;0
+5;34;https://msdn.microsoft.com/en-us/library/ms227556.aspx;syntax errors;2.0;0.05555555555555555;67.5;0.0;0
+5;34;https://msdn.microsoft.com/en-us/library/ms227556.aspx;compilation;1.0;0.0;135.0;0.0;0
+5;35;https://msdn.microsoft.com/en-us/library/ms227556.aspx;code;1.0;0.05555555555555555;27.0;0.0;0
+5;35;https://msdn.microsoft.com/en-us/library/ms227556.aspx;errors require;2.0;0.05555555555555555;67.5;0.0;0
+5;35;https://msdn.microsoft.com/en-us/library/ms227556.aspx;examine;1.0;0.05555555555555555;67.5;0.0;0
+5;35;https://msdn.microsoft.com/en-us/library/ms227556.aspx;running;1.0;0.05555555555555555;67.5;0.0;0
+5;35;https://msdn.microsoft.com/en-us/library/ms227556.aspx;execution path;2.0;0.05555555555555555;67.5;0.0;0
+5;35;https://msdn.microsoft.com/en-us/library/ms227556.aspx;debug;1.0;0.05555555555555555;27.0;0.0;0
+5;35;https://msdn.microsoft.com/en-us/library/ms227556.aspx;validate;1.0;0.05555555555555555;67.5;0.0;0
+5;35;https://msdn.microsoft.com/en-us/library/ms227556.aspx;data;1.0;0.05555555555555555;67.5;0.0;0
+5;35;https://msdn.microsoft.com/en-us/library/ms227556.aspx;types;1.0;0.1111111111111111;33.75;0.0;0
+5;36;https://msdn.microsoft.com/en-us/library/ms227556.aspx;information;1.0;0.0;135.0;0.0;0
+5;36;https://msdn.microsoft.com/en-us/library/ms227556.aspx;tracing;1.0;0.027777777777777776;135.0;0.0;0
+5;36;https://msdn.microsoft.com/en-us/library/ms227556.aspx;profiling;1.0;0.027777777777777776;135.0;0.0;0
+5;36;https://msdn.microsoft.com/en-us/library/ms227556.aspx;debugging;1.0;0.027777777777777776;27.0;0.0;0
+5;37;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;summary;1.0;0.0;45.0;0;0
+5;38;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;debugging;1.0;0.0;22.5;0;0
+5;38;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;debug windows;2.0;0.0;67.5;0;0
+5;38;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;command;1.0;0.0;67.5;0;0
+5;38;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;debug applications;2.0;0.0;45.0;0;0
+5;38;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;learn creative ways;3.0;0.0;67.5;0;0
+5;38;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;making;1.0;0.0;67.5;0;0
+5;38;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;output windows;2.0;0.0;67.5;0;0
+5;39;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;debugging;1.0;0.0;22.5;0;0
+5;40;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;net;1.0;0.0;33.75;0.0;0
+5;40;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;developers work;2.0;0.0;67.5;0.0;0
+5;40;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;debug applications;2.0;0.0;45.0;0.0;0
+5;41;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;vb 6 environment;1.3333333333333333;0.0;67.5;0;0
+5;41;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;part;1.0;0.0;67.5;0;0
+5;41;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;change results;2.0;0.0;67.5;0;0
+5;41;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;migration;1.0;0.0;67.5;0;0
+5;42;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;net environment;2.0;0.0;67.5;0;0
+5;43;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;begin;1.0;0.0;67.5;0;0
+5;44;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;selecting;1.5;0.0;67.5;0;0
+5;44;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;project button;1.75;0.0;67.5;0;0
+5;44;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;start page;2.0;0.0;67.5;0;0
+5;44;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;project;1.5;0.0;33.75;0;0
+5;44;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;main menu;2.0;0.0;67.5;0;0
+5;44;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;net;1.0;0.0;33.75;0;0
+5;44;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;selecting file;1.75;0.0;67.5;0;0
+5;45;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;project type;2.0;0.0;67.5;0;0
+5;45;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;template;1.0;0.0;67.5;0;0
+5;45;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;windows application;2.0;0.0;67.5;0;0
+5;47;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;project location;2.0;0.0;67.5;0;0
+5;47;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;suitable folder;2.0;0.0;67.5;0;0
+5;47;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;click;1.0;0.0;67.5;0;0
+5;47;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;select;1.0;0.0;45.0;0;0
+5;47;https://msdn.microsoft.com/en-us/library/aa290042(v%3Dvs.71).aspx;button;1.0;0.0;67.5;0;0
+5;50;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;tool;1.0;0.041666666666666664;135.0;0.0;0
+5;50;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;wierd behavior;2.0;0.041666666666666664;135.0;0.0;0
+5;50;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;debugger;1.0;0.041666666666666664;67.5;0.0;0
+5;50;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;analyzing crashes;2.0;0.041666666666666664;135.0;0.0;0
+5;51;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;prevented;1.0;0.041666666666666664;135.0;0;0
+5;51;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;behaves;1.0;0.041666666666666664;135.0;0;0
+5;51;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;bugs;1.0;0.041666666666666664;33.75;0;0
+5;51;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;checking;1.0;0.041666666666666664;135.0;0;0
+5;51;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;freshly written function;3.0;0.041666666666666664;135.0;0;0
+5;51;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;stepping;1.0;0.041666666666666664;135.0;0;0
+5;51;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;expected;1.0;0.041666666666666664;135.0;0;0
+5;52;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;curious;1.0;0.041666666666666664;135.0;0.0;0
+5;52;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;true;1.0;0.041666666666666664;135.0;0.0;0
+5;52;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;condition;1.0;0.041666666666666664;135.0;0.0;0
+5;52;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;function behave correctly;3.0;0.041666666666666664;135.0;0.0;0
+5;53;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;changing;1.0;0.041666666666666664;135.0;0.0;0
+5;53;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;cases;1.0;0.041666666666666664;135.0;0.0;0
+5;53;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;code;1.0;0.041666666666666664;22.5;0.0;0
+5;53;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;restarting;1.0;0.041666666666666664;135.0;0.0;0
+5;54;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;variable;1.0;0.041666666666666664;135.0;0.0;0
+5;54;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;type;1.0;0.041666666666666664;135.0;0.0;0
+5;54;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;hover;1.0;0.041666666666666664;135.0;0.0;0
+5;54;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;mouse;1.0;0.041666666666666664;135.0;0.0;0
+5;54;https://www.codeproject.com/Articles/359801/plus-powerful-debugging-tricks-with-Visual-Studi;double_click;1.0;0.041666666666666664;135.0;0.0;0
+6;3;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;howard rubin;2.0;0.05555555555555555;8.0;0;0
+6;3;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;july 09;0.5;0.05555555555555555;8.0;0;0
+6;12;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;figure 1;0.5;0.05555555555555555;8.0;0;0
+6;13;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;affinic debugger;2.0;0.05555555555555555;8.0;0;0
+6;14;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;figure 2;0.5;0.05555555555555555;8.0;0;0
+6;15;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;code;1.0;0.05555555555555555;4.0;0;0
+6;16;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;blocks;1.0;0.05555555555555555;8.0;0;0
+6;17;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;figure 3;0.5;0.05555555555555555;8.0;0;0
+6;18;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;codelite 5;0.5;0.05555555555555555;8.0;0;0
+6;20;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;figure 4;0.5;0.05555555555555555;8.0;0;0
+6;21;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;gnu ddd;2.0;0.05555555555555555;8.0;0;0
+6;22;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;figure 5;0.5;0.05555555555555555;8.0;0;0
+6;23;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;eclipse front_ending gdb;3.0;0.05555555555555555;8.0;0;0
+6;24;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;figure 6;0.5;0.05555555555555555;8.0;0;0
+6;26;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;figure 7;0.5;0.05555555555555555;8.0;0;0
+6;27;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;kdevelop debugger;2.0;0.05555555555555555;8.0;0;0
+6;28;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;figure 8;0.5;0.05555555555555555;8.0;0;0
+6;29;http://www.drdobbs.com/testing/13-linux-debuggers-for-c-reviewed/240156817;nemiver;1.0;0.0;8.0;0;0
+6;38;https://en.wikipedia.org/wiki/List_of_debuggers;eclipse perspectives;2.0;0.010416666666666666;8.0;0.0;0
+6;38;https://en.wikipedia.org/wiki/List_of_debuggers;java development tools;3.0;0.010416666666666666;8.0;0.0;0
+6;38;https://en.wikipedia.org/wiki/List_of_debuggers;debugger front_end;2.0;0.010416666666666666;8.0;0.0;0
+6;38;https://en.wikipedia.org/wiki/List_of_debuggers;1  provide;0.3333333333333333;0.010416666666666666;8.0;0.0;0
+6;39;https://en.wikipedia.org/wiki/List_of_debuggers;allinea ddt _;3.0;0.010416666666666666;8.0;0.0;0
+6;39;https://en.wikipedia.org/wiki/List_of_debuggers;graphical debugger supporting;3.0;0.010416666666666666;8.0;0.0;0
+6;39;https://en.wikipedia.org/wiki/List_of_debuggers;parallel multi_process;2.0;0.010416666666666666;8.0;0.0;0
+6;39;https://en.wikipedia.org/wiki/List_of_debuggers;multithreaded applications;2.0;0.010416666666666666;8.0;0.0;0
+6;40;https://en.wikipedia.org/wiki/List_of_debuggers;common debuggers natively;3.0;0.010416666666666666;8.0;0.0;0
+6;40;https://en.wikipedia.org/wiki/List_of_debuggers;complex tool;2.0;0.010416666666666666;8.0;0.0;0
+6;40;https://en.wikipedia.org/wiki/List_of_debuggers;gnu project;2.0;0.010416666666666666;8.0;0.0;0
+6;40;https://en.wikipedia.org/wiki/List_of_debuggers;standard front_end;2.0;0.010416666666666666;8.0;0.0;0
+6;40;https://en.wikipedia.org/wiki/List_of_debuggers;external programs;2.0;0.010416666666666666;8.0;0.0;0
+6;40;https://en.wikipedia.org/wiki/List_of_debuggers;works;1.0;0.010416666666666666;8.0;0.0;0
+6;40;https://en.wikipedia.org/wiki/List_of_debuggers;ddd;1.0;0.0;8.0;0.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;modified version;1.75;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;cdb;1.0;0.0;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.66666666667;0.0;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;fortran ide;1.75;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;supporting reproduction;2.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;gdb  codelite;1.0555555555566667;0.010416666666666666;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;debugger;2.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;open source;2.0;0.03125;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;frontend  kdbg   part;1.4166666666666667;0.010416666666666666;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;integrates;1.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;slickedit;1.0;0.0;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;ddt;1.0;0.0;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;version;1.5;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;gnu debugger acts;2.6666666666666665;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;codelite;1.5;0.0;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;program state;2.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;mozilla;1.0;0.0;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;gdb frontend;2.083333333335;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;lldb  allinea;1.3333333333333333;0.010416666666666666;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;free cross_platform;2.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;lldb codeblocks;2.0;0.010416666666666666;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;gdb  xcode;1.2222222222233332;0.010416666666666666;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;built_in support;2.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;parallel;1.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;gdb  rr;1.2222222222233332;0.010416666666666666;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;reverse execution;2.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;include;1.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;front end;2.0;0.03125;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;eclipse;1.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;distributed front_end;2.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;cross platform;2.0;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;ide;1.5;0.020833333333333332;8.0;1.0;0
+6;41;https://en.wikipedia.org/wiki/List_of_debuggers;gdb front_end;1.833333333335;0.03125;8.0;1.0;0
+6;42;https://en.wikipedia.org/wiki/List_of_debuggers;built_in support;2.0;0.020833333333333332;8.0;0.0;0
+6;42;https://en.wikipedia.org/wiki/List_of_debuggers;emacs   emacs editor;1.8;0.010416666666666666;8.0;0.0;0
+6;42;https://en.wikipedia.org/wiki/List_of_debuggers;frontend;1.0;0.0;8.0;0.0;0
+6;42;https://en.wikipedia.org/wiki/List_of_debuggers;gnu debugger acts;3.0;0.020833333333333332;8.0;0.0;0
+6;43;https://en.wikipedia.org/wiki/List_of_debuggers;kdbg   part;1.0;0.010416666666666666;8.0;0;0
+6;43;https://en.wikipedia.org/wiki/List_of_debuggers;kde development tools;3.0;0.010416666666666666;8.0;0;0
+6;44;https://en.wikipedia.org/wiki/List_of_debuggers;integrates;1.0;0.020833333333333332;8.0;0;0
+6;44;https://en.wikipedia.org/wiki/List_of_debuggers;nemiver;1.0;0.0;8.0;0;0
+6;44;https://en.wikipedia.org/wiki/List_of_debuggers;gnome desktop environment;3.0;0.010416666666666666;8.0;0;0
+6;44;https://en.wikipedia.org/wiki/List_of_debuggers;gdb frontend;2.0;0.020833333333333332;8.0;0;0
+6;45;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;8.0;0;0
+6;45;https://en.wikipedia.org/wiki/List_of_debuggers;xxgdb   x_window frontend;1.8;0.010416666666666666;8.0;0;0
+6;45;https://en.wikipedia.org/wiki/List_of_debuggers;dbx debugger;2.0;0.010416666666666666;8.0;0;0
+6;46;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;8.0;0;0
+6;46;https://en.wikipedia.org/wiki/List_of_debuggers;lldb;1.0;0.0;8.0;0;0
+6;46;https://en.wikipedia.org/wiki/List_of_debuggers;cdb;1.0;0.0;8.0;0;0
+6;47;https://en.wikipedia.org/wiki/List_of_debuggers;modified version;2.0;0.020833333333333332;8.0;0.0;0
+6;47;https://en.wikipedia.org/wiki/List_of_debuggers;distributed front_end;2.0;0.020833333333333332;8.0;0.0;0
+6;47;https://en.wikipedia.org/wiki/List_of_debuggers;ddt;1.0;0.0;8.0;0.0;0
+6;47;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;8.0;0.0;0
+6;47;https://en.wikipedia.org/wiki/List_of_debuggers;allinea;1.0;0.0;8.0;0.0;0
+6;47;https://en.wikipedia.org/wiki/List_of_debuggers;parallel;1.0;0.020833333333333332;8.0;0.0;0
+6;48;https://en.wikipedia.org/wiki/List_of_debuggers;xcode;1.0;0.0;8.0;1.0;0
+6;48;https://en.wikipedia.org/wiki/List_of_debuggers;gdb front_end;2.0;0.03125;8.0;1.0;0
+6;49;https://en.wikipedia.org/wiki/List_of_debuggers;slickedit;1.0;0.0;8.0;1.0;0
+6;49;https://en.wikipedia.org/wiki/List_of_debuggers;gdb front_end;2.0;0.03125;8.0;1.0;0
+6;50;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;8.0;1.0;0
+6;50;https://en.wikipedia.org/wiki/List_of_debuggers;eclipse;1.0;0.020833333333333332;8.0;1.0;0
+6;51;https://en.wikipedia.org/wiki/List_of_debuggers;codelite;1.0;0.0;8.0;1.0;0
+6;51;https://en.wikipedia.org/wiki/List_of_debuggers;open source;2.0;0.03125;8.0;1.0;0
+6;51;https://en.wikipedia.org/wiki/List_of_debuggers;front end;2.0;0.03125;8.0;1.0;0
+6;51;https://en.wikipedia.org/wiki/List_of_debuggers;lldb;1.0;0.0;8.0;1.0;0
+6;51;https://en.wikipedia.org/wiki/List_of_debuggers;cross platform;2.0;0.020833333333333332;8.0;1.0;0
+6;51;https://en.wikipedia.org/wiki/List_of_debuggers;include;1.0;0.020833333333333332;8.0;1.0;0
+6;51;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;8.0;1.0;0
+6;51;https://en.wikipedia.org/wiki/List_of_debuggers;version;1.0;0.020833333333333332;8.0;1.0;0
+6;51;https://en.wikipedia.org/wiki/List_of_debuggers;ide;1.0;0.020833333333333332;8.0;1.0;0
+6;52;https://en.wikipedia.org/wiki/List_of_debuggers;gdb;1.0;0.0;8.0;0;0
+6;52;https://en.wikipedia.org/wiki/List_of_debuggers;codeblocks;1.0;0.0;8.0;0;0
+6;52;https://en.wikipedia.org/wiki/List_of_debuggers;fortran ide;2.0;0.020833333333333332;8.0;0;0
+6;52;https://en.wikipedia.org/wiki/List_of_debuggers;free cross_platform;2.0;0.020833333333333332;8.0;0;0
+6;52;https://en.wikipedia.org/wiki/List_of_debuggers;front end;2.0;0.03125;8.0;0;0
+6;53;https://en.wikipedia.org/wiki/List_of_debuggers;reverse execution;2.0;0.020833333333333332;8.0;0;0
+6;53;https://en.wikipedia.org/wiki/List_of_debuggers;open source;2.0;0.03125;8.0;0;0
+6;53;https://en.wikipedia.org/wiki/List_of_debuggers;debugger;1.0;0.020833333333333332;8.0;0;0
+6;53;https://en.wikipedia.org/wiki/List_of_debuggers;mozilla;1.0;0.0;8.0;0;0
+6;53;https://en.wikipedia.org/wiki/List_of_debuggers;supporting reproduction;2.0;0.020833333333333332;8.0;0;0
+6;53;https://en.wikipedia.org/wiki/List_of_debuggers;program state;2.0;0.020833333333333332;8.0;0;0
+6;58;https://en.wikipedia.org/wiki/GNU_Debugger;debugging;1.0;0.029411764705882353;8.0;1.0;0
+6;58;https://en.wikipedia.org/wiki/GNU_Debugger;kgdb;1.0;0.0;8.0;1.0;0
+6;58;https://en.wikipedia.org/wiki/GNU_Debugger;running linux kernel;3.0;0.029411764705882353;8.0;1.0;0
+6;58;https://en.wikipedia.org/wiki/GNU_Debugger;gdb;1.0;0.0;8.0;1.0;0
+6;58;https://en.wikipedia.org/wiki/GNU_Debugger;mode;1.0;0.029411764705882353;8.0;1.0;0
+6;58;https://en.wikipedia.org/wiki/GNU_Debugger;source level;2.0;0.029411764705882353;8.0;1.0;0
+6;59;https://en.wikipedia.org/wiki/GNU_Debugger;debug;2.0;0.058823529411764705;4.0;0.7071067811865475;0
+6;59;https://en.wikipedia.org/wiki/GNU_Debugger;kernel;1.5;0.0;8.0;0.7071067811865475;0
+6;59;https://en.wikipedia.org/wiki/GNU_Debugger;debug application programs;2.6666666666666665;0.029411764705882353;8.0;0.7071067811865475;0
+6;59;https://en.wikipedia.org/wiki/GNU_Debugger;kgdb;1.0;0.0;8.0;0.7071067811865475;0
+6;59;https://en.wikipedia.org/wiki/GNU_Debugger;kernel developers;1.75;0.029411764705882353;8.0;0.7071067811865475;0
+6;60;https://en.wikipedia.org/wiki/GNU_Debugger;code;1.5;0.029411764705882353;4.0;0.0;0
+6;60;https://en.wikipedia.org/wiki/GNU_Debugger;place breakpoints;2.0;0.029411764705882353;8.0;0.0;0
+6;60;https://en.wikipedia.org/wiki/GNU_Debugger;kernel code;1.75;0.029411764705882353;8.0;0.0;0
+6;60;https://en.wikipedia.org/wiki/GNU_Debugger;step;1.0;0.029411764705882353;8.0;0.0;0
+6;60;https://en.wikipedia.org/wiki/GNU_Debugger;makes;1.0;0.029411764705882353;8.0;0.0;0
+6;60;https://en.wikipedia.org/wiki/GNU_Debugger;observe variables;2.0;0.029411764705882353;8.0;0.0;0
+6;61;https://en.wikipedia.org/wiki/GNU_Debugger;watchpoints;1.0;0.0;8.0;0.7071067811865475;0
+6;61;https://en.wikipedia.org/wiki/GNU_Debugger;memory addresses;2.0;0.029411764705882353;8.0;0.7071067811865475;0
+6;61;https://en.wikipedia.org/wiki/GNU_Debugger;hardware debugging registers;3.0;0.029411764705882353;8.0;0.7071067811865475;0
+6;61;https://en.wikipedia.org/wiki/GNU_Debugger;executed;1.0;0.029411764705882353;8.0;0.7071067811865475;0
+6;61;https://en.wikipedia.org/wiki/GNU_Debugger;set;1.0;0.029411764705882353;8.0;0.7071067811865475;0
+6;61;https://en.wikipedia.org/wiki/GNU_Debugger;architectures;1.0;0.0;8.0;0.7071067811865475;0
+6;61;https://en.wikipedia.org/wiki/GNU_Debugger;accessed;1.0;0.029411764705882353;8.0;0.7071067811865475;0
+6;61;https://en.wikipedia.org/wiki/GNU_Debugger;trigger breakpoints;2.0;0.029411764705882353;8.0;0.7071067811865475;0
+6;62;https://en.wikipedia.org/wiki/GNU_Debugger;serial cable;2.0;0.029411764705882353;8.0;0.0;0
+6;62;https://en.wikipedia.org/wiki/GNU_Debugger;additional machine;1.75;0.029411764705882353;8.0;0.0;0
+6;62;https://en.wikipedia.org/wiki/GNU_Debugger;machine;1.5;0.029411764705882353;8.0;0.0;0
+6;62;https://en.wikipedia.org/wiki/GNU_Debugger;debugged;1.0;0.029411764705882353;8.0;0.0;0
+6;62;https://en.wikipedia.org/wiki/GNU_Debugger;connected;1.0;0.029411764705882353;8.0;0.0;0
+6;62;https://en.wikipedia.org/wiki/GNU_Debugger;ethernet;1.0;0.0;8.0;0.0;0
+6;62;https://en.wikipedia.org/wiki/GNU_Debugger;kgdb requires;2.0;0.029411764705882353;8.0;0.0;0
+6;63;https://en.wikipedia.org/wiki/GNU_Debugger;debug;1.0;0.058823529411764705;4.0;1.0;0
+6;63;https://en.wikipedia.org/wiki/GNU_Debugger;freebsd;1.0;0.0;8.0;1.0;0
+6;69;https://en.wikipedia.org/wiki/Comparison_of_debuggers;comparison;1.0;0.16666666666666666;8.0;0;0
+6;69;https://en.wikipedia.org/wiki/Comparison_of_debuggers;debuggers;1.0;0.16666666666666666;4.0;0;0
+6;70;https://en.wikipedia.org/wiki/Comparison_of_debuggers;test;1.0;0.16666666666666666;8.0;0;0
+6;70;https://en.wikipedia.org/wiki/Comparison_of_debuggers;debug;1.0;0.16666666666666666;2.6666666666666665;0;0
+6;70;https://en.wikipedia.org/wiki/Comparison_of_debuggers;programs;1.5;0.16666666666666666;8.0;0;0
+6;70;https://en.wikipedia.org/wiki/Comparison_of_debuggers;computer programs;1.75;0.16666666666666666;8.0;0;0
+6;77;http://www.linuxlinks.com/article/20090624155431809/Debuggers.html;types;1.0;0.16666666666666666;8.0;0.0;0
+6;77;http://www.linuxlinks.com/article/20090624155431809/Debuggers.html;article examines;2.0;0.16666666666666666;8.0;0.0;0
+6;77;http://www.linuxlinks.com/article/20090624155431809/Debuggers.html;debuggers;1.0;0.16666666666666666;4.0;0.0;0
+6;78;http://www.linuxlinks.com/article/20090624155431809/Debuggers.html;memory debuggers;2.0;0.16666666666666666;8.0;0;0
+6;78;http://www.linuxlinks.com/article/20090624155431809/Debuggers.html;source_level debuggers;2.0;0.16666666666666666;8.0;0;0
+6;78;http://www.linuxlinks.com/article/20090624155431809/Debuggers.html;bug tracking software;3.0;0.16666666666666666;8.0;0;0
+6;79;https://www.gnu.org/software/ddd/;gnu linux distributor;2.6666666666666665;0.08333333333333333;8.0;0.0;0
+6;79;https://www.gnu.org/software/ddd/;ddd binaries;2.0;0.08333333333333333;8.0;0.0;0
+6;79;https://www.gnu.org/software/ddd/;typically;1.0;0.08333333333333333;8.0;0.0;0
+6;79;https://www.gnu.org/software/ddd/;gnu linux;2.5;0.08333333333333333;8.0;0.0;0
+6;80;https://www.gnu.org/software/ddd/;debian gnu linux;3.0;0.08333333333333333;8.0;0;0
+6;80;https://www.gnu.org/software/ddd/;ddd packages;2.0;0.08333333333333333;8.0;0;0
+6;80;https://www.gnu.org/software/ddd/;found;1.0;0.16666666666666666;8.0;0;0
+6;81;https://www.gnu.org/software/ddd/;found;1.0;0.16666666666666666;8.0;0.7071067811865475;0
+6;81;https://www.gnu.org/software/ddd/;ddd rpms;2.0;0.08333333333333333;8.0;0.7071067811865475;0
+6;81;https://www.gnu.org/software/ddd/;http;1.0;0.0;8.0;0.7071067811865475;0
+6;82;https://www.gnu.org/software/ddd/;rpmfind;1.0;0.0;8.0;0;0
+6;84;https://www.gnu.org/software/ddd/;php query ddd;3.0;0.08333333333333333;8.0;0;0
+6;85;https://www.cs.cmu.edu/~gilpin/tutorial/;page;1.0;0.3333333333333333;8.0;0;0
+6;85;https://www.cs.cmu.edu/~gilpin/tutorial/;modified;1.0;0.3333333333333333;8.0;0;0
+6;86;https://www.cs.cmu.edu/~gilpin/tutorial/;april 7;0.5;0.3333333333333333;8.0;0;0
+6;87;http://www.yolinux.com/TUTORIALS/GDB-Commands.html;info;1.0;0.5;8.0;0;0
+6;87;http://www.yolinux.com/TUTORIALS/GDB-Commands.html;links;1.0;0.0;8.0;0;0

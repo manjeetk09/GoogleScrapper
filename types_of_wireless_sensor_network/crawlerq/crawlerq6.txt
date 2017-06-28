@@ -1,0 +1,21 @@
+To understand wireless sensor network algorithms for grouping the nodes.
+Theory.
+                              .
+                                          .
+                .
+                                      .
+                              .
+                                          .
+                .
+                                      .
+Received 29 December 2012  Accepted 21 January 2013.
+Every type of network, be it wired or wireless, will be influenced by several key factors for its efficient functioning.
+ Routing issue, applicable to all types of networks, is one among the several such key factors.
+ Wireless Sensor Networks has not been exception to this.
+ Moreover, such issues are very critical due to severe resource constraints like efficient energy utilization, lifetime of network, and drastic environmental conditions in WSNs.
+ Neither hop_by_hop or neither direct reach ability is possible in case of WSNs.
+ In this regard, many routing protocols have been proposed to optimize the efficiency of WSNs amidst of above mentioned severe resource constraints.
+ Out of these, clustering algorithms have gained more importance, in increasing the life time of the WSN, because of their approach in cluster head selection and data aggregation.
+ LEACH is the first clustering routing protocol which is proven to be better compared to other such algorithms.
+ This paper elaborately compares two important clustering protocols, namely LEACH and LEACH_C , using NS2 tool for several chosen scenarios, and analysis of simulation results against chosen performance metrics with latency and network lifetime being major among them.
+ The paper will be concluded by mentioning the observations made from analyses of results about these protocols.

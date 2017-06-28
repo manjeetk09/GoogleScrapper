@@ -1,0 +1,20 @@
+1suffix/prefix/W;0;data model;database model
+Category Match;0.8888888888888888;sql;database model;Database management systems;1;Database management systems;0
+1suffix/prefix;2;hierarchical database model;database model
+1suffix/prefix/W2;0.0;network model;database model
+1suffix/prefix/W2;0.0;entity–relationship model;database model
+Category Match;1.0;ibm information management system;database model;Database management systems;2;Database management systems;0
+1suffix/prefix/W2;0.0;data structure diagram;database model
+1suffix/prefix/W2;0.0;relational database;database model
+1suffix/prefix/W2;1.0;database;database model
+1suffix/prefix/W;0;data modeling;database model
+1suffix/prefix/W2;0.0;database design;database model
+1suffix/prefix/W2;0.0;data structure;database model
+Category Match;1.0;relational algebra;database model;Database management systems;2;Database management systems;0
+1suffix/prefix/W2;0.0;object database;database model
+1suffix/prefix/W2;0.0;conceptual model;database model
+1suffix/prefix/W2;0.0;data type;database model
+1suffix/prefix/W2;0.0;data integrity;database model
+Category Match;0.8888888888888888;foreign key;database model;Database management systems;1;Database management systems;0
+1suffix/prefix/W2;0.0;relational model;database model
+1suffix/prefix/W2;1.0;data;database model

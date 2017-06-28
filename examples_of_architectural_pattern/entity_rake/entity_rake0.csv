@@ -1,0 +1,251 @@
+6;https://en.wikipedia.org/wiki/Architectural_pattern;architectural patterns;2.0;0.05263157894736842;3.0;0
+6;https://en.wikipedia.org/wiki/Architectural_pattern;additional examples;2.0;0.05263157894736842;3.0;0
+7;https://en.wikipedia.org/wiki/Architectural_pattern;blackboard system;2.0;0.05263157894736842;3.0;0
+8;https://en.wikipedia.org/wiki/Architectural_pattern;broker pattern;2.0;0.05263157894736842;3.0;0
+9;https://en.wikipedia.org/wiki/Architectural_pattern;event_driven architecture;2.0;0.05263157894736842;3.0;0
+10;https://en.wikipedia.org/wiki/Architectural_pattern;implicit invocation;2.0;0.05263157894736842;3.0;0
+11;https://en.wikipedia.org/wiki/Architectural_pattern;layers;1.0;0.0;3.0;0
+12;https://en.wikipedia.org/wiki/Architectural_pattern;microservices;1.0;0.0;3.0;0
+13;https://en.wikipedia.org/wiki/Architectural_pattern;model_view_presenter;1.0;0.05263157894736842;3.0;0
+13;https://en.wikipedia.org/wiki/Architectural_pattern;model_view_controller;1.0;0.05263157894736842;3.0;0
+13;https://en.wikipedia.org/wiki/Architectural_pattern;model_view_viewmodel;1.0;0.05263157894736842;3.0;0
+13;https://en.wikipedia.org/wiki/Architectural_pattern;presentation_abstraction_control;1.0;0.05263157894736842;3.0;0
+14;https://en.wikipedia.org/wiki/Architectural_pattern;multitier architecture;2.0;0.05263157894736842;3.0;0
+15;https://en.wikipedia.org/wiki/Architectural_pattern;naked objects;2.0;0.05263157894736842;3.0;0
+16;https://en.wikipedia.org/wiki/Architectural_pattern;operational data store;3.0;0.05263157894736842;3.0;0
+17;https://en.wikipedia.org/wiki/Architectural_pattern;peer_to_peer;1.0;0.05263157894736842;3.0;0
+18;https://en.wikipedia.org/wiki/Architectural_pattern;pipe;1.0;0.05263157894736842;3.0;0
+18;https://en.wikipedia.org/wiki/Architectural_pattern;filter architecture;2.0;0.05263157894736842;3.0;0
+19;https://en.wikipedia.org/wiki/Architectural_pattern;service_oriented architecture;2.0;0.05263157894736842;1.5;0
+25;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;single format;2.0;0.005;3.0;0
+25;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;achieved widespread acceptance;3.0;0.005;3.0;0
+25;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;literature;1.0;0.0;3.0;0
+25;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;describing patterns;2.0;0.005;3.0;0
+25;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;formats;1.0;0.005;3.0;0
+26;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;things;1.0;0.005;3.0;0
+26;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+26;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;types;1.0;0.005;3.0;0
+26;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;broad agreement;2.0;0.005;3.0;0
+27;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;follow;1.0;0.005;3.0;0
+27;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern_oriented software architecture;3.0;0.005;3.0;0
+27;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;headings;1.0;0.01;3.0;0
+28;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;patterns;1.0;0.02;3.0;0
+28;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;system;1.0;0.005;3.0;0
+29;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;buschmann;1.0;0.0;3.0;0
+30;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;meunier;1.0;0.0;3.0;0
+31;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;rohnert;1.0;0.0;3.0;0
+32;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;sommerlad;1.0;0.0;3.0;0
+33;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;stal;1.0;0.0;3.0;0
+33;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;john wiley;2.0;0.005;3.0;0
+33;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;sons;1.0;0.005;3.0;0
+34;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;found;1.0;0.005;3.0;0
+34;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;elements;1.0;0.01;3.0;0
+34;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;describe;1.0;0.015;3.0;0
+34;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;headings;1.0;0.01;3.0;0
+34;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;patterns;1.0;0.02;3.0;0
+36;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;meaningful;1.0;0.005;3.0;0
+36;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;short phrase;2.0;0.005;3.0;0
+36;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;single word;2.0;0.005;3.0;0
+36;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+36;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;memorable;1.0;0.005;3.0;0
+36;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;typically;1.0;0.01;3.0;0
+36;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;refer;1.0;0.005;3.0;0
+37;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;problem;1.0;0.015;3.0;0
+38;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;applying;1.0;0.005;3.0;0
+38;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;description;1.0;0.0;3.0;0
+38;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern _;2.0;0.0;3.0;0
+38;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;problem indicating;2.0;0.005;3.0;0
+38;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;objectives;1.0;0.02;3.0;0
+38;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;intended goals;2.0;0.015;3.0;0
+38;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;intent;1.0;0.005;3.0;0
+38;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;context;1.0;0.02;3.0;0
+38;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;forces;1.0;0.03;3.0;0
+38;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;reached;1.0;0.005;3.0;0
+39;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;context;1.0;0.02;3.0;0
+40;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;applied;1.0;0.02;3.0;0
+40;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;description;1.0;0.0;3.0;0
+40;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;initial state;2.0;0.005;3.0;0
+40;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+40;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pre_conditions;1.0;0.005;3.0;0
+40;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;applicable _;2.0;0.0;3.0;0
+41;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;forces;1.0;0.03;3.0;0
+42;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;description;1.0;0.0;3.0;0
+42;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;objectives;1.0;0.02;3.0;0
+42;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;intended goals;2.0;0.015;3.0;0
+42;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;interact conflict;2.0;0.005;3.0;0
+42;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;relevant forces;2.0;0.005;3.0;0
+42;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;constraints;1.0;0.0;3.0;0
+43;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;kinds;1.0;0.0;3.0;0
+43;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;description;1.0;0.0;3.0;0
+43;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;considered;1.0;0.005;3.0;0
+43;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;make explicit;2.0;0.005;3.0;0
+43;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;clarify;1.0;0.005;3.0;0
+43;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;trade_offs;1.0;0.01;3.0;0
+43;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;problem;1.0;0.015;3.0;0
+43;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;intricacies;1.0;0.0;3.0;0
+44;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;problem difficult;2.0;0.005;3.0;0
+44;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;generates;1.0;0.005;3.0;0
+44;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+44;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;place;1.0;0.005;3.0;0
+44;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;makes;1.0;0.005;3.0;0
+44;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;trade_offs;1.0;0.01;3.0;0
+44;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;typically;1.0;0.01;3.0;0
+45;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;ways;1.0;0.005;3.0;0
+45;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;architects seek;1.75;0.005;3.0;0
+45;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;optimize;1.0;0.005;3.0;0
+45;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;forces  equates;1.3333333333333333;0.005;3.0;0
+45;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;concerns;1.0;0.005;3.0;0
+45;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;qualities;1.0;0.005;3.0;0
+45;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;address;1.0;0.005;3.0;0
+45;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;seek;1.5;0.005;3.0;0
+45;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;notion;1.0;0.005;3.0;0
+45;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;designing architectures;2.0;0.005;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;reusability;1.0;0.0;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;composability;1.0;0.0;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;bandwidth requirements;2.0;0.005;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;robustness;1.0;0.005;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;correctness ease;2.0;0.005;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;fault_tolerance manageability efficiency;3.0;0.005;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;maintainability modularity;2.0;0.005;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;reliability;1.0;0.0;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;evolvability;1.0;0.0;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;construction ease;2.0;0.005;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;openness;1.0;0.005;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;performance;1.0;0.0;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;security;1.0;0.005;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;portability completeness;2.0;0.005;3.0;0
+47;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;independence;1.0;0.0;3.0;0
+49;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;solution;1.0;0.035;3.0;0
+50;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;description;1.0;0.0;3.0;0
+50;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;text;1.0;0.005;3.0;0
+50;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;objectives;1.0;0.02;3.0;0
+50;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;intended goals;2.0;0.015;3.0;0
+50;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;graphics;1.0;0.005;3.0;0
+50;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;achieve;1.0;0.01;3.0;0
+51;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;description;1.0;0.0;3.0;0
+51;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;people;1.0;0.005;3.0;0
+51;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;collaborations;1.0;0.0;3.0;0
+51;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;static structure;2.0;0.005;3.0;0
+51;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;solution;1.0;0.035;3.0;0
+51;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;dynamic behavior _;3.0;0.005;3.0;0
+51;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;identify;1.0;0.005;3.0;0
+51;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;computing actors;2.0;0.005;3.0;0
+52;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;implementing;1.0;0.0;3.0;0
+52;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;solution;1.0;0.035;3.0;0
+52;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;description;1.0;0.0;3.0;0
+52;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;include guidelines;2.0;0.005;3.0;0
+53;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;variants;1.0;0.005;3.0;0
+53;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;specializations;1.0;0.0;3.0;0
+53;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;solution;1.0;0.035;3.0;0
+54;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;resulting context;2.0;0.015;3.0;0
+55;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;applied;1.0;0.02;3.0;0
+55;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+55;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;post_conditions;1.0;0.005;3.0;0
+56;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;implementing;1.0;0.0;3.0;0
+56;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;requires trade_offs;2.0;0.005;3.0;0
+56;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;solution;1.0;0.035;3.0;0
+56;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;competing forces;2.0;0.005;3.0;0
+57;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;resolved;1.0;0.005;3.0;0
+57;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;element describes;2.0;0.005;3.0;0
+57;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;remain unresolved;2.0;0.005;3.0;0
+57;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;forces;1.0;0.03;3.0;0
+58;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;patterns;1.0;0.02;3.0;0
+58;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;applicable;1.0;0.005;3.0;0
+58;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;context;1.0;0.02;3.0;0
+59;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+59;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;step;1.0;0.005;3.0;0
+59;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;accomplishing;1.0;0.0;3.0;0
+59;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;larger goal;2.0;0.005;3.0;0
+60;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;patterns;1.5;0.02;3.0;0
+60;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;detail;1.0;0.005;3.0;0
+60;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;related patterns;1.75;0.01;3.0;0
+61;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;examples;1.0;0.01;3.0;0
+62;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+62;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;elements;1.0;0.01;3.0;0
+62;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;sample applications;2.0;0.005;3.0;0
+62;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;illustrate;1.0;0.005;3.0;0
+63;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;applied;1.0;0.02;3.0;0
+63;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;set;1.0;0.005;3.0;0
+63;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;forces;1.0;0.03;3.0;0
+63;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+63;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;specific problem;2.0;0.005;3.0;0
+63;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;context;1.5;0.02;3.0;0
+63;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;resulting context;1.75;0.015;3.0;0
+64;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;rationale;1.0;0.01;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;good;1.0;0.005;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;individual components;2.0;0.005;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;desired goals;2.0;0.005;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;explanation   justification;1.0;0.005;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;achieve;1.0;0.01;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;forces;1.0;0.03;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;resolves;1.0;0.005;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;works;1.0;0.005;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;objectives;1.0;0.02;3.0;0
+65;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;indicating;1.0;0.005;3.0;0
+66;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;external structure;2.0;0.005;3.0;0
+66;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;solution;1.5;0.035;3.0;0
+66;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;solution element;1.75;0.005;3.0;0
+66;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;behavior;1.0;0.005;3.0;0
+66;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern describes;2.0;0.005;3.0;0
+67;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;internal workings;2.0;0.005;3.0;0
+67;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;insight;1.0;0.005;3.0;0
+67;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;rationale;1.0;0.01;3.0;0
+68;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;related patterns;2.0;0.01;3.0;0
+69;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;relationships;1.0;0.0;3.0;0
+69;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;applied;1.0;0.02;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;alternative patterns;2.0;0.005;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;successor patterns;2.0;0.005;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;initial context;2.25;0.005;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;describe;1.0;0.015;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;predecessor patterns;2.0;0.005;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;solution;1.0;0.035;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;resulting contexts correspond;2.8333333333333335;0.005;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;resulting context;2.25;0.015;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;forces;1.0;0.03;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;initial contexts correspond;2.8333333333333335;0.005;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;problem;1.0;0.015;3.0;0
+70;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;co_dependent patterns;2.0;0.005;3.0;0
+72;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;proven solution;2.0;0.005;3.0;0
+72;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;verifying;1.0;0.005;3.0;0
+72;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;pattern;1.0;0.06;3.0;0
+72;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;describe;1.0;0.015;3.0;0
+72;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;recurring problem;2.0;0.005;3.0;0
+72;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;applications;1.0;0.0;3.0;0
+72;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;existing systems;2.0;0.005;3.0;0
+73;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;serve;1.0;0.005;3.0;0
+73;http://www.opengroup.org/public/arch/p4/patterns/patterns.htm;examples;1.0;0.01;3.0;0
+75;https://msdn.microsoft.com/en-in/library/ee658117.aspx;chapter describes;2.0;0.03125;3.0;0
+75;https://msdn.microsoft.com/en-in/library/ee658117.aspx;applications today;2.0;0.03125;3.0;0
+75;https://msdn.microsoft.com/en-in/library/ee658117.aspx;principles commonly;2.0;0.03125;3.0;0
+76;https://msdn.microsoft.com/en-in/library/ee658117.aspx;message bus architecture;2.75;0.03125;3.0;0
+76;https://msdn.microsoft.com/en-in/library/ee658117.aspx;service_oriented architecture;2.125;0.03125;1.5;0
+76;https://msdn.microsoft.com/en-in/library/ee658117.aspx;architectural styles;2.0;0.0625;3.0;0
+76;https://msdn.microsoft.com/en-in/library/ee658117.aspx;client server;2.0;0.03125;3.0;0
+76;https://msdn.microsoft.com/en-in/library/ee658117.aspx;component_based architecture;2.125;0.03125;3.0;0
+76;https://msdn.microsoft.com/en-in/library/ee658117.aspx;layered architecture;2.125;0.03125;3.0;0
+76;https://msdn.microsoft.com/en-in/library/ee658117.aspx;include patterns;2.0;0.03125;3.0;0
+76;https://msdn.microsoft.com/en-in/library/ee658117.aspx;referred;1.0;0.03125;3.0;0
+77;https://msdn.microsoft.com/en-in/library/ee658117.aspx;information;1.0;0.0;3.0;0
+77;https://msdn.microsoft.com/en-in/library/ee658117.aspx;style;1.0;0.03125;3.0;0
+77;https://msdn.microsoft.com/en-in/library/ee658117.aspx;major benefits;2.0;0.03125;3.0;0
+77;https://msdn.microsoft.com/en-in/library/ee658117.aspx;overview;1.0;0.03125;3.0;0
+77;https://msdn.microsoft.com/en-in/library/ee658117.aspx;application;1.0;0.0;3.0;0
+77;https://msdn.microsoft.com/en-in/library/ee658117.aspx;key principles;2.0;0.03125;3.0;0
+77;https://msdn.microsoft.com/en-in/library/ee658117.aspx;architectural styles;2.0;0.0625;3.0;0
+77;https://msdn.microsoft.com/en-in/library/ee658117.aspx;choose;1.0;0.03125;3.0;0
+77;https://msdn.microsoft.com/en-in/library/ee658117.aspx;find;1.0;0.03125;3.0;0
+78;https://msdn.microsoft.com/en-in/library/ee658117.aspx;aspects;1.0;0.03125;3.0;0
+78;https://msdn.microsoft.com/en-in/library/ee658117.aspx;styles describe;2.0;0.03125;3.0;0
+78;https://msdn.microsoft.com/en-in/library/ee658117.aspx;important;1.0;0.03125;3.0;0
+78;https://msdn.microsoft.com/en-in/library/ee658117.aspx;understand;1.0;0.03125;3.0;0
+78;https://msdn.microsoft.com/en-in/library/ee658117.aspx;applications;1.0;0.0;3.0;0
+79;https://msdn.microsoft.com/en-in/library/ee658117.aspx;describe structure;2.25;0.03125;3.0;0
+79;https://msdn.microsoft.com/en-in/library/ee658117.aspx;describe communication factors;2.8333333333333335;0.03125;3.0;0
+79;https://msdn.microsoft.com/en-in/library/ee658117.aspx;design issues;2.0;0.03125;3.0;0
+80;https://msdn.microsoft.com/en-in/library/ee658117.aspx;styles;1.0;0.03125;3.0;0
+80;https://msdn.microsoft.com/en-in/library/ee658117.aspx;typical application;2.0;0.03125;3.0;0
+80;https://msdn.microsoft.com/en-in/library/ee658117.aspx;chapter;1.0;0.03125;3.0;0
+80;https://msdn.microsoft.com/en-in/library/ee658117.aspx;combination;1.0;0.0;3.0;0

@@ -1,0 +1,47 @@
+0;.
+0;.
+0;.
+0;.
+0;Quantum machine learning is an emerging interdisciplinary research area at the intersection of quantum physics and machine learning.
+0; One can distinguish four different ways of merging the two parent disciplines.
+0; Quantum machine learning algorithms can use the advantages of quantum computation in order to improve classical methods of machine learning, for example by developing efficient implementations of expensive classical algorithms on a quantum computer.
+0; On the other hand, one can apply classical methods of machine learning to analyse quantum systems.
+0; Most generally, one can consider situations wherein both the learning device and the system under study are fully quantum.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;Quantum Machine Learning.
+0; What Quantum Computing Means to Data Mining explains the most relevant concepts of machine learning, quantum mechanics, and quantum information theory, and contrasts classical learning algorithms to their quantum counterparts.
+0;S.
+0; Lloyd, M.
+0; Mohseni, and P.
+0; Rebentrost,  Quantum algorithms for supervised and unsupervised machine learning,  arXiv.
+0;1307.
+0;0411, 2013.
+0;Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras July 21, 2016.
+0;Your First Machine Learning Project in Python Step_By_Step June 10, 2016.
+0;Develop Your First Neural Network in Python With Keras Step_By_Step May 24, 2016.
+0;Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras July 26, 2016.
+0;Multi_Class Classification Tutorial with the Keras Deep Learning Library June 2, 2016.
+0;How to Run Your First Classifier in Weka February 17, 2014.
+0;Regression Tutorial with the Keras Deep Learning Library in Python June 9, 2016.
+0;A Tour of Machine Learning Algorithms November 25, 2013.
+0;Tutorial To Implement k_Nearest Neighbors in Python From Scratch September 12, 2014.
+0;How to Implement the Backpropagation Algorithm From Scratch In Python November 7, 2016.
+0;I ve had quantum computing on my mind and another tech talk went by titled Quantum Machine Learning and I had to jump on it.
+0; The talk is by Seth Lloyd from MIT.
+0;Patrick Rebentrost came up with the notion that machine learning and quantum mechanics are fundamentally about manipulating large numbers of vectors in high dimensional spaces and about bringing these two fields together.
+0; The key paper on these ideas are Quantum algorithms for supervised and unsupervised machine learning and Quantum support vector machine for big feature and big data classification, both from 2013.

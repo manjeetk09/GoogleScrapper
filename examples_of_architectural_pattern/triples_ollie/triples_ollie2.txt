@@ -1,0 +1,59 @@
+The Broker architectural pattern can be used to structure distributed software systems with decoupled components that interact by remote service invocations.
+0.806: (The Broker architectural pattern; to structure distributed software systems with; decoupled components)
+0.723: (The Broker architectural pattern; to structure; distributed software systems)
+0.665: (distributed software systems; to be structure with; decoupled components)
+
+Broker.
+No extractions found.
+
+The Broker architectural pattern can be used to structure distributed software systems with decoupled components that interact by remote service invocations.
+0.806: (The Broker architectural pattern; to structure distributed software systems with; decoupled components)
+0.723: (The Broker architectural pattern; to structure; distributed software systems)
+0.665: (distributed software systems; to be structure with; decoupled components)
+
+ A broker component is responsible for coordinating communication, such as forwarding requests, as well as for transmitting results and exceptions.
+0.746: (A broker component; is; responsible)
+0.511: (communication; be coordinating as for; transmitting results and exceptions)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The distribution of the system often occurs after development is complete.
+0.598: (development; is; complete)
+
+ For example, software may be distributed across multiple servers to increase processing power.
+0.925: (software; may be distributed across; multiple servers)
+0.46: (software; may be distributed for; example)
+
+ You would not want to change the application code at this late a stage in the life cycle.
+0.896: (You; would not want to change the application code at; late a stage)
+0.854: (You; would not want to change; the application code)
+0.852: (You; would not want to change the application code in; the life cycle)
+0.794: (You; to change; the application code)
+0.679: (the application code; to be change at; late a stage)
+0.645: (the application code; to be change in; the life cycle)
+
+Use the Broker pattern to hide the implementation details of remote service invocation by encapsulating them into a layer other than the business component itself .
+0.655: (them; be encapsulating into; a layer other)
+
+ Fowler, Martin.
+No extractions found.
+
+ Patterns of Enterprise Application Architecture.
+No extractions found.
+
+ Addison_Wesley, 2003.
+No extractions found.
+

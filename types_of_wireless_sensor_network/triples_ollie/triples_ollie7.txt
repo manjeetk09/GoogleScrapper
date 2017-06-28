@@ -1,0 +1,350 @@
+A sensor node, also known as a mote , is a node in a sensor network that is capable of performing some processing, gathering sensory information and communicating with other connected nodes in the network.
+0.898: (A sensor node; be also known as; a mote)
+
+ A mote is a node but a node is not always a mote.
+0.667: (A mote; is; a node)
+0.603: (a node; is always; not always a mote)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Terrestrial WSNs are capable of communicating base stations efficiently, and consist of hundreds to thousands of wireless sensor nodes deployed either in unstructured or structured manner.
+0.893: (Terrestrial WSNs; consist of; hundreds)
+0.74: (Terrestrial WSNs; are capable efficiently of; communicating base stations)
+
+ In an unstructured mode, the sensor nodes are randomly distributed within the target area that is dropped from a fixed plane.
+0.945: (the sensor nodes; are randomly distributed within; the target area that is dropped from a fixed plane)
+0.754: (the sensor nodes; are randomly distributed in; an unstructured mode)
+
+ The preplanned or structured mode considers optimal placement, grid placement, and 2D, 3D placement models.
+0.645: (The preplanned or structured mode; considers 3D placement models; optimal placement , grid placement , and 2D)
+
+Currently, WSN is the most standard services employed in commercial and industrial applications, because of its technical development in a processor, communication, and low_power usage of embedded computing devices.
+0.59: (WSN; is; the most standard services employed in commercial and industrial applications , because of its technical development in a processor , communication , and low_power usage of embedded computing devices)
+0.484: (WSN; be Currently low power usage of; embedded computing devices)
+0.343: (communication; be its technical development in; a processor)
+0.292: (WSN; be Currently low power usage of embedded computing devices because of; its technical development)
+
+ The WSN is built with nodes that are used to observe the surroundings like temperature, humidity, pressure, position, vibration, sound etc.
+0.858: (The WSN; is built with; nodes that are used to observe the surroundings like temperature , humidity , pressure , position , vibration)
+0.343: (humidity; be the surroundings like; temperature)
+0.343: (position; be the surroundings like; temperature)
+0.343: (pressure; be the surroundings like; temperature)
+0.343: (vibration; be the surroundings like; temperature)
+
+ These nodes can be used in various real_time applications to perform various tasks like smart detecting, a discovery of neighbor node, data processing and storage, data collection, target tracking, monitor and controlling, synchronization, node localization, and effective routing between the base station and nodes.
+0.781: (These nodes; can be used data collection in; various real_time applications)
+0.781: (These nodes; can be used data processing in; various real_time applications)
+0.781: (These nodes; can be used effective routing in; various real_time applications)
+0.781: (These nodes; can be used monitor in; various real_time applications)
+0.781: (These nodes; can be used node localization in; various real_time applications)
+0.781: (These nodes; can be used storage in; various real_time applications)
+0.781: (These nodes; can be used synchronization in; various real_time applications)
+0.781: (These nodes; can be used target tracking in; various real_time applications)
+0.752: (These nodes; can be used; a discovery of neighbor node , data processing and storage , data collection , target tracking , monitor and controlling , synchronization , node localization , and effective routing)
+0.739: (These nodes; to perform various tasks like; smart detecting)
+0.735: (These nodes; to perform; various tasks)
+0.678: (These nodes; can be used controlling in; various real_time applications)
+0.673: (These nodes; can be used a discovery of neighbor node , data processing and storage , data collection , target tracking , monitor and controlling , synchronization , node localization , and effective routing between the base station and nodes in; various real_time applications)
+0.59: (various tasks; to be perform like; smart detecting)
+
+The most common WSN architecture follows the OSI architecture Model.
+0.74: (The most common WSN architecture; follows; the OSI architecture)
+
+ The architecture of the WSN includes five layers and three cross layers.
+0.772: (The architecture of the WSN; includes; five layers and three cross layers)
+
+ Mostly in sensor n w we require five layers, namely application, transport, n w, data link   physical layer.
+0.71: (data; link; physical layer)[enabler=Mostly in sensor n w we require five layers , namely application , transport , n w]
+
+ The three cross planes are namely power management, mobility management, and task management.
+No extractions found.
+
+ These layers of the WSN are used to accomplish the n w and make the sensors work together in order to raise the complete efficiency of the network.
+No extractions found.
+
+Please follow the below link for.
+No extractions found.
+
+ Types of wireless sensor networks and WSN topologies.
+No extractions found.
+
+Wireless sensor networks , sometimes called wireless sensor and actuator networks , are spatially distributed autonomous sensors to monitor physical or environmental conditions, such as temperature, sound, pressure, etc.
+0.773: (autonomous sensors; to monitor; physical or environmental conditions)
+0.397: (sound; be physical or environmental conditions as; temperature)
+
+ and to cooperatively pass their data through the network to a main location.
+0.797: (their data; to be cooperatively pass through; the network)
+0.772: (their data; to cooperatively pass to be; a main location)
+
+ The more modern networks are bi_directional, also enabling control of sensor activity.
+No extractions found.
+
+ The development of wireless sensor networks was motivated by military applications such as battlefield surveillance  today such networks are used in many industrial and consumer applications, such as industrial process monitoring and control, machine health monitoring, and so on.
+0.894: (such networks; are used in; many industrial and consumer applications)
+0.708: (The development of wireless sensor networks; was motivated so on by; military applications)
+0.511: (The development of wireless sensor networks; was motivated so on in; today)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The WSN is built of  nodes    from a few to several hundreds or even thousands, where each node is connected to one sensors.
+0.914: (each node; is connected to; one sensors)
+0.871: (The WSN; is built of; nodes)
+0.564: (each node; is connected in; thousands)
+
+ Each such sensor network node has typically several parts.
+0.74: (Each such sensor; has; several parts)
+
+ a radio transceiver with an internal antenna or connection to an external antenna, a microcontroller, an electronic circuit for interfacing with the sensors and an energy source, usually a battery or an embedded form of energy harvesting.
+0.475: (a radio transceiver; be an electronic circuit for; interfacing)
+0.364: (the sensors and an energy source; be interfacing with; a battery or an embedded form of energy harvesting)
+
+ A sensor node might vary in size from that of a shoebox down to the size of a grain of dust, although functioning  motes  of genuine microscopic dimensions have yet to be created.
+0.627: (A sensor node; might vary have yet in; size)
+
+ The cost of sensor nodes is similarly variable, ranging from a few to hundreds of dollars, depending on the complexity of the individual sensor nodes.
+0.762: (The cost of sensor nodes; is similarly; variable)
+0.55: (variable; be The cost of; sensor nodes)
+
+ Size and cost constraints on sensor nodes result in corresponding constraints on resources such as energy, memory, computational speed and communications bandwidth.
+0.85: (Size and cost constraints; result in; corresponding constraints)
+
+ The topology of the WSNs can vary from a simple star network to an advanced multi_hop wireless mesh network.
+0.854: (The topology of the WSNs; can vary from; a simple star network)
+0.796: (The topology of the WSNs; can vary to; an advanced multi_hop wireless mesh network)
+
+ The propagation technique between the hops of the network can be routing or flooding.
+0.762: (The propagation technique; can be; routing or flooding)
+0.451: (routing or flooding; be The propagation technique between; the hops of the network)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The sensor networks for medical applications can be of several types.
+0.867: (The sensor networks; can be of; several types)
+
+ implanted, wearable, and environment_embedded.
+No extractions found.
+
+ The implantable medical devices are those that are inserted inside human body.
+No extractions found.
+
+ Wearable devices are used on the body surface of a human or just at close proximity of the user.
+0.926: (Wearable devices; are used on; the body surface of a human)
+0.86: (Wearable devices; are used at; close proximity of the user)
+
+ Environment_embedded systems employ sensors contained in the environment.
+0.841: (Environment_embedded systems; employ; sensors contained in the environment)
+0.793: (sensors; be contained in; the environment)
+
+ Possible applications include body position measurement, location of persons, overall monitoring of ill patients in hospitals and at homes.
+0.722: (Possible applications; include; body position measurement)
+0.675: (body position measurement; be overall monitoring of; ill patients)
+0.669: (body position measurement; be overall monitoring of ill patients at; hospitals and at homes)
+0.669: (body position measurement; be overall monitoring of ill patients in; hospitals and at homes)
+0.586: (body position measurement; be location of; persons)
+0.381: (body position measurement; be location of persons of; ill patients)
+0.376: (body position measurement; be location of persons at; hospitals and at homes)
+0.376: (body position measurement; be location of persons in; hospitals and at homes)
+0.286: (body position measurement; be overall monitoring of ill patients of; persons)
+
+ Devices embedded in the environment track the physical state of a person for continuous health diagnosis, using as input the data from a network of depth cameras, a sensing floor, or other similar devices.
+0.608: (Devices; embedded track the physical state of a person for continuous health diagnosis , using as input the data from a network of depth cameras , a sensing floor , or other similar devices in; the environment)
+
+ Body_area networks can collect information about an individual s health, fitness, and energy expenditure.
+0.808: (Body_area networks; can collect; information)
+0.498: (an individual; s; health)
+
+ In health care applications the privacy and authenticity of user data has prime importance.
+0.728: (the privacy and authenticity of user data; has; prime importance)
+0.564: (prime importance; be has by; health care applications)
+
+ Especially due to the integration of sensor networks, with IoT, the authentication of user become more challenging  however, a solution is presented in recent work.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A sensor node, also known as a mote , is a node in a sensor network that is capable of performing some processing, gathering sensory information and communicating with other connected nodes in the network.
+0.898: (A sensor node; be also known as; a mote)
+
+ A mote is a node but a node is not always a mote.
+0.667: (A mote; is; a node)
+0.603: (a node; is always; not always a mote)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A sensor node, also known as a mote , is a node in a sensor network that is capable of performing some processing, gathering sensory information and communicating with other connected nodes in the network.
+0.898: (A sensor node; be also known as; a mote)
+
+ A mote is a node but a node is not always a mote.
+0.667: (A mote; is; a node)
+0.603: (a node; is always; not always a mote)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+There are a number of nodes in a sensor network, these nodes are the detection stations and they are very small and portable.
+0.591: (the detection stations and they are very small and portable; be a number of; nodes)
+0.445: (the detection stations and they are very small and portable; be a number of nodes in; a sensor network)
+
+ There is a sensor transducer, microcontroller, transceiver and power source in every sensor node.
+No extractions found.
+
+  The transducer senses the physical condition and if there is any change then it generates electrical signals.
+0.678: (it; generates; electrical signals)
+0.564: (electrical signals; be generates by; any change)
+
+ These signals go to the microcomputer for processing.
+0.85: (These signals; go to; the microcomputer)
+
+ A central computer sends commands to the transceiver and data is then transmitted to that computer.
+0.823: (A central computer; sends commands to; the transceiver and data)
+0.768: (A central computer; sends; commands)
+
+                                               .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Page Contents 1 WIRELESS SENSOR NETWORKS TOPOLOGIES 1.
+No extractions found.
+
+1 POINT TO POINT NETWROK TOPOLOGY 1.
+No extractions found.
+
+2 STAR NETWROK TOPOLOGY 1.
+No extractions found.
+
+3 TREE NETWORK TOPOLOGY.
+No extractions found.
+
+ 2 TYPES OF WIRELESS SENSOR NETWORKS 2.
+No extractions found.
+
+1 TERRESTRIAL WSNs 2.
+No extractions found.
+
+2 UNDERGROUND WSNs 2.
+No extractions found.
+
+3 UNDERWATER WSNs 2.
+No extractions found.
+
+4 MULTIMEDIA WSNs 2.
+No extractions found.
+
+5 MOBILE WSNs.
+No extractions found.
+
+ 3 APPLICATIONS OF WIRELESS SENSOR NETWORKS 3.
+No extractions found.
+
+1 DISASTER RELIEF OPERATION 3.
+No extractions found.
+
+2 MILITARY APPLICATIONS 3.
+No extractions found.
+
+3 ENVIRONMENTAL APPLICATIONS 3.
+No extractions found.
+
+4 MEDICAL APPLICATIONS 3.
+No extractions found.
+
+5 HOME APPLICATIONS.
+No extractions found.
+
+                                               .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+

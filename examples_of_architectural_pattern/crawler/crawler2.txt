@@ -1,0 +1,16 @@
+0;The Broker architectural pattern can be used to structure distributed software systems with decoupled components that interact by remote service invocations.
+0;Broker.
+0;The Broker architectural pattern can be used to structure distributed software systems with decoupled components that interact by remote service invocations.
+0; A broker component is responsible for coordinating communication, such as forwarding requests, as well as for transmitting results and exceptions.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;The distribution of the system often occurs after development is complete.
+0; For example, software may be distributed across multiple servers to increase processing power.
+0; You would not want to change the application code at this late a stage in the life cycle.
+0;Use the Broker pattern to hide the implementation details of remote service invocation by encapsulating them into a layer other than the business component itself .
+0; Fowler, Martin.
+0; Patterns of Enterprise Application Architecture.
+0; Addison_Wesley, 2003.

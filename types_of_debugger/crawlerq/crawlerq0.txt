@@ -1,0 +1,58 @@
+Some widely used debuggers are.
+ Firefox JavaScript debugger.
+ GDB _ the GNU debugger.
+ LLDB.
+ Microsoft Visual Studio Debugger.
+ Valgrind.
+ WinDbg.
+ Eclipse debugger API used in a range of IDEs.
+ Eclipse IDE Nodeclipse .
+ WDW, the OpenWatcom debugger.
+.
+.
+These two types of debugging provide you with some very technical information.
+ You can use it to do an online search for a possible solution or cause to the problem, or to provide additional information to our Customer Support when opening a ticket.
+Some widely used debuggers are.
+ Firefox JavaScript debugger.
+ GDB _ the GNU debugger.
+ LLDB.
+ Microsoft Visual Studio Debugger.
+ Valgrind.
+ WinDbg.
+ Eclipse debugger API used in a range of IDEs.
+ Eclipse IDE Nodeclipse .
+ WDW, the OpenWatcom debugger.
+.
+.
+Debugging is the process of finding and resolving of defects that prevent correct operation of computer software or a system.
+v.
+t.
+e.
+.
+.
+In certain situations, general purpose software tools that are language specific in nature can be very useful.
+ These take the form of static code analysis tools.
+ These tools look for a very specific set of known problems, some common and some rare, within the source code.
+ All such issues detected by these tools would rarely be picked up by a compiler or interpreter, thus they are not syntax checkers, but more semantic checkers.
+ Some tools claim to be able to detect 300  unique problems.
+ Both commercial and free tools exist in various languages.
+ These tools can be extremely useful when checking very large source trees, where it is impractical to do code walkthroughs.
+ A typical example of a problem detected would be a variable dereference that occurs before the variable is assigned a value.
+ Another example would be to perform strong type checking when the language does not require such.
+ Thus, they are better at locating likely errors, versus actual errors.
+ As a result, these tools have a reputation of false positives.
+ The old Unix lint program is an early example.
+.
+.
+.
+.
+.
+.
+ .
+ .
+.
+.
+.
+.
+ .
+ .

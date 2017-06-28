@@ -141,8 +141,9 @@ public class GoogleSearchJava {
         //System.out.println("Please enter the number of results:");
         //int num = scanner.nextInt();
         int num = input_num;
+        num = 20;
         //scanner.close();
-
+        int counter_num = 0;
 
         String searchURL = GOOGLE_SEARCH_URL + "?q="+searchTerm + "&num="+num;
         //without proper User-Agent, we will get 403 error
@@ -221,6 +222,9 @@ public class GoogleSearchJava {
 
         for(int i=0; i<link_data.size();i++)
         {
+            if(counter_num > input_num){
+                break;
+            }
             if(span_data.size() < i+1)
             {
                 continue;
@@ -325,7 +329,7 @@ public class GoogleSearchJava {
                         doc_1 = sendRequest(link_data.get(i));
                     }
 
-
+                    counter_num++;
 
                     Thread.sleep(4000);
                 }

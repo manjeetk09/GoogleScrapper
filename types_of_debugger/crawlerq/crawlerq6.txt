@@ -1,0 +1,87 @@
+.
+.
+By Howard Rubin, July 09, 2013.
+.
+.
+.
+.
+.
+.
+.
+.
+Figure 1.
+ The Affinic debugger.
+Figure 2.
+ Code.
+Blocks.
+Figure 3.
+ Codelite 5.
+1.
+Figure 4.
+ Gnu DDD.
+Figure 5.
+ Eclipse front_ending gdb.
+Figure 6.
+ GNU Emacs  GDB mode.
+Figure 7.
+ The KDevelop debugger.
+Figure 8.
+ Nemiver.
+.
+.
+.
+.
+.
+.
+.
+.
+Many Eclipse perspectives, e g  the Java Development Tools , 1  provide a debugger front_end .
+Allinea DDT _ a graphical debugger supporting for parallel multi_process and multithreaded applications, for C   C   and F90 .
+DDD is the standard front_end from the GNU Project  It is a complex tool that works with most common debuggers natively or with some external programs  .
+GDB GUI Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend  KDbg   Part of the KDE development tools  Nemiver   A GDB frontend that integrates well in the GNOME desktop environment  xxgdb   X_window frontend for GDB and dbx debugger  Qt Creator   multi_platform frontend for GDB, CDB and LLDB  Allinea s DDT   a parallel and distributed front_end to a modified version of GDB  Xcode   contains a GDB front_end as well  SlickEdit   contains a GDB front_end as well  Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB  CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb  RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution.
+Emacs   Emacs editor with built_in support for the GNU Debugger acts as the frontend .
+KDbg   Part of the KDE development tools .
+Nemiver   A GDB frontend that integrates well in the GNOME desktop environment .
+xxgdb   X_window frontend for GDB and dbx debugger .
+Qt Creator   multi_platform frontend for GDB, CDB and LLDB .
+Allinea s DDT   a parallel and distributed front_end to a modified version of GDB .
+Xcode   contains a GDB front_end as well .
+SlickEdit   contains a GDB front_end as well .
+Eclipse C C   Development Tools  2    includes visual debugging tools based on GDB .
+CodeLite   An open source, cross platform C C   IDE which have front end for gdb, the next version of CodeLite will also include a front end to the LLDB .
+CodeBlocks   A free cross_platform C, C   and Fortran IDE with a front end for gdb .
+RR   An open source C C   debugger by Mozilla, supporting reproduction of program state and reverse execution.
+.
+.
+.
+.
+The same mode is also used by KGDB for debugging a running Linux kernel on the source level with gdb.
+ With KGDB, kernel developers can debug a kernel in much the same way as they debug application programs.
+ It makes it possible to place breakpoints in kernel code, step through the code and observe variables.
+ On architectures where hardware debugging registers are available, watchpoints can be set which trigger breakpoints when specified memory addresses are executed or accessed.
+ KGDB requires an additional machine which is connected to the machine to be debugged using a serial cable or Ethernet.
+ On FreeBSD, it is also possible to debug using Firewire direct memory access .
+v.
+t.
+e.
+.
+.
+This is a comparison of debuggers.
+ computer programs that are used to test and debug other programs.
+.
+.
+.
+.
+.
+.
+This article examines three different types of debuggers.
+ source_level debuggers, memory debuggers and bug tracking software.
+DDD binaries for GNU Linux are typically available via your GNU Linux distributor.
+ DDD packages for Debian GNU Linux are found here.
+ DDD RPMs can be found in http.
+  rpmfind.
+net linux rpm2html search.
+php query ddd.
+Page last modified.
+ April 7, 2004.
+ C   Info, links.

@@ -1,0 +1,16 @@
+Category Match;0.8888888888888888;locality-sensitive hashing;supervised learning;Machine learning;1;Machine learning;0
+1suffix/prefix/W2;0.0;computational learning theory;supervised learning
+Category Match;0.8888888888888888;linear discriminant analysis;supervised learning;Machine learning;1;Machine learning;0
+1suffix/prefix;0;unsupervised learning;supervised learning
+1suffix/prefix/W2;0.0;reinforcement learning;supervised learning
+1suffix/prefix/W2;0.0;machine learning;supervised learning
+Category Match;1.0;artificial neural network;supervised learning;Machine learning;2;Machine learning;0
+Category Match;1.0;graphical model;supervised learning;Machine learning;2;Machine learning;0
+Category Match;0.8888888888888888;evolutionary algorithm;supervised learning;Machine learning;1;Machine learning;0
+Category Match;0.8888888888888888;novelty detection;supervised learning;Machine learning;1;Machine learning;0
+Category Match;0.8888888888888888;gramian matrix;supervised learning;Machine learning;1;Machine learning;0
+1suffix/prefix/W2;1.0;learning;supervised learning
+Category Match;1.0;decision tree;supervised learning;Machine learning;2;Machine learning;0
+Category Match;1.0;genetic algorithm;supervised learning;Machine learning;2;Machine learning;0
+1suffix/prefix/W2;0.0;quantum machine learning;supervised learning
+Category Match;0.8888888888888888;dimensionality reduction;supervised learning;Machine learning;1;Machine learning;0

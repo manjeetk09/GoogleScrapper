@@ -1,49 +1,42 @@
-0;01 October 2005.
-0;The MD5 function is a cryptographic algorithm that takes an input of arbitrary length and produces a message digest that is 128 bits long.
-0; The digest is sometimes also called the  hash  or  fingerprint  of the input.
-0; MD5 is used in many situations where a potentially long message needs to be processed and or compared quickly.
-0; The most common application is the creation and verification of digital signatures.
-0;The MD5 algorithm is a widely used hash function producing a 128_bit hash value.
-0; Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities.
-0; It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
+1;A universal hashing scheme is a randomized algorithm that selects a hashing function h among a family of such functions, in such a way that the probability of a collision of any two distinct keys is 1 n, where n is the number of distinct hash values desired independently of the two keys.
+1; Universal hashing ensures that the hash function application will behave as well as if it were using a random function, for any distribution of the input data.
+1; It will, however, have more collisions than perfect hashing and may require more operations than a special_purpose hash function.
+1; See also unique permutation hashing.
+1;v.
+1;t.
+1;e.
+1;.
+1;.
+0;A hash table is a collection of items which are stored in such a way as to make it easy to find them later.
+0; Each position of the hash table, often called a slot, can hold an item and is named by an integer value starting at 0.
+0; For example, we will have a slot named 0, a slot named 1, a slot named 2, and so on.
+0; Initially, the hash table contains no items so every slot is empty.
+0; We can implement a hash table by using a list with each element initialized to the special Python value None.
+0; Figure 4 shows a hash table of size  .
+0; In other words, there are m slots in the table, named 0 through 10.
+0;A universal hashing scheme is a randomized algorithm that selects a hashing function h among a family of such functions, in such a way that the probability of a collision of any two distinct keys is 1 n, where n is the number of distinct hash values desired independently of the two keys.
+0; Universal hashing ensures that the hash function application will behave as well as if it were using a random function, for any distribution of the input data.
+0; It will, however, have more collisions than perfect hashing and may require more operations than a special_purpose hash function.
+0; See also unique permutation hashing.
 0;v.
 0;t.
 0;e.
-0;v.
-0;t.
-0;e.
 0;.
 0;.
-0;The MD5 hashing algorithm is a one_way cryptographic function that accepts a message of any length as input and returns as output a fixed_length digest value to be used for authenticating the original message.
+0; FIXME.
+0; say a few words about   universal hash function  .
 0;.
 0;.
-0;.
-0;.
-0; .
-0;MD5 was most popular and widely used hash function for quite some years.
-0; The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
-0; It was adopted as Internet Standard RFC 1321.
-0; It is a 128_bit hash function.
-0; MD5 digests have been widely used in the software world to provide assurance about integrity of transferred file.
-0; For example, file servers often provide a pre_computed MD5 checksum for the files, so that a user can compare the checksum of the downloaded file to it.
-0; In 2004, collisions were found in MD5.
-0; An analytical attack was reported to be successful only in an hour by using computer cluster.
-0; This collision attack resulted in compromised MD5 and hence it is no longer recommended for use.
-0;The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
-0; It was adopted as Internet Standard RFC 1321.
-0; It is a 128_bit hash function.
-0;Thanks for A2A.
-0;Note.
-0;  Though MD5 is widely known, it is not a very secure hash.
-0; There exists many attacks such as rainbow table attack.
-0;  The security of the MD5 hash function is severely compromised.
-0; A collision attack exists that can find collisions within seconds on a computer with a 2.
-0;6 GHz Pentium 4 processor  complexity of 224.
-0;1 .
-0; Further, there is also a chosen_prefix collision attack that can produce a collision for two inputs with specified prefixes within hours, using off_the_shelf computing hardware .
-0; The ability to find collisions has been greatly aided by the use of off_the_shelf GPUs.
-0; On an NVIDIA GeForce 8400GS graphics processor, 16 18 million hashes per second can be computed.
-0; An NVIDIA GeForce 8800 Ultra can calculate more than 200 million hashes per second   Source.
-0;MD5   .
-0;The algorithm Message Digest 5 or MD5, it is a one_way cryptographic hash function.
-0; MD5 performs many binary operations on the  message  to compute a 128_bit  hash .
+0;Understand the difference between hash function and algorithm correctly.
+0; The hash function generates a hash code by operating on two blocks of fixed_length binary data.
+0;What is a good Hash function  I saw a lot of hash function and applications in my data structures courses in college, but I mostly got that it s pretty hard to make a good hash function.
+0; As a rule of thumb to avoid collisions my professor said that.
+0;For doing  normal  hash table lookups on basically any kind of data _ this one by Paul Hsieh is the best I ve ever used.
+0;I know there are things like SHA_256 and such, but these algorithms are designed to be secure, which usually means they are slower than algorithms that are less unique.
+0; I want a hash algorithm designed to be fast, yet remain fairly unique to avoid collisions.
+0;The other subjective measure is how randomly distributed the hashes are.
+0; Mapping the resulting HashTables shows how evenly the data is distributed.
+0; All the hash functions show good distribution when mapping the table linearly.
+0;Choosing a good hashing function, h, is essential for hash_table based searching.
+0; h should distribute the elements of our collection as uniformly as possible to the  slots  of the hash table.
+0; The key criterion is that there should be a minimum number of collisions.

@@ -1,5 +1,56 @@
-By Bob Jenkins, September 01, 1997.
+01 October 2005.
 No extractions found.
+
+The MD5 function is a cryptographic algorithm that takes an input of arbitrary length and produces a message digest that is 128 bits long.
+0.752: (The MD5 function; is; a cryptographic algorithm that takes an input of arbitrary length and produces a message digest)
+0.661: (a message that is 128 bits long; be produces by; a cryptographic algorithm that takes an input of arbitrary length)
+
+ The digest is sometimes also called the  hash  or  fingerprint  of the input.
+0.818: (The digest; is sometimes also called; the hash or fingerprint of the input)
+0.558: (The digest; be the hash of; the input)
+
+ MD5 is used in many situations where a potentially long message needs to be processed and or compared quickly.
+0.868: (MD5; is used in; many situations where a potentially long message needs to be processed and or compared quickly)
+
+ The most common application is the creation and verification of digital signatures.
+0.912: (The most common application; is the creation of; digital signatures)
+0.778: (The most common application; is; the creation and verification of digital signatures)
+
+The MD5 algorithm is a widely used hash function producing a 128_bit hash value.
+No extractions found.
+
+ Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities.
+No extractions found.
+
+ It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
+0.899: (It; can still be used as; a checksum to verify data integrity)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The MD5 hashing algorithm is a one_way cryptographic function that accepts a message of any length as input and returns as output a fixed_length digest value to be used for authenticating the original message.
+0.825: (The MD5 hashing algorithm; is; a one_way cryptographic function that accepts a message of any length as input and returns as output a fixed_length digest value)
 
 .
 No extractions found.
@@ -13,6 +64,148 @@ No extractions found.
 .
 No extractions found.
 
+ .
+No extractions found.
+
+In the diagram, the one_way compression function is denoted by f, and transforms two fixed length inputs to an output of the same size as one of the inputs.
+0.9: (transforms two fixed length; inputs to; an output of the same size)
+0.892: (the one_way compression function; is denoted by; f)
+0.857: (transforms two fixed length; inputs as; one of the inputs)
+0.754: (the one_way compression function; is denoted in; the diagram)
+
+ The algorithm starts with an initial value, the initialization vector .
+0.823: (The algorithm; starts with; an initial value)
+
+ The IV is a fixed value .
+0.703: (The IV; is; a fixed value)
+
+ For each message block, the compression function f takes the result so far, combines it with the message block, and produces an intermediate result.
+0.847: (the compression function f; combines it with; the message block)
+0.779: (the compression function f; combines; it)
+0.683: (the compression function f; produces; an intermediate result)
+0.667: (the compression function f; takes the result so far for; each message block)
+0.646: (the compression function f; takes so far; the result)
+
+ The last block is padded with zeros as needed and bits representing the length of the entire message are appended.
+0.929: (The last block; is padded with; zeros)
+
+Note.
+No extractions found.
+
+  Though MD5 is widely known, it is not a very secure hash.
+0.596: (it; is; not a very secure hash)
+
+ There exists many attacks such as rainbow table attack.
+0.362: (many; attacks as; rainbow table attack)
+
+  The security of the MD5 hash function is severely compromised.
+No extractions found.
+
+ A collision attack exists that can find collisions within seconds on a computer with a 2.
+0.739: (collisions; can be find on; a computer)
+0.739: (collisions; can be find within; seconds)
+
+6 GHz Pentium 4 processor  complexity of 224.
+No extractions found.
+
+1 .
+No extractions found.
+
+ Further, there is also a chosen_prefix collision attack that can produce a collision for two inputs with specified prefixes within hours, using off_the_shelf computing hardware .
+0.78: (a collision; can be produce for; two inputs using off_the_shelf computing hardware)
+
+ The ability to find collisions has been greatly aided by the use of off_the_shelf GPUs.
+0.937: (The ability to find collisions; has been greatly aided by; the use of off_the_shelf GPUs)
+
+ On an NVIDIA GeForce 8400GS graphics processor, 16 18 million hashes per second can be computed.
+0.766: (16 18 million; hashes per; second)
+
+ An NVIDIA GeForce 8800 Ultra can calculate more than 200 million hashes per second   Source.
+0.625: (An NVIDIA GeForce 8800 Ultra; can calculate; than 200 million)
+
+MD5   .
+No extractions found.
+
+MD5 was most popular and widely used hash function for quite some years.
+No extractions found.
+
+ The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
+0.851: (The MD family; comprises of; hash functions)
+
+ It was adopted as Internet Standard RFC 1321.
+0.875: (It; was adopted as; Internet Standard RFC 1321)
+
+ It is a 128_bit hash function.
+0.611: (It; is; a 128_bit hash function)
+
+ MD5 digests have been widely used in the software world to provide assurance about integrity of transferred file.
+No extractions found.
+
+ For example, file servers often provide a pre_computed MD5 checksum for the files, so that a user can compare the checksum of the downloaded file to it.
+0.775: (a user; can compare; the checksum of the downloaded file)
+0.73: (file servers; often provide; a pre_computed MD5 checksum)
+0.689: (a user; can compare the checksum of the downloaded file to; it)
+0.631: (the checksum of the downloaded file; can be compare to; it)
+0.085: (file servers; often provide a pre computed MD5 checksum for the files for; example)
+
+ In 2004, collisions were found in MD5.
+0.913: (collisions; were found in; MD5)
+0.797: (collisions; were found in; 2004)
+
+ An analytical attack was reported to be successful only in an hour by using computer cluster.
+0.717: (An analytical attack; was reported; successful)
+
+ This collision attack resulted in compromised MD5 and hence it is no longer recommended for use.
+0.87: (This collision attack; resulted in; compromised MD5)
+0.497: (it; hence is no longer recommended for; use)
+
+The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
+0.851: (The MD family; comprises of; hash functions)
+
+ It was adopted as Internet Standard RFC 1321.
+0.875: (It; was adopted as; Internet Standard RFC 1321)
+
+ It is a 128_bit hash function.
+0.611: (It; is; a 128_bit hash function)
+
+The algorithm Message Digest 5 or MD5, it is a one_way cryptographic hash function.
+0.632: (it; is; a one_way cryptographic)
+
+ MD5 performs many binary operations on the  message  to compute a 128_bit  hash .
+No extractions found.
+
+Last modified.
+No extractions found.
+
+ Mon May 9 09.
+No extractions found.
+
+15.
+No extractions found.
+
+29 PDT 2005.
+No extractions found.
+
+Hashes, on the other hand, compile a stream of data into a small digest  a summarized form.
+0.891: (Hashes; compile; a stream of data)
+0.881: (Hashes; compile a stream of data into; a small digest a summarized form)
+0.816: (a stream of data; be compile into; a small digest a summarized form)
+0.814: (Hashes; compile a stream of data on; the other hand)
+0.622: (a stream of data; be compile on; the other hand)
+
+ think  Reader s Digest  , and it s strictly a one way operation.
+0.731: (Reader; s; Digest)[attrib=it think]
+0.678: (it; s; a one way operation)
+
+ All hashes of the same type _ this example shows the  MD5  variety _ have the same size no matter how big the inputs are.
+0.711: (the MD5 variety _; have; the same size)[attrib=All hashes of the same type shows]
+
+Other hashes have even more bits.
+0.756: (Other hashes; have; more bits)
+
+ the SHA_1 algorithm generates 160 bits, whose output space is four billions times larger than that produced by MD5 s 128 bits.
+0.853: (the SHA_1 algorithm; generates; 160 bits whose output space is four billions times larger than that produced by MD5 s 128 bits)
+
 .
 No extractions found.
 
@@ -25,7 +218,20 @@ No extractions found.
 .
 No extractions found.
 
-.
+MD5 which stands for Message Digest algorithm 5 is a widely used cryptographic hash function that was invented by Ronald Rivest in 1991.
+No extractions found.
+
+ The idea behind this algorithm is to take up a random data as an input and generate a fixed size  hash value  as the output.
+0.823: (The idea; is to take up a random data as; an input)
+0.807: (The idea; is to take up; a random data)
+0.791: (The idea; to take up a random data as; an input)
+0.778: (a fixed size hash value; be generate as; the output)
+0.658: (a random data; to be take up as; an input)
+
+ The input data can be of any size or length, but the output  hash value  size is always fixed.
+0.838: (The input data; can be of; any size or length)
+
+ Here is an example of MD5 Hash function at work.
 No extractions found.
 
 .
@@ -38,201 +244,5 @@ No extractions found.
 No extractions found.
 
 .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-By John Boyer, January 01, 1998.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-More recently, Bob Jenkins presented a hashing function that performs a complex mixing operation using 12 bytes at a time from the input key.
-0.807: (Bob Jenkins; More recently presented; a hashing function)
-0.758: (a complex mixing operation; using 12 bytes at; a time)
-0.707: (12 bytes; be using at; a time)
-
- By design, the bytes of the key have some affect on all regions of the hash value.
-0.569: (the bytes of the key; have by; design)
-
- Thus, the hash function suffers little or no information loss when the hash value is truncated to the table size.
-0.914: (the hash value; is truncated to; the table size)
-0.678: (the hash function; Thus suffers; little or no information loss)
-
- As Table 1 shows, the efficiency of Jenkins  hash function was far greater than the original HashPJW, and even slightly better than HashJBand the new HashPJW.
-0.771: (function; was far greater than; the original HashPJW)
-
- The run time using HashJBis equivalent to HashJenkinsbecause the former uses slightly less CPU time to compute hash values.
-No extractions found.
-
-DDJ.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-The Jenkins hash functions are a collection of hash functions for multi_byte keys designed by Bob Jenkins.
-0.939: (functions; are a collection of hash functions for; multi_byte keys designed by Bob Jenkins)
-0.936: (functions; are a collection of; hash functions)
-0.673: (multi_byte keys; be designed by; Bob Jenkins)
-
- The first one was formally published in 1997.
-0.919: (The first one; was formally published in; 1997)
-
-       .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-       .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-       .
-No extractions found.
-
-.
-No extractions found.
-
-.
-No extractions found.
-
-I offer you a new hash function for hash table lookup that is faster and more thorough than the one you are using now.
-0.772: (you; be a new hash function for; hash table lookup)
-
- I also give you a way to verify that it is more thorough.
-0.685: (I; also give you; a way to verify that it is more thorough)
-0.48: (it; is; thorough)
-
-I have three complaints against it.
-0.704: (I; have; three complaints)
-
- First, it s specific about how to reduce the size if you don t use all the bits, it s not just a mask.
-No extractions found.
-
- Increasing the result size by one bit gives you a completely different hash.
-0.752: (the result size; be Increasing by; one bit)
-
- If you use a hash table that grows by increasing the result size by one bit, one old bucket maps across the entire new table, not to just two new buckets.
-0.622: (the result size; be increasing by; one bit)
-0.23: (you; use; a hash table that grows by increasing the result size by one bit)
-
- If your algorithm has a sliding pointer for which buckets have been split, that just won t work with FNV.
-0.183: (your algorithm; has; a sliding pointer for which buckets have been split)
-
- Second, it s linear.
-No extractions found.
-
- That means that widely separated things can cancel each other out at least as easily as nearby things.
-0.591: (that widely separated things; can cancel out as easily as nearby things; each other)
-
- Third, since multiplication only affects higher bits, the lowest 7 bits of the state are never affected by the 8th bit of all the input bytes.
-0.937: (the lowest 7 bits of the state; are never affected by; the 8th bit of all the input bytes)
-0.796: (Third; are never affected by; the 8th bit of all the input bytes)
-0.612: (multiplication; only affects; higher bits)
-
-The BDZ algorithm uses r_uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs that require Obits to be stored.
-0.861: (r_uniform random hypergraphs; be given by; function values of r uniform random hash functions)
-0.809: (The BDZ algorithm; uses; r_uniform random hypergraphs given by function values of r uniform random hash functions on the input key set S for generating PHFs and MPHFs)
-0.709: (r_uniform random hypergraphs; be given on; the input key set S)
-0.683: (the input key; be set in; S)
-
- A hypergraph is the generalization of a standard undirected graph where each edge connects vertices.
-0.939: (A hypergraph; is the generalization of; a standard undirected graph where each edge connects vertices)
-0.772: (each edge; connects; vertices)
-0.736: (A hypergraph; is; the generalization of a standard undirected graph)
-0.564: (vertices; be connects by; a standard undirected graph)
-
- This idea is not new, see e.
-0.704: (This idea; is; not new)
-
-g.
-No extractions found.
-
- , but we have proceeded differently to achieve a space usage of Obits rather than Obits.
-0.708: (a space usage of Obits; to be achieve than; Obits)
-0.683: (we; have proceeded differently to achieve; a space usage of Obits)
-0.525: (we; have proceeded differently to achieve a space usage of Obits than; Obits)
-
- Evaluation time for all schemes considered is constant.
-0.716: (Evaluation time; is; constant)
-0.426: (constant; be Evaluation time for; all schemes considered)
-
- For r 3 we obtain a space usage of approximately 2.
-0.68: (we; obtain; a space usage of)
-0.445: (we; obtain a space usage of approximately for; r 3)
-
-6n bits for an MPHF.
-No extractions found.
-
- More compact, and even simpler, representations can be achieved for larger m.
-0.909: (representations; can be achieved for; larger m)[enabler=More compact , and even simpler]
-
- For example, for m 1.
-No extractions found.
-
-23n we can get a space usage of 1.
-0.647: (we; can get; a space usage of 1)
-
-95n bits.
 No extractions found.
 

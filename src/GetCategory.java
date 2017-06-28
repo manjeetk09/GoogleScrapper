@@ -55,7 +55,7 @@ public class GetCategory{
         //System.out.println("Start:: " + url);
         org.jsoup.nodes.Document doc = new Document("");
 
-        if(url.contains("%"))
+        if(url.contains("%") || url.contains("+"))
         {
             String temp_url = URLDecoder.decode(url,"UTF-8");
             //System.out.println("decoded::"+temp_url);
@@ -167,13 +167,14 @@ public class GetCategory{
         String head = head_phrase;
         String head_s = head_plural + "s";
         String head_es = head_plural + "es";
-        String head_ies = head_plural.substring(0,head.length() - 1) + "ies";
+        String head_ies = head_plural.substring(0,head_plural.length() - 1) + "ies";
         ArrayList<String> res = new ArrayList<String>();
         double sum = 0;
 //        PorterStemmer p = new PorterStemmer();
 //        String stemmed = p.stem(head);
 //        System.out.println("stem: " +
         String[] ans_ent_split = answer.split(" ");
+        System.out.println("mlpack :: " + head_phrase1);
         ArrayList<Category> c1 = getCats(answer1);
         ArrayList<Category> c2 = getCats(head_phrase1);
 

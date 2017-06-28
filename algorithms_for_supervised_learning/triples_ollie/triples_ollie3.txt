@@ -1,0 +1,256 @@
+Unsupervised Genetic Algorithm Deployed for Intrusion Detection, .
+No extractions found.
+
+ Zorana Bankovi , Slobodan Bojani , Octavio Nieto, Atta Badii.
+No extractions found.
+
+From which it s pretty clear that genetic algorithms are not unsupervised as they are measured against a fitness criteria.
+0.903: (they; are measured against; a fitness criteria)
+
+ Individual mutations may not be supervised, but the system as a whole is supervised as mutations are either removed or built upon based on the resulting fitness they give the algorithm.
+0.812: (they; give; the algorithm)
+0.787: (the system; is supervised as; mutations)
+0.735: (the system; is; supervised)
+0.351: (supervised; be the system as; a whole)
+
+Supervised learning in attribute_based spaces is one of the most popular machine learning problems studied and, consequently, has attracted considerable attention of the genetic algorithm community.
+0.847: (one of the most popular machine learning problems; has attracted; considerable attention of the genetic algorithm community)
+
+ The fullmemory approach developed here uses the same high_level descriptive language that is used in rule_based systems.
+No extractions found.
+
+ This allows for an easy utilization of inference rules of the well_known inductive learning methodology, which replace the traditional domain_independent operators and make the search task_specific.
+No extractions found.
+
+ Moreover, a closer relationship between the underlying task and the processing mechanisms provides a setting for an application of more powerful task_specific heuristics.
+0.755: (a closer relationship between the underlying task and the processing mechanisms; Moreover provides; a setting)
+
+ Initial results obtained with a prototype implementation for the simplest case of single concepts indicate that genetic algorithms can be effectively used to process high_level concepts and incorporate task_specific knowledge.
+0.78: (Initial results; be obtained with; a prototype implementation)
+0.77: (Initial results; be obtained for; the simplest case of single concepts)
+
+ The method of abstracting the genetic algorithm to the problem level, described here for the supervised inductive learning, can be also extended to other domains and tasks, since it provides a framework for combining recently popular genetic algorithm methods with traditional problem_solving methodologies.
+0.919: (The method abstracting the genetic algorithm to the problem level described here for the supervised inductive learning; can be also extended to; other domains and tasks)[enabler=since it provides a framework for combining recently popular genetic algorithm methods with traditional problem_solving methodologies]
+0.753: (The method abstracting the genetic algorithm to the problem level; be described here for; the supervised inductive learning)
+0.662: (popular genetic algorithm methods; be combining with; traditional problem_solving methodologies)
+0.609: (the genetic algorithm; be abstracting to; the problem level)
+0.592: (it; provides; a framework)
+
+ Moreover, in this particular case, it provides a very powerful tool enabling study of the widely accepted but not so well understood inductive learning methodology.
+0.726: (it; Moreover provides; a very powerful tool enabling study of the widely accepted but not so well understood inductive learning methodology)
+0.233: (it; Moreover provides a very powerful tool enabling study of the widely accepted but not so well understood inductive learning methodology in; this particular case)
+
+A new type of genetic algorithm for the training of neural networks is presented.
+No extractions found.
+
+ The difficulty of obtaining a nearly globally optimal set of weights in a reasonable time is overcome by using a global optimization method.
+0.622: (a nearly globally optimal set of weights; be obtaining in; a reasonable time)
+0.51: (optimal; set of; weights)
+
+ It maintains a set of points at every iteration and permits a parallel search of the global minimum.
+0.784: (It; maintains; a set of points)
+0.757: (It; permits; a parallel search of the global minimum)
+0.743: (It; maintains a set of points at; every iteration)
+
+Supervised learning algorithms are ones for which we have some known labels on our inputs , whereas in unsupervised learning we don t have any known outputs.
+0.739: (we; have; some known labels)
+0.636: (t; have; any known outputs)
+
+ Regardless, in both cases we need to learn the parameters that relate the input to the output.
+0.708: (we; Regardless need to learn; the parameters that relate the input to the output)
+0.464: (we; Regardless need in; both cases)
+
+Interactive genetic algorithms are effective methods of solving optimization problems with implicit criteria by incorporating a user s intelligent evaluation into traditional evolution mechanisms.
+No extractions found.
+
+ The heavy evaluation burden of the user, however, is crucial and limits their applications in complex optimization problems.
+No extractions found.
+
+ We focus on reducing the evaluation burden by presenting a semi_supervised learning assisted interactive genetic algorithm with large population.
+No extractions found.
+
+ In this algorithm, a population with many individuals is adopted to efficiently explore the search space.
+0.754: (a population; is adopted in; this algorithm)
+
+ A surrogate model built with an improved semi_supervised learning method is employed to evaluate a part of individuals instead of the user to alleviate his her burden in evaluation.
+0.877: (A surrogate model; built with; an improved semi_supervised learning method)
+0.772: (his her burden; to be alleviate in; evaluation)
+
+ Incorporated with the principles of the improved semi_supervised learning, the opportunities of applying and updating the surrogate model are determined by its confidence degree in estimation, and the informative individuals reevaluated by the user are selected according to the concept of learning from mistakes.
+0.899: (the opportunities applying and updating the surrogate model; are determined by; its confidence degree)
+0.752: (the informative individuals; be reevaluated by; the user)
+
+ We quantitatively analyze the performance of the proposed algorithm and apply it to the design of sunglasses lenses, a representative optimization problem with one qualitative criterion.
+0.785: (We; apply it to; the design of sunglasses lenses)
+0.707: (it; be apply to; the design of sunglasses lenses)
+0.662: (We; apply; it)
+0.545: (We; quantitatively analyze the performance of the proposed algorithm; a representative optimization problem)
+0.413: (We; quantitatively analyze a representative optimization problem with one qualitative criterion; the performance of the proposed algorithm)
+
+ The empirical results demonstrate the strength of our algorithm in searching for satisfactory solutions and easing the evaluation burden of the user.
+0.803: (The empirical results; demonstrate; the strength of our algorithm)
+
+Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras July 21, 2016.
+No extractions found.
+
+Your First Machine Learning Project in Python Step_By_Step June 10, 2016.
+No extractions found.
+
+Develop Your First Neural Network in Python With Keras Step_By_Step May 24, 2016.
+0.877: (Your First Neural Network; be Develop with; Keras Step_By_Step May 24)
+
+Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras July 26, 2016.
+No extractions found.
+
+Multi_Class Classification Tutorial with the Keras Deep Learning Library June 2, 2016.
+No extractions found.
+
+How to Run Your First Classifier in Weka February 17, 2014.
+0.728: (Your First Classifier; to be Run in; Weka February 17)
+
+Regression Tutorial with the Keras Deep Learning Library in Python June 9, 2016.
+No extractions found.
+
+A Tour of Machine Learning Algorithms November 25, 2013.
+No extractions found.
+
+Tutorial To Implement k_Nearest Neighbors in Python From Scratch September 12, 2014.
+No extractions found.
+
+How to Implement the Backpropagation Algorithm From Scratch In Python November 7, 2016.
+0.705: (the Backpropagation Algorithm; to be Implement from; Scratch)
+
+I also did not cover algorithms from specialty subfields of machine learning, such as.
+0.723: (I; also did not cover; algorithms)
+
+ Computational intelligence  evolutionary algorithms, etc.
+No extractions found.
+
+ .
+No extractions found.
+
+ Computer Vision .
+No extractions found.
+
+ Natural Language Processing .
+No extractions found.
+
+ Recommender Systems.
+No extractions found.
+
+ Reinforcement Learning.
+No extractions found.
+
+ Graphical Models.
+No extractions found.
+
+ And more .
+No extractions found.
+
+Genetic Algorithms can be used for both supervised and unsupervised learning, e.
+0.894: (Genetic Algorithms; can be used for; supervised and unsupervised)
+
+g.
+No extractions found.
+
+Machine learning is the subfield of computer science that, according to Arthur Samuel in 1959, gives  computers the ability to learn without being explicitly programmed.
+0.951: (Machine learning; is the subfield of; computer science)
+0.894: (Machine learning; is the subfield of computer science in; 1959)
+0.838: (Machine learning; is; the subfield of computer science)
+
+  Evolved from the study of pattern recognition and computational learning theory in artificial intelligence, machine learning explores the study and construction of algorithms that can learn from and make predictions on data   such algorithms overcome following strictly static program instructions by making data_driven predictions or decisions,.
+0.835: (predictions; overcome following; static program instructions)
+0.78: (machine learning; explores; the study and construction of algorithms)
+
+2 through building a model from sample inputs.
+0.674: (a model; be building from; sample inputs)
+
+ Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms with good performance is difficult or infeasible  example applications include email filtering, detection of network intruders or malicious insiders working towards a data breach, optical character recognition , learning to rank, and computer vision.
+0.94: (Machine learning; is employed in; a range of computing tasks)
+0.741: (email filtering; be detection of; network intruders or malicious insiders working towards a data breach , optical character recognition)
+0.675: (explicit algorithms; be programming with; good performance)
+0.627: (network intruders or malicious insiders; working towards; a data breach)
+0.625: (difficult or infeasible example applications; is include; email filtering)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Machine learning tasks are typically classified into three broad categories, depending on the nature of the learning  signal  or  feedback  available to a learning system.
+0.919: (Machine learning tasks; are typically classified into; three broad categories)
+
+ These are Supervised learning.
+No extractions found.
+
+ The computer is presented with example inputs and their desired outputs, given by a  teacher , and the goal is to learn a general rule that maps inputs to outputs.
+0.933: (The computer; is presented with; example inputs and their desired outputs , given by a teacher)
+0.856: (the goal; is to learn; a general rule that maps inputs to outputs)
+0.78: (example inputs and their desired outputs; be given by; a teacher)
+0.636: (a general rule; be that maps inputs to; outputs)
+
+ Unsupervised learning.
+No extractions found.
+
+ No labels are given to the learning algorithm, leaving it on its own to find structure in its input.
+0.919: (No labels; are given to; the learning algorithm)
+0.689: (structure; to be find in; its input)
+0.592: (it; be leaving on; its own)
+
+ Unsupervised learning can be a goal in itself or a means towards an end .
+0.861: (Unsupervised learning; can be a goal in; itself)
+0.788: (Unsupervised learning; can be; a goal)
+
+ Reinforcement learning.
+No extractions found.
+
+ A computer program interacts with a dynamic environment in which it must perform a certain goal  such as driving a vehicle or playing a game against an opponent 4 .
+0.674: (a game; be playing against; an opponent 4)
+0.626: (it; must perform; a certain goal)
+
+3 .
+No extractions found.
+
+ The program is provided feedback in terms of rewards and punishments as it navigates its problem space.
+0.79: (The program; is provided; feedback)[enabler=as it navigates its problem space]
+0.502: (it; navigates; its problem space)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A genetic algorithm is a search heuristic that mimics the process of natural selection, and uses methods such as mutation and crossover to generate new genotype in the hope of finding good solutions to a given problem.
+0.796: (new genotype; to be generate in; the hope finding good solutions to a given problem)
+0.746: (A genetic algorithm; is; a search heuristic)
+0.718: (mimics; to generate new genotype in; the hope finding good solutions to a given problem)
+0.674: (good solutions; be finding to; a given problem)
+0.554: (mimics; to generate; new genotype)
+
+ In machine learning, genetic algorithms found some uses in the 1980s and 1990s.
+0.894: (genetic algorithms; found some uses in; 1980s and 1990s)
+0.829: (genetic algorithms; found; some uses)
+0.779: (some uses; be found in; 1980s and 1990s)
+0.757: (genetic algorithms; found some uses in; machine learning)
+0.565: (some uses; be found in; machine learning)
+
+ Vice versa, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.
+0.814: (Vice versa; have been used to improve; the performance of genetic and evolutionary algorithms)
+
+.
+No extractions found.
+
+.
+No extractions found.
+

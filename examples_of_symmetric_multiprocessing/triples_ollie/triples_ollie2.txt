@@ -1,0 +1,217 @@
+Symmetric multiprocessing involves a multiprocessor computer hardware and software architecture where two or more identical processors are connected to a single, shared main memory, have full access to all I O devices, and are controlled by a single operating system instance that treats all processors equally, reserving none for special purposes.
+0.914: (two or more identical processors; are connected to; a single , shared main memory)
+0.853: (Symmetric multiprocessing; involves; a multiprocessor computer hardware and software architecture where two or more identical processors are connected to a single , shared main memory)
+0.621: (two or more identical processors; are connected in; a multiprocessor computer hardware and software architecture)
+0.53: (all processors; be treats equally by; a single operating system instance)
+
+ Most multiprocessor systems today use an SMP architecture.
+0.767: (Most multiprocessor systems; use; an SMP architecture)
+
+ In the case of multi_core processors, the SMP architecture applies to the cores, treating them as separate processors.
+0.847: (the SMP architecture; applies to; the cores)
+0.736: (the SMP architecture; applies in; the case of multi_core processors)
+0.69: (the SMP architecture; applies treating them as; separate processors)
+0.619: (them; be treating as; separate processors)
+0.528: (the SMP architecture; applies treating; them)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+SMP is the processing of programs by multiple processors that share a common operating system and memory.
+0.884: (SMP; is the processing of; programs)
+0.862: (SMP; is the processing of programs by; multiple processors)
+0.668: (SMP; is; the processing of programs)
+
+ In symmetric multiprocessing, the processors share memory and the I O bus or data path.
+No extractions found.
+
+ A single copy of the operating system is in charge of all the processors.
+0.891: (A single copy of the operating system; is in; charge of all the processors)
+
+ SMP, also known as a  shared everything  system, does not usually exceed 16 processors.
+0.812: (SMP; be also known as; a shared everything system)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+One of the easiest and cheapest ways to improve hardware performance is to put more than one CPU on the board.
+0.854: (One of the easiest and cheapest ways; is to put more than one CPU on; the board)
+0.846: (One of the easiest and cheapest ways; is to put; than one CPU)
+0.827: (One of the easiest and cheapest ways; to put more than one CPU on; the board)
+0.695: (than one CPU; to be put on; the board)
+
+ This can be done either making the different CPU s take on different jobs or by making them all run in parallel, doing the same job  symmetrical multi_processing, a.
+0.591: (s; take on; different jobs)
+
+k.
+No extractions found.
+
+a.
+No extractions found.
+
+ SMP .
+No extractions found.
+
+ Doing asymmetrical multi_processing effectively requires specialized knowledge about the tasks the computer should do, which is unavailable in a general purpose operating system such as Linux.
+No extractions found.
+
+ On the other hand, symmetrical multi_processing is relatively easy to implement.
+0.778: (symmetrical multi_processing; is relatively; easy)
+0.572: (symmetrical multi_processing; is relatively easy on; the other hand)
+
+Short for Symmetric Multiprocessing, a computer architecture that provides fast performance by making multiple CPUs available to complete individual processes simultaneously .
+0.563: (performance; be provides by; a computer architecture)
+0.526: (multiple CPUs; be available to; complete individual processes)
+
+ Unlike asymmetrical processing, any idle processor can be assigned any task, and additional CPUs can be added to improve performance and handle increased loads.
+0.757: (performance and handle; increased; loads)
+0.679: (additional CPUs; can be assigned any task can unlike; asymmetrical processing)
+0.679: (any idle processor; can be assigned any task can unlike; asymmetrical processing)
+0.564: (any idle processor; can be assigned can; any task)
+0.388: (additional CPUs; can be assigned can; any task)
+
+ A variety of specialized operating systems and hardware arrangements are available to support SMP.
+0.729: (A variety of specialized operating systems; to support; SMP.)
+0.492: (available; be A variety of; specialized operating systems and hardware arrangements)
+
+ Specific applications can benefit from SMP if the code allows multithreading.
+0.84: (Specific applications; can benefit from; SMP)[enabler=if the code allows multithreading]
+
+Toby Foster   Dec 12, 2007.
+No extractions found.
+
+Engineers contemplating a migration from a single_core to a multicore processor must identify where parallelism exists in their application.
+0.799: (parallelism; exists in; their application)
+0.769: (Engineers; contemplating a migration from; a single_core)
+0.707: (a migration; be contemplating from; a single_core)
+
+ The next decision is how to partition the code over the cores of the device.
+0.772: (the code; to be partition over; the cores of the device)
+
+ The two main options are symmetric_multiprocessor mode and asymmetric_multiprocessor mode.
+No extractions found.
+
+Or, different OSs may reside on the two cores.
+0.834: (different OSs; may reside on; the two cores)
+
+ For example, if two previously separate processors are being collapsed onto one dual_core device, different OSs may reside on the two cores.
+0.834: (different OSs; may reside on; the two cores)
+0.214: (two previously separate processors; are being collapsed onto; one dual_core device)
+0.168: (different OSs; may reside for; example)
+
+By.
+No extractions found.
+
+ Colin Walls, Posted on.
+No extractions found.
+
+ June 17, 2015.
+No extractions found.
+
+     .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+AMP stands for Asymmetric Multi_Processing  SMP means Symmetric Multi_Processing.
+0.673: (AMP; stands for; Asymmetric Multi_Processing SMP)
+
+ These terms are not at all transparent.
+0.83: (These terms; are not at; all transparent)
+
+ In seeking a means to clarify, I thought I would check Wikipedia and looked up  AMP .
+0.605: (I; would check; Wikipedia)[attrib=I thought]
+
+ From the disambiguation page, I found the relevant article.
+0.721: (I; found; the relevant article)
+0.601: (I; found the relevant article from; the disambiguation page)
+0.565: (the relevant article; be found from; the disambiguation page)
+
+ Well, I say  relevant , but it really does not cover the topic as we see it today.
+0.711: (it; really does not cover; the topic)[enabler=as we see it today]
+0.278: (we; see today; it)
+
+ It talks about historical uses of multiple CPUs and dismisses it to history.
+0.801: (It; talks about; historical uses of multiple CPUs)
+
+ So, I will try to advance definitions.
+0.651: (I; to advance; definitions)
+0.623: (I; So will try to advance; definitions)
+
+     .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Asymmetric multiprocessing    In asymmetric multiprocessing the program tasks are strictly divided by type between processors and typically, each processor has its own memory address space.
+0.925: (the program tasks; are strictly divided by; type)
+0.754: (the program tasks; are strictly divided in; asymmetric)
+0.567: (each processor; typically has; its own memory address space)
+
+  These features make asymmetric multiprocessing difficult to implement.
+No extractions found.
+
+ The two figures below are two examples of asymmetric multiprocessor configurations.
+0.93: (The two figures; are two examples of; asymmetric multiprocessor configurations)
+
+ .
+No extractions found.
+
+ Symmetric multiprocessing Symmetric multiprocessing is the most common configuration of multiple processors.
+0.936: (Symmetric; is the most common configuration of; multiple processors)
+0.795: (Symmetric; is; the most common configuration of multiple processors)
+
+ A typical SMP configuration has the following items.
+0.74: (A typical SMP configuration; has; the following items)
+
+        It has multiple processors and exactly one of everything else.
+0.661: (It; has; multiple processors and exactly one of everything)
+
+ memory, I O subsystem, operating system, etc.
+No extractions found.
+
+        The processors are symmetric, that is, they can do anything the others can.
+0.825: (they; can do; anything the others can)
+0.762: (symmetric; can do; anything the others can)
+
+  Each can look at or alter any element of memory, and each can do any kind of I O.
+No extractions found.
+
+ .
+No extractions found.
+

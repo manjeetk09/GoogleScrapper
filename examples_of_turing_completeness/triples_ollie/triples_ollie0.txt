@@ -1,0 +1,180 @@
+In computability theory, a system of data_manipulation rules is said to be Turing complete or computationally universal if it can be used to simulate any single_taped Turing machine.
+0.696: (a system of data_manipulation rules; is said in; computability theory)
+
+ The concept is named after English mathematician and computer scientist Alan Turing.
+0.914: (The concept; is named after; English mathematician and computer scientist Alan Turing)
+
+ A classic example is lambda calculus.
+0.716: (A classic example; is; lambda calculus)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Here s the briefest explanation.
+No extractions found.
+
+For example.
+No extractions found.
+
+ Let s say there is a program that takes 10 numbers and adds them.
+0.54: (them; be adds by; a program that takes 10 numbers)
+
+ Turing machine can easily run this program.
+No extractions found.
+
+ But now imagine for some reason your programming language can t do the same addition then it s Turing machine incomplete.
+0.668: (your programming language; can t do then; the same addition)
+0.554: (it; s; Turing machine incomplete)
+
+ On the other hand, if it can run any program like the universal turing machine can run, then it s Turing complete.
+0.473: (any program; can be run on; the other hand)
+0.118: (it; can run; any program)
+0.01: (it; can run any program like the universal turing machine can run , then it s Turing complete on; the other hand)
+
+An example of a Turing complete system is lambda calculus that was developed by Alonzo Church, Alan Turing s professor.
+0.752: (An example of a Turing complete system; is; lambda calculus that was developed by Alonzo Church)
+0.476: (lambda calculus that was developed by Alonzo Church; be An example of; a Turing complete system)
+
+ Other examples of Turing complete systems include.
+No extractions found.
+
+ Many procedural programming languages, including C and Pascal.
+0.417: (Many; be procedural programming languages including; C and Pascal)
+0.403: (procedural; be programming languages including; C and Pascal)
+
+ Most object_oriented programming languages, such as Java and C  .
+0.348: (object_oriented; be programming languages as; Java and C)
+0.149: (Most; be object oriented programming languages as; Java and C)
+
+ Logic programming languages, such as Prolog.
+No extractions found.
+
+ Many finite automata systems, such as Conway s Game of Life.
+0.616: (Many finite automata systems; be Game of; Life)
+0.405: (Game of Life; be Many finite automata systems as; Conway)
+
+What are the most popular, Non_Turing Complete computer languages .
+No extractions found.
+
+What is the best programming language to learn for web programming in the coming period .
+No extractions found.
+
+Is Java a pure object_oriented programming language .
+0.829: (Java; Is; a pure object_oriented programming language)
+
+What is meant by  NET in programming languages .
+No extractions found.
+
+Why is C and C   always mentioned as C C   instead of C, C   .
+No extractions found.
+
+How come Python can do so many things compared to other programming languages .
+0.748: (Python; can do; many things)
+
+Is PHP a badly designed programming language .
+0.683: (PHP; Is; a badly designed programming language)
+
+What is the use clrscrfunction in C language .
+No extractions found.
+
+Why would a scripting language be made  purposefully non Turing_complete  .
+0.606: (a scripting language; would be made; non Turing_complete)
+
+Which is better to learn first  Java or C .
+No extractions found.
+
+Which is the best programming language .
+No extractions found.
+
+Which is the most complete programming language .
+No extractions found.
+
+What is meant by the body of a loop in GW Basic Programming language .
+No extractions found.
+
+What programming languages do what .
+No extractions found.
+
+What is the difference between a high level and low level computer programming language .
+No extractions found.
+
+How big a deal is it for a programming language to be Turing Complete .
+0.661: (big a deal; is; it)
+
+Are there any nearly Turing Complete languages .
+No extractions found.
+
+Is assembly language turing complete .
+No extractions found.
+
+In what language was C written .
+0.591: (C; was written in; what language)
+
+How do you formally prove Turing completeness of programming language .
+0.635: (you; do formally prove Turing; completeness programming language)
+
+What are the most popular, Non_Turing Complete computer languages .
+No extractions found.
+
+What is the best programming language to learn for web programming in the coming period .
+No extractions found.
+
+Is Java a pure object_oriented programming language .
+0.829: (Java; Is; a pure object_oriented programming language)
+
+What is meant by  NET in programming languages .
+No extractions found.
+
+Why is C and C   always mentioned as C C   instead of C, C   .
+No extractions found.
+
+This page was last modified on 9 May 2011, at 16 24 .
+0.794: (This page; was last at; 16 24)
+0.665: (This page; was; last)
+
+Content is available under CC0 public domain dedication .
+0.832: (Content; is available under; CC0 public domain dedication)
+0.746: (Content; is; available)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A programming language is said to be Turing_complete if it is in the same computational class as a Turing machine  that is to say, that it can perform any calculation that a universal Turing machine can.
+0.736: (A programming language; is said; Turing_complete)
+0.647: (it; can perform; any calculation that a universal Turing machine can)
+0.14: (it; is in; the same computational class)
+0.079: (it; is as; a Turing machine)
+
+ This is considered significant because, under the Church_Turing thesis, a Turing machine is the embodiment of the intuitive notion of an algorithm.
+0.904: (a Turing machine; because is the embodiment of; the intuitive notion of an algorithm)
+0.692: (a Turing machine; because is; the embodiment of the intuitive notion of an algorithm)
+0.512: (a Turing machine; because is the embodiment of the intuitive notion of an algorithm under; the Church_Turing thesis)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+This is not the case when talking about a restricted set of computations.
+0.472: (restricted; set of; computations)
+
+ A finite_state automaton, for example, can be constructed which computes the Ackermann function ffor 1   m   1000 and 1   n   1000.
+0.649: (A finite_state automaton; can be constructed for; example)
+
+ In fact, such an evaluation could be stored in a million_cell lookup table.
+0.914: (such an evaluation; could be stored in; a million_cell lookup table)
+0.518: (such an evaluation; could be stored in; fact)
+
+.
+No extractions found.
+
+.
+No extractions found.
+

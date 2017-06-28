@@ -1,0 +1,91 @@
+0;Using print statements for debugging a program is often not adequate or convenient.
+0; For example, the programmer may want to change the values of certain variables after observing the execution of the program till some point.
+0; For a large program it may be difficult to go back to the source program, make the necessary changes and rerun the program.
+0; Again, if such print statements are placed inside loops, it will produce output everytime the loop is executed though the programmer may be interested in only certain iterations of the loop.
+0; To overcome several such drawbacks of debugging by inserting extra statements in the program, there are a kind of tool called debugger that helps in debugging programs by giving the programmer some control over the execution of the program and some means of examining and modifying different program variables during runtime.
+0;A debugger or debugging tool is a computer program that is used to test and debug other programs .
+0; The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered, but which will typically be somewhat slower than executing the code directly on the appropriate processor.
+0; Some debuggers offer two modes of operation, full or partial simulation, to limit this impact.
+0;.
+0;.
+0;Some debuggers include a feature called  reverse debugging , also known as  historical debugging  or  backwards debugging .
+0; These debuggers make it possible to step a program s execution backwards in time.
+0; Various debuggers include this feature.
+0; Microsoft Visual Studio offers IntelliTrace reverse debugging for C , Visual Basic .
+0;NET, and some other languages, but not C  .
+0; Reverse debuggers also exist for C, C  , Java, Python, Perl, and other languages.
+0; Some are open source  some are proprietary commercial software.
+0; Some reverse debuggers slow down the target by orders of magnitude, but the best reverse debuggers cause a slowdown of 2  or less.
+0; Reverse debugging is very useful for certain types of problems, but is still not commonly used yet.
+0;.
+0;.
+0;Most modern microprocessors have at least one of these features in their CPU design to make debugging easier.
+0; Hardware support for single_stepping a program, such as the trap flag.
+0; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control.
+0; In_system programming allows an external hardware debugger to reprogram a system under test .
+0; Many systems with such ISP support also have other hardware debug support.
+0; Hardware support for code and data breakpoints, such as address comparators and data value comparators or, with considerably more work involved, page fault hardware.
+0; 5 .
+0; JTAG access to hardware debug interfaces such as those on ARM architecture processors or using the Nexus command set.
+0; Processors used in embedded systems typically have extensive JTAG debug support.
+0; Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR.
+0; DebugWIRE, for example, uses bidirectional signaling on the RESET pin.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0; .
+0; .
+0;.
+0;.
+0;.
+0;.
+0; .
+0; .
+0;Debugging, in computer programming and engineering, is a multistep process that involves identifying a problem, isolating the source of the problem, and then either correcting the problem or determining a way to work around it.
+0; The final step of debugging is to test the correction or workaround and make sure it works.
+0;.
+0;.
+0;.
+0;.
+0; .
+0; .
+0;The debugger is a program that can run your program one line at a time.
+0; Thus the debugger can show you exactly how the computer sees your code.
+0;In GDB to  remove  a breakpoint, type  del   , where   is the number of the breakpoint.
+0; Type  break  to list all the breakpoints.
+0;These two types of debugging provide you with some very technical information.
+0; You can use it to do an online search for a possible solution or cause to the problem, or to provide additional information to our Customer Support when opening a ticket.
+0;This produces a file error_log.
+0;txt in your WordPress root directory.
+0; Make sure that the web server can create and write this file.
+0; If it cannot, use an FTP program to create the file and make it writable to Apache .
+0;This enables the WordPress native debug system and displays all PHP errors, notices and warnings.
+0; You can read more information about Debugging in WordPress here.
+0;A debugger or debugging tool is a computer program that is used to test and debug other programs .
+0; The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered but which will typically be somewhat slower than executing the code directly on the appropriate processor.
+0; Some debuggers offer two modes of operation _ full or partial simulation, to limit this impact.
+0;.
+0;.
+0;Most modern microprocessors have at least one of these features in their CPU design to make debugging easier.
+0; hardware support for single_stepping a program, such as the trap flag.
+0; An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under the control of the debugger.
+0; In_System Programming allows an external hardware debugger to re_program a system under test .
+0; Many systems with such ISP support also have other hardware debug support.
+0; Hardware support for code and data breakpoints, such as address comparators and data value comparators or, with considerably more work involved, page fault hardware.
+0; JTAG access to hardware debug interfaces such as those on ARM architecture processors or using the Nexus command set.
+0; Processors used in embedded systems typically have extensive JTAG debug support.
+0; Microcontrollers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or DebugWire on the Atmel AVR.
+0; DebugWire, for example, uses bidirectional signaling on the RESET pin.
+0;.
+0;.
+0;Debugging is the art of diagnosing errors in programs and determining how to correct them.
+0;  Bugs  come in a variety of forms, including.
+0; coding errors, design errors, complex interactions, poor user interface designs, and system failures.
+0; Learning how to debug a program effectively, then, requires that you learn how to identify which sort of problem you re looking at, and apply the appropriate techniques to eliminate the problem.
+0;.
+0;.
+0;Learning and propagating various debugging techniques reduces bug count during development and increases code quality.
+0; Try having your more experienced engineers create a short course on techniques and having the younger engineers learn from them.

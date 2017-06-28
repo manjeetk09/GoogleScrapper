@@ -1,0 +1,157 @@
+A Wireless Sensor Network is one kind of wireless network includes a large number of circulating, self_directed, minute, low powered devices named sensor nodes called motes.
+0.908: (A Wireless Sensor Network; is one kind of; wireless network)
+0.796: (one kind of wireless network; includes; a large number circulating low powered devices named sensor nodes called motes)
+0.724: (A Wireless Sensor Network; is; one kind of wireless network)
+0.591: (named sensor nodes; called; low powered devices)
+
+ These networks certainly cover a huge number of spatially distributed, little, battery_operated, embedded devices that are networked to caringly collect, process, and transfer data to the operators, and it has controlled the capabilities of computing   processing.
+0.797: (These networks; certainly cover a huge number of spatially distributed has; embedded devices that are networked to caringly collect , process , and transfer data)
+0.775: (it; has controlled; the capabilities of computing processing)
+0.747: (These networks; has controlled; the capabilities of computing processing)
+0.545: (it; certainly cover a huge number of spatially distributed has; embedded devices that are networked to caringly collect , process , and transfer data)
+0.539: (These networks; certainly cover transfer data has; a huge number of spatially distributed)
+0.533: (These networks; certainly cover embedded devices that are networked to caringly collect , process , and transfer data to the operators has; a huge number of spatially distributed)
+0.262: (it; certainly cover transfer data has; a huge number of spatially distributed)
+0.258: (it; certainly cover embedded devices that are networked to caringly collect , process , and transfer data to the operators has; a huge number of spatially distributed)
+
+ Nodes are the tiny computers, which work jointly to form the networks.
+No extractions found.
+
+Wireless sensor networks , sometimes called wireless sensor and actuator networks , are spatially distributed autonomous sensors to monitor physical or environmental conditions, such as temperature, sound, pressure, etc.
+0.773: (autonomous sensors; to monitor; physical or environmental conditions)
+0.397: (sound; be physical or environmental conditions as; temperature)
+
+ and to cooperatively pass their data through the network to a main location.
+0.797: (their data; to be cooperatively pass through; the network)
+0.772: (their data; to cooperatively pass to be; a main location)
+
+ The more modern networks are bi_directional, also enabling control of sensor activity.
+No extractions found.
+
+ The development of wireless sensor networks was motivated by military applications such as battlefield surveillance  today such networks are used in many industrial and consumer applications, such as industrial process monitoring and control, machine health monitoring, and so on.
+0.894: (such networks; are used in; many industrial and consumer applications)
+0.708: (The development of wireless sensor networks; was motivated so on by; military applications)
+0.511: (The development of wireless sensor networks; was motivated so on in; today)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The sensor networks for medical applications can be of several types.
+0.867: (The sensor networks; can be of; several types)
+
+ implanted, wearable, and environment_embedded.
+No extractions found.
+
+ The implantable medical devices are those that are inserted inside human body.
+No extractions found.
+
+ Wearable devices are used on the body surface of a human or just at close proximity of the user.
+0.926: (Wearable devices; are used on; the body surface of a human)
+0.86: (Wearable devices; are used at; close proximity of the user)
+
+ Environment_embedded systems employ sensors contained in the environment.
+0.841: (Environment_embedded systems; employ; sensors contained in the environment)
+0.793: (sensors; be contained in; the environment)
+
+ Possible applications include body position measurement, location of persons, overall monitoring of ill patients in hospitals and at homes.
+0.722: (Possible applications; include; body position measurement)
+0.675: (body position measurement; be overall monitoring of; ill patients)
+0.669: (body position measurement; be overall monitoring of ill patients at; hospitals and at homes)
+0.669: (body position measurement; be overall monitoring of ill patients in; hospitals and at homes)
+0.586: (body position measurement; be location of; persons)
+0.381: (body position measurement; be location of persons of; ill patients)
+0.376: (body position measurement; be location of persons at; hospitals and at homes)
+0.376: (body position measurement; be location of persons in; hospitals and at homes)
+0.286: (body position measurement; be overall monitoring of ill patients of; persons)
+
+ Devices embedded in the environment track the physical state of a person for continuous health diagnosis, using as input the data from a network of depth cameras, a sensing floor, or other similar devices.
+0.608: (Devices; embedded track the physical state of a person for continuous health diagnosis , using as input the data from a network of depth cameras , a sensing floor , or other similar devices in; the environment)
+
+ Body_area networks can collect information about an individual s health, fitness, and energy expenditure.
+0.808: (Body_area networks; can collect; information)
+0.498: (an individual; s; health)
+
+ In health care applications the privacy and authenticity of user data has prime importance.
+0.728: (the privacy and authenticity of user data; has; prime importance)
+0.564: (prime importance; be has by; health care applications)
+
+ Especially due to the integration of sensor networks, with IoT, the authentication of user become more challenging  however, a solution is presented in recent work.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+These types of networks consist of hundreds or thousands of wireless sensor nodes.
+0.892: (These types of networks; consist of; hundreds or thousands of wireless sensor nodes)
+
+ These nodes can be deployed in an unstructured or a structured manner.
+0.919: (These nodes; can be deployed in; an unstructured or a structured manner)
+
+ The nodes are distributed randomly in an unstructured mode, but they are kept within the target area.
+0.937: (they; are kept within; the target area)
+0.9: (The nodes; are distributed randomly in; an unstructured mode)
+
+                                               .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+WSN nodes are typically organized in one of three types of network topologies.
+0.937: (WSN nodes; are typically organized in; one of three types of network topologies)
+
+ In a star topology, each node connects directly to a gateway.
+0.847: (each node; connects directly to; a gateway)
+0.613: (each node; connects directly in; a star topology)
+
+ In a cluster tree network, each node connects to a node higher in the tree and then to the gateway, and data is routed from the lowest node on the tree to the gateway.
+0.925: (data; is routed from; the lowest node)
+0.906: (data; is routed on; the tree)
+0.765: (each node; connects then to the gateway to; a node higher)
+0.523: (each node; connects then to the gateway in; a cluster tree network)
+
+ Finally, to offer increased reliability, mesh networks feature nodes that can connect to multiple nodes in the system and pass data through the most reliable path available.
+0.745: (mesh networks; Finally feature; nodes that can connect to multiple nodes in the system and pass data through the most reliable path available)
+
+ This mesh link is often referred to as a router .
+0.898: (This mesh link; is often referred as; a router)
+

@@ -1,0 +1,124 @@
+1;https://en.wikipedia.org/wiki/Message_passing;relies;1.0;0.047619047619047616;4.0;0
+1;https://en.wikipedia.org/wiki/Message_passing;run;1.0;0.047619047619047616;4.0;0
+1;https://en.wikipedia.org/wiki/Message_passing;invoke;1.0;0.047619047619047616;4.0;0
+1;https://en.wikipedia.org/wiki/Message_passing;supporting infrastructure;2.0;0.047619047619047616;4.0;0
+1;https://en.wikipedia.org/wiki/Message_passing;message passing sends;2.6666666666666665;0.047619047619047616;4.0;0
+1;https://en.wikipedia.org/wiki/Message_passing;process;1.0;0.09523809523809523;4.0;0
+1;https://en.wikipedia.org/wiki/Message_passing;actual code;2.0;0.047619047619047616;4.0;0
+1;https://en.wikipedia.org/wiki/Message_passing;computer science;2.0;0.047619047619047616;2.0;0
+1;https://en.wikipedia.org/wiki/Message_passing;message;2.0;0.047619047619047616;0.8;0
+1;https://en.wikipedia.org/wiki/Message_passing;select;1.0;0.047619047619047616;4.0;0
+2;https://en.wikipedia.org/wiki/Message_passing;function;1.0;0.047619047619047616;4.0;0
+2;https://en.wikipedia.org/wiki/Message_passing;subroutine;1.0;0.047619047619047616;4.0;0
+2;https://en.wikipedia.org/wiki/Message_passing;conventional programming;2.0;0.047619047619047616;4.0;0
+2;https://en.wikipedia.org/wiki/Message_passing;process;1.0;0.09523809523809523;4.0;0
+2;https://en.wikipedia.org/wiki/Message_passing;directly invoked;2.0;0.047619047619047616;4.0;0
+2;https://en.wikipedia.org/wiki/Message_passing;message passing differs;3.0;0.047619047619047616;4.0;0
+3;https://en.wikipedia.org/wiki/Message_passing;models;1.0;0.047619047619047616;4.0;0
+3;https://en.wikipedia.org/wiki/Message_passing;object_oriented programming;2.0;0.047619047619047616;4.0;0
+3;https://en.wikipedia.org/wiki/Message_passing;concurrency;1.0;0.0;4.0;0
+3;https://en.wikipedia.org/wiki/Message_passing;key;1.0;0.0;4.0;0
+3;https://en.wikipedia.org/wiki/Message_passing;message passing;2.0;0.047619047619047616;0.5;0
+6;https://www.defit.org/message-passing/;processes;1.0;0.07407407407407407;4.0;0
+6;https://www.defit.org/message-passing/;communication;1.0;0.0;4.0;0
+6;https://www.defit.org/message-passing/;objects;1.0;0.07407407407407407;4.0;0
+6;https://www.defit.org/message-passing/;computer science;2.0;0.037037037037037035;2.0;0
+6;https://www.defit.org/message-passing/;type;1.0;0.037037037037037035;4.0;0
+6;https://www.defit.org/message-passing/;message passing;2.0;0.07407407407407407;0.5714285714285714;0
+7;https://www.defit.org/message-passing/;model;1.0;0.037037037037037035;4.0;0
+7;https://www.defit.org/message-passing/;objects;1.0;0.07407407407407407;4.0;0
+7;https://www.defit.org/message-passing/;processes;1.0;0.07407407407407407;4.0;0
+7;https://www.defit.org/message-passing/;send;1.0;0.037037037037037035;2.0;0
+7;https://www.defit.org/message-passing/;receive messages;2.0;0.037037037037037035;4.0;0
+8;https://www.defit.org/message-passing/;asynchronous;1.0;0.0;4.0;0
+8;https://www.defit.org/message-passing/;synchronous;1.0;0.0;4.0;0
+8;https://www.defit.org/message-passing/;message passing;2.0;0.07407407407407407;0.5714285714285714;0
+9;https://www.defit.org/message-passing/;transferring;1.0;0.0;4.0;0
+9;https://www.defit.org/message-passing/;wait;1.0;0.07407407407407407;4.0;0
+9;https://www.defit.org/message-passing/;message;1.0;0.037037037037037035;0.8;0
+9;https://www.defit.org/message-passing/;sender;1.0;0.07407407407407407;1.0;0
+9;https://www.defit.org/message-passing/;receiver;1.0;0.07407407407407407;1.3333333333333333;0
+10;https://www.defit.org/message-passing/;sender;1.0;0.07407407407407407;1.0;0
+10;https://www.defit.org/message-passing/;asynchronous communication;2.0;0.037037037037037035;4.0;0
+10;https://www.defit.org/message-passing/;computations;1.0;0.0;4.0;0
+10;https://www.defit.org/message-passing/;transfer;1.0;0.037037037037037035;4.0;0
+10;https://www.defit.org/message-passing/;messages;1.0;0.037037037037037035;1.3333333333333333;0
+10;https://www.defit.org/message-passing/;receiver;1.0;0.07407407407407407;1.3333333333333333;0
+10;https://www.defit.org/message-passing/;carry;1.0;0.037037037037037035;4.0;0
+10;https://www.defit.org/message-passing/;wait;1.0;0.07407407407407407;4.0;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread sends;1.75;0.03125;4.0;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;message;1.5;0.046875;1.3333333333333333;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;java;1.0;0.0;4.0;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread;1.5;0.03125;4.0;0
+11;http://stackoverflow.com/questions/3222375/what-is-message-passing;message passing;1.75;0.03125;0.5714285714285714;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;communicate;1.0;0.0;4.0;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;shared memory;2.0;0.015625;4.0;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;environments;1.0;0.0;4.0;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread communication;2.0;0.015625;4.0;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;share semaphores;2.0;0.015625;4.0;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;synchronization;1.0;0.0;4.0;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;threads;1.0;0.015625;4.0;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;shared variables;2.0;0.015625;4.0;0
+12;http://stackoverflow.com/questions/3222375/what-is-message-passing;monitors;1.0;0.015625;4.0;0
+13;http://stackoverflow.com/questions/3222375/what-is-message-passing;shared memory platform;3.0;0.015625;4.0;0
+13;http://stackoverflow.com/questions/3222375/what-is-message-passing;message passing;2.0;0.03125;0.5714285714285714;0
+14;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.0625;4.0;0
+14;http://stackoverflow.com/questions/3222375/what-is-message-passing;operation;1.0;0.015625;4.0;0
+14;http://stackoverflow.com/questions/3222375/what-is-message-passing;messages;1.0;0.03125;2.0;0
+14;http://stackoverflow.com/questions/3222375/what-is-message-passing;sendand received;2.0;0.015625;4.0;0
+14;http://stackoverflow.com/questions/3222375/what-is-message-passing;channel;1.0;0.015625;4.0;0
+15;http://stackoverflow.com/questions/3222375/what-is-message-passing;received;1.0;0.015625;4.0;0
+15;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver blocks;2.0;0.015625;4.0;0
+15;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender;1.5;0.046875;1.3333333333333333;0
+15;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.0625;4.0;0
+15;http://stackoverflow.com/questions/3222375/what-is-message-passing;messages;1.0;0.03125;2.0;0
+15;http://stackoverflow.com/questions/3222375/what-is-message-passing;send;1.0;0.015625;2.0;0
+15;http://stackoverflow.com/questions/3222375/what-is-message-passing;meaning;1.0;0.015625;4.0;0
+15;http://stackoverflow.com/questions/3222375/what-is-message-passing;passed synchronously;2.0;0.015625;4.0;0
+15;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender blocks;1.75;0.015625;4.0;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;information;1.0;0.0;4.0;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;code;1.0;0.015625;4.0;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;one_way flow;2.0;0.015625;4.0;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender;1.0;0.046875;1.3333333333333333;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;time;1.0;0.015625;4.0;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;specific;1.5;0.015625;4.0;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;points;1.0;0.015625;4.0;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;synchronous message passing;3.0;0.015625;4.0;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver;1.0;0.03125;1.3333333333333333;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;specific instant;1.75;0.015625;4.0;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;called;1.0;0.015625;4.0;0
+16;http://stackoverflow.com/questions/3222375/what-is-message-passing;simple rendezvous;2.0;0.015625;4.0;0
+17;http://stackoverflow.com/questions/3222375/what-is-message-passing;chess game agent;3.0;0.015625;4.0;0
+18;http://stackoverflow.com/questions/3222375/what-is-message-passing;process messages synchronously;3.0;0.015625;4.0;0
+18;http://stackoverflow.com/questions/3222375/what-is-message-passing;agents;1.0;0.015625;4.0;0
+18;http://stackoverflow.com/questions/3222375/what-is-message-passing;handshaking;1.0;0.0;4.0;0
+18;http://stackoverflow.com/questions/3222375/what-is-message-passing;entire game;2.0;0.015625;4.0;0
+19;http://stackoverflow.com/questions/3222375/what-is-message-passing;asynchronous message passing;3.0;0.015625;4.0;0
+19;http://stackoverflow.com/questions/3222375/what-is-message-passing;sender;1.0;0.046875;1.3333333333333333;0
+19;http://stackoverflow.com/questions/3222375/what-is-message-passing;block;1.0;0.015625;4.0;0
+20;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.0625;4.0;0
+20;http://stackoverflow.com/questions/3222375/what-is-message-passing;buffered;1.0;0.015625;4.0;0
+20;http://stackoverflow.com/questions/3222375/what-is-message-passing;message;1.0;0.046875;1.3333333333333333;0
+20;http://stackoverflow.com/questions/3222375/what-is-message-passing;queued;1.0;0.03125;4.0;0
+20;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver waiting;2.0;0.015625;4.0;0
+21;http://stackoverflow.com/questions/3222375/what-is-message-passing;executed;1.0;0.015625;4.0;0
+21;http://stackoverflow.com/questions/3222375/what-is-message-passing;blocks;1.0;0.015625;4.0;0
+21;http://stackoverflow.com/questions/3222375/what-is-message-passing;receive;1.0;0.0625;4.0;0
+21;http://stackoverflow.com/questions/3222375/what-is-message-passing;receiver;1.0;0.03125;1.3333333333333333;0
+21;http://stackoverflow.com/questions/3222375/what-is-message-passing;buffered message;2.0;0.015625;4.0;0
+21;http://stackoverflow.com/questions/3222375/what-is-message-passing;queued;1.0;0.03125;4.0;0
+22;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread sends;1.75;0.03125;4.0;0
+22;http://stackoverflow.com/questions/3222375/what-is-message-passing;message;1.0;0.046875;1.3333333333333333;0
+22;http://stackoverflow.com/questions/3222375/what-is-message-passing;thread;1.5;0.03125;4.0;0
+23;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;questions;1.0;0.08333333333333333;4.0;0
+24;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;0.6666666666666666;0
+25;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;support;1.0;0.16666666666666666;4.0;0
+25;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;java;1.0;0.0;4.0;0
+25;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;0.6666666666666666;0
+26;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;support;1.0;0.16666666666666666;4.0;0
+26;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;java;1.0;0.0;4.0;0
+26;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;message passing;2.0;0.25;0.6666666666666666;0
+27;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;groovy;1.0;0.08333333333333333;4.0;0
+27;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;demonstrates;1.0;0.0;4.0;0
+27;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;concept;1.0;0.08333333333333333;4.0;0
+27;https://softwareengineering.stackexchange.com/questions/140602/what-is-message-passing-in-oo;power;1.0;0.08333333333333333;4.0;0

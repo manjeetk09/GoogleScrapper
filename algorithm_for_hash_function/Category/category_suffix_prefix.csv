@@ -1,4 +1,6 @@
-1suffix/prefix/W;1;hash function;hash_function
-1suffix/prefix/W;2;cryptographic hash function;hash_function
-1suffix/prefix/W;2;jenkins hash function;hash_function
-1suffix/prefix/W;0;function (mathematics);hash_function
+1suffix/prefix/W2;0.0;universal hashing;hash function
+1suffix/prefix/W2;0.0;one-way compression function;hash function
+1suffix/prefix;2;perfect hash function;hash function
+1suffix/prefix;2;cryptographic hash function;hash function
+1suffix/prefix/W2;0.0;function (mathematics);hash function
+1suffix/prefix/W2;0.0;hash table;hash function

@@ -1,37 +1,20 @@
-01 October 2005.
-No extractions found.
+A universal hashing scheme is a randomized algorithm that selects a hashing function h among a family of such functions, in such a way that the probability of a collision of any two distinct keys is 1 n, where n is the number of distinct hash values desired independently of the two keys.
+0.816: (n; is the number of; distinct hash values)
+0.802: (A universal hashing scheme; is; a randomized algorithm that selects a hashing function h among a family of such functions , in such a way that the probability of a collision of any two distinct keys is 1 n , where n is the number of distinct hash values desired independently of the two keys)
+0.539: (n; is; the number of distinct hash values)
+0.536: (the probability of a collision of any two distinct keys; is; 1 n)
+0.292: (1 n; be the probability of; a collision of any two distinct keys)
 
-The MD5 function is a cryptographic algorithm that takes an input of arbitrary length and produces a message digest that is 128 bits long.
-0.752: (The MD5 function; is; a cryptographic algorithm that takes an input of arbitrary length and produces a message digest)
-0.661: (a message that is 128 bits long; be produces by; a cryptographic algorithm that takes an input of arbitrary length)
+ Universal hashing ensures that the hash function application will behave as well as if it were using a random function, for any distribution of the input data.
+0.822: (Universal; hashing; ensures)
+0.773: (the hash function application; will behave as well as for; any distribution of the input data)[enabler=if it were using a random function]
+0.046: (it; were using; a random function)
 
- The digest is sometimes also called the  hash  or  fingerprint  of the input.
-0.818: (The digest; is sometimes also called; the hash or fingerprint of the input)
-0.558: (The digest; be the hash of; the input)
+ It will, however, have more collisions than perfect hashing and may require more operations than a special_purpose hash function.
+0.618: (It; will however have may; collisions)
+0.471: (It; will may require; more operations)
 
- MD5 is used in many situations where a potentially long message needs to be processed and or compared quickly.
-0.868: (MD5; is used in; many situations where a potentially long message needs to be processed and or compared quickly)
-
- The most common application is the creation and verification of digital signatures.
-0.912: (The most common application; is the creation of; digital signatures)
-0.778: (The most common application; is; the creation and verification of digital signatures)
-
-The MD5 algorithm is a widely used hash function producing a 128_bit hash value.
-No extractions found.
-
- Although MD5 was initially designed to be used as a cryptographic hash function, it has been found to suffer from extensive vulnerabilities.
-No extractions found.
-
- It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
-0.899: (It; can still be used as; a checksum to verify data integrity)
-
-v.
-No extractions found.
-
-t.
-No extractions found.
-
-e.
+ See also unique permutation hashing.
 No extractions found.
 
 v.
@@ -49,10 +32,63 @@ No extractions found.
 .
 No extractions found.
 
-The MD5 hashing algorithm is a one_way cryptographic function that accepts a message of any length as input and returns as output a fixed_length digest value to be used for authenticating the original message.
-0.825: (The MD5 hashing algorithm; is; a one_way cryptographic function that accepts a message of any length as input and returns as output a fixed_length digest value)
+A hash table is a collection of items which are stored in such a way as to make it easy to find them later.
+0.939: (A hash table; is a collection of; items which are stored in such a way as to make it easy to find them later)
+0.736: (A hash table; is; a collection of items)
+0.403: (it; to find later; them)
 
-.
+ Each position of the hash table, often called a slot, can hold an item and is named by an integer value starting at 0.
+0.787: (Each position of the hash table often called a slot; can is named by; an integer value starting at 0.)
+0.741: (Each position of the hash table often called a slot; can hold; an item)
+0.552: (an integer value; starting at; 0.)
+
+ For example, we will have a slot named 0, a slot named 1, a slot named 2, and so on.
+0.752: (a slot; be named 0,; a slot named 1)
+0.729: (we; will have; a slot named 0, a slot)
+0.2: (a slot named 0, a slot; will be have for; example)
+0.109: (we; will have a slot named 0, a slot named 1 for; example)
+
+ Initially, the hash table contains no items so every slot is empty.
+0.755: (the hash table; Initially contains; no items)[enabler=so every slot is empty]
+0.598: (every slot; is; empty)
+
+ We can implement a hash table by using a list with each element initialized to the special Python value None.
+0.723: (We; can implement; a hash table)
+0.714: (a list; be using with; each element initialized to the special Python value None)
+0.641: (each element; be initialized to; the special Python value None)
+
+ Figure 4 shows a hash table of size  .
+0.798: (Figure 4; shows; a hash table of size)
+
+ In other words, there are m slots in the table, named 0 through 10.
+0.625: (m slots named 0 through 10; are in; other words)
+
+A universal hashing scheme is a randomized algorithm that selects a hashing function h among a family of such functions, in such a way that the probability of a collision of any two distinct keys is 1 n, where n is the number of distinct hash values desired independently of the two keys.
+0.816: (n; is the number of; distinct hash values)
+0.802: (A universal hashing scheme; is; a randomized algorithm that selects a hashing function h among a family of such functions , in such a way that the probability of a collision of any two distinct keys is 1 n , where n is the number of distinct hash values desired independently of the two keys)
+0.539: (n; is; the number of distinct hash values)
+0.536: (the probability of a collision of any two distinct keys; is; 1 n)
+0.292: (1 n; be the probability of; a collision of any two distinct keys)
+
+ Universal hashing ensures that the hash function application will behave as well as if it were using a random function, for any distribution of the input data.
+0.822: (Universal; hashing; ensures)
+0.773: (the hash function application; will behave as well as for; any distribution of the input data)[enabler=if it were using a random function]
+0.046: (it; were using; a random function)
+
+ It will, however, have more collisions than perfect hashing and may require more operations than a special_purpose hash function.
+0.618: (It; will however have may; collisions)
+0.471: (It; will may require; more operations)
+
+ See also unique permutation hashing.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
 No extractions found.
 
 .
@@ -61,97 +97,60 @@ No extractions found.
 .
 No extractions found.
 
+ FIXME.
+No extractions found.
+
+ say a few words about   universal hash function  .
+0.242: (few; be words about; universal hash function)
+
 .
 No extractions found.
 
- .
+.
 No extractions found.
 
-MD5 was most popular and widely used hash function for quite some years.
+Understand the difference between hash function and algorithm correctly.
 No extractions found.
 
- The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
-0.851: (The MD family; comprises of; hash functions)
+ The hash function generates a hash code by operating on two blocks of fixed_length binary data.
+0.807: (The hash function; generates; a hash code)
 
- It was adopted as Internet Standard RFC 1321.
-0.875: (It; was adopted as; Internet Standard RFC 1321)
+What is a good Hash function  I saw a lot of hash function and applications in my data structures courses in college, but I mostly got that it s pretty hard to make a good hash function.
+0.785: (I; saw a lot of hash function in; my data structures courses)
+0.768: (I; saw; a lot of hash function and applications)
+0.747: (a lot of hash function and applications; be saw in; my data structures courses)
+0.716: (I; saw applications in; my data structures courses)
 
- It is a 128_bit hash function.
-0.611: (It; is; a 128_bit hash function)
+ As a rule of thumb to avoid collisions my professor said that.
+0.562: (my professor; be a rule of; thumb)
 
- MD5 digests have been widely used in the software world to provide assurance about integrity of transferred file.
+For doing  normal  hash table lookups on basically any kind of data _ this one by Paul Hsieh is the best I ve ever used.
+0.771: (normal hash table lookups; be doing on; any kind of data)
+0.707: (normal hash table lookups; be doing  ; one)
+0.416: (normal hash table lookups; be doing by; Paul Hsieh)
+
+I know there are things like SHA_256 and such, but these algorithms are designed to be secure, which usually means they are slower than algorithms that are less unique.
+0.863: (they; are slower than; algorithms that are less unique)
+0.705: (these algorithms; are designed; secure)
+
+ I want a hash algorithm designed to be fast, yet remain fairly unique to avoid collisions.
+0.548: (I; want yet; a hash algorithm designed to be fast)
+
+The other subjective measure is how randomly distributed the hashes are.
 No extractions found.
 
- For example, file servers often provide a pre_computed MD5 checksum for the files, so that a user can compare the checksum of the downloaded file to it.
-0.775: (a user; can compare; the checksum of the downloaded file)
-0.73: (file servers; often provide; a pre_computed MD5 checksum)
-0.689: (a user; can compare the checksum of the downloaded file to; it)
-0.631: (the checksum of the downloaded file; can be compare to; it)
-0.085: (file servers; often provide a pre computed MD5 checksum for the files for; example)
-
- In 2004, collisions were found in MD5.
-0.913: (collisions; were found in; MD5)
-0.797: (collisions; were found in; 2004)
-
- An analytical attack was reported to be successful only in an hour by using computer cluster.
-0.717: (An analytical attack; was reported; successful)
-
- This collision attack resulted in compromised MD5 and hence it is no longer recommended for use.
-0.87: (This collision attack; resulted in; compromised MD5)
-0.497: (it; hence is no longer recommended for; use)
-
-The MD family comprises of hash functions MD2, MD4, MD5 and MD6.
-0.851: (The MD family; comprises of; hash functions)
-
- It was adopted as Internet Standard RFC 1321.
-0.875: (It; was adopted as; Internet Standard RFC 1321)
-
- It is a 128_bit hash function.
-0.611: (It; is; a 128_bit hash function)
-
-Thanks for A2A.
+ Mapping the resulting HashTables shows how evenly the data is distributed.
 No extractions found.
 
-Note.
+ All the hash functions show good distribution when mapping the table linearly.
+0.66: (the hash functions; show; good distribution)
+
+Choosing a good hashing function, h, is essential for hash_table based searching.
 No extractions found.
 
-  Though MD5 is widely known, it is not a very secure hash.
-0.596: (it; is; not a very secure hash)
+ h should distribute the elements of our collection as uniformly as possible to the  slots  of the hash table.
+0.666: (h; should distribute; the elements of our collection)
 
- There exists many attacks such as rainbow table attack.
-0.362: (many; attacks as; rainbow table attack)
-
-  The security of the MD5 hash function is severely compromised.
-No extractions found.
-
- A collision attack exists that can find collisions within seconds on a computer with a 2.
-0.739: (collisions; can be find on; a computer)
-0.739: (collisions; can be find within; seconds)
-
-6 GHz Pentium 4 processor  complexity of 224.
-No extractions found.
-
-1 .
-No extractions found.
-
- Further, there is also a chosen_prefix collision attack that can produce a collision for two inputs with specified prefixes within hours, using off_the_shelf computing hardware .
-0.78: (a collision; can be produce for; two inputs using off_the_shelf computing hardware)
-
- The ability to find collisions has been greatly aided by the use of off_the_shelf GPUs.
-0.937: (The ability to find collisions; has been greatly aided by; the use of off_the_shelf GPUs)
-
- On an NVIDIA GeForce 8400GS graphics processor, 16 18 million hashes per second can be computed.
-0.766: (16 18 million; hashes per; second)
-
- An NVIDIA GeForce 8800 Ultra can calculate more than 200 million hashes per second   Source.
-0.625: (An NVIDIA GeForce 8800 Ultra; can calculate; than 200 million)
-
-MD5   .
-No extractions found.
-
-The algorithm Message Digest 5 or MD5, it is a one_way cryptographic hash function.
-0.632: (it; is; a one_way cryptographic)
-
- MD5 performs many binary operations on the  message  to compute a 128_bit  hash .
+ The key criterion is that there should be a minimum number of collisions.
 No extractions found.
 

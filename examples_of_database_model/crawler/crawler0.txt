@@ -1,0 +1,53 @@
+0;A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated.
+0; The most popular example of a database model is the relational model, which uses a table_based format.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;Relational databases are typically written in Structured Query Language .
+0; The model was introduced by E.
+0;F.
+0; Codd in 1970.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;A Database model defines the logical design of data.
+0; The model describes the relationships between different parts of the data.
+0; Historically, in database design, three models are commonly used.
+0; They are, Hierarchical Model.
+0; Network Model.
+0; Relational Model.
+0;     .
+0;Entity_Relationship Model is based on the notion of real_world entities and relationships among them.
+0; While formulating real_world scenario into the database model, the ER Model creates entity set, relationship set, general attributes and constraints.
+0;Entity   An entity in an ER Model is a real_world entity having properties called attributes.
+0; Every attribute is defined by its set of values called domain.
+0; For example, in a school database, a student is considered as an entity.
+0; Student has various attributes like name, age, class, etc.
+0;Entity   An entity in an ER Model is a real_world entity having properties called attributes  Every attribute is defined by its set of values called domain  For example, in a school database, a student is considered as an entity  Student has various attributes like name, age, class, etc .
+0;Relationship   The logical association among entities is called relationship  Relationships are mapped with entities in various ways  Mapping cardinalities define the number of association between two entities  Mapping cardinalities   one to one one to many many to one many to many.
+0;A database model is primarily a type of data model.
+0; Depending on the model in use, a database model can include entities, their relationships, data flow, tables and more.
+0; For example, within a hierarchal database mode, the data model organizes data in the form of a tree_like structure having parent and child segments.
+0;.
+0;.
+0;.
+0;.
+0;                        .
+0;                            .
+0;                .
+0;In order to understand the hierarchical data model better, let us take the example of the sample database consisting of supplier, parts and shipments.
+0; The record structure and some sample records for supplier, parts and shipments elements are as given in following tables.
+0;                              .
+0;                                .
+0;                                .
+0;I don t need a database with data in it, but only schemas .
+0; Perhaps something like the data models at this link, but much more complex and real world.
+0;Michael Blaha s Patterns of Data Modeling.
+0; This one has some interesting temporal, graph, and tree models.
+0;For example, the following is the hierarchical schema of a company database.

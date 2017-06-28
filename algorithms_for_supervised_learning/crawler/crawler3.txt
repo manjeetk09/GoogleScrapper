@@ -1,0 +1,71 @@
+0;Unsupervised Genetic Algorithm Deployed for Intrusion Detection, .
+0; Zorana Bankovi , Slobodan Bojani , Octavio Nieto, Atta Badii.
+0;From which it s pretty clear that genetic algorithms are not unsupervised as they are measured against a fitness criteria.
+0; Individual mutations may not be supervised, but the system as a whole is supervised as mutations are either removed or built upon based on the resulting fitness they give the algorithm.
+0;Supervised learning in attribute_based spaces is one of the most popular machine learning problems studied and, consequently, has attracted considerable attention of the genetic algorithm community.
+0; The fullmemory approach developed here uses the same high_level descriptive language that is used in rule_based systems.
+0; This allows for an easy utilization of inference rules of the well_known inductive learning methodology, which replace the traditional domain_independent operators and make the search task_specific.
+0; Moreover, a closer relationship between the underlying task and the processing mechanisms provides a setting for an application of more powerful task_specific heuristics.
+0; Initial results obtained with a prototype implementation for the simplest case of single concepts indicate that genetic algorithms can be effectively used to process high_level concepts and incorporate task_specific knowledge.
+0; The method of abstracting the genetic algorithm to the problem level, described here for the supervised inductive learning, can be also extended to other domains and tasks, since it provides a framework for combining recently popular genetic algorithm methods with traditional problem_solving methodologies.
+0; Moreover, in this particular case, it provides a very powerful tool enabling study of the widely accepted but not so well understood inductive learning methodology.
+0;A new type of genetic algorithm for the training of neural networks is presented.
+0; The difficulty of obtaining a nearly globally optimal set of weights in a reasonable time is overcome by using a global optimization method.
+0; It maintains a set of points at every iteration and permits a parallel search of the global minimum.
+0;Supervised learning algorithms are ones for which we have some known labels on our inputs , whereas in unsupervised learning we don t have any known outputs.
+0; Regardless, in both cases we need to learn the parameters that relate the input to the output.
+0;Interactive genetic algorithms are effective methods of solving optimization problems with implicit criteria by incorporating a user s intelligent evaluation into traditional evolution mechanisms.
+0; The heavy evaluation burden of the user, however, is crucial and limits their applications in complex optimization problems.
+0; We focus on reducing the evaluation burden by presenting a semi_supervised learning assisted interactive genetic algorithm with large population.
+0; In this algorithm, a population with many individuals is adopted to efficiently explore the search space.
+0; A surrogate model built with an improved semi_supervised learning method is employed to evaluate a part of individuals instead of the user to alleviate his her burden in evaluation.
+0; Incorporated with the principles of the improved semi_supervised learning, the opportunities of applying and updating the surrogate model are determined by its confidence degree in estimation, and the informative individuals reevaluated by the user are selected according to the concept of learning from mistakes.
+0; We quantitatively analyze the performance of the proposed algorithm and apply it to the design of sunglasses lenses, a representative optimization problem with one qualitative criterion.
+0; The empirical results demonstrate the strength of our algorithm in searching for satisfactory solutions and easing the evaluation burden of the user.
+0;Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras July 21, 2016.
+0;Your First Machine Learning Project in Python Step_By_Step June 10, 2016.
+0;Develop Your First Neural Network in Python With Keras Step_By_Step May 24, 2016.
+0;Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras July 26, 2016.
+0;Multi_Class Classification Tutorial with the Keras Deep Learning Library June 2, 2016.
+0;How to Run Your First Classifier in Weka February 17, 2014.
+0;Regression Tutorial with the Keras Deep Learning Library in Python June 9, 2016.
+0;A Tour of Machine Learning Algorithms November 25, 2013.
+0;Tutorial To Implement k_Nearest Neighbors in Python From Scratch September 12, 2014.
+0;How to Implement the Backpropagation Algorithm From Scratch In Python November 7, 2016.
+0;I also did not cover algorithms from specialty subfields of machine learning, such as.
+0; Computational intelligence  evolutionary algorithms, etc.
+0; .
+0; Computer Vision .
+0; Natural Language Processing .
+0; Recommender Systems.
+0; Reinforcement Learning.
+0; Graphical Models.
+0; And more .
+0;Genetic Algorithms can be used for both supervised and unsupervised learning, e.
+0;g.
+0;Machine learning is the subfield of computer science that, according to Arthur Samuel in 1959, gives  computers the ability to learn without being explicitly programmed.
+0;  Evolved from the study of pattern recognition and computational learning theory in artificial intelligence, machine learning explores the study and construction of algorithms that can learn from and make predictions on data   such algorithms overcome following strictly static program instructions by making data_driven predictions or decisions,.
+0;2 through building a model from sample inputs.
+0; Machine learning is employed in a range of computing tasks where designing and programming explicit algorithms with good performance is difficult or infeasible  example applications include email filtering, detection of network intruders or malicious insiders working towards a data breach, optical character recognition , learning to rank, and computer vision.
+0;.
+0;.
+0;Machine learning tasks are typically classified into three broad categories, depending on the nature of the learning  signal  or  feedback  available to a learning system.
+0; These are Supervised learning.
+0; The computer is presented with example inputs and their desired outputs, given by a  teacher , and the goal is to learn a general rule that maps inputs to outputs.
+0; Unsupervised learning.
+0; No labels are given to the learning algorithm, leaving it on its own to find structure in its input.
+0; Unsupervised learning can be a goal in itself or a means towards an end .
+0; Reinforcement learning.
+0; A computer program interacts with a dynamic environment in which it must perform a certain goal  such as driving a vehicle or playing a game against an opponent 4 .
+0;3 .
+0; The program is provided feedback in terms of rewards and punishments as it navigates its problem space.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;A genetic algorithm is a search heuristic that mimics the process of natural selection, and uses methods such as mutation and crossover to generate new genotype in the hope of finding good solutions to a given problem.
+0; In machine learning, genetic algorithms found some uses in the 1980s and 1990s.
+0; Vice versa, machine learning techniques have been used to improve the performance of genetic and evolutionary algorithms.
+0;.
+0;.

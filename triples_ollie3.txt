@@ -1,41 +1,13 @@
-Posted June 7th, 2010, by Colin Walls.
+This is a list of curves, by Wikipedia page.
 No extractions found.
 
-AMP stands for Asymmetric Multi_Processing  SMP means Symmetric Multi_Processing.
-0.673: (AMP; stands for; Asymmetric Multi_Processing SMP)
-
- These terms are not at all transparent.
-0.83: (These terms; are not at; all transparent)
-
- In seeking a means to clarify, I thought I would check Wikipedia and looked up  AMP .
-0.605: (I; would check; Wikipedia)[attrib=I thought]
-
- From the disambiguation page, I found the relevant article.
-0.721: (I; found; the relevant article)
-0.601: (I; found the relevant article from; the disambiguation page)
-0.565: (the relevant article; be found from; the disambiguation page)
-
- Well, I say  relevant , but it really does not cover the topic as we see it today.
-0.711: (it; really does not cover; the topic)[enabler=as we see it today]
-0.278: (we; see today; it)
-
- It talks about historical uses of multiple CPUs and dismisses it to history.
-0.801: (It; talks about; historical uses of multiple CPUs)
-
- So, I will try to advance definitions.
-0.651: (I; to advance; definitions)
-0.623: (I; So will try to advance; definitions)
-
-By.
+v.
 No extractions found.
 
- Colin Walls, Posted on.
+t.
 No extractions found.
 
- June 17, 2015.
-No extractions found.
-
-     .
+e.
 No extractions found.
 
 .
@@ -44,86 +16,76 @@ No extractions found.
 .
 No extractions found.
 
-.
+Other Bathtub curve.
 No extractions found.
 
-     .
+ Bell curve.
 No extractions found.
 
-.
+ Calibration curve.
 No extractions found.
 
-.
+ Cardiac function curve.
 No extractions found.
 
-.
+ Dose response curve.
 No extractions found.
 
-September 22, 2016 Leave a Comment.
-0.772: (September 22 , 2016; Leave; a Comment)
-
-Asymmetric multiprocessing was the only method for handling multiple CPUs before symmetric multiprocessing was available.
-0.748: (Asymmetric multiprocessing; was; the only method)
-0.706: (the only method; was; available)
-0.622: (multiple CPUs; be handling before; symmetric multiprocessing)
-
- It has also been used to provide less expensive options on systems where SMP was available.
-0.698: (It; to provide; less expensive options)
-0.542: (SMP; was; available)
-
- Additionally, AMP is used in applications that are dedicated, such as embedded systems, when individual processors can be dedicated to specific tasks at design time.
-0.925: (individual processors; can be dedicated to; specific tasks)
-0.709: (AMP; Additionally is used in; applications that are dedicated)[enabler=when individual processors can be dedicated to specific tasks at design time]
-
- In an asymmetric multiprocessing system, not all CPUs are treated equally  for example, a system might only allow one CPU to execute operating system code or might only allow one CPU to perform I O operations.
-0.683: (not all CPUs; are treated equally in; an asymmetric multiprocessing system)
-0.654: (one CPU; to execute; operating system code)
-0.623: (not all CPUs; are treated equally for; example)
-
- Other AMP systems would allow any CPU to execute operating system code and perform I O operations, so that they were symmetric with regard to processor roles, but attached some or all peripherals to particular CPUs, so that they were asymmetric with regard to peripheral attachment.
-0.773: (Other AMP systems; would allow; symmetric with regard to processor roles , but attached some or all peripherals)
-0.655: (they; so were asymmetric with; regard)
-0.655: (they; so were symmetric with; regard)
-0.654: (any CPU; to execute; operating system code)
-0.554: (they; so were; asymmetric)
-0.554: (they; so were; symmetric)
-
-.
+ Fish curve.
 No extractions found.
 
-.
+ Fletcher Munson curve.
 No extractions found.
 
-Asymmetric multiprocessing was the only method for handling multiple CPUs before symmetric multiprocessing was available.
-0.748: (Asymmetric multiprocessing; was; the only method)
-0.706: (the only method; was; available)
-0.622: (multiple CPUs; be handling before; symmetric multiprocessing)
-
- It has also been used to provide less expensive options on systems where SMP was available.
-0.698: (It; to provide; less expensive options)
-0.542: (SMP; was; available)
-
- Additionally, AMP is used in applications that are dedicated, such as embedded systems, when individual processors can be dedicated to specific tasks at design time.
-0.925: (individual processors; can be dedicated to; specific tasks)
-0.709: (AMP; Additionally is used in; applications that are dedicated)[enabler=when individual processors can be dedicated to specific tasks at design time]
-
- In an asymmetric multiprocessing system, not all CPUs are treated equally  for example, a system might only allow one CPU to execute operating system code or might only allow one CPU to perform I O operations.
-0.683: (not all CPUs; are treated equally in; an asymmetric multiprocessing system)
-0.654: (one CPU; to execute; operating system code)
-0.623: (not all CPUs; are treated equally for; example)
-
- Other AMP systems would allow any CPU to execute operating system code and perform I O operations, so that they were symmetric with regard to processor roles, but attached some or all peripherals to particular CPUs, so that they were asymmetric with regard to peripheral attachment.
-0.773: (Other AMP systems; would allow; symmetric with regard to processor roles , but attached some or all peripherals)
-0.655: (they; so were asymmetric with; regard)
-0.655: (they; so were symmetric with; regard)
-0.654: (any CPU; to execute; operating system code)
-0.554: (they; so were; asymmetric)
-0.554: (they; so were; symmetric)
-
-symmetric.
+ Forgetting curve.
 No extractions found.
 
-asymmetric.
+ Gompertz curve.
+No extractions found.
+
+ Growth curve .
+No extractions found.
+
+ Hubbert curve.
+No extractions found.
+
+ Kruithof curve.
+No extractions found.
+
+ Learning curve.
+No extractions found.
+
+ Light curve.
+No extractions found.
+
+ Logistic curve.
+No extractions found.
+
+ Oxygen hemoglobin dissociation curve.
+No extractions found.
+
+ Paschen curve.
+No extractions found.
+
+ Robinson Dadson curves.
+No extractions found.
+
+ Rotation curve.
+No extractions found.
+
+ Species area curve.
+No extractions found.
+
+ Stress strain curve.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
 No extractions found.
 
 .
@@ -132,142 +94,234 @@ No extractions found.
 .
 No extractions found.
 
-Asymmetric multiprocessing    In asymmetric multiprocessing the program tasks are strictly divided by type between processors and typically, each processor has its own memory address space.
-0.925: (the program tasks; are strictly divided by; type)
-0.754: (the program tasks; are strictly divided in; asymmetric)
-0.567: (each processor; typically has; its own memory address space)
-
-  These features make asymmetric multiprocessing difficult to implement.
+v.
 No extractions found.
 
- The two figures below are two examples of asymmetric multiprocessor configurations.
-0.93: (The two figures; are two examples of; asymmetric multiprocessor configurations)
-
- .
+t.
 No extractions found.
 
- Symmetric multiprocessing Symmetric multiprocessing is the most common configuration of multiple processors.
-0.936: (Symmetric; is the most common configuration of; multiple processors)
-0.795: (Symmetric; is; the most common configuration of multiple processors)
-
- A typical SMP configuration has the following items.
-0.74: (A typical SMP configuration; has; the following items)
-
-        It has multiple processors and exactly one of everything else.
-0.661: (It; has; multiple processors and exactly one of everything)
-
- memory, I O subsystem, operating system, etc.
+e.
 No extractions found.
 
-        The processors are symmetric, that is, they can do anything the others can.
-0.825: (they; can do; anything the others can)
-0.762: (symmetric; can do; anything the others can)
-
-  Each can look at or alter any element of memory, and each can do any kind of I O.
+.
 No extractions found.
 
- .
+.
 No extractions found.
 
-1.
+In mathematics, a plane real algebraic curve is the set of points on the Euclidean plane whose coordinates are zeros of some polynomial in two variables.
+0.936: (a plane real algebraic curve; is the set of; points)
+0.932: (whose coordinates; are zeros of; some polynomial)
+0.906: (whose coordinates; are zeros of some polynomial in; two variables)
+0.794: (a plane real algebraic curve; is; the set of points)
+0.746: (a plane real algebraic curve; is the set of points in; mathematics)
+
+ More generally an algebraic curve is similar but may be embedded in a higher dimensional space or defined over some more general field.
+0.652: (an algebraic curve; More generally is; similar)
+
+v.
 No extractions found.
 
-        What is the difference between symmetric and asymmetric multiprocessing .
+t.
 No extractions found.
 
-   .
+e.
 No extractions found.
 
-       .
+v.
 No extractions found.
 
-       .
+t.
 No extractions found.
 
-         .
+e.
 No extractions found.
 
-         .
+.
 No extractions found.
 
-     .
+.
 No extractions found.
 
-          .
+Every algebraic curve may be uniquely decomposed into a finite number of smooth monotone arcs connected by some points sometimes called  remarkable points .
+0.87: (Every algebraic curve; may be uniquely decomposed remarkable points into; a finite number of smooth monotone arcs)
+0.655: (smooth monotone arcs; be connected by; some points)
+0.619: (Every algebraic curve; may be uniquely decomposed; remarkable points)
+
+ A smooth monotone arc is the graph of a smooth function which is defined and monotone on an open interval of the x_axis.
+0.953: (A smooth monotone arc; is the graph of; a smooth function which is defined and monotone on an open interval of the x_axis)
+0.736: (A smooth monotone arc; is; the graph of a smooth function)
+0.53: (a smooth function which is defined; be monotone on; an open interval of the x_axis)
+
+ In each direction, an arc is either unbounded or has an end point which is either a singular point or a point with a tangent parallel to one of the coordinate axes.
+0.653: (an arc; is; unbounded)
+0.48: (an arc; is unbounded in; each direction)
+
+and.
 No extractions found.
 
-                 .
+v.
 No extractions found.
 
-                 .
+t.
 No extractions found.
 
-          .
+e.
 No extractions found.
 
-Another difference is that.
+v.
 No extractions found.
 
- in a tightly_coupled system, the delay experienced when a message is sent from one computer to another is short, and data rate is high  that is, the number of bits per second that can be transferred is large.
-0.903: (a message; is sent from; one computer)
-0.661: (the delay experienced when a message is sent from one computer to another; is; short , and data rate is high)
-0.548: (the number of bits; is is; large)
-0.485: (the delay experienced when a message is sent from one computer to another; is short in; a tightly_coupled system)
-0.335: (data rate; is short in; a tightly_coupled system)
-0.318: (large; be the number of; bits that can be transferred)
-
- In a loosely_coupled system, the opposite is true.
-0.704: (the opposite; is; true)
-0.572: (the opposite; is true in; a loosely_coupled system)
-
- the intermachine message delay is large and the data rate is low.
-0.716: (the intermachine message delay; is; large and the data rate is low)
-
- For example, two CPU chips on the same printed circuit board and connected by wires etched onto the board are likely to be tightly coupled, whereas two computers connected by a 2400 bit sec modem over the telephone system are certain to be loosely coupled.
-0.736: (two computers; be connected by; a 2400 bit sec modem)
-0.655: (two computers; be connected over; the telephone system)
-0.655: (wires; be etched onto; the board)
-0.351: (likely; be two CPU chips on; the same printed circuit board)
-0.158: (two CPU chips; are likely for; example)
-
-   .
+t.
 No extractions found.
 
-       .
+e.
 No extractions found.
 
-       .
+.
 No extractions found.
 
-         .
+.
 No extractions found.
 
-         .
+This allows to consider that an affine curve and its projective completion are the same curve, or, more precisely that the affine curve is a part of the projective curve that is large enough to well define the  complete  curve.
+0.926: (the affine curve; is a part of; the projective curve that is large enough to well define the complete curve)
+0.621: (the affine curve; is; a part of the projective curve)
+
+ This point of view is commonly expressed by calling  points at infinity  of the affine curve the points of the projective completion that do not belong to the affine part.
+0.437: (points; calling the points of the projective completion that do not belong to be the affine part at; infinity of the affine curve)
+0.436: (the points of the projective completion that do not belong to the affine part; be calling points at; infinity of the affine curve)
+
+and.
 No extractions found.
 
-     .
+v.
 No extractions found.
 
-          .
+t.
 No extractions found.
 
-                 .
+e.
 No extractions found.
 
-                 .
+v.
 No extractions found.
 
-          .
+t.
 No extractions found.
 
-Toby Foster   Dec 12, 2007.
+e.
 No extractions found.
 
-Or, different OSs may reside on the two cores.
-0.834: (different OSs; may reside on; the two cores)
+.
+No extractions found.
 
- For example, if two previously separate processors are being collapsed onto one dual_core device, different OSs may reside on the two cores.
-0.834: (different OSs; may reside on; the two cores)
-0.214: (two previously separate processors; are being collapsed onto; one dual_core device)
-0.168: (different OSs; may reside for; example)
+.
+No extractions found.
+
+There are eight types of graphs that you will see more often than other types.
+No extractions found.
+
+ Each has its own type of function that produces the graphs.
+0.564: (the graphs; be produces by; its own type of function)
+
+ They are easy to visually distinguish and by knowing how each looks, you can get an idea of what a graph might look like just by analyzing the function.
+0.796: (you; can get; an idea what a graph might look like)
+
+ The eight types are linear, power, quadratic, polynomial, rational, exponential, logarithmic, and sinusoidal.
+No extractions found.
+
+These functions produce more interesting graphs with more curves.
+0.821: (These functions; produce more interesting graphs with; more curves)
+0.793: (These functions; produce; interesting graphs)
+
+ The highest power of the function tells you how many curves or ups and downs the graph may have.
+0.618: (The highest power of the function; tells; you)
+
+Algebra is all about graphing relationships, and the curve is one of the most basic shapes used.
+0.754: (Algebra; is; all about graphing relationships , and the curve)
+0.724: (all about graphing relationships , and the curve; is; one of the most basic shapes)
+
+ Here s a look at eight of the most frequently used graphs.
+No extractions found.
+
+The following table lists the names of algebraic curves of a given degree.
+No extractions found.
+
+Curves that can be given in implicit form as f 0, where f is a polynomial, are called algebraic.
+0.443: (f; is; a polynomial)
+
+ The degree of f is called the degree or order of the curve.
+0.818: (The degree of f; is called; the degree or order of the curve)
+0.646: (The degree of f; be the degree of; the curve)
+
+ Thus conics are algebraic curves of degree two.
+0.908: (conics; Thus are algebraic curves of; degree two)
+
+ Curves of degree three already have a great variety of shapes, and only a few common ones will be given here.
+0.661: (Curves of degree three; already have will; a great variety of shapes)
+
+More generally, any curve of degree three with equation y f, where f is a polynomial, is symmetric with respect to the x_axis and asymptotic to the line x x.
+0.79: (any curve of degree three; More generally is symmetric with; respect to the x_axis and asymptotic)
+0.636: (any curve of degree three; More generally is; symmetric)
+0.516: (f; is; a polynomial)
+0.383: (symmetric; be any curve of; degree three)
+
+ In addition to the cissoid, the following particular cases are important.
+No extractions found.
+
+ The witch of Agnesi has equation xy a, with a0, and is characterized by the geometric property shown in Figure 2, right.
+0.76: (The witch of Agnesi; has is characterized by; the geometric property shown in Figure 2)
+0.655: (the geometric property; be shown in; Figure 2)
+0.455: (equation; be The witch of; Agnesi)
+
+ The same property provides the parametric representation x a, y a tan .
+0.74: (The same property; provides; the parametric representation x)
+
+ Once more, proportional scaling reduces to the case a 1.
+0.774: (proportional scaling; Once more reduces a 1 to; the case)
+
+ The folium of Descartes has equation y _x, with a0 .
+0.747: (The folium of Descartes; has equation y  x with; a0)
+0.679: (The folium of Descartes; has; equation y _x)
+
+ By rotating 135 we get the alternative and more familiar equation x y cxy, where c a.
+0.603: (we; get; the alternative and more familiar equation x y cxy , where c a)
+
+ The folium of Descartes is a rational curve, this is, it has a parametric representation by rational functions.
+0.659: (it; has; a parametric representation)
+0.653: (The folium of Descartes; is; a rational curve this is)
+0.455: (a rational curve this is; be The folium of; Descartes)
+
+ In the tilted position such a representation is x ct , y ct .
+0.649: (such a representation; is; x ct)
+
+    Figure 3.
+No extractions found.
+
+ The folium of Descartes in two positions, and the strophoid.
+No extractions found.
+
+ The strophoid has equation y _x, with a0 .
+No extractions found.
+
+ It satisfies the property AP AP  OA in Figure 3, right  this means that POP  is a right angle.
+0.718: (It; satisfies; the property AP AP OA)
+0.612: (It; satisfies the property AP AP OA in; Figure 3)
+0.422: (POP; is; a right angle)
+
+ The strophoid has the polar representation r _a cos 2 sec , and the rational parametric representation x a , y at .
+0.722: (the polar representation r;  a; cos 2 sec)
+
+Hi, you ve entered a collection of  939 two_dimensional mathematical curves.
+0.859: (you; ve entered; a collection of 939 two_dimensional mathematical curves)
+
+3.
+No extractions found.
+
+ by its type of equation.
+No extractions found.
+
+algebraic curves are a polynomial in x and y.
+0.916: (algebraic curves; are a polynomial in; x and y)
 

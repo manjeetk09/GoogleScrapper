@@ -1,0 +1,156 @@
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Quantum machine learning is an emerging interdisciplinary research area at the intersection of quantum physics and machine learning.
+0.87: (Quantum machine learning; is an emerging interdisciplinary research area at; the intersection of quantum physics)
+0.734: (Quantum machine learning; is; an emerging interdisciplinary research area)
+
+ One can distinguish four different ways of merging the two parent disciplines.
+0.853: (One; can distinguish; four different ways merging the two parent disciplines)
+
+ Quantum machine learning algorithms can use the advantages of quantum computation in order to improve classical methods of machine learning, for example by developing efficient implementations of expensive classical algorithms on a quantum computer.
+0.846: (Quantum machine learning algorithms; can use; the advantages of quantum computation)
+0.589: (Quantum machine learning algorithms; be the advantages of; quantum computation)
+0.377: (efficient; be implementations of; expensive classical algorithms)
+0.371: (classical methods of machine learning; to be improve for; example)
+
+ On the other hand, one can apply classical methods of machine learning to analyse quantum systems.
+0.884: (one; can apply; classical methods of machine learning to analyse quantum systems)
+0.668: (classical methods of machine; learning to; analyse quantum systems)
+0.473: (classical methods of machine learning to analyse quantum systems; can be apply on; the other hand)
+0.369: (one; can apply classical methods of machine learning to analyse quantum systems on; the other hand)
+
+ Most generally, one can consider situations wherein both the learning device and the system under study are fully quantum.
+0.868: (one; can consider; situations wherein both the learning device and the system under study are fully quantum)
+0.678: (Most; can consider; situations wherein both the learning device and the system under study are fully quantum)
+0.492: (the learning device and the system; are fully quantum in; situations)
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Quantum Machine Learning.
+No extractions found.
+
+ What Quantum Computing Means to Data Mining explains the most relevant concepts of machine learning, quantum mechanics, and quantum information theory, and contrasts classical learning algorithms to their quantum counterparts.
+0.734: (Quantum Computing; Means to; Data Mining)
+
+S.
+No extractions found.
+
+ Lloyd, M.
+No extractions found.
+
+ Mohseni, and P.
+No extractions found.
+
+ Rebentrost,  Quantum algorithms for supervised and unsupervised machine learning,  arXiv.
+No extractions found.
+
+1307.
+No extractions found.
+
+0411, 2013.
+No extractions found.
+
+Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras July 21, 2016.
+No extractions found.
+
+Your First Machine Learning Project in Python Step_By_Step June 10, 2016.
+No extractions found.
+
+Develop Your First Neural Network in Python With Keras Step_By_Step May 24, 2016.
+0.877: (Your First Neural Network; be Develop with; Keras Step_By_Step May 24)
+
+Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras July 26, 2016.
+No extractions found.
+
+Multi_Class Classification Tutorial with the Keras Deep Learning Library June 2, 2016.
+No extractions found.
+
+How to Run Your First Classifier in Weka February 17, 2014.
+0.728: (Your First Classifier; to be Run in; Weka February 17)
+
+Regression Tutorial with the Keras Deep Learning Library in Python June 9, 2016.
+No extractions found.
+
+A Tour of Machine Learning Algorithms November 25, 2013.
+No extractions found.
+
+Tutorial To Implement k_Nearest Neighbors in Python From Scratch September 12, 2014.
+No extractions found.
+
+How to Implement the Backpropagation Algorithm From Scratch In Python November 7, 2016.
+0.705: (the Backpropagation Algorithm; to be Implement from; Scratch)
+
+I ve had quantum computing on my mind and another tech talk went by titled Quantum Machine Learning and I had to jump on it.
+0.863: (another tech talk; went by; titled Quantum Machine Learning)
+0.531: (I; ve had to jump on; it)
+0.531: (I; to jump on; it)
+0.462: (another tech talk; be quantum computing on; my mind)
+0.457: (I; ve had another tech talk went by titled Quantum Machine Learning; quantum computing)
+
+ The talk is by Seth Lloyd from MIT.
+No extractions found.
+
+Patrick Rebentrost came up with the notion that machine learning and quantum mechanics are fundamentally about manipulating large numbers of vectors in high dimensional spaces and about bringing these two fields together.
+0.908: (Patrick Rebentrost; came up with; the notion)
+0.622: (large numbers of vectors; be manipulating in; high dimensional spaces)
+
+ The key paper on these ideas are Quantum algorithms for supervised and unsupervised machine learning and Quantum support vector machine for big feature and big data classification, both from 2013.
+0.927: (The key paper; are Quantum algorithms for; supervised and unsupervised machine learning and Quantum support vector machine)
+0.426: (Quantum algorithms; be The key paper on; these ideas)
+

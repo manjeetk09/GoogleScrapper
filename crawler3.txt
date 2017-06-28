@@ -1,77 +1,101 @@
-0;Posted June 7th, 2010, by Colin Walls.
-0;AMP stands for Asymmetric Multi_Processing  SMP means Symmetric Multi_Processing.
-0; These terms are not at all transparent.
-0; In seeking a means to clarify, I thought I would check Wikipedia and looked up  AMP .
-0; From the disambiguation page, I found the relevant article.
-0; Well, I say  relevant , but it really does not cover the topic as we see it today.
-0; It talks about historical uses of multiple CPUs and dismisses it to history.
-0; So, I will try to advance definitions.
-0;By.
-0; Colin Walls, Posted on.
-0; June 17, 2015.
-0;     .
+0;This is a list of curves, by Wikipedia page.
+0;v.
+0;t.
+0;e.
 0;.
 0;.
+0;Other Bathtub curve.
+0; Bell curve.
+0; Calibration curve.
+0; Cardiac function curve.
+0; Dose response curve.
+0; Fish curve.
+0; Fletcher Munson curve.
+0; Forgetting curve.
+0; Gompertz curve.
+0; Growth curve .
+0; Hubbert curve.
+0; Kruithof curve.
+0; Learning curve.
+0; Light curve.
+0; Logistic curve.
+0; Oxygen hemoglobin dissociation curve.
+0; Paschen curve.
+0; Robinson Dadson curves.
+0; Rotation curve.
+0; Species area curve.
+0; Stress strain curve.
+0;v.
+0;t.
+0;e.
 0;.
-0;     .
+0;.
+0;v.
+0;t.
+0;e.
 0;.
 0;.
-0;.
-0;September 22, 2016 Leave a Comment.
-0;Asymmetric multiprocessing was the only method for handling multiple CPUs before symmetric multiprocessing was available.
-0; It has also been used to provide less expensive options on systems where SMP was available.
-0; Additionally, AMP is used in applications that are dedicated, such as embedded systems, when individual processors can be dedicated to specific tasks at design time.
-0; In an asymmetric multiprocessing system, not all CPUs are treated equally  for example, a system might only allow one CPU to execute operating system code or might only allow one CPU to perform I O operations.
-0; Other AMP systems would allow any CPU to execute operating system code and perform I O operations, so that they were symmetric with regard to processor roles, but attached some or all peripherals to particular CPUs, so that they were asymmetric with regard to peripheral attachment.
-0;.
-0;.
-0;Asymmetric multiprocessing was the only method for handling multiple CPUs before symmetric multiprocessing was available.
-0; It has also been used to provide less expensive options on systems where SMP was available.
-0; Additionally, AMP is used in applications that are dedicated, such as embedded systems, when individual processors can be dedicated to specific tasks at design time.
-0; In an asymmetric multiprocessing system, not all CPUs are treated equally  for example, a system might only allow one CPU to execute operating system code or might only allow one CPU to perform I O operations.
-0; Other AMP systems would allow any CPU to execute operating system code and perform I O operations, so that they were symmetric with regard to processor roles, but attached some or all peripherals to particular CPUs, so that they were asymmetric with regard to peripheral attachment.
-0;symmetric.
-0;asymmetric.
+0;In mathematics, a plane real algebraic curve is the set of points on the Euclidean plane whose coordinates are zeros of some polynomial in two variables.
+0; More generally an algebraic curve is similar but may be embedded in a higher dimensional space or defined over some more general field.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
 0;.
 0;.
-0;Asymmetric multiprocessing    In asymmetric multiprocessing the program tasks are strictly divided by type between processors and typically, each processor has its own memory address space.
-0;  These features make asymmetric multiprocessing difficult to implement.
-0; The two figures below are two examples of asymmetric multiprocessor configurations.
-0; .
-0; Symmetric multiprocessing Symmetric multiprocessing is the most common configuration of multiple processors.
-0; A typical SMP configuration has the following items.
-0;        It has multiple processors and exactly one of everything else.
-0; memory, I O subsystem, operating system, etc.
-0;        The processors are symmetric, that is, they can do anything the others can.
-0;  Each can look at or alter any element of memory, and each can do any kind of I O.
-0; .
-0;1.
-0;        What is the difference between symmetric and asymmetric multiprocessing .
-0;   .
-0;       .
-0;       .
-0;         .
-0;         .
-0;     .
-0;          .
-0;                 .
-0;                 .
-0;          .
-0;Another difference is that.
-0; in a tightly_coupled system, the delay experienced when a message is sent from one computer to another is short, and data rate is high  that is, the number of bits per second that can be transferred is large.
-0; In a loosely_coupled system, the opposite is true.
-0; the intermachine message delay is large and the data rate is low.
-0; For example, two CPU chips on the same printed circuit board and connected by wires etched onto the board are likely to be tightly coupled, whereas two computers connected by a 2400 bit sec modem over the telephone system are certain to be loosely coupled.
-0;   .
-0;       .
-0;       .
-0;         .
-0;         .
-0;     .
-0;          .
-0;                 .
-0;                 .
-0;          .
-0;Toby Foster   Dec 12, 2007.
-0;Or, different OSs may reside on the two cores.
-0; For example, if two previously separate processors are being collapsed onto one dual_core device, different OSs may reside on the two cores.
+0;Every algebraic curve may be uniquely decomposed into a finite number of smooth monotone arcs connected by some points sometimes called  remarkable points .
+0; A smooth monotone arc is the graph of a smooth function which is defined and monotone on an open interval of the x_axis.
+0; In each direction, an arc is either unbounded or has an end point which is either a singular point or a point with a tangent parallel to one of the coordinate axes.
+0;and.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;This allows to consider that an affine curve and its projective completion are the same curve, or, more precisely that the affine curve is a part of the projective curve that is large enough to well define the  complete  curve.
+0; This point of view is commonly expressed by calling  points at infinity  of the affine curve the points of the projective completion that do not belong to the affine part.
+0;and.
+0;v.
+0;t.
+0;e.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;There are eight types of graphs that you will see more often than other types.
+0; Each has its own type of function that produces the graphs.
+0; They are easy to visually distinguish and by knowing how each looks, you can get an idea of what a graph might look like just by analyzing the function.
+0; The eight types are linear, power, quadratic, polynomial, rational, exponential, logarithmic, and sinusoidal.
+0;These functions produce more interesting graphs with more curves.
+0; The highest power of the function tells you how many curves or ups and downs the graph may have.
+0;Algebra is all about graphing relationships, and the curve is one of the most basic shapes used.
+0; Here s a look at eight of the most frequently used graphs.
+0;The following table lists the names of algebraic curves of a given degree.
+0;Curves that can be given in implicit form as f 0, where f is a polynomial, are called algebraic.
+0; The degree of f is called the degree or order of the curve.
+0; Thus conics are algebraic curves of degree two.
+0; Curves of degree three already have a great variety of shapes, and only a few common ones will be given here.
+0;More generally, any curve of degree three with equation y f, where f is a polynomial, is symmetric with respect to the x_axis and asymptotic to the line x x.
+0; In addition to the cissoid, the following particular cases are important.
+0; The witch of Agnesi has equation xy a, with a0, and is characterized by the geometric property shown in Figure 2, right.
+0; The same property provides the parametric representation x a, y a tan .
+0; Once more, proportional scaling reduces to the case a 1.
+0; The folium of Descartes has equation y _x, with a0 .
+0; By rotating 135 we get the alternative and more familiar equation x y cxy, where c a.
+0; The folium of Descartes is a rational curve, this is, it has a parametric representation by rational functions.
+0; In the tilted position such a representation is x ct , y ct .
+0;    Figure 3.
+0; The folium of Descartes in two positions, and the strophoid.
+0; The strophoid has equation y _x, with a0 .
+0; It satisfies the property AP AP  OA in Figure 3, right  this means that POP  is a right angle.
+0; The strophoid has the polar representation r _a cos 2 sec , and the rational parametric representation x a , y at .
+0;Hi, you ve entered a collection of  939 two_dimensional mathematical curves.
+0;3.
+0; by its type of equation.
+0;algebraic curves are a polynomial in x and y.

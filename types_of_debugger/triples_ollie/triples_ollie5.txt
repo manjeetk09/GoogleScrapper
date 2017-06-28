@@ -1,0 +1,181 @@
+Application code can contain various types of errors, or bugs.
+0.789: (Application code; can contain; various types of errors)
+0.552: (Application code; be various types of; errors , or bugs)
+
+ Most syntax errors are caught during compilation.
+0.919: (Most syntax errors; are caught during; compilation)
+
+ However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+0.809: (you; debug; your code that is , that you examine the code)[enabler=while it is running to validate that the execution path and data is as it should be]
+0.758: (you; examine; the code)
+
+Summary.
+No extractions found.
+
+ This paper describes some of the new and improved features of the Microsoft  Visual Studio  .
+No extractions found.
+
+NET debugger, such as cross_language debugging, debugging multiple processes across machines, and the generation of minidumps for C   applications.
+0.675: (multiple processes; be debugging across; machines)
+
+ .
+No extractions found.
+
+You can also step between C   code to any .
+0.896: (You; can also step between; C code)
+
+NET Framework language and vice versa.
+No extractions found.
+
+ Code written for .
+No extractions found.
+
+NET_based applications can work with C   code through Platform Invoke, COM Interoperability, or through Managed Extensions for C  .
+0.854: (NET_based applications; can work with; C code)
+0.808: (NET_based applications; can work through; Platform Invoke , COM Interoperability , or through)
+
+ You can seamlessly step into and debug from one language to the other, and again, the debugger will have a single callstack showing all the components.
+0.866: (You; can seamlessly step again debug; into and debug)
+0.76: (You; can seamlessly step again to; the other)
+0.746: (the debugger; will have; a single callstack showing all the components)
+
+ To enable debugging between the common language runtime code and C   code running natively, you need to change an option in your launching project settings.
+0.834: (you; need to change; an option)
+0.83: (you; need to change an option in; your launching project settings)
+0.636: (an option; to be change in; your launching project settings)
+
+ In Solution Explorer, locate your startup project .
+No extractions found.
+
+ This is the project that gets launched when you press F5.
+0.719: (you; press; F5)
+
+ To debug both runtime code and native code, the startup project has to be configured to support both types of debugging.
+No extractions found.
+
+ To do this, open your project properties and select the Debugging folder under Configuration Properties.
+No extractions found.
+
+ For Visual Basic .
+No extractions found.
+
+NET or Visual C   projects.
+No extractions found.
+
+ Make sure the Enable Unmanaged Debugging option is selected.
+No extractions found.
+
+ In Visual Basic, this option is selected via a checkbox.
+0.914: (this option; is selected via; a checkbox)
+0.742: (this option; is selected in; Visual Basic)
+
+ In Visual C  this is a drop_down list option.
+No extractions found.
+
+ For Visual C   projects.
+No extractions found.
+
+ Change the debugger type to Mixed.
+0.767: (Change; be the debugger type to; Mixed)
+
+ Note   The Auto option, another option, requires some explanation.
+0.811: (another option; requires; some explanation)
+
+ It examines your executable file and attempts to determine whether the application will call both native and managed code.
+0.733: (It; examines; your executable file and attempts to determine whether the application will call both native and managed code)
+0.475: (the application; will call managed code; native)
+
+ Based on the results of the analysis, the appropriate debuggers are used during debugging.
+0.931: (the appropriate debuggers; are used during; debugging)
+
+ A disadvantage of this approach is that if a project was written with managed extensions to C   and dynamically loaded native code, this will not be detected and you will not be able to debug the native code.
+0.807: (you; to debug; the native code)
+0.724: (you; will will be; not be able)
+0.375: (a project; was written with; managed extensions to C and dynamically loaded native code)
+
+ Setting Mixed allows a developer to directly control the debugging options.
+0.811: (a developer; to directly control; the debugging options)
+
+Application code can contain various types of errors, or bugs.
+0.789: (Application code; can contain; various types of errors)
+0.552: (Application code; be various types of; errors , or bugs)
+
+ Most syntax errors are caught during compilation.
+0.919: (Most syntax errors; are caught during; compilation)
+
+ However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+0.809: (you; debug; your code that is , that you examine the code)[enabler=while it is running to validate that the execution path and data is as it should be]
+0.758: (you; examine; the code)
+
+Application code can contain various types of errors, or bugs.
+0.789: (Application code; can contain; various types of errors)
+0.552: (Application code; be various types of; errors , or bugs)
+
+ Most syntax errors are caught during compilation.
+0.919: (Most syntax errors; are caught during; compilation)
+
+ However, other types of errors require that you debug your code   that is, that you examine the code while it is running to validate that the execution path and data is as it should be.
+0.809: (you; debug; your code that is , that you examine the code)[enabler=while it is running to validate that the execution path and data is as it should be]
+0.758: (you; examine; the code)
+
+ For more information, see Debugging, Tracing, and Profiling.
+0.541: (Debugging , Tracing , and Profiling; be see for; more information)
+
+Summary.
+No extractions found.
+
+ Learn creative ways to debug applications such as using debug windows, making changes while debugging and using the command and output windows.
+No extractions found.
+
+ Debugging in VS.
+No extractions found.
+
+NET changes the way developers work with and debug applications.
+0.763: (developers; work applications; with and debug applications)
+0.721: (NET; changes; the way developers work with and debug applications)
+
+ Part of this change results from the migration from the VB 6 environment to VS.
+No extractions found.
+
+NET environment.
+No extractions found.
+
+Begin by opening Microsoft Visual Studio  .
+No extractions found.
+
+NET and selecting the New Project button from the Start Page, or by selecting File, New, and then Project from the main menu.
+No extractions found.
+
+ Select  Visual Basic Projects  for the project type and  Windows Application  for the template.
+No extractions found.
+
+ Let s name our life insurance calculator  LifeInsCalc .
+0.671: (s; name; our life insurance calculator LifeInsCalc)
+
+ Select any suitable folder for our project location, and click the OK button.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Debugger is much more than a tool for analyzing crashes and wierd behavior.
+0.848: (Debugger; is much more than; a tool)
+
+ Many bugs can be prevented by stepping through a freshly written function and checking that it behaves as expected.
+No extractions found.
+
+ Sometimes you are curious  would the function behave correctly if this condition was true  .
+0.089: (this condition; was; true)
+
+ And in most cases it does not mean changing the code and restarting.
+0.473: (it; does not mean in; most cases)
+
+ Just hover the mouse over a variable, double_click at the value and type in the new one .
+0.856: (the mouse; be Just hover over; a variable , double_click)
+
+.
+No extractions found.
+

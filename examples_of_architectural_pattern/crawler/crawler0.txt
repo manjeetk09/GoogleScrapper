@@ -1,0 +1,80 @@
+1;v.
+1;t.
+1;e.
+1;.
+1;.
+0;Some additional examples of architectural patterns.
+0; Blackboard system.
+0; Broker pattern.
+0; Event_driven architecture.
+0; Implicit invocation.
+0; Layers.
+0; Microservices.
+0; Model_view_controller, Presentation_abstraction_control, Model_view_presenter, and Model_view_viewmodel.
+0; Multitier architecture .
+0; Naked objects.
+0; Operational Data Store .
+0; Peer_to_peer.
+0; Pipe and filter architecture.
+0; Service_oriented architecture.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;Several different formats are used in the literature for describing patterns, and no single format has achieved widespread acceptance.
+0; However, there is broad agreement on the types of things that a pattern should contain.
+0; The headings which follow are taken from Pattern_Oriented Software Architecture.
+0; A System of Patterns, by F.
+0; Buschmann, R.
+0; Meunier, H.
+0; Rohnert, P.
+0;Sommerlad, and M.
+0; Stal, John Wiley and Sons, 1996, ISBN 0_471_95869_7.
+0; The elements described below will be found in most patterns, even if different headings are used to describe them.
+0; Name.
+0; A meaningful and memorable way to refer to the pattern, typically a single word or short phrase.
+0; Problem.
+0;   A description of the problem indicating the intent in applying the pattern _ the intended goals and objectives to be reached within the context and forces described below   .
+0; Context.
+0;   The pre_conditions under which the pattern is applicable _ a description of the initial state before the pattern is applied.
+0; Forces.
+0; A description of the relevant forces and constraints, and how they interact conflict with each other and with the intended goals and objectives.
+0; The description should clarify the intricacies of the problem and make explicit the kinds of trade_offs that must be considered.
+0;  The need for such trade_offs is typically what makes the problem difficult, and generates the need for the pattern, in the first place.
+0;  The notion of  forces  equates in many ways to the  qualities  that architects seek to optimize, and the concerns they seek to address, in designing architectures.
+0; For example.
+0; Security, robustness, reliability, fault_tolerance Manageability Efficiency, performance, throughout, bandwidth requirements, space utilization Scalability Extensibility, evolvability, maintainability Modularity, independence, reusability, openness, composability , portability Completeness and correctness Ease of construction Ease of use .
+0; etc.
+0; Solution.
+0; A description, using text and or graphics, of how to achieve the intended goals and objectives.
+0; The description should identify both the solution s static structure and its dynamic behavior _ the people and computing actors, and their collaborations.
+0; The description may include guidelines for implementing the solution.
+0; Variants or specializations of the solution may also be described.
+0; Resulting Context.
+0; The post_conditions after the pattern has been applied.
+0; Implementing the solution normally requires trade_offs among competing forces.
+0; This element describes which forces have been resolved and how, and which remain unresolved.
+0; It may also indicate other patterns that may be applicable in the new context.
+0;  A pattern may be one step in accomplishing some larger goal.
+0;  Any such other patterns will be described in detail under Related Patterns.
+0; Examples.
+0; One or more sample applications of the pattern which illustrate each of the other elements.
+0; a specific problem, context, and set of forces  how the pattern is applied  and the resulting context.
+0; Rationale.
+0; An explanation   justification of the pattern as a whole, or of individual components within it, indicating how the pattern actually works, and why _ how it resolves the forces to achieve the desired goals and objectives, and why this is  good .
+0; The Solution element of a pattern describes the external structure and behavior of the solution.
+0; the Rationale provides insight into its internal workings.
+0; Related Patterns.
+0; The relationships between this pattern and others.
+0; These may be predecessor patterns, whose resulting contexts correspond to the initial context of this one  or successor patterns, whose initial contexts correspond to the resulting context of this one  or alternative patterns, which describe a different solution to the same problem, but under different forces  or co_dependent patterns, which may   must be applied along with this pattern.
+0; Known Uses.
+0; Known applications of the pattern within existing systems, verifying that the pattern does indeed describe a proven solution to a recurring problem.
+0; Known Uses can also serve as Examples.
+0;.
+0;This chapter describes and discusses high level patterns and principles commonly used for applications today.
+0; These are often referred to as the architectural styles, and include patterns such as client server, layered architecture, component_based architecture, message bus architecture, and service_oriented architecture .
+0; For each style, you will find an overview, key principles, major benefits, and information that will help you choose the appropriate architectural styles for your application.
+0; It is important to understand that the styles describe different aspects of applications.
+0; For example, some architectural styles describe deployment patterns, some describe structure and design issues, and others describe communication factors.
+0; Therefore, a typical application will usually use a combination of more than one of the styles described in this chapter.

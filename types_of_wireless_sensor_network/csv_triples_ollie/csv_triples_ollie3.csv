@@ -1,0 +1,11 @@
+1;Terrestrial_WSNs;consist_of;hundreds;0.893
+1;Terrestrial_WSNs;are_capable_efficiently_of;communicating_base_stations;0.74
+2;the_sensor_nodes;are_randomly_distributed_within;the_target_area_that_is_dropped_from_a_fixed_plane;0.945
+2;the_sensor_nodes;are_randomly_distributed_in;an_unstructured_mode;0.754
+3;The_preplanned_or_structured_mode;considers_3D_placement_models;optimal_placement_grid_placement_and_2D;0.645
+4;Photo;Credits_Wireless_Sensor_Networks_by;dolcera;0.866
+4;Photo;Credits;Wireless_Sensor_Networks;0.822
+10;Wireless_sensor_networks;may_comprise_of;numerous_different_types_of_sensors;0.93
+11;Sensor_nodes;are_used_for;constant_sensing;0.9
+11;event_ID;be_event_detection_local_control_of;actuators;0.536
+12;The_applications_of_wireless_sensor_network;mainly_include;health_military_environmental;0.723

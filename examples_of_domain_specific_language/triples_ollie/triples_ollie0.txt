@@ -1,0 +1,179 @@
+A small programming language specifically designed to communicate solutions for a particular domain of problems.
+No extractions found.
+
+One simple example for Domain Specific Languageis HTML which is used for the particular domain called web_based applications.
+No extractions found.
+
+A small programming language specifically designed to communicate solutions for a particular domain of problems.
+No extractions found.
+
+One simple example for Domain Specific Languageis HTML which is used for the particular domain called web_based applications.
+No extractions found.
+
+A domain_specific language is a computer language specialized to a particular application domain.
+0.667: (A domain_specific language; is; a computer language)
+
+ This is in contrast to a general_purpose language , which is broadly applicable across domains.
+No extractions found.
+
+ There is a wide variety of DSLs, ranging from widely used languages for common domains, such as HTML for web pages, down to languages used by only one or a few pieces of software, such as Emacs Lisp for GNU Emacs and XEmacs.
+0.758: (languages; be used by; only one or a few pieces of software)
+0.709: (a wide variety of DSLs; is ranging from; used languages)
+
+ DSLs can be further subdivided by the kind of language, and include domain_specific markup languages, domain_specific modeling languages , and domain_specific programming languages.
+No extractions found.
+
+ Special_purpose computer languages have always existed in the computer age, but the term  domain_specific language  has become more popular due to the rise of domain_specific modeling.
+0.823: (computer languages; have always existed in; the computer age)
+0.815: (the term domain_specific language; has become popular due to; the rise of domain_specific modeling)
+
+ Simpler DSLs, particularly ones used by a single application, are sometimes informally called mini_languages.
+0.793: (ones; be used by; a single application)
+0.773: (Simpler DSLs; are sometimes informally called; mini_languages)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+A domain_specific language is a computer language specialized to a particular application domain.
+0.667: (A domain_specific language; is; a computer language)
+
+ This is in contrast to a general_purpose language , which is broadly applicable across domains.
+No extractions found.
+
+ There is a wide variety of DSLs, ranging from widely used languages for common domains, such as HTML for web pages, down to languages used by only one or a few pieces of software, such as Emacs Lisp for GNU Emacs and XEmacs.
+0.758: (languages; be used by; only one or a few pieces of software)
+0.709: (a wide variety of DSLs; is ranging from; used languages)
+
+ DSLs can be further subdivided by the kind of language, and include domain_specific markup languages, domain_specific modeling languages , and domain_specific programming languages.
+No extractions found.
+
+ Special_purpose computer languages have always existed in the computer age, but the term  domain_specific language  has become more popular due to the rise of domain_specific modeling.
+0.823: (computer languages; have always existed in; the computer age)
+0.815: (the term domain_specific language; has become popular due to; the rise of domain_specific modeling)
+
+ Simpler DSLs, particularly ones used by a single application, are sometimes informally called mini_languages.
+0.793: (ones; be used by; a single application)
+0.773: (Simpler DSLs; are sometimes informally called; mini_languages)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+We use domain specific languages to describe tasks related to automating the analysis and transformation of source code.
+0.767: (We; use domain specific languages to describe; tasks related to automating the analysis and transformation of source code)
+0.704: (We; use; domain specific languages)
+0.704: (tasks; be related to; the analysis and transformation of source code)
+
+ A lexical language to describe language elements , used to generate fast FSAs for breaking text in such elements.
+0.539: (text; be breaking in; such elements)
+
+ Our is special in handling full Unicode and supporting the conversion of values  e.
+No extractions found.
+
+g.
+No extractions found.
+
+, numbers and strings  to native computer binary representations.
+No extractions found.
+
+ It also provides a push_down state automation to allow the lexer to handle complex entities such as the contents of regular expressions.
+0.729: (the lexer; to handle; complex entities)
+0.722: (It; also provides; a push_down state automation)
+
+ .
+No extractions found.
+
+ a grammar specification for describing how lexical elements are composable to form valid sentences in the langauge.
+0.708: (valid sentences; to be form in; the langauge)
+
+ Ours is backed up by a full context_free parsing mechanism, enabling our DSL to specify a parseable version of full C  14.
+0.919: (Ours; is backed up by; a full context_free parsing mechanism)
+0.893: (our DSL; to specify; a parseable version of full C 14)
+
+ a box language, used to specify how to build and compose  boxes  , used to define how a prettyprinter converts an abstract syntax tree back into nicely indented formatted text.
+0.875: (a prettyprinter; converts an abstract syntax tree back into; indented formatted text)
+0.646: (a prettyprinter; converts back; an abstract syntax tree)
+
+ an attribute grammar, which decorates the above grammar specification, to enable the computation of arbitrary analyses over parse trees.
+No extractions found.
+
+ a rule language for specifying code transformations in terms of source code fragments.
+0.743: (code transformations; be specifying in; terms of source code fragments)
+
+ This is actually pretty unusual in itself.
+No extractions found.
+
+ A more recent extension allows the source pattern to be intepreted matched against the source code in terms of data flows, so it isnt just pure syntactic match.
+0.821: (A more recent extension; allows; the source pattern to be intepreted matched against the source code in terms of data flows)
+
+ A parallel programming language in which to write program analysis and transformation tools, combining the above elements.
+No extractions found.
+
+ While a lot of the parallel language is rather traditional, the part which specifies parallelism is not, enabling one to specify pure_parallelism, partial_order parallelism, or team based parallelism easily.
+0.654: (a lot of the parallel language; is rather; traditional)
+0.62: (parallelism; be specifies by; the part)
+0.456: (traditional; be a lot of; the parallel language)
+
+Domain Specific Languages have been around since I ve been in computing, but it s hard to find much information about how to work with them.
+0.588: (I; ve been in; computing)
+
+ DSLs are small languages, focused on a particular aspect of a software system.
+0.937: (small languages; focused on; a particular aspect of a software system)
+
+ You can t build a whole program with a DSL, but you often use multiple DSLs in a system mainly written in a general purpose language.
+0.885: (you; often use multiple DSLs in; a system mainly written in a general purpose language)
+0.854: (You; can t build; a whole program)
+0.852: (You; can t build a whole program with; a DSL)
+0.79: (you; often use; multiple DSLs)
+0.658: (a whole program; be build with; a DSL)
+0.641: (a system; be mainly written in; a general purpose language)
+
+DSLs come in two main forms.
+0.685: (DSLs; come in; two main forms)
+
+ external and internal.
+No extractions found.
+
+ An external DSL is a language that s parsed independently of the host general purpose language.
+0.802: (An external DSL; is; a language that s parsed independently of the host general purpose language)
+
+ good examples include regular expressions and CSS.
+0.756: (good examples; include; regular expressions and CSS.)
+
+ External DSLs have a strong tradition in the Unix community.
+0.793: (External DSLs; have; a strong tradition)
+
+ Internal DSLs are a particular form of API in a host general purpose language, often referred to as a fluent interface.
+0.94: (Internal DSLs; are a particular form of; API)
+0.905: (Internal DSLs; are a particular form of API in; a host general purpose language)
+0.782: (a particular form of API; be often referred as; a fluent interface)
+0.555: (particular; are form of; API)
+0.446: (particular; are form of API in; a host general purpose language)
+
+ The way mocking libraries, such as JMock, define expectations for tests are good examples of this, as are many of the mechanisms used by Ruby on Rails.
+0.752: (the mechanisms; be used by; Ruby)
+0.723: (the mechanisms; be used on; Rails)
+0.387: (good examples of this; be expectations for; tests)
+
+ Internal DSLs also have a long tradition of usage, particularly in the Lisp community.
+0.807: (Internal DSLs; also have a long tradition of usage in; the Lisp community)
+0.8: (Internal DSLs; also have; a long tradition of usage)
+
+Typically, a domain_specific language is created when a development team has to write similar code for several products.
+0.847: (a development team; has to write similar code for; several products)
+0.818: (a development team; to write similar code for; several products)
+0.798: (a development team; has to write; similar code)
+0.708: (similar code; to be write for; several products)
+
+ For example, a company that specializes in baggage handling systems might define a baggage track DSL from which they can generate some of the code for each installation.
+0.728: (a company; specializes in; baggage)
+
+ The benefits of the DSL are that it can be understood by their customers, that the code generated from it is reliable, and that the system can be rapidly updated if the customers  requirements change.
+0.715: (it; can be understood by; their customers)
+0.354: (it; is; reliable)
+

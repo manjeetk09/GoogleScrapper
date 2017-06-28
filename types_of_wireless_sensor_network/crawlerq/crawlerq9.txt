@@ -1,0 +1,26 @@
+Due to the deficiencies of the previous strategies, routing protocols become necessary in wireless sensor networks.
+ Nevertheless, the inclusion of a routing protocol in a wireless sensor network is not a trivial task.
+ One of the main limitations is the identification of nodes.
+ Since wireless sensor networks are formed by a significant number of nodes, the manual assignation of unique identifiers becomes infeasible .
+ The use of potentially unique identifier such as the MAC address or the GPS coordinates is not recommended as it forces a significant payload in the messages .
+ However, this drawback is easily overcome in wireless sensor networks since an IP address is not required to identify the destination node of a specific packet.
+ In fact, attribute_based addressing fits better with the specificities of wireless sensor networks.
+ In this case, an attribute such as node location and sensor type is used to identify the final destination.
+Wireless sensor networks are formed by a significant number of nodes so the manual assignation of unique identifiers is infeasible.
+ The use of the MAC address or the GPS coordinates is not recommended as it introduces a significant payload .
+ However, network_wide unique addresses are not needed to identify the destination node of a specific packet in wireless sensor networks.
+ In fact, attribute_based addressing fits better with the specificities of wireless sensor networks.
+ In this case, an attribute such as node location and sensor type is used to identify the final destination.
+ Concerning these identifiers, two different approaches have been proposed .
+ Firstly, the ID reuse scheme allows identifiers to be repeated in the network but keeping their uniqueness in close areas.
+ In this way, a node knows that its identifier is unique in a k_hop neighborhood, being k a parameter to configure.
+ On the other hand, the field_wide unique ID schemes guarantee that the identifiers are unique in the whole application.
+ With this assumption, other protocols such as routing, MAC or network configurations can be simultaneously used.
+Routing in Wireless Sensor Networks plays a significant role in the field of environment_oriented monitoring, traffic monitoring, etc.
+ Here, wide contributions that are made toward routing in WSN are explored.
+ The paper mainly aims to categorize the routing problems and examines the routing_related optimization problems.
+ For achieving the motive, 50 papers from the standard journals are collected and primarily reviewed in a chronological way.
+ Later, various features that are related to energy, security, speed and reliability problems of routing are discussed.
+ Subsequently, the literature is analyzed based on the simulation environment and experimental setup, awareness over the Quality of Service and the deployment against various applications.
+ In addition, the optimization of the routing algorithms and the meta_heuristic study of routing optimization are explored.
+ Routing is a vast area with numerous unsolved issues and hence, various research gaps along with future directions are also presented.

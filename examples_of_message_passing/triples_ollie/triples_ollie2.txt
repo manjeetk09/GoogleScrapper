@@ -1,0 +1,2696 @@
+This is a short introduction to the Message Passing Interface designed to convey the fundamental operation and use of the interface.
+No extractions found.
+
+ This introduction is designed for readers with some background programming C, and should deliver enough information to allow readers to write and run their own parallel C programs using MPI.
+0.876: (This introduction; is designed should for; readers)
+0.51: (readers; to run; their own parallel C programs)
+0.477: (readers; to run their own parallel C programs using; MPI.)
+
+Initialising the Message Queue.
+No extractions found.
+
+IPC Functions, Key Arguments, and Creation Flags   sys ipc h .
+No extractions found.
+
+Controlling message queues.
+No extractions found.
+
+Sending and Receiving Messages.
+No extractions found.
+
+POSIX Messages   mqueue h .
+No extractions found.
+
+Example  Sending messages between two processes message_send c __ creating and sending to a simple message queue message_rec c __ receiving the above message.
+No extractions found.
+
+Some further example message queue programs msgget c  Simple Program to illustrate msgetmsgctl cSample Program to Illustrate msgctlmsgop c  Sample Program to Illustrate msgsndand msgrcv.
+0.74: (Some further example message queue programs; msgget; c Simple Program)
+0.727: (msgetmsgctl cSample Program; to illustrate to be; Illustrate msgctlmsgop c Sample Program)
+0.677: (msgetmsgctl cSample Program; to illustrate to be; Illustrate)
+
+Exercises.
+No extractions found.
+
+msgget c  Simple Program to illustrate msget.
+0.769: (msgget c Simple Program; to illustrate; msget)
+
+msgctl cSample Program to Illustrate msgctl.
+No extractions found.
+
+msgop c  Sample Program to Illustrate msgsndand msgrcv.
+No extractions found.
+
+Fig.
+No extractions found.
+
+ 24.
+No extractions found.
+
+1 Basic Message Passing IPC messaging lets processes send and receive messages, and queue messages for processing in an arbitrary order.
+0.729: (processes; receive; messages)
+
+ Unlike the file byte_stream data flow of pipes, each IPC message has an explicit length.
+0.728: (each IPC message; has; an explicit length)
+0.7: (each IPC message; has an explicit length unlike; the file)
+
+ Messages can be assigned a specific type.
+0.763: (Messages; can be assigned; a specific type)
+
+ Because of this, a server process can direct message traffic between clients on its queue by using the client process PID as the message type.
+0.808: (a server process; can direct message traffic between clients on; its queue)
+0.798: (a server process; can direct; message traffic)
+0.67: (message traffic; can be direct on; its queue)
+0.608: (the client process; be using as; the message type)
+
+ For single_message transactions, multiple server processes can work in parallel on transactions sent to a shared message queue.
+0.756: (multiple server processes; can work on; transactions)
+0.591: (multiple server processes; can work for; single_message transactions)
+
+MPI is a directory of C programs which illustrate the use of MPI, the Message Passing Interface.
+0.838: (MPI; is a directory of; C programs)
+0.578: (MPI; is; a directory of C programs)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The Message Passing Interface Standard is a message passing library standard based on the consensus of the MPI Forum, which has over 40 participating organizations, including vendors, researchers, software library developers, and users.
+0.704: (The Message Passing Interface Standard; is; a message passing library standard)
+0.504: (researchers; be over 40 participating organizations including; vendors)
+
+ The goal of the Message Passing Interface is to establish a portable, efficient, and flexible standard for message passing that will be widely used for writing message passing programs.
+0.797: (The goal of the Message Passing Interface; is to establish; a portable , efficient , and flexible standard)
+
+ As such, MPI is the first standardized, vendor independent, message passing library.
+0.481: (MPI; is; the first standardized)
+0.392: (MPI; is the first standardized as; such)
+
+ The advantages of developing message passing software using MPI closely match the design goals of portability, efficiency, and flexibility.
+0.39: (efficiency; be the design goals of; portability)
+
+ MPI is not an IEEE or ISO standard, but has in fact, become the  industry standard  for writing message passing programs on HPC platforms.
+0.65: (not an IEEE or ISO standard; become; the industry standard)
+0.549: (MPI; is; not an IEEE or ISO standard)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+The Message Passing Interface Standard is a message passing library standard based on the consensus of the MPI Forum, which has over 40 participating organizations, including vendors, researchers, software library developers, and users.
+0.704: (The Message Passing Interface Standard; is; a message passing library standard)
+0.504: (researchers; be over 40 participating organizations including; vendors)
+
+ The goal of the Message Passing Interface is to establish a portable, efficient, and flexible standard for message passing that will be widely used for writing message passing programs.
+0.797: (The goal of the Message Passing Interface; is to establish; a portable , efficient , and flexible standard)
+
+ As such, MPI is the first standardized, vendor independent, message passing library.
+0.481: (MPI; is; the first standardized)
+0.392: (MPI; is the first standardized as; such)
+
+ The advantages of developing message passing software using MPI closely match the design goals of portability, efficiency, and flexibility.
+0.39: (efficiency; be the design goals of; portability)
+
+ MPI is not an IEEE or ISO standard, but has in fact, become the  industry standard  for writing message passing programs on HPC platforms.
+0.65: (not an IEEE or ISO standard; become; the industry standard)
+0.549: (MPI; is; not an IEEE or ISO standard)
+
+The goal of this tutorial is to teach those unfamiliar with MPI how to develop and run parallel programs according to the MPI standard.
+0.875: (The goal of this tutorial; is to teach those unfamiliar with; MPI how to develop and run parallel programs)
+0.851: (The goal of this tutorial; to teach those unfamiliar with; MPI how to develop and run parallel programs)
+0.807: (The goal of this tutorial; is to teach; those unfamiliar)
+0.744: (those unfamiliar; to be teach with; MPI how to develop and run parallel programs)
+
+ The primary topics that are presented focus on those which are the most useful for new MPI programmers.
+No extractions found.
+
+ The tutorial begins with an introduction, background, and basic information for getting started with MPI.
+0.823: (The tutorial; begins with; an introduction)
+
+ This is followed by a detailed look at the MPI routines that are most useful for new MPI programmers, including MPI Environment Management, Point_to_Point Communications, and Collective Communications routines.
+0.423: (detailed; look at; the MPI routines)
+0.401: (Point_to_Point Communications; be new MPI programmers including; MPI Environment Management)
+
+ Numerous examples in both C and Fortran are provided, as well as a lab exercise.
+No extractions found.
+
+The tutorial materials also include more advanced topics such as Derived Data Types, Group and Communicator Management Routines, and Virtual Topologies.
+0.723: (The tutorial materials; also include; advanced topics)
+
+ However, these are not actually presented during the lecture, but are meant to serve as  further reading  for those who are interested.
+No extractions found.
+
+Level Prerequisites.
+No extractions found.
+
+ This tutorial is ideal for those who are new to parallel programming with MPI.
+0.746: (This tutorial; is; ideal)
+
+ A basic understanding of parallel programming in C or Fortran is required.
+No extractions found.
+
+ For those who are unfamiliar with Parallel Programming in general, the material covered in EC3500.
+0.823: (the material; covered in; EC3500)
+
+ Introduction To Parallel Computing would be helpful.
+0.779: (Introduction; would be; helpful)
+
+An Interface Specification.
+No extractions found.
+
+ .
+No extractions found.
+
+ M P I   Message Passing Interface.
+No extractions found.
+
+ MPI is a specification for the developers and users of message passing libraries.
+0.881: (MPI; is a specification for; the developers and users of message passing libraries)
+0.591: (MPI; is; a specification)
+
+ By itself, it is NOT a library _ but rather the specification of what such a library should be.
+0.513: (it; is; NOT)
+
+ MPI primarily addresses the message_passing parallel programming model.
+0.639: (MPI; primarily addresses; the message_passing parallel programming model)
+
+ data is moved from the address space of one process to that of another process through cooperative operations on each process.
+0.948: (data; is moved from; the address space of one process)
+0.837: (data; is moved through; cooperative operations)
+0.816: (data; is moved on; each process)
+
+ Simply stated, the goal of the Message Passing Interface is to provide a widely used standard for writing message passing programs.
+0.788: (the goal of the Message Passing Interface; is to provide; a widely used standard)[enabler=Simply stated]
+
+ The interface attempts to be.
+No extractions found.
+
+ Practical Portable Efficient Flexible.
+No extractions found.
+
+ The MPI standard has gone through a number of revisions, with the most recent version being MPI_3.
+0.845: (The MPI standard; has gone through; a number of revisions)
+0.625: (The MPI standard; has gone with; MPI_3)
+
+x.
+No extractions found.
+
+ Interface specifications have been defined for C and Fortran90 language bindings.
+0.914: (Interface specifications; have been defined for; C and Fortran90 language bindings)
+
+ C   bindings from MPI_1 are removed in MPI_3 MPI_3 also provides support for Fortran 2003 and 2008 features.
+0.883: (C bindings; are removed in; MPI_3 MPI_3)
+
+ Actual MPI library implementations differ in which version and features of the MPI standard they support.
+0.835: (Actual MPI library implementations; differ in; which version and features of the MPI standard)
+
+ Developers users will need to be aware of this.
+No extractions found.
+
+Programming Model.
+No extractions found.
+
+ .
+No extractions found.
+
+ Originally, MPI was designed for distributed memory architectures, which were becoming increasingly popular at that time .
+0.868: (MPI; Originally was designed for; distributed memory architectures which were becoming increasingly popular at that time)
+
+ As architecture trends changed, shared memory SMPs were combined over networks creating hybrid distributed memory   shared memory systems.
+0.936: (shared memory SMPs; were combined over; networks creating hybrid distributed memory shared memory systems)[enabler=As architecture trends changed]
+
+ MPI implementors adapted their libraries to handle both types of underlying memory architectures seamlessly.
+0.845: (their libraries; to handle; both types underlying memory architectures seamlessly)
+
+ They also adapted developed ways of handling different interconnects and protocols.
+0.876: (They; also adapted; developed ways handling different interconnects and protocols)
+
+ Today, MPI runs on virtually any hardware platform.
+0.731: (MPI; runs on; any hardware platform)
+0.482: (MPI; runs in; Today)
+
+ Distributed Memory Shared Memory Hybrid.
+No extractions found.
+
+ The programming model clearly remains a distributed memory model however, regardless of the underlying physical architecture of the machine.
+0.284: (The programming model; clearly remains however regardless of the underlying physical architecture the machine; a distributed memory model)
+
+ All parallelism is explicit.
+0.716: (All parallelism; is; explicit)
+
+ the programmer is responsible for correctly identifying parallelism and implementing parallel algorithms using MPI constructs.
+0.746: (the programmer; is; responsible)
+
+Reasons for Using MPI.
+No extractions found.
+
+ .
+No extractions found.
+
+ Standardization _ MPI is the only message passing library that can be considered a standard.
+0.706: (Standardization _ MPI; is; the only message passing library that can be considered a standard)
+
+ It is supported on virtually all HPC platforms.
+0.875: (It; is supported on; all HPC platforms)
+
+ Practically, it has replaced all previous message passing libraries.
+0.605: (it; Practically has replaced; all previous message passing libraries)
+
+ Portability _ There is little or no need to modify your source code when you port your application to a different platform that supports the MPI standard.
+0.564: (the MPI standard; be supports by; a different platform)
+
+ Performance Opportunities _ Vendor implementations should be able to exploit native hardware features to optimize performance.
+0.819: (Vendor implementations; to exploit; native hardware features to optimize performance)
+0.767: (Vendor implementations; should be; able)
+
+ Any implementation is free to develop optimized algorithms.
+0.761: (Any implementation; to develop; optimized algorithms)
+0.746: (Any implementation; is; free)
+
+ Functionality _ There are over 430 routines defined in MPI_3, which includes the majority of those in MPI_2 and MPI_1.
+0.854: (Functionality _; There are over; 430 routines defined in MPI_3 ,)
+0.62: (430 routines; be defined in; MPI_3)
+0.527: (the majority of those; be includes by; MPI_3)
+
+  Most MPI programs can be written using a dozen or less routines.
+No extractions found.
+
+ Availability _ A variety of implementations are available, both vendor and public domain.
+0.758: (Availability;  ; A variety of implementations)
+
+ .
+No extractions found.
+
+ MPI has resulted from the efforts of numerous individuals and groups that began in 1992.
+0.74: (numerous individuals and groups; began in; 1992)
+0.728: (MPI; has resulted from; the efforts of numerous individuals)
+
+ Some history.
+No extractions found.
+
+ 1980s _ early 1990s.
+No extractions found.
+
+ Distributed memory, parallel computing develops, as do a number of incompatible software tools for writing such programs _ usually with tradeoffs between portability, performance, functionality and price.
+0.742: (such programs;   usually with; tradeoffs)
+
+ Recognition of the need for a standard arose.
+No extractions found.
+
+ Apr 1992.
+No extractions found.
+
+ Workshop on Standards for Message Passing in a Distributed Memory Environment, sponsored by the Center for Research on Parallel Computing, Williamsburg, Virginia.
+0.768: (a Distributed Memory Environment; be sponsored by; the Center)
+
+ The basic features essential to a standard message passing interface were discussed, and a working group established to continue the standardization process.
+0.541: (The basic features; be essential to; a standard message passing interface)
+
+ Preliminary draft proposal developed subsequently.
+No extractions found.
+
+ Nov 1992.
+No extractions found.
+
+ Working group meets in Minneapolis.
+0.835: (Working group; meets in; Minneapolis)
+
+ MPI draft proposal from ORNL presented.
+No extractions found.
+
+ Group adopts procedures and organization to form the MPI Forum.
+0.822: (Group; adopts; procedures and organization)
+0.68: (Group; adopts organization to form; the MPI Forum)
+0.68: (Group; adopts procedures to form; the MPI Forum)
+
+ It eventually comprised of about 175 individuals from 40 organizations including parallel computer vendors, software writers, academia and application scientists.
+0.917: (It; eventually comprised of; about 175 individuals)
+0.775: (It; eventually comprised from; 40 organizations)
+
+ Nov 1993.
+No extractions found.
+
+ Supercomputing 93 conference _ draft MPI standard presented.
+No extractions found.
+
+ May 1994.
+No extractions found.
+
+ Final version of MPI_1.
+No extractions found.
+
+0 released MPI_1.
+No extractions found.
+
+1 MPI_1.
+No extractions found.
+
+2 MPI_1.
+No extractions found.
+
+3 .
+No extractions found.
+
+ 1998.
+No extractions found.
+
+ MPI_2 picked up where the first MPI specification left off, and addressed topics which went far beyond the MPI_1 specification.
+0.797: (MPI_2; addressed; topics which went far beyond the MPI_1 specification)
+0.78: (topics; went beyond; the MPI_1 specification)
+
+ MPI_2.
+No extractions found.
+
+1 MPI_2.
+No extractions found.
+
+2 .
+No extractions found.
+
+ Sep 2012.
+No extractions found.
+
+ The MPI_3.
+No extractions found.
+
+0 standard was approved.
+No extractions found.
+
+ MPI_3.
+No extractions found.
+
+1 .
+No extractions found.
+
+History and Evolution.
+No extractions found.
+
+ .
+No extractions found.
+
+Documentation.
+No extractions found.
+
+ .
+No extractions found.
+
+ Documentation for all versions of the MPI standard is available at.
+No extractions found.
+
+ http.
+No extractions found.
+
+  www.
+No extractions found.
+
+mpi_forum.
+No extractions found.
+
+org docs .
+No extractions found.
+
+ Although the MPI programming interface has been standardized, actual library implementations will differ in which version and features of the standard they support.
+0.834: (actual library implementations; will differ in; which version and features of the standard they support)[enabler=Although the MPI programming interface has been standardized]
+
+ The way MPI programs are compiled and run on different platforms may also vary.
+0.804: (programs; be run on; different platforms)
+
+ Currently, LC supports these MPI implementations.
+0.566: (LC; Currently supports; these MPI implementations)
+
+ MVAPICH _ Linux clusters Open MPI _ Linux clusters Intel MPI _ Linux clusters IBM BG Q MPI _ BG Q clusters IBM Spectrum MPI _ Coral Early Access clusters.
+No extractions found.
+
+ A summary of each is provided below, along with links to additional detailed information.
+No extractions found.
+
+Compiling.
+No extractions found.
+
+ See the MPI Build Scripts table below.
+No extractions found.
+
+Running.
+No extractions found.
+
+ MPI executables are launched using the SLURM srun command with the appropriate options.
+0.674: (the SLURM srun command; be using with; the appropriate options)
+
+ For example, to launch an 8_process MPI job split across two different nodes in the pdebug pool.
+0.554: (job; be split across; two different nodes)
+0.2: (an 8_process; to be launch for; example)
+
+ srun _N2 _n8 _ppdebug a.
+No extractions found.
+
+out.
+No extractions found.
+
+ The srun command is discussed in detail in the Running Jobs section of the Linux Clusters Overview tutorial.
+0.94: (The srun command; is discussed in; the Running Jobs section of the Linux Clusters Overview tutorial)
+0.929: (The srun command; is discussed in; detail)
+0.819: (The srun command; is discussed of; the Linux Clusters Overview tutorial)
+
+Documentation.
+No extractions found.
+
+ MVAPICH home page.
+No extractions found.
+
+ mvapich.
+No extractions found.
+
+cse.
+No extractions found.
+
+ohio_state.
+No extractions found.
+
+edu .
+No extractions found.
+
+ MVAPICH2 User Guides.
+No extractions found.
+
+ http.
+No extractions found.
+
+  mvapich.
+No extractions found.
+
+cse.
+No extractions found.
+
+ohio_state.
+No extractions found.
+
+edu userguide .
+No extractions found.
+
+ MVAPICH 1.
+No extractions found.
+
+2 User Guide.
+No extractions found.
+
+ available HERE.
+No extractions found.
+
+ MPICH home page.
+No extractions found.
+
+ http.
+No extractions found.
+
+  www.
+No extractions found.
+
+mpich.
+No extractions found.
+
+org .
+No extractions found.
+
+  usr local docs on LC s TOSS 2 clusters.
+No extractions found.
+
+ mpi.
+No extractions found.
+
+basics mpi.
+No extractions found.
+
+mvapich.
+No extractions found.
+
+basics mpi.
+No extractions found.
+
+mvapich2.
+No extractions found.
+
+basics.
+No extractions found.
+
+dotkit .
+No extractions found.
+
+module .
+No extractions found.
+
+This ensures that LC s MPI wrapper scripts point to the desired version of Open MPI.
+0.791: (LC; s MPI wrapper scripts point to; the desired version of Open)
+0.605: (LC; s; MPI wrapper scripts point)
+
+Compiling.
+No extractions found.
+
+Running.
+No extractions found.
+
+ .
+No extractions found.
+
+ Be sure to load the same Open MPI dotkit module that you used to build your executable.
+0.778: (you; used to build; your executable)
+0.719: (you; to build; your executable)
+
+ If you are running a batch job, you will need to load the dotkit module in your batch script.
+0.846: (you; will need to load; the dotkit module)[enabler=If you are running a batch job]
+0.843: (you; will need to load the dotkit module in; your batch script)[enabler=If you are running a batch job]
+0.83: (you; to load; the dotkit module)
+0.636: (the dotkit module; to be load in; your batch script)
+0.098: (you; are running; a batch job)
+
+ Launching an Open MPI job can be done using the following commands.
+No extractions found.
+
+ For example, to run a 48 process MPI job.
+0.2: (a 48 process MPI job; to be run for; example)
+
+ mpirun _np 48 a.
+No extractions found.
+
+out  mpiexec _np 48 a.
+No extractions found.
+
+out  srun _n 48 a.
+No extractions found.
+
+out.
+No extractions found.
+
+Documentation.
+No extractions found.
+
+ Open MPI home page.
+No extractions found.
+
+ http.
+No extractions found.
+
+  www.
+No extractions found.
+
+open_mpi.
+No extractions found.
+
+org .
+No extractions found.
+
+  usr local docs mpi.
+No extractions found.
+
+openmpi.
+No extractions found.
+
+basics on LC s TOSS 2 clusters.
+No extractions found.
+
+General MPI Program Structure.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+Format of MPI Calls.
+No extractions found.
+
+ .
+No extractions found.
+
+ C names are case sensitive  Fortran names are not.
+No extractions found.
+
+ Programs must not declare variables or functions with names beginning with the prefix MPI_ or PMPI_ .
+0.888: (Programs; must not declare variables or functions with; names beginning with the prefix MPI_ or PMPI_)
+0.808: (Programs; must not declare; variables or functions)
+0.783: (variables or functions; must be not declare with; names beginning with the prefix MPI_ or PMPI_)
+0.608: (names; beginning with; the prefix MPI_ or PMPI_)
+
+ C Binding Format.
+No extractions found.
+
+ rc   MPI_Xxxxx parameter, .
+No extractions found.
+
+   Example.
+No extractions found.
+
+ rc   MPI_BsendError code.
+No extractions found.
+
+ Returned as  rc .
+No extractions found.
+
+ MPI_SUCCESS if successful Fortran Binding Format.
+No extractions found.
+
+ CALL MPI_XXXXX parameter,.
+No extractions found.
+
+, ierr  call mpi_xxxxx parameter,.
+No extractions found.
+
+, ierr  Example.
+No extractions found.
+
+ CALL MPI_BSENDError code.
+No extractions found.
+
+ Returned as  ierr  parameter.
+No extractions found.
+
+ MPI_SUCCESS if successful.
+No extractions found.
+
+Communicators and Groups.
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI uses objects called communicators and groups to define which collection of processes may communicate with each other.
+0.825: (which collection of processes; may communicate with; each other)
+0.584: (MPI; uses; objects)
+
+ Most MPI routines require you to specify a communicator as an argument.
+0.875: (you; to specify a communicator as; an argument)
+0.846: (you; to specify; a communicator)
+0.708: (a communicator; to be specify as; an argument)
+
+ Communicators and groups will be covered in more detail later.
+0.819: (Communicators and groups; will be covered later in; more detail)
+
+ For now, simply use MPI_COMM_WORLD whenever a communicator is required _ it is the predefined communicator that includes all of your MPI processes.
+0.532: (it; is; the predefined communicator that includes all of your MPI processes)
+
+Rank.
+No extractions found.
+
+ .
+No extractions found.
+
+ Within a communicator, every process has its own unique, integer identifier assigned by the system when the process initializes.
+0.809: (its own unique , integer identifier; be assigned by; the system)[enabler=when the process initializes]
+0.756: (every process; has; its own unique , integer identifier assigned by the system when the process initializes)
+0.35: (every process; has its own unique , integer identifier assigned by the system when the process initializes within; a communicator)
+
+ A rank is sometimes also called a  task ID .
+0.763: (A rank; is sometimes also called; a task ID)
+
+ Ranks are contiguous and begin at zero.
+0.704: (Ranks; begin at; zero)
+0.41: (Ranks; begin in; zero)
+
+ Used by the programmer to specify the source and destination of messages.
+No extractions found.
+
+ Often used conditionally by the application to control program execution .
+No extractions found.
+
+Error Handling.
+No extractions found.
+
+ .
+No extractions found.
+
+ Most MPI routines include a return error code parameter, as described in the  Format of MPI Calls  section above.
+0.723: (Most MPI routines; include; a return error code parameter)
+
+ However, according to the MPI standard, the default behavior of an MPI call is to abort if there is an error.
+No extractions found.
+
+ This means you will probably not be able to capture a return error code other than MPI_SUCCESS .
+0.83: (you; to capture; a return error code other)
+0.724: (you; will probably be; not be able)
+
+ The standard does provide a means to override this default error handler.
+No extractions found.
+
+ A discussion on how to do this is available HERE.
+0.716: (A discussion; is; available)
+
+ You can also consult the error handling section of the relevant MPI Standard documentation located at http.
+0.865: (You; can also consult; the error handling section of the relevant MPI Standard documentation)
+0.637: (the relevant MPI Standard documentation; be located at; http)
+
+  www.
+No extractions found.
+
+mpi_forum.
+No extractions found.
+
+org docs .
+No extractions found.
+
+ The types of errors displayed to the user are implementation dependent.
+0.83: (The types of errors; are implementation; dependent)
+0.655: (errors; be displayed to; the user)
+
+This group of routines is used for interrogating and setting the MPI execution environment, and covers an assortment of purposes, such as initializing and terminating the MPI environment, querying a rank s identity, querying the MPI library s version, etc.
+0.919: (This group of routines; is used for; interrogating)
+
+ Most of the commonly used ones are described below.
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Init MPI_INIT .
+No extractions found.
+
+MPI_Init.
+No extractions found.
+
+MPI_Comm_size .
+No extractions found.
+
+ MPI_Comm_size MPI_COMM_SIZE .
+No extractions found.
+
+MPI_Comm_rank .
+No extractions found.
+
+ MPI_Comm_rank MPI_COMM_RANK .
+No extractions found.
+
+MPI_Abort .
+No extractions found.
+
+ MPI_Abort MPI_ABORT .
+No extractions found.
+
+MPI_Get_processor_name .
+No extractions found.
+
+ MPI_Get_processor_name MPI_GET_PROCESSOR_NAME .
+No extractions found.
+
+MPI_Get_version .
+No extractions found.
+
+ MPI_Get_version MPI_GET_VERSION .
+No extractions found.
+
+MPI_Initialized .
+No extractions found.
+
+ MPI_Initialized MPI_INITIALIZED .
+No extractions found.
+
+MPI_Wtime .
+No extractions found.
+
+ MPI_Wtime MPI_WTIME .
+No extractions found.
+
+MPI_Wtick .
+No extractions found.
+
+ MPI_Wtick MPI_WTICK .
+No extractions found.
+
+MPI_Finalize .
+No extractions found.
+
+ MPI_Finalize MPI_FINALIZE .
+No extractions found.
+
+GO TO THE EXERCISE HERE Approx.
+No extractions found.
+
+ 20 minutes.
+No extractions found.
+
+Example MPI Program in C.
+No extractions found.
+
+   mpi_pi_reduce.
+No extractions found.
+
+c Example MPI Program in Fortran.
+No extractions found.
+
+   mpi_pi_reduce.
+No extractions found.
+
+f.
+No extractions found.
+
+Order and Fairness.
+No extractions found.
+
+ Order.
+No extractions found.
+
+ MPI guarantees that messages will not overtake each other.
+0.68: (messages; will not overtake; each other)[attrib=MPI guarantees]
+
+ If a sender sends two messages in succession to the same destination, and both match the same receive, the receive operation will receive Message 1 before Message 2.
+0.708: (Message 1; will be receive before; Message)
+0.259: (a sender; sends two messages in; succession)
+0.145: (a sender; sends; two messages)
+0.05: (a sender; match; the same)
+
+ If a receiver posts two receives , in succession, and both are looking for the same message, Receive 1 will receive the message before Receive 2.
+0.825: (Receive 1; will receive the message before; Receive)
+0.788: (Receive 1; will receive; the message)
+0.708: (the message; will be receive before; Receive)
+0.514: (two; receives are looking for; the same message Receive 1 will receive the message before Receive)
+0.342: (two; receives are looking in; succession)
+
+ Order rules do not apply if there are multiple threads participating in the communication operations.
+0.729: (multiple threads; participating in; the communication operations)
+
+ Fairness.
+No extractions found.
+
+ MPI does not guarantee fairness _ it s up to the programmer to prevent  operation starvation .
+0.674: (MPI; does not guarantee; fairness)[enabler=_ it s up to the programmer to prevent operation starvation]
+
+ Example.
+No extractions found.
+
+ task 0 sends a message to task 2.
+0.852: (task 0; sends a message to; task)
+0.768: (task 0; sends; a message)
+
+ However, task 1 sends a competing message that matches task 2 s receive.
+0.564: (task 2; be matches by; a competing message)
+
+ Only one of the sends will complete.
+No extractions found.
+
+ Blocking sends MPI_SendNon_blocking sends MPI_IsendBlocking receive MPI_RecvNon_blocking receive MPI_Irecv.
+0.682: (MPI_SendNon_blocking; sends; MPI_IsendBlocking)
+0.655: (MPI_SendNon_blocking; sends in; Blocking)
+
+Notes.
+No extractions found.
+
+ Programmers may also create their own data types .
+0.722: (Programmers; may also create; their own data types)
+
+ MPI_BYTE and MPI_PACKED do not correspond to standard C or Fortran types.
+0.691: (MPI_BYTE and MPI_PACKED; do not correspond to; standard C or Fortran types)
+
+ Types shown in GRAY FONT are recommended if possible.
+0.731: (Types; be shown in; GRAY FONT)
+
+ Some implementations may include additional elementary data types  MPI_LOGICAL2, MPI_COMPLEX32, etc.
+No extractions found.
+
+ .
+No extractions found.
+
+ Check the MPI header file.
+No extractions found.
+
+MPI_Send .
+No extractions found.
+
+ MPI_Send MPI_SEND .
+No extractions found.
+
+MPI_Recv .
+No extractions found.
+
+ MPI_Recv MPI_RECV .
+No extractions found.
+
+MPI_Ssend .
+No extractions found.
+
+ MPI_Ssend MPI_SSEND .
+No extractions found.
+
+MPI_Sendrecv .
+No extractions found.
+
+ MPI_Sendrecv   sendbuf,sendcount,sendtype,dest,sendtag, .
+No extractions found.
+
+  recvbuf,recvcount,recvtype,source,recvtag, .
+No extractions found.
+
+ comm, status  MPI_SENDRECV  sendbuf,sendcount,sendtype,dest,sendtag, .
+0.609: (comm; sendbuf; ,sendcount ,sendtype ,dest ,sendtag)
+0.58: (status MPI_SENDRECV; sendbuf; ,sendcount ,sendtype ,dest ,sendtag)
+
+ recvbuf,recvcount,recvtype,source,recvtag, .
+No extractions found.
+
+ comm,status,ierr .
+No extractions found.
+
+MPI_Wait MPI_Waitany MPI_Waitall MPI_Waitsome .
+No extractions found.
+
+ MPI_Wait MPI_Waitany MPI_Waitall MPI_Waitsome  incount, array_of_requests, outcount, .
+No extractions found.
+
+  array_of_offsets,  array_of_statuses  MPI_WAIT MPI_WAITANY MPI_WAITALL  count,array_of_requests,array_of_statuses, .
+0.434: (MPI_WAIT MPI_WAITANY MPI_WAITALL count; ,array of requests; ,array_of_statuses)
+
+ ierr  MPI_WAITSOME  incount,array_of_requests,outcount, .
+0.406: (ierr MPI_WAITSOME incount; ,array of requests; ,outcount)
+
+ array_of_offsets, array_of_statuses,ierr .
+No extractions found.
+
+MPI_Probe status.
+No extractions found.
+
+MPI_SOURCE.
+No extractions found.
+
+ status.
+No extractions found.
+
+MPI_TAG.
+No extractions found.
+
+ status.
+No extractions found.
+
+ status.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Probe MPI_PROBE .
+No extractions found.
+
+MPI_Get_count status.
+No extractions found.
+
+MPI_SOURCE.
+No extractions found.
+
+ status.
+No extractions found.
+
+MPI_TAG.
+No extractions found.
+
+ status.
+No extractions found.
+
+ status.
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Get_count MPI_GET_COUNT .
+No extractions found.
+
+Task 0 pings task 1 and awaits return ping.
+No extractions found.
+
+MPI_Isend .
+No extractions found.
+
+ MPI_Isend MPI_ISEND .
+No extractions found.
+
+MPI_Irecv .
+No extractions found.
+
+ MPI_Irecv MPI_IRECV .
+No extractions found.
+
+MPI_Issend .
+No extractions found.
+
+ MPI_Issend MPI_ISSEND .
+No extractions found.
+
+MPI_Test MPI_Testany MPI_Testall MPI_Testsome .
+No extractions found.
+
+ MPI_Test MPI_Testany MPI_Testall MPI_Testsome  incount, array_of_requests, outcount, .
+No extractions found.
+
+  array_of_offsets,  array_of_statuses  MPI_TEST MPI_TESTANY MPI_TESTALL MPI_TESTSOME  incount,array_of_requests,outcount, .
+No extractions found.
+
+ array_of_offsets, array_of_statuses,ierr .
+No extractions found.
+
+MPI_Iprobe status.
+No extractions found.
+
+MPI_SOURCE.
+No extractions found.
+
+ status.
+No extractions found.
+
+MPI_TAG.
+No extractions found.
+
+ status.
+No extractions found.
+
+ status.
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Iprobe MPI_IPROBE .
+No extractions found.
+
+Nearest neighbor exchange in a ring topology.
+No extractions found.
+
+GO TO THE EXERCISE HERE.
+No extractions found.
+
+Types of Collective Operations.
+No extractions found.
+
+ .
+No extractions found.
+
+ Synchronization _ processes wait until all members of the group have reached the synchronization point.
+0.835: (Synchronization _ processes; wait until; all members of the group)
+
+ Data Movement _ broadcast, scatter gather, all to all.
+No extractions found.
+
+ Collective Computation _ one member of the group collects data from the other members and performs an operation  min, max, add, multiply, etc.
+0.847: (one member of the group; collects data from; the other members and performs)
+0.833: (one member of the group; collects; data)
+0.672: (data; be collects by; Collective Computation)
+
+  on that data.
+No extractions found.
+
+Scope.
+No extractions found.
+
+ .
+No extractions found.
+
+ Collective communication routines must involve all processes within the scope of a communicator.
+0.808: (Collective communication routines; must involve; all processes)
+
+ All processes are by default, members in the communicator MPI_COMM_WORLD.
+0.794: (All processes; are by; default)
+0.64: (members; are by; default)
+
+ Additional communicators can be defined by the programmer.
+0.919: (Additional communicators; can be defined by; the programmer)
+
+ See the Group and Communicator Management Routines section for details.
+No extractions found.
+
+ Unexpected behavior, including program failure, can occur if even one task in the communicator doesn t participate.
+No extractions found.
+
+ It is the programmer s responsibility to ensure that all processes within a communicator participate in any collective operations.
+0.758: (all processes; participate in; any collective operations)
+0.554: (It; is; the programmer)
+
+Programming Considerations and Restrictions.
+No extractions found.
+
+ .
+No extractions found.
+
+ Collective communication routines do not take message tag arguments.
+0.783: (Collective communication routines; do not take; message tag arguments)
+
+ Collective operations within subsets of processes are accomplished by first partitioning the subsets into new groups and then attaching the new groups to new communicators .
+0.828: (Collective operations; are accomplished the subsets into new groups by; first partitioning)
+0.79: (Collective operations; are accomplished; the subsets)
+0.674: (the new groups; be then attaching to; new communicators)
+
+ Can only be used with MPI predefined datatypes _ not with MPI Derived Data Types.
+0.807: (datatypes; Can   not with; MPI Derived Data Types)
+
+ MPI_2 extended most collective operations to allow data movement between intercommunicators .
+0.85: (MPI_2; extended most collective operations to allow; data movement)
+0.85: (MPI_2; extended; collective operations)
+
+ With MPI_3, collective operations can be blocking or non_blocking.
+0.404: (collective operations; can be blocking with; MPI_3)
+
+ Only blocking operations are covered in this tutorial.
+No extractions found.
+
+MPI_Barrier .
+No extractions found.
+
+ MPI_Barrier MPI_BARRIER .
+No extractions found.
+
+MPI_Bcast .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Bcast MPI_BCAST .
+No extractions found.
+
+MPI_Scatter .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Scatter   sendbuf,sendcnt,sendtype, recvbuf, .
+0.674: (MPI_Scatter; sendbuf recvbuf; ,sendcnt ,sendtype)
+
+ recvcnt,recvtype,root,comm  MPI_SCATTER  sendbuf,sendcnt,sendtype,recvbuf, .
+0.653: (recvcnt ,recvtype; sendbuf ,recvbuf; ,sendcnt ,sendtype)
+0.465: (MPI_SCATTER; sendbuf ,recvbuf; ,sendcnt ,sendtype)
+
+ recvcnt,recvtype,root,comm,ierr .
+No extractions found.
+
+MPI_Gather .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Gather   sendbuf,sendcnt,sendtype, recvbuf, .
+No extractions found.
+
+ recvcount,recvtype,root,comm  MPI_GATHER  sendbuf,sendcnt,sendtype,recvbuf, .
+0.653: (recvcount ,recvtype; sendbuf ,recvbuf; ,sendcnt ,sendtype)
+0.465: (MPI_GATHER; sendbuf ,recvbuf; ,sendcnt ,sendtype)
+
+ recvcount,recvtype,root,comm,ierr .
+No extractions found.
+
+MPI_Allgather .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Allgather   sendbuf,sendcount,sendtype, recvbuf, .
+No extractions found.
+
+ recvcount,recvtype,comm  MPI_ALLGATHER  sendbuf,sendcount,sendtype,recvbuf, .
+0.653: (recvcount; sendbuf ,recvbuf; ,sendcount ,sendtype)
+0.465: (MPI_ALLGATHER; sendbuf ,recvbuf; ,sendcount ,sendtype)
+
+ recvcount,recvtype,comm,info .
+No extractions found.
+
+MPI_Reduce .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Reduce MPI_REDUCE .
+No extractions found.
+
+ The predefined MPI reduction operations appear below.
+No extractions found.
+
+ Users can also define their own reduction functions by using the MPI_Op_create routine.
+0.751: (Users; can also define; their own reduction functions)
+
+ .
+No extractions found.
+
+ MPI Reduction Operation C Data Types Fortran Data Type MPI_MAX maximum integer, float integer, real, complex MPI_MIN minimum integer, float integer, real, complex MPI_SUM sum integer, float integer, real, complex MPI_PROD product integer, float integer, real, complex MPI_LAND logical AND integer logical MPI_BAND bit_wise AND integer, MPI_BYTE integer, MPI_BYTE MPI_LOR logical OR integer logical MPI_BOR bit_wise OR integer, MPI_BYTE integer, MPI_BYTE MPI_LXOR logical XOR integer logical MPI_BXOR bit_wise XOR integer, MPI_BYTE integer, MPI_BYTE MPI_MAXLOC max value and location float, double and long double real, complex,double precision MPI_MINLOC min value and location float, double and long double real, complex, double precision.
+No extractions found.
+
+ .
+No extractions found.
+
+ Note from the MPI_Reduce man page.
+No extractions found.
+
+ The operation is always assumed to be associative.
+0.762: (The operation; is always assumed; associative)
+
+ All predefined operations are also assumed to be commutative.
+0.762: (All predefined operations; are also assumed; commutative)
+
+ Users may define operations that are assumed to be associative, but not commutative.
+0.799: (Users; may define; operations that are assumed to be associative)
+
+ The  canonical  evaluation order of a reduction is determined by the ranks of the processes in the group.
+0.948: (The canonical evaluation order of a reduction; is determined by; the ranks of the processes)
+
+ However, the implementation can take advantage of associativity, or associativity and commutativity in order to change the order of evaluation.
+0.849: (the implementation; However can take advantage of; associativity , or associativity and commutativity)
+0.835: (advantage; However can be take of; associativity , or associativity and commutativity)
+0.756: (the implementation; However can take; advantage)
+
+ This may change the result of the reduction for operations that are not strictly associative and commutative, such as floating point addition.
+No extractions found.
+
+  Advice to implementors  It is strongly recommended that MPI_REDUCE be implemented so that the same result be obtained whenever the function is applied on the same arguments, appearing in the same order.
+0.914: (the function; is applied on; the same arguments)
+
+ Note that this may prevent optimizations that take advantage of the physical location of processors.
+0.906: (optimizations; take advantage of; the physical location of processors)
+
+  End of advice to implementors .
+No extractions found.
+
+The predefined MPI reduction operations appear below.
+No extractions found.
+
+ Users can also define their own reduction functions by using the MPI_Op_create routine.
+0.751: (Users; can also define; their own reduction functions)
+
+MPI_Allreduce .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Allreduce MPI_ALLREDUCE .
+No extractions found.
+
+MPI_Reduce_scatter .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Reduce_scatter   sendbuf, recvbuf,recvcount,datatype, .
+No extractions found.
+
+ op,comm  MPI_REDUCE_SCATTER  sendbuf,recvbuf,recvcount,datatype, .
+0.595: (op,comm MPI_REDUCE_SCATTER; sendbuf; ,recvcount ,datatype)
+
+ op,comm,ierr .
+No extractions found.
+
+MPI_Alltoall .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Alltoall   sendbuf,sendcount,sendtype, recvbuf, .
+No extractions found.
+
+ recvcnt,recvtype,comm  MPI_ALLTOALL  sendbuf,sendcount,sendtype,recvbuf, .
+0.465: (MPI_ALLTOALL; sendbuf ,recvbuf; ,sendcount ,sendtype)
+0.456: (recvcnt; sendbuf ,recvbuf; ,sendcount ,sendtype)
+
+ recvcnt,recvtype,comm,ierr .
+No extractions found.
+
+MPI_Scan .
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Scan MPI_SCAN .
+No extractions found.
+
+Perform a scatter operation on the rows of an array.
+0.834: (Perform; be a scatter operation on; the rows of an array)
+
+MPI_Type_contiguous .
+No extractions found.
+
+ MPI_Type_contiguous MPI_TYPE_CONTIGUOUS .
+No extractions found.
+
+MPI_Type_vector MPI_Type_hvector .
+No extractions found.
+
+ MPI_Type_vector MPI_TYPE_VECTOR .
+No extractions found.
+
+MPI_Type_indexed MPI_Type_hindexed .
+No extractions found.
+
+ MPI_Type_indexed MPI_TYPE_INDEXED ,offsets,old_type,newtype,ierr .
+0.639: (MPI_Type_indexed MPI_TYPE_INDEXED; ,offsets; ,old_type ,newtype ,ierr)
+
+MPI_Type_struct .
+No extractions found.
+
+ NOTE.
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Type_struct MPI_TYPE_STRUCT ,offsets,old_types,newtype,ierr .
+0.639: (MPI_Type_struct MPI_TYPE_STRUCT; ,offsets; ,old_types ,newtype ,ierr)
+
+MPI_Type_extent .
+No extractions found.
+
+ NOTE.
+No extractions found.
+
+ .
+No extractions found.
+
+ MPI_Type_extent MPI_TYPE_EXTENT .
+No extractions found.
+
+MPI_Type_commit .
+No extractions found.
+
+ MPI_Type_commit MPI_TYPE_COMMIT .
+No extractions found.
+
+MPI_Type_free .
+No extractions found.
+
+ MPI_Type_free MPI_TYPE_FREE .
+No extractions found.
+
+Create a data type representing a row of an array and distribute a different row to all processes.
+0.644: (Create; be a different row to; all processes)
+
+Create a data type representing a column of an array and distribute different columns to all processes.
+No extractions found.
+
+Create a datatype by extracting variable portions of an array and distribute to all tasks.
+No extractions found.
+
+Create a data type that represents a particle and distribute an array of such particles to all processes.
+No extractions found.
+
+Groups vs.
+No extractions found.
+
+ Communicators.
+No extractions found.
+
+ .
+No extractions found.
+
+ A group is an ordered set of processes.
+0.93: (A group; is an ordered set of; processes)
+0.778: (A group; is; an ordered set of processes)
+
+ Each process in a group is associated with a unique integer rank.
+0.919: (Each process; is associated with; a unique integer rank)
+
+ Rank values start at zero and go to N_1, where N is the number of processes in the group.
+0.878: (N; is the number of; processes)
+0.794: (Rank values; start at; zero)
+0.781: (Rank values; go to; N_1)
+0.655: (N; is; the number of processes)
+
+ In MPI, a group is represented within system memory as an object.
+0.925: (a group; is represented within; system memory)
+0.892: (a group; is represented as; an object)
+0.721: (a group; is represented in; MPI)
+
+ It is accessible to the programmer only by a  handle .
+0.709: (It; is accessible to; the programmer)
+0.705: (It; is accessible by; a handle)
+0.646: (It; is; accessible)
+
+ A group is always associated with a communicator object.
+0.919: (A group; is always associated with; a communicator object)
+
+ A communicator encompasses a group of processes that may communicate with each other.
+0.799: (A communicator; encompasses; a group of processes)
+
+ All MPI messages must specify a communicator.
+0.783: (All MPI messages; must specify; a communicator)
+
+ In the simplest sense, the communicator is an extra  tag  that must be included with MPI calls.
+0.793: (the communicator; is; an extra tag that must be included with MPI calls)
+0.67: (the communicator; is an extra tag in; the simplest sense)
+
+ Like groups, communicators are represented within system memory as objects and are accessible to the programmer only by  handles .
+0.925: (communicators; are represented within; system memory)
+0.868: (communicators; are represented as; objects)
+0.754: (communicators; are represented like; groups)
+
+ For example, the handle for the communicator that comprises all tasks is MPI_COMM_WORLD.
+0.668: (the handle; is; MPI_COMM_WORLD.)
+0.564: (all tasks; be comprises by; the communicator)
+0.235: (MPI_COMM_WORLD.; be the handle for; the communicator that comprises all tasks)
+0.172: (the handle; is MPI COMM WORLD. for; example)
+
+ From the programmer s perspective, a group and a communicator are one.
+0.341: (one; be perspective from; the programmer)
+
+ The group routines are primarily used to specify which processes should be used to construct a communicator.
+No extractions found.
+
+Primary Purposes of Group and Communicator Objects.
+No extractions found.
+
+Programming Considerations and Restrictions.
+No extractions found.
+
+ .
+No extractions found.
+
+ Groups communicators are dynamic _ they can be created and destroyed during program execution.
+0.833: (they; can be destroyed during; program execution)
+
+ Processes may be in more than one group communicator.
+0.875: (Processes; may be in; than one group communicator)
+
+ They will have a unique rank within each group communicator.
+0.881: (They; will have a unique rank within; each group communicator)
+0.854: (They; will have; a unique rank)
+0.708: (a unique rank; will be have within; each group communicator)
+
+ MPI provides over 40 routines related to groups, communicators, and virtual topologies.
+0.786: (MPI; provides over; 40 routines related to groups , communicators)
+0.655: (40 routines; be related to; groups)
+
+ Typical usage.
+No extractions found.
+
+ Extract handle of global group from MPI_COMM_WORLD using MPI_Comm_group Form new group as a subset of global group using MPI_Group_incl Create new communicator for new group using MPI_Comm_create Determine new rank in new communicator using MPI_Comm_rank Conduct communications using any MPI message passing routine When finished, free up new communicator and group using MPI_Comm_free and MPI_Group_free.
+0.682: (MPI_Comm_group Form new group; be using as; a subset of global group)
+0.329: (MPI_COMM_WORLD; using MPI Comm group Form new group as; a subset of global group)
+
+Create two different process groups for separate collective communications exchange.
+0.376: (Create; be two different process groups for; separate collective communications exchange)
+0.362: (different; be process groups for; separate collective communications exchange)
+
+ Requires creating new communicators also.
+0.451: (Requires; creating also; new communicators)
+
+What Are They  .
+No extractions found.
+
+ In terms of MPI, a virtual topology describes a mapping ordering of MPI processes into a geometric  shape .
+No extractions found.
+
+ The two main types of topologies supported by MPI are Cartesian and Graph.
+0.616: (topologies; be supported by; MPI)
+0.594: (Cartesian and Graph; be The two main types of; topologies supported by MPI)
+
+ MPI topologies are virtual _ there may be no relation between the physical structure of the parallel machine and the process topology.
+No extractions found.
+
+ Virtual topologies are built upon MPI communicators and groups.
+0.914: (Virtual topologies; are built upon; MPI communicators and groups)
+
+ Must be  programmed  by the application developer.
+No extractions found.
+
+Why Use Them  .
+No extractions found.
+
+ Convenience Virtual topologies may be useful for applications with specific communication patterns _ patterns that match an MPI topology structure.
+0.844: (Convenience Virtual topologies; may be useful for; applications)
+0.778: (Convenience Virtual topologies; may be; useful)
+
+ For example, a Cartesian topology might prove convenient for an application that requires 4_way nearest neighbor communications for grid based data.
+0.89: (a Cartesian topology; might prove convenient for; an application that requires 4_way nearest neighbor communications for grid based data)
+0.569: (an application; requires 4 way; nearest neighbor communications)
+0.341: (a Cartesian topology; might prove convenient for; example)
+
+ Communication Efficiency Some hardware architectures may impose penalties for communications between successively distant  nodes .
+0.854: (Some hardware architectures; may impose penalties for; communications)
+0.798: (Some hardware architectures; may impose; penalties)
+0.739: (penalties; may be impose for; communications)
+
+ A particular implementation may optimize process mapping based upon the physical characteristics of a given parallel machine.
+0.86: (process mapping; be based upon; the physical characteristics of a given parallel machine)
+0.853: (A particular implementation; may optimize; process mapping based upon the physical characteristics of a given parallel machine)
+
+ The mapping of processes into an MPI virtual topology is dependent upon the MPI implementation, and may be totally ignored.
+0.678: (The mapping of processes; is dependent may upon; the MPI implementation)
+0.667: (The mapping of processes; is may; dependent)
+0.587: (dependent; be The mapping of; processes)
+0.441: (dependent; be The mapping of processes into; an MPI virtual topology)
+
+Example.
+No extractions found.
+
+ A simplified mapping of processes into a Cartesian virtual topology appears below.
+No extractions found.
+
+ .
+No extractions found.
+
+A simplified mapping of processes into a Cartesian virtual topology appears below.
+No extractions found.
+
+Create a 4 x 4 Cartesian topology from 16 processors and have each process exchange its rank with four neighbors.
+0.83: (its rank; be exchange with; four neighbors)
+
+MPI_2.
+No extractions found.
+
+ .
+No extractions found.
+
+ Intentionally, the MPI_1 specification did not address several  difficult  issues.
+0.727: (the MPI_1 specification; Intentionally did not address; several difficult issues)
+
+ For reasons of expediency, these issues were deferred to a second specification, called MPI_2 in 1998.
+0.914: (these issues; were deferred to; a second specification)
+0.843: (these issues; were deferred for; reasons of expediency)
+0.831: (MPI_2; be called in; 1998)
+
+ MPI_2 was a major revision to MPI_1 adding new functionality and corrections.
+0.897: (MPI_2; was a major revision to; MPI_1)
+0.766: (MPI_2; was; a major revision)
+
+ Key areas of new functionality in MPI_2.
+No extractions found.
+
+ Dynamic Processes _ extensions that remove the static process model of MPI.
+No extractions found.
+
+ Provides routines to create new processes after job startup.
+0.754: (new processes; to be create after; job startup)
+
+ One_Sided Communications _ provides routines for one directional communications.
+0.833: (One_Sided Communications _; provides; routines)
+
+ Include shared memory operations and remote accumulate operations.
+No extractions found.
+
+ Extended Collective Operations _ allows for the application of collective operations to inter_communicators External Interfaces _ defines routines that allow developers to layer on top of MPI, such as for debuggers and profilers.
+0.899: (Extended Collective Operations _; allows for; the application of collective operations)
+0.839: (defines routines; allow developers to; layer)
+0.784: (defines routines; allow developers on; top of MPI)
+
+ Additional Language Bindings _ describes C   bindings and discusses Fortran_90 issues.
+0.645: (Additional Language Bindings;   describes; C bindings and discusses Fortran_90 issues)
+
+ Parallel I O _ describes MPI support for parallel I O.
+0.854: (Parallel I O _; describes; MPI support)
+0.627: (MPI; be support for; O.)
+
+MPI_3.
+No extractions found.
+
+ .
+No extractions found.
+
+ The MPI_3 standard was adopted in 2012, and contains significant extensions to MPI_1 and MPI_2 functionality including.
+0.9: (The MPI_3 standard; was adopted in; 2012)
+
+ Nonblocking Collective Operations _ permits tasks in a collective to perform operations without blocking, possibly offering performance improvements.
+0.841: (Nonblocking Collective Operations;   permits tasks in; a collective)
+0.804: (permits tasks; be   in; a collective)
+0.792: (Nonblocking Collective Operations;  ; permits tasks)
+0.722: (Nonblocking Collective Operations;   permits tasks to perform; operations)
+
+ New One_sided Communication Operations _ to better handle different memory models.
+0.554: (New; One sided; Communication Operations _)
+0.538: (New; One sided Communication Operations   to handle; different memory models)
+
+ Neighborhood Collectives _ extends the distributed graph and Cartesian process topologies with additional communication power.
+0.679: (Neighborhood Collectives;   extends; the distributed graph and Cartesian process topologies)
+
+ Fortran 2008 Bindings _ expanded from Fortran90 bindings MPIT Tool Interface _ allows the MPI implementation to expose certain internal variables, counters, and other states to the user .
+0.729: (the MPI implementation; to expose; certain internal variables)
+0.659: (Fortran 2008 Bindings;   expanded from; Fortran90 bindings MPIT Tool Interface _)
+0.607: (Fortran 2008 Bindings; be other states to; the user)
+
+ Matched Probe _ fixes an old bug in MPI_2 where one could not probe for messages in a multi_threaded environment.
+0.891: (one; could not probe for; messages)
+0.845: (one; could not probe in; a multi_threaded environment)
+0.746: (Matched Probe _; fixes; an old bug)
+
+More Information on MPI_2 and MPI_3.
+No extractions found.
+
+ MPI Standard documents.
+No extractions found.
+
+ http.
+No extractions found.
+
+  www.
+No extractions found.
+
+mpi_forum.
+No extractions found.
+
+org docs .
+No extractions found.
+
+GO TO THE EXERCISE HERE.
+No extractions found.
+
+This completes the tutorial.
+No extractions found.
+
+Where would you like to go now  Exercise 3.
+0.742: (you; to go now; Exercise)
+0.7: (you; would like to go now; Exercise)
+
+ Agenda.
+No extractions found.
+
+ Back to the top.
+No extractions found.
+
+MVAPICH MPI is developed and supported by the Network_Based Computing Lab at Ohio State University .
+0.834: (MVAPICH MPI; be supported by; the Network_Based Computing Lab)
+
+Available on all of LC s Linux clusters .
+No extractions found.
+
+MVAPICH 1 2 Default version of MPI MPI_1 implementation that also includes support for MPI_I O Based on MPICH_1 2 7 MPI library from Argonne National Laboratory Not thread_safe  All MPI calls should be made by the master thread in a multi_threaded MPI program  See  usr local docs mpi mvapich basics for LC usage details .
+0.925: (All MPI calls; should be made by; the master thread)
+0.767: (I; Based on; MPICH_1 2 7 MPI library)
+0.728: (usr local docs; mpi; mvapich basics)
+0.44: (support I O Based on MPICH_1 2 7 MPI library from Argonne National Laboratory Not thread_safe All MPI calls should be made by the master thread in a multi_threaded MPI program See usr local docs mpi mvapich basics for LC usage details; be also includes by; MPI MPI_1 implementation)
+
+MVAPICH2 Multiple versions available MPI_2 and MPI_3 implementations based on MPICH MPI library from Argonne National Laboratory  Versions 1 9 and later implement MPI_3 according to the developer s documentation  TOSS 3  Default MPI implementation TOSS 2  Not the default _ requires the  use  command to load the selected dotkit package  For example  use _l mvapich               use mvapich2_intel_2 1     Thread_safe.
+0.798: (the use command; to load; the selected dotkit package)
+0.647: (available MPI_2 and MPI_3 implementations; be based on; MPICH MPI library)
+0.463: (the use command; to load the selected dotkit package for; example)
+0.349: (the selected dotkit package; to be load for; example)
+
+Default version of MPI.
+0.83: (Default; be version of; MPI.)
+
+MPI_1 implementation that also includes support for MPI_I O.
+0.724: (support I O.; be also includes by; MPI_1 implementation)
+
+Based on MPICH_1 2 7 MPI library from Argonne National Laboratory.
+No extractions found.
+
+Not thread_safe  All MPI calls should be made by the master thread in a multi_threaded MPI program .
+0.925: (All MPI calls; should be made by; the master thread)
+
+See  usr local docs mpi mvapich basics for LC usage details .
+0.693: (local docs; mpi; mvapich basics)
+
+Multiple versions available.
+No extractions found.
+
+MPI_2 and MPI_3 implementations based on MPICH MPI library from Argonne National Laboratory  Versions 1 9 and later implement MPI_3 according to the developer s documentation .
+No extractions found.
+
+TOSS 3  Default MPI implementation.
+No extractions found.
+
+TOSS 2  Not the default _ requires the  use  command to load the selected dotkit package  For example  use _l mvapich               use mvapich2_intel_2 1     .
+0.756: (the use command to load the selected dotkit package For example; use; _l mvapich use mvapich2_intel_2 1)
+0.349: (the selected dotkit package; to be load for; example)
+
+Thread_safe.
+No extractions found.
+
+Open MPI is a thread_safe, open source MPI implementation developed and supported by a consortium of academic, research, and industry partners .
+0.878: (Open MPI; is implementation of; source MPI)
+0.817: (Open MPI; is; a thread_safe , open source MPI implementation developed and supported by a consortium of academic , research , and industry partners)
+
+Available on all LC Linux clusters  However, you ll need to load the desired dotkit or module first  For example  dotkit   use _l openmpi                 use openmpi_gnu_1 8 4        module   module avail                   module load openmpi 2 0 0    This ensures that LC s MPI wrapper scripts point to the desired version of Open MPI .
+0.833: (you; ll need to load the desired dotkit or module for; example dotkit use _l openmpi use)
+0.791: (LC; s MPI wrapper scripts point to; the desired version of Open MPI)
+0.789: (you; ll need to load; the desired dotkit or module)
+0.768: (you; to load; the desired dotkit or module)
+0.69: (the desired dotkit or module; to be load for; example dotkit use _l openmpi use)
+0.605: (LC; s; MPI wrapper scripts point)
+
+.
+No extractions found.
+
+Available on LC s Linux clusters .
+No extractions found.
+
+Based on MPICH3  Supports MPI_3 functionality .
+No extractions found.
+
+Thread_safe.
+No extractions found.
+
+Compiling and running Intel MPI programs  see the LC documentation at  https   lc llnl gov confluence pages viewpage action pageId 137725526.
+0.862: (running Intel MPI programs; see the LC documentation at; https)
+0.811: (running Intel MPI programs; see; the LC documentation)
+
+.
+No extractions found.
+
+The IBM BG Q MPI library is the only supported implementation on these clusters .
+0.829: (The IBM BG Q MPI library; is the only supported implementation on; these clusters)
+0.567: (The IBM BG Q MPI library; is; the only supported implementation)
+
+Default version is based on MPICH2, which includes MPI_2 functionality minus dynamic processes .
+0.885: (Default version; is based on; MPICH2)
+
+A version supporting MPI_3 functionality is available .
+0.716: (A version supporting MPI_3 functionality; is; available)
+0.549: (A version; supporting mpi 3; functionality)
+
+Thread_safe.
+No extractions found.
+
+Compiling and running IBM BG Q MPI programs  see the BG Q Tutorial  computing llnl gov tutorials bgq .
+0.412: (running IBM BG Q MPI programs; see bgq; the BG Q Tutorial computing llnl gov tutorials)
+
+.
+No extractions found.
+
+The IBM Spectrum MPI library is the only supported implementation on these clusters .
+0.829: (The IBM Spectrum MPI library; is the only supported implementation on; these clusters)
+0.567: (The IBM Spectrum MPI library; is; the only supported implementation)
+
+Based on Open MPI  Includes MPI_3 functionality .
+No extractions found.
+
+Thread_safe.
+No extractions found.
+
+NVIDIA GPU support.
+No extractions found.
+
+Compiling and running IBM Spectrum MPI programs  see the CORAL EA MPI documentation at  https   lc llnl gov confluence display CORALEA MPI.
+0.687: (running IBM Spectrum MPI programs; see the CORAL EA MPI documentation at; https)
+0.652: (running IBM Spectrum MPI programs; see; the CORAL EA MPI documentation)
+
+LC developed MPI compiler wrapper scripts are used to compile MPI programs.
+No extractions found.
+
+Automatically perform some error checks, include the appropriate MPI  include files, link to the necessary MPI libraries, and pass options to the underlying compiler .
+0.816: (options; be pass to; the underlying compiler)
+0.75: (the appropriate MPI; pass options to; the underlying compiler)
+0.745: (the appropriate MPI; include; files)
+0.652: (the appropriate MPI; pass; options)
+
+.
+No extractions found.
+
+For additional information  See the man page Issue the script name with the _help option View the script yourself directly MPI Build Scripts Implementation Language Script Name Underlying Compiler MVAPCH 1 2 C mpicc gcc _ GNU mpigcc gcc _ GNU mpiicc icc _ Intel mpipgcc pgcc _ PGI C   mpiCC g   _ GNU mpig   g   _ GNU mpiicpc icpc _ Intel mpipgCC pgCC _ PGI Fortran mpif77 g77 _ GNU mpigfortran gfortran _ GNU mpiifort ifort _ Intel mpipgf77 pgf77 _ PGI mpipgf90 pgf90 _ PGI MVAPCH2 C mpicc C compiler of dotkit package loaded C   mpicxx C   compiler of dotkit package loaded Fortran mpif77 Fortran77 compiler of dotkit package loaded mpif90 Fortran90 compiler of dotkit package loaded Open MPI C mpicc C compiler of dotkit package loaded C   mpiCC mpic   mpicxx C   compiler of dotkit package loaded Fortran mpif77 Fortran77 compiler of dotkit package loaded mpif90 Fortran90 compiler of dotkit package loaded.
+0.782: (gfortran _ GNU mpiifort ifort;  ; Intel mpipgf77 pgf77)
+0.772: (gfortran _ GNU mpiifort ifort;   Intel mpipgf77 pgf77  ; PGI mpipgf90)
+0.736: (the script name; be See the man page Issue with; the _help option)
+0.675: (Intel mpipgf77 pgf77; be    ; PGI mpipgf90)
+0.565: (the script name; be See the man page Issue for; additional information)
+
+See the man page .
+No extractions found.
+
+Issue the script name with the _help option.
+No extractions found.
+
+View the script yourself directly.
+No extractions found.
+
+MPI libraries vary in their level of thread support  MPI_THREAD_SINGLE _ Level 0  Only one thread will execute  MPI_THREAD_FUNNELED _ Level 1  The process may be multi_threaded, but only the main thread will make MPI calls _ all MPI calls are funneled to the main thread  MPI_THREAD_SERIALIZED _ Level 2  The process may be multi_threaded, and multiple threads may make MPI calls, but only one at a time  That is, calls are not made concurrently from two distinct threads as all MPI calls are serialized  MPI_THREAD_MULTIPLE _ Level 3  Multiple threads may call MPI with no restrictions .
+0.893: (all MPI calls; are funneled to; the main thread MPI_THREAD_SERIALIZED _ Level 2 The process)
+0.717: (multiple threads; may make; MPI calls)
+0.581: (all MPI calls; are serialized; MPI_THREAD_MULTIPLE _ Level 3 Multiple threads)
+0.575: (MPI libraries; may make; MPI calls)
+0.544: (MPI; may be call with; no restrictions)
+0.53: (MPI calls; may be; multi_threaded)
+0.516: (MPI_THREAD_FUNNELED; may be; multi_threaded)
+0.506: (MPI libraries; vary may in; their level of thread support MPI_THREAD_SINGLE _ Level 0)
+0.493: (the main thread; be MPI THREAD SERIALIZED  ; Level 2)
+0.321: (multiple threads; vary may in; their level of thread support MPI_THREAD_SINGLE _ Level 0)
+
+Consult the MPI_Init_threadman page for details .
+No extractions found.
+
+A simple C language example for determining thread level support is shown below     include  mpi h    include  stdio h      int main         int provided, claimed           Select one of the following      MPI_Init_thread       MPI_Init_thread       MPI_Init_thread       MPI_Init_thread                MPI_Init_thread       MPI_Query_thread           printf          MPI_Finalize         Sample output    Query thread level  3  Init_thread level  3.
+0.671: (mpi h; include; stdio h)
+
+.
+No extractions found.
+
+MPI_THREAD_SINGLE _ Level 0  Only one thread will execute .
+No extractions found.
+
+MPI_THREAD_FUNNELED _ Level 1  The process may be multi_threaded, but only the main thread will make MPI calls _ all MPI calls are funneled to the main thread .
+0.869: (all MPI calls; are funneled to; the main thread)
+0.666: (the main thread; only will make; MPI calls)
+0.515: (MPI_THREAD_FUNNELED _ Level 1; may be; multi_threaded)
+
+MPI_THREAD_SERIALIZED _ Level 2  The process may be multi_threaded, and multiple threads may make MPI calls, but only one at a time  That is, calls are not made concurrently from two distinct threads as all MPI calls are serialized .
+0.847: (calls; are not made concurrently from; two distinct threads)[enabler=only one at a time That is , calls are not made concurrently from two distinct threads as all MPI calls are serialized]
+0.717: (multiple threads; may make; MPI calls)
+0.515: (MPI_THREAD_SERIALIZED _ Level 2; may be; multi_threaded)
+
+MPI_THREAD_MULTIPLE _ Level 3  Multiple threads may call MPI with no restrictions .
+0.691: (MPI_THREAD_MULTIPLE _ Level 3 Multiple threads; may call MPI with; no restrictions)
+0.613: (MPI_THREAD_MULTIPLE _ Level 3 Multiple threads; may call; MPI)
+0.544: (MPI; may be call with; no restrictions)
+
+.
+No extractions found.
+
+Required for all programs that make MPI library calls       C include file           Fortran include file       include  mpi h  include  mpif h .
+0.632: (mpi h; include; mpif h)
+
+With MPI_3 Fortran, the USE mpi_f08 module is preferred over using the include file shown above .
+0.468: (the USE mpi_f08 module; is preferred with; MPI_3 Fortran)
+
+.
+No extractions found.
+
+     C Language _ Environment Management Routines  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28           required MPI include file        include  mpi h       include  stdio h        int main      int  numtasks, rank, len, rc       char hostname MPI_MAX_PROCESSOR_NAME            initialize MPI       MPI_Init           get number of tasks      MPI_Comm_size           get my rank       MPI_Comm_rank           this one is obvious       MPI_Get_processor_name      printf                   do some work with message passing             done with MPI       MPI_Finalize       .
+0.719: (message passing; be done with; MPI MPI_Finalize)
+0.705: (this one; is; obvious MPI_Get_processor_name printf)
+0.695: (rc char hostname MPI_MAX_PROCESSOR_NAME initialize MPI; be number of; tasks)
+0.566: (mpi h; include; stdio h int main int numtasks len)
+0.557: (C; be Language  ; Environment Management Routines)
+0.462: (hostname MPI_MAX_PROCESSOR_NAME initialize MPI; be char of; rc)
+0.385: (hostname MPI_MAX_PROCESSOR_NAME initialize MPI; be char for; rc)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortran _ Environment Management Routines  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29      program simple         required MPI include file     include  mpif h        integer numtasks, rank, len, ierr       characterhostname         initialize MPI     call MPI_INIT         get number of tasks     call MPI_COMM_SIZE         get my rank     call MPI_COMM_RANK         this one is obvious     call MPI_GET_PROCESSOR_NAME     print  ,  Number of tasks  ,numtasks,  My rank  ,rank,  Running on  ,hostname                do some work with message passing            done with MPI     call MPI_FINALIZE       end.
+0.779: (Fortran;  ; Environment Management Routines)
+0.736: (message passing; be done with; MPI call MPI_FINALIZE end)
+0.726: (mpif h integer numtasks; be len ierr; characterhostname)
+0.7: (this one; is; obvious call MPI_GET_PROCESSOR_NAME print)
+0.498: (MPI_COMM_SIZE; get; my rank call MPI_COMM_RANK)
+0.424: (mpif h integer numtasks len , ierr characterhostname; initialize Running on; ,hostname)
+
+Login to an LC cluster using your workshop username and OTP token.
+No extractions found.
+
+Copy the exercise files to your home directory.
+0.734: (Copy; be the exercise files to; your home directory)
+
+Familiarize yourself with LC s MPI compilers.
+0.758: (Familiarize; s; MPI compilers)
+
+Write a simple  Hello World  MPI program using several MPI Environment Management routines.
+No extractions found.
+
+Successfully compile your program.
+No extractions found.
+
+Successfully run your program _ several different ways.
+0.831: (your program; be Successfully run  ; several different ways)
+
+.
+No extractions found.
+
+The value of PI can be calculated in various ways  Consider the Monte Carlo method of approximating PI  Inscribe a circle with radius r in a square with side length of 2r The area of the circle is  r2 and the area of the square is 4r2 The ratio of the area of the circle to the area of the square is   r2   4r2       4 If you randomly generate N points inside the square, approximately N       4 of those points should fall inside the circle    is then approximated as  N       4   M     4   M   N     4   M   N Note that increasing the number of points generated improves the approximation .
+0.894: (The value of PI; can be calculated in; various ways)
+0.811: (4r2 4; is then approximated as; N 4 M 4 M N 4 M N Note)
+0.772: (4r2 4; is 4r2 The ratio of; the area of the circle)
+0.674: (4r2 The ratio of the area of the circle; is; 4r2 4)
+0.662: (N points; be randomly generate inside; the square)
+0.601: (N 4 of those points; approximately should fall inside; the circle)
+0.58: (The area of the circle; is; r2)
+0.48: (4r2 4; is 4r2 The ratio of the area of the circle to; the area of the square)
+0.184: (you; randomly generate N points inside; the square)
+0.183: (you; randomly generate; N points)
+0.181: (r2; be The area of; the circle)
+
+Serial pseudo code for this procedure  npoints   10000  circle_count   0    do j   1,npoints    generate 2 random numbers between 0 and 1    xcoordinate   random1    ycoordinate   random2    if inside circle    then circle_count   circle_count   1  end do    PI   4 0 circle_count npoints.
+0.66: (1,npoints; do generate; 2 random numbers)
+0.66: (10000 circle_count 0; do generate; 2 random numbers)
+
+Leads to an  embarassingly parallel  solution  Break the loop iterations into chunks that can be executed by different tasks simultaneously  Each task executes its portion of the loop a number of times  Each task can do its work without requiring any information from the other tasks   Master task recieves results from other tasks using send receive point_to_point operations .
+0.783: (Each task; can do; its work)
+0.778: (Master task; recieves; results)
+0.759: (any information; be requiring from; the other tasks Master task recieves results from other tasks using send receive point_to_point operations)
+0.718: (Each task; executes; its portion of the loop)
+0.654: (other tasks using; send receive; point_to_point operations)
+0.55: (results; be recieves by; the other tasks)
+
+Pseudo code solution  red highlights changes for parallelism  npoints   10000  circle_count   0   p   number of tasks num   npoints p find out if I am MASTER or WORKER     do j   1,num     generate 2 random numbers between 0 and 1    xcoordinate   random1    ycoordinate   random2    if inside circle    then circle_count   circle_count   1  end do   if I am MASTER receive from WORKERS their circle_counts compute PI else if I am WORKER send to MASTER circle_count endif Example MPI Program in C    mpi_pi_reduce c Example MPI Program in Fortran    mpi_pi_reduce f.
+0.816: (Example MPI Program; be endif in; C mpi_pi_reduce c Example MPI Program)
+0.795: (Example MPI Program; be endif in; Fortran mpi_pi_reduce f)
+0.637: (MASTER; receive from; WORKERS)
+0.637: (WORKER; send to; MASTER circle_count)
+
+Key Concept  Divide work between available tasks which communicate data via point_to_point message passing calls .
+0.802: (data; be communicate via; point_to_point message passing calls)
+0.406: (Key; Concept Divide work between; available tasks which communicate data via point_to_point message)
+0.346: (Key; be Concept Divide work between; available tasks which communicate data via point_to_point message)
+
+Inscribe a circle with radius r in a square with side length of 2r.
+No extractions found.
+
+The area of the circle is  r2 and the area of the square is 4r2.
+0.778: (The area of the circle; is; r2 and the area of the square is 4r2)
+0.492: (r2 and the area of the square is 4r2; be The area of; the circle)
+
+The ratio of the area of the circle to the area of the square is   r2   4r2       4.
+0.716: (The ratio of the area of the circle; is; r2 4r2 4)
+0.664: (r2 4r2 4; be The ratio of; the area of the circle)
+0.524: (r2 4r2 4; be The ratio of the area of the circle to; the area of the square)
+
+If you randomly generate N points inside the square, approximately N       4 of those points should fall inside the circle .
+0.724: (N points; be randomly generate inside; the square)
+0.232: (you; randomly generate N points inside; the square)
+0.23: (you; randomly generate; N points)
+
+  is then approximated as  N       4   M     4   M   N     4   M   N.
+No extractions found.
+
+Note that increasing the number of points generated improves the approximation .
+No extractions found.
+
+Break the loop iterations into chunks that can be executed by different tasks simultaneously .
+No extractions found.
+
+Each task executes its portion of the loop a number of times .
+0.741: (Each task; executes; its portion of the loop)
+
+Each task can do its work without requiring any information from the other tasks  .
+0.751: (Each task; can do; its work)
+0.608: (any information; be requiring from; the other tasks)
+
+Master task recieves results from other tasks using send receive point_to_point operations .
+0.797: (Master task; recieves; results)
+0.666: (other tasks using; send receive; point_to_point operations)
+
+MPI point_to_point operations typically involve message passing between two, and only two, different MPI tasks  One task is performing a send operation and the other task is performing a matching receive operation .
+0.756: (a matching; receive; operation)
+0.68: (message; passing between; two)
+0.274: (the other task; is performing is; a send operation)
+
+There are different types of send and receive routines used for different purposes  For example  Synchronous send Blocking send   blocking receive Non_blocking send   non_blocking receive Buffered send Combined send receive  Ready  send.
+0.809: (routines; be used for; different purposes For example Synchronous)
+
+Any type of send routine can be paired with any type of receive routine .
+0.914: (routine; can be paired with; routine)
+0.914: (Any type of send; can be paired with; routine)
+
+MPI also provides several routines associated with send _ receive operations, such as those used to wait for a message s arrival or probe to find out if a message has arrived .
+0.693: (MPI; also provides; several routines associated with send _ receive operations , such as those)
+0.546: (_; receive; operations)
+
+Synchronous send.
+No extractions found.
+
+Blocking send   blocking receive.
+No extractions found.
+
+Non_blocking send   non_blocking receive.
+No extractions found.
+
+Buffered send.
+No extractions found.
+
+Combined send receive.
+No extractions found.
+
+ Ready  send.
+No extractions found.
+
+In a perfect world, every send operation would be perfectly synchronized with its matching receive  This is rarely the case  Somehow or other, the MPI implementation must be able to deal with storing data when the two tasks are out of sync .
+0.859: (operation; would be perfectly synchronized with; its matching)
+0.724: (the MPI implementation; must be; able)
+
+Consider the following two cases  A send operation occurs 5 seconds before the receive is ready _ where is the message while the receive is pending  Multiple sends arrive at the same receiving task which can only accept one send at a time _ what happens to the messages that are  backing up  .
+0.835: (one; send at; a time)[attrib=which can only accept]
+
+The MPI implementation decides what happens to data in these types of cases  Typically, a system buffer area is reserved to hold data in transit  For example .
+0.739: (data; to be hold in; transit)
+
+System buffer space is  Opaque to the programmer and managed entirely by the MPI library A finite resource that can be easy to exhaust Often mysterious and not well documented Able to exist on the sending side, the receiving side, or both Something that may improve program performance because it allows send _ receive operations to be asynchronous .
+0.833: (System buffer space; managed entirely by; the MPI library)
+0.693: (operations; to be; asynchronous)
+0.66: (System buffer space; is Opaque to; the programmer)
+0.654: (System buffer space; is; Opaque)
+
+User managed address space is called the application buffer  MPI also provides for a user managed send buffer .
+0.722: (a user; managed send; buffer)
+0.6: (a user; send; buffer)
+
+A send operation occurs 5 seconds before the receive is ready _ where is the message while the receive is pending .
+No extractions found.
+
+Multiple sends arrive at the same receiving task which can only accept one send at a time _ what happens to the messages that are  backing up  .
+0.8: (one; send at; a time)[attrib=which can only accept]
+
+Opaque to the programmer and managed entirely by the MPI library.
+No extractions found.
+
+A finite resource that can be easy to exhaust.
+No extractions found.
+
+Often mysterious and not well documented.
+No extractions found.
+
+Able to exist on the sending side, the receiving side, or both.
+No extractions found.
+
+Something that may improve program performance because it allows send _ receive operations to be asynchronous .
+0.751: (operations; to be; asynchronous)
+
+Most of the MPI point_to_point routines can be used in either blocking or non_blocking mode .
+No extractions found.
+
+Blocking  A blocking send routine will only  return  after it is safe to modify the application buffer for reuse  Safe means that modifications will not affect the data intended for the receive task  Safe does not imply that the data was actually received _ it may very well be sitting in a system buffer  A blocking send can be synchronous which means there is handshaking occurring with the receive task to confirm a safe send  A blocking send can be asynchronous if a system buffer is used to hold the data for eventual delivery to the receive  A blocking receive only  returns  after the data has arrived and is ready for use by the program .
+0.679: (the data; to be hold for; eventual delivery)
+0.608: (modifications; will not affect; the data intended for the receive task Safe does not imply that the data was actually received _ it may very well be sitting in a system buffer A blocking send can be synchronous)
+0.446: (it; is; safe)
+0.387: (it; may very well be sitting in; a system buffer)
+0.176: (a system buffer; to hold the data for; eventual delivery)
+0.125: (a system buffer; to hold; the data)
+
+Non_blocking  Non_blocking send and receive routines behave similarly _ they will return almost immediately  They do not wait for any communication events to complete, such as message copying from user memory to system buffer space or the actual arrival of message  Non_blocking operations simply  request  the MPI library to perform the operation when it is able  The user can not predict when that will happen  It is unsafe to modify the application buffer until you know for a fact the requested non_blocking operation was actually performed by the library  There are  wait  routines used to do this  Non_blocking communications are primarily used to overlap computation with communication and exploit possible performance gains  Blocking Send Non_blocking Send   myvar   0     for       task   i      MPI_Send       myvar   myvar   2          do some work                  myvar   0     for       task   i      MPI_Isend       myvar   myvar   2           do some work          MPI_Wait             Safe  Why  Unsafe  Why .
+0.889: (the requested non_blocking operation; was actually performed by; the library)
+0.856: (possible performance gains Blocking Send Non_blocking Send; myvar 0 for; task)
+0.828: (you; know for; a fact the requested non_blocking operation was actually performed by the library There are wait routines)
+0.808: (possible performance gains Blocking Send Non_blocking Send; myvar; 0)
+0.774: (myvar 2; do some work myvar 0 for; task)
+0.729: (myvar 2; do; some work myvar 0)
+0.729: (any communication events; to complete as; message copying)
+0.646: (computation; to be overlap with; communication)
+0.633: (myvar 2; do; some work MPI_Wait Safe)
+0.629: (0; be myvar for; task)
+0.619: (It; is; unsafe)
+0.526: (it; is; able)
+0.255: (the requested non_blocking operation; was actually performed in; a fact)
+
+A blocking send routine will only  return  after it is safe to modify the application buffer for reuse  Safe means that modifications will not affect the data intended for the receive task  Safe does not imply that the data was actually received _ it may very well be sitting in a system buffer .
+0.723: (modifications; will not affect; the data intended for the receive task Safe does not imply that the data was actually received _ it may very well be sitting in a system buffer)
+0.518: (it; is; safe)
+0.515: (it; may very well be sitting in; a system buffer)
+
+A blocking send can be synchronous which means there is handshaking occurring with the receive task to confirm a safe send .
+No extractions found.
+
+A blocking send can be asynchronous if a system buffer is used to hold the data for eventual delivery to the receive .
+0.679: (the data; to be hold for; eventual delivery)
+0.176: (a system buffer; to hold the data for; eventual delivery)
+0.125: (a system buffer; to hold; the data)
+
+A blocking receive only  returns  after the data has arrived and is ready for use by the program .
+No extractions found.
+
+Non_blocking send and receive routines behave similarly _ they will return almost immediately  They do not wait for any communication events to complete, such as message copying from user memory to system buffer space or the actual arrival of message .
+0.74: (any communication events; to complete as; message copying)
+
+Non_blocking operations simply  request  the MPI library to perform the operation when it is able  The user can not predict when that will happen .
+0.702: (Non_blocking operations; simply request; the MPI library)
+0.526: (it; is; able)
+
+It is unsafe to modify the application buffer until you know for a fact the requested non_blocking operation was actually performed by the library  There are  wait  routines used to do this .
+0.894: (the requested non_blocking operation; was actually performed by; the library)
+0.836: (you; know for; a fact the requested non_blocking operation was actually performed by the library There are wait routines)
+0.646: (It; is; unsafe)
+0.265: (the requested non_blocking operation; was actually performed in; a fact)
+
+Non_blocking communications are primarily used to overlap computation with communication and exploit possible performance gains  Blocking Send Non_blocking Send   myvar   0     for       task   i      MPI_Send       myvar   myvar   2          do some work                  myvar   0     for       task   i      MPI_Isend       myvar   myvar   2           do some work          MPI_Wait             Safe  Why  Unsafe  Why .
+0.862: (possible performance gains Blocking Send Non_blocking Send; myvar 0 for; task)
+0.817: (possible performance gains Blocking Send Non_blocking Send; myvar; 0)
+0.791: (Non_blocking communications; to overlap computation with; communication)
+0.788: (Non_blocking communications; to overlap; computation)
+0.783: (myvar 2; do some work myvar 0 for; task)
+0.74: (myvar 2; do; some work myvar 0)
+0.658: (computation; to be overlap with; communication)
+0.646: (myvar 2; do; some work MPI_Wait Safe)
+0.642: (0; be myvar for; task)
+
+Task 0 pings task 1 and awaits return ping.
+No extractions found.
+
+.
+No extractions found.
+
+     C Language _ Blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35       include  mpi h       include  stdio h        main       int numtasks, rank, dest, source, rc, count, tag 1        char inmsg, outmsg  x       MPI_Status Stat       required variable for receive routines       MPI_Init      MPI_Comm_size      MPI_Comm_rank           task 0 sends to task 1 and waits to receive a return message     if         dest   1        source   1        MPI_Send        MPI_Recv                    task 1 waits for task 0 message then returns a message     else if         dest   0        source   0        MPI_Recv        MPI_Send                   query recieve Stat variable and print message details     MPI_Get_count      printffrom task  d with tag  d  n ,            rank, count, Stat MPI_SOURCE, Stat MPI_TAG         MPI_Finalize       .
+0.769: (outmsg x MPI_Status Stat; required; variable)
+0.73: (MPI_Comm_size MPI_Comm_rank task 0; sends to; task 1 and waits)
+0.507: (mpi h; include; stdio h main int numtasks outmsg x MPI_Status Stat required variable for receive routines MPI_Init MPI_Comm_size MPI_Comm_rank task 0 sends to task 1 and waits to receive a return message if dest 1 source 1 MPI_Send MPI_Recv task 1 waits for task 0 message then returns a message else if dest 0 source 0 MPI_Recv MPI_Send query recieve Stat variable and print message details MPI_Get_count printffrom task d with tag d n , rank , count , Stat MPI_SOURCE , Stat MPI_TAG MPI_Finalize)
+0.471: (MPI_Comm_size MPI_Comm_rank task 0; sends to receive; a return message)[enabler=if dest 1 source 1 MPI_Send MPI_Recv task 1 waits for task 0 message then returns a message else if dest 0 source 0 MPI_Recv MPI_Send query recieve Stat variable and print message details MPI_Get_count printffrom task d with tag d n , rank , count , Stat MPI_SOURCE , Stat MPI_TAG MPI_Finalize]
+0.113: (dest 1 source; waits then for; task 0 message)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortran _ Blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36      program ping     include  mpif h        integer numtasks, rank, dest, source, count, tag, ierr     integer stat    required variable for receive routines     character inmsg, outmsg     outmsg    x      tag   1       call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         task 0 sends to task 1 and waits to receive a return message     if then        dest   1        source   1        call MPI_SEND        call MPI_RECV         task 1 waits for task 0 message then returns a message     else if then        dest   0        source   0        call MPI_RECV        call MPI_SEND     endif         query recieve Stat variable and print message details     call MPI_GET_COUNT     print  ,  Task  ,rank,   Received , count,  charfrom task ,                stat,  with tag ,stat       call MPI_FINALIZE       end.
+0.865: (outmsg x tag; sends to; task 1 and waits)
+0.702: (1 source; waits then for; task 0 message)
+0.679: (outmsg x tag; sends to receive; a return message)
+0.641: (print message details; call; MPI_GET_COUNT print)
+0.552: (Fortran _ Blocking Message Passing Example; include; mpif h integer numtasks)[enabler=if then dest 1 source 1 call MPI_SEND call MPI_RECV task 1 waits for task 0 message then returns a message else if then dest 0 source 0 call MPI_RECV call MPI_SEND endif query recieve Stat variable and print message details call MPI_GET_COUNT print , Task ,rank , Received , count , charfrom task , stat , with tag ,stat call MPI_FINALIZE end]
+0.482: (Stat; call; MPI_GET_COUNT print)
+0.418: (call MPI_RECV; call; MPI_SEND)
+
+Nearest neighbor exchange in a ring topology.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     C Language _ Non_blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34       include  mpi h       include  stdio h        main       int numtasks, rank, next, prev, buf 2 , tag1 1, tag2 2      MPI_Request reqs 4        required variable for non_blocking calls     MPI_Status stats 4        required variable for Waitall routine       MPI_Init      MPI_Comm_size      MPI_Comm_rank              determine left and right neighbors     prev   rank_1      next   rank 1      if  prev   numtasks _ 1      if    next   0           post non_blocking receives and sends for neighbors     MPI_Irecv      MPI_Irecv        MPI_Isend      MPI_Isend                do some work while sends receives progress in background          wait for all non_blocking operations to complete     MPI_Waitall                continue _ do more work       MPI_Finalize       .
+0.686: (mpi h; include; stdio h main int numtasks next , prev , buf 2 , tag1 1 , tag2 2 MPI_Request reqs 4 required variable for non_blocking calls MPI_Status stats 4 required variable for Waitall routine MPI_Init MPI_Comm_size MPI_Comm_rank determine left and right neighbors prev rank_1 next rank 1 if prev numtasks _ 1 if next 0 post non_blocking receives and sends for neighbors MPI_Irecv MPI_Irecv MPI_Isend MPI_Isend do some work while sends receives progress in background wait for all non_blocking operations to complete MPI_Waitall continue _ do more work MPI_Finalize)
+0.603: (4; required variable for; Waitall routine MPI_Init MPI_Comm_size MPI_Comm_rank)
+0.507: (_; do; more work MPI_Finalize)
+0.18: (next 0 post non_blocking; sends for; neighbors MPI_Irecv MPI_Irecv MPI_Isend MPI_Isend)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortran _ Non_blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40      program ringtopo     include  mpif h        integer numtasks, rank, next, prev, buf, tag1, tag2, ierr     integer reqs    required variable for non_blocking calls      integer stats    required variable for WAITALL routine      tag1   1     tag2   2       call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         determine left and right neighbors      prev   rank _ 1     next   rank   1     if then        prev   numtasks _ 1     endif     if then        next   0     endif         post non_blocking receives and sends for neighbors      call MPI_IRECV, 1, MPI_INTEGER, prev, tag1, MPI_COMM_WORLD, reqs, ierr      call MPI_IRECV, 1, MPI_INTEGER, next, tag2, MPI_COMM_WORLD, reqs, ierr        call MPI_ISEND, ierr      call MPI_ISEND, ierr             do some work while sends receives progress in background         wait for all non_blocking operations to complete      call MPI_WAITALL             continue _ do more work       call MPI_FINALIZE       end.
+0.814: (next 0 endif post non_blocking; sends for; neighbors)
+0.773: (calls integer stats; required variable for; WAITALL routine tag1)
+0.742: (right neighbors; prev rank  ; 1 next rank 1)[enabler=if then prev numtasks _ 1 endif if then next 0 endif post non_blocking receives and sends for neighbors call MPI_IRECV , 1 , MPI_INTEGER , prev , tag1 , MPI_COMM_WORLD , reqs , ierr call MPI_IRECV , 1 , MPI_INTEGER , next , tag2 , MPI_COMM_WORLD , reqs , ierr call MPI_ISEND , ierr call MPI_ISEND , ierr do some work while sends receives progress in background wait for all non_blocking operations to complete call MPI_WAITALL continue _ do more work call MPI_FINALIZE end]
+0.736: (right neighbors; prev; rank)[enabler=if then prev numtasks _ 1 endif if then next 0 endif post non_blocking receives and sends for neighbors call MPI_IRECV , 1 , MPI_INTEGER , prev , tag1 , MPI_COMM_WORLD , reqs , ierr call MPI_IRECV , 1 , MPI_INTEGER , next , tag2 , MPI_COMM_WORLD , reqs , ierr call MPI_ISEND , ierr call MPI_ISEND , ierr do some work while sends receives progress in background wait for all non_blocking operations to complete call MPI_WAITALL continue _ do more work call MPI_FINALIZE end]
+0.552: (Fortran _ Non_blocking Message Passing Example; include; mpif h integer numtasks)
+0.502: (_; do; more work call MPI_FINALIZE end)
+0.494: (tag1; prev ierr do; some work)[enabler=while sends receives progress in background wait for all non_blocking operations to complete call MPI_WAITALL continue _ do more work call MPI_FINALIZE end]
+0.439: (call MPI_INIT; call; MPI_COMM_RANK call MPI_COMM_SIZE)
+0.418: (call MPI_INIT call MPI_COMM_RANK; call; MPI_COMM_SIZE)
+0.268: (MPI_COMM_WORLD; prev ierr do; some work)[enabler=while sends receives progress in background wait for all non_blocking operations to complete call MPI_WAITALL continue _ do more work call MPI_FINALIZE end]
+
+Login to the LC workshop cluster, if you are not already logged in.
+No extractions found.
+
+Using your  Hello World  MPI program from Exercise 1, add MPI blocking point_to_point routines to send and receive messages.
+0.808: (your Hello World MPI program; be Using from; Exercise 1)
+
+Successfully compile your program.
+No extractions found.
+
+Successfully run your program _ several different ways.
+0.831: (your program; be Successfully run  ; several different ways)
+
+Try the same thing with nonblocking send receive routines.
+0.837: (the same thing; be Try with; nonblocking)
+
+Perform a scatter operation on the rows of an array.
+0.834: (Perform; be a scatter operation on; the rows of an array)
+
+.
+No extractions found.
+
+     C Language _ Collective Communications Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33       include  mpi h       include  stdio h       define SIZE 4       main       int numtasks, rank, sendcount, recvcount, source      float sendbuf SIZE  SIZE             1 0, 2 0, 3 0, 4 0 ,        5 0, 6 0, 7 0, 8 0 ,        9 0, 10 0, 11 0, 12 0 ,        13 0, 14 0, 15 0, 16 0          float recvbuf SIZE         MPI_Init      MPI_Comm_rank      MPI_Comm_size        if            define source task and elements to send receive, then perform collective scatter       source   1        sendcount   SIZE        recvcount   SIZE        MPI_Scatter sendbuf,sendcount,MPI_FLOAT,recvbuf,recvcount,                   MPI_FLOAT,source,MPI_COMM_WORLD           printf  rank   d  Results   f  f  f  f n ,rank,recvbuf 0 ,              recvbuf 1 ,recvbuf 2 ,recvbuf 3                else       printf        MPI_Finalize       .
+0.561: (,sendcount ,MPI_FLOAT ,recvbuf ,recvcount; d; Results f f f f n ,rank)
+0.522: (mpi h; include; stdio h)
+0.521: (C; be Language  ; Collective Communications Example 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33)
+0.482: (,sendcount ,MPI_FLOAT ,recvbuf ,recvcount; d Results f f f f n ,rank in; 0)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortran _ Collective Communications Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36      program scatter     include  mpif h        integer SIZE     parameter     integer numtasks, rank, sendcount, recvcount, source, ierr     real 4 sendbuf, recvbuf         Fortran stores this array in column major order, so the        scatter will actually scatter columns, not rows      data sendbuf  1 0, 2 0, 3 0, 4 0,                     5 0, 6 0, 7 0, 8 0,                     9 0, 10 0, 11 0, 12 0,                     13 0, 14 0, 15 0, 16 0         call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE       if then          define source task and elements to send receive, then perform collective scatter        source   1        sendcount   SIZE        recvcount   SIZE        call MPI_SCATTER sendbuf, sendcount, MPI_REAL, recvbuf, recvcount, MPI_REAL,                           source, MPI_COMM_WORLD, ierr           print  ,  rank   ,rank,  Results   ,recvbuf        else        print  ,  Must specify ,SIZE,  processors   Terminating        endif       call MPI_FINALIZE       end.
+0.797: (scatter columns , not; sendbuf; 1 0, 2)
+0.647: (Fortran _ Collective Communications Example; include; mpif h integer SIZE parameter integer numtasks)[enabler=so the scatter will actually scatter columns , not rows data sendbuf 1 0, 2 0, 3 0, 4 0, 5 0, 6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 call MPI_INIT call MPI_COMM_RANK call MPI_COMM_SIZE if then define source task and elements to send receive , then perform collective scatter source 1 sendcount SIZE recvcount SIZE call MPI_SCATTER sendbuf , sendcount , MPI_REAL , recvbuf , recvcount , MPI_REAL , source , MPI_COMM_WORLD , ierr print , rank ,rank , Results ,recvbuf else print , Must specify ,SIZE , processors Terminating endif call MPI_FINALIZE end]
+0.605: (the scatter will actually scatter columns , not rows data sendbuf 1 0, 2 0, 3 0, 4 0, 5 0, 6 0, then perform collective scatter source; Must specify; processors Terminating endif call MPI_FINALIZE end)
+0.593: (call MPI_INIT; call; MPI_COMM_RANK call MPI_COMM_SIZE)
+0.572: (call MPI_INIT call MPI_COMM_RANK; call; MPI_COMM_SIZE)
+0.501: (1 sendcount SIZE recvcount SIZE; call; MPI_SCATTER sendbuf)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+rank  0  Results  1 000000 2 000000 3 000000 4 000000  rank  1  Results  5 000000 6 000000 7 000000 8 000000  rank  2  Results  9 000000 10 000000 11 000000 12 000000  rank  3  Results  13 000000 14 000000 15 000000 16 000000.
+No extractions found.
+
+.
+No extractions found.
+
+As previously mentioned, MPI predefines its primitive data types  C Data Types Fortran Data Types   MPI_CHAR  MPI_WCHAR  MPI_SHORT  MPI_INT  MPI_LONG  MPI_LONG_LONG_INT   MPI_LONG_LONG      MPI_SIGNED_CHAR  MPI_UNSIGNED_CHAR  MPI_UNSIGNED_SHORT  MPI_UNSIGNED_LONG  MPI_UNSIGNED  MPI_FLOAT  MPI_DOUBLE  MPI_LONG_DOUBLE     MPI_C_COMPLEX  MPI_C_FLOAT_COMPLEX  MPI_C_DOUBLE_COMPLEX  MPI_C_LONG_DOUBLE_COMPLEX      MPI_C_BOOL  MPI_LOGICAL  MPI_C_LONG_DOUBLE_COMPLEX     MPI_INT8_T   MPI_INT16_T  MPI_INT32_T   MPI_INT64_T      MPI_UINT8_T   MPI_UINT16_T   MPI_UINT32_T   MPI_UINT64_T  MPI_BYTE  MPI_PACKED     MPI_CHARACTER  MPI_INTEGER  MPI_INTEGER1   MPI_INTEGER2  MPI_INTEGER4  MPI_REAL  MPI_REAL2   MPI_REAL4  MPI_REAL8  MPI_DOUBLE_PRECISION  MPI_COMPLEX  MPI_DOUBLE_COMPLEX  MPI_LOGICAL  MPI_BYTE  MPI_PACKED.
+0.593: (MPI; predefines; its primitive data types C Data Types Fortran Data Types MPI_CHAR MPI_WCHAR MPI_SHORT MPI_INT MPI_LONG MPI_LONG_LONG_INT MPI_LONG_LONG MPI_SIGNED_CHAR MPI_UNSIGNED_CHAR MPI_UNSIGNED_SHORT MPI_UNSIGNED_LONG MPI_UNSIGNED MPI_FLOAT MPI_DOUBLE MPI_LONG_DOUBLE MPI_C_COMPLEX MPI_C_FLOAT_COMPLEX MPI_C_DOUBLE_COMPLEX MPI_C_LONG_DOUBLE_COMPLEX MPI_C_BOOL MPI_LOGICAL MPI_C_LONG_DOUBLE_COMPLEX MPI_INT8_T MPI_INT16_T MPI_INT32_T MPI_INT64_T MPI_UINT8_T MPI_UINT16_T MPI_UINT32_T MPI_UINT64_T MPI_BYTE MPI_PACKED MPI_CHARACTER MPI_INTEGER MPI_INTEGER1 MPI_INTEGER2 MPI_INTEGER4 MPI_REAL MPI_REAL2 MPI_REAL4)[enabler=As previously mentioned]
+
+MPI also provides facilities for you to define your own data structures based upon sequences of the MPI primitive data types  Such user defined structures are called derived data types .
+0.855: (your own data structures; be based upon; sequences of the MPI primitive data types)
+0.743: (you; to define; your own data structures based upon sequences of the MPI primitive data types)
+0.741: (defined structures; are called; derived data types)
+0.673: (MPI; also provides; facilities)[enabler=for you to define your own data structures based upon sequences of the MPI primitive data types Such user defined structures are called derived data types]
+0.549: (defined structures; are called derived data types in; the MPI primitive data types)
+
+Primitive data types are contiguous  Derived data types allow you to specify non_contiguous data in a convenient manner and to treat it as though it was contiguous .
+0.811: (you; to specify to; non_contiguous data)
+0.749: (you; to specify non contiguous data to in; a convenient manner)
+0.689: (you; to to treat; it)[enabler=as though it was contiguous]
+0.658: (non_contiguous data; to specify to be in; a convenient manner)
+0.483: (it; was; contiguous)
+
+MPI provides several methods for constructing derived data types  Contiguous Vector Indexed Struct.
+0.673: (MPI; provides; several methods)
+
+Contiguous.
+No extractions found.
+
+Vector.
+No extractions found.
+
+Indexed.
+No extractions found.
+
+Struct.
+No extractions found.
+
+Create a data type representing a row of an array and distribute a different row to all processes .
+0.644: (Create; be a different row to; all processes)
+
+.
+No extractions found.
+
+     C Language _ Contiguous Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43       include  mpi h       include  stdio h       define SIZE 4       main       int numtasks, rank, source 0, dest, tag 1, i      float a SIZE  SIZE           1 0, 2 0, 3 0, 4 0,        5 0, 6 0, 7 0, 8 0,        9 0, 10 0, 11 0, 12 0,        13 0, 14 0, 15 0, 16 0       float b SIZE         MPI_Status stat      MPI_Datatype rowtype       required variable       MPI_Init      MPI_Comm_rank      MPI_Comm_size           create contiguous derived data type     MPI_Type_contiguous      MPI_Type_commit        if             task 0 sends one element of rowtype to all tasks        if             for              MPI_Send                          all tasks receive rowtype data from task 0        MPI_Recv         printf  rank   d  b   3 1f  3 1f  3 1f  3 1f n ,               rank,b 0 ,b 1 ,b 2 ,b 3                 else        printf           free datatype when done using it     MPI_Type_free      MPI_Finalize       .
+0.865: (contiguous derived data type; sends one element of rowtype to; all tasks)[enabler=if for MPI_Send all tasks receive rowtype data from task 0 MPI_Recv printf rank d b 3 1f 3 1f 3 1f 3 1f n , rank ,b 0 ,b 1 ,b 2 ,b 3 else printf free datatype when done using it MPI_Type_free MPI_Finalize]
+0.813: (contiguous derived data type; sends; one element of rowtype)[enabler=if for MPI_Send all tasks receive rowtype data from task 0 MPI_Recv printf rank d b 3 1f 3 1f 3 1f 3 1f n , rank ,b 0 ,b 1 ,b 2 ,b 3 else printf free datatype when done using it MPI_Type_free MPI_Finalize]
+0.784: (all tasks; receive rowtype data from; task 0 MPI_Recv printf rank)
+0.783: (all tasks; receive; rowtype data)
+0.692: (contiguous derived data type; sends one element of rowtype if; task 0)[enabler=if for MPI_Send all tasks receive rowtype data from task 0 MPI_Recv printf rank d b 3 1f 3 1f 3 1f 3 1f n , rank ,b 0 ,b 1 ,b 2 ,b 3 else printf free datatype when done using it MPI_Type_free MPI_Finalize]
+0.532: (all tasks; receive rowtype data for; MPI_Send)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortran _ Contiguous Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46      program contiguous     include  mpif h        integer SIZE     parameter     integer numtasks, rank, source, dest, tag, i,  ierr     real 4 a, b     integer stat     integer columntype     required variable     tag   1         Fortran stores this array in column major order     data a   1 0, 2 0, 3 0, 4 0,                5 0, 6 0, 7 0, 8 0,                9 0, 10 0, 11 0, 12 0,                 13 0, 14 0, 15 0, 16 0         call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         create contiguous derived data type     call MPI_TYPE_CONTIGUOUS     call MPI_TYPE_COMMIT         if then          task 0 sends one element of columntype to all tasks        if then           do i 0, numtasks_1           call MPI_SEND, 1, columntype, i, tag, MPI_COMM_WORLD,ierr            end do        endif            all tasks receive columntype data from task 0        source   0        call MPI_RECV        print  ,  rank   ,rank,  b   ,b     else        print  ,  Must specify ,SIZE,  processors   Terminating        endif         free datatype when done using it     call MPI_TYPE_FREE     call MPI_FINALIZE       end.
+0.784: (all tasks; receive columntype data from; task 0 source)
+0.783: (all tasks; receive; columntype data)
+0.747: (task 0; if then sends if then; one element of columntype)
+0.62: (it; call; MPI_TYPE_FREE call MPI_FINALIZE end)
+0.513: (data type call MPI_TYPE_CONTIGUOUS; call; MPI_TYPE_COMMIT)
+0.418: (call MPI_INIT; call; MPI_COMM_RANK)
+0.31: (one element of columntype; be if then sends if then by; column major order data)
+0.285: (end; do endif in; tag)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+rank  0  b  1 0 2 0 3 0 4 0  rank  1  b  5 0 6 0 7 0 8 0  rank  2  b  9 0 10 0 11 0 12 0  rank  3  b  13 0 14 0 15 0 16 0.
+No extractions found.
+
+Create a data type representing a column of an array and distribute different columns to all processes .
+No extractions found.
+
+.
+No extractions found.
+
+     C Language _ Vector Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44       include  mpi h       include  stdio h       define SIZE 4       main       int numtasks, rank, source 0, dest, tag 1, i      float a SIZE  SIZE            1 0, 2 0, 3 0, 4 0,          5 0, 6 0, 7 0, 8 0,         9 0, 10 0, 11 0, 12 0,       13 0, 14 0, 15 0, 16 0       float b SIZE          MPI_Status stat      MPI_Datatype columntype       required variable         MPI_Init      MPI_Comm_rank      MPI_Comm_size              create vector derived data type     MPI_Type_vector      MPI_Type_commit        if             task 0 sends one element of columntype to all tasks        if             for               MPI_Send                           all tasks receive columntype data from task 0        MPI_Recv         printf  rank   d  b   3 1f  3 1f  3 1f  3 1f n ,               rank,b 0 ,b 1 ,b 2 ,b 3                 else        printf           free datatype when done using it     MPI_Type_free      MPI_Finalize       .
+0.79: (vector; be derived in; data type MPI_Type_vector MPI_Type_commit)
+0.784: (all tasks; receive columntype data from; task 0 MPI_Recv printf rank)
+0.783: (all tasks; receive; columntype data)
+0.533: (6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b SIZE MPI_Status stat MPI_Datatype columntype; be required in; variable MPI_Init MPI_Comm_rank MPI_Comm_size)
+0.532: (all tasks; receive columntype data for; MPI_Send)
+0.521: (C; be Language  ; Vector Derived Data Type Example 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44)
+0.465: (mpi h; include; stdio h i float a SIZE SIZE 1 0, 2 0, 3 0, 4 0, 5 0, 6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b SIZE MPI_Status stat MPI_Datatype columntype required variable MPI_Init MPI_Comm_rank MPI_Comm_size create vector derived data type MPI_Type_vector MPI_Type_commit if task 0 sends one element of columntype to all tasks if for MPI_Send all tasks receive columntype data from task 0 MPI_Recv printf rank d b)
+0.445: (3 0, 4; 5 0, 6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b SIZE MPI Status stat MPI Datatype columntype required variable MPI Init MPI Comm rank MPI Comm size create; vector derived data type MPI_Type_vector MPI_Type_commit)[enabler=if task 0 sends one element of columntype to all tasks if for MPI_Send all tasks receive columntype data from task 0 MPI_Recv printf rank d b 3 1f 3 1f 3 1f 3 1f n , rank ,b 0 ,b 1 ,b 2 ,b 3 else printf free datatype when done using it MPI_Type_free MPI_Finalize]
+0.264: (6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b SIZE MPI_Status stat MPI_Datatype columntype; 5 0, 6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b SIZE MPI Status stat MPI Datatype columntype required variable MPI Init MPI Comm rank MPI Comm size create; vector derived data type MPI_Type_vector MPI_Type_commit)[enabler=if task 0 sends one element of columntype to all tasks if for MPI_Send all tasks receive columntype data from task 0 MPI_Recv printf rank d b 3 1f 3 1f 3 1f 3 1f n , rank ,b 0 ,b 1 ,b 2 ,b 3 else printf free datatype when done using it MPI_Type_free MPI_Finalize]
+0.264: (a SIZE SIZE; 5 0, 6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b SIZE MPI Status stat MPI Datatype columntype required variable MPI Init MPI Comm rank MPI Comm size create; vector derived data type MPI_Type_vector MPI_Type_commit)[enabler=if task 0 sends one element of columntype to all tasks if for MPI_Send all tasks receive columntype data from task 0 MPI_Recv printf rank d b 3 1f 3 1f 3 1f 3 1f n , rank ,b 0 ,b 1 ,b 2 ,b 3 else printf free datatype when done using it MPI_Type_free MPI_Finalize]
+0.259: (task 0; sends one element of columntype to; all tasks)[enabler=if for MPI_Send all tasks receive columntype data from task 0 MPI_Recv printf rank d b 3 1f 3 1f 3 1f 3 1f n , rank ,b 0 ,b 1 ,b 2 ,b 3 else printf free datatype when done using it MPI_Type_free MPI_Finalize]
+0.191: (task 0; sends; one element of columntype)[enabler=if for MPI_Send all tasks receive columntype data from task 0 MPI_Recv printf rank d b 3 1f 3 1f 3 1f 3 1f n , rank ,b 0 ,b 1 ,b 2 ,b 3 else printf free datatype when done using it MPI_Type_free MPI_Finalize]
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortran _ Vector Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46      program vector     include  mpif h        integer SIZE     parameter     integer numtasks, rank, source, dest, tag, i,  ierr     real 4 a, b     integer stat     integer rowtype     required variable     tag   1         Fortran stores this array in column major order     data a   1 0, 2 0, 3 0, 4 0,                5 0, 6 0, 7 0, 8 0,                 9 0, 10 0, 11 0, 12 0,                13 0, 14 0, 15 0, 16 0         call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         create vector derived data type     call MPI_TYPE_VECTOR     call MPI_TYPE_COMMIT         if then          task 0 sends one element of rowtype to all tasks        if then           do i 0, numtasks_1           call MPI_SEND, 1, rowtype, i, tag, MPI_COMM_WORLD, ierr            end do        endif            all tasks receive rowtype data from task 0        source   0        call MPI_RECV        print  ,  rank   ,rank,  b   ,b     else        print  ,  Must specify ,SIZE,  processors   Terminating        endif         free datatype when done using it     call MPI_TYPE_FREE     call MPI_FINALIZE       end.
+0.784: (all tasks; receive rowtype data from; task 0 source)
+0.783: (all tasks; receive; rowtype data)
+0.747: (task 0; if then sends if then; one element of rowtype)
+0.62: (it; call; MPI_TYPE_FREE call MPI_FINALIZE end)
+0.576: (mpif h integer SIZE parameter integer numtasks; Must specify; processors)
+0.418: (call MPI_INIT; call; MPI_COMM_RANK)
+0.31: (one element of rowtype; be if then sends if then by; column major order data)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+rank  0  b  1 0 5 0 9 0 13 0  rank  1  b  2 0 6 0 10 0 14 0  rank  2  b  3 0 7 0 11 0 15 0  rank  3  b  4 0 8 0 12 0 16 0.
+No extractions found.
+
+Create a datatype by extracting variable portions of an array and distribute to all tasks .
+No extractions found.
+
+.
+No extractions found.
+
+     C Language _ Indexed Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43       include  mpi h       include  stdio h       define NELEMENTS 6       main       int numtasks, rank, source 0, dest, tag 1, i      int blocklengths 2 , displacements 2       float a 16            1 0, 2 0, 3 0, 4 0, 5 0, 6 0, 7 0, 8 0,         9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0       float b NELEMENTS          MPI_Status stat      MPI_Datatype indextype       required variable       MPI_Init      MPI_Comm_rank      MPI_Comm_size        blocklengths 0    4      blocklengths 1    2      displacements 0    5      displacements 1    12              create indexed derived data type     MPI_Type_indexed      MPI_Type_commit        if         for            task 0 sends one element of indextype to all tasks          MPI_Send                   all tasks receive indextype data from task 0     MPI_Recv      printf  rank   d  b   3 1f  3 1f  3 1f  3 1f  3 1f  3 1f n ,            rank,b 0 ,b 1 ,b 2 ,b 3 ,b 4 ,b 5                free datatype when done using it     MPI_Type_free      MPI_Finalize       .
+0.793: (0 4 blocklengths; create; indexed derived data type MPI_Type_indexed MPI_Type_commit)
+0.784: (all tasks; receive indextype data from; task 0 MPI_Recv printf rank)
+0.783: (all tasks; receive; indextype data)
+0.722: (3 1f; 1f n; rank ,b 0 ,b 1 ,b 2 ,b 3 ,b 4 ,b 5 free datatype)[enabler=when done using it MPI_Type_free MPI_Finalize]
+0.708: (indexed derived data type; be MPI Type indexed in; MPI_Type_commit)
+0.647: (displacements 2 float; receive indextype data from; task 0 MPI_Recv printf rank)
+0.645: (displacements 2 float; receive; indextype data)
+0.597: (6 main int numtasks; be source 0,; dest)
+0.534: (10 0, 11; 6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b NELEMENTS MPI Status stat MPI Datatype indextype required variable MPI Init MPI Comm rank MPI Comm size blocklengths 0 4 blocklengths 1 2 displacements 0 5 displacements 1 12 create indexed derived data type MPI Type indexed MPI Type commit if for task 0 sends; one element of indextype)
+0.534: (12 0, 13; 6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b NELEMENTS MPI Status stat MPI Datatype indextype required variable MPI Init MPI Comm rank MPI Comm size blocklengths 0 4 blocklengths 1 2 displacements 0 5 displacements 1 12 create indexed derived data type MPI Type indexed MPI Type commit if for task 0 sends; one element of indextype)
+0.478: (10 0, 11; 6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b NELEMENTS MPI Status stat MPI Datatype indextype required variable MPI Init MPI Comm rank MPI Comm size blocklengths 0 4 blocklengths 1 2 displacements 0 5 displacements 1 12 create indexed derived data type MPI Type indexed MPI Type commit if for task 0 sends one element of indextype to; all tasks)
+0.478: (12 0, 13; 6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b NELEMENTS MPI Status stat MPI Datatype indextype required variable MPI Init MPI Comm rank MPI Comm size blocklengths 0 4 blocklengths 1 2 displacements 0 5 displacements 1 12 create indexed derived data type MPI Type indexed MPI Type commit if for task 0 sends one element of indextype to; all tasks)
+0.39: (NELEMENTS displacements 2 float a 16 1 0, 2 0, 3 0, 4 0, 5 0, 6 0, 7 0, 8 0, 9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0 float b NELEMENTS MPI_Status stat MPI_Datatype indextype required variable MPI_Init MPI_Comm_rank MPI_Comm_size blocklengths 0 4 blocklengths 1 2 displacements 0 5 displacements 1 12 create indexed derived data type MPI_Type_indexed MPI_Type_commit if for task 0 sends one element of indextype to all tasks MPI_Send all tasks receive indextype data from task 0 MPI_Recv printf rank; d; b 3 1f 3 1f 3 1f 3 1f 3 1f 3 1f n , rank ,b 0 ,b 1 ,b 2 ,b 3 ,b 4 ,b 5 free datatype when done using it MPI_Type_free MPI_Finalize)[attrib=stdio h define]
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortran _ Indexed Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47      program indexed     include  mpif h        integer NELEMENTS     parameter     integer numtasks, rank, source, dest, tag, i,  ierr     integer blocklengths, displacements     real 4 a, b     integer stat     integer indextype     required variable     tag   1       data a   1 0, 2 0, 3 0, 4 0, 5 0, 6 0, 7 0, 8 0,                9 0, 10 0, 11 0, 12 0, 13 0, 14 0, 15 0, 16 0         call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE       blocklengths  4     blocklengths  2     displacements  5     displacements  12         create indexed derived data type     call MPI_TYPE_INDEXED 2, blocklengths, displacements, MPI_REAL,                             indextype, ierr      call MPI_TYPE_COMMIT         if then          task 0 sends one element of indextype to all tasks        do i 0, numtasks_1        call MPI_SEND        end do     endif         all tasks receive indextype data from task 0     source   0     call MPI_RECV b, NELEMENTS, MPI_REAL, source, tag, MPI_COMM_WORLD,                     stat, ierr      print  ,  rank   ,rank,  b   ,b         free datatype when done using it     call MPI_TYPE_FREE     call MPI_FINALIZE       end.
+0.814: (task 0; sends one element of indextype to; all tasks)
+0.813: (task 0; sends; one element of indextype)
+0.783: (all tasks; receive; indextype data)
+0.62: (it; call; MPI_TYPE_FREE call MPI_FINALIZE end)
+0.392: (Fortran _ Indexed Derived Data Type Example; include; displacements)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+rank  0  b  6 0 7 0 8 0 9 0 13 0 14 0  rank  1  b  6 0 7 0 8 0 9 0 13 0 14 0  rank  2  b  6 0 7 0 8 0 9 0 13 0 14 0  rank  3  b  6 0 7 0 8 0 9 0 13 0 14 0.
+No extractions found.
+
+Create a data type that represents a particle and distribute an array of such particles to all processes .
+No extractions found.
+
+.
+No extractions found.
+
+     C Language _ Struct Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66       include  mpi h       include  stdio h       define NELEM 25       main       int numtasks, rank, source 0, dest, tag 1, i        typedef struct         float x, y, z        float velocity        int  n, type                   Particle      Particle     p NELEM , particles NELEM       MPI_Datatype particletype, oldtypes 2        required variables     int          blockcounts 2            MPI_Aint type used to be consistent with syntax of        MPI_Type_extent routine     MPI_Aint    offsets 2 , extent        MPI_Status stat        MPI_Init      MPI_Comm_rank      MPI_Comm_size            setup description of the 4 MPI_FLOAT fields x, y, z, velocity     offsets 0    0      oldtypes 0    MPI_FLOAT      blockcounts 0    4           setup description of the 2 MPI_INT fields n, type        need to first figure offset by getting size of MPI_FLOAT     MPI_Type_extent      offsets 1    4   extent      oldtypes 1    MPI_INT      blockcounts 1    2           define structured type and commit it     MPI_Type_struct      MPI_Type_commit           task 0 initializes the particle array and then sends it to each task     if         for            particles i  x   i   1 0           particles i  y   i   _1 0           particles i  z   i   1 0            particles i  velocity   0 25           particles i  n   i           particles i  type   i   2                    for           MPI_Send                    all tasks receive particletype data     MPI_Recv        printf  rank   d    3 2f  3 2f  3 2f  3 2f  d  d n , rank,p 3  x,          p 3  y,p 3  z,p 3  velocity,p 3  n,p 3  type            free datatype when done using it     MPI_Type_free      MPI_Finalize       .
+0.656: (type; i; 2)
+0.62: (type; i 2 for; MPI_Send)
+0.552: (all tasks; receive particletype data; p 3 y)[enabler=i type i 2 for MPI_Send all tasks receive particletype data MPI_Recv printf rank d 3 2f 3 2f 3 2f 3 2f d d n , rank ,p 3 x]
+0.522: (mpi h; include; stdio h)
+0.473: (it; MPI Type struct; MPI_Type_commit task 0)
+0.435: (particles; receive particletype data; p 3 y)[enabler=i type i 2 for MPI_Send all tasks receive particletype data MPI_Recv printf rank d 3 2f 3 2f 3 2f 3 2f d d n , rank ,p 3 x]
+0.183: (all tasks; receive p 3 y , p 3 z ,p 3 velocity , p 3 n ,p 3 type free datatype when done using it MPI Type free MPI Finalize; particletype data)[enabler=i type i 2 for MPI_Send all tasks receive particletype data MPI_Recv printf rank d 3 2f 3 2f 3 2f 3 2f d d n , rank ,p 3 x]
+0.123: (particles; receive p 3 y , p 3 z ,p 3 velocity , p 3 n ,p 3 type free datatype when done using it MPI Type free MPI Finalize; particletype data)[enabler=i type i 2 for MPI_Send all tasks receive particletype data MPI_Recv printf rank d 3 2f 3 2f 3 2f 3 2f d d n , rank ,p 3 x]
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortan _ Struct Derived Data Type Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63      program struct     include  mpif h        integer NELEM     parameter     integer numtasks, rank, source, dest, tag, i,  ierr     integer stat       type Particle     sequence     real 4 x, y, z, velocity     integer n, type     end type Particle       type p, particles     integer particletype, oldtypes    required variables     integer blockcounts, offsets, extent     tag   1       call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         setup description of the 4 MPI_REAL fields x, y, z, velocity     offsets  0     oldtypes  MPI_REAL     blockcounts  4         setup description of the 2 MPI_INTEGER fields n, type        need to first figure offset by getting size of MPI_REAL     call MPI_TYPE_EXTENT     offsets  4   extent     oldtypes  MPI_INTEGER     blockcounts  2         define structured type and commit it      call MPI_TYPE_STRUCT 2, blockcounts, offsets, oldtypes,                            particletype, ierr      call MPI_TYPE_COMMIT           task 0 initializes the particle array and then sends it to each task     if then        do i 0, NELEM_1        particles  Particle          end do          do i 0, numtasks_1        call MPI_SEND particles, NELEM, particletype, i, tag,                        MPI_COMM_WORLD, ierr         end do     endif         all tasks receive particletype data     source   0     call MPI_RECV p, NELEM, particletype, source, tag,                     MPI_COMM_WORLD, stat, ierr        print  ,  rank   ,rank,  p   ,p         free datatype when done using it     call MPI_TYPE_FREE     call MPI_FINALIZE     end.
+0.724: (real 4 x; y integer n; particles integer particletype , oldtypes required variables integer blockcounts)
+0.724: (velocity; y integer n; particles integer particletype , oldtypes required variables integer blockcounts)
+0.635: (mpif h integer NELEM parameter integer numtasks; then sends it if then to; each task)
+0.635: (real 4 x; then sends it if then to; each task)
+0.635: (velocity; then sends it if then to; each task)
+0.62: (it; call; MPI_TYPE_FREE call MPI_FINALIZE end)
+0.57: (mpif h integer NELEM parameter integer numtasks; y integer n; particles integer particletype , oldtypes required variables integer blockcounts)
+0.43: (mpif h integer NELEM parameter integer numtasks; then sends if then; it)
+0.43: (real 4 x; then sends if then; it)
+0.43: (velocity; then sends if then; it)
+0.302: (MPI_TYPE_STRUCT 2; initializes; the particle array)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+rank  0   3 00 _3 00 3 00 0 25 3 1  rank  2   3 00 _3 00 3 00 0 25 3 1  rank  1   3 00 _3 00 3 00 0 25 3 1  rank  3   3 00 _3 00 3 00 0 25 3 1.
+No extractions found.
+
+Create two different process groups for separate collective communications exchange  Requires creating new communicators also .
+0.451: (Create two different process groups; creating also; new communicators)
+0.323: (Create; be two different process groups for; separate collective communications exchange Requires)
+0.31: (different; be process groups for; separate collective communications exchange Requires)
+
+.
+No extractions found.
+
+     C Language _ Group and Communicator Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43       include  mpi h       include  stdio h       define NPROCS 8       main       int        rank, new_rank, sendbuf, recvbuf, numtasks,                ranks1 4   0,1,2,3 , ranks2 4   4,5,6,7       MPI_Group  orig_group, new_group       required variables     MPI_Comm   new_comm       required variable       MPI_Init      MPI_Comm_rank      MPI_Comm_size        if         printf        MPI_Finalize        exit                sendbuf   rank           extract the original group handle     MPI_Comm_group            divide tasks into two distinct groups based upon rank     if         MPI_Group_incl              else         MPI_Group_incl                   create new new communicator and then perform collective communications     MPI_Comm_create      MPI_Allreduce           get rank in new group     MPI_Group_rank       printf        MPI_Finalize       .
+0.893: (the original group handle; be extract into; two distinct groups based upon rank)[enabler=if MPI_Group_incl else MPI_Group_incl create new new communicator and then perform collective communications MPI_Comm_create MPI_Allreduce get rank in new group MPI_Group_rank printf MPI_Finalize]
+0.86: (new_group; required; variables)
+0.775: (two distinct groups; be based upon; rank)
+0.691: (numtasks; recvbuf ranks1; 4 0,1,2,3)
+0.691: (rank; extract; the original group handle)[enabler=if MPI_Group_incl else MPI_Group_incl create new new communicator and then perform collective communications MPI_Comm_create MPI_Allreduce get rank in new group MPI_Group_rank printf MPI_Finalize]
+0.655: (collective communications; MPI Comm create MPI Allreduce get; rank)
+0.611: (mpi h; include; stdio h define NPROCS 8 main int rank , new_rank , sendbuf , recvbuf , numtasks , ranks1 4 0,1,2,3)
+0.584: (rank; extract the original group handle MPI Comm group divide tasks into; two distinct groups based upon rank)[enabler=if MPI_Group_incl else MPI_Group_incl create new new communicator and then perform collective communications MPI_Comm_create MPI_Allreduce get rank in new group MPI_Group_rank printf MPI_Finalize]
+0.157: (MPI_Group_incl; create; new new communicator)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortran _ Group and Communicator Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42      program group     include  mpif h        integer NPROCS     parameter     integer rank, new_rank, sendbuf, recvbuf, numtasks     integer ranks1, ranks2, ierr     integer orig_group, new_group, new_comm     required variables     data ranks1  0, 1, 2, 3 , ranks2  4, 5, 6, 7        call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE       if then       print  ,  Must specify NPROCS   ,NPROCS,  Terminating         call MPI_FINALIZE       stop     endif       sendbuf   rank         extract the original group handle     call MPI_COMM_GROUP         divide tasks into two distinct groups based upon rank     if then        call MPI_GROUP_INCL     else         call MPI_GROUP_INCL     endif         create new new communicator and then perform collective communications     call MPI_COMM_CREATE     call MPI_ALLREDUCE         get rank in new group     call MPI_GROUP_RANK     print  ,  rank   ,rank,  newrank   ,new_rank,  recvbuf   , recvbuf       call MPI_FINALIZE     end.
+0.822: (sendbuf rank; extract; the original group handle call MPI_COMM_GROUP divide tasks)[enabler=if then call MPI_GROUP_INCL else call MPI_GROUP_INCL endif create new new communicator and then perform collective communications call MPI_COMM_CREATE call MPI_ALLREDUCE get rank in new group call MPI_GROUP_RANK print , rank ,rank , newrank ,new_rank , recvbuf , recvbuf call MPI_FINALIZE end]
+0.788: (the original group handle call MPI_COMM_GROUP divide tasks; be extract into; two distinct groups based upon rank)[enabler=if then call MPI_GROUP_INCL else call MPI_GROUP_INCL endif create new new communicator and then perform collective communications call MPI_COMM_CREATE call MPI_ALLREDUCE get rank in new group call MPI_GROUP_RANK print , rank ,rank , newrank ,new_rank , recvbuf , recvbuf call MPI_FINALIZE end]
+0.775: (two distinct groups; be based upon; rank)
+0.7: (sendbuf rank; extract the original group handle call MPI COMM GROUP divide tasks into; two distinct groups based upon rank)[enabler=if then call MPI_GROUP_INCL else call MPI_GROUP_INCL endif create new new communicator and then perform collective communications call MPI_COMM_CREATE call MPI_ALLREDUCE get rank in new group call MPI_GROUP_RANK print , rank ,rank , newrank ,new_rank , recvbuf , recvbuf call MPI_FINALIZE end]
+0.593: (call MPI_INIT; call; MPI_COMM_RANK call MPI_COMM_SIZE)
+0.588: (MPI_GROUP_INCL else call MPI_GROUP_INCL; create; new new communicator)
+0.572: (call MPI_INIT call MPI_COMM_RANK; call; MPI_COMM_SIZE)
+0.526: (ranks2 4; Must specify; NPROCS ,NPROCS)
+0.417: (mpif h integer NPROCS parameter integer rank; ranks1 0,; 1 , 2 , 3)
+0.244: (ranks2 4; Must specify NPROCS ,NPROCS Terminating; call MPI_FINALIZE stop)
+0.151: (new_group; be mpif h integer NPROCS parameter integer rank sendbuf recvbuf ierr; integer orig_group)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+rank  7 newrank  3 recvbuf  22  rank  0 newrank  0 recvbuf  6  rank  1 newrank  1 recvbuf  6  rank  2 newrank  2 recvbuf  6  rank  6 newrank  2 recvbuf  22  rank  3 newrank  3 recvbuf  6  rank  4 newrank  0 recvbuf  22  rank  5 newrank  1 recvbuf  22.
+No extractions found.
+
+Create a 4 x 4 Cartesian topology from 16 processors and have each process exchange its rank with four neighbors .
+0.83: (its rank; be exchange with; four neighbors)
+
+.
+No extractions found.
+
+     C Language _ Cartesian Virtual Topology Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54       include  mpi h       include  stdio h       define SIZE 16      define UP    0      define DOWN  1      define LEFT  2      define RIGHT 3       main       int numtasks, rank, source, dest, outbuf, i, tag 1,         inbuf 4   MPI_PROC_NULL,MPI_PROC_NULL,MPI_PROC_NULL,MPI_PROC_NULL, ,         nbrs 4 , dims 2   4,4 ,         periods 2   0,0 , reorder 0, coords 2         MPI_Request reqs 8       MPI_Status stats 8       MPI_Comm cartcomm       required variable       MPI_Init      MPI_Comm_size        if             create cartesian virtual topology, get rank, coordinates, neighbor ranks        MPI_Cart_create         MPI_Comm_rank         MPI_Cart_coords         MPI_Cart_shift         MPI_Cart_shift           printf   d  d  d  d n ,               rank,coords 0 ,coords 1 ,nbrs UP ,nbrs DOWN ,nbrs LEFT ,               nbrs RIGHT             outbuf   rank              exchange data with 4 neighbors        for             dest   nbrs i             source   nbrs i             MPI_Isend  outbuf, 1, MPI_INT, dest, tag,                      MPI_COMM_WORLD,  reqs i              MPI_Irecv  inbuf i , 1, MPI_INT, source, tag,                      MPI_COMM_WORLD,  reqs i 4                         MPI_Waitall              printf   d  d  d  d n ,               rank,inbuf UP ,inbuf DOWN ,inbuf LEFT ,inbuf RIGHT           else        printf           MPI_Finalize       .
+0.821: (source nbrs; i; MPI_Isend outbuf , 1 , MPI_INT , dest , tag , MPI_COMM_WORLD , reqs i MPI_Irecv inbuf i , 1 , MPI_INT , source , tag , MPI_COMM_WORLD , reqs i 4 MPI_Waitall printf d d d d n , rank ,inbuf UP ,inbuf DOWN ,inbuf LEFT ,inbuf RIGHT else printf MPI_Finalize)
+0.806: (8 MPI_Comm cartcomm; required; variable MPI_Init)
+0.781: (exchange data; be RIGHT outbuf rank with; 4 neighbors)
+0.712: (neighbor; ranks; MPI_Cart_create MPI_Comm_rank MPI_Cart_coords MPI_Cart_shift MPI_Cart_shift printf)
+0.705: (exchange data; be RIGHT outbuf rank for; dest nbrs)
+0.695: (nbrs; RIGHT outbuf rank exchange data with; 4 neighbors)
+0.671: (tag 1; dims; 2 4,4)[enabler=if create cartesian virtual topology]
+0.632: (LEFT 2; define outbuf; RIGHT 3 main int numtasks)[attrib=DOWN 1 define]
+0.607: (nbrs; RIGHT outbuf rank; exchange data)
+0.579: (C; be Language  ; Cartesian Virtual Topology Example 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54)
+0.542: (nbrs; RIGHT outbuf rank exchange data for; dest nbrs)
+0.524: (mpi h; include; stdio h neighbor ranks MPI_Cart_create MPI_Comm_rank MPI_Cart_coords MPI_Cart_shift MPI_Cart_shift printf d d d d n nbrs RIGHT outbuf rank exchange data with 4 neighbors for dest nbrs)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortran _ Cartesian Virtual Topology Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58      program cartesian     include  mpif h        integer SIZE, UP, DOWN, LEFT, RIGHT     parameter     parameter     parameter     parameter     parameter     integer numtasks, rank, source, dest, outbuf, i, tag, ierr,               inbuf, nbrs, dims, coords, periods, reorder     integer stats, reqs     integer cartcomm     required variable     data inbuf  MPI_PROC_NULL,MPI_PROC_NULL,MPI_PROC_NULL,MPI_PROC_NULL ,            dims  4,4 , tag  1 , periods  0,0 , reorder  0         call MPI_INIT     call MPI_COMM_SIZE         if then          create cartesian virtual topology, get rank, coordinates, neighbor ranks        call MPI_CART_CREATE MPI_COMM_WORLD, 2, dims, periods, reorder,                               cartcomm, ierr         call MPI_COMM_RANK        call MPI_CART_COORDS        call MPI_CART_SHIFT, nbrs, ierr         call MPI_CART_SHIFT, nbrs, ierr           writerank,coords,coords,nbrs,nbrs,                      nbrs,nbrs            exchange data with 4 neighbors        outbuf   rank        do i 1,4           dest   nbrs           source   nbrs           call MPI_ISEND outbuf, 1, MPI_INTEGER, dest, tag,                           MPI_COMM_WORLD, reqs, ierr            call MPI_IRECV, 1, MPI_INTEGER, source, tag,                           MPI_COMM_WORLD, reqs, ierr         enddo          call MPI_WAITALL          writerank,inbuf       else       print  ,  Must specify ,SIZE,  processors   Terminating        endif       call MPI_FINALIZE       20 format  rank   ,I3,  coords   ,I2,I2,                   neighbors   ,I3,I3,I3,I3       30 format  rank   ,I3,                   ,                   inbuf   ,I3,I3,I3,I3         end.
+0.757: (neighbors; ,I3,I3,I3,I3; 30 format rank ,I3)
+0.693: (periods; 0,0 reorder; 0 call MPI_INIT call MPI_COMM_SIZE)[enabler=if then create cartesian virtual topology , get rank , coordinates]
+0.674: (neighbor ranks; call; MPI_CART_CREATE MPI_COMM_WORLD)[enabler=ierr writerank ,coords ,coords ,nbrs ,nbrs]
+0.669: (writerank ,coords ,coords; ,nbrs; ,nbrs)
+0.592: (processors; Terminating endif call format; rank ,I3)
+0.589: (endif call; be Terminating format; rank ,I3)
+0.586: (1,4 dest nbrs source nbrs; call; MPI_ISEND outbuf , 1 , MPI_INTEGER , dest , tag , MPI_COMM_WORLD , reqs , ierr call MPI_IRECV , 1 , MPI_INTEGER , source , tag , MPI_COMM_WORLD , reqs , ierr)
+0.572: (call MPI_INIT; call; MPI_COMM_SIZE)
+0.497: (call MPI_COMM_RANK; call; MPI_CART_COORDS call MPI_CART_SHIFT)
+0.492: (mpif h integer SIZE; dims; 4,4)
+0.475: (call MPI_COMM_RANK call MPI_CART_COORDS; call; MPI_CART_SHIFT)
+0.451: (mpif h integer SIZE; dims 4,4 , tag 1 in; tag)
+0.34: (neighbor ranks; call MPI CART CREATE MPI COMM WORLD , 2 , dims , periods , reorder , cartcomm , ierr call MPI COMM RANK call MPI CART COORDS call MPI CART SHIFT , nbrs , ierr call MPI CART SHIFT , nbrs , Must specify; processors Terminating endif call MPI_FINALIZE 20 format rank ,I3)[enabler=ierr writerank ,coords ,coords ,nbrs ,nbrs]
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+rank    0 coords   0 0 neighbors   _1  4 _1  1  rank    0                  inbuf   _1  4 _1  1  rank    8 coords   2 0 neighbors    4 12 _1  9  rank    8                  inbuf    4 12 _1  9  rank    1 coords   0 1 neighbors   _1  5  0  2  rank    1                  inbuf   _1  5  0  2  rank   13 coords   3 1 neighbors    9 _1 12 14  rank   13                  inbuf    9 _1 12 14            rank    3 coords   0 3 neighbors   _1  7  2 _1  rank    3                  inbuf   _1  7  2 _1  rank   11 coords   2 3 neighbors    7 15 10 _1  rank   11                  inbuf    7 15 10 _1  rank   10 coords   2 2 neighbors    6 14  9 11  rank   10                  inbuf    6 14  9 11  rank    9 coords   2 1 neighbors    5 13  8 10  rank    9                  inbuf    5 13  8 10.
+0.793: (0 coords;  1; 4 _1 1 rank 0)
+0.585: (13 coords; 5 0 2 rank 13 coords 3 1 neighbors 9  1 12 14 rank 13 inbuf 9  1 12 14 rank 3 coords 0 3 neighbors  1 7 2  1; 7 2)
+0.585: (13 coords; 5 0 2 rank 13 coords 3 1 neighbors 9  1 12 14 rank 13 inbuf 9  1 12 14 rank 3 coords 0 3 neighbors  1 7 2  1; rank 3 inbuf)
+0.49: (13 coords; 5 0 2 rank 13 coords 3 1 neighbors 9  1 12 14 rank 13 inbuf 9  1 12 14 rank 3 coords 0 3 neighbors  1 7 2  1; rank 11 coords)
+0.488: (13 coords; 5 0 2 rank 13 coords 3 1 neighbors 9  1 12 14 rank 13 inbuf 9  1 12 14 rank 3 coords 0 3 neighbors  1; 7 2)
+0.469: (5 0 2 rank 1 inbuf; 5 0 2 rank 13 coords 3 1 neighbors 9  1 12 14 rank 13 inbuf 9  1 12 14 rank 3 coords 0 3 neighbors  1 7 2  1; 7 2)
+0.469: (5 0 2 rank 1 inbuf; 5 0 2 rank 13 coords 3 1 neighbors 9  1 12 14 rank 13 inbuf 9  1 12 14 rank 3 coords 0 3 neighbors  1 7 2  1; rank 3 inbuf)
+0.387: (0 coords;  1 4  1 1 rank 0 inbuf  1 4  1 1 rank 8 coords 2 0 neighbors 4 12  1 9 rank 8 inbuf 4 12  1 9 rank 1 coords 0 1 neighbors  1 5 0 2 rank 1 inbuf  1 5 0 2 rank 13 coords 3 1 neighbors 9  1 12 14 rank 13 inbuf 9  1 12 14 rank 3 coords 0 3 neighbors  1 7 2  1 rank 3 inbuf  1 7 2  1 rank 11 coords 2 3 neighbors 7 15 10  1 rank 11 inbuf 7 15 10  1 rank 10 coords 2 2 neighbors 6 14 9 11 rank 10 inbuf 6 14 9 11 rank 9 coords 2 1 neighbors 5 13 8 10 rank 9 inbuf 5 13 8 10 in; rank)
+0.375: (5 0 2 rank 1 inbuf; 5 0 2 rank 13 coords 3 1 neighbors 9  1 12 14 rank 13 inbuf 9  1 12 14 rank 3 coords 0 3 neighbors  1 7 2  1; rank 11 coords)
+0.373: (5 0 2 rank 1 inbuf; 5 0 2 rank 13 coords 3 1 neighbors 9  1 12 14 rank 13 inbuf 9  1 12 14 rank 3 coords 0 3 neighbors  1; 7 2)
+
+Login to the LC workshop cluster, if you are not already logged in.
+No extractions found.
+
+Following the Exercise 3 instructions will take you through all sorts of MPI programs _ pick any all that are of interest .
+0.875: (3 instructions; will take you through; all sorts of MPI programs)
+0.825: (you; will be take through; all sorts of MPI programs)
+0.783: (3 instructions; will take; you)
+
+The intention is review the codes and see what s happening _ not just compile and run .
+0.667: (The intention; is; review)
+
+Several codes provide serial examples for a comparison with the parallel MPI versions .
+0.793: (Several codes; provide; serial examples)
+
+Check out the  bug  programs .
+No extractions found.
+
+Author  Blaise Barney, Livermore Computing .
+No extractions found.
+
+MPI Standard documents  http   www mpi_forum org docs .
+0.709: (MPI Standard documents; http; www mpi_forum org docs)
+
+ Using MPI , Gropp, Lusk and Skjellum  MIT Press, 1994 .
+No extractions found.
+
+MPI Tutorials  www mcs anl gov research projects mpi tutorial.
+No extractions found.
+
+Livermore Computing specific information  Linux Clusters Overview tutorial computing llnl gov tutorials linux_clusters Using the Sequoia Vulcan BG Q Systems tutorial computing llnl gov tutorials bgq.
+No extractions found.
+
+ A User s Guide to MPI , Peter S  Pacheco  Department of Mathematics, University of San Francisco .
+0.74: (A User; s; Guide)
+0.256: (University of San Francisco; be Guide to; MPI)
+0.245: (Guide; be University of San Francisco to; MPI)
+
+Linux Clusters Overview tutorial computing llnl gov tutorials linux_clusters.
+No extractions found.
+
+Using the Sequoia Vulcan BG Q Systems tutorial computing llnl gov tutorials bgq.
+No extractions found.
+
+These man pages were derived from the MVAPICH 0 9 implementation of MPI and may differ from the man pages of other implementations .
+0.861: (These man pages; were derived may from; the MVAPICH 0 9 implementation of MPI)
+0.62: (MVAPICH; be 0 9 implementation of; MPI)
+
+Not all MPI routines are shown.
+No extractions found.
+
+    deprecated in MPI_2 0, replaced in MPI_3 0.
+0.852: (MPI_2 0,; replaced in; MPI_3)
+
+The complete MPI_3 standard defines over 430 routines  Environment Management Routines MPI_Abort MPI_Errhandler_create  MPI_Errhandler_free MPI_Errhandler_get  MPI_Errhandler_set  MPI_Error_class MPI_Error_string MPI_Finalize MPI_Get_processor_name MPI_Get_version MPI_Init MPI_Initialized MPI_Wtick MPI_Wtime     Point_to_Point Communication Routines MPI_Bsend MPI_Bsend_init MPI_Buffer_attach MPI_Buffer_detach MPI_Cancel MPI_Get_count MPI_Get_elements MPI_Ibsend MPI_Iprobe MPI_Irecv MPI_Irsend MPI_Isend MPI_Issend MPI_Probe MPI_Recv MPI_Recv_init MPI_Request_free MPI_Rsend MPI_Rsend_init MPI_Send MPI_Send_init MPI_Sendrecv MPI_Sendrecv_replace MPI_Ssend MPI_Ssend_init MPI_Start MPI_Startall MPI_Test MPI_Test_cancelled MPI_Testall MPI_Testany MPI_Testsome MPI_Wait MPI_Waitall MPI_Waitany MPI_Waitsome Collective Communication Routines MPI_Allgather MPI_Allgatherv MPI_Allreduce MPI_Alltoall MPI_Alltoallv MPI_Barrier MPI_Bcast MPI_Gather MPI_Gatherv MPI_Op_create MPI_Op_free MPI_Reduce MPI_Reduce_scatter MPI_Scan MPI_Scatter MPI_Scatterv Process Group Routines MPI_Group_compare MPI_Group_difference MPI_Group_excl MPI_Group_free MPI_Group_incl MPI_Group_intersection MPI_Group_range_excl MPI_Group_range_incl MPI_Group_rank MPI_Group_size MPI_Group_translate_ranks MPI_Group_union Communicators Routines MPI_Comm_compare MPI_Comm_create MPI_Comm_dup MPI_Comm_free MPI_Comm_group MPI_Comm_rank MPI_Comm_remote_group MPI_Comm_remote_size MPI_Comm_size MPI_Comm_split MPI_Comm_test_inter MPI_Intercomm_create MPI_Intercomm_merge       Derived Types Routines MPI_Type_commit MPI_Type_contiguous MPI_Type_extent  MPI_Type_free MPI_Type_hindexed  MPI_Type_hvector  MPI_Type_indexed MPI_Type_lb MPI_Type_size MPI_Type_struct  MPI_Type_ub  MPI_Type_vector Virtual Topology Routines MPI_Cart_coords MPI_Cart_create MPI_Cart_get MPI_Cart_map MPI_Cart_rank MPI_Cart_shift MPI_Cart_sub MPI_Cartdim_get MPI_Dims_create MPI_Graph_create MPI_Graph_get MPI_Graph_map MPI_Graph_neighbors MPI_Graph_neighbors_count MPI_Graphdims_get MPI_Topo_test Miscellaneous Routines MPI_Address  MPI_Attr_delete  MPI_Attr_get  MPI_Attr_put  MPI_Keyval_create  MPI_Keyval_free  MPI_Pack MPI_Pack_size MPI_Pcontrol MPI_Unpack    .
+No extractions found.
+
+Example.
+No extractions found.
+
+Task 0 pings task 1 and awaits return ping.
+No extractions found.
+
+.
+No extractions found.
+
+     C Language _ Blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35       include  mpi h       include  stdio h        main       int numtasks, rank, dest, source, rc, count, tag 1        char inmsg, outmsg  x       MPI_Status Stat       required variable for receive routines       MPI_Init      MPI_Comm_size      MPI_Comm_rank           task 0 sends to task 1 and waits to receive a return message     if         dest   1        source   1        MPI_Send        MPI_Recv                    task 1 waits for task 0 message then returns a message     else if         dest   0        source   0        MPI_Recv        MPI_Send                   query recieve Stat variable and print message details     MPI_Get_count      printffrom task  d with tag  d  n ,            rank, count, Stat MPI_SOURCE, Stat MPI_TAG         MPI_Finalize       .
+0.769: (outmsg x MPI_Status Stat; required; variable)
+0.73: (MPI_Comm_size MPI_Comm_rank task 0; sends to; task 1 and waits)
+0.507: (mpi h; include; stdio h main int numtasks outmsg x MPI_Status Stat required variable for receive routines MPI_Init MPI_Comm_size MPI_Comm_rank task 0 sends to task 1 and waits to receive a return message if dest 1 source 1 MPI_Send MPI_Recv task 1 waits for task 0 message then returns a message else if dest 0 source 0 MPI_Recv MPI_Send query recieve Stat variable and print message details MPI_Get_count printffrom task d with tag d n , rank , count , Stat MPI_SOURCE , Stat MPI_TAG MPI_Finalize)
+0.471: (MPI_Comm_size MPI_Comm_rank task 0; sends to receive; a return message)[enabler=if dest 1 source 1 MPI_Send MPI_Recv task 1 waits for task 0 message then returns a message else if dest 0 source 0 MPI_Recv MPI_Send query recieve Stat variable and print message details MPI_Get_count printffrom task d with tag d n , rank , count , Stat MPI_SOURCE , Stat MPI_TAG MPI_Finalize]
+0.113: (dest 1 source; waits then for; task 0 message)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+     Fortran _ Blocking Message Passing Example  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36      program ping     include  mpif h        integer numtasks, rank, dest, source, count, tag, ierr     integer stat    required variable for receive routines     character inmsg, outmsg     outmsg    x      tag   1       call MPI_INIT     call MPI_COMM_RANK     call MPI_COMM_SIZE         task 0 sends to task 1 and waits to receive a return message     if then        dest   1        source   1        call MPI_SEND        call MPI_RECV         task 1 waits for task 0 message then returns a message     else if then        dest   0        source   0        call MPI_RECV        call MPI_SEND     endif         query recieve Stat variable and print message details     call MPI_GET_COUNT     print  ,  Task  ,rank,   Received , count,  charfrom task ,                stat,  with tag ,stat       call MPI_FINALIZE       end.
+0.865: (outmsg x tag; sends to; task 1 and waits)
+0.702: (1 source; waits then for; task 0 message)
+0.679: (outmsg x tag; sends to receive; a return message)
+0.641: (print message details; call; MPI_GET_COUNT print)
+0.552: (Fortran _ Blocking Message Passing Example; include; mpif h integer numtasks)[enabler=if then dest 1 source 1 call MPI_SEND call MPI_RECV task 1 waits for task 0 message then returns a message else if then dest 0 source 0 call MPI_RECV call MPI_SEND endif query recieve Stat variable and print message details call MPI_GET_COUNT print , Task ,rank , Received , count , charfrom task , stat , with tag ,stat call MPI_FINALIZE end]
+0.482: (Stat; call; MPI_GET_COUNT print)
+0.418: (call MPI_RECV; call; MPI_SEND)
+
+How is Message Passing used in OOPs concept of C   .
+0.834: (Message Passing; be used in; OOPs concept of C)
+

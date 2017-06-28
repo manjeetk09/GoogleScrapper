@@ -1,29 +1,20 @@
-A hash function is any function that can be used to map data of arbitrary size to data of fixed size.
-0.752: (A hash function; is; any function that can be used to map data of arbitrary size to data of fixed size)
+A universal hashing scheme is a randomized algorithm that selects a hashing function h among a family of such functions, in such a way that the probability of a collision of any two distinct keys is 1 n, where n is the number of distinct hash values desired independently of the two keys.
+0.816: (n; is the number of; distinct hash values)
+0.802: (A universal hashing scheme; is; a randomized algorithm that selects a hashing function h among a family of such functions , in such a way that the probability of a collision of any two distinct keys is 1 n , where n is the number of distinct hash values desired independently of the two keys)
+0.539: (n; is; the number of distinct hash values)
+0.536: (the probability of a collision of any two distinct keys; is; 1 n)
+0.292: (1 n; be the probability of; a collision of any two distinct keys)
 
- The values returned by a hash function are called hash values, hash codes, digests, or simply hashes.
-0.9: (The values returned by a hash function; are called hash; values)
-0.763: (The values; be returned by; a hash function)
+ Universal hashing ensures that the hash function application will behave as well as if it were using a random function, for any distribution of the input data.
+0.822: (Universal; hashing; ensures)
+0.773: (the hash function application; will behave as well as for; any distribution of the input data)[enabler=if it were using a random function]
+0.046: (it; were using; a random function)
 
- One use is a data structure called a hash table, widely used in computer software for rapid data lookup.
-0.817: (a hash table; be widely used in; computer software)
-0.793: (a hash table; be widely used for; rapid data lookup)
-0.667: (One use; is; a data structure)
+ It will, however, have more collisions than perfect hashing and may require more operations than a special_purpose hash function.
+0.618: (It; will however have may; collisions)
+0.471: (It; will may require; more operations)
 
- Hash functions accelerate table or database lookup by detecting duplicated records in a large file.
-0.661: (duplicated records; be detecting in; a large file)
-
- An example is finding similar stretches in DNA sequences.
-0.692: (An example; is finding; similar stretches)
-
- They are also useful in cryptography.
-0.873: (They; are also useful in; cryptography)
-
- A cryptographic hash function allows one to easily verify that some input data maps to a given hash value, but if the input data is unknown, it is deliberately difficult to reconstruct it by knowing the stored hash value.
-0.685: (it; is deliberately; difficult)
-0.093: (the input data; is; unknown)
-
- This is used for assuring integrity of transmitted data, and is the building block for HMACs, which provide message authentication.
+ See also unique permutation hashing.
 No extractions found.
 
 v.
@@ -72,32 +63,23 @@ A hash table is a collection of items which are stored in such a way as to make 
  In other words, there are m slots in the table, named 0 through 10.
 0.625: (m slots named 0 through 10; are in; other words)
 
-A hash function is any function that can be used to map data of arbitrary size to data of fixed size.
-0.752: (A hash function; is; any function that can be used to map data of arbitrary size to data of fixed size)
+A universal hashing scheme is a randomized algorithm that selects a hashing function h among a family of such functions, in such a way that the probability of a collision of any two distinct keys is 1 n, where n is the number of distinct hash values desired independently of the two keys.
+0.816: (n; is the number of; distinct hash values)
+0.802: (A universal hashing scheme; is; a randomized algorithm that selects a hashing function h among a family of such functions , in such a way that the probability of a collision of any two distinct keys is 1 n , where n is the number of distinct hash values desired independently of the two keys)
+0.539: (n; is; the number of distinct hash values)
+0.536: (the probability of a collision of any two distinct keys; is; 1 n)
+0.292: (1 n; be the probability of; a collision of any two distinct keys)
 
- The values returned by a hash function are called hash values, hash codes, digests, or simply hashes.
-0.9: (The values returned by a hash function; are called hash; values)
-0.763: (The values; be returned by; a hash function)
+ Universal hashing ensures that the hash function application will behave as well as if it were using a random function, for any distribution of the input data.
+0.822: (Universal; hashing; ensures)
+0.773: (the hash function application; will behave as well as for; any distribution of the input data)[enabler=if it were using a random function]
+0.046: (it; were using; a random function)
 
- One use is a data structure called a hash table, widely used in computer software for rapid data lookup.
-0.817: (a hash table; be widely used in; computer software)
-0.793: (a hash table; be widely used for; rapid data lookup)
-0.667: (One use; is; a data structure)
+ It will, however, have more collisions than perfect hashing and may require more operations than a special_purpose hash function.
+0.618: (It; will however have may; collisions)
+0.471: (It; will may require; more operations)
 
- Hash functions accelerate table or database lookup by detecting duplicated records in a large file.
-0.661: (duplicated records; be detecting in; a large file)
-
- An example is finding similar stretches in DNA sequences.
-0.692: (An example; is finding; similar stretches)
-
- They are also useful in cryptography.
-0.873: (They; are also useful in; cryptography)
-
- A cryptographic hash function allows one to easily verify that some input data maps to a given hash value, but if the input data is unknown, it is deliberately difficult to reconstruct it by knowing the stored hash value.
-0.685: (it; is deliberately; difficult)
-0.093: (the input data; is; unknown)
-
- This is used for assuring integrity of transmitted data, and is the building block for HMACs, which provide message authentication.
+ See also unique permutation hashing.
 No extractions found.
 
 v.
@@ -146,4 +128,29 @@ For doing  normal  hash table lookups on basically any kind of data _ this one b
 0.771: (normal hash table lookups; be doing on; any kind of data)
 0.707: (normal hash table lookups; be doing  ; one)
 0.416: (normal hash table lookups; be doing by; Paul Hsieh)
+
+I know there are things like SHA_256 and such, but these algorithms are designed to be secure, which usually means they are slower than algorithms that are less unique.
+0.863: (they; are slower than; algorithms that are less unique)
+0.705: (these algorithms; are designed; secure)
+
+ I want a hash algorithm designed to be fast, yet remain fairly unique to avoid collisions.
+0.548: (I; want yet; a hash algorithm designed to be fast)
+
+The other subjective measure is how randomly distributed the hashes are.
+No extractions found.
+
+ Mapping the resulting HashTables shows how evenly the data is distributed.
+No extractions found.
+
+ All the hash functions show good distribution when mapping the table linearly.
+0.66: (the hash functions; show; good distribution)
+
+Choosing a good hashing function, h, is essential for hash_table based searching.
+No extractions found.
+
+ h should distribute the elements of our collection as uniformly as possible to the  slots  of the hash table.
+0.666: (h; should distribute; the elements of our collection)
+
+ The key criterion is that there should be a minimum number of collisions.
+No extractions found.
 

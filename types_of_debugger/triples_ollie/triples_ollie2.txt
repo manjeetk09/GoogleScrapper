@@ -1,0 +1,329 @@
+Using print statements for debugging a program is often not adequate or convenient.
+No extractions found.
+
+ For example, the programmer may want to change the values of certain variables after observing the execution of the program till some point.
+0.846: (the programmer; may want to change; the values of certain variables)
+0.83: (the programmer; to change; the values of certain variables)
+0.674: (the execution of the program; be observing till; some point)
+0.287: (the programmer; may want for; example)
+
+ For a large program it may be difficult to go back to the source program, make the necessary changes and rerun the program.
+0.734: (it; may be; difficult)
+0.513: (it; may be difficult for; a large program)
+0.419: (it; may rerun; the program)
+0.343: (it; may make; the necessary changes)
+
+ Again, if such print statements are placed inside loops, it will produce output everytime the loop is executed though the programmer may be interested in only certain iterations of the loop.
+0.903: (the programmer; may be interested in; certain iterations of the loop)
+0.398: (it; Again will produce; output)
+0.315: (such print statements; are placed inside; loops)
+
+ To overcome several such drawbacks of debugging by inserting extra statements in the program, there are a kind of tool called debugger that helps in debugging programs by giving the programmer some control over the execution of the program and some means of examining and modifying different program variables during runtime.
+0.84: (a kind of tool called debugger; helps in; debugging programs)
+0.674: (different program variables; be examining during; runtime)
+0.622: (extra statements; be inserting in; the program)
+
+A debugger or debugging tool is a computer program that is used to test and debug other programs .
+0.802: (A debugger or debugging tool; is; a computer program that is used to test and debug other programs)
+
+ The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered, but which will typically be somewhat slower than executing the code directly on the appropriate processor.
+0.517: (the code; be executing directly on; the appropriate processor)
+0.491: (great power; be allows by; a technique)
+
+ Some debuggers offer two modes of operation, full or partial simulation, to limit this impact.
+0.841: (Some debuggers; offer; two modes of operation to limit this impact)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Some debuggers include a feature called  reverse debugging , also known as  historical debugging  or  backwards debugging .
+0.841: (Some debuggers; include; a feature called reverse debugging also known as historical debugging or backwards debugging)
+0.793: (a feature called reverse debugging; be also known as; historical debugging or backwards debugging)
+
+ These debuggers make it possible to step a program s execution backwards in time.
+0.626: (it; to step; a program)
+
+ Various debuggers include this feature.
+0.767: (Various debuggers; include; this feature)
+
+ Microsoft Visual Studio offers IntelliTrace reverse debugging for C , Visual Basic .
+0.789: (IntelliTrace; reverse; Visual Basic)
+0.557: (IntelliTrace; reverse Visual Basic debugging for; C)
+
+NET, and some other languages, but not C  .
+No extractions found.
+
+ Reverse debuggers also exist for C, C  , Java, Python, Perl, and other languages.
+0.821: (Reverse debuggers; also exist for; C , C , Java , Python , Perl , and other languages)
+
+ Some are open source  some are proprietary commercial software.
+No extractions found.
+
+ Some reverse debuggers slow down the target by orders of magnitude, but the best reverse debuggers cause a slowdown of 2  or less.
+0.774: (the best reverse debuggers; cause; a slowdown of 2)
+
+ Reverse debugging is very useful for certain types of problems, but is still not commonly used yet.
+0.845: (Reverse debugging; is very useful for; certain types of problems)
+0.788: (Reverse debugging; is very; useful)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Most modern microprocessors have at least one of these features in their CPU design to make debugging easier.
+0.842: (Most modern microprocessors; have; one of these features)
+0.803: (Most modern microprocessors; have at least one of these features in; their CPU design)
+
+ Hardware support for single_stepping a program, such as the trap flag.
+No extractions found.
+
+ An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under debugger control.
+0.843: (such a CPU; can execute the inner loops of the program under; test)
+0.838: (such a CPU; can execute; the inner loops of the program)
+0.787: (debugger software; runs on; the same CPU)
+0.77: (debugger software; runs as; the software being debugged such a CPU can execute the inner loops of the program under test at full speed)
+0.744: (such a CPU; can execute the inner loops of the program at; full speed)
+0.735: (the inner loops of the program; can be execute under; test)
+0.668: (it; to write; debugger software that runs on the same CPU as the software)
+0.658: (the inner loops of the program; can be execute at; full speed)
+0.585: (the Popek and Goldberg virtualization requirements; be meets by; An instruction set)
+0.387: (it; to still remain under; debugger control)
+
+ In_system programming allows an external hardware debugger to reprogram a system under test .
+0.853: (In_system programming; allows; an external hardware debugger to reprogram a system under test)
+0.704: (a system; to be reprogram under; test)
+
+ Many systems with such ISP support also have other hardware debug support.
+0.767: (Many systems; also have; other hardware debug support)
+
+ Hardware support for code and data breakpoints, such as address comparators and data value comparators or, with considerably more work involved, page fault hardware.
+No extractions found.
+
+ 5 .
+No extractions found.
+
+ JTAG access to hardware debug interfaces such as those on ARM architecture processors or using the Nexus command set.
+No extractions found.
+
+ Processors used in embedded systems typically have extensive JTAG debug support.
+0.767: (Processors used in embedded systems; typically have; extensive JTAG debug support)
+0.763: (Processors; be used in; embedded systems)
+
+ Micro controllers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or debugWIRE on the Atmel AVR.
+0.693: (six pins; need to use; low pin_count substitutes)
+0.619: (low pin_count substitutes; to be use for; JTAG)
+0.508: (six pins; need to use low pin count substitutes for; JTAG)
+
+ DebugWIRE, for example, uses bidirectional signaling on the RESET pin.
+0.891: (DebugWIRE; uses bidirectional signaling on; the RESET pin)
+0.854: (DebugWIRE; uses; bidirectional signaling)
+0.572: (DebugWIRE; uses bidirectional signaling for; example)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+Debugging, in computer programming and engineering, is a multistep process that involves identifying a problem, isolating the source of the problem, and then either correcting the problem or determining a way to work around it.
+No extractions found.
+
+ The final step of debugging is to test the correction or workaround and make sure it works.
+0.74: (The final step of debugging; is to test; the correction or workaround)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+ .
+No extractions found.
+
+ .
+No extractions found.
+
+The debugger is a program that can run your program one line at a time.
+0.772: (your program one line; can be run at; a time)
+0.699: (The debugger; is; a program that can run your program one line at a time)
+
+ Thus the debugger can show you exactly how the computer sees your code.
+0.646: (the computer; sees; your code)
+0.603: (the debugger; Thus can show; you)
+
+In GDB to  remove  a breakpoint, type  del   , where   is the number of the breakpoint.
+0.527: (a breakpoint where is the number of the breakpoint; to be remove in; GDB)
+
+ Type  break  to list all the breakpoints.
+0.694: (Type; break to list; the breakpoints)
+
+These two types of debugging provide you with some very technical information.
+0.83: (These two types of debugging; provide you with; some very technical information)
+0.734: (These two types of debugging; provide; you)
+
+ You can use it to do an online search for a possible solution or cause to the problem, or to provide additional information to our Customer Support when opening a ticket.
+0.854: (You; can use it to do; an online search)
+0.814: (You; can use; it)
+0.794: (You; to do; an online search)
+0.509: (additional information; to provide to be; our Customer Support)[enabler=when opening a ticket]
+
+This produces a file error_log.
+No extractions found.
+
+txt in your WordPress root directory.
+No extractions found.
+
+ Make sure that the web server can create and write this file.
+0.591: (the web server; can write; this file)
+
+ If it cannot, use an FTP program to create the file and make it writable to Apache .
+0.502: (it; be writable to; Apache)
+
+This enables the WordPress native debug system and displays all PHP errors, notices and warnings.
+No extractions found.
+
+ You can read more information about Debugging in WordPress here.
+0.854: (You; can read; more information)
+
+A debugger or debugging tool is a computer program that is used to test and debug other programs .
+0.802: (A debugger or debugging tool; is; a computer program that is used to test and debug other programs)
+
+ The code to be examined might alternatively be running on an instruction set simulator , a technique that allows great power in its ability to halt when specific conditions are encountered but which will typically be somewhat slower than executing the code directly on the appropriate processor.
+0.635: (The code; to be examined; a technique that allows great power in its ability)
+0.517: (the code; be executing directly on; the appropriate processor)
+0.491: (great power; be allows by; a technique)
+
+ Some debuggers offer two modes of operation _ full or partial simulation, to limit this impact.
+0.841: (Some debuggers; offer; two modes of operation to limit this impact)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Most modern microprocessors have at least one of these features in their CPU design to make debugging easier.
+0.842: (Most modern microprocessors; have; one of these features)
+0.803: (Most modern microprocessors; have at least one of these features in; their CPU design)
+
+ hardware support for single_stepping a program, such as the trap flag.
+No extractions found.
+
+ An instruction set that meets the Popek and Goldberg virtualization requirements makes it easier to write debugger software that runs on the same CPU as the software being debugged  such a CPU can execute the inner loops of the program under test at full speed, and still remain under the control of the debugger.
+0.843: (such a CPU; can execute the inner loops of the program under; test)
+0.838: (such a CPU; can execute; the inner loops of the program)
+0.787: (debugger software; runs on; the same CPU)
+0.77: (debugger software; runs as; the software being debugged such a CPU can execute the inner loops of the program under test at full speed)
+0.744: (such a CPU; can execute the inner loops of the program at; full speed)
+0.735: (the inner loops of the program; can be execute under; test)
+0.668: (it; to write; debugger software that runs on the same CPU as the software)
+0.658: (the inner loops of the program; can be execute at; full speed)
+0.585: (the Popek and Goldberg virtualization requirements; be meets by; An instruction set)
+0.468: (it; to still remain under; the control of the debugger)
+
+ In_System Programming allows an external hardware debugger to re_program a system under test .
+0.853: (In_System Programming; allows; an external hardware debugger to re_program a system under test)
+0.704: (a system; to be re program under; test)
+
+ Many systems with such ISP support also have other hardware debug support.
+0.767: (Many systems; also have; other hardware debug support)
+
+ Hardware support for code and data breakpoints, such as address comparators and data value comparators or, with considerably more work involved, page fault hardware.
+No extractions found.
+
+ JTAG access to hardware debug interfaces such as those on ARM architecture processors or using the Nexus command set.
+No extractions found.
+
+ Processors used in embedded systems typically have extensive JTAG debug support.
+0.767: (Processors used in embedded systems; typically have; extensive JTAG debug support)
+0.763: (Processors; be used in; embedded systems)
+
+ Microcontrollers with as few as six pins need to use low pin_count substitutes for JTAG, such as BDM, Spy_Bi_Wire, or DebugWire on the Atmel AVR.
+0.693: (six pins; need to use; low pin_count substitutes)
+0.619: (low pin_count substitutes; to be use for; JTAG)
+0.535: (low pin_count substitutes; to be use on; the Atmel AVR)
+0.508: (six pins; need to use low pin count substitutes for; JTAG)
+0.422: (six pins; need to use low pin count substitutes on; the Atmel AVR)
+
+ DebugWire, for example, uses bidirectional signaling on the RESET pin.
+0.881: (DebugWire; uses bidirectional signaling on; the RESET pin)
+0.841: (DebugWire; uses; bidirectional signaling)
+0.548: (DebugWire; uses bidirectional signaling for; example)
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Debugging is the art of diagnosing errors in programs and determining how to correct them.
+0.745: (Debugging; is; the art diagnosing errors in programs and determining how to correct them)
+
+  Bugs  come in a variety of forms, including.
+0.752: (Bugs; come in; a variety of forms)
+
+ coding errors, design errors, complex interactions, poor user interface designs, and system failures.
+No extractions found.
+
+ Learning how to debug a program effectively, then, requires that you learn how to identify which sort of problem you re looking at, and apply the appropriate techniques to eliminate the problem.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Learning and propagating various debugging techniques reduces bug count during development and increases code quality.
+No extractions found.
+
+ Try having your more experienced engineers create a short course on techniques and having the younger engineers learn from them.
+No extractions found.
+

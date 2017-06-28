@@ -1,0 +1,58 @@
+1;Some widely used debuggers are.
+1; Firefox JavaScript debugger.
+1; GDB _ the GNU debugger.
+1; LLDB.
+1; Microsoft Visual Studio Debugger.
+1; Valgrind.
+1; WinDbg.
+1; Eclipse debugger API used in a range of IDEs.
+1; Eclipse IDE Nodeclipse .
+1; WDW, the OpenWatcom debugger.
+1;.
+1;.
+0;These two types of debugging provide you with some very technical information.
+0; You can use it to do an online search for a possible solution or cause to the problem, or to provide additional information to our Customer Support when opening a ticket.
+0;Some widely used debuggers are.
+0; Firefox JavaScript debugger.
+0; GDB _ the GNU debugger.
+0; LLDB.
+0; Microsoft Visual Studio Debugger.
+0; Valgrind.
+0; WinDbg.
+0; Eclipse debugger API used in a range of IDEs.
+0; Eclipse IDE Nodeclipse .
+0; WDW, the OpenWatcom debugger.
+0;.
+0;.
+0;Debugging is the process of finding and resolving of defects that prevent correct operation of computer software or a system.
+0;v.
+0;t.
+0;e.
+0;.
+0;.
+0;In certain situations, general purpose software tools that are language specific in nature can be very useful.
+0; These take the form of static code analysis tools.
+0; These tools look for a very specific set of known problems, some common and some rare, within the source code.
+0; All such issues detected by these tools would rarely be picked up by a compiler or interpreter, thus they are not syntax checkers, but more semantic checkers.
+0; Some tools claim to be able to detect 300  unique problems.
+0; Both commercial and free tools exist in various languages.
+0; These tools can be extremely useful when checking very large source trees, where it is impractical to do code walkthroughs.
+0; A typical example of a problem detected would be a variable dereference that occurs before the variable is assigned a value.
+0; Another example would be to perform strong type checking when the language does not require such.
+0; Thus, they are better at locating likely errors, versus actual errors.
+0; As a result, these tools have a reputation of false positives.
+0; The old Unix lint program is an early example.
+0;.
+0;.
+0;.
+0;.
+0;.
+0;.
+0; .
+0; .
+0;.
+0;.
+0;.
+0;.
+0; .
+0; .

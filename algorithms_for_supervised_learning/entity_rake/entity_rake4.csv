@@ -1,0 +1,91 @@
+5;https://en.wikipedia.org/wiki/Quantum_machine_learning;quantum physics;2.25;0.038461538461538464;3.0;0
+5;https://en.wikipedia.org/wiki/Quantum_machine_learning;quantum machine learning;2.5;0.038461538461538464;1.5;0
+5;https://en.wikipedia.org/wiki/Quantum_machine_learning;intersection;1.0;0.0;3.0;0
+5;https://en.wikipedia.org/wiki/Quantum_machine_learning;machine learning;2.5;0.11538461538461539;1.0;0
+6;https://en.wikipedia.org/wiki/Quantum_machine_learning;distinguish;1.0;0.0;3.0;0
+6;https://en.wikipedia.org/wiki/Quantum_machine_learning;ways;1.0;0.038461538461538464;3.0;0
+6;https://en.wikipedia.org/wiki/Quantum_machine_learning;merging;1.0;0.038461538461538464;3.0;0
+6;https://en.wikipedia.org/wiki/Quantum_machine_learning;parent disciplines;2.0;0.038461538461538464;3.0;0
+7;https://en.wikipedia.org/wiki/Quantum_machine_learning;expensive classical algorithms;3.0;0.038461538461538464;3.0;0
+7;https://en.wikipedia.org/wiki/Quantum_machine_learning;quantum computation;2.0;0.038461538461538464;3.0;0
+7;https://en.wikipedia.org/wiki/Quantum_machine_learning;machine learning;2.0;0.11538461538461539;1.0;0
+7;https://en.wikipedia.org/wiki/Quantum_machine_learning;quantum computer;2.0;0.038461538461538464;3.0;0
+7;https://en.wikipedia.org/wiki/Quantum_machine_learning;advantages;1.0;0.038461538461538464;3.0;0
+7;https://en.wikipedia.org/wiki/Quantum_machine_learning;developing efficient implementations;3.0;0.038461538461538464;3.0;0
+7;https://en.wikipedia.org/wiki/Quantum_machine_learning;improve classical methods;3.0;0.038461538461538464;3.0;0
+7;https://en.wikipedia.org/wiki/Quantum_machine_learning;order;1.0;0.038461538461538464;3.0;0
+8;https://en.wikipedia.org/wiki/Quantum_machine_learning;machine learning;2.0;0.11538461538461539;1.0;0
+8;https://en.wikipedia.org/wiki/Quantum_machine_learning;analyse quantum systems;3.0;0.038461538461538464;3.0;0
+8;https://en.wikipedia.org/wiki/Quantum_machine_learning;apply classical methods;3.0;0.038461538461538464;3.0;0
+8;https://en.wikipedia.org/wiki/Quantum_machine_learning;hand;1.0;0.038461538461538464;3.0;0
+9;https://en.wikipedia.org/wiki/Quantum_machine_learning;situations;1.0;0.038461538461538464;3.0;0
+9;https://en.wikipedia.org/wiki/Quantum_machine_learning;study;1.0;0.038461538461538464;3.0;0
+9;https://en.wikipedia.org/wiki/Quantum_machine_learning;generally;1.0;0.038461538461538464;3.0;0
+9;https://en.wikipedia.org/wiki/Quantum_machine_learning;system;1.0;0.038461538461538464;3.0;0
+9;https://en.wikipedia.org/wiki/Quantum_machine_learning;fully quantum;2.0;0.038461538461538464;3.0;0
+9;https://en.wikipedia.org/wiki/Quantum_machine_learning;learning device;2.0;0.038461538461538464;3.0;0
+26;http://peterwittek.com/book.html;quantum machine learning;3.0;0.06666666666666667;1.5;0
+27;http://peterwittek.com/book.html;data mining explains;3.0;0.06666666666666667;3.0;0
+27;http://peterwittek.com/book.html;relevant concepts;2.0;0.06666666666666667;3.0;0
+27;http://peterwittek.com/book.html;quantum computing means;2.8333333333333335;0.06666666666666667;3.0;0
+27;http://peterwittek.com/book.html;quantum mechanics;2.25;0.06666666666666667;1.5;0
+27;http://peterwittek.com/book.html;quantum counterparts;2.25;0.06666666666666667;3.0;0
+27;http://peterwittek.com/book.html;machine learning;2.0;0.06666666666666667;0.6;0
+27;http://peterwittek.com/book.html;quantum information theory;2.8333333333333335;0.06666666666666667;3.0;0
+29;http://peterwittek.com/book.html;lloyd;1.0;0.0;3.0;0
+30;http://peterwittek.com/book.html;mohseni;1.0;0.0;3.0;0
+31;http://peterwittek.com/book.html;rebentrost;1.0;0.0;3.0;0
+31;http://peterwittek.com/book.html;arxiv;1.0;0.0;3.0;0
+31;http://peterwittek.com/book.html;unsupervised machine learning;3.0;0.06666666666666667;1.5;0
+31;http://peterwittek.com/book.html;supervised;1.0;0.06666666666666667;1.5;0
+31;http://peterwittek.com/book.html;quantum algorithms;2.0;0.06666666666666667;1.5;0
+34;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;python;1.0;0.08;3.0;0
+34;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;keras july 21;1.3333333333333333;0.02;3.0;0
+34;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;time series prediction;3.0;0.02;3.0;0
+35;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;machine learning project;3.0;0.02;3.0;0
+36;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;python;1.0;0.08;3.0;0
+36;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;keras step_by_step;2.0;0.02;3.0;0
+36;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;develop;1.0;0.02;3.0;0
+36;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;neural network;2.0;0.02;3.0;0
+37;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;python;1.0;0.08;3.0;0
+37;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;sequence classification;2.0;0.02;3.0;0
+37;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;keras july 26;1.3333333333333333;0.02;3.0;0
+38;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;multi_class classification tutorial;3.0;0.02;3.0;0
+39;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;run;1.0;0.02;3.0;0
+39;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;classifier;1.0;0.02;3.0;0
+39;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;weka february 17;1.3333333333333333;0.02;3.0;0
+40;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;regression tutorial;2.0;0.02;3.0;0
+40;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;python june 9;1.3333333333333333;0.02;3.0;0
+41;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;tour;1.0;0.02;3.0;0
+42;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;python;1.0;0.08;3.0;0
+42;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;scratch september 12;1.3333333333333333;0.02;3.0;0
+42;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;implement k_nearest neighbors;3.0;0.02;3.0;0
+42;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;tutorial;1.0;0.02;3.0;0
+43;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;scratch;1.0;0.02;3.0;0
+43;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;implement;1.0;0.02;3.0;0
+43;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;python november 7;1.3333333333333333;0.02;3.0;0
+43;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;backpropagation algorithm;2.0;0.02;3.0;0
+44;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;quantum computing;2.0;0.02;3.0;0
+44;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;jump;1.0;0.0;3.0;0
+44;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;tech talk;2.0;0.02;3.0;0
+44;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;mind;1.0;0.02;3.0;0
+45;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;seth lloyd;2.0;0.02;3.0;0
+45;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;mit;1.0;0.0;3.0;0
+45;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;talk;1.0;0.02;3.0;0
+46;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;fundamentally;1.0;0.0;3.0;0
+46;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;fields;1.0;0.02;3.0;0
+46;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;vectors;1.0;0.02;3.0;0
+46;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;manipulating large numbers;3.0;0.02;3.0;0
+46;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;patrick rebentrost;2.0;0.02;3.0;0
+46;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;quantum mechanics;2.0;0.02;1.5;0
+46;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;machine learning;2.0;0.02;0.6;0
+46;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;bringing;1.0;0.02;3.0;0
+46;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;notion;1.0;0.02;3.0;0
+46;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;high dimensional spaces;3.0;0.02;3.0;0
+47;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;ideas;1.0;0.02;3.0;0
+47;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;big feature;2.25;0.02;3.0;0
+47;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;big data classification;2.8333333333333335;0.02;3.0;0
+47;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;key paper;2.0;0.02;3.0;0
+47;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;unsupervised machine learning;3.0;0.02;1.5;0
+47;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;supervised;1.0;0.02;1.5;0
+47;http://machinelearningmastery.com/machine-learning-with-quantum-computers/;quantum algorithms;2.0;0.02;1.5;0

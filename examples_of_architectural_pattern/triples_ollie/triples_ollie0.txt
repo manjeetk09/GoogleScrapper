@@ -1,0 +1,270 @@
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Some additional examples of architectural patterns.
+No extractions found.
+
+ Blackboard system.
+No extractions found.
+
+ Broker pattern.
+No extractions found.
+
+ Event_driven architecture.
+No extractions found.
+
+ Implicit invocation.
+No extractions found.
+
+ Layers.
+No extractions found.
+
+ Microservices.
+No extractions found.
+
+ Model_view_controller, Presentation_abstraction_control, Model_view_presenter, and Model_view_viewmodel.
+No extractions found.
+
+ Multitier architecture .
+No extractions found.
+
+ Naked objects.
+No extractions found.
+
+ Operational Data Store .
+No extractions found.
+
+ Peer_to_peer.
+No extractions found.
+
+ Pipe and filter architecture.
+No extractions found.
+
+ Service_oriented architecture.
+No extractions found.
+
+v.
+No extractions found.
+
+t.
+No extractions found.
+
+e.
+No extractions found.
+
+.
+No extractions found.
+
+.
+No extractions found.
+
+Several different formats are used in the literature for describing patterns, and no single format has achieved widespread acceptance.
+0.876: (Several different formats; are used has in; the literature)
+0.759: (no single format; has achieved; widespread acceptance)
+
+ However, there is broad agreement on the types of things that a pattern should contain.
+No extractions found.
+
+ The headings which follow are taken from Pattern_Oriented Software Architecture.
+0.907: (The headings which follow; are taken from; Pattern_Oriented Software Architecture)
+
+ A System of Patterns, by F.
+No extractions found.
+
+ Buschmann, R.
+No extractions found.
+
+ Meunier, H.
+No extractions found.
+
+ Rohnert, P.
+No extractions found.
+
+Sommerlad, and M.
+No extractions found.
+
+ Stal, John Wiley and Sons, 1996, ISBN 0_471_95869_7.
+No extractions found.
+
+ The elements described below will be found in most patterns, even if different headings are used to describe them.
+0.103: (different headings; to describe; them)
+
+ Name.
+No extractions found.
+
+ A meaningful and memorable way to refer to the pattern, typically a single word or short phrase.
+No extractions found.
+
+ Problem.
+No extractions found.
+
+   A description of the problem indicating the intent in applying the pattern _ the intended goals and objectives to be reached within the context and forces described below   .
+0.787: (the intended goals and objectives; to be reached within; the context and forces described below)
+0.684: (the pattern; be applying  ; the intended goals and objectives to be reached within the context and forces described below)
+
+ Context.
+No extractions found.
+
+   The pre_conditions under which the pattern is applicable _ a description of the initial state before the pattern is applied.
+0.802: (the pattern; is applicable  ; a description of the initial state)
+0.735: (the pattern; is; applicable)
+
+ Forces.
+No extractions found.
+
+ A description of the relevant forces and constraints, and how they interact conflict with each other and with the intended goals and objectives.
+0.907: (they; interact conflict with; each other and with the intended goals and objectives)
+0.846: (they; interact; conflict)
+0.83: (conflict; be interact with; each other and with the intended goals and objectives)
+0.748: (they; be A description of; the relevant forces and constraints)
+
+ The description should clarify the intricacies of the problem and make explicit the kinds of trade_offs that must be considered.
+0.799: (The description; should clarify; the intricacies of the problem)
+
+  The need for such trade_offs is typically what makes the problem difficult, and generates the need for the pattern, in the first place.
+No extractions found.
+
+  The notion of  forces  equates in many ways to the  qualities  that architects seek to optimize, and the concerns they seek to address, in designing architectures.
+0.292: (many; be ways to; the qualities)
+
+ For example.
+No extractions found.
+
+ Security, robustness, reliability, fault_tolerance Manageability Efficiency, performance, throughout, bandwidth requirements, space utilization Scalability Extensibility, evolvability, maintainability Modularity, independence, reusability, openness, composability , portability Completeness and correctness Ease of construction Ease of use .
+0.415: (evolvability; be space utilization Scalability Extensibility of; construction Ease)
+0.257: (evolvability; be space utilization Scalability Extensibility , evolvability , maintainability Modularity , independence , reusability , openness , composability , portability Completeness and correctness Ease of construction Ease of; use)
+
+ etc.
+No extractions found.
+
+ Solution.
+No extractions found.
+
+ A description, using text and or graphics, of how to achieve the intended goals and objectives.
+No extractions found.
+
+ The description should identify both the solution s static structure and its dynamic behavior _ the people and computing actors, and their collaborations.
+0.661: (the solution; be static structure  ; the people and computing actors)[attrib=The description should identify]
+
+ The description may include guidelines for implementing the solution.
+0.808: (The description; may include; guidelines)
+
+ Variants or specializations of the solution may also be described.
+No extractions found.
+
+ Resulting Context.
+No extractions found.
+
+ The post_conditions after the pattern has been applied.
+No extractions found.
+
+ Implementing the solution normally requires trade_offs among competing forces.
+No extractions found.
+
+ This element describes which forces have been resolved and how, and which remain unresolved.
+No extractions found.
+
+ It may also indicate other patterns that may be applicable in the new context.
+0.783: (It; may also indicate; other patterns that may be applicable in the new context)
+
+  A pattern may be one step in accomplishing some larger goal.
+0.788: (A pattern; may be; one step)
+
+  Any such other patterns will be described in detail under Related Patterns.
+0.929: (Any such other patterns; will be described in; detail)
+0.892: (Any such other patterns; will be described under; Related Patterns)
+
+ Examples.
+No extractions found.
+
+ One or more sample applications of the pattern which illustrate each of the other elements.
+No extractions found.
+
+ a specific problem, context, and set of forces  how the pattern is applied  and the resulting context.
+No extractions found.
+
+ Rationale.
+No extractions found.
+
+ An explanation   justification of the pattern as a whole, or of individual components within it, indicating how the pattern actually works, and why _ how it resolves the forces to achieve the desired goals and objectives, and why this is  good .
+0.756: (it; resolves; the forces)
+0.678: (it; resolves the forces to achieve; the desired goals and objectives)
+
+ The Solution element of a pattern describes the external structure and behavior of the solution.
+0.833: (The Solution element of a pattern; describes; the external structure and behavior of the solution)
+
+ the Rationale provides insight into its internal workings.
+0.808: (the Rationale; provides insight into; its internal workings)
+0.797: (the Rationale; provides; insight)
+
+ Related Patterns.
+No extractions found.
+
+ The relationships between this pattern and others.
+No extractions found.
+
+ These may be predecessor patterns, whose resulting contexts correspond to the initial context of this one  or successor patterns, whose initial contexts correspond to the resulting context of this one  or alternative patterns, which describe a different solution to the same problem, but under different forces  or co_dependent patterns, which may   must be applied along with this pattern.
+0.69: (this one or alternative patterns; describe a different solution to; the same problem)
+0.568: (the initial context of this one or successor patterns; be whose initial contexts correspond to; the resulting context of this one or alternative patterns)
+
+ Known Uses.
+No extractions found.
+
+ Known applications of the pattern within existing systems, verifying that the pattern does indeed describe a proven solution to a recurring problem.
+0.816: (a proven solution; does indeed describe to; a recurring problem)
+0.799: (the pattern; does indeed describe a proven solution to; a recurring problem)
+0.758: (the pattern; does indeed describe; a proven solution)
+
+ Known Uses can also serve as Examples.
+0.875: (Uses; can also serve as; Examples)
+
+.
+No extractions found.
+
+This chapter describes and discusses high level patterns and principles commonly used for applications today.
+0.853: (This chapter; discusses; high level patterns and principles commonly used for applications today)
+0.778: (high level patterns and principles; be commonly used in; today)
+0.752: (high level patterns and principles; be commonly used for; applications)
+
+ These are often referred to as the architectural styles, and include patterns such as client server, layered architecture, component_based architecture, message bus architecture, and service_oriented architecture .
+No extractions found.
+
+ For each style, you will find an overview, key principles, major benefits, and information that will help you choose the appropriate architectural styles for your application.
+0.853: (you; will find; an overview , key principles , major benefits , and information that will help you choose the appropriate architectural styles for your application)
+0.846: (you; choose; the appropriate architectural styles)
+0.581: (you; will find key principles for; each style)
+0.581: (you; will find major benefits for; each style)
+0.57: (an overview , key principles , major benefits , and information that will help you choose the appropriate architectural styles for your application; will be find for; each style)
+0.411: (you; will find information for; each style)
+0.406: (you; will find an overview , key principles , major benefits , and information that will help you choose the appropriate architectural styles for your application for; each style)
+0.29: (appropriate; be architectural styles for; your application)
+0.29: (architectural; be styles for; your application)
+
+ It is important to understand that the styles describe different aspects of applications.
+0.729: (the styles; describe; different aspects of applications)
+0.646: (It; is; important)
+
+ For example, some architectural styles describe deployment patterns, some describe structure and design issues, and others describe communication factors.
+0.756: (others; describe; communication factors)
+0.711: (some architectural styles; describe; deployment patterns)
+0.546: (others; describe; structure and design issues)[enabler=example , some architectural styles describe deployment patterns]
+0.269: (some architectural styles; describe deployment patterns for; example)
+
+ Therefore, a typical application will usually use a combination of more than one of the styles described in this chapter.
+0.833: (a typical application; Therefore will usually use a combination of; than one of the styles)
+0.818: (a combination; Therefore will be usually use of; than one of the styles)
+0.756: (a typical application; Therefore will usually use; a combination)
+0.705: (the styles; be described in; this chapter)
+

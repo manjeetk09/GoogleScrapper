@@ -2,119 +2,1111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2dfaf8d-a7ae-4776-9a48-eeee4d48dff8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/Category/.~lock.final_intersection1.csv#" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/Category/catInput.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/Category/catOutput.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/Category/category_intersection.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/Category/category_plural.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/Category/category_suffix_prefix.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/Category/final_intersection.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/Category/new_triples.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/crawler/crawler0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/crawler/crawler1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/crawler/crawler2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/crawlerq/crawlerq0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/crawlerq/crawlerq1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/crawlerq/crawlerq2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/duplicates.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/duplicatesRemoved.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/entity_rake/entity_rake0.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/entity_rake/entity_rake1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/entity_rake/entity_rake2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/final.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/final_normalize.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/li/li0.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/li/li1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/li/li2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/mappedInTKB.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/mergeCatNonCat.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/notMappedInTKB.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/para/para0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/para/para1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/para/para2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMapped.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMappedNotWiki.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMappedPath.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMappedPathRelationMin.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMappedUpdated.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMappedWiki.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/processedMergedWiki.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/processedUnmapped.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/processedUnmappedNotWiki.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/processedUnmappedWiki.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/removedListing.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/result/result0.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/result/result1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/result/result2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/result_similarity_ollie/result_similarity_ollie2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/teknowbase.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/templates.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/timeDate/timeDate0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/timeDate/timeDate1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/timeDate/timeDate2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/triples_ollie/triples_ollie0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/triples_ollie/triples_ollie1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/triples_ollie/triples_ollie2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/urls/urls0.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/urls/urls1.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm for hash function/urls/urls2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/.~lock.final_normalize.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/crawler/crawler1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/crawler/crawler2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/crawler/crawler3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/crawler/crawler4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/crawlerq/crawlerq1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/crawlerq/crawlerq2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/crawlerq/crawlerq3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/crawlerq/crawlerq4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/csv_triples_ollie/csv_triples_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/csv_triples_ollie/csv_triples_ollie4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/entity_rake/entity_rake1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/entity_rake/entity_rake2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/entity_rake/entity_rake3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/entity_rake/entity_rake4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/li/li1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/li/li2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/li/li3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/li/li4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/para/para1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/para/para2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/para/para3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/para/para4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/result/result1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/result/result2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/result/result3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/result/result4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/result_similarity_ollie/result_similarity_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/result_similarity_ollie/result_similarity_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/result_similarity_ollie/result_similarity_ollie4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/timeDate/timeDate4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/triples_ollie/triples_ollie1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/triples_ollie/triples_ollie2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/triples_ollie/triples_ollie3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/triples_ollie/triples_ollie4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/urls/urls1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/urls/urls2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/urls/urls3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms for supervised learning/urls/urls4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/algorithms in mlpack/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/crawler/crawler1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/crawler/crawler2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/crawlerq/crawlerq1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/crawlerq/crawlerq2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/entity_rake/entity_rake1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/entity_rake/entity_rake2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/li/li1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/li/li2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/para/para1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/para/para2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/result/result1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/result/result2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/result_similarity_ollie/result_similarity_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/timeDate/timeDate1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/timeDate/timeDate2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/triples_ollie/triples_ollie1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/triples_ollie/triples_ollie2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/urls/urls1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of architectural pattern/urls/urls2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawler/crawler8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/crawlerq/crawlerq8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/csv_triples_ollie/csv_triples_ollie8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/entity_rake/entity_rake8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/li/li1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/li/li2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/li/li3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/li/li4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/li/li5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/li/li6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/li/li7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/li/li8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/para/para1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/para/para2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/para/para3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/para/para4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/para/para5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/para/para6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/para/para7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/para/para8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result/result1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result/result2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result/result3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result/result4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result/result5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result/result6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result/result7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result/result8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result_similarity_ollie/result_similarity_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result_similarity_ollie/result_similarity_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result_similarity_ollie/result_similarity_ollie4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result_similarity_ollie/result_similarity_ollie5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result_similarity_ollie/result_similarity_ollie6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result_similarity_ollie/result_similarity_ollie7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/result_similarity_ollie/result_similarity_ollie8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/timeDate/timeDate8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/triples_ollie/triples_ollie8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/urls/urls1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/urls/urls2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/urls/urls3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/urls/urls4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/urls/urls5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/urls/urls6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/urls/urls7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of database model/urls/urls8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/crawler/crawler1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/crawlerq/crawlerq1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/entity_rake/entity_rake1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/li/li1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/para/para1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/result/result1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/timeDate/timeDate1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/triples_ollie/triples_ollie1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of domain specific language/urls/urls1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/crawler/crawler1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/crawler/crawler2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/crawler/crawler3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/crawlerq/crawlerq1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/crawlerq/crawlerq2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/crawlerq/crawlerq3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/csv_triples_ollie/csv_triples_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/entity_rake/entity_rake1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/entity_rake/entity_rake2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/entity_rake/entity_rake3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/li/li1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/li/li2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/li/li3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/para/para1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/para/para2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/para/para3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/result/result1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/result/result2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/result/result3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/result_similarity_ollie/result_similarity_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/result_similarity_ollie/result_similarity_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/timeDate/timeDate1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/timeDate/timeDate2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/timeDate/timeDate3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/triples_ollie/triples_ollie1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/triples_ollie/triples_ollie2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/triples_ollie/triples_ollie3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/urls/urls1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/urls/urls2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of message passing/urls/urls3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of reflection computer programming/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/crawler/crawler1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/crawler/crawler2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/crawlerq/crawlerq1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/crawlerq/crawlerq2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/entity_rake/entity_rake1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/entity_rake/entity_rake2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/li/li1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/li/li2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/para/para1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/para/para2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/result/result1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/result/result2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/result_similarity_ollie/result_similarity_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/timeDate/timeDate1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/timeDate/timeDate2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/triples_ollie/triples_ollie1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/triples_ollie/triples_ollie2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/urls/urls1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of symmetric multiprocessing/urls/urls2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples of turing completeness/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/crawler/crawler1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/crawler/crawler2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/crawlerq/crawlerq1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/crawlerq/crawlerq2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/entity_rake/entity_rake1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/entity_rake/entity_rake2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/li/li1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/li/li2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/para/para1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/para/para2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/result/result1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/result/result2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/result_similarity_ollie/result_similarity_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/timeDate/timeDate1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/timeDate/timeDate2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/triples_ollie/triples_ollie1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/triples_ollie/triples_ollie2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/urls/urls1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of algebraic function/urls/urls2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawler/crawler6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/crawlerq/crawlerq6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/csv_triples_ollie/csv_triples_ollie6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/entity_rake/entity_rake6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/li/li1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/li/li2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/li/li3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/li/li4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/li/li5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/li/li6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/para/para1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/para/para2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/para/para3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/para/para4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/para/para5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/para/para6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result/result1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result/result2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result/result3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result/result4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result/result5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result/result6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result_similarity_ollie/result_similarity_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result_similarity_ollie/result_similarity_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result_similarity_ollie/result_similarity_ollie4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result_similarity_ollie/result_similarity_ollie5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/result_similarity_ollie/result_similarity_ollie6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/timeDate/timeDate6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/triples_ollie/triples_ollie6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/urls/urls1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/urls/urls2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/urls/urls3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/urls/urls4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/urls/urls5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of debugger/urls/urls6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of erasure code/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/crawler/crawler1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/crawlerq/crawlerq1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/entity_rake/entity_rake1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/li/li1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/para/para1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/result/result1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/timeDate/timeDate1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/triples_ollie/triples_ollie1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of terminal emulator/urls/urls1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/Category/.~lock.final_intersection1.csv#" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/Category/catInput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/Category/catOutput.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/Category/category_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/Category/category_plural.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/Category/category_suffix_prefix.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/Category/final_intersection.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/Category/new_triples.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawler/crawler0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawler/crawler1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawler/crawler2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawler/crawler3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawler/crawler4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawler/crawler5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawler/crawler6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawler/crawler7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawler/crawler8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawler/crawler9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawlerq/crawlerq0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawlerq/crawlerq1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawlerq/crawlerq2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawlerq/crawlerq3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawlerq/crawlerq4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawlerq/crawlerq5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawlerq/crawlerq6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawlerq/crawlerq7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawlerq/crawlerq8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/crawlerq/crawlerq9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/csv_triples_ollie/csv_triples_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/csv_triples_ollie/csv_triples_ollie4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/csv_triples_ollie/csv_triples_ollie5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/csv_triples_ollie/csv_triples_ollie6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/csv_triples_ollie/csv_triples_ollie7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/csv_triples_ollie/csv_triples_ollie8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/csv_triples_ollie/csv_triples_ollie9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/duplicates.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/duplicatesRemoved.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/entity_rake/entity_rake0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/entity_rake/entity_rake1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/entity_rake/entity_rake2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/entity_rake/entity_rake3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/entity_rake/entity_rake4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/entity_rake/entity_rake5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/entity_rake/entity_rake6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/entity_rake/entity_rake7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/entity_rake/entity_rake8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/entity_rake/entity_rake9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/final.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/final_normalize.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/li/li0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/li/li1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/li/li2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/li/li3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/li/li4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/li/li5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/li/li6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/li/li7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/li/li8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/li/li9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/mappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/mergeCatNonCat.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/notMappedInTKB.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/para/para0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/para/para1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/para/para2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/para/para3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/para/para4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/para/para5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/para/para6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/para/para7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/para/para8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/para/para9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/processedMapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/processedMappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/processedMappedPath.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/processedMappedPathRelationMin.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/processedMappedUpdated.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/processedMappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/processedMergedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/processedUnmapped.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/processedUnmappedNotWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/processedUnmappedWiki.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/removedListing.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result/result0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result/result1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result/result2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result/result3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result/result4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result/result5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result/result6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result/result7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result/result8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result/result9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result_similarity_ollie/result_similarity_ollie0.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result_similarity_ollie/result_similarity_ollie1.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result_similarity_ollie/result_similarity_ollie2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result_similarity_ollie/result_similarity_ollie3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result_similarity_ollie/result_similarity_ollie4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result_similarity_ollie/result_similarity_ollie5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result_similarity_ollie/result_similarity_ollie6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result_similarity_ollie/result_similarity_ollie7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result_similarity_ollie/result_similarity_ollie8.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/result_similarity_ollie/result_similarity_ollie9.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/teknowbase.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/templates.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/timeDate/timeDate0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/timeDate/timeDate1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/timeDate/timeDate2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/timeDate/timeDate3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/timeDate/timeDate4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/timeDate/timeDate5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/timeDate/timeDate6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/timeDate/timeDate7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/timeDate/timeDate8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/timeDate/timeDate9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/triples_ollie/triples_ollie0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/triples_ollie/triples_ollie1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/triples_ollie/triples_ollie2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/triples_ollie/triples_ollie3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/triples_ollie/triples_ollie4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/triples_ollie/triples_ollie5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/triples_ollie/triples_ollie6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/triples_ollie/triples_ollie7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/triples_ollie/triples_ollie8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/triples_ollie/triples_ollie9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/urls/urls0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/urls/urls1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/urls/urls2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/urls/urls3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/urls/urls4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/urls/urls5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/urls/urls6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/urls/urls7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/urls/urls8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/types of wireless sensor network/urls/urls9.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/catOutput.csv" afterPath="$PROJECT_DIR$/Category/catOutput.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/category_suffix_prefix.csv" afterPath="$PROJECT_DIR$/Category/category_suffix_prefix.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/Category/category_plural.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/Category/category_plural.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/duplicates.dat" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/duplicates.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie10.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie10.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicates.dat" afterPath="$PROJECT_DIR$/duplicates.dat" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/Category.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/Category.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/CopyFIle.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/CopyFIle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/CombineOllieRake.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/CombineOllieRake.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/GetCategory.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/GetCategory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/test.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/test1.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/test1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/testCategory.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/testCategory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/GoogleSearchJava.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/MergeMappedUnmappedWiki.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/MergeMappedUnmappedWiki.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/GoogleScrapper/wikiSegregate.class" afterPath="$PROJECT_DIR$/out/production/GoogleScrapper/wikiSegregate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result10.csv" afterPath="$PROJECT_DIR$/result10.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/catInput.csv" afterPath="$PROJECT_DIR$/Category/catInput.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/catOutput.csv" afterPath="$PROJECT_DIR$/Category/catOutput.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/category_intersection.csv" afterPath="$PROJECT_DIR$/Category/category_intersection.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/category_suffix_prefix.csv" afterPath="$PROJECT_DIR$/Category/category_suffix_prefix.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Category/final_intersection.csv" afterPath="$PROJECT_DIR$/Category/final_intersection.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/Category/catInput.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/Category/catInput.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/Category/catOutput.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/Category/catOutput.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/Category/category_intersection.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/Category/category_intersection.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/Category/category_suffix_prefix.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/Category/category_suffix_prefix.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/Category/final_intersection.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/Category/final_intersection.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/crawler/crawler0.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/crawler/crawler0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/crawler/crawler1.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/crawler/crawler1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/crawler/crawler2.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/crawler/crawler2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/crawlerq/crawlerq0.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/crawlerq/crawlerq0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/crawlerq/crawlerq1.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/crawlerq/crawlerq1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/crawlerq/crawlerq2.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/crawlerq/crawlerq2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/csv_triples_ollie/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/csv_triples_ollie/csv_triples_ollie0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/csv_triples_ollie/csv_triples_ollie1.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/csv_triples_ollie/csv_triples_ollie1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/csv_triples_ollie/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/csv_triples_ollie/csv_triples_ollie2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/duplicatesRemoved.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/entity_rake/entity_rake0.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/entity_rake/entity_rake0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/entity_rake/entity_rake1.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/entity_rake/entity_rake1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/entity_rake/entity_rake2.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/entity_rake/entity_rake2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/final.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/final.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/final_normalize.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/final_normalize.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/li/li1.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/li/li1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/li/li2.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/li/li2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/mappedInTKB.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/mappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/mergeCatNonCat.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/notMappedInTKB.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/para/para0.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/para/para0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/para/para1.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/para/para1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/para/para2.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/para/para2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/processedMapped.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/processedMapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/processedMappedPath.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/processedMappedPath.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/processedMappedPathRelationMin.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/processedMappedUpdated.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/processedMappedUpdated.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/processedMappedWiki.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/processedMappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/processedMergedWiki.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/processedMergedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/processedUnmapped.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/processedUnmapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/processedUnmappedNotWiki.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/processedUnmappedNotWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/processedUnmappedWiki.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/processedUnmappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/removedListing.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/removedListing.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/result/result0.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/result/result0.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/result/result1.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/result/result1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/result/result2.csv" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/result/result2.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/templates.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/templates.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/timeDate/timeDate0.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/timeDate/timeDate0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/timeDate/timeDate1.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/timeDate/timeDate1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/timeDate/timeDate2.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/timeDate/timeDate2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/triples_ollie/triples_ollie0.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/triples_ollie/triples_ollie0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/triples_ollie/triples_ollie1.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/triples_ollie/triples_ollie1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/triples_ollie/triples_ollie2.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/triples_ollie/triples_ollie2.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/urls/urls0.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/urls/urls0.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/urls/urls1.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/urls/urls1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm_for_hash_function/urls/urls2.txt" afterPath="$PROJECT_DIR$/algorithm_for_hash_function/urls/urls2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler0.txt" afterPath="$PROJECT_DIR$/crawler0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler1.txt" afterPath="$PROJECT_DIR$/crawler1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler10.txt" afterPath="$PROJECT_DIR$/crawler10.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler2.txt" afterPath="$PROJECT_DIR$/crawler2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler3.txt" afterPath="$PROJECT_DIR$/crawler3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler4.txt" afterPath="$PROJECT_DIR$/crawler4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler5.txt" afterPath="$PROJECT_DIR$/crawler5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler6.txt" afterPath="$PROJECT_DIR$/crawler6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler7.txt" afterPath="$PROJECT_DIR$/crawler7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler8.txt" afterPath="$PROJECT_DIR$/crawler8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler9.txt" afterPath="$PROJECT_DIR$/crawler9.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq0.txt" afterPath="$PROJECT_DIR$/crawlerq0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq1.txt" afterPath="$PROJECT_DIR$/crawlerq1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq10.txt" afterPath="$PROJECT_DIR$/crawlerq10.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq2.txt" afterPath="$PROJECT_DIR$/crawlerq2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq3.txt" afterPath="$PROJECT_DIR$/crawlerq3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq4.txt" afterPath="$PROJECT_DIR$/crawlerq4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq5.txt" afterPath="$PROJECT_DIR$/crawlerq5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq6.txt" afterPath="$PROJECT_DIR$/crawlerq6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq7.txt" afterPath="$PROJECT_DIR$/crawlerq7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq8.txt" afterPath="$PROJECT_DIR$/crawlerq8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawlerq9.txt" afterPath="$PROJECT_DIR$/crawlerq9.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie0.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie1.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie1.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie2.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie3.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie3.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie4.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie5.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie6.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie7.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie8.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie8.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv_triples_ollie9.csv" afterPath="$PROJECT_DIR$/csv_triples_ollie9.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/duplicatesRemoved.csv" afterPath="$PROJECT_DIR$/duplicatesRemoved.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity.txt" afterPath="$PROJECT_DIR$/entity.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake0.csv" afterPath="$PROJECT_DIR$/entity_rake0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake1.csv" afterPath="$PROJECT_DIR$/entity_rake1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake10.csv" afterPath="$PROJECT_DIR$/entity_rake10.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake2.csv" afterPath="$PROJECT_DIR$/entity_rake2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake3.csv" afterPath="$PROJECT_DIR$/entity_rake3.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake4.csv" afterPath="$PROJECT_DIR$/entity_rake4.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake5.csv" afterPath="$PROJECT_DIR$/entity_rake5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake6.csv" afterPath="$PROJECT_DIR$/entity_rake6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake7.csv" afterPath="$PROJECT_DIR$/entity_rake7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake8.csv" afterPath="$PROJECT_DIR$/entity_rake8.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/entity_rake9.csv" afterPath="$PROJECT_DIR$/entity_rake9.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final.csv" afterPath="$PROJECT_DIR$/final.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/final_normalize.csv" afterPath="$PROJECT_DIR$/final_normalize.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li0.csv" afterPath="$PROJECT_DIR$/li0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li1.csv" afterPath="$PROJECT_DIR$/li1.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li10.csv" afterPath="$PROJECT_DIR$/li10.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li2.csv" afterPath="$PROJECT_DIR$/li2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li3.csv" afterPath="$PROJECT_DIR$/li3.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li4.csv" afterPath="$PROJECT_DIR$/li4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mapWikiNew.py" afterPath="$PROJECT_DIR$/mapWikiNew.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li5.csv" afterPath="$PROJECT_DIR$/li5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li6.csv" afterPath="$PROJECT_DIR$/li6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li7.csv" afterPath="$PROJECT_DIR$/li7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li8.csv" afterPath="$PROJECT_DIR$/li8.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/li9.csv" afterPath="$PROJECT_DIR$/li9.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mappedInTKB.csv" afterPath="$PROJECT_DIR$/mappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mergeCatNonCat.csv" afterPath="$PROJECT_DIR$/mergeCatNonCat.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notMappedInTKB.csv" afterPath="$PROJECT_DIR$/notMappedInTKB.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para0.txt" afterPath="$PROJECT_DIR$/para0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para1.txt" afterPath="$PROJECT_DIR$/para1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para10.txt" afterPath="$PROJECT_DIR$/para10.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para2.txt" afterPath="$PROJECT_DIR$/para2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para3.txt" afterPath="$PROJECT_DIR$/para3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para4.txt" afterPath="$PROJECT_DIR$/para4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para5.txt" afterPath="$PROJECT_DIR$/para5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para6.txt" afterPath="$PROJECT_DIR$/para6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para7.txt" afterPath="$PROJECT_DIR$/para7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para8.txt" afterPath="$PROJECT_DIR$/para8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/para9.txt" afterPath="$PROJECT_DIR$/para9.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMapped.csv" afterPath="$PROJECT_DIR$/processedMapped.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMappedPath.csv" afterPath="$PROJECT_DIR$/processedMappedPath.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMappedPathRelationMin.csv" afterPath="$PROJECT_DIR$/processedMappedPathRelationMin.csv" />
@@ -122,19 +1114,24 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMappedWiki.csv" afterPath="$PROJECT_DIR$/processedMappedWiki.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedMergedWiki.csv" afterPath="$PROJECT_DIR$/processedMergedWiki.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedUnmapped.csv" afterPath="$PROJECT_DIR$/processedUnmapped.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedUnmappedNotWiki.csv" afterPath="$PROJECT_DIR$/processedUnmappedNotWiki.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/processedUnmappedWiki.csv" afterPath="$PROJECT_DIR$/processedUnmappedWiki.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queryInput.csv" afterPath="$PROJECT_DIR$/queryInput.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queryList.txt" afterPath="$PROJECT_DIR$/queryList.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/removedListing.csv" afterPath="$PROJECT_DIR$/removedListing.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result0.csv" afterPath="$PROJECT_DIR$/result0.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result1.csv" afterPath="$PROJECT_DIR$/result1.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result2.csv" afterPath="$PROJECT_DIR$/result2.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result3.csv" afterPath="$PROJECT_DIR$/result3.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result4.csv" afterPath="$PROJECT_DIR$/result4.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CopyFIle.java" afterPath="$PROJECT_DIR$/src/CopyFIle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result5.csv" afterPath="$PROJECT_DIR$/result5.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result6.csv" afterPath="$PROJECT_DIR$/result6.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result7.csv" afterPath="$PROJECT_DIR$/result7.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result8.csv" afterPath="$PROJECT_DIR$/result8.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/result9.csv" afterPath="$PROJECT_DIR$/result9.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CombineOllieRake.java" afterPath="$PROJECT_DIR$/src/CombineOllieRake.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GetCategory.java" afterPath="$PROJECT_DIR$/src/GetCategory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/MergeMappedUnmappedWiki.java" afterPath="$PROJECT_DIR$/src/MergeMappedUnmappedWiki.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/temp.java" afterPath="$PROJECT_DIR$/src/temp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test.java" afterPath="$PROJECT_DIR$/src/test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test1.java" afterPath="$PROJECT_DIR$/src/test1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/wikiSegregate.java" afterPath="$PROJECT_DIR$/src/wikiSegregate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GoogleSearchJava.java" afterPath="$PROJECT_DIR$/src/GoogleSearchJava.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.txt" afterPath="$PROJECT_DIR$/temp.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates.txt" afterPath="$PROJECT_DIR$/templates.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate0.txt" afterPath="$PROJECT_DIR$/timeDate0.txt" />
@@ -143,20 +1140,33 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate2.txt" afterPath="$PROJECT_DIR$/timeDate2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate3.txt" afterPath="$PROJECT_DIR$/timeDate3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate4.txt" afterPath="$PROJECT_DIR$/timeDate4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate5.txt" afterPath="$PROJECT_DIR$/timeDate5.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate6.txt" afterPath="$PROJECT_DIR$/timeDate6.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate7.txt" afterPath="$PROJECT_DIR$/timeDate7.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate8.txt" afterPath="$PROJECT_DIR$/timeDate8.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/timeDate9.txt" afterPath="$PROJECT_DIR$/timeDate9.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie0.txt" afterPath="$PROJECT_DIR$/triples_ollie0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie1.txt" afterPath="$PROJECT_DIR$/triples_ollie1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie10.txt" afterPath="$PROJECT_DIR$/triples_ollie10.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie2.txt" afterPath="$PROJECT_DIR$/triples_ollie2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie3.txt" afterPath="$PROJECT_DIR$/triples_ollie3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie4.txt" afterPath="$PROJECT_DIR$/triples_ollie4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie5.txt" afterPath="$PROJECT_DIR$/triples_ollie5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie6.txt" afterPath="$PROJECT_DIR$/triples_ollie6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie7.txt" afterPath="$PROJECT_DIR$/triples_ollie7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie8.txt" afterPath="$PROJECT_DIR$/triples_ollie8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/triples_ollie9.txt" afterPath="$PROJECT_DIR$/triples_ollie9.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls0.txt" afterPath="$PROJECT_DIR$/urls0.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls1.txt" afterPath="$PROJECT_DIR$/urls1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls10.txt" afterPath="$PROJECT_DIR$/urls10.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls2.txt" afterPath="$PROJECT_DIR$/urls2.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls3.txt" afterPath="$PROJECT_DIR$/urls3.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls4.txt" afterPath="$PROJECT_DIR$/urls4.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls5.txt" afterPath="$PROJECT_DIR$/urls5.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls6.txt" afterPath="$PROJECT_DIR$/urls6.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls7.txt" afterPath="$PROJECT_DIR$/urls7.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls8.txt" afterPath="$PROJECT_DIR$/urls8.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/urls9.txt" afterPath="$PROJECT_DIR$/urls9.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -175,43 +1185,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="temp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/temp.java">
+      <file leaf-file-name="test_map.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test_map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="250" column="53" lean-forward="false" selection-start-line="250" selection-start-column="53" selection-end-line="250" selection-end-column="53" />
-              <folding>
-                <element signature="e#3179#3187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="891">
+              <caret line="464" column="17" lean-forward="false" selection-start-line="464" selection-start-column="17" selection-end-line="464" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CopyFIle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CopyFIle.java">
+      <file leaf-file-name="queryList.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queryList.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="48" column="48" lean-forward="false" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testCategory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/testCategory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+            <state relative-caret-position="500">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="30" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -220,65 +1208,86 @@
       <file leaf-file-name="GetCategory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GetCategory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-559">
-              <caret line="381" column="40" lean-forward="false" selection-start-line="381" selection-start-column="40" selection-end-line="381" selection-end-column="40" />
+            <state relative-caret-position="147">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding>
-                <element signature="e#16888#16896#0" expanded="true" />
-                <element signature="e#23043#23044#0" expanded="true" />
-                <element signature="e#23070#23071#0" expanded="true" />
+                <element signature="e#16973#16981#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeMappedUnmappedWiki.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MergeMappedUnmappedWiki.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="32" column="68" lean-forward="false" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wikiSegregate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/wikiSegregate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="199" column="0" lean-forward="false" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mapWikiNew.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mapWikiNew.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mapWikiCat.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mapWikiCat.py">
+      <file leaf-file-name="queryInput.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/queryInput.csv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="temp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/temp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3591">
+              <caret line="250" column="53" lean-forward="false" selection-start-line="250" selection-start-column="53" selection-end-line="250" selection-end-column="53" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#3179#3187#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoogleSearchJava.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4220">
+              <caret line="223" column="9" lean-forward="false" selection-start-line="223" selection-start-column="9" selection-end-line="223" selection-end-column="9" />
+              <folding>
+                <element signature="e#14399#14408#0" expanded="true" />
+                <marker date="1498599452439" expanded="false" signature="2546:2554" ph="&lt;~&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unmapped.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Unmapped.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4040">
+              <caret line="253" column="25" lean-forward="false" selection-start-line="253" selection-start-column="25" selection-end-line="253" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombineOllieRake.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CombineOllieRake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1248">
+              <caret line="86" column="45" lean-forward="false" selection-start-line="86" selection-start-column="45" selection-end-line="86" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TripleRake.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TripleRake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-772">
+              <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TriplePOS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TriplePOS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -294,13 +1303,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Has</find>
-      <find>Hash</find>
-      <find>HashS</find>
-      <find>HashSe</find>
-      <find>HashSet</find>
-      <find>input_phrase</find>
-      <find>head_phrase</find>
       <find>num_head</find>
       <find>heads</find>
       <find>head_phrase_list</find>
@@ -311,7 +1313,6 @@
       <find>remove</find>
       <find>get_categ</find>
       <find>searc</find>
-      <find>catgoryScore</find>
       <find>head_cat</find>
       <find>bw1</find>
       <find>head_entity</find>
@@ -324,6 +1325,14 @@
       <find>getName()</find>
       <find>head_wiki</find>
       <find>replaceAll</find>
+      <find>IF</find>
+      <find>I</find>
+      <find>E</find>
+      <find>ELSE</find>
+      <find>sendRequest</find>
+      <find>getCategories</find>
+      <find>getCats</find>
+      <find>catgoryScore</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src</dir>
@@ -352,7 +1361,6 @@
         <option value="$PROJECT_DIR$/src/sample.java" />
         <option value="/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/net/NetworkClient.class" />
         <option value="$PROJECT_DIR$/src/GoogleSearch.java" />
-        <option value="$PROJECT_DIR$/src/CombineOllieRake.java" />
         <option value="$PROJECT_DIR$/src/parseOllie.java" />
         <option value="$PROJECT_DIR$/trie_sim.py" />
         <option value="$PROJECT_DIR$/src/hash.java" />
@@ -374,19 +1382,22 @@
         <option value="$PROJECT_DIR$/src/mergeMappedUnmappedWiki.java" />
         <option value="$PROJECT_DIR$/src/MergeCatNoncat.java" />
         <option value="$PROJECT_DIR$/src/PathMin.java" />
-        <option value="$PROJECT_DIR$/src/GoogleSearchJava.java" />
         <option value="$PROJECT_DIR$/src/QueryFeed.java" />
         <option value="$PROJECT_DIR$/src/relationSim.java" />
         <option value="$PROJECT_DIR$/src/Mapped.java" />
         <option value="$PROJECT_DIR$/src/CopyFIle.java" />
         <option value="$PROJECT_DIR$/src/temp.java" />
-        <option value="$PROJECT_DIR$/src/GetCategory.java" />
         <option value="$PROJECT_DIR$/src/testCategory.java" />
         <option value="$PROJECT_DIR$/mapWikiNew.py" />
-        <option value="$PROJECT_DIR$/src/wikiSegregate.java" />
         <option value="$PROJECT_DIR$/src/test.java" />
-        <option value="$PROJECT_DIR$/src/MergeMappedUnmappedWiki.java" />
         <option value="$PROJECT_DIR$/src/test1.java" />
+        <option value="$PROJECT_DIR$/src/MergeMappedUnmappedWiki.java" />
+        <option value="$PROJECT_DIR$/src/wikiSegregate.java" />
+        <option value="$PROJECT_DIR$/src/CombineOllieRake.java" />
+        <option value="$PROJECT_DIR$/queryList.txt" />
+        <option value="$PROJECT_DIR$/src/GoogleSearchJava.java" />
+        <option value="$PROJECT_DIR$/src/GetCategory.java" />
+        <option value="$PROJECT_DIR$/queryInput.csv" />
       </list>
     </option>
   </component>
@@ -614,7 +1625,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test1">
+  <component name="RunManager" selected="Application.QueryFeed">
     <configuration default="false" name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="temp" />
@@ -1202,9 +2213,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.test1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.test" />
-        <item index="2" class="java.lang.String" itemvalue="Application.QueryFeed" />
+        <item index="0" class="java.lang.String" itemvalue="Application.QueryFeed" />
+        <item index="1" class="java.lang.String" itemvalue="Application.test1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.test" />
         <item index="3" class="java.lang.String" itemvalue="Application.temp" />
         <item index="4" class="java.lang.String" itemvalue="Application.CopyFIle" />
       </list>
@@ -1250,10 +2261,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="460232000" />
+    <option name="totallyTimeSpent" value="479819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1357,20 +2369,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="1584" column="0" lean-forward="false" selection-start-line="1584" selection-start-column="0" selection-end-line="1584" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wikipedia.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test1.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1506,44 +2504,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/parseOllie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="60" column="44" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/relationSim.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="382">
           <caret line="71" column="66" lean-forward="false" selection-start-line="71" selection-start-column="66" selection-end-line="71" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/QueryFeed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" column="71" lean-forward="false" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TriplePOS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parsePOS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-698">
-          <caret line="56" column="50" lean-forward="false" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
           <folding />
         </state>
       </provider>
@@ -1590,34 +2554,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/similarity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="143" column="90" lean-forward="false" selection-start-line="143" selection-start-column="90" selection-end-line="143" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SimilarityOllieToPos.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="171" column="13" lean-forward="false" selection-start-line="171" selection-start-column="13" selection-end-line="171" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CombineOllieRake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TripleRake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2979">
-          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -1630,37 +2570,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Unmapped.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1332">
-          <caret line="253" column="25" lean-forward="false" selection-start-line="253" selection-start-column="25" selection-end-line="253" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test_map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="464" column="17" lean-forward="true" selection-start-line="464" selection-start-column="17" selection-end-line="464" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trie_sim.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-718">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="385" column="82" lean-forward="true" selection-start-line="385" selection-start-column="82" selection-end-line="385" selection-end-column="82" />
-          <folding>
-            <marker date="1498425853212" expanded="false" signature="2546:2554" ph="&lt;~&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1685,7 +2599,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1698,32 +2612,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/temp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="250" column="53" lean-forward="false" selection-start-line="250" selection-start-column="53" selection-end-line="250" selection-end-column="53" />
-          <folding>
-            <element signature="e#3179#3187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GetCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-559">
-          <caret line="381" column="40" lean-forward="false" selection-start-line="381" selection-start-column="40" selection-end-line="381" selection-end-column="40" />
-          <folding>
-            <element signature="e#16888#16896#0" expanded="true" />
-            <element signature="e#23043#23044#0" expanded="true" />
-            <element signature="e#23070#23071#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/testCategory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
-          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <caret line="39" column="9" lean-forward="false" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeMappedUnmappedWiki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -1736,18 +2644,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
+    <entry file="file://$PROJECT_DIR$/src/QueryFeed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="580">
+          <caret line="32" column="71" lean-forward="false" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="71" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/wikiSegregate.java">
+    <entry file="file://$PROJECT_DIR$/src/parseOllie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="199" column="0" lean-forward="false" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
+        <state relative-caret-position="1140">
+          <caret line="60" column="44" lean-forward="false" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/parsePOS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="56" column="50" lean-forward="false" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
           <folding />
         </state>
       </provider>
@@ -1755,15 +2671,110 @@
     <entry file="file://$PROJECT_DIR$/src/test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeMappedUnmappedWiki.java">
+    <entry file="file://$PROJECT_DIR$/src/similarity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="32" column="68" lean-forward="false" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
+        <state relative-caret-position="182">
+          <caret line="143" column="90" lean-forward="false" selection-start-line="143" selection-start-column="90" selection-end-line="143" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wikiSegregate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4952">
+          <caret line="17" column="23" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Unmapped.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4040">
+          <caret line="253" column="25" lean-forward="false" selection-start-line="253" selection-start-column="25" selection-end-line="253" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombineOllieRake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="86" column="45" lean-forward="false" selection-start-line="86" selection-start-column="45" selection-end-line="86" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TriplePOS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queryList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="30" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GoogleSearchJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4220">
+          <caret line="223" column="9" lean-forward="false" selection-start-line="223" selection-start-column="9" selection-end-line="223" selection-end-column="9" />
+          <folding>
+            <element signature="e#14399#14408#0" expanded="true" />
+            <marker date="1498599452439" expanded="false" signature="2546:2554" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3591">
+          <caret line="250" column="53" lean-forward="false" selection-start-line="250" selection-start-column="53" selection-end-line="250" selection-end-column="53" />
+          <folding>
+            <element signature="e#3179#3187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TripleRake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-772">
+          <caret line="43" column="26" lean-forward="false" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test_map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="464" column="17" lean-forward="false" selection-start-line="464" selection-start-column="17" selection-end-line="464" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#16973#16981#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queryInput.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
           <folding />
         </state>
       </provider>
